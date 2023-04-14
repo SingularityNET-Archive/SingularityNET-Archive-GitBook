@@ -31,3 +31,9 @@ Google Slides is a presentation program included as part of the free, web-based 
 {% embed url="https://www.google.com/slides/about/" %}
 
 Google Docs is used by the SingularityNET community to draft, share and collobrate on slide presentations (slide decks).
+
+## Google Workspace
+
+Google Workspace is a team colloboartion tool.
+
+{% embed url="https://workspace.google.com/" %}
