@@ -35,3 +35,4 @@
 
 * [Tools](tools/README.md)
   * [GitBook](tools/gitbook.md)
+  * [Medium](tools/medium.md)
