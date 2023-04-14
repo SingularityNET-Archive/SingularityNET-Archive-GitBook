@@ -30,3 +30,8 @@
   * [SingularityNET Main Telegram](https://t.me/singularitynet)
   * [SingularityNET Announcement Channel](https://t.me/snetann)
   * [SingularityNET Website](https://singularitynet.io/)
+
+***
+
+* [Tools](tools/README.md)
+  * [GitBook](tools/gitbook.md)
