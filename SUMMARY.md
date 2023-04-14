@@ -38,3 +38,4 @@
   * [GitBook](tools/gitbook.md)
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
+  * [Read.ai](tools/read.ai.md)
