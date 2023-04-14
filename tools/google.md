@@ -8,9 +8,9 @@ Google Docs is used by the SingularityNET community to draft, share and collobra
 
 ## Google Sheets
 
-Google Slides is a presentation program included as part of the free, web-based Google Docs Editors suite offered by Google.
+Google Sheets is a spreadsheet program included as part of the free, web-based Google Docs Editors suite offered by Google.
 
-Google Docs is used by the SingularityNET community to draft, share and collobrate on slide presentations (slide decks).Google Slides
+Google Docs is used by the SingularityNET community to draft, share and collobrate on spreadsheets.
 
 ## Google Slides
 
