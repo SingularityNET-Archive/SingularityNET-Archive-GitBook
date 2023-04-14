@@ -36,6 +36,7 @@
 * [Tools](tools/README.md)
   * [Google](tools/google.md)
   * [GitBook](tools/gitbook.md)
+  * [GitHub](tools/github.md)
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
   * [Read.ai](tools/read.ai.md)
