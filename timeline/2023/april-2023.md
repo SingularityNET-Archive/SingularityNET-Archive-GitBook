@@ -6,6 +6,34 @@ description: The SingularityNET Ambassador events of April 2023
 
 ## Tuesday, 18th April 2023
 
+### Process Guild
+
+**Overview**
+
+* When: **11.04.2023 - 19:00 UTC**
+* Where: zoom link [https://us02web.zoom.us/j/86269437025?pwd=eXpQM3NqMkxWL1hlVGhJb1hNbFlJZz09](https://us02web.zoom.us/j/86269437025?pwd=eXpQM3NqMkxWL1hlVGhJb1hNbFlJZz09)
+* Context: We Prioritize critical Ambassador Activities and cover process changes
+* Duration: \~60min
+* Parts of the Sessions may be recorded and uploaded in Ambassador YouTube
+
+**Suggested Workshop Agendas**
+
+* 5min - Overview
+*
+  * Discord channel for agenda gathering
+  * high priority tasks
+  * New Tasks and Projects
+* 10min - Current time investment through Swarm Label Filter
+*
+  * 5min - Is this information helping us?
+* 40min - Select topic(s) _(Try to split in breakout room if more than 9 people)_
+*
+  * In the case of breakout rooms, allow time to share results at the end
+  * Prepare Task Requirements
+  * What are the following Decision Items?
+  * What are the following Action Items?
+* 5min - Session Overview _(to be recorded)_
+
 ### Ambassador Townhall
 
 Summary
