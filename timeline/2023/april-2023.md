@@ -10,9 +10,13 @@ description: The SingularityNET Ambassador events of April 2023
 
 Summary
 
-Slides
+#### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1komYZbI-C-EOWss6VJszIaAIv4WO65KwMsvLnaWO7RE/edit#slide=id.g1296df77e28_0_24" %}
+
+#### Initiation Document
+
+{% embed url="https://singularitynet.io/wp-content/uploads/2023/04/SingComDao-Initiation-Document-170423.pdf" %}
 
 ### Process Guild
 
