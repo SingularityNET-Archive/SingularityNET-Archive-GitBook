@@ -66,7 +66,7 @@ Incubation discussed rewards for prior contributions to the Ambassador Program. 
 
 We discussed using Marketing Guild as an example from November - March. The spreadsheets included in the above slides highlight treasury disbursements up until present date. For Marketing, see:&#x20;
 
-[https://docs.google.com/spreadsheets/d/1CXx6kdah8z-NnLobKQakNj9OZePMAbCiFYd63vLRw2g/edit#gid=859284282](https://docs.google.com/spreadsheets/d/1CXx6kdah8z-NnLobKQakNj9OZePMAbCiFYd63vLRw2g/edit#gid=859284282)&#x20;
+{% embed url="https://docs.google.com/spreadsheets/d/1CXx6kdah8z-NnLobKQakNj9OZePMAbCiFYd63vLRw2g/edit#gid=859284282" %}
 
 We came to the conclusion to reward Fly you fools and crandano for 5 months of the Marketing Guild & Felix and Tevo for prior contributions for the Ambassador Program since April 2022. 1,875 AGIX / month / person (5months cran and fly; 12months felix and tevo) This is roughly 43.7% of the Ambassador monthly rewards currently moving forward per month. We recorded the conversation and please ask any questions. Strategy discussed reward budget allocations for the various areas of the Ambassador Program.&#x20;
 
