@@ -48,9 +48,17 @@ Summary
 
 ## Wednesday, 12th April 2023
 
+### Incubation Workshop
+
+Summary
+
+Slides
+
+{% embed url="https://docs.google.com/presentation/d/1CBQPFNtHGBroS93QsO0Gt6LD7z6CgLFh_tMdzxh6Unk/edit?usp=sharing" %}
+
 ## Tuesday, 11th April 2023
 
-### Ambassdor Townhall
+### Ambassador Townhall
 
 Summary
 
