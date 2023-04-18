@@ -6,7 +6,13 @@ description: The SingularityNET Ambassador events of April 2023
 
 ## Tuesday, 18th April 2023
 
-### Ambassador Townhal
+### Ambassador Townhall
+
+Summary
+
+### Process Guild
+
+Summary
 
 ## Friday 14th April 2023
 
