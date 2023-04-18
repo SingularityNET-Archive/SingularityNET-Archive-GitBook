@@ -8,11 +8,22 @@ description: The SingularityNET Ambassador events of April 2023
 
 ### Video Workshop
 
+Summary
+
 ### Writers Workshop
 
+Summary
+
 ### Marketing Guild
+
+Summary
 
 ## Thursday 13th April 2023
 
 ### DF Governance round bootstrap session
 
+Summary
+
+### AI Sandbox with Felix & Fly
+
+Summary
