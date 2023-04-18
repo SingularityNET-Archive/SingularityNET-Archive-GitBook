@@ -46,6 +46,12 @@ Summary
 
 ## Tuesday, 11th April 2023
 
+### Ambassdor Townhall
+
+Summary
+
+{% embed url="https://youtu.be/qSuJTl5loVE" %}
+
 ### Process Guild
 
 Summary
