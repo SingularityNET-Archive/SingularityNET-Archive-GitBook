@@ -60,9 +60,7 @@ Slides
 
 {% embed url="https://docs.google.com/presentation/d/1CBQPFNtHGBroS93QsO0Gt6LD7z6CgLFh_tMdzxh6Unk/edit?usp=sharing" %}
 
-Incubation discussed rewards for prior contributions to the Ambassador Program. See the slides here:&#x20;
-
-[https://docs.google.com/presentation/d/1CBQPFNtHGBroS93QsO0Gt6LD7z6CgLFh\_tMdzxh6Unk/edit?usp=sharin](https://docs.google.com/presentation/d/1CBQPFNtHGBroS93QsO0Gt6LD7z6CgLFh\_tMdzxh6Unk/edit?usp=sharing)&#x20;
+Incubation discussed rewards for prior contributions to the Ambassador Program. See the slides above.
 
 We discussed using Marketing Guild as an example from November - March. The spreadsheets included in the above slides highlight treasury disbursements up until present date. For Marketing, see:&#x20;
 
