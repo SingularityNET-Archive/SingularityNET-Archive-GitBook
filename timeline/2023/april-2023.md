@@ -12,6 +12,8 @@ description: The SingularityNET Ambassador events of April 2023
 
 {% embed url="https://docs.google.com/presentation/d/1AAMLDtElidgVvvqSe-MlWs8bih9tedGaV8Oiw0QU6Iw/edit?usp=sharing" %}
 
+{% embed url="https://docs.google.com/spreadsheets/d/1h6yTQGvkNhp-88a3wRCTxpKTpC24d4kIOWj1mpWrmxU/edit?usp=sharing" %}
+
 ## Tuesday, 18th April 2023
 
 ### Process Guild
