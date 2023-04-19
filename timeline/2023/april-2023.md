@@ -4,6 +4,14 @@ description: The SingularityNET Ambassador events of April 2023
 
 # April 2023
 
+## Wednesday, 19th 2023
+
+### Incubation Workshop
+
+#### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1AAMLDtElidgVvvqSe-MlWs8bih9tedGaV8Oiw0QU6Iw/edit?usp=sharing" %}
+
 ## Tuesday, 18th April 2023
 
 ### Process Guild
