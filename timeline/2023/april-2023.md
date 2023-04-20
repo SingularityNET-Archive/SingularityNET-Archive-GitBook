@@ -28,6 +28,10 @@ Should we have 2 Sections (Outside <=> Inside) for proposals in Governance Round
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 21-49-40.png" alt=""><figcaption></figcaption></figure>
 
+Should we Start the next round of governance without having crystal clear definitions?
+
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 21-53-23.png" alt=""><figcaption></figcaption></figure>
+
 ### Treasury Guild
 
 This week's Treasury Guild was facilitated by Tevo Saks and discussed documentation, budget categories and Read.ai transcripts.
