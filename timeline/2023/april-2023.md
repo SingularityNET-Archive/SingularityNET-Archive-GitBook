@@ -6,6 +6,10 @@ description: The SingularityNET Ambassador events of April 2023
 
 ## Thursday, 20th 2023
 
+### Deep Funding Town Hall
+
+This bi-weekly meeting is an initiative led by the SingularityNET Ambassador Program. We invite you to be part of our regular event where we share updates, presentations & conversations about topics which relate to Deep Funding and SingularityNET.
+
 ### Treasury Guild
 
 This week's Treasury Guild was facilitated by Tevo Saks and discussed documentation, budget categories and Read.ai transcripts.
