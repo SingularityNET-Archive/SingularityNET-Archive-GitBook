@@ -10,6 +10,8 @@ description: The SingularityNET Ambassador events of April 2023
 
 This week's Treasury Guild was facilitated by Tevo Saks and discussed documentation, budget categories and Read.ai transcripts.
 
+[Read.ai](https://www.read.ai/) provides AI-generated summaries, transcripts, playback, and highlights.
+
 ## Wednesday, 19th 2023
 
 ### Incubation Workshop
