@@ -54,7 +54,9 @@ This week's Treasury Guild was facilitated by Tevo Saks and discussed documentat
 
 ### Ambassador Townhall
 
-Summary
+#### Summary
+
+The weekly Ambassador Town hall is hosted by Peter. Town Hall meeting number 44 was held on April 18th, 2023. On the agenda was 1) Workgroups update, 2) Tasks, 3) Mentions and 4) Open topics.
 
 #### Slides
 
