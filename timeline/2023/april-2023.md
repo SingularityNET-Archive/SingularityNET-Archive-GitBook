@@ -14,6 +14,10 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 
 {% embed url="https://docs.google.com/presentation/d/1IpGIC6E67Y1uV7yhgA75cob_aztLIA1UM8L_sqE8hic/edit?usp=sharing" %}
 
+#### Context on reputation rewards
+
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 20-25-43.png" alt=""><figcaption></figcaption></figure>
+
 ### Treasury Guild
 
 This week's Treasury Guild was facilitated by Tevo Saks and discussed documentation, budget categories and Read.ai transcripts.
