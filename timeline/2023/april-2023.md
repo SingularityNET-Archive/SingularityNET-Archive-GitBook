@@ -10,6 +10,8 @@ description: The SingularityNET Ambassador events of April 2023
 
 This bi-weekly meeting is an initiative led by the SingularityNET Ambassador Program. We invite you to be part of our regular event where we share updates, presentations & conversations about topics which relate to Deep Funding and SingularityNET.
 
+Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentralization-events.singularitynet.io/](https://decentralization-events.singularitynet.io/)
+
 {% embed url="https://docs.google.com/presentation/d/1IpGIC6E67Y1uV7yhgA75cob_aztLIA1UM8L_sqE8hic/edit?usp=sharing" %}
 
 ### Treasury Guild
