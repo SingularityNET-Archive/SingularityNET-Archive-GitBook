@@ -1,3 +1,9 @@
+---
+description: >-
+  SingularityNET-Archiive contains a history of the activities of the
+  SingularityNET Ambassador Program.
+---
+
 # Welcome to SingularityNET-Archive
 
 <figure><img src=".gitbook/assets/Screenshot from 2023-04-15 00-46-38.png" alt=""><figcaption></figcaption></figure>
