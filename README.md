@@ -10,7 +10,7 @@ description: >-
 
 ## Welcome
 
-SingularityNET-Archiive contains a history of the activities of the SingularityNET Ambassador Program.&#x20;
+SingularityNET-Archive contains a history of the activities of the SingularityNET Ambassador Program.&#x20;
 
 ## Our goal
 
