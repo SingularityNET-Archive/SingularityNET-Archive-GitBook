@@ -52,7 +52,7 @@ This week's Treasury Guild was facilitated by Tevo Saks and discussed documentat
   * What are the following Action Items?
 * 5min - Session Overview _(to be recorded)_
 
-### Ambassador Townhall
+### Ambassador Town hall
 
 #### Summary
 
