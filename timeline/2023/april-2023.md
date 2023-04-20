@@ -24,11 +24,13 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 
 #### Voting
 
-Should we have 2 Sections (Outside <=> Inside) for proposals in Governance Rounds?
+#### Should we have 2 Sections (Outside <=> Inside) for proposals in Governance Rounds?
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 21-49-40.png" alt=""><figcaption></figcaption></figure>
 
-Should we Start the next round of governance without having crystal clear definitions?
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 22-08-16.png" alt=""><figcaption></figcaption></figure>
+
+#### Should we Start the next round of governance without having crystal clear definitions? <a href="#0" id="0"></a>
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 21-53-23.png" alt=""><figcaption></figcaption></figure>
 
