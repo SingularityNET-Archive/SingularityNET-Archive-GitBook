@@ -4,6 +4,10 @@ description: The SingularityNET Ambassador events of April 2023
 
 # April 2023
 
+## Thursday, 20th 2023
+
+### Treasury Guild
+
 ## Wednesday, 19th 2023
 
 ### Incubation Workshop
