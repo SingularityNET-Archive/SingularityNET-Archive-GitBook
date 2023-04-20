@@ -37,17 +37,10 @@ This week's Treasury Guild was facilitated by Tevo Saks and discussed documentat
 **Suggested Workshop Agendas**
 
 * 5min - Overview
-*
-  * Discord channel for agenda gathering
-  * high priority tasks
-  * New Tasks and Projects
 * 10min - Current time investment through Swarm Label Filter
-*
-  * 5min - Is this information helping us?
 * 40min - Select topic(s) _(Try to split in breakout room if more than 9 people)_
-*
-  * In the case of breakout rooms, allow time to share results at the end
-  * Prepare Task Requirements
+* In the case of breakout rooms, allow time to share results at the end
+* Prepare Task Requirements
   * What are the following Decision Items?
   * What are the following Action Items?
 * 5min - Session Overview _(to be recorded)_
