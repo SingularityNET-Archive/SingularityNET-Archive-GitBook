@@ -6,7 +6,7 @@ The Ambassador Program GitBook is located [here](https://snet-ambassadors.gitboo
 
 ## Guilds and workgroups
 
-As of April 2023 there are 5 groups. These include in alphabetical order -
+As of April 2023 there are 5 Ambassador groups. These include in alphabetical order -
 
 * Marketing Guild
 * Process Guild
