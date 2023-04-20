@@ -34,6 +34,10 @@ Should we Start the next round of governance without having crystal clear defini
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 22-03-13.png" alt=""><figcaption></figcaption></figure>
 
+[Reference material](https://docs.google.com/spreadsheets/d/1frNSHEHPV8ZWb1eWeIMEiJMHH2rMsDPIVcyUH4IIYt0/edit#gid=0)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1frNSHEHPV8ZWb1eWeIMEiJMHH2rMsDPIVcyUH4IIYt0/edit" %}
+
 ### Treasury Guild
 
 This week's Treasury Guild was facilitated by Tevo Saks and discussed documentation, budget categories and Read.ai transcripts.
