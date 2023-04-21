@@ -8,7 +8,13 @@ description: The SingularityNET Ambassador events of April 2023
 
 ### Marketing Guild
 
-Faciltated by Crandano.
+Facilitated by Crandano.
+
+### Video Work group
+
+Facilitated by rojokaboti.
+
+{% embed url="https://miro.com/app/board/uXjVMQx-OwU=/" %}
 
 ## Thursday, 20th April 2023
 
@@ -44,7 +50,7 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 
 #### Chat
 
-
+{% file src="../../.gitbook/assets/meeting_saved_chat.txt" %}
 
 ### Treasury Guild
 
