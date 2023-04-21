@@ -28,6 +28,8 @@ On top of this discussion we are trying to figure out the best way to have conse
 
 Note: Treasury Guild is recorded with bi-weekly meetings currently set to Thursdays @ 17UTC. In the #treasury-guild group and during Townhall updates every Tuesday @ 18UTC, on the SingularityNET Discord, we will provide an update, continue the conversation, as well as field any feedback, ideas, and opinions to bring to the next meeting. This is an evolving process and we plan to reassess any final decisions made on a quarterly basis along with the ability to revert any decisions based on feedback from the community by the time the following Treasury Guild meeting occurs.
 
+{% embed url="https://discord.com/channels/909843832491896832/1034530630643499028/1037804575471714315" %}
+
 ## 8th November 2022
 
 ### Process Guild
