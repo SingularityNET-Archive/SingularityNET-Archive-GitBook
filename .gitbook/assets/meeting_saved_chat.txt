@@ -1,0 +1,391 @@
+20:06:52 From  Felix  to  Everyone:
+	https://docs.google.com/presentation/d/1IpGIC6E67Y1uV7yhgA75cob_aztLIA1UM8L_sqE8hic/edit#slide=id.g2286d830b0c_0_73
+20:12:52 From  tevo saks  to  Everyone:
+	https://www.hypercycle.ai/_files/ugd/54374c_d0c9727316c04a2b96a3db4472fc2fbf.pdf
+20:15:11 From  Felix  to  Everyone:
+	cheers Curtis :)
+20:15:15 From  Felix  to  Everyone:
+	you are early ^^
+20:15:32 From  Curtis Myers  to  Everyone:
+	Oh am I? I thought I was late
+20:15:51 From  Felix  to  Everyone:
+	nene ^^	starts at 19.00 UTC, at the top of this hour
+20:16:16 From  Felix  to  Everyone:
+	chatting a bit general stuff right now and then going into preparing today's DFTH
+20:17:12 From  Curtis Myers  to  Everyone:
+	Ah I see what I have been doing. Using London time and not utc. Ah
+20:17:22 From  Felix  to  Everyone:
+	Reacted to "Ah I see what I have..." with 👍
+20:22:28 From  Felix  to  Everyone:
+	Hey Pauline, you are early. Town Hall starts at the top of the hour :)
+20:22:43 From  Pauline Gates  to  Felix(Direct Message):
+	Ok thanks
+20:22:55 From  Felix  to  Pauline Gates(Direct Message):
+	you are welcome to stay anyway :)
+20:22:57 From  F ly  to  Felix(Direct Message):
+	This a team meeting?
+20:23:11 From  Felix  to  F ly(Direct Message):
+	was supposed to ^^
+20:24:25 From  tevo saks  to  Everyone:
+	I came for governance
+20:25:47 From  cran dano  to  Everyone:
+	Twitter posts if anyone wants to like/retweet:	SNET Ambassador: https://twitter.com/SNET_Ambassador/status/1648906167870181378	Swarm: https://twitter.com/CatalystSwarm/status/1649096474867924992	SNET Swarm: https://twitter.com/SnetSwarm/status/1649060662826651649?s=20
+20:25:54 From  Felix  to  Everyone:
+	Reacted to "Twitter posts if any..." with ❤️
+20:26:07 From  Curtis Myers  to  Everyone:
+	Afk for 15 minutes
+20:35:06 From  cran dano  to  Everyone:
+	brb, started raining need to close windows
+20:37:05 From  tevo saks  to  Everyone:
+	https://twitter.com/i/spaces/1PlJQprjdkvGE
+20:45:43 From  Felix  to  Everyone:
+	brb
+20:48:04 From  cran dano  to  Everyone:
+	https://discord.com/channels/909843832491896832/951602914139451463/1098651044558413966
+20:50:04 From  tevo saks  to  Everyone:
+	https://pool.pm/asset12anqrvm00680k2nnezal5xf0rpdgka9ansudu3		I see now, looks fine, everyone has 0 task point 😄?
+20:50:26 From  rojo kaboti  to  Everyone:
+	Replying to "https://pool.pm/asse..."
+	
+	😂
+21:01:00 From  Peter Elfrink  to  Everyone:
+	time
+21:02:18 From  Peter Elfrink  to  Everyone:
+	Recording 🙂
+21:02:28 From  Peter Elfrink  to  Everyone:
+	Is anyone?
+21:02:54 From  Felix  to  Everyone:
+	Reacted to "Is anyone?" with 🌈
+21:05:13 From  Stephen Whitenstall  to  Everyone:
+	Could you drop a link to the slides ? Thanks ;)
+21:05:27 From  Felix  to  Everyone:
+	https://docs.google.com/presentation/d/1IpGIC6E67Y1uV7yhgA75cob_aztLIA1UM8L_sqE8hic/edit?usp=sharing
+21:06:19 From  Stephen Whitenstall  to  Everyone:
+	Thanks @Felix
+21:07:08 From  Felix  to  Everyone:
+	https://decentralization-events.singularitynet.io/
+21:09:07 From  Rafael Presa  to  Everyone:
+	http://decentralization-events.singularitynet.io/
+21:14:17 From  cran dano  to  Everyone:
+	SNET_Ambassador account for the Twitter users out there: https://twitter.com/SNET_Ambassador/status/1648906167870181378
+21:20:02 From  Felix  to  Everyone:
+	Reacted to "SNET_Ambassador acco..." with ❤️
+21:21:52 From  F ly  to  Everyone:
+	Can you post a link to this document?
+21:24:04 From  Peter Elfrink  to  Everyone:
+	Doubt if that should be public tbh, has a lot of names and wallets and emails etc
+21:24:19 From  Peter Elfrink  to  Everyone:
+	But best to ask
+21:25:36 From  Curtis Myers  to  Everyone:
+	Is it somewhat accurate to say that the proposers are part of the community that contribute to growth of the ecosystem?
+21:25:51 From  Kevin Frey  to  Everyone:
+	Reacted to "SNET_Ambassador acco…" with ❤️
+21:26:10 From  cran dano  to  Everyone:
+	Reacted to "Is it somewhat accur..." with 👍
+21:26:35 From  Felix  to  Everyone:
+	Reacted to "Is it somewhat accur..." with 👍
+21:26:48 From  Peter Elfrink  to  Everyone:
+	ofcourse
+21:27:02 From  harry hellyer  to  Everyone:
+	Reacted to "Is it somewhat accur..." with 👍
+21:31:45 From  Kevin Frey  to  Everyone:
+	I was going to say something along the lines of Mauricio
+21:34:22 From  Felix  to  Everyone:
+	taking off reputation rewards does not take off reputation points, taken forward into voting weight right ?
+21:34:35 From  Peter Elfrink  to  Everyone:
+	In current setup I think it does
+21:35:20 From  tevo saks  to  Everyone:
+	as I understood it doesn't have any effect on voting weight
+21:35:36 From  tevo saks  to  Everyone:
+	you simply don't get AGIX rewards
+21:35:57 From  Peter Elfrink  to  Everyone:
+	Hm you make me doubt
+21:36:28 From  Felix  to  Everyone:
+	that would be important being sure about ^^
+21:37:17 From  Peter Elfrink  to  Everyone:
+	Reacted to "that would be import..." with 😁
+21:38:51 From  Robert Haas  to  Everyone:
+	I can confirm that voting weight is independently calculated from AGIX rewards. (Made the graph visualizations of voting weights).
+21:40:45 From  Felix  to  Everyone:
+	Reacted to "I can confirm that v..." with 🙏
+21:46:30 From  Stephen Whitenstall  to  Everyone:
+	But there is a possibility to address these issues going forward in the Governance rounds in a colloborative manner ?
+21:46:42 From  cran dano  to  Everyone:
+	Reacted to "But there is a possi..." with 👍
+21:47:04 From  Felix  to  Everyone:
+	Reacted to "But there is a possi..." with 👍
+21:47:28 From  Curtis Myers  to  Everyone:
+	Replying to "But there is a possi..." 
+	
+	 Thats what I am wondering. Some of the responses here feel like this is not a debatable topic and that we can't change the parameter. I agree mistakes can be made and that's ok
+21:47:35 From  Felix  to  Everyone:
+	think its great to make mistakes, and to recognize that collectively… thats a massively important thing while building up the whoe thing :)
+21:47:49 From  Pauline Gates  to  Everyone:
+	Reacted to "think its great to m…" with 👌
+21:48:14 From  tommy frey  to  Everyone:
+	Reacted to "think its great to m..." with 👍🏼
+21:49:47 From  Kenric Nelson  to  Everyone:
+	Maybe funded proposals could have participation rewards held back if the concern is rewarding participation that is self-promoting
+21:49:48 From  Stephen Whitenstall  to  Everyone:
+	Yes it is encouraging that mistakes are being recognised from the outset
+21:50:03 From  tevo saks  to  Everyone:
+	im definitely not gona assess catalyst proposals
+21:50:09 From  Stephen Whitenstall  to  Everyone:
+	LOL
+21:50:17 From  Pauline Gates  to  Everyone:
+	Reacted to "LOL" with 😂
+21:50:30 From  tommy frey  to  Everyone:
+	Reacted to "im definitely not go..." with 😂
+21:50:52 From  tevo saks  to  Everyone:
+	spent so much time and everything got filtered out by veteran groups who were very hostile when I asked what they think is the purpose of veteran assessors
+21:51:02 From  Felix  to  Everyone:
+	Replying to "im definitely not go..."
+	
+	same here XD	PAs & vPAs process sucks XD
+21:51:12 From  Stephen Whitenstall  to  Everyone:
+	Yes that was unfortunate @Tevo
+21:51:13 From  Felix  to  Everyone:
+	Reacted to "spent so much time a..." with 💯
+21:51:24 From  rojo kaboti  to  Everyone:
+	Reacted to "spent so much time a..." with 💯
+21:52:37 From  Stephen Whitenstall  to  Everyone:
+	Interesting feedback - quite a contrast with the crowd sourcing approach of Catalyst ?
+21:52:59 From  Guillermo Lucero  to  Everyone:
+	agreed Ubio, it is the best part of the experiment, having on time feedback from the community engaged on the developement, is result on a better proposal
+21:53:08 From  Ubio Obu  to  Everyone:
+	Reacted to "agreed Ubio, it is t..." with ❤️
+21:53:14 From  Curtis Myers  to  Everyone:
+	@kenric, I was thinking of a potential solution to that gaming strategy. I would love to share it but, this doesn't seem to be the right time. Summary; have reputation of the feedback applied to the participation score
+21:53:46 From  Kenric Nelson  to  Everyone:
+	Thanks @curtis
+21:53:55 From  Luke MLabs  to  Everyone:
+	Have to hop off, thanks everyone
+21:54:00 From  Felix  to  Everyone:
+	Reacted to "Have to hop off, tha..." with 👋
+21:54:01 From  Peter Elfrink  to  Everyone:
+	Reacted to "Have to hop off, tha..." with 👋🏻
+21:54:06 From  rojo kaboti  to  Everyone:
+	Reacted to "Have to hop off, tha..." with 👋
+21:54:06 From  rojo kaboti  to  Everyone:
+	Reacted to "Have to hop off, tha..." with 👋🏻
+21:54:13 From  Pauline Gates  to  Everyone:
+	Reacted to "Have to hop off, tha…" with 👋
+21:56:38 From  Pauline Gates  to  Everyone:
+	Seems like a discussion
+21:56:43 From  Felix  to  Everyone:
+	Reacted to "Seems like a discuss..." with 💯
+21:56:58 From  cran dano  to  Everyone:
+	my take is proposers are interacting with the platform and if there's experimentation being done to reward interaction I don't see why they would be left out of the rewards - this just incentivizes people to make a new wallet or a whole separate account to make a proposal etc.
+21:57:08 From  Kevin Frey  to  Everyone:
+	Even if it’s not 100% right it’s ok. If one option is 70% right and the other 50% right then I think you’re absolutely right to take the 70%
+21:57:24 From  Stephen Whitenstall  to  Everyone:
+	I guess the lesson is communication and consensus on "judgement calls" ?
+21:57:48 From  Kevin Frey  to  Everyone:
+	Organizationally speaking your not going to please everyone. I think you’re doing pretty well Jan.
+21:59:02 From  F ly  to  Everyone:
+	Where was the information about it though? Would love to see where in the rules it stated “proposers will not be rewarded"
+21:59:30 From  Stephen Whitenstall  to  Everyone:
+	Lesson from Catalyst - what is important for IOG may not be important for the community.
+21:59:52 From  cran dano  to  Everyone:
+	Reacted to "Where was the inform..." with 👀
+21:59:55 From  Pauline Gates  to  Everyone:
+	Reacted to "Lesson from Catalyst…" with 👌
+22:00:16 From  Ubio Obu  to  Everyone:
+	I think it was a judgment call, that had to be made despite not being made in the original document
+22:00:28 From  Pauline Gates  to  Everyone:
+	Reacted to "I think it was a jud…" with ❤️
+22:00:59 From  tommy frey  to  Everyone:
+	Good mc job Rojo
+22:01:05 From  Kevin Frey  to  Everyone:
+	Reacted to "Good mc job Rojo" with 👌
+22:04:59 From  harry hellyer  to  Felix(Direct Message):
+	Hey Felix 🙂
+22:08:14 From  Stephen Whitenstall  to  Everyone:
+	Ouside-in and Inside-out is an interesting way to put it.
+22:13:39 From  Peter Elfrink  to  Everyone:
+	That doesn’t work in English Jan 😄 contracting yes and no in dutch sounds like yay
+22:17:07 From  Felix  to  harry hellyer(Direct Message):
+	huhuu
+22:17:47 From  harry hellyer  to  Everyone:
+	Hey lovely peeps have to drop off now. Great to be here! Take care Hx
+22:17:56 From  Peter Elfrink  to  Everyone:
+	Reacted to "Hey lovely peeps hav..." with 👋🏻
+22:18:45 From  harry hellyer  to  Felix(Direct Message):
+	Hu Huu to you too! Take care talk soon. Am around next weds? Cheers Hx
+22:18:49 From  Curtis Myers  to  Everyone:
+	Reacted to "Hey lovely peeps hav..." with 👋🏻
+22:20:22 From  Guillermo Lucero  to  Everyone:
+	now I get it! peter is dutch!
+22:21:19 From  Guillermo Lucero  to  Everyone:
+	He is still angry that Argentina left them out of the World Cup
+22:21:55 From  Stephen Whitenstall  to  Everyone:
+	OK - using the pools to iterate on context
+22:23:16 From  Peter Elfrink  to  Everyone:
+	Just for context, this was how we did governance round 1
+22:23:18 From  Peter Elfrink  to  Everyone:
+	The mission will be open for 2 weeks to submit your proposal. The closing date is Sunday, October 2, 12 PM UTC. At the end of this period, there will be a public meeting where proposers can (optionally) introduce and elaborate on their proposals, and the community can discuss.
+	After this, we aim for 2 additional weeks for the community to discuss and adapt submitted proposals. During this period there will be another public meeting to discuss the proposals.
+	After all comments are frozen, we will select the top 2 or 3 proposals, based on community engagement, feedback, and rating as well as alignment with the rules and restrictions outlined above, and add them to the SingularityNET Voting Portal. We expect this may take another week.
+22:24:02 From  Guillermo Lucero  to  Everyone:
+	Reacted to "The mission will be ..." with 👍
+22:25:43 From  Felix  to  Everyone:
+	https://deepfunding.ai/governance-voting-experiment/
+22:25:56 From  Peter Elfrink  to  Everyone:
+	Reacted to "https://deepfunding...." with 👍🏻
+22:28:13 From  Felix  to  Everyone:
+	there were quite some conversations at the Governance Expert group
+22:29:52 From  Curtis Myers  to  Everyone:
+	Reacted to "there were quite som..." with 👍
+22:30:43 From  Curtis Myers  to  Everyone:
+	Alignment session. Love it
+22:31:38 From  Felix  to  Everyone:
+	Reacted to "Alignment session. L..." with ❤️
+22:35:40 From  Stephen Whitenstall  to  Everyone:
+	Yes informal alignment using qualitative judgement @Curtis :)
+22:36:01 From  Curtis Myers  to  Everyone:
+	Reacted to "Yes informal alignme..." with ❤️
+22:36:03 From  Curtis Myers  to  Everyone:
+	Reacted to "Yes informal alignme..." with 💯
+22:38:46 From  Curtis Myers  to  Everyone:
+	Onboarding requirements for participating in governance is an idea I like to think about as well. You must review these documents for context to provide deep thought to the general goals
+22:43:13 From  Stephen Whitenstall  to  Everyone:
+	"we expect that voting is not simply based on one person - one vote, or one token - one vote, but rather a mix of variables that determine every community member’s voting weight. "
+22:43:30 From  Stephen Whitenstall  to  Everyone:
+	https://singularitynet.io/wp-content/uploads/2023/04/SingComDao-Initiation-Document-170423.pdf
+22:44:30 From  Curtis Myers  to  Everyone:
+	Reacted to "https://singularityn..." with 👆
+22:45:58 From  Rafael Presa  to  Everyone:
+	https://poll-maker.com/poll4786887x45b140B9-148
+22:46:19 From  Stephen Whitenstall  to  Everyone:
+	Should we have 2 Sections (Outside <=> Inside) for proposals in Governance Rounds?
+22:46:52 From  Mauro Andreoli  to  Everyone:
+	✅✅✅
+22:47:23 From  Curtis Myers  to  Everyone:
+	Lots of good metrics here, that can aggregate up
+22:50:43 From  Rafael Presa  to  Everyone:
+	https://poll-maker.com/poll4786917x9ae54867-148
+22:51:25 From  Stephen Whitenstall  to  Everyone:
+	Should we Start the next round of governance without having crystal clear definitions?
+22:52:41 From  Felix  to  Everyone:
+	in context of filtering out/numbering down Governance Round 2 proposals*
+22:53:35 From  tommy frey  to  Everyone:
+	👍🏼Polling is quicker but really no chance to express opinions or sway the decision making process.  No real time to adjust opinion
+22:53:49 From  Curtis Myers  to  Everyone:
+	The way I am u derstandi g this question is. Should we start allowing proposals to submit proposals without knowing how or why they might be filtered out, yet.
+22:53:59 From  Stephen Whitenstall  to  Everyone:
+	Being archived live here : https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2023/april-2023#deep-funding-town-hall
+22:54:31 From  Felix  to  Everyone:
+	Reacted to "The way I am u derst..." with 👍
+22:55:08 From  Felix  to  Everyone:
+	Reacted to "Being archived live ..." with ❤️
+22:55:13 From  Felix  to  Everyone:
+	Replying to "The way I am u derst..."
+	
+	good perspective tho :)
+22:55:21 From  Curtis Myers  to  Everyone:
+	Replying to "The way I am u derst..." 
+	
+	 *understanding 
+	*proposers to submit
+22:56:00 From  Guillermo Lucero  to  Everyone:
+	agreed with tommy
+22:56:28 From  Guillermo Lucero  to  Everyone:
+	have to run
+22:56:40 From  Guillermo Lucero  to  Everyone:
+	godspeed
+22:57:34 From  Felix  to  Everyone:
+	Reacted to "The way I am u derst..." with 👀
+22:57:49 From  Felix  to  Everyone:
+	Removed a 👀 reaction from "The way I am u derst..."
+22:57:53 From  Felix  to  Everyone:
+	Reacted to "Being archived live ..." with 👀
+22:59:49 From  Felix  to  Stephen Whitenstall(Direct Message):
+	want to have this one for your GitBook ?	https://docs.google.com/spreadsheets/d/1frNSHEHPV8ZWb1eWeIMEiJMHH2rMsDPIVcyUH4IIYt0/edit?usp=sharing
+23:00:18 From  Stephen Whitenstall  to  Everyone:
+	Without a filter = the tyranny of permissionless ?
+23:01:11 From  Sebastian Pabon  to  Everyone:
+	Thank you for this session.
+23:01:30 From  Curtis Myers  to  Everyone:
+	Reacted to "Without a filter = t..." with 👆
+23:01:43 From  cran dano  to  Everyone:
+	Reacted to "Without a filter = t..." with 🤓
+23:03:01 From  tommy frey  to  Everyone:
+	Reacted to "Without a filter = t..." with 👆
+23:04:59 From  F ly  to  Everyone:
+	are we doing the poll that was prepared?
+23:06:12 From  Stephen Whitenstall  to  Felix(Direct Message):
+	OK added as a reference ;)
+23:06:46 From  Felix  to  Stephen Whitenstall(Direct Message):
+	Want more links for reference ? ^^
+23:07:37 From  Stephen Whitenstall  to  Felix(Direct Message):
+	Maybe save for a better context. Main idea is to capture this meeting ;)
+23:08:14 From  Felix  to  Stephen Whitenstall(Direct Message):
+	Reacted to "Maybe save for a bet..." with 👍
+23:08:29 From  Felix  to  Stephen Whitenstall(Direct Message):
+	Thanks a lot for that
+23:08:48 From  Curtis Myers  to  Everyone:
+	Retrospectives are important
+23:09:18 From  Felix  to  Everyone:
+	agree, looking back before moving forward sometimes :)
+23:10:30 From  Peter Elfrink  to  Everyone:
+	Haven’t checked the governance round 1 proposals that didn’t make it for some time either
+23:11:15 From  Stephen Whitenstall  to  Everyone:
+	https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2023/april-2023#voting
+23:12:10 From  Stephen Whitenstall  to  Everyone:
+	+1 @Felix
+23:16:24 From  Curtis Myers  to  Everyone:
+	I agree with Fly. Since the intent is that we want to move forward and the proposers to build how we should do things. But if that is not informed by a retrospective, then it becomes less effective. Giving the proposers that information becomes more productive in my view
+23:19:53 From  Peter Elfrink  to  Everyone:
+	Sorry q is: to proceed without full parameter set?
+23:20:05 From  Peter Elfrink  to  Everyone:
+	Not sure what the difference is exactly
+23:20:35 From  Peter Elfrink  to  Everyone:
+	Should we proceed with the governance round without all the parameters set in order to be more time efficient, while setting the parameters
+23:20:43 From  Kevin Frey  to  Everyone:
+	Peter this is the way I understood it too. Maybe some people had other concerns idk
+23:20:58 From  Curtis Myers  to  Everyone:
+	Replying to "Peter this is the wa..." 
+	
+	 Same
+23:22:21 From  Peter Elfrink  to  Everyone:
+	Lesson learned on rigging the system, have Tommy say everyones name
+23:22:30 From  Kevin Frey  to  Everyone:
+	Reacted to "Lesson learned on ri…" with 😂
+23:22:37 From  Felix  to  Stephen Whitenstall(Direct Message):
+	ha, i saw that coming so much Steph ^^	love you
+23:22:42 From  Curtis Myers  to  Everyone:
+	Reacted to "Lesson learned on ri..." with 😂
+23:23:43 From  Ubio Obu  to  Everyone:
+	Reacted to "Lesson learned on ri..." with 😂
+23:23:43 From  cran dano  to  Everyone:
+	Reacted to "Lesson learned on ri..." with 😂
+23:24:55 From  Stephen Whitenstall  to  Everyone:
+	Public voting has that effect
+23:25:12 From  Curtis Myers  to  Everyone:
+	Tommy, that means you were coerced by someone else. Haha
+23:25:22 From  rojo kaboti  to  Everyone:
+	Replying to "Public voting has th..."
+	
+	it does, but I would  say the affect of rephrazing was bigger
+23:26:01 From  Stephen Whitenstall  to  Everyone:
+	In general anon voting is always preferable
+23:26:10 From  Felix  to  Everyone:
+	Reacted to "In general anon voti..." with 👍
+23:26:22 From  Curtis Myers  to  Everyone:
+	Reacted to "In general anon voti..." with 👍
+23:26:23 From  cran dano  to  Everyone:
+	Reacted to "In general anon voti..." with 👍
+23:27:35 From  tommy frey  to  Everyone:
+	Replying to "In general anon voti..."
+	
+	A new use of a word for me. Thanks!
+23:27:46 From  Curtis Myers  to  Everyone:
+	Fly has his hand up
+23:28:15 From  Stephen Whitenstall  to  Everyone:
+	Basic principle of democracy @Tommy
+23:28:28 From  tommy frey  to  Everyone:
+	Reacted to "Basic principle of d..." with 👍🏼
+23:29:27 From  Peter Elfrink  to  Everyone:
+	Thanks all! Nice session
+23:29:33 From  Rafael Presa  to  Everyone:
+	Thank you Guys!!!
