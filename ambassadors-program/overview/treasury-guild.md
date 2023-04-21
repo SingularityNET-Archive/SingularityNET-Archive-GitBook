@@ -1,6 +1,6 @@
 # Treasury Guild
 
-Treasury Guild
+## History
 
 The Treasury Guild Discord Channel started on November 3rd 2022.
 
