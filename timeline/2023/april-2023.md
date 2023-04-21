@@ -4,6 +4,12 @@ description: The SingularityNET Ambassador events of April 2023
 
 # April 2023
 
+## Friday, 21st April 2023
+
+### Marketing Guild
+
+Faciltated by Crandano.
+
 ## Thursday, 20th April 2023
 
 ### Deep Funding Town Hall
