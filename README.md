@@ -20,15 +20,13 @@ Our goal is to provide a collaborative platform for the SingularityNET-Archive c
 
 We hope our GitBooks can help you on your journey to explore and innovate with AIG.&#x20;
 
-### SingularityNET Ambassadors GitBook
+### Ambassadors GitBook
 
 The SingularityNET Ambassadors GitBook documents what the Ambassador programme is and how to get involved. Follow the link below to discover more ...
 
 &#x20;
 
-### SingularityNET Archive GitBook
-
-
+### Archive GitBook
 
 This SingularityNET Archive GitBook (where you are currently located) aims to provide a history of the SingularityNET Ambassadors programme.
 
