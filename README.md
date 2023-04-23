@@ -24,7 +24,7 @@ We hope our GitBooks can help you on your journey to explore and innovate with A
 
 The SingularityNET Ambassadors GitBook documents what the Ambassador programme is and how to get involved. Follow the link below to discover more ...
 
-&#x20;
+{% embed url="https://snet-ambassadors.gitbook.io/home/" %}
 
 ### Archive GitBook
 
