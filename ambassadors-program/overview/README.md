@@ -26,4 +26,6 @@ Marketing Guild was setup to communicate the work of the SingularityNET Ambassad
 
 ### Treasury Guild
 
+The Treasury Guild Discord Channel started on November 3rd 2022.
+
 ### Writers Workgroup
