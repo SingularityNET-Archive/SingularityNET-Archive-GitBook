@@ -6,7 +6,9 @@ In December 2022 a SingurityNET Operations update for Quarter 4 was posted on Me
 
 {% embed url="https://blog.singularitynet.io/singularitynet-operations-q4-2022-update-fc8ae814d64f" %}
 
-## December 2 2022. Marketing Guild Meeting
+## December 2 2022
+
+### Marketing Guild Meeting
 
 Marketing Guild - Dec 2, 2022 (Meeting Fridays @ 13UTC)
 
@@ -29,7 +31,9 @@ Please add any ideas to the marketing-guild channel.
 {% embed url="https://discord.com/channels/909843832491896832/1038090418597941268/1048227970751414282" %}
 
 
-## December 9, 2022. Marketing Guild Meeting 4
+## December 9, 2022
+
+### Marketing Guild Meeting 4
 
 {% embed url="https://youtu.be/qdOtAsMzD2E" %}
 
