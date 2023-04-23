@@ -24,6 +24,8 @@ As of April 2023 there are 5 Ambassador groups.&#x20;
 
 ### Marketing Guild
 
+Marketing Guild was setup to communicate the work of the SingularityNET Ambassadors. Its first meeting was on November 4th 2022. It meets every week.&#x20;
+
 ### Process Guild
 
 ### Strategy Guild
