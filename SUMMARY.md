@@ -37,8 +37,8 @@
   * [GitHub](tools/github.md)
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
-  * [Read.ai](tools/read.ai.md)
-* [AI Tools](ai-tools.md)
+* [AI Tools](ai-tools/README.md)
+  * [Read.ai - transcription tool](https://www.read.ai/)
 
 ## Technical
 
