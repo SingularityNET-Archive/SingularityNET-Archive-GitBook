@@ -6,10 +6,6 @@
 
 * [Overview](ambassadors-program/overview/README.md)
   * [Marketing Guild](ambassadors-program/overview/marketing-guild.md)
-  * [Process Guild](ambassadors-program/overview/process-guild.md)
-  * [Strategy Guild](ambassadors-program/overview/strategy-guild.md)
-  * [Treasury Guild](ambassadors-program/overview/treasury-guild.md)
-  * [Writers Workgroup](ambassadors-program/overview/writers-workgroup.md)
 
 ## Timeline
 

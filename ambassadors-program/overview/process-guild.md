@@ -1,3 +1,0 @@
-# Process Guild
-
-Process Guild
