@@ -2,7 +2,7 @@
 description: The SingularityNET Ambassador events of April 2023
 ---
 
-# April 2023
+# 0423  Detail
 
 ## Friday, 21st April 2023
 
@@ -28,7 +28,7 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 
 #### Context on reputation rewards
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 20-25-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 20-25-43.png" alt=""><figcaption></figcaption></figure>
 
 #### Context on Governance Voting Experiments
 
@@ -38,19 +38,19 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 
 #### Should we have 2 Sections (Outside <=> Inside) for proposals in Governance Rounds?
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 21-49-40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 21-49-40.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 22-08-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 22-08-16.png" alt=""><figcaption></figcaption></figure>
 
 #### Should we Start the next round of governance without having crystal clear definitions? <a href="#0" id="0"></a>
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 21-53-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 21-53-23.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-20 22-03-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 22-03-13.png" alt=""><figcaption></figcaption></figure>
 
 #### Chat
 
-{% file src="../../.gitbook/assets/meeting_saved_chat.txt" %}
+{% file src="../../../.gitbook/assets/meeting_saved_chat.txt" %}
 
 ### Treasury Guild
 
