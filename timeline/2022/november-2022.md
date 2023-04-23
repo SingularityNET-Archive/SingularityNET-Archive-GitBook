@@ -12,6 +12,8 @@ Miro Board Link: [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=34587645
 
 ### Treasury Guild
 
+The Treasury Guild Discord Channel started on November 3rd 2022.
+
 {% embed url="https://youtu.be/HtbD_rmZ-u8" %}
 
 Main Discussion: What would be the hourly rate of pay that we could use as a standard to calculate task estimates?
