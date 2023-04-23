@@ -40,6 +40,7 @@
 * [AI Tools](ai-tools/README.md)
   * [Read.ai - transcription tool](https://www.read.ai/)
   * [Infranodus - network thinking](https://infranodus.com/)
+  * [LangChain - development framework](https://python.langchain.com/en/latest/index.html)
 
 ## Technical
 
