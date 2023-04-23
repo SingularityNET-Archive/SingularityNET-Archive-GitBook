@@ -12,12 +12,6 @@ Our main drivers are transparency, decentralization, and involvement. To uphold 
 
 Together, we can work towards creating a world where AGI benefits all of humanity.
 
-## Ambassador Program GitBook
-
-The Ambassador Program GitBook is located [here](https://snet-ambassadors.gitbook.io/home/).
-
-{% embed url="https://snet-ambassadors.gitbook.io/home/" %}
-
 ## Guilds and workgroups
 
 As of April 2023 there are 5 Ambassador groups.&#x20;
