@@ -38,10 +38,10 @@
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
 * [AI Tools](ai-tools/README.md)
-  * [Read.ai - transcription tool](https://www.read.ai/)
-  * [Infranodus - network thinking](https://infranodus.com/)
-  * [LangChain - development framework](https://python.langchain.com/en/latest/index.html)
   * [Google colab - Python notebook](https://colab.research.google.com)
+  * [LangChain - development framework](https://python.langchain.com/en/latest/index.html)
+  * [Infranodus - network thinking](https://infranodus.com/)
+  * [Read.ai - transcription tool](https://www.read.ai/)
 
 ## Technical
 
