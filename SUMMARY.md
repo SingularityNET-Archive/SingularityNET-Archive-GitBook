@@ -4,7 +4,7 @@
 
 ## Ambassadors Program
 
-* [Overview](ambassadors-program/overview.md)
+* [Overview](ambassadors-program/overview/README.md)
 
 ## Timeline
 

@@ -22,10 +22,18 @@ Marketing Guild was setup to communicate the work of the SingularityNET Ambassad
 
 ### Process Guild
 
+Process Guild was setup in x by y to z
+
 ### Strategy Guild
 
+Strategy Guild was setup in x by y to z
+
 ### Treasury Guild
+
+Treasury Guild was setup in x by y to z
 
 The Treasury Guild Discord Channel started on November 3rd 2022.
 
 ### Writers Workgroup
+
+Writers Workshop was setup in x by y to z
