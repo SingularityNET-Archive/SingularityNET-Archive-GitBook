@@ -39,6 +39,7 @@
   * [Miro](tools/miro.md)
 * [AI Tools](ai-tools/README.md)
   * [Read.ai - transcription tool](https://www.read.ai/)
+  * [Infranodus - network thinking](https://infranodus.com/)
 
 ## Technical
 
