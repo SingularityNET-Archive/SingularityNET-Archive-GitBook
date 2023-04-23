@@ -1,7 +1,7 @@
 ---
 description: >-
-  SingularityNET-Archiive contains a history of the activities of the
-  SingularityNET Ambassador Program.
+  This GitBook contains a history of the activities of the SingularityNET
+  Ambassador Program.
 ---
 
 # Welcome to SingularityNET-Archive
