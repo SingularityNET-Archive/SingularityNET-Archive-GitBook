@@ -43,3 +43,7 @@
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
   * [Read.ai](tools/read.ai.md)
+
+## Technical
+
+* [Design](technical/design.md)
