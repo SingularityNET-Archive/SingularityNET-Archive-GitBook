@@ -16,7 +16,23 @@ SingularityNET-Archive contains a history of the activities of the SingularityNE
 
 Our goal is to provide a collaborative platform for the SingularityNET-Archive community to share knowledge, ideas, and best practices. We welcome contributions from anyone interested in SingularityNET, whether it's a new project, code example, or documentation.
 
-We hope this GitBook will help you on your journey to explore and innovate with AIG. Thank you for visiting our GitBook, and we look forward to your contributions!
+## Documentation
+
+We hope our GitBooks can help you on your journey to explore and innovate with AIG.&#x20;
+
+### SingularityNET Ambassadors GitBook
+
+The SingularityNET Ambassadors GitBook documents what the Ambassador programme is and how to get involved. Follow the link below to discover more ...
+
+&#x20;
+
+### SingularityNET Archive GitBook
+
+
+
+This SingularityNET Archive GitBook (where you are currently located) aims to provide a history of the SingularityNET Ambassadors programme.
+
+Thank you for visiting our GitBooks, and we look forward to your contributions!
 
 ## To contribute
 
