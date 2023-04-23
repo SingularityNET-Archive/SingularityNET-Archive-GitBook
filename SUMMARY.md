@@ -38,6 +38,7 @@
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
   * [Read.ai](tools/read.ai.md)
+* [AI Tools](ai-tools.md)
 
 ## Technical
 
