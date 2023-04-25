@@ -1,0 +1,304 @@
+Ambassador Townhall  
+Tue. Apr 25, 2023
+
+1:01 - Zoom user As it go on, Felix.
+
+1:07 - Tommy Frey Hello, hello. H ha. Is that how you write it, Felix, or you pronounce it? Ha, ha.
+
+1:18 - Felix You say yes.
+
+1:30 - Peter Elfrink Oh, Ms. Gardy, not quite.
+
+1:35 - Felix Hey, so user.
+
+1:38 - Peter Elfrink Poli.
+
+1:42 - Zoom user I gotta fix that. I changed my uh, account a couple weeks ago and I'm stuck on Zoom user for now.
+
+1:49 - Felix Normally what you can do is when you go on your screen, you can just rename yourself if you click on your button and not on your button on T tip. I need to go to just St.
+
+2:14 - TheFreysDeFi There we go. Thank you, Felix.
+
+2:20 - Peter Elfrink Just a quick check on the recording, is that on cloud or local recording?
+
+2:25 - Felix have. It's on locket, I think. Yes, it's Loe.
+
+2:29 - Peter Elfrink Just making sure I was told by, Rainer, Well, not, not super aggressive, but he hates it when we do cloud recording for quality reasons.
+
+2:42 - Felix Let's not provoke another. I think we get it in the share link at the end as well from a retailer. I can download the hosting. Normally enough we p this and then everybody should be able to download it from there.
+
+2:59 - Peter Elfrink That's cool.
+
+3:05 - Headelf I did the strategy recording last week, but that was on my personal account because I didn't know Felix had the other one set up, but I recorded in cloud. I then edited it, I read, linked it in one of the ambassador channels, probably the Strategy Guild, So I don't know if that's a good place for a repository. Perhaps Steven wants to grab it or do whatever, I don't know.
+
+3:35 - Stephen - QA-DAO Yeah, I mean message me if you want to, put anything on archive.
+
+3:43 - David Yo guys.
+
+3:48 - Peter Elfrink Here we go. Getting there. Let's see if there's people stuck on discard. Doesn't look like,
+
+4:23 - Headelf This is a historic moment. And last week was. But this is such a giant step forward towards our goal of transparency as we record this on Zoom, allow more people in as we grow, and with Stevens, archiving. Such a historic moment. Steven I have to ask you a question. I just shot a D. I included uh, comments about your posting on the, the lens. And the training of the Lens on those three documents is Is the Lens a bot within Github?
+
+5:08 - Stephen - QA-DAO No, it's, it's a beat. Open AI. Model, that's all. It is integrated in the Git Boog. So all they've done is, all they've done is, they've created, they've used their own Lem connection to open AI. So it's quite basic really. And it just works on Gi book. But I'm looking at Lang chain which will accept G book as an input. But that's taken a bit one time. That's more development to answer the question.
+
+5:47 - Headelf Yes, and my apologies to Peter from stealing from his meeting. Sorry, Peter.
+
+5:56 - Peter Elfrink No problem at all. Let's see, how much are we 13 looking at the clock by past? It's good started. Yeah, okay, so that's, that's the thing with the recording like this, usually I, when I start the session, it's like click recording starts and then there we go. Now this does need a bit of editing additionally, I guess, but it's fine.
+
+6:40 - Felix on the north.
+
+6:48 - Peter Elfrink Scream.
+
+6:50 - Felix Oh, wait. You know what we can do. New so.
+
+7:14 - Peter Elfrink Getting properly lost in screens Sharing my screen with overlays, we go Let's the start, nice. All right, let's get going, then. Welcome everybody to the ambassador program time home meeting number forty five will live on zoom actually for the very first time no longer on discord no longer restricted by twenty five user limits and cameras and stuff uh there's people have pizza on their head it's good here it's um it's april twenty fifth twenty twenty three and today we're joined by by felix by cran by fly by august by haley adolph judith mikasa read a meeting notes which is uh, very welcome here.
+
+8:14 - Peter Elfrink Uh also Sebastian Stephen sugar and spice and the fries. Defi Thanks all for joining in. Good to see you find your way to, to zoom. Yeah, apart from Zm, I don't think the general concept Just getting distracted done by mustaches, which is good. Yeah, outside of the location of this meeting, structure won't too much. As you can see on screen, there's a the agenda, start out with some updates from the work groups, then a little mention of some tasks, and then I want to spend some time on recapping the decentralized governance.
+
+8:55 - Peter Elfrink Summ. And then there space for open topics. I think we can, dive right in. There should be a mention of a bit of an outline what we're doing. Yes, there is nice. So just to recap, for those who've joined for the 1st time here, I don't see too many new faces, but perhaps on uh, are there some new faces, nice and also for the people on Youtube joining in for the very 1st time, basically what the Ambassador program aims to do is to provide a a way where community members can contribute to the vision of Singularity Net, which is working towards a beneficial Agr.
+
+9:44 - Peter Elfrink Yeah, we do that by all kind of self organizing groups. There's all types of work groups for like marketing related translations. There's a couple of new ones popping up, which we'll get to in a bit later. Yeah, all in, know, it's uh, just a great way to meet, new like minded people and have fun together while learning a little bit about singularity. It. Then on to the the work groups and their updates. As you can see on screen, it's a growing list. Let's get started. The process Guilds.
+
+10:28 - Peter Elfrink Weekly meetings take place after the Nhl. So on 19 Utc also in Zoom, all of them are in Zoom. Um Tivo, can I please ask you to give a little update? What's up on the process?
+
+10:44 - Tevo Saks I just got home from an AI meet up in locker meet up from Estonia. S sheared a bit of light what's happening in single and looks like nobody knows what the singularity it in a China. So I got to do more work. Yes, process Qu Last week we looked at the dashboard and little like a little bit of what are the tags making, what kind of like a sharp it makes and then still looked into the culture and the way we are working on Robards and on alternative tools we are using to do that, and today we are going to slightly continue on that path.
+
+11:32 - Tevo Saks There was a discussion that perhaps we get the marble template out, but it has a big postponed because we're going to develop the tokenomics voting. Today, we may give a slight direction to that, Although we solution is not yet ready. And because last week there was the summit, so the homework from my side was a little bit lacking, But I did bring some new insights from the summit to also to process, to look at, and to talk about. Regarding Trey Git, main discussion were licenses like and the tools we are using and how do we aggregate all that information?
+
+12:25 - Tevo Saks We also discussed about like own tokens, having tokens for each school, or then skills. Right now we put it to. Rest. Do not touch too much of tokenomics as of yet. Build more the structure and the framework of how the Re work, so already a slight intro to the governance framework and upcoming weeks. Hopefully there will be more on that. As you can see, we are in now in Zoom and rethought AI is being used, so that's another experiment we can now try to use and see if we can find value in.
+
+13:09 - Tevo Saks This. Remained, and we launched the Stateful operation fallout to have ever. This week in Treasury. Good. We are going back to doing some contributions, looking at axels again, we are closing in of our C two month iteration, so we prepared also some slides, some data to look at, some discussion points. So how do we continue and do we want to set up some rules for us and if there is time, perhaps even principles from book called the Network State, that's it from fishery.
+
+14:06 - Peter Elfrink Awesome. Thanks a lot for sharing, yeah as as a reminder uh and you can see it on you can see it on screen the fresher guild meetings take place on thursdays at fifteen thirty to see. Um yeah then on next um We arrive at the Marketing Guild. Cardano, can I ask you to provide a little update from that site?
+
+14:35 - cran definitely uh marketing gild met friday april twenty first we had a short meeting to make time for singularity nts decentralization summit the main talking point was on how to fairly reward work group leads we'll plan to continue the conversation into this week's incubation work group see the need for more people within the Guild and work group, and we'll look into the sign up list for the Ambassador program this week to begin reaching out to content creators. We plan on discussing this with Super in Spice to get their help and get them more involved.
+
+15:11 - cran Marketing Guild meets Fridays at 13 Utc, and we could use all the help that we can get Let's hop over to Kenichi for an update on riders work group and their meeting this last week.
+
+15:28 - kenichi Jim, Jim, than you guys hear me? All right. Great. So. 1st of all, I like to say that uh,
+
+15:37 - Felix Sanso.
+
+15:38 - kenichi we've added another scribbler to our uh, list of scribblers now, now we have, I think his. Name here is um Odon. I don't know if he's still in the call, but yeah, I think he's blank God or I'm not sure. So yeah, is our new scribble. He took up the test and quite really exceed remarks, to be honest. And yeah, apart from that, we also I last, on the last call, we discussed the idea of having a parent system where two people to like, you know, maximize our efforts at all. So people can pick out hours where they are free during the week to discourse, to reflect and brainstorm God and brainstorm in sessions now and they can bring that findings to us on the weekly call on Friday so that way they can get to.
+
+16:31 - kenichi We don't really need to do so much on the call as much. I just share hope. This, like what I explained, I think I did that really well on the last call. So apart from that, I released a set of action items to look at based on the fact that we are still looking for a way to get a lot of information from the ecosystem so that we can have the like calendar or something. For I spoke to, I texted Peter and We shared the link with Hyper Cycle. Yeah, so I will be doing more research on that and see how we can.
+
+17:08 - kenichi Gain more information from that angle and use the information to create content ahead of their releases and or that that's the point from the writers work group. So we are moving towards that direction. And also for the meeting notes, The last time did the situation Sumit, I was on it. I attended most of the call, but I couldn't really get a lot information Ca there, so many people talking, so many information going around, but I think I got a few notes myself for I'm still looking for a chance to like get the full notes from Peter That would be awesome.
+
+17:39 - kenichi I think he's looking into it. I really appreciate that. And yeah, so we, we're gonna be using moving forward. I think it's, we can be using Zoom for all our calls. As I'm the group, I would be using AI as we are doing on this call, which, which is awesome. I really love the tool. Yeah, visit that to record our meeting notes and our and I will advise. Bring people and bring some sessions you probably use it to for their sessions so that way they can grasp all their ideas in one place. And yes, we'll looking forward to launching the medium account and hopefully it is so stuck in like before the this week comes out, I think that's our focus.
+
+18:20 - kenichi That's from my perspective, that's be focused on this week. I will be putting, we will also be putting out the Ambassador program. Introduction for each ambassador's bio In a way, just a short note of who the ambassadors are want to do. Doesn't really need to have your pictures in it, but at least I feel that should be our 1st, you know, piece going on the medium account. So with that we can also have the introduction to the ambassador programs, ambassadors themselves to, you know, put in the mix and then we can start pushing forward on more articles and or I think state is working on an article to introduce the civilized community.
+
+18:59 - kenichi From the Ambassadors program perspective. I'll be trying to work with him to see how we can get a good piece to come out, that our 2nd piece. So I think that's the update for me. Any other thing? I, if I I will add it and target somewhere, let you know.
+
+19:19 - Rojo on my side, Peter, if I can share my screen, that will be very nice. I also will share my mirror board on the chat if you can follow from there, that would be great. And yeah, let's share some screens. Hopefully you can see my screen now.
+
+19:40 - Peter Elfrink eight corn.
+
+19:40 - Rojo Can you?
+
+19:40 - agus.ada Yes.
+
+19:41 - Rojo Okay, perfect. So uh, from last week from the video work group, was as uh, Cran said, it was a very short meeting, we had three projects approved. So the 1st project that was approved was from Crypto Fly it, it is already a done video, you can watch it, if you go to the mirror board, you can watch it, you can find it here. We also have from a lily cupcake, we have uh, I believe, yeah, we have six uh, clips that will be posted on Instagram, tick tock on Youtube, we already created instagram and tick tock uh I would share the I will share the links later I guess and uh yeah we already have like twenty six followers on instagram that's cool the 1st clip, I I believe will be posted today or tonight.
+
+20:34 - Rojo I look forward for the feedback. So this is about the done project. So for the future projects that were approved as well. There is Agus who is working on, introductory video for Singularity Net in Spanish. I have been talking to him also about perhaps doing the same video because it's a really nice animation video. So we are thinking about perhaps making the same video in English and perhaps even other languages. That's something to be discussed and approved by the community obviously.
+
+21:08 - Rojo So yeah, we, we look forward to uh, looking at the Access video, also we had one Id suggestion by head of uh about make In a video for each one of the, like, an introductory video, basically for each one of the singularity nets, Sub projects or I don't know what to call them to be honest, but other projects, let's say, you know, Singularity, do rede and and basically the others also in the same mirror board, if you look at it, you will find the section which is governance and auditability.
+
+21:41 - Rojo For this section. If you are in, interested in seeing, well how is the work group working on, what is it doing? Basically, you will find the document for the structure of the work group. You will find that a place for all the contents that is, that is created and you also find another document which is the work groups. Kpi Uh, most of these documents are not up to date, so if you look at them now, you're not gonna find much information. I think the only one that is, I would say up to date is the structure of the workload, which is also, open to suggestion if you think that something is not right or should be improved.
+
+22:18 - Rojo Please go there and suggest something. For all content created, I, I still have to kind of upload some created content and uh, the Kpis I just created like uh, basically an outline on, on Google Sheets and I will fill in the information later on this week. And uh, I also want to add the information. So uh, basically in our weekly meeting, I will use these Kpis in, in a sheet just to show like the, our some data about how are we doing in terms of views and subscribers and stuff. Just to look at it data wise and see how are we doing in terms of outreach, especially from the video side, in terms of platforms and stuff like that.
+
+23:08 - Rojo And that's it. For the Vidual group, I would like to also add some details. I have been looking at the Summit platform for the last Perhaps a couple of weeks, and we got accesss, which is very nice. We got access to main net, And uh, we've been looking at that I created like a community there, so the basically the boost, trapping or the testing will be done uh, hopefully next hour. So I encourage all ambassadors to be there. Since you have a token for ambassadors, we will use that token to test, to test, the, the platform, okay, so if you can be there, like I would immensely appreciate it, I guess that's that.
+
+23:52 - Rojo I don't know if I forgot something, but uh, yeah, that's about it. For.
+
+23:57 - Peter Elfrink Well, not so much, forgot something, but on that, on the token actually for testing, someone, could you please, remind us where to find that?
+
+24:05 - Rojo You will find it in your Cardano wallet. So uh, I took uh, the address, wa, the address of your wallet from the from the payment sheet. So I believe Yeah, I took the, the latest ones, so I believe that's your address. So whatever address you provided to, to, to the treasury system, that would be the, the address you can use. Yeah, hopefully I didn't send it to someone else.
+
+24:37 - agus.ada I would be interested in in testing the platform, but I didn't receive any tokens.
+
+24:44 - Rojo Unfortunately, I only send the tokens to ambassadors, so we only have,
+
+24:48 - agus.ada Okay,
+
+24:49 - Rojo this is just for testing. We will if,
+
+24:51 - agus.ada all right.
+
+24:52 - Rojo if it seems like a good platform to use and a good method to go about it, like having Nfs, for identification, then we can open it up for the wider work groups which you are part of a Gus, We will have our own tokens maybe for governance of sub communities and stuff like that. Yeah, I look forward to this. I, I think it's gonna be really cool, but yeah.
+
+25:15 - agus.ada Okay, no problem. If you guys want, I can also arrange a test of Clarity protocol platform is similar than Samon. If you want, I can.
+
+25:30 - Rojo Is it on man yet tomorrow?
+
+25:34 - agus.ada Yes, there are things that are already.
+
+25:38 - Rojo Oh, that's cool, that's cool. You can can. Can you forward me some of, I don't know, maybe some link or something like that? Because when I checked it was test net and the closed test net not, not open.
+
+25:51 - agus.ada No, no, there are things that are I will share with you.
+
+25:57 - Rojo Thanks a lot. Appreciate.
+
+25:59 - agus.ada Some functionalities are mined.
+
+26:09 - Peter Elfrink and then, well, actually, Roger, perhaps can answer this a question in chat from, from Tfo, What are we using Summon or Clarity for just?
+
+26:16 - Rojo so uh, the main news so far is Pase, so we want to have, we want to have uh, basically recorded polls for, or registered polls like based on, Who are like basically involved. So uh, usually the way how we do it now is uh, by consensus or consent. Head off way, which I really appreciate and it's a really nice way, but we also wanted to add something on chain. So we would have the classical way, which is consent Y or. And we would add to that an extra layer on chain prot, recording our votes and our decisions.
+
+26:54 - Rojo Which is using one of these platforms, Clarity or Summon? So far, we're looking at Summon, but nothing is fixed.
+
+27:05 - Peter Elfrink No, I would say, especially in light of testing, it makes sense to test on a couple of different ones, right?
+
+27:10 - Rojo Obviously, yeah, yeah, for sure, someone seems to be a little bit more sophisticated just because it's built by Ada, which has like a very wide, kind of, history in terms of like Dow governance and multi sick wallets and all these things. But I'm really open to look at clarity. I didn't look at it deeply before. So yeah, that would be great to see you.
+
+27:35 - agus.ada I am not related with neither clarity or someone. I am a part of Rasta. The thing about Clarity is that the team, the technical team behind Clarity is Envelops, which is a very good technical team.
+
+27:53 - Rojo Yeah, for sure, yeah, yeah. Em labs is, does need no introduction again, yeah.
+
+28:00 - Peter Elfrink all right, good stuff. Yeah, then uh, let's hop back to the If I can find it, to the slides. Well, actually, I know on top of mind what's next on the list. There would be the incubation workshop, which is taking place on Wednesdays at 20 Utc 19 Utc. Okay, let me share. 19 to see um. Oh, a cronan or fly. Can I ask, Gyda, if you to give a little up dat there.
+
+28:46 - Fly Take it away. Nice you've been hearing about Friday. You're gonna have to cost your mind. Two days back, incubation, on Wednesday, April 19. Last week we were focusing on work group leads, discussing work group leads, how to handle budget, how interact with other parts of the ambassador program. So we looked at communication between the program and the foundation, the ecosystem as a whole, the communication between W and groups, and allocations and then a discussion of an open open topics before going to the ten thousand foot view.
+
+29:51 - Fly Many of the ideas picked up during this session were kind of honed in on during Fridays and focused in on During marketing Guild and some of the discussions that happened were on the pairing program, on the best practices for work group leads. We implemented a little, skills labeling on discord. You might have noticed, allocate different roles to people who are participating in different work groups. We were considering budget allocations, though we you didn't come to anything specific, and this week we will look at building upon that and making sure that There are no barriers for allowing professionals to come in and participate in the program.
+
+30:55 - Fly Week in incubation. We'll be discussing again what group leads a bit. Focusing in on the connections between education, guild Uh, the Ar Archive Guild work group and the AI sandbox, which are two kind of work groups which are coming through the surface, you will hear a little bit about soon. So welcome to join on Wednesday at 19 hundred Utc. This Very Yeah Grassroots Open Source Conversations. Focusing on community the grassroots levels with our work groups and collaboration between each other and then we go to the ten thousand foot view tommy applause are yours.
+
+31:58 - Headelf Thank you. I don't have those cool um glasses that you do. I just, I just have these full red ones on. But great report and thank you. Decentralization, it's, it's powerful. What we're seeing in today's meeting on the Decentralization Um Strategy Guild and put out a Um Dew on educational Um, process or an educational group. And here it is bearing fruit. And it's starting up as I understand Monday, I don't know if the deep fry is gonna talk more about that. And Steven, as you said, with the archival, last week strategy right after incubation, which had a fantastic meeting I thought, especially looking at the work groups.
+
+33:00 - Headelf I mean marketing, yeah, we spent a little bit of time and, and you heard Rojo talk about, the Summon platform. We we discussed that Rojo and I and One or two other people joined and onboarding at Summit. To learn about it. I had been to a previous onboarding, so I knew a little bit about it. You can use Nfs or you can use tokens. And what Rojo was talking about was the Nfp S that had been sent out. And I know I have it in my world. So someone is a very strong platform. As Rojo said, something we're going to be looking at more in strategy, especially after uh, the summit, last Friday, which is the big gorilla in the room, is everything that came out of the summit.
+
+33:53 - Headelf You know, how do, how do we adapt, the Ambassador Program to what is going to be happening in in Singal. Whether it's Summon, whether it's uh, Clarity, which I had been invited to join when they were in the, their startup stage through a different organization that I'm involved in or another solution. We do need to in, in our opinion and strategy, we do need to something other than discord, potentially, to house the communities of Singularity Net, a big housing where we can all communicate.
+
+34:41 - Headelf And we've been talking about tools and uh, different objects, different ways of going and, and the costs in it. And right now Rojo Hass started this, which is phenomenal. And that's as I started. The beauty of decentralization. We discussed something someone takes on the lead and things get done. So I commend Rojo on that. Someone does go live tomorrow. I believe the, the main net, so something to look at, clarity. I looked at it early on and I, I decided where they were to, to not continue looking into it.
+
+35:19 - Headelf But M Labs is, is great and it probably deserves a 2nd look. The other thing we did in strategy, which is going to continue this week and I believe for a while, is discussing, and going over Gover, uh Felix's uh, governance framework, for es net, we, we will this week discuss the summit, ideate on, on how to incorporate everything for, for the good. Of the greater, so that that's going to be a big part of what strategy will did go over last week and will go over uh, this week. And there's, there's been suggestions, I think Steven made one, last week about going uh, section by section There's been a lot of conversation over this and there's been a lot of editors that have touched base on, on the document that is credited to Felix.
+
+36:30 - Headelf So that'll be a big part of strategy this week. And then depending on what we come out of with, from, from the Singal uh summit or or the E Net summit, we're going to get into ethics and responsibilities of ambassadors, probably down to the work group since we're incubation, is looking at work group leads and how do we handle that? And, and ethically and transparently, how, do we handle and guide everybody so? That's uh, that's it. For your strategy, thank you.
+
+37:13 - Peter Elfrink Thank you,
+
+37:17 - Stephen - QA-DAO I'm sure I think I could share Scream Pizza with a lot.
+
+37:23 - Peter Elfrink sure thing um find, but
+
+37:28 - Stephen - QA-DAO Okay, let's get this a go. I'm just, I'm just improvising, so be gentle. Can you see the screen?
+
+37:38 - Peter Elfrink Not yet, but it's loading, looks like, There we go. Yes.
+
+37:42 - Stephen - QA-DAO Okay. Okay, so the Passy makes and B being build in the open source infrastructure for the Ambassador programm, particularly under the Singular Gine archived Github repository. So this is now set up and it currently mirrors the back end of both our G Books, which are the archived G Book and the Singularity Net Ambassadors G Book, which has been created a few months ago. There's also, this is also a platform for managing what is going on, on. The open source side here for a project board, This will interface in with Dw.
+
+38:20 - Stephen - QA-DAO And I'm planning to draft a proposal for the work group here as well. Archive also is another forum for discussion but this discussion is more documentary so I'm looking at how for example freds on how to design the audit trail at the back end. Which may be of interest here on lens training as mentioned earlier, that's using some beta features with Git Book to try and ask questions of the Git book, which has varied responses at the moment because we're ha, incomplete data and that's so I'm looking at how we can refine the data that we are accruing to build kind of an AI interface for so the contributions of the past few months have been about one hundred twenty commits on the archive p book and a less slightly less amount sixty sixty five commits on the ambassadors give for I sort of need to put together a proposal to manage how we can update that using.
+
+39:40 - Stephen - QA-DAO There is a comment feature and I like to get other people involved in this, but I want to figure out how that can happen, what meetings can be hold. And how people can contribute, so. That's it really. So if anyone has any questions, I can answer any questions or, but I'll just keep it short and sweet.
+
+40:07 - Peter Elfrink I do have a question, um or devi it, go ahead.
+
+40:11 - Fly You got pit them.
+
+40:15 - Peter Elfrink well, broadly speaking, as a work group, does that also automatically mean like that there's Because I, I know there's a discord channel, dedicated to the Icar work group, with the work group also have meetings, is that something?
+
+40:33 - Stephen - QA-DAO Yes, yeah, I mean I, I, as you know, the possible is a kind of field, not the infrastructure, which is kind of like a solo job, you know, and I'm just trying to get it into a position where people can get together and work on something together as a group. Absolutely, Peter, but I need to get in a position where people have something to do and also they know how to do stuff because some of this is technical stuff and some of it is and I think a good place to star is the G Book is because we have an open source license.
+
+41:04 - Stephen - QA-DAO Thank you, Git booo. It means that people can come and edit the content on our Git books. Now obviously that can't just be a free form. Our gi books are like an archive we want to maintain quality because like for example the ambassador's g book it be good to make that a definitive point of reference you know so obviously need to work out some sort of workflow of quality you know so that people can say I'm updating this piece of information and then that is agreed and then it's published on the book.
+
+41:44 - Stephen - QA-DAO So I needed to figure out I was going to draft out a proposal again. We haven't done a proposal for a work group before. I've kind of like tried to look at how that would look like and the sort of things I need to answer s questions I need to answer like, When will the meetings be? How much it might cost in terms of a party who should be involved, that kind of thing. Is that helpful?
+
+42:11 - Peter Elfrink Or won't you?
+
+42:12 - Rojo A small comment is even like perhaps that draft of the proposal can be added to our Ambassador framework document as an appendix for future use. Because we do talk about how to create new work groups, but we don't really have a framework for that, do it?
+
+42:34 - Stephen - QA-DAO Yeah, I know Felix, I'm not sure if he's here, he's cameras off, but I have been working with Felix on something. It's not just my work, it's that there are drafts for people are thinking about how, what, what that would look like, and of course it's would love to have some feedback on that, like what should that look like, you know? So I mean, obviously I'm going to draw something anyway and just put it out there and people can comment on it. But yeah, it's, it's going to have to be part of our process.
+
+43:10 - Fly Nice, just wanted to say, I think this could be a great, a great section of time and the incubation geld this week to kind of go through this and give some space to ask and answer these questions, help the move forward. Cool, great stuff man.
+
+43:34 - Peter Elfrink Nice, so yeah that that would be one of the two new work groups that are popping up um another one uh would be the educational skills or work group I'm not even one hundred percent um the five where can I get you the word on this.
+
+43:57 - TheFreysDeFi Absolutely, Peter, and thanks for the intro. I don't know if it's a guild or work group either. I just saw a need and kind of started off the cuff. So the first thing I think we need to settle is you know what time it does meet we met sixteen hundred utc yesterday which seemed not to work for a lot of people I posted a w to meet link and it's looking like it's gonna be more like twenty one hundred utc moving forward that being said and I think that was one of your availabilities to Peter um if I didn't get it wrong but if everybody could go in and look at it um twenty one hundred seems to work for everybody who filled it out except for vani but I think she said she couldn't meet on monday so we'll record it and put it out for everybody so they can be included after the fact because it as we found out in our discussions Crandon, Fly and Rojo.
+
+44:54 - TheFreysDeFi This is a very, very large topic education as it comes to regard Singularity Net AI as a whole. One topic would lead into another topic and we got into quite a bit, you know, one of the things we had discussed. Is even leading, like a seminar project an ambassador could host, monthly, weekly, bringing in an AI expert, to try and help educate people more broadly and ourselves broadly on the subjects of AI. And that led into, well, what's is this internal education or external education?
+
+45:35 - TheFreysDeFi And I mean, you can see where the fraction goes on this. And I think it was decided we kind of need both as we move forward. There was discussion about setting up tasks for people to summarize the different podcasts or educational materials that are already out there. I think a big initiative for us is going to be collating the information that already exists out in the world and bringing it into one digestible place. You know, right now we have discord, but I could see us having a pretty good initiative just on bringing information into one place.
+
+46:11 - TheFreysDeFi We talked about writing articles and videos about various AI products as it relates to our own marketplace, but also other products. Through these, we could rate different AI products. And I wondered if we couldn't, introduce singularity in that, reputation system for rating AI products as a whole, so people know whether they're safe or not got into, you know, how do we educate people about data protection, what these tools are doing with your data, what they're taking, How do we teach people to hold AI accountable do all this know.
+
+46:54 - TheFreysDeFi In general, wider AI ecosystem education We even discussed a possible AI education disclaimer for any materials we put out. You know, do your own research. This is not financial advice sort of thing. Ah, just to kind of protect ourselves because this is a new thing. We talked about popular products discussions, we talked about prompt hacking and chat G P T. We talked about weekly watch parties we could host through the The Singularity Net Ambassadors Guild, about upcoming Singularity Net podcasts and different videos that are putting out We talked about hooking in with academics and linking it up with deep funding and various educational institutions that already exist.
+
+47:42 - TheFreysDeFi How do we get some professors involved in some of these discussions to add credibility to what we're doing? I know Fly is going to meet a professor of cybernetics in a couple of weeks and I'd be more interested to hear how that goes and just bringing more people in to give an educational foundation for what the Ambassadors Guild is doing. And then it got into, well, what type of education are we going to be running coding work groups, which I think is, you know, potential down the line, or are we doing more base level education for?
+
+48:17 - TheFreysDeFi How do people interact with AI and Agi in their daily lives? How do we teach people the difference between Agi and AI? So, as you can see, this is the potential to fracture into about three dozen work groups. So we're trying to wrestle with the high level conversations about what education means to the ambassador work group, what is our role as educators, and how do we go about doing this. We don't want to duplicate any work, but we also talked about, you know? Rojo had mentioned the blockchain group at his school.
+
+48:52 - TheFreysDeFi Is one of the the more busy clubs how do we incorporate those individuals that are at institutions of higher learning to get involved with the work group and help spread our educational message about singularity in that so if twenty one hundred works for everybody I think I'll put a pin in that, but let's circle back to it because this is a group. I would really like everyone to be able to, attend because it is such a large topic and I look forward to hosting more meetings. Thanks, Peter.
+
+49:34 - Peter Elfrink Amazing. Now I feel even more, bad about having to miss that session. It was uh, unfortunate timing for me personally. Also twenty one year to see it's twenty three my time it's not optimal for uh attention but at the same time uh I did fill in this uh w to meet so I think we'll just have to go with when most are available.
+
+49:56 - TheFreysDeFi okay I think the one that said everybody comm meet was three p m eastern standard unless I did my calculation wrong.
+
+50:05 - Peter Elfrink Not sure, but uh, it's, it's, we'll get that sorted. Not so good. Yeah, great stuff. What's not to like there? And I'm sure that that list of topics to cover or potential topics to cover is only like the tip of the iceberg. Like it's just, it's a rabbit.
+
+50:26 - TheFreysDeFi There's so much to it. I'm gonna upload my notes from the meeting into the Educational Guild chat. Some other thoughts I'll put together a little document I have. There's so much coming that's gonna come out of this, I think.
+
+50:41 - Peter Elfrink Yeah, absolutely. Great, looking at the clock, time is flying, so I'll fly through some of the remaining machines. I quickly do want to touch on the tasks of things and then specifically the translations. We had two blocks. Intention The intention was for them to be used for onboarding. Veteran translators, but they're now moved from backlog to do so. They're open for applications and I'll be assigning them tomorrow. In a way, it's kind of nice that they sat there for a little while, because now I have a proper overview of supply, let's say of translations, and then, yeah, after that I'll add two more blocks as well.
+
+51:29 - Peter Elfrink The operations Qe, one block went live today and It's recommended reading actually. It's, it's, yeah, gives a proper overview on, on all the milestones within the whole ecosystem, pretty much. Yeah, that's act also, give us an update on uh, partnership side and Hr side of things. So that will get covered through translations as well. Yeah, then I do want to talk a little bit about the Decentralized Governance Summit. 1st of all would like to thank Daf and Felix for actually being on The session covering the Ambassador Program.
+
+52:14 - Peter Elfrink It was a weird session. I, I loved it, but I like, I think we only covered like 20 % of what we intended to cover. Also uh, thanks there to uh, Cronan for providing um, quite some structure through the um, presentation slides. We only touch like the surface of what we intended to touch? I don't know. We have the Outlook of being able to go into the break time because we would be the closing session of that uh, track, however, there was some issue in main room so we needed to give up um, the break time to another session and um, we just, yeah, didn't have enough time.
+
+53:03 - Peter Elfrink Pretty soon we already realized like, we're just gonna have our own streams and then talk about what we want to talk about because we can. So we shouldn't be limited by, by a summit like that. It was, yeah, it was really nice, from my experience at least. And for, yeah, for the recap side of things, anybody here who I know, I see people who were there, but any, any thoughts that? Summit. It's too broad a question, isn't it?
+
+53:43 - Headelf I was I was blown away by it. I guess I'm more of a nerd than I thought I was, but I sat and I was babysitting my, my oldest grandchild. So I was a little distracted, but uh, it, it was just a lott a lot of uh, beautiful and intelligent people presenting some great information. I have not had a chance to go and look at uh, the Youtube stuff if it's even up. The task that I missed, or the tracks that I missed. But uh, you guys, I thought you guys did a great job, you know, the presentation on the ambassadors was good, short as you said, yon is, Jon is a fantastic speaker, he came across well loved, the fire, talk fireside talk with Charles and Ben.
+
+54:39 - Headelf I, I almost understood. Some of the conversation. They're just so high up in wherever they are. And Ben's closing the Ama was I thought it was a powerful way to bring everything around and close it up. I thought it was great
+
+54:58 - Stephen - QA-DAO Yeah, I would recommend. For geeks out there for the voting session. It's quite an interesting. Maybe we'll to that. An interesting overview of how voting technology can be used. Cincom Dell presentation by Yan As you said, Tommy is really informative and interesting as well, and I need to go back and look at the presentation on the reputation, proof of reputation, technical, which is really critical as well, so a lot to absorb. It'd be great to see once it's broken up so it can be digested easily and you know, there's a really great food for, for.
+
+55:46 - Peter Elfrink Thanks a lot for sharing.
+
+55:50 - Fly It was really cool I think, it was. Some great speakers and so lovely that the beginning sessions kind of led to the end with sin cm down and like Some of the earlier sessions, like David Wood, were just so great to put it into perspective, in essence what we are doing with the Ambassador program and what for the role we kind of fulfill. As this kind of community as we are now like the community advisors to the advisory board of the Foundation. Like now going into it as a kind of equal on that level, kind of, yeah, it's.
+
+56:47 - Fly Interesting.
+
+56:50 - Tevo Saks It did also feel like it was a quite a holistic track. Like they, they weren't like in some summits where every track has its own thing and kind of unrelated and some chests presenters doing their own thing, but here it was all like holistically like a same. Topic and it kind of went together quite well. When one meeting ended, another started. It felt like that's a continuation of that same topic, but just a different perspective or even more in depth. Yeah, I took all my weekend to catch up with the rest of vids, so it was great to hear other alternative products and services also offered like Menagerie.
+
+57:43 - Tevo Saks And they also get to to date with the David Urban's text, with the We present and sing on Down Im.
+
+57:58 - cran Yeah, I thought,
+
+57:59 - TheFreysDeFi There was there was so much information.
+
+57:59 - cran sorry for, go it.
+
+58:02 - TheFreysDeFi I mean I'm still trying to wrap my head around a lott of it. Ben's intro was great, great way to start off. And even the following slide where the gentleman went through history going back to the Middle Ages and how technology has increased life spans and watching the curve as you know, our life spans have increased and how AI is going to increase it. And there was just so much information there. You know, Peter, I thought you did a great job, one of the things that really stuck out to me and and I think this relates to what we're doing for the Ambassador to Guild.
+
+58:42 - TheFreysDeFi More so is yon. And I think he made a comment where? And I'm paraphrasing here, you know, they don't want a ceiling for anybody working in the ecosystem. They want people to rise up. They want to hire out of the different ecosystem partners. And as it relates to us, I see it as a call to action. You know, for us to step up, for us to create pathways for more people to come in and get talent into the various ecosystem projects, get people comfortable with Agi, the different tools, so the entire ecosystem can grow as a whole.
+
+59:25 - Fly Amen.
+
+59:26 - cran Nice to to echo on that. Yeah, I thought David Wood did an amazing job launching the summit after Ben Grizel's opening. And then I thought a lot about the structure of Cincom Doo and the initiation document. There's an example of what the governing structure could look like with an executive team. It was said, would handle more of the day to day operations. While some of the things would go to the community for a vote, I do hope, and we'll push for a few community members, perhaps two to three ambassadors, to be on this executive team.
+
+1:00:01 - cran For the supervisory council, I've been thinking about how it should be readers within the space of technology. I think we could get a hefty whist together along with contact details to reach out to minds like David Wood and others on various boards of technology and field any interest they'd have for this type of role. I kind of see the supervisory council playing the same an advisor would in any project structure. And then I'm also trying to reach out to minds like Grace Romani, who spoke at the summit, to see if we can book a time like some form of Ama.
+
+1:00:39 - cran They made a lot of great points during their presentation, including the question of why voting. So overall, I enjoyed a lot of the presentations and I still need to go back and catch a few that I missed.
+
+1:00:57 - Peter Elfrink Awesome, good stuff, by the sound of it, at least some of the goals of the summit were achieved. That's criteria. So after the summit as you can see on the slide for a couple of minutes already. The one of the next steps will be the election of the renewed Supervisory Council, and for that Pretty sure tomorrow we will open up sway actually for ideation on that process. There will be a couple of missions like, reading from my screen here, not gonna lie, for example on the key responsibilities of the supervisory council there will be a separate pool where people can put proposals and discuss them stuff like the ombudsman roles returning quite often.
+
+1:01:56 - Peter Elfrink Critically guiding the beneficial nature of our missions. Stuff like treasury management, ethical standards for the platform. Guiding ill legal matters like all that, that kind of stuff that would be, possible to ideate on in that pool there. There would also be a pool related to the length of the like, the duration of, of the new supervisory council, for how long they would be. Appointed. Basically because there's going to be the stage of seats, income down for three to six months and that, yeah, that's something to discuss.
+
+1:02:34 - Peter Elfrink Like what we done for that period only have a supervisory council or would it. Turn over. Also during the, the actual syme though, would it remain the same or would that warrant a new election? That's well, it's not clear. C And and to be discussed, another pool would be on a conversation of supervisory council members. Well, speak for itself I guess, but yeah, you could argue, that it, it could be strong if there's just like, like industry standard composition the other way around, theoretically can be a voluntary role.
+
+1:03:20 - Peter Elfrink Should it be symbolic? Should it be related to the time spent? If so, would we put gaps on that? Like it's in a way related to discussions we having inside the Ambassador program, which is not too surprising because yeah, there's, there's clear overlaps, Let's see, actually something interesting related to that topic would be like if if there's somebody living, like dislocation of living impacts what somebody earns. We, we also had this discussion for the, for the Ambassador program.
+
+1:03:53 - Peter Elfrink Yeah. And then finally another would be uh on on voting mechanisms like um stuff like one to combined vote for example has some drawbacks um most would agree with that um At the same time, on the complete opposite side of the spectrum, I guess, would be a white seats voting, which also would find some opponents. Yeah, so so discussions and proposals on how to, to properly vote on that. Of course there will also be like a other category where anything that doesn't fit the category can can be discussed and ideate it on of course.
+
+1:04:32 - Peter Elfrink So yeah, I just wanted to outline that, a little bit, but tomorrow there will be a blog post outlining all this, in a bit more detail. I'm not flying through my slides. Apologies, looking at the clock and running into process. Go time once again. Try to avoid never manage, are there for now any questions on, on this or should we move on?
+
+1:05:06 - TheFreysDeFi I think there's a lot of questions on it, but for time's sake maybe move on and bring it up in strategy or something.
+
+1:05:14 - Peter Elfrink Yeah, sure. Oh, and there will also be, community calls about these topics. The one just be on s way. All right, yeah, a couple of quick mentions, Cogito actually has their demo life since 2 h. That's definitely something. Well, if you're interested into tracer coins to check out. Earlier I did mention operations qe one blog being out and additionally something uh interesting to check would be the Jaca im it to place on uh Youtube last Monday yesterday. And then I want to put a mention out for the AI sandbox session on uh this Thursday at 13th, you to see with um Fly Fos and Felix.
+
+1:06:09 - Peter Elfrink Elevator pitch there. Sorry for putting you on the spot like that.
+
+1:06:16 - Fly Play. That's, that's it. I think we don't have much time, but it's so much part of what we're about as ambassadors, like on boarding ourselves, on boarding, the community can play.
+
+1:06:33 - Peter Elfrink awesome, nice. Does bring me to the very last uh, slide, wrapping up, unless there is any pressing issues which should be addressed right now in this session. Okay, that's it. Yeah, well, hope to the Process Guild meeting and I would like to thank everybody right here to, for attending today. Thanks a lot.
