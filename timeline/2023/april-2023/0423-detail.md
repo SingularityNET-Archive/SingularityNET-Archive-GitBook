@@ -2,7 +2,15 @@
 description: The SingularityNET Ambassador events of April 2023
 ---
 
-# 0423  Detail
+# 0423 Detail
+
+## Tuesday, 25th April 2023
+
+Events
+
+## Monday, 24th April 2023
+
+Events
 
 ## Friday, 21st April 2023
 
