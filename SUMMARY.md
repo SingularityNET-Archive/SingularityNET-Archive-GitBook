@@ -26,8 +26,9 @@
   * [November 2022](timeline/2022/november-2022.md)
   * [October 2022](timeline/2022/october-2022.md)
   * [June 2022](timeline/2022/june-2022.md)
-  * [May 2022](timeline/2022/may-2022/README.md)
+  * [May 2022](timeline/2022/may-2022.md)
     * [Week 18](timeline/2022/may-2022/week-18.md)
+    * [Week 19](timeline/2022/may-2022/week-19.md)
 
 ## Links
 
