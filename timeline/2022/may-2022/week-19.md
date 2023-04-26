@@ -16,7 +16,7 @@ description: May 9, 2022 to May 15, 2022
 
 #### Welcome - Intro
 
-After an introduction the meeting was kicked off by x. Values and goals were expressed.&#x20;
+After an introduction the meeting was kicked off by x. Values and goals were expressed.
 
 For the community, by the community. Values and Goals
 
@@ -25,24 +25,24 @@ For the community, by the community. Values and Goals
 
 #### Overview
 
-An overview of outlines.&#x20;
+An overview of outlines.
 
 * Pilot phase Q2-3
 * Sign-up form - required information
 * Roles, tasks, workgroups
-* Rewards&#x20;
+* Rewards
 
 #### Roles & Tasks
 
-Tasks that people can do as an ambassador are discussed. How to sign up as an Ambassador. Interacting and onboarding newcomers. Roles and tasks. How to amplify messaging. Tasking an initiative.&#x20;
+Tasks that people can do as an ambassador are discussed. How to sign up as an Ambassador. Interacting and onboarding newcomers. Roles and tasks. How to amplify messaging. Tasking an initiative.
 
 #### Work groups
 
-Suggestions for workgroups.&#x20;
+Suggestions for workgroups.
 
 #### Rewards
 
-Certified Ambassadors. Quality standards and tasks feedback. Basic knowledge test. Proof of reputation and rewards.&#x20;
+Certified Ambassadors. Quality standards and tasks feedback. Basic knowledge test. Proof of reputation and rewards.
 
 #### Open round and conclusions
 
@@ -54,4 +54,6 @@ Feedback survey and outro.
 
 ### Miro Meeting Frame
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-26 13-59-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-26 13-59-05.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot%20from%202023-04-26%2013-59-05.png" alt=""><figcaption></figcaption></figure>
