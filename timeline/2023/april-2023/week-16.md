@@ -31,7 +31,7 @@ description: April 17, 2023 to April 23, 2023
 
 #### Summary
 
-The weekly Ambassador Town hall is hosted by Peter. Town Hall meeting number 44 was held on April 18th, 2023. On the agenda was 1) Workgroups update, 2) Tasks, 3) Mentions and 4) Open topics.
+The weekly Ambassador Town hall is hosted by Peter Elfrink. Town Hall meeting number 44 was held on April 18th, 2023. On the agenda was 1) Workgroups update, 2) Tasks, 3) Mentions and 4) Open topics.
 
 #### Slides
 
@@ -94,7 +94,6 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 This week's Treasury Guild was facilitated by Tevo Saks and discussed documentation, budget categories and Read.ai transcripts.
 
 [Read.ai](https://www.read.ai/) provides AI-generated summaries, transcripts, playback, and highlights.
-
 
 ## Friday, 21st April 2023
 
