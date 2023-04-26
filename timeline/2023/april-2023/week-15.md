@@ -8,7 +8,9 @@ description: April 10, 2023 to April 16, 2023
 
 ### Ambassador Townhall
 
-Summary
+#### Summary
+
+Ambassador TownHall #43 was hosted by Peter Elfrink.
 
 {% embed url="https://youtu.be/qSuJTl5loVE" %}
 
@@ -32,11 +34,11 @@ Slides
 
 Incubation discussed rewards for prior contributions to the Ambassador Program. See the slides above.
 
-We discussed using Marketing Guild as an example from November - March. The spreadsheets included in the above slides highlight treasury disbursements up until present date. For Marketing, see:&#x20;
+We discussed using Marketing Guild as an example from November - March. The spreadsheets included in the above slides highlight treasury disbursements up until present date. For Marketing, see:
 
 {% embed url="https://docs.google.com/spreadsheets/d/1CXx6kdah8z-NnLobKQakNj9OZePMAbCiFYd63vLRw2g/edit#gid=859284282" %}
 
-We came to the conclusion to reward Fly you fools and crandano for 5 months of the Marketing Guild & Felix and Tevo for prior contributions for the Ambassador Program since April 2022. 1,875 AGIX / month / person (5months cran and fly; 12months felix and tevo) This is roughly 43.7% of the Ambassador monthly rewards currently moving forward per month. We recorded the conversation and please ask any questions. Strategy discussed reward budget allocations for the various areas of the Ambassador Program.&#x20;
+We came to the conclusion to reward Fly you fools and crandano for 5 months of the Marketing Guild & Felix and Tevo for prior contributions for the Ambassador Program since April 2022. 1,875 AGIX / month / person (5months cran and fly; 12months felix and tevo) This is roughly 43.7% of the Ambassador monthly rewards currently moving forward per month. We recorded the conversation and please ask any questions. Strategy discussed reward budget allocations for the various areas of the Ambassador Program.
 
 See the doc here:
 
@@ -62,9 +64,6 @@ Summary
 
 Summary
 
-
-
-
 ## Friday 14th April 2023
 
 ### Video Workshop
@@ -78,4 +77,3 @@ Summary
 ### Marketing Guild
 
 Summary
-
