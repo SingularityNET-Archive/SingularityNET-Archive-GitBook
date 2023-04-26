@@ -8,6 +8,8 @@ description: May 9, 2022 to May 15, 2022
 
 ### Ambassador Program kick-off Townhall
 
+Ambassador Town Hall meeting #1 was hosted by Peter Elfrink.
+
 {% embed url="https://youtu.be/4g_rUNNBQjI" %}
 
 #### Timestamps by Felix
