@@ -6,3 +6,4 @@ description: November 7, 2022 to November 13, 2022
 
 ## Tuesday, 8th November 2022
 
+### Ambassador Townhall Meeting #24
