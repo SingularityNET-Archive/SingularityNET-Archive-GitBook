@@ -20,7 +20,7 @@ Events
 
 ### Ambassador Town Hall #45
 
-Ambassador Town Hall #45 was hosted by Peter. There were 28 participants.
+Ambassador Town Hall #45 was hosted by Peter Elfrink. There were 28 participants.
 
 #### Summary&#x20;
 
