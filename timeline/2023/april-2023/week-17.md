@@ -33,3 +33,8 @@ The FreysDeFi discussed the potential for the Singularity Net Ambassadors Guild 
 #### Meeting Transcript
 
 {% file src="../../../.gitbook/assets/Ambassador Townhall Transcript" %}
+
+## Wednesday, 26th April 2023
+
+### Incubation Workshop
+
