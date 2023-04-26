@@ -46,7 +46,7 @@ Our discussion pondered posting educational content as well as updates about the
 
 A piece of the conversation was Twitter with future possibilities including hosting or helping out with Spaces in the SingularityNET ecosystem.
 
-We're looking for people interested in social media, video editing, writing, and content creation. All ideas are welcome.&#x20;
+We're looking for people interested in social media, video editing, writing, and content creation. All ideas are welcome.
 
 To-Do / Goals:
 
@@ -54,7 +54,6 @@ To-Do / Goals:
 * ponder a handle we would like to use across our socials and create an overall cohesiveness between socials
 
 {% embed url="https://discord.com/channels/909843832491896832/1038090418597941268/1038138312923283486" %}
-
 
 ## 8th November 2022
 
@@ -90,4 +89,3 @@ There's an interest form for the Ambassador Program. By Q1 2023 we should put to
 To-Do: -Decide on a handle (or settle for SNET\_Ambassador) -Get Twitter going, find people that want to contribute, add to Tweetdeck, discuss posting guidelines -Weekly video editing and posting on the Ambassador YouTube -Plenty of potential for write ups, blogs, and videos on the ecosystem and Ambassador Program.
 
 {% embed url="https://discord.com/channels/909843832491896832/1038090418597941268/1045580073148895232" %}
-
