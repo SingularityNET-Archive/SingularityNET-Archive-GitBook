@@ -64,7 +64,7 @@ Feedback survey and outro.
 
 ### Miro Meeting Frame
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-04-26 13-59-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-26 13-59-05.png" alt=""><figcaption></figcaption></figure>
 
 ## Twitter Search
 
