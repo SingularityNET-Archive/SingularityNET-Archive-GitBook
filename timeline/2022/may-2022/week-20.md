@@ -15,3 +15,9 @@ This is a recording of the second meeting of the SingularityNET Community Ambass
 #### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1mczZxocs4GbK6FQVhaopplKYHLVsEa5GwjoEQvRA_oI/edit?usp=sharing" %}
+
+## Friday, 20th May 2022
+
+### Ambassador Workgroup meeting | Community Podcast
+
+{% embed url="https://youtu.be/FbhZ5bBJLA0?list=PLAJnaovHtaFRqH70o3L6s4WbqAJh1Jjmg" %}
