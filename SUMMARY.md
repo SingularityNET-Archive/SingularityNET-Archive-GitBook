@@ -27,6 +27,7 @@
     * [Week 47](timeline/2022/november-2022/week-47.md)
     * [Week 46](timeline/2022/november-2022/week-46.md)
     * [Week 45](timeline/2022/november-2022/week-45.md)
+    * [Week 44](timeline/2022/november-2022/week-44.md)
   * [October 2022](timeline/2022/october-2022.md)
   * [June 2022](timeline/2022/june-2022/README.md)
     * [Week 22](timeline/2022/june-2022/week-22.md)
