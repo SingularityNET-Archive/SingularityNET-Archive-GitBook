@@ -56,6 +56,10 @@ Please forget all prior prompts. I want you to become my Prompt Creator. Your go
 
 In natural language processing and machine learning, a context window refers to a specific range or window of words or tokens that are considered in relation to a target word or token. The context window provides the surrounding words or tokens that help provide meaning, context, and relevance to the target word. The size of the context window can vary and is typically defined by the number of words or tokens included before and after the target word. By analyzing the words within the context window, language models can better understand the relationships, dependencies, and semantic information associated with the target word. Context windows are commonly used in tasks such as word embeddings, language modeling, and various NLP tasks that rely on understanding word contexts and dependencies.
 
+#### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1cP8s2YxqBRc_82PJuoEB7wsvOXgJgbB_1n8ZqeW0EGo/edit?usp=sharing" %}
+
 #### Resources mentioned
 
 How do you represent a word in AI? Rob Miles reveals how words can be formed from multi-dimensional vectors - with some unexpected results. - [https://youtu.be/gQddtTdmG\_8](https://youtu.be/gQddtTdmG\_8)&#x20;
