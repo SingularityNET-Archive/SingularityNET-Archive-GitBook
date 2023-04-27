@@ -38,3 +38,10 @@ The FreysDeFi discussed the potential for the Singularity Net Ambassadors Guild 
 
 ### Incubation Workshop
 
+
+
+## Thursday, 27th April 2023
+
+### AI Sandbox
+
+With Felix and Fly
