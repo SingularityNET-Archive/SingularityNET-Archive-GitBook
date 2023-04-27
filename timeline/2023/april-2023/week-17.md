@@ -73,3 +73,7 @@ Transformers, explained: Understand the model behind GPT, BERT, and T5 - [https:
 ### Treasury Guild
 
 Hosted by Tevo Saks.
+
+### Deep Funding Community governance
+
+Hosted by Jan Horlings
