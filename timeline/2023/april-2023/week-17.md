@@ -60,9 +60,16 @@ In natural language processing and machine learning, a context window refers to 
 
 {% embed url="https://docs.google.com/presentation/d/1cP8s2YxqBRc_82PJuoEB7wsvOXgJgbB_1n8ZqeW0EGo/edit?usp=sharing" %}
 
+{% file src="../../../.gitbook/assets/AI Sandbox.pdf" %}
+
 #### Resources mentioned
 
 How do you represent a word in AI? Rob Miles reveals how words can be formed from multi-dimensional vectors - with some unexpected results. - [https://youtu.be/gQddtTdmG\_8](https://youtu.be/gQddtTdmG\_8)&#x20;
 
 Transformers, explained: Understand the model behind GPT, BERT, and T5 - [https://youtu.be/SZorAJ4I-sA](https://youtu.be/SZorAJ4I-sA)
 
+
+
+### Treasury Guild
+
+Hosted by Tevo Saks.
