@@ -85,3 +85,5 @@ Should we wait the Supervisory Council vote before starting the Governance Round
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 20-48-10.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 21-22-56.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 21-27-20.png" alt=""><figcaption></figcaption></figure>
