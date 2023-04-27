@@ -77,3 +77,7 @@ Hosted by Tevo Saks.
 ### Deep Funding Community governance
 
 Hosted by Jan Horlings
+
+Should we wait the Supervisory Council vote before starting the Governance Round?
+
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 20-48-10.png" alt=""><figcaption></figcaption></figure>
