@@ -174,5 +174,7 @@ Presented by Rojo
 
 {% embed url="https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit?usp=sharing&ouid=112760840436100626711&rtpof=true&sd=true" %}
 
+{% embed url="https://miro.com/app/board/uXjVMQx-OwU=/?share_link_id=999171221156" %}
+
 
 
