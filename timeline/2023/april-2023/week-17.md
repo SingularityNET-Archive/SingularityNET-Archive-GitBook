@@ -162,5 +162,7 @@ Presented by Rojo
 
 {% file src="../../../.gitbook/assets/VW weekly presentation.pptx" %}
 
+{% embed url="https://www.youtube.com/@SNET_Ambassador/videos" %}
+
 
 
