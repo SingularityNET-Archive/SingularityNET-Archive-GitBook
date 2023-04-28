@@ -148,7 +148,7 @@ Hosted by Crandano and Fly
 
 Presented by Kenichi
 
-#### Call out for content - Peter
+#### Call out for content - Peter Elfrink
 
 {% embed url="https://magazine.mindplex.ai/community-content/" %}
 
