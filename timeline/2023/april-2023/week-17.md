@@ -128,11 +128,17 @@ Jan Horlings proposed creating a Discord channel to collaborate on ideas and ali
 
 Hosted by Crandano and Fly
 
+### Writers Workgroup
+
+Presented by Kenichi
+
 ### Video Workgroup
 
 Presented by Rojo
 
 {% embed url="https://docs.google.com/presentation/d/1laB-opqNrgymKWJDCIYhNbE7p7gGl-cw3fs0wV6hwhk/edit?usp=sharing" %}
+
+{% file src="../../../.gitbook/assets/VW weekly presentation.pptx" %}
 
 
 
