@@ -80,7 +80,21 @@ Hosted by Jan Horlings
 
 {% embed url="https://deepfunding.ai/" %}
 
+Quick heads up on the topics for tonight’s Governance call:&#x20;
+
+\- Quick look back on the reputation rewards resolution and next steps&#x20;
+
+\- Discuss the pools for the governance round&#x20;
+
+\- Discuss the starting date of the governance round, in the context of the ongoing/overlapping? Supervisory Council feedback inventory&#x20;
+
+\- If we have time left we can discuss the feedback pools of the above and perhaps even create some input there! ![🙂](https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg)&#x20;
+
+\- Any other topic that might be appropriate and urgent enough.
+
 Should we wait the Supervisory Council vote before starting the Governance Round?
+
+{% embed url="https://discord.com/channels/909843832491896832/951602914139451463/1101199415651344444" %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 20-48-10.png" alt=""><figcaption></figcaption></figure>
 
