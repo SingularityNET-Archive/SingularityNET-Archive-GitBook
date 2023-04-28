@@ -78,7 +78,7 @@ Hosted by Tevo Saks.
 
 Hosted by Jan Horlings
 
-20 partipants
+20 participants
 
 {% embed url="https://deepfunding.ai/" %}
 
