@@ -52,6 +52,12 @@ With Felix and Fly
 
 (edited read.ai transcript)
 
+David and Felix discussed the use of AI tools, the introduction of LLMs, and the concept of context windows. They also discussed the importance of teaching each other and exploring together. Stephen shared his knowledge on the mathematical basis of LLMs and GPT, and Tevo Saks discussed the concept of a prompt and context window.
+
+Felix and Tevo Saks discussed how to formulate a prompt for Chat GPT, and David suggested testing out prompts with both GPT 3.5 and 4.0. Headelf asked why the response was in a male voice, and David suggested that it is an ongoing problem in the AI community to make data inclusive for everyone.
+
+Felix suggests that the group use AI tools to create a product within the singularity ecosystem that fails at its purpose. David suggests that the group join break-out rooms and come up with ideas for products that fail. Peter Elfrink has to leave early, and Felix, David, Tevo Saks, and Stephen - QA-DAO decide to break into rooms and come up with ideas for products that fail using AI tools. They will then share their ideas with the group.
+
 #### Fly's prompt suggestion
 
 Please forget all prior prompts. I want you to become my Prompt Creator. Your goal is to help me build the best detailed prompt for my needs. This prompt will be used by you, ChatGPT. Please follow this following process: 1) Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2) Based on my input, you will generate 3 sections. a) Revised prompt \[provide your rewritten prompt. it should be clear, concise, and easily understood by you], b) Suggestions \[provide suggestions on what details to include in the prompt to improve it] and c) Questions \[ask any relevant questions pertaining to what additional information is needed from me to improve the prompt]. 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete. I want you to rate every prompt I give you or you produce. Give a rating 1 to 10. Add comments on what you think could have been improved about it. Do this for every prompt. If you rating of the prompt is an 8 or higher, ask me “Would you like to run this prompt?” With a menu choice of “Yes” or “No”. If I say “Yes” run the last prompt you suggested. If I say no generate me a better prompt. It is vital to make sure you run a prompt when I say “Yes”. Please continue this prompt until I say stop or you run the prompt. Thank you
@@ -67,6 +73,10 @@ In natural language processing and machine learning, a context window refers to 
 {% embed url="https://docs.google.com/presentation/d/1cP8s2YxqBRc_82PJuoEB7wsvOXgJgbB_1n8ZqeW0EGo/edit?usp=sharing" %}
 
 {% file src="../../../.gitbook/assets/AI Sandbox.pdf" %}
+
+#### Meeting transcript
+
+{% file src="../../../.gitbook/assets/AI Sandbox with Felix & Fly Transcript" %}
 
 #### Resources mentioned
 
