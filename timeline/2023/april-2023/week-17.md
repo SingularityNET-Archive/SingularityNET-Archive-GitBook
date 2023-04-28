@@ -121,3 +121,10 @@ Jan Horlings proposed creating a Discord channel to collaborate on ideas and ali
 #### Transcript
 
 {% file src="../../../.gitbook/assets/Deep Funding Community governance Transcript" %}
+
+## Friday, 28th April 2023
+
+### Marketing Guild
+
+Hosted by Crandano and Fly
+
