@@ -168,5 +168,9 @@ Presented by Rojo
 
 {% embed url="https://youtu.be/Seb_YaMvB0Y" %}
 
+#### Video workgroup structure <a href="#pnsjpd" id="pnsjpd"></a>
+
+{% embed url="https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit?usp=sharing&ouid=112760840436100626711&rtpof=true&sd=true" %}
+
 
 
