@@ -128,3 +128,9 @@ Jan Horlings proposed creating a Discord channel to collaborate on ideas and ali
 
 Hosted by Crandano and Fly
 
+### Video Workgroup
+
+Presented by Rojo
+
+
+
