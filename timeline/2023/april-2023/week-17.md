@@ -96,6 +96,20 @@ Should we wait the Supervisory Council vote before starting the Governance Round
 
 {% embed url="https://discord.com/channels/909843832491896832/951602914139451463/1101199415651344444" %}
 
+#### Summary (read.ai - edited)
+
+Jan Horlings announced the election of the Supervisory Council and asked for the community's input on what they expect from the Council. Five pools have been created to collect feedback and the input will be used to elect the Council. The Council will be part of the internal team, but also part of the community and will be responsible for more than just Deep Funding.
+
+The Supervisory Council is a centralized arm of Singularity Net that will experiment and learn how to do proper governance. It will eventually envelope the whole of the foundation, and the Council will have an important role in the governance of Sing Dao. The Council will mediate and be a sounding board for both the community and the internal team, advising and helping to explore how to do things. The Community will be responsible for electing the Council and deciding which proposals should be awarded.
+
+Jan Horlings suggested that the community discuss their expectations for the new Supervisory Council and then move quickly to the election process. He suggested that the election process and deep funding should be kept separate, but that the Supervisory Council could have an influence on deep funding. He also suggested that a poll could be used to gauge the temperature of the room and that a video could be made to explain the process. Peter Elfrink suggested that a community call could be held to discuss the process.
+
+Tevo Saks and Jan Horlings discussed voting and brainstorming ideas for proposals. They discussed the use of Swae as a platform for collecting feedback and the possibility of using Discord or Telegram to trigger discussion. Kenric Nelson suggested that the election of people to the Council should be its own item, and Grace Rachmany suggested that running all the pools together could reduce fatigue. Mauro Andreoli suggested having multiple pools with specific rules and goals.
+
+Mauro Andreoli suggested that different pools should be created to organize proposals and Jan Horlings proposed that at least four pools should be created, plus a generic pool, to discuss topics such as peer reviews, strategies to prevent gaming, rewards planning, improving results through education and awareness, and budgeting. The community voted in favor of this proposal and Jan Horlings suggested that they should rephrase the categories and give it a try.
+
+Jan Horlings proposed creating a Discord channel to collaborate on ideas and align them, and Mauro Andreoli suggested creating a new server for Deep Funding to make it easier to find specific links. Jan Horlings mentioned that there is an ongoing discussion about moving to a different platform, and Peter Elfrink suggested using a combination of retrospective and deduction to help guide people through the process. Everyone agreed that communication is essential and thanked each other for their ideas and initiatives.
+
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 20-48-10.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 21-22-56.png" alt=""><figcaption></figcaption></figure>
