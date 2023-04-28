@@ -132,5 +132,7 @@ Hosted by Crandano and Fly
 
 Presented by Rojo
 
+{% embed url="https://docs.google.com/presentation/d/1laB-opqNrgymKWJDCIYhNbE7p7gGl-cw3fs0wV6hwhk/edit?usp=sharing" %}
+
 
 
