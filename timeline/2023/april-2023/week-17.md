@@ -88,7 +88,7 @@ Quick heads up on the topics for tonight’s Governance call:&#x20;
 
 \- Discuss the starting date of the governance round, in the context of the ongoing/overlapping? Supervisory Council feedback inventory&#x20;
 
-\- If we have time left we can discuss the feedback pools of the above and perhaps even create some input there! ![🙂](https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg)&#x20;
+\- If we have time left we can discuss the feedback pools of the above and perhaps even create some input there!&#x20;
 
 \- Any other topic that might be appropriate and urgent enough.
 
