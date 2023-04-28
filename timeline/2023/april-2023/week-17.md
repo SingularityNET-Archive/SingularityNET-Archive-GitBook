@@ -148,6 +148,12 @@ Hosted by Crandano and Fly
 
 Presented by Kenichi
 
+#### Call out for content - Peter
+
+{% embed url="https://magazine.mindplex.ai/community-content/" %}
+
+Artificial Intelligence — including out-of-the-mainstream practical applications, and the push for Artificial General Intelligence, AI ethics, and AI aesthetics/art Biotech — genetic engineering, engineered life-forms, biohacking Blockchain — and its potential to create decentralized networks, upending the current economy, identity, and ownership Body modification — from the funky and freaky to the profound, including brain and body implants with real computational power Brain-Computer Interfacing — for instant brain-to-computer-cloud communications, connecting to the global brain Consciousness — neurofeedback, psychedelics, and other tech for consciousness expansion Experiences — VR/AR/MR/Metaverses/spatial sound/liminal/new realities/The Matrix - Military and surveillance tech — which is advancing fast, focusing on ethical and privacy issues Nanotech — and beyond, to femtotech and molecular machines Neuroscience — combined with AI and speculative directions like quantum neuro Quantum Computing — including quantum machine learning and quantum cryptography. Parapsychology — scientific data and exploratory theories about strange phenomena going beyond conventional science Radical physics theories, yielding insights into the nature of the universe and perhaps new technologies Community Discussion — Book, film, TV, new tech products, reviews, new ideas Advanced tech for the developing world — how the global poor can leapfrog into the future, and the social implications if they don’t.
+
 ### Video Workgroup
 
 Presented by Rojo
