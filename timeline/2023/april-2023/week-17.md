@@ -117,3 +117,7 @@ Jan Horlings proposed creating a Discord channel to collaborate on ideas and ali
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 21-22-56.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-27 21-27-20.png" alt=""><figcaption></figcaption></figure>
+
+#### Transcript
+
+{% file src="../../../.gitbook/assets/Deep Funding Community governance Transcript" %}
