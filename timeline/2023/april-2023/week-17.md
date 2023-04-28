@@ -170,6 +170,8 @@ Presented by Rojo
 
 #### Video workgroup structure <a href="#pnsjpd" id="pnsjpd"></a>
 
+[Link](https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit?usp=sharing\&ouid=112760840436100626711\&rtpof=true\&sd=true)
+
 {% embed url="https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit?usp=sharing&ouid=112760840436100626711&rtpof=true&sd=true" %}
 
 
