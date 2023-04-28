@@ -78,6 +78,8 @@ Hosted by Tevo Saks.
 
 Hosted by Jan Horlings
 
+20 partipants
+
 {% embed url="https://deepfunding.ai/" %}
 
 Quick heads up on the topics for tonight’s Governance call:&#x20;
