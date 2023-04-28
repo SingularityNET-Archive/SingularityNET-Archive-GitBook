@@ -164,5 +164,9 @@ Presented by Rojo
 
 {% embed url="https://www.youtube.com/@SNET_Ambassador/videos" %}
 
+#### Crypto Stablecoins - Everything You Need to Know
+
+{% embed url="https://youtu.be/Seb_YaMvB0Y" %}
+
 
 
