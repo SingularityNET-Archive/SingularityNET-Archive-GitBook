@@ -22,6 +22,8 @@ Events
 
 Ambassador Town Hall #45 was hosted by Peter Elfrink. There were 28 participants.
 
+{% embed url="https://youtu.be/MYCfVLGq9_I" %}
+
 #### Summary&#x20;
 
 The Ambassador Program aims to provide a way for community members to contribute to the vision of Singularity Net by self-organizing into work groups. The Process Guild, Marketing Guild, Writers Guild, and Video Guild all had updates at the meeting, discussing topics such as tokenomics, licenses, tools, and content creation. They are now using Zoom for their meetings and AI to record meeting notes. They are also looking into creating a Medium account.
