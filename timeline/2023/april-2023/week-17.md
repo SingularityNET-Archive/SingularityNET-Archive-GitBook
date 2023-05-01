@@ -12,7 +12,7 @@ Events
 
 ### Process Guild
 
-
+{% embed url="https://youtu.be/r88W2yhXsr8" %}
 
 #### Meeting Transcript
 
