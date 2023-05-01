@@ -92,6 +92,8 @@ Transformers, explained: Understand the model behind GPT, BERT, and T5 - [https:
 
 Hosted by Tevo Saks.
 
+{% embed url="https://youtu.be/VCIDBHKPlN8" %}
+
 ### Deep Funding Community governance
 
 Hosted by Jan Horlings
