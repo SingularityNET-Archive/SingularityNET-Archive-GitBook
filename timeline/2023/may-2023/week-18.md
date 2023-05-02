@@ -50,4 +50,6 @@ Hosted by Peter Elfrink
 
 #### Workgroup Updates
 
+{% embed url="https://docs.google.com/spreadsheets/d/1FBPoJY66H_ZKMOkgybEqEcBeH9JjzABp1i8Iyf2CJIM/edit?usp=sharing" %}
+
 {% embed url="https://docs.google.com/presentation/d/1pUwmW331OQqz08eSAs5X38egrRVbR9nNsD-W2tep8wE/edit?usp=sharing" %}
