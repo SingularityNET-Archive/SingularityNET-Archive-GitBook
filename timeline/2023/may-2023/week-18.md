@@ -47,3 +47,7 @@ Hosted by Peter Elfrink
 #### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1LGH_ioo5Ok0ebf-APKm66T6yCsjHb65P6XCNKauBMsc/edit?usp=sharing" %}
+
+#### Workgroup Updates
+
+{% embed url="https://docs.google.com/presentation/d/1pUwmW331OQqz08eSAs5X38egrRVbR9nNsD-W2tep8wE/edit?usp=sharing" %}
