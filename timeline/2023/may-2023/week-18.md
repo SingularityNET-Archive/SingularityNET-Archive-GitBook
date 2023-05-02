@@ -14,9 +14,9 @@ This meeting was facilitated by headelf and TheFreysDeFi
 
 Education Guild Agenda 5.1.2023
 
-\-Education Guild Introduction&#x20;
+#### Education Guild Introduction&#x20;
 
-\-Ideation
+#### Ideation
 
 What is The SingularityNet ambassador program's role as educators in the SingularityNet ecosystem?
 
