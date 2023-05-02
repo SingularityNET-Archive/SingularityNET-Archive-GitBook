@@ -33,3 +33,15 @@ As we engage on these topics perhaps we keep in mind our decentralization ethos 
 There are many more topics to be discussed that should be added to the agenda, but due to what is expected as heavy and in depth discussion the agenda is initially limited to these four questions and introduction.
 
 {% embed url="https://docs.google.com/document/d/164KJWS2Ghd-axSiWtLEa08MmBZdTZhQ-Sr6p8ZWddtw/edit?usp=sharing" %}
+
+## Tuesday, 2nd May 2023
+
+### Onboarding Workshop
+
+
+
+### Ambassador Town Hall
+
+#### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1LGH_ioo5Ok0ebf-APKm66T6yCsjHb65P6XCNKauBMsc/edit?usp=sharing" %}
