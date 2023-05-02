@@ -42,6 +42,8 @@ There are many more topics to be discussed that should be added to the agenda, b
 
 ### Ambassador Town Hall
 
+Hosted by Peter Elfrink
+
 #### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1LGH_ioo5Ok0ebf-APKm66T6yCsjHb65P6XCNKauBMsc/edit?usp=sharing" %}
