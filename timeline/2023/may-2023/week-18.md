@@ -96,7 +96,15 @@ Do you have any more tools we want to use?
 * What amount?
   * 1,875 AGIX/mo rewards is equivalent to $562.50. At $10/hr that’s 13hrs/wk. At $15/hr that’s close to 9hrs/wk. $20/hr is 6.5hrs/wk.
 
-### Strategy Guild
+#### Our role in SingComDAO - Not Discussed
+
+With the upcoming election and call for proposals on the Swae platform, how can we self organise?&#x20;
+
+Who will make a proposal on the swae platform?
+
+How can we incubate people “stepping up”?
+
+### Strategy Guild - Not Discussed
 
 Hosted by
 
