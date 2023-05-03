@@ -62,6 +62,30 @@ Hosted by Fly and Crandano
 
 Welcome at the weekly Ambassadors Incubation Workgroup. Join us to get direct insights and updates from the Ambassadors program, meet and connect with community members and find guidance and support for becoming a member of the SingularityNET Ambassadors program.
 
+#### Direction of Incubation
+
+What are the things in Ambassador program that need “incubation”?
+
+How would you (community) like to contribute to the incubation workgroup:-
+
+1. Community members propose ideas and topics on a signup form during the week, which are then covered during incubation?
+2. Community members propose ideas and topics at the start of each incubation meeting?
+3. Leaders of Incubation come up with topic for community contributions?
+
+#### AI Community Tools
+
+Do you have any more tools we want to use?
+
+How should accounts be managed?
+
+1. Each Ambassador has a paid account?
+2. A paid account open for all Ambassadors?
+3. One paid account for Ambassadors; one for wider community?
+
+Do you have any more tools we want to use?
+
+
+
 ### Strategy Guild
 
 Hosted by
