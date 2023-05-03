@@ -65,3 +65,8 @@ Welcome at the weekly Ambassadors Incubation Workgroup. Join us to get direct in
 ### Strategy Guild
 
 Hosted by
+
+Strategy Agenda for May 3, 2023
+
+1. Overview of how to Facilitate an effective meeting - POV leading to a BEST PRACTICE of Facilitating a Virtual Meeting.
+2. The Governance Document&#x20;
