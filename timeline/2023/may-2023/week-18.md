@@ -84,7 +84,17 @@ How should accounts be managed?
 
 Do you have any more tools we want to use?
 
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-03 22-24-06.png" alt=""><figcaption></figcaption></figure>
 
+#### Workgroup/Guild Leads
+
+* Goal: a solution until we look at the budget again by beginning of July
+* In previous discussion we agreed to reimburse rewards at 1,875 AGIX/mo
+* Should we use this as a solution for the quarter as we experiment with new Guilds and Workgroup Leads?
+  * Leads could also not be capped to not double dip into other rewards within the program (ie: ability to do tasks)
+* Do you believe an hourly rate of rewards is more appropriate?
+* What amount?
+  * 1,875 AGIX/mo rewards is equivalent to $562.50. At $10/hr that’s 13hrs/wk. At $15/hr that’s close to 9hrs/wk. $20/hr is 6.5hrs/wk.
 
 ### Strategy Guild
 
