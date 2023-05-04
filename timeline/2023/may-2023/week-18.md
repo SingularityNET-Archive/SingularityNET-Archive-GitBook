@@ -83,6 +83,8 @@ Connect with Facilitators Collective Work on action items created under agenda i
 
 Hosted by Peter Elfrink
 
+{% embed url="https://youtu.be/xTLNX7Oku4w" %}
+
 #### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1LGH_ioo5Ok0ebf-APKm66T6yCsjHb65P6XCNKauBMsc/edit?usp=sharing" %}
