@@ -214,5 +214,9 @@ Hosted by Jan Horlings
 
 {% embed url="https://python.langchain.com/en/latest/index.html" %}
 
+#### Gradio
+
+{% embed url="https://gradio.app/" %}
+
 
 
