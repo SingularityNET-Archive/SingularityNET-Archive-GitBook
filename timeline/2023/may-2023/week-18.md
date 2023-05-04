@@ -40,6 +40,39 @@ There are many more topics to be discussed that should be added to the agenda, b
 
 
 
+### Process Guild
+
+Meeting notes: [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)&#x20;
+
+#### Context
+
+We Prioritize critical Ambassador Activities and cover process changes&#x20;
+
+#### Agenda Items
+
+Going through Priority Topics and checking what needs to be done next with a related topic.
+
+#### Topics were:&#x20;
+
+1 Create Task process for Writers Workgroup(WG) Governance framework action item - Figure out permissions for writers' workgroup to have a medium account to post articles&#x20;
+
+2 Video Workgroup Structure action item - Let's incentivize members to audit the workgroup structure&#x20;
+
+3 Create meta standard for the onboarding process in modules action item - Keep baseline process simple
+
+Discussion about Meeting Summaries and a need for learning to be good facilitator&#x20;
+
+#### Decision Items
+
+&#x20;We document the meetings in the way we feel most comfortable with and share the summaries in a dedicated Discord channel.&#x20;
+
+#### Next steps
+
+Connect with Facilitators Collective Work on action items created under agenda items
+
+\
+
+
 ### Ambassador Town Hall
 
 Hosted by Peter Elfrink
