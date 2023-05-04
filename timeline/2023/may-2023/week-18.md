@@ -210,5 +210,9 @@ Hosted by Jan Horlings
 
 {% embed url="https://huggingface.co/" %}
 
+#### Langchain
+
+{% embed url="https://python.langchain.com/en/latest/index.html" %}
+
 
 
