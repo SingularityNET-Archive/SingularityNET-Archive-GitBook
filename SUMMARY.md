@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to SingularityNET-Archive](README.md)
-  * [Workgroup Proposal (Draft)](readme/workgroup-proposal-draft.md)
+  * [Workgroup Proposal](readme/workgroup-proposal.md)
 
 ## Ambassadors Program
 

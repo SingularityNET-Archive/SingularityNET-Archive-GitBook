@@ -2,7 +2,7 @@
 description: SingularityNET Ambassadors program Archive Workgroup Proposal
 ---
 
-# Workgroup Proposal (Draft)
+# Workgroup Proposal
 
 
 
