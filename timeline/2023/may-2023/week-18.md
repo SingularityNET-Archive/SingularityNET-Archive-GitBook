@@ -185,3 +185,5 @@ Strategy Agenda for May 3, 2023
 ## Thursday, 4th May 2023
 
 ### Treasury Guild
+
+Hosted by Tevo Saks
