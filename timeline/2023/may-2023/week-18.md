@@ -186,4 +186,6 @@ Strategy Agenda for May 3, 2023
 
 ### Treasury Guild
 
+**Treasury Guild - Contribution Management and Treasury Fee**
+
 Hosted by Tevo Saks
