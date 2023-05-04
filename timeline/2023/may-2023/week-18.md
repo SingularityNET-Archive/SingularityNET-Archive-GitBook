@@ -198,5 +198,13 @@ Hosted by Jan Horlings
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-04 20-08-35.png" alt=""><figcaption><p><a href="https://twitter.com/SNET_Ambassador/status/1653879479851433985">https://twitter.com/SNET_Ambassador/status/1653879479851433985</a></p></figcaption></figure>
 
+#### Swae platform
+
 {% embed url="https://proposals.deepfunding.ai/feed" %}
+
+#### View all missions
+
+{% embed url="https://proposals.deepfunding.ai/view-all-missions" %}
+
+
 
