@@ -206,5 +206,9 @@ Hosted by Jan Horlings
 
 {% embed url="https://proposals.deepfunding.ai/view-all-missions" %}
 
+#### Hugging Face
+
+{% embed url="https://huggingface.co/" %}
+
 
 
