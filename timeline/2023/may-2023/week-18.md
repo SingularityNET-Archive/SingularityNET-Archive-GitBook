@@ -181,3 +181,7 @@ Strategy Agenda for May 3, 2023
 
 1. Overview of how to Facilitate an effective meeting - POV leading to a BEST PRACTICE of Facilitating a Virtual Meeting.
 2. The Governance Document&#x20;
+
+## Thursday, 4th May 2023
+
+### Treasury Guild
