@@ -8,6 +8,10 @@ description: SingularityNET Ambassadors program Archive Workgroup Proposal
 
 ## Proposal for an Archive Workgroup
 
+[Source link](https://docs.google.com/document/d/1BFlTKeoIz2wcPYtp\_iT8wpdlk3YvRMjCuqCFEDtsDeA/edit?usp=sharing)&#x20;
+
+{% embed url="https://docs.google.com/document/d/1BFlTKeoIz2wcPYtp_iT8wpdlk3YvRMjCuqCFEDtsDeA/edit?usp=sharing" %}
+
 Proposal addressed to the SingularityNET Ambassadors program
 
 ## Proposer(s) <a href="#_9sma87s9wpyf" id="_9sma87s9wpyf"></a>
