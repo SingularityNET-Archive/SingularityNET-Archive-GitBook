@@ -58,9 +58,37 @@ Hosted by Peter Elfrink
 
 ### Incubation Workshop
 
-Hosted by Fly and Crandano
+#### Hosted by Fly and Crandano
 
 Welcome at the weekly Ambassadors Incubation Workgroup. Join us to get direct insights and updates from the Ambassadors program, meet and connect with community members and find guidance and support for becoming a member of the SingularityNET Ambassadors program.
+
+#### Attendees:&#x20;
+
+Iain, Stephen, headelf, Peter E, Felix, Freys, cran, rojo, sucren, kenichi, ericS, blankgodd
+
+#### Agenda Items:&#x20;
+
+Direction of Incubation Workgroup, AI Tools budget, New Ambassadors
+
+#### Length of Meeting:
+
+2 hours
+
+#### Goal or Action Items:&#x20;
+
+Yes to $200 budget for AI Tools, Yes to 4 new Ambassadors: Freys, Sucren, Kenichi, Stephen
+
+#### Brief Summary:&#x20;
+
+Fly suggested using a paid account for the AI community tools, and Stephen mentioned the potential cost implications. The group discussed the pros and cons of using open source versus closed source tools, and the possibility of having multiple accounts for different purposes. They also discussed the possibility of having a sign up form for community members to propose ideas and topics for the incubation meetings.
+
+Fly proposed a cap of $200 for AI tools and Tommy Frey suggested that the same amount should be allocated for work group leads, with a minimum number of hours put in. The group agreed and decided to move on to discuss group leads and rewards.
+
+Tommy Frey suggested a verbal vote to elevate four people to the ambassador role, which was agreed upon by the group. Stephen and Kevin recused themselves from the vote due to being on the ballot. Rojo suggested an anonymous vote on a platform such as Poll Maker to ensure no one felt coerced. Tommy Frey suggested referring to the notes from the previous vote to ensure clarity.
+
+Tommy Frey suggested that the four new ambassadors be voted in as a group, and the group discussed the implications of this decision. They also discussed the process of becoming an ambassador and the need for transparency. In the end, they decided to vote in the four new ambassadors as a group, but to also discuss the process of becoming an ambassador further.
+
+#### Presentation
 
 #### Direction of Incubation
 
