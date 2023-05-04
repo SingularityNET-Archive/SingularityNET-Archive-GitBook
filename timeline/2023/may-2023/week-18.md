@@ -189,3 +189,12 @@ Strategy Agenda for May 3, 2023
 **Treasury Guild - Contribution Management and Treasury Fee**
 
 Hosted by Tevo Saks
+
+{% file src="../../../.gitbook/assets/SingularityNET - Ambassador Program - Guild -  Contribution Management and Treasury Fees..pdf" %}
+
+### DeepFunding Town Hall
+
+Hosted by Jan Horlings
+
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-04 20-08-35.png" alt=""><figcaption><p><a href="https://twitter.com/SNET_Ambassador/status/1653879479851433985">https://twitter.com/SNET_Ambassador/status/1653879479851433985</a></p></figcaption></figure>
+
