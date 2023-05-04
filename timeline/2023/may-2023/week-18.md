@@ -42,9 +42,13 @@ There are many more topics to be discussed that should be added to the agenda, b
 
 ### Process Guild
 
+Hosted by Tevo Saks
+
 {% embed url="https://youtu.be/iwkMF50baDo" %}
 
-Meeting notes: [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)&#x20;
+#### Meeting notes
+
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)&#x20;
 
 #### Context
 
