@@ -190,6 +190,8 @@ Strategy Agenda for May 3, 2023
 
 Hosted by Tevo Saks
 
+#### Read.ai summary
+
 Tevo Saks and Felix Weber discussed how to reward ambassadors for their work, with a maximum of 4,154 Agx per month. How to track the work done by ambassadors and avoid double dipping. They also discussed how to record tasks done for work groups and how to calculate rewards.
 
 Tevo Saks proposed to create a task list for meetings and activities, and to use Excel to aggregate data. They discussed how to track hours and how to make sure everyone is credited for their work. They also discussed how to make sure that all meetings and activities are tracked and that no hours are missed.
