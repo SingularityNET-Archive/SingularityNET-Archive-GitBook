@@ -206,6 +206,10 @@ Tevo Saks proposed two projects to get work groups going and discussed the rewar
 
 The group discussed the process for creating a new work group, the importance of incentivizing people to join, and the need for a weekly or bi-weekly meeting to discuss tasks and expectations for ambassadors. They also discussed the need for a code of conduct and the possibility of using two different treasury systems. Finally, they agreed to create an ambassadors-only work group in the Discord and to archive the conversation when the tasks are solved.
 
+#### Transcript
+
+{% file src="../../../.gitbook/assets/Treasury Guild Transcript - Thu, 4 May 2023" %}
+
 #### Miro Board&#x20;
 
 {% file src="../../../.gitbook/assets/SingularityNET - Ambassador Program - Guild -  Contribution Management and Treasury Fees..pdf" %}
