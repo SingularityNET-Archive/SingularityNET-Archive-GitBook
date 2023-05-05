@@ -262,6 +262,12 @@ Hosted by Jan Horlings
 
 Hosted by Rojo
 
+#### Read.ai summary (edited)
+
+It was proposed to create a video for the SingularityNET Quarterly Update, with a budget of $100 for successful submissions. A video that would give an overview of the progress made in the past quarter, as well as the plans for the upcoming quarter. Also include interviews with team members and community members, as well as clips from events and other activities.
+
+The Ambassadors discussed abolishing internships and transitioning to a system of judging people by their work. They discussed using the Summon platform for voting and creating NFTs for work group members.&#x20;
+
 {% embed url="https://docs.google.com/presentation/d/1rhiKpf-b-Lw0fcDh3YrD37vRALaJq5KPRDNbVwomGxw/edit?usp=sharing" %}
 
 {% file src="../../../.gitbook/assets/VW weekly presentation.pdf" %}
