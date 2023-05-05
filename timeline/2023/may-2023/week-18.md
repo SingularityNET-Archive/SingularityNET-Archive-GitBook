@@ -38,7 +38,23 @@ There are many more topics to be discussed that should be added to the agenda, b
 
 ### Onboarding Workshop
 
+Hosted by SucrenSpice
 
+13 participants
+
+#### Read.ai summary
+
+The meeting discussed the onboarding process for new recruits, including having a Getting Started channel, a monthly meetup, and a quiz. They also discussed having a pre-meeting to answer questions and introduce the program. They concluded by agreeing to pin the Getting Started link in the channel and to follow up with those who had already expressed interest.
+
+The group discussed the idea of having a 30 minute hangout before the town hall every two weeks, as well as the possibility of creating a channel for people who have completed the first task. They also discussed the use of badges and NFTs to reward people for completing tasks. Finally, Fly suggested making a video to explain how to do the first task.
+
+The group discussed how to organize steps for newcomers to the program, suggesting that they read an article and take a quiz to earn rewards. They also discussed setting up an automated email to introduce people to the program and filter out those who don't make the first step of joining the squad. Finally, they suggested that people read the Getting Started channel and have their information in a sheet.
+
+The group discussed the need for documentation and scalability when onboarding new members, as well as the idea of having different levels of ambassadors and name tags to differentiate between newcomers and existing members. They agreed to have a meeting next week to finalize their ideas and to involve Tev in the process. They also discussed tracking the time spent on the effort.
+
+#### Transcript
+
+{% file src="../../../.gitbook/assets/Onboarding Transcript - Tue, 2 May 2023" %}
 
 ### Process Guild
 
