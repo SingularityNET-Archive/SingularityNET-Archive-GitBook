@@ -46,6 +46,8 @@ Ambassadors SingularityNET discussed setting up a video work group and creating 
 
 Ambassadors SingularityNET is excited about the upcoming Agora voter feature, which will allow for voting to be recorded on chain with smart contracts. They are also looking into multi sig wallets for community management, which would require on chain data. The presentation was concluded with Tommy Frey thanking Roger for a good job.
 
+{% embed url="https://summonplatform.io/" %}
+
 ### Incubation Workshop
 
 
