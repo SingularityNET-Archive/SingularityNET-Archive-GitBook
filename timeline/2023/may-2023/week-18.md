@@ -262,6 +262,12 @@ Hosted by Jan Horlings
 
 Hosted by Rojo
 
+Discussed and voted for CjFrankie's proposal.
+
+We agreed to cancel the intern role, membership will now be obtained if your submission to a video workgroup task was approved.
+
+We discussed the adoption of the Summon platform in future workgroup meetings, and making an NFT for the workgroup.
+
 #### Read.ai summary (edited)
 
 It was proposed to create a video for the SingularityNET Quarterly Update, with a budget of $100 for successful submissions. A video that would give an overview of the progress made in the past quarter, as well as the plans for the upcoming quarter. Also include interviews with team members and community members, as well as clips from events and other activities.
