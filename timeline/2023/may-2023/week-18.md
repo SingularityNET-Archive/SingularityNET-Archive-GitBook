@@ -329,3 +329,18 @@ The meeting discussed creating a reward system for content creators, creating a 
 {% embed url="https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit?usp=sharing" %}
 
 {% file src="../../../.gitbook/assets/Marketing Guild - Allocating Funds.pdf" %}
+
+#### Snet Clothing for Marketing Purposes
+
+TheFreysDeFi
+
+Hats, Shirts, etc
+
+\-Sophia Branded Clothing with Sophia Quotes and pictures
+
+\-Clothing designed by Sophia and siblings. Exclusive and to be given away in contests or via participation. Limited Edition maybe
+
+\-Various ecosystem apparel promoting projects. Deepfunding, etc
+
+\-Snet Ambassador Guild branded gear for representatives.
+
