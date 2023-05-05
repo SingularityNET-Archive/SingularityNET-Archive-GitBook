@@ -292,6 +292,8 @@ The Ambassadors discussed abolishing internships and transitioning to a system o
 
 Hosted by Kenichi
 
+17 partipants
+
 #### Read.ai summary (unedited)
 
 Kenichi discussed the need for a Medium account, and the possibility of writing for MindPlex magazine. He also mentioned that the first publication would be released when the Medium account is created, likely sometime next week. He encouraged everyone to take a look at Mind Plex for news and community content.
