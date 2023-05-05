@@ -288,3 +288,7 @@ Hosted by Kenichi
 
 {% embed url="https://magazine.mindplex.ai/" %}
 
+### Marketing Guild
+
+Hosted by Crandano
+
