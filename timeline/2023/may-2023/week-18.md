@@ -276,3 +276,11 @@ Hosted by Rojo
 
 {% embed url="https://saturnnft.io/" %}
 
+### Writers Workgroup
+
+Hosted by Kenichi
+
+#### Cognito Protocol Review
+
+{% embed url="https://docs.google.com/document/d/1x0BLcGMXYyshkOGyFy1btLJR25ZgUh8UpbPIdW7H0pw/edit?usp=sharing" %}
+
