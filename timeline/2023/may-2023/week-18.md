@@ -218,5 +218,11 @@ Hosted by Jan Horlings
 
 {% embed url="https://gradio.app/" %}
 
+## Friday, 5th May 2023
+
+### Video Workgroup
+
+Hosted by Rojo
+
 
 
