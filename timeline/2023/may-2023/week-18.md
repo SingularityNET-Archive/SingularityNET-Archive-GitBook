@@ -316,7 +316,15 @@ Hosted by Crandano
 
 15 Participants
 
-#### Read.ai summary
+#### Read.ai summary (unedited)
+
+The Ambassadors SingularityNET and cran discussed rewards for contributors to the Writers Work Group, including a possible leveling system and payment structure. They also discussed the importance of setting a precedent and ensuring quality of work. Tommy Frey suggested having a meeting to discuss the rewards further and Matt S suggested creating clothing with Sofia art.
+
+Kenichi is working on a content planner for Twitter, and Tommy suggested creating a 15 minute agenda item in the Marketing Guild chat to create a schedule for the following week for social media. Stephen suggested creating tasks for people to do and reviewing them the following week.
+
+The meeting discussed creating a reward system for content creators, creating a weekly SingularityNET update, creating a monthly update over the ecosystem, creating a content creation kit, and creating a landing page for newcomers. They also discussed creating a tweet for the Supervisory Council Sway platform post, creating posts about the new work groups and new ambassadors, and creating a video for the one year anniversary.
+
+#### Documents
 
 {% embed url="https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit?usp=sharing" %}
 
