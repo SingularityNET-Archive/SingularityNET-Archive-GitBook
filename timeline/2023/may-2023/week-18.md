@@ -292,3 +292,6 @@ Hosted by Kenichi
 
 Hosted by Crandano
 
+{% embed url="https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit?usp=sharing" %}
+
+{% file src="../../../.gitbook/assets/Marketing Guild - Allocating Funds.pdf" %}
