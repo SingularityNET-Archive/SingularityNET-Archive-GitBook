@@ -224,5 +224,9 @@ Hosted by Jan Horlings
 
 Hosted by Rojo
 
+{% embed url="https://docs.google.com/presentation/d/1rhiKpf-b-Lw0fcDh3YrD37vRALaJq5KPRDNbVwomGxw/edit?usp=sharing" %}
 
+{% file src="../../../.gitbook/assets/VW weekly presentation.pdf" %}
+
+{% embed url="https://miro.com/app/board/uXjVMQx-OwU=/" %}
 
