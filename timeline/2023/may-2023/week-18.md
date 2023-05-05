@@ -284,3 +284,7 @@ Hosted by Kenichi
 
 {% embed url="https://docs.google.com/document/d/1x0BLcGMXYyshkOGyFy1btLJR25ZgUh8UpbPIdW7H0pw/edit?usp=sharing" %}
 
+#### Mindplex magazine
+
+{% embed url="https://magazine.mindplex.ai/" %}
+
