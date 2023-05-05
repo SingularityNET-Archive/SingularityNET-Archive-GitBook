@@ -38,12 +38,6 @@ The FreysDeFi discussed the potential for the Singularity Net Ambassadors Guild 
 
 ## Wednesday, 26th April 2023
 
-### Incubation Workshop
-
-
-
-## Thursday, 27th April 2023
-
 ### Summon Platform Review
 
 Hosted by Tommy Frey
@@ -51,6 +45,12 @@ Hosted by Tommy Frey
 Ambassadors SingularityNET discussed setting up a video work group and creating a community, multi-sig wallet, and poll on the Nami platform. They discussed the features of the platform, such as creating a community, multi-sig wallet, and poll, and how to assign voting power to different tokens. They also discussed the option to upload a file when toggling the snapshot.
 
 Ambassadors SingularityNET is excited about the upcoming Agora voter feature, which will allow for voting to be recorded on chain with smart contracts. They are also looking into multi sig wallets for community management, which would require on chain data. The presentation was concluded with Tommy Frey thanking Roger for a good job.
+
+### Incubation Workshop
+
+
+
+## Thursday, 27th April 2023
 
 ### AI Sandbox
 
