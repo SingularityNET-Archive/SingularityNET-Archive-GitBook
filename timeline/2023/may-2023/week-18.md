@@ -292,6 +292,14 @@ The Ambassadors discussed abolishing internships and transitioning to a system o
 
 Hosted by Kenichi
 
+#### Read.ai summary (unedited)
+
+Kenichi discussed the need for a Medium account, and the possibility of writing for MindPlex magazine. He also mentioned that the first publication would be released when the Medium account is created, likely sometime next week. He encouraged everyone to take a look at Mind Plex for news and community content.
+
+Kenichi proposed a reward structure for writers in the Writers Work Group, where articles between 500-750 words would be rewarded with 50 USD in AGX, articles between 750-1000 words would be rewarded with 75 USD in AGX split between two people, and articles over 1000 words would be rewarded with an additional reward. Tommy Frey suggested discussing topics to write about and Kenichi proposed rewarding writers for Twitter threads related to articles they wrote.
+
+Kenichi has been leading meetings for the SingularityNET Ambassador Program and has proposed a structure for compensation for writers. Kevin suggested lowering the rewards at first and then increasing them based on quality. Matt suggested passion should drive the conversations more than monetary gain. Cran suggested that the group should chill and work together, and Hogan asked if there were any sleepers.
+
 #### Cognito Protocol Review
 
 {% embed url="https://docs.google.com/document/d/1x0BLcGMXYyshkOGyFy1btLJR25ZgUh8UpbPIdW7H0pw/edit?usp=sharing" %}
