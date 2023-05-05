@@ -230,3 +230,7 @@ Hosted by Rojo
 
 {% embed url="https://miro.com/app/board/uXjVMQx-OwU=/" %}
 
+#### References
+
+{% embed url="https://blog.singularitynet.io/singularitynet-operations-q1-2023-update-fa1060d75c8a" %}
+
