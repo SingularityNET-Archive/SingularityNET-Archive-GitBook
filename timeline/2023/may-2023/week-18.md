@@ -190,6 +190,20 @@ Strategy Agenda for May 3, 2023
 
 Hosted by Tevo Saks
 
+Tevo Saks and Felix Weber discussed how to reward ambassadors for their work, with a maximum of 4,154 Agx per month. How to track the work done by ambassadors and avoid double dipping. They also discussed how to record tasks done for work groups and how to calculate rewards.
+
+Tevo Saks proposed to create a task list for meetings and activities, and to use Excel to aggregate data. They discussed how to track hours and how to make sure everyone is credited for their work. They also discussed how to make sure that all meetings and activities are tracked and that no hours are missed.
+
+Tevo Saks proposed that rewards should be calculated monthly, with a maximum of 4,154 AGX per ambassador. They discussed the possibility of a flat rate, as well as budgeting per ambassador for their projects. They also discussed the need to define what activities should be rewarded and how to track work without the hour mindset. Finally, they proposed a session with the ambassadors to set out the process and get all the ambassadors on board.
+
+The group discussed the difficulty of tokenizing their work and incentivizing ambassadors, and agreed to experiment until the end of the quarter. They decided to report their work monthly, with ambassadors encouraged to do it weekly and aggregate their tasks into one task. They also discussed the need to hold a work group to simplify the process.
+
+Tevo Saks proposed two projects to get work groups going and discussed the rewards system for the projects. Stephen suggested a project-based approach to project management and proposed his own project proposal. Tevo Saks suggested that the rewards system for the projects should be discussed and that the projects should take priority over work groups for the next two months.
+
+The group discussed the process for creating a new work group, the importance of incentivizing people to join, and the need for a weekly or bi-weekly meeting to discuss tasks and expectations for ambassadors. They also discussed the need for a code of conduct and the possibility of using two different treasury systems. Finally, they agreed to create an ambassadors-only work group in the Discord and to archive the conversation when the tasks are solved.
+
+#### Miro Board&#x20;
+
 {% file src="../../../.gitbook/assets/SingularityNET - Ambassador Program - Guild -  Contribution Management and Treasury Fees..pdf" %}
 
 ### DeepFunding Town Hall
