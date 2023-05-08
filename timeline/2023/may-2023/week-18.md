@@ -214,6 +214,8 @@ Meeting Summary Context: How to structure Ambassador rules around payments, task
 
 {% embed url="https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553444175045&cot=10" %}
 
+<figure><img src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 1.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Agenda Items:&#x20;
 
 Are Activity lists correctly submitted? Action - Ambassadors check again which participation Dework tasks are missing that can be added to the activity list&#x20;
