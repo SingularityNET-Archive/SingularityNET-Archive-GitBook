@@ -206,7 +206,27 @@ Strategy Agenda for May 3, 2023
 
 Hosted by Tevo Saks
 
-17 Partipants
+17 Participants
+
+Meeting Summary Context: How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+Meeting notes:&#x20;
+
+{% embed url="https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553444175045&cot=10" %}
+
+#### Agenda Items:&#x20;
+
+Are Activity lists correctly submitted? Action - Ambassadors check again which participation Dework tasks are missing that can be added to the activity list&#x20;
+
+Decision - We continue auditing and distributing these rewards in the Ambassadors Workgroup
+
+What can and should be recorded? Decision - We will continue using the Activity List for Ambassadors for at least 1 more month
+
+Next elegant steps (general action items)&#x20;
+
+Work on newly created action items as a priority&#x20;
+
+Create and start an Ambassadors Workgroup to deal with the ambassador-only related agendas
 
 #### Read.ai summary
 
@@ -360,6 +380,8 @@ We also discussed ideas for more articles and possible writeups, a few of these 
 Slate shared his idea for a possible article to educate future scribblers on the essentials of a good and quality-based article, which is being addressed, and I’ll be looking forward to helping and supporting him to make the idea a success.
 
 Blankgodd also opted to do a deep dive on NuNet.&#x20;
+
+{% file src="../../../.gitbook/assets/Writers' Meeting - 5_May.docx" %}
 
 #### Read.ai summary (unedited)
 
