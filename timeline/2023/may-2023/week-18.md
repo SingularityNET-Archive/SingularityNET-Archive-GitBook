@@ -292,7 +292,74 @@ The Ambassadors discussed abolishing internships and transitioning to a system o
 
 Hosted by Kenichi
 
-17 partipants
+17 participants
+
+#### DATE OF MEETING:&#x20;
+
+5th May 2023\
+
+
+#### ATTENDEES:&#x20;
+
+Kevin, Stephen, headelf, crandano, Mikasa, blankgodd, OEP, Sucrenspice, Cjfrankie, Hogantuso, David, Matt, Slate.
+
+#### AGENDA ITEMS:
+
+Opening a Medium account for the Ambassador Program
+
+Review the article draft on the Cogito protocol.
+
+Discussion on the payment structure moving forward
+
+Brainstorming on new areas of focus for the coming weeks
+
+Welcoming and onboarding new members, administering the Content Editing and Copy Editing Tests
+
+LENGTH OF MEETING: 1 hour, 5 minutes
+
+#### GOAL AND OR ACTION ITEMS:
+
+Assigned blankgodd to the Cogito Protocol article task on Dework, which he would be following up with the second article to cover the demo itself.
+
+Assigned Mikasa to the Cogito Protocol thread task on Dework and copy editing of the article draft
+
+New member—pupil: Cjfrankie, taking the tests to gain the Scribbler role&#x20;
+
+Ambassador Twitter accounts
+
+Put new tasks on dework:
+
+Draft: \[Article]
+
+Congrats to Sucrenspice for being the first female ambassador!!
+
+Draft: \[Article and Twitter Thread]
+
+On SophiaDAO & Sophiaverse
+
+Draft:
+
+Hypercycle Launchpad&#x20;
+
+Announcements:
+
+Mikasa’s Medium Article - Friday (Kenichi)&#x20;
+
+* shifting this to Saturday to go out with Rojo’s interview. Due to the increase in the number of ambassadors, we would need an article next week to reflect that and also use that opportunity to announce our first female ambassador &#x20;
+
+Supervisory Council SWAE - Saturday&#x20;
+
+New Ambassadors, New Workgroups - Sunday
+
+#### BRIEF SUMMARY:
+
+The meeting started off with us discussing the available drafts ready to be released and a quick review of the Cogito Protocol draft by Blankgodd, which led to us taking a few minutes to address the payment structure to find common ground and a fair system of remuneration for our scribblers. Everyone had really insightful comments, ideas, and thoughts about this. We revisited a spreadsheet with information on a viable payment plan, which we would be using moving forward, with additions from Headelf to make the first task for each scribbler free and based only on task points to serve as a base for future works and a chance to assess their skills and level of dedication.&#x20;
+
+We also discussed ideas for more articles and possible writeups, a few of these ideas are active tasks open to applications for scribblers.&#x20;
+
+Slate shared his idea for a possible article to educate future scribblers on the essentials of a good and quality-based article, which is being addressed, and I’ll be looking forward to helping and supporting him to make the idea a success.
+
+Blankgodd also opted to do a deep dive on NuNet.&#x20;
 
 #### Read.ai summary (unedited)
 
