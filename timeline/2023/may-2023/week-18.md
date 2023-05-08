@@ -316,6 +316,26 @@ Hosted by Crandano
 
 15 Participants
 
+#### Date of Meeting: 5.5.23&#x20;
+
+Attendees: headelf, fly you fools, crandano, sucrenspice, kenichi, rojokaboti, stephen, thefreys, matt&#x20;
+
+#### Agenda Items:&#x20;
+
+Fix meeting calendar links, Onboarding content creators to WG meetings, Discussion of social media account needed (Medium, Substack, Mindplex), Social Media Workgroup Length of Meeting: 1 hr Goal and or Action Items: Kenichi to setup Medium, post first article (about Ambassadors by Mikasa), Zoom links fixed on Calendar for Video/Writers/Marketing, Tweets discussed for the following week&#x20;
+
+#### Brief Summary:&#x20;
+
+We began the meeting with a quick discussion that all members of a workgroup hold equal ownership of said workgroup. Let’s all work on holding each other accountable and following up with each other with reminders and keep in mind that bootstrapping anything takes time.&#x20;
+
+The discussion did a dive into rewarding writers with a light discussion on rewarding editors. This is an old document but the Payments for Articles part on page 2 could be useful: [https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit#gid=0We](https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit#gid=0We)&#x20;
+
+We discussed meeting soon between Kenichi, Fly, Cran, and any others interested to hash out rewards for writers and editors in preparation for next week’s Writers Workgroup. We touched on Onboarding having their first meeting over this last week and moving forward. Finding content creators within the email list to get these workgroups populated. Sucren is going to create a when2meet so we can hash out a weekly Onboarding meeting moving forward. A Social Media Workgroup was brought up, and headelf had an excellent idea that we take time within the Marketing Guild to hash out social media for the next week, which we did and will do moving forward.&#x20;
+
+#### Twitter Posts include:
+
+Mikasa’s Medium Article - Friday (Kenichi) Supervisory Council SWAE - Saturday New Ambassadors, New Workgroups - Sunday Mon-Fri, regular meetings posts each day (edited)
+
 #### Read.ai summary (unedited)
 
 The Ambassadors SingularityNET and cran discussed rewards for contributors to the Writers Work Group, including a possible leveling system and payment structure. They also discussed the importance of setting a precedent and ensuring quality of work. Tommy Frey suggested having a meeting to discuss the rewards further and Matt S suggested creating clothing with Sofia art.
