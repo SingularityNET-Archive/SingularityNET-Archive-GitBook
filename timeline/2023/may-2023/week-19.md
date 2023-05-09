@@ -61,3 +61,5 @@ Create spontaneous content edited by video workgroup (Video workgroup are in pla
 Discussed Broadcasting timezones (see slides)
 
 Planned "What is necessary" for each content style (see slides)
+
+{% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=d140715e-02a0-49e0-881c-a73afccfaa71" %}
