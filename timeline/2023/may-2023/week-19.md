@@ -92,6 +92,12 @@ Planned "What is necessary" for each content style (see slides)
 
 ### New Ambassadors Onboarding
 
+Hosted by Tommy Frey
+
+#### Summary
+
+New Ambassadors voted for last week were introduced. TheFreysDeFi and Stephen Whitenstall
+
 {% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=ccdc2036-9063-4fdb-b461-ea1438dd0192" %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 18-08-34.png" alt=""><figcaption></figcaption></figure>
