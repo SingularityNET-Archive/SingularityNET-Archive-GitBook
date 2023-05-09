@@ -95,7 +95,7 @@ Connect with Facilitators Collective Work on action items created under agenda i
 \
 
 
-### Ambassador Town Hall
+### Ambassador Town Hall - 46
 
 Hosted by Peter Elfrink
 
@@ -215,6 +215,8 @@ Meeting Summary Context: How to structure Ambassador rules around payments, task
 {% embed url="https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553444175045&cot=10" %}
 
 <figure><img src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 1.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/2023-05-11-SNet-Treasury-Guild.pdf" %}
 
 #### Agenda Items:&#x20;
 
