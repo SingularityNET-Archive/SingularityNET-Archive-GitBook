@@ -96,7 +96,9 @@ Hosted by Tommy Frey
 
 #### Summary
 
-New Ambassadors voted for last week were introduced. TheFreysDeFi and Stephen Whitenstall
+New Ambassadors voted for last week were introduced. TheFreysDeFi and Stephen Whitenstall.
+
+The Ambassador programme relationship with the Supervisory Council was discussed. Feedback was sought on Supervisory Council election ideation.
 
 {% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=ccdc2036-9063-4fdb-b461-ea1438dd0192" %}
 
