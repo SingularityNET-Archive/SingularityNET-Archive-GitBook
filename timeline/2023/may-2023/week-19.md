@@ -89,3 +89,6 @@ Planned "What is necessary" for each content style (see slides)
 {% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=d140715e-02a0-49e0-881c-a73afccfaa71" %}
 
 ## Tuesday, 9th May 2023
+
+### New Ambassadors Onboarding
+
