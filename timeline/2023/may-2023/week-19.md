@@ -104,7 +104,9 @@ Topic 1: The Council’s key responsibilities&#x20;
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/97d27078-9870-461d-9fa0-f2b0b7824853?mc_cid=55a7b9f625&mc_eid=b15b3e42d2" %}
 
-Topic 2: The length of the council’s commission https://proposals.deepfunding.ai/challenge-info/ff80c68c-9985-462b-a62e-350fc9dd4002?mc\_cid=55a7b9f625\&mc\_eid=b15b3e42d2&#x20;
+Topic 2: The length of the council’s commission
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/ff80c68c-9985-462b-a62e-350fc9dd4002?mc_cid=55a7b9f625&mc_eid=b15b3e42d2" %}
 
 Topic 3: The compensation of the council members&#x20;
 
