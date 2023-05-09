@@ -95,3 +95,21 @@ Planned "What is necessary" for each content style (see slides)
 {% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=ccdc2036-9063-4fdb-b461-ea1438dd0192" %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 18-08-34.png" alt=""><figcaption></figcaption></figure>
+
+Topic 1: The Council’s key responsibilities https://proposals.deepfunding.ai/challenge-info/97d27078-9870-461d-9fa0-f2b0b7824853?mc\_cid=55a7b9f625\&mc\_eid=b15b3e42d2&#x20;
+
+Topic 2: The length of the council’s commission https://proposals.deepfunding.ai/challenge-info/ff80c68c-9985-462b-a62e-350fc9dd4002?mc\_cid=55a7b9f625\&mc\_eid=b15b3e42d2&#x20;
+
+Topic 3: The compensation of the council members&#x20;
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/acf4611c-bea2-4d3e-8cea-87deb60a5656?mc_cid=55a7b9f625&mc_eid=b15b3e42d2" %}
+
+Topic 4: The voting mechanism&#x20;
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/8f1e1d45-e9b8-4d53-b460-0223d6037349?mc_cid=55a7b9f625&mc_eid=b15b3e42d2" %}
+
+&#x20;
+
+Topic 5: Other suggestions that do not fit any of the topics above&#x20;
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/9491a091-95e4-4bf6-b894-0330b885d5f8?mc_cid=55a7b9f625&mc_eid=b15b3e42d2" %}
