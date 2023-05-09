@@ -96,6 +96,12 @@ Planned "What is necessary" for each content style (see slides)
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 18-08-34.png" alt=""><figcaption></figcaption></figure>
 
+#### Create a SC Proposal - 50 Gimbal
+
+{% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=dccb1cee-d6fe-41bd-a245-c73420506294" %}
+
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 18-57-56.png" alt=""><figcaption></figcaption></figure>
+
 #### Supervisory Council election ideation&#x20;
 
 Please feed back to Supervisory Council election ideation pools above, feedback period is until 18 May
