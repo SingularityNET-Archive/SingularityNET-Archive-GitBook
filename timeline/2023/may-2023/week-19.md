@@ -6,6 +6,30 @@ description: May 8th 2023 to May 14th 2023
 
 ## Monday, 8th May 2023
 
+### Education Guild
+
+#### Education Guild Agenda 5.8.2023
+
+1.Rojos CIP-1694 Workshop Discussion
+
+2.Discuss Haley’s video about SingularityNet Ecosystem inclusivity as it relates to education and participation.
+
+Link to video below
+
+{% embed url="https://twitter.com/SingularityNET/status/1655433091815546880?s=20" %}
+
+3\. Safe space formation and discussion. No limit on what constitutes a safe space or for what reason.
+
+4.There has been mention about learn to earn initiatives. Let's discuss if we want to follow up on this and if so, how can we implement this?
+
+1. Support from ecosystem partners for tokens?
+2. What information?
+3. What platform?
+
+5\. Designate a learning channel to post all educational content within. Ask our ecosystem partners to utilize this channel as they post educational materials.
+
+6\. What did we as a group and individuals learn this week?
+
 ### Broadcasting Ideation
 
 #### Host(s): Fly&#x20;
