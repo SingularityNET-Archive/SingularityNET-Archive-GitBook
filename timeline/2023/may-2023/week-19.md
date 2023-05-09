@@ -4,7 +4,7 @@ description: May 8th 2023 to May 14th 2023
 
 # Week 19
 
-## Monday 8th May 2023
+## Monday, 8th May 2023
 
 ### Broadcasting Ideation
 
@@ -64,4 +64,4 @@ Planned "What is necessary" for each content style (see slides)
 
 {% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=d140715e-02a0-49e0-881c-a73afccfaa71" %}
 
-## Tuesday 9th May 2023
+## Tuesday, 9th May 2023
