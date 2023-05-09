@@ -141,3 +141,11 @@ Topic 5: Other suggestions that do not fit any of the topics above&#x20;
 {% embed url="https://padlet.com/esthergalfalvi/supervisory-council-questions-stu5yrtub53lcii5" %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 18-56-24.png" alt=""><figcaption></figcaption></figure>
+
+### Ambassador Town Hall
+
+Hosted by Peter Elfrink
+
+{% embed url="https://docs.google.com/presentation/d/10XoTokiinXCurlYTZeXfvJf2rvpjwJ_hAe6gIipE57M/edit?usp=sharing" %}
+
+{% file src="../../../.gitbook/assets/Community Ambassador Program - Town Hall May 9th.pptx" %}
