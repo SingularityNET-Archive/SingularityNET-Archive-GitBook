@@ -121,3 +121,9 @@ Topic 4: The voting mechanism&#x20;
 Topic 5: Other suggestions that do not fit any of the topics above&#x20;
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/9491a091-95e4-4bf6-b894-0330b885d5f8?mc_cid=55a7b9f625&mc_eid=b15b3e42d2" %}
+
+#### Supervisory Council questions
+
+{% embed url="https://padlet.com/esthergalfalvi/supervisory-council-questions-stu5yrtub53lcii5" %}
+
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 18-56-24.png" alt=""><figcaption></figcaption></figure>
