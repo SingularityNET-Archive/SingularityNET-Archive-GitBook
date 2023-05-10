@@ -159,3 +159,39 @@ Hosted by Tevo Saks
 ### Incubation Workshop
 
 Hosted by Fly and Crandano
+
+### Strategy Guild
+
+#### Hosted by Tommy Frey
+
+Best Practice -Facilitating a Virtual Meeting.
+
+Best Practices
+
+Community discussion  - Organizing and Facilitating a Virtual SNET meeting.
+
+Set a goal(s) for yourself for what the meeting is going to achieve.  You do not need to share as this beginning step is to guide you as you ideate on the meeting topics.  One high priority goal is typically best.  This is the one item you want to achieve before the meeting ends.  Several secondary goals are often good to have but not needed.
+
+Set an agenda for the meeting. This could be one major concept or 3-4 topics of what the meeting is planning to cover.  You may want to number the agenda items for effect. There are several purposes for the agenda.  First is for you as the facilitator to act as your guide throughout the meeting.  Second is for your audience.  It provides a gentle pre-notice of the allowable topics to be covered so your meeting goal is achieved.  Third, it acts as guard rails for when the conversation gets off topic either unintentionally or when an actor hijacks it.  You can use the agenda offensively (but not in an offensive manner) with your audience to bring the meeting topic back on track.
+
+Print the agenda for your audience and either hand out at an in-person meeting or post it for a virtual meeting. Make certain that all of your audience is able to read a copy of the agenda prior to the meeting or at the very beginning.
+
+Welcome everyone to your meeting.  If it is a smaller group, welcome and thank them for attending. You establish a positive connection with your audience by mentioning their name.  During a meeting try to make everyone feel special.
+
+At the very beginning of any meeting you should cover Housekeeping items.  In an IRL meeting this might include telling everyone where rest rooms and emergency exits are located.  In a virtual meeting tell your audience what your ground rules are.  Do you want a raised hand that you will recognize with a Mic off policy or is it okay for a respectful open Mic discussion.  How long do you expect the meeting to last.  Break timing, etc.   It is your meeting but you need to manage expectations to get the most from your audience.  By setting rules and attending to Housekeeping you are demonstrating your concern for them.
+
+As you start the meeting after Housekeeping you should consider using the age old speaker technique of:Tell them what you are going to tell them; Tell them; Tell them what you told them.  Translated - Tell your audience what the agenda items are.  Then get into the meeting.  At the end of the meeting, summarize by telling them what you covered.
+
+Start your meeting with the very first agenda item.  Hint; A professionally run meeting is when the facilitator does very little talking.  Your role is to frame the agenda item and start eliciting response from your audience.  You should be jotting notes of the key points your audience is covering.  Recap what your audience said - as you heard it.  This can be used as a tool to curtail discussion or lead an interesting concept into deeper discussion
+
+Calling on participants is a method to engage everyone and get shy or reluctant participants involved.  Hint: do not ambush anyone.  Give everyone a heads up before you call on them.  It might be something like “ oh in a minute I’m going to ask John for his view on ….”  Say a few other things and then go back and ask John for his view.  By doing this you gave John time to prepare.
+
+Cover your agenda items in order. However, do not rush your meeting just to cover all items.  If an agenda item is not finalized you can either sidetrack it for further discussion, kill it if it is too difficult or work the meeting until you solve it and bring closure.  Now you should realize the importance of the goal setting in step one.  Did your meeting meet your goal?
+
+At the beginning of the end of the meeting, wrap around to summarize what was covered and what everyone achieved by having the meeting.  This shows respect for peoples time and demonstrates your gratitude for what was achieved.  Also include here a reminder of any and all action items from your notes.
+
+The end of the meeting, after your summary should first ask if anyone has final thoughts and then thank everyone.
+
+\
+\
+\
