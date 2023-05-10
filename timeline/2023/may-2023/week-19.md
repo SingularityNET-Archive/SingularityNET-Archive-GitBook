@@ -158,7 +158,9 @@ Hosted by Tevo Saks
 
 ### Incubation Workshop
 
-Hosted by Fly and Crandano
+#### Hosted by Fly and Crandano
+
+Summary here
 
 ### Strategy Guild
 
