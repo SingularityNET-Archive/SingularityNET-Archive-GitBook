@@ -166,8 +166,6 @@ Hosted by Fly and Crandano
 
 Best Practice -Facilitating a Virtual Meeting.
 
-Best Practices
-
 Community discussion  - Organizing and Facilitating a Virtual SNET meeting.
 
 Set a goal(s) for yourself for what the meeting is going to achieve.  You do not need to share as this beginning step is to guide you as you ideate on the meeting topics.  One high priority goal is typically best.  This is the one item you want to achieve before the meeting ends.  Several secondary goals are often good to have but not needed.
@@ -191,6 +189,8 @@ Cover your agenda items in order. However, do not rush your meeting just to cove
 At the beginning of the end of the meeting, wrap around to summarize what was covered and what everyone achieved by having the meeting.  This shows respect for peoples time and demonstrates your gratitude for what was achieved.  Also include here a reminder of any and all action items from your notes.
 
 The end of the meeting, after your summary should first ask if anyone has final thoughts and then thank everyone.
+
+{% file src="../../../.gitbook/assets/Best Practice -Facilitating a Virtual Meeting..docx" %}
 
 \
 \
