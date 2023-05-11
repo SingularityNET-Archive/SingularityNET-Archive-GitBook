@@ -160,7 +160,21 @@ Hosted by Tevo Saks
 
 #### Hosted by Fly and Crandano
 
-Summary here
+Attendees: slysyl, iain, stephen, headelf, peter, felix, freys, fly, cran, randall Agenda Items:
+
+Incubate the Archive Proposal:
+
+{% embed url="https://docs.google.com/document/d/1BFlTKeoIz2wcPYtp_iT8wpdlk3YvRMjCuqCFEDtsDeA/edit?usp=sharing" %}
+
+#### Length of Meeting: 1 hr&#x20;
+
+#### Goal and or Action Items:&#x20;
+
+To provide a setting for questions, opinions, feedback, and ideas for Archive’s proposal&#x20;
+
+Brief Summary: We began the meeting with Stephen\[QADAO] going over their current work with the archive of the Ambassador Program along with their proposal. Afterwards, the meeting was open for questions. Budget was among those questions and something the program is still putting their feelers out for the best way to move forward for things like new workgroup proposals. The Archive Proposal will continue to be discussed in Thursday’s Treasury meeting.&#x20;
+
+Other questions and subjects: Training LLM’s with any particular objectives? Revenue streams for this data and work? Could this be supplemented at some point by avenues like a Deep Funding proposal? Partnerships potential Ambassador Program is still working on the best way forward for decision making which was highlighted at the end. Where do we vote and how? It seems many agree with the potential of anonymous voting.
 
 ### Strategy Guild
 
