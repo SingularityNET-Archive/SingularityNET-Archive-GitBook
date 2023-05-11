@@ -314,28 +314,15 @@ Notes by Grace
 
 Responsibility Brainstorm Jan \* Involvement in governance decisions (important) \* Intermediary to community/foundation \* Write whitepaper / Define SinComDAO Curtis \* Facilitating of getting feedback from community to decision-makers EricS \* Intermediaries between different community groups \* Define what the community is. \* Oversight / supervision 21:42:41 From Grace Rachmany To Everyone: Grace \* Decide on mission / outcomes \* Create whitepaper/ constitution \* Serve as ombusdman / make sure constitution is implemented. 21:43:27 From Grace Rachmany To Everyone: Jose: \* Ensure implementation aligns with community desire \* Channel for ethical issues \* Being involved in governance actions \* Supervising treasury 21:45:45 From Grace Rachmany To Everyone: Sebastian: \* Manage financial sustainability of organizations (Prevent community from just spending funds without income source) 21:47:13 From Grace Rachmany To Everyone: \* Take dynamic role w
 
-Room 2 - Proposals related to the length of the commission
+#### Room 2 - Proposals related to the length of the commission
 
 Supervisory Council Election: Proposals related to the length of the commission
 
-\
-\
-
-
 For how long should we be commissioning the renewed Supervisory Council? There are 2 main perspectives to take into account here:
-
-\
-
 
 1\. The work and mandate of the Supervisory Council might evolve from SeedSingComDAO to early SingComDAO to matured SingComDAO. This might be a reason to call for a shorter period.
 
-\
-
-
 2\. If we are aiming for high profiled individuals, they may be more interested in making an effort if the commission period is longer.
-
-\
-
 
 Peter proposal - Appoint the SC for full Seed phase duration
 
@@ -348,7 +335,7 @@ Peter proposal - Appoint the SC for full Seed phase duration
 * Forced re-election after 2 years.
 * SC members can re-apply for re-election.
 
-Jan comment - Concerns
+#### Jan comment - Concerns
 
 * New SC should guide the first stage of SCDAO for a proper start.
 * Ensures implementation of proposals they have been part of.
@@ -356,7 +343,7 @@ Jan comment - Concerns
 * Clarify responsibilities and time investment during this period.
 * Good starting point for the next election.
 
-Grace comment - Strengths
+#### Grace comment - Strengths
 
 * Initial stewardship should have limited involvement.
 * First phase: Create structures/whitepaper for SCDAO.
@@ -368,10 +355,7 @@ Grace comment - Strengths
 * Two-year terms with at least half having one year's experience.
 * Rolling elections promote continuity of knowledge.
 
-Outcomes / conclusions
-
-\
-
+#### Outcomes / conclusions
 
 Mauro was concerned about the length of the election. Limit opportunities to re-election. 1 year is a lot of time in the blockchain environment.
 
@@ -391,19 +375,13 @@ Mauro - always better in Seed testing with a short period of time - 6 months of 
 
 https://forum.cardano.org/t/the-layout-of-the-cip-1694-that-amazed-me/116294
 
-\
-
-
-Outcomes -&#x20;
+#### Outcomes
 
 term limits. Too long length of time a concern
 
 Legitimacy of council and proper oversight.
 
 Staged re-election is a good idea to retain knowledge
-
-\
-
 
 Comment by Grace: It feels like we also might need a code of conduct so that someone could be eliminated from the Council for serious breaches or lack of activity.
 
