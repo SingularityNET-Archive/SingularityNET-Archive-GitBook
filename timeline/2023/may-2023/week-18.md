@@ -208,32 +208,6 @@ Hosted by Tevo Saks
 
 17 Participants
 
-**Meeting Summary Context**: How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
-
-**Context**: We Prioritize critical Ambassador Activities and cover process changes&#x20;
-
-#### Agenda Items&#x20;
-
-Proposal roadmap ideation&#x20;
-
-**Decision** - we keep all proposal stages open all the time to make them more fluid Decision - Our goal is to refine proposals to be accepted&#x20;
-
-**Decision** - If the proposal has no budget some proposal stages can be skipped&#x20;
-
-**Decision** - Incubation Workgroup will be used to help with proposal to until to Submission stage&#x20;
-
-**Decision** - Proposal Approvals are done in Treasury Guild Ambassador Role or Guild Privileges&#x20;
-
-**Decision** - Ambassadors follow the same process as everyone else&#x20;
-
-**Decision** - Ambassadors or Guilds will not get a budget to push proposals through on their own&#x20;
-
-#### Next elegant steps (general action items)&#x20;
-
-Proposers have a chance to take their ideas to Incubation Workgroup to refine them for Submission&#x20;
-
-We will have a Proposal Approval Session this week at Treasury Guild
-
 #### Meeting notes:&#x20;
 
 {% embed url="https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553444175045&cot=10" %}
