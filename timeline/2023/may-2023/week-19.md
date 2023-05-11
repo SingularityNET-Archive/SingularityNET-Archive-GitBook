@@ -399,6 +399,10 @@ Comment by Grace: It feels like we also might need a code of conduct so that som
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/acf4611c-bea2-4d3e-8cea-87deb60a5656" %}
 
+#### Voting mechanism
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/8f1e1d45-e9b8-4d53-b460-0223d6037349" %}
+
 #### Supervisory Council Election: Generic Pool
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/9491a091-95e4-4bf6-b894-0330b885d5f8" %}
