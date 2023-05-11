@@ -160,6 +160,8 @@ Hosted by Tevo Saks
 
 **Meeting Notes :** [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553658838455\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553658838455\&cot=10)
 
+<figure><img src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 1(1).jpg" alt=""><figcaption><p>Process Guild - Workgroup Proposal Process. 09/05/2023</p></figcaption></figure>
+
 #### Agenda Items&#x20;
 
 Proposal roadmap ideation&#x20;
