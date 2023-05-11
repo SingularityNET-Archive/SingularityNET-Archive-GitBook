@@ -212,6 +212,57 @@ The end of the meeting, after your summary should first ask if anyone has final 
 
 {% embed url="https://docs.google.com/document/d/1VQvztaryoFQ_vgY2u9dhKTsF7P_pyDwD9K7CnDsxhNc/edit?usp=sharing" %}
 
-\
-\
-\
+## Thursday, 11th May 2023
+
+### Stakepool Incubation
+
+#### Cryptofly777
+
+Hey guys!
+
+Sorry, I completely missed this.
+
+I just added this comment to the google docs form but I notice that there hasn't been much action on it since it was first floated so I will post it here to make sure it isn't missed.
+
+In respects to:
+
+"Resource generation: The stake pool can generate additional income for the SingularityNET Ambassador program, supporting the development of new AI services and the expansion of the platform."
+
+With the current hardware requirements for a Stake Pool, you will need to run 2 relays with 16GB Ram, with at least another 4GB of Swap memory. Unless someone is willing to provide bare metal for the servers, the cloud costs for this on average is $80-$110 a month each.
+
+The block producer needs 32GB of Ram and this usually becomes a dedicated CPU rather than a shared. The costs jump dramatically to around $300-$400 for this instance.
+
+Total being around $500 a month on a cloud provider.
+
+With the current price of ADA, you will need around 30m ADA staked to break even on this endeavour.
+
+This is including tax considerations, and the costs of someone running the pool and marketing efforts.
+
+I'm not exactly a fan of this idea. It is INCREDIBLY difficult to attract stake to a pool and you would need to be offering significant amounts of SNet universe tokens to attract any meaningful amount of stake... even with the reach that SNet already has.
+
+I think that this idea should be parked until ADA has recovered to a significantly higher value of around $1-$1.50
+
+Until then, I think that we should follow NuNets lead and work with community pools who have always been favourable towards AI or SNet.
+
+We could get these pools onboard and have them talking to their communities in exchange for some small random airdrops of tokens.
+
+Running a pool now is likely to cost us money rather than generating additional income.
+
+All of the other outcomes that we are aiming for can be achieved by working with established community SPOs
+
+Community empowerment - We will achieve wider decentralisation by working with 10-20 SPOs rather than a singular stakepool of our own
+
+Enhanced collaboration - People will be more willing to work with us if it attracts stake to their pool and we can harness the already established communities.
+
+Financial incentives - Same as if staking to a SNet pool
+
+Greater visibility - I believe working with established communities pools would give us greater visibility again
+
+Can help facilitate creating the staking service on Cardano, For instance if SingularityNet follows the AMM model the ada funds can be staked to generate income. - This is where running our own pool will be ideal HOWEVER, with liquid staking like we have in Indigo, people may prefer that their ADA stays staked in their pools that they are currently in, rather than having it staked to a pool that we/SNet dictates to them.
+
+Just writing all of this here because the meeting times usually fall in times that I can't attend. 🙂
+
+{% embed url="https://discord.com/channels/909843832491896832/1102972537945731143/1106204247147679824" %}
+
+
+
