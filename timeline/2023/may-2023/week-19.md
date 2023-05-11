@@ -395,3 +395,7 @@ Staged re-election is a good idea to retain knowledge
 
 Comment by Grace: It feels like we also might need a code of conduct so that someone could be eliminated from the Council for serious breaches or lack of activity.
 
+#### Supervisory Council Election: Generic Pool
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/9491a091-95e4-4bf6-b894-0330b885d5f8" %}
+
