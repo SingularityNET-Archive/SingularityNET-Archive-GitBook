@@ -310,6 +310,8 @@ Hosted by Felix Weber and Jan&#x20;
 
 #### Room 1 - Councils key responsibities
 
+{% embed url="https://proposals.deepfunding.ai/challenge-info/97d27078-9870-461d-9fa0-f2b0b7824853" %}
+
 Notes by Grace Rachmany
 
 Responsibility Brainstorm Jan \* Involvement in governance decisions (important) \* Intermediary to community/foundation \* Write whitepaper / Define SinComDAO Curtis \* Facilitating of getting feedback from community to decision-makers EricS \* Intermediaries between different community groups \* Define what the community is. \* Oversight / supervision 21:42:41&#x20;
@@ -321,6 +323,8 @@ From Grace Rachmany To Everyone: Jose: \* Ensure implementation aligns with comm
 From Grace Rachmany To Everyone: Sebastian: \* Manage financial sustainability of organizations (Prevent community from just spending funds without income source) 21:47:13 From Grace Rachmany To Everyone: \* Take dynamic role w
 
 #### Room 2 - Proposals related to the length of the commission
+
+{% embed url="https://proposals.deepfunding.ai/challenge-info/ff80c68c-9985-462b-a62e-350fc9dd4002" %}
 
 Supervisory Council Election: Proposals related to the length of the commission
 
