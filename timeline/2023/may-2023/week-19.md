@@ -184,6 +184,8 @@ Proposers have a chance to take their ideas to Incubation Workgroup to refine th
 
 We will have a Proposal Approval Session this week at Treasury Guild
 
+{% file src="../../../.gitbook/assets/Process Guild - Workgroup Proposal Process. 09-05-2023.pdf" %}
+
 ## Wednesday, 10th May 2023
 
 ### Incubation Workshop
@@ -294,5 +296,10 @@ Just writing all of this here because the meeting times usually fall in times th
 
 {% embed url="https://discord.com/channels/909843832491896832/1102972537945731143/1106204247147679824" %}
 
+### Supervisory Council TownHall
 
+Hosted by Felix Weber and Jan&#x20;
 
+{% embed url="https://docs.google.com/presentation/d/1ZCQxadBJtXp5_Pq8ctUDnWDzaTecycHmh4xHbgh9NBc/edit?usp=sharing" %}
+
+{% file src="../../../.gitbook/assets/SC Workshop May11.pptx" %}
