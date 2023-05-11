@@ -308,6 +308,8 @@ Hosted by Felix Weber and Jan&#x20;
 
 {% embed url="https://docs.google.com/spreadsheets/d/1VuyKZBsbCHBOqz8ZUNcZEReCUhSPsKiEPmXgDEjg1GY/edit?usp=sharing" %}
 
+#### Room 1 - Councils key responsibities
+
 Notes by Grace
 
 Responsibility Brainstorm Jan \* Involvement in governance decisions (important) \* Intermediary to community/foundation \* Write whitepaper / Define SinComDAO Curtis \* Facilitating of getting feedback from community to decision-makers EricS \* Intermediaries between different community groups \* Define what the community is. \* Oversight / supervision 21:42:41 From Grace Rachmany To Everyone: Grace \* Decide on mission / outcomes \* Create whitepaper/ constitution \* Serve as ombusdman / make sure constitution is implemented. 21:43:27 From Grace Rachmany To Everyone: Jose: \* Ensure implementation aligns with community desire \* Channel for ethical issues \* Being involved in governance actions \* Supervising treasury 21:45:45 From Grace Rachmany To Everyone: Sebastian: \* Manage financial sustainability of organizations (Prevent community from just spending funds without income source) 21:47:13 From Grace Rachmany To Everyone: \* Take dynamic role w
