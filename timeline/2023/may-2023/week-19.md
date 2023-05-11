@@ -304,6 +304,8 @@ Hosted by Felix Weber and Jan&#x20;
 
 {% file src="../../../.gitbook/assets/SC Workshop May11.pptx" %}
 
+Welcome & Introduction Proposals related to the council’s key responsibilities Proposals related to the length of the commission Proposals related to the compensation of the SC members Voting mechanism Generic Pool Insight sharing from breakout rooms Closing workshop
+
 #### Breakout rooms
 
 {% embed url="https://docs.google.com/spreadsheets/d/1VuyKZBsbCHBOqz8ZUNcZEReCUhSPsKiEPmXgDEjg1GY/edit?usp=sharing" %}
@@ -395,15 +397,15 @@ Staged re-election is a good idea to retain knowledge
 
 Comment by Grace: It feels like we also might need a code of conduct so that someone could be eliminated from the Council for serious breaches or lack of activity.
 
-#### Proposals related to the compensation of the SC members
+#### Room 3 - Proposals related to the compensation of the SC members
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/acf4611c-bea2-4d3e-8cea-87deb60a5656" %}
 
-#### Voting mechanism
+#### Room 4 - Voting mechanism
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/8f1e1d45-e9b8-4d53-b460-0223d6037349" %}
 
-#### Supervisory Council Election: Generic Pool
+#### Room 5 - Supervisory Council Election: Generic Pool
 
 {% embed url="https://proposals.deepfunding.ai/challenge-info/9491a091-95e4-4bf6-b894-0330b885d5f8" %}
 
