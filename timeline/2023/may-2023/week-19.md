@@ -316,3 +316,94 @@ Responsibility Brainstorm Jan \* Involvement in governance decisions (important)
 
 Room 2 - Proposals related to the length of the commission
 
+Supervisory Council Election: Proposals related to the length of the commission
+
+\
+\
+
+
+For how long should we be commissioning the renewed Supervisory Council? There are 2 main perspectives to take into account here:
+
+\
+
+
+1\. The work and mandate of the Supervisory Council might evolve from SeedSingComDAO to early SingComDAO to matured SingComDAO. This might be a reason to call for a shorter period.
+
+\
+
+
+2\. If we are aiming for high profiled individuals, they may be more interested in making an effort if the commission period is longer.
+
+\
+
+
+Peter proposal - Appoint the SC for full Seed phase duration
+
+* Seed-SingComDAO timeframe should guide SC election.
+* SC elected for the duration of Seed-SingComDAO.
+* New election once Seed-SingComDAO transitions to SCDAO.
+* Election period approximately 6-9 months.
+* Full ownership of seed-singcomdao process for elected SC members.
+* 2-year appointment period for SCDAO.
+* Forced re-election after 2 years.
+* SC members can re-apply for re-election.
+
+Jan comment - Concerns
+
+* New SC should guide the first stage of SCDAO for a proper start.
+* Ensures implementation of proposals they have been part of.
+* Initial period: 3-6 months for Seed phase and another 6 months for startup.
+* Clarify responsibilities and time investment during this period.
+* Good starting point for the next election.
+
+Grace comment - Strengths
+
+* Initial stewardship should have limited involvement.
+* First phase: Create structures/whitepaper for SCDAO.
+* Second phase: Oversight of vision implementation (Startup phase).
+* Transition moment allows members to step down or be replaced.
+* New election may not be necessary for continuity.
+* Long-term council elections should occur annually.
+* Half of the council is replaced each year.
+* Two-year terms with at least half having one year's experience.
+* Rolling elections promote continuity of knowledge.
+
+Outcomes / conclusions
+
+\
+
+
+Mauro was concerned about the length of the election. Limit opportunities to re-election. 1 year is a lot of time in the blockchain environment.
+
+6 months would be preferable. Define limits of re-election would 1 complete. 1 year of poor performance could be ingrained
+
+Iain likes the overlap between candidates for continuity. Term limits.&#x20;
+
+Consideration of mechanism of recall to address performance contributions.
+
+Mauro - if you do not limit power at the beginning that invites problems. Re-election 3 times in 2 year period as Grace suggests.
+
+Iain - key if SC plays a role of connection between communities they have to have trust of community - so SC needs to be accountable. Endorsed by the community.
+
+Looking at it in phases makes a lot of sense.
+
+Mauro - always better in Seed testing with a short period of time - 6 months of terms. Then assess whether more time is needed.To anticipate people's frustrations. 6 months sufficient time to assess performance.&#x20;
+
+https://forum.cardano.org/t/the-layout-of-the-cip-1694-that-amazed-me/116294
+
+\
+
+
+Outcomes -&#x20;
+
+term limits. Too long length of time a concern
+
+Legitimacy of council and proper oversight.
+
+Staged re-election is a good idea to retain knowledge
+
+\
+
+
+Comment by Grace: It feels like we also might need a code of conduct so that someone could be eliminated from the Council for serious breaches or lack of activity.
+
