@@ -477,3 +477,11 @@ Hosted by Crandano and Fly
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 15-08-21.png" alt=""><figcaption></figcaption></figure>
 
+#### Release of the NuNet Testnet Public Alpha (Stage 1)
+
+Written by Kenichi / edited by Slate
+
+797 words
+
+
+
