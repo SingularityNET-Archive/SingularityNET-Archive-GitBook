@@ -246,6 +246,28 @@ The end of the meeting, after your summary should first ask if anyone has final 
 
 ## Thursday, 11th May 2023
 
+Treasury Guild
+
+Meeting Summary Context:&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities. Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553503763495\&cot=10
+
+Agenda Items read.ai License Action - Peter will buy a monthly subscription fee 15$/m (without video playback feature) Decision - All kinds of product Licenses will be handled by Peter Decision - Reimbursement will be done in AGIX + 20% tax Decision - Tooling and Licenses costs will be calculated once per month
+
+Proposal - Archive Workgroup Decision - The proposal leads will get 2500 AGIX per month incentives if there is no pushback before until next Treasury Guild Call on 18.05.2023 Decision - Once accepted Proposal will be allowed to spend 2500AGIX in the month of May (including retrospective rewards if proposal team decides so) Action - Treasury Guild's decision about this Proposal will be shared in the next Townhall 16.05.2023
+
+Proposal - Swarm Treasury System Decision - The Treasury System continues to use the existing fee structure 800$ cap if AGIX price is above 0.35 and fee price goes down by the same percentage when the price goes below 0.35 Each transaction will have a 1% fee Action - Treasury System Fee will be looked at again in next two months
+
+Proposal - Process Modelling Workgroup Decision - The proposal is accepted and rewards will be reallocated from Process Guild Action - Process Modeling Workgroups will start next week (date and time will be announced next Townhall 16.05.2023)
+
+Proposal - Dework PBL Decision - Proposal Declined
+
+Proposal - Dao Lens - Participation Recognition Pipeline Action - to be looked at in the future
+
+Mindplex content translations Mindplex is offering translation tasks which we would need to reward ourselves at the start, but will be reimbursed on later date Action - Look at how work could be commissioned from ambassadors
+
+Next elegant steps (general action items) Decision - In future new proposals can be budgeted from Misc without added complexity Decision - If Guild or Role budget is not used in a month, it's rolled over under Misc Treasury Rewards Decision - If the workgroup or proposal budget is not used in a month, it's added to next month workgroup budget
+
 ### Stakepool Incubation
 
 #### Cryptofly777
@@ -414,4 +436,8 @@ Comment by Grace: It feels like we also might need a code of conduct so that som
 ### Video workgroup
 
 Hosted by Ro&#x20;
+
+{% embed url="https://docs.google.com/presentation/d/1laB-opqNrgymKWJDCIYhNbE7p7gGl-cw3fs0wV6hwhk/edit?usp=sharing" %}
+
+{% file src="../../../.gitbook/assets/VW weekly presentation 12-05-2023 (1).pptx" %}
 
