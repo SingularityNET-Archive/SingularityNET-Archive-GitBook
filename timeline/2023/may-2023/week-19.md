@@ -254,7 +254,17 @@ Hosted by Tevo Saks
 
 How to structure Ambassador rules around payments, tasks and anything related to financial activities. Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553503763495\&cot=10
 
-Agenda Items read.ai License Action - Peter will buy a monthly subscription fee 15$/m (without video playback feature) Decision - All kinds of product Licenses will be handled by Peter Decision - Reimbursement will be done in AGIX + 20% tax Decision - Tooling and Licenses costs will be calculated once per month
+#### Agenda Items
+
+read.ai License&#x20;
+
+**Action** - Peter will buy a monthly subscription fee 15$/m (without video playback feature)&#x20;
+
+**Decision** - All kinds of product Licenses will be handled by Peter&#x20;
+
+**Decision** - Reimbursement will be done in AGIX + 20% tax&#x20;
+
+**Decision** - Tooling and Licenses costs will be calculated once per month
 
 **Proposal** - Archive Workgroup Decision - The proposal leads will get 2500 AGIX per month incentives if there is no pushback before until next Treasury Guild Call on 18.05.2023 Decision - Once accepted Proposal will be allowed to spend 2500AGIX in the month of May (including retrospective rewards if proposal team decides so) Action - Treasury Guild's decision about this Proposal will be shared in the next Townhall 16.05.2023
 
