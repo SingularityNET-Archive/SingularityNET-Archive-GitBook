@@ -483,5 +483,5 @@ Written by Kenichi / edited by Slate
 
 797 words
 
-
+To be published on Medium
 
