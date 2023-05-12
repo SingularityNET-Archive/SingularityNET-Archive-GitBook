@@ -441,11 +441,11 @@ Hosted by Ro&#x20;
 
 {% file src="../../../.gitbook/assets/VW weekly presentation 12-05-2023 (1).pptx" %}
 
-Selection of key slides
+#### Selection of key slides
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-27-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-27-17.png" alt=""><figcaption><p>Social Media in numbers</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-27-44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-27-44.png" alt=""><figcaption><p>New Proposals</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-28-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-28-05.png" alt=""><figcaption><p>Tasks to cover</p></figcaption></figure>
 
