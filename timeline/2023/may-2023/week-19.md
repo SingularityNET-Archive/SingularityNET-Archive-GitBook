@@ -254,7 +254,9 @@ Hosted by Tevo Saks
 
 How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
 
-Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553503763495\&cot=10
+**Meeting notes:** https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553503763495\&cot=10
+
+{% file src="../../../.gitbook/assets/Treasury Guild-11-05-2023.pdf" %}
 
 <figure><img src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 2.jpg" alt=""><figcaption></figcaption></figure>
 
