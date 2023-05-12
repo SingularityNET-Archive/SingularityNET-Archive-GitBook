@@ -467,3 +467,13 @@ Hosted by Ro&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-28-05.png" alt=""><figcaption><p>Tasks to cover</p></figcaption></figure>
 
+### Writers workgroup
+
+Hosted by Crandano and Fly
+
+{% embed url="https://docs.google.com/spreadsheets/d/1NhLKdA_l1EnwKmJIibwyE3uhdKa_Y8B1V_mNyEmMFQE/edit?usp=sharing" %}
+
+#### Payments for writers
+
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 15-08-21.png" alt=""><figcaption></figcaption></figure>
+
