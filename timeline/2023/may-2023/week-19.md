@@ -246,7 +246,9 @@ The end of the meeting, after your summary should first ask if anyone has final 
 
 ## Thursday, 11th May 2023
 
-Treasury Guild
+### Treasury Guild
+
+Hosted by Tevo Saks
 
 Meeting Summary Context:&#x20;
 
