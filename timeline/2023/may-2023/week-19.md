@@ -252,7 +252,9 @@ Hosted by Tevo Saks
 
 #### Meeting Summary Context:&#x20;
 
-How to structure Ambassador rules around payments, tasks and anything related to financial activities. Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553503763495\&cot=10
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553503763495\&cot=10
 
 #### Agenda Items
 
