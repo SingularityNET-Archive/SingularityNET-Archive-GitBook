@@ -46,9 +46,11 @@ Generate a Js script that creates a button with the text ‘Submit File’ and i
 
 {% file src="../../../.gitbook/assets/kenric" %}
 
-### Ambassador Townhall
+### Ambassador Townhall - 48
 
-Hosted by
+Hosted by Peter Elfrink
+
+
 
 ### Process Guild
 
