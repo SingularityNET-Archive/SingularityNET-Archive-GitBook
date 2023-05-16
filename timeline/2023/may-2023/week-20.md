@@ -8,11 +8,13 @@ description: 15th May to 21st May 2023
 
 ### Education Guild
 
+Hosted by&#x20;
+
 
 
 ### Broadcast Ideation
 
-
+Hosted by
 
 ## Tuesday, 16th May 2023
 
@@ -22,3 +24,12 @@ description: 15th May to 21st May 2023
 
 ### Governance Workgroup
 
+Hosted by Felix Weber
+
+### Ambassador Townhall
+
+Hosted by
+
+### Process Guild
+
+Hosted by&#x20;
