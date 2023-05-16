@@ -6,7 +6,11 @@ description: 15th May to 21st May 2023
 
 ## Monday, 15th May 2023
 
+### Education Guild
 
+
+
+### Broadcast Ideation
 
 
 
