@@ -35,6 +35,8 @@ Miro - [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=345876455455893542
 
 <figure><img src="../../../.gitbook/assets/SingularityNET - Governance Guild May 16 2023.jpg" alt=""><figcaption><p>Governance Guild Miro - May 16th 2023</p></figcaption></figure>
 
+{% file src="../../../.gitbook/assets/SingularityNET - Governance Guild May 16 2023.pdf" %}
+
 Read.ai - [https://app.read.ai/analytics/meetings/01H0JDR20MWJ4078ABANGW2H9A?utm\_source=Share\_CopyLink](https://app.read.ai/analytics/meetings/01H0JDR20MWJ4078ABANGW2H9A?utm\_source=Share\_CopyLink)&#x20;
 
 Dework task - [https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=2a159c1f-7dfa-4432-b6de-b2a61e070e07](https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=2a159c1f-7dfa-4432-b6de-b2a61e070e07)&#x20;
@@ -126,3 +128,6 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 **Next elegant steps** (general action items)&#x20;
 
 * &#x20;Action - Have a discussion, how do we govern ourselves, (decision making models)
+
+## Wednesday, 17th May 2023
+
