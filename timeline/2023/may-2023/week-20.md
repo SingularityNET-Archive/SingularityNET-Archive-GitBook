@@ -26,6 +26,37 @@ Hosted by
 
 Hosted by Felix Weber
 
+#### Context:&#x20;
+
+General Q\&A on Governance WG, brainstorming on Ambassador governance in context to the SCDAO, Working on the Ambassadors Governance Framework document Meeting notes:\
+
+
+Miro - [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554558935426\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554558935426\&cot=10)&#x20;
+
+Read.ai - [https://app.read.ai/analytics/meetings/01H0JDR20MWJ4078ABANGW2H9A?utm\_source=Share\_CopyLink](https://app.read.ai/analytics/meetings/01H0JDR20MWJ4078ABANGW2H9A?utm\_source=Share\_CopyLink)&#x20;
+
+Dework task - [https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=2a159c1f-7dfa-4432-b6de-b2a61e070e07](https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=2a159c1f-7dfa-4432-b6de-b2a61e070e07)&#x20;
+
+#### Agenda Item
+
+&#x20;Introduction, Q\&A on general Governance Workgroup purpose & function --> Action: - Felix to create a slide deck to introduce the weekly Gov WG Calls&#x20;
+
+#### Agenda Item
+
+brainstorming on Ambassador governance in context to the SCDAO --> Action: - Organise a follow up meeting with previous SC&#x20;
+
+#### Agenda Item
+
+Ambassadors Governance Framework document --> Action: - Stephen to create a wrap up version of the initial Governance Framework Document - Felix to continue exploring machine readable tracking of document evolution process&#x20;
+
+#### Next elegant steps (general action items)
+
+&#x20;\- Gov WG continues the Gov WG Calls on a weekly basis
+
+> \- create a Agenda for next Gov WG call
+
+\- onboard new members from outside the ecosystem to the Workgroup
+
 #### Framework document
 
 [link](https://docs.google.com/document/d/1VQvztaryoFQ\_vgY2u9dhKTsF7P\_pyDwD9K7CnDsxhNc/edit?usp=sharing)
@@ -44,7 +75,7 @@ Generate a Js script that creates a button with the text ‘Submit File’ and i
 
 #### Organic Governance Through the Logic of Holonic Systems
 
-{% file src="../../../.gitbook/assets/kenric" %}
+{% file src="../../../.gitbook/assets/Organic Governance Through the Logic of Holonic Systems By Mihaela Ulieru" %}
 
 ### Ambassador Townhall - 48
 
