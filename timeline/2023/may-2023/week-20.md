@@ -93,6 +93,8 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 
 **Meeting notes:** [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554100697794\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554100697794\&cot=10)&#x20;
 
+<figure><img src="../../../.gitbook/assets/SingularityNET - Process-Guild-May-16-2023.jpg" alt=""><figcaption></figcaption></figure>
+
 **Agenda Items**&#x20;
 
 #### Archival Workgroup
