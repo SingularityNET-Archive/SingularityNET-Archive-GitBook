@@ -86,3 +86,37 @@ Hosted by Peter Elfrink
 ### Process Guild
 
 Hosted by Tevo Saks
+
+**Context:**&#x20;
+
+We Prioritize critical Ambassador Activities and cover process changes&#x20;
+
+**Meeting notes:** [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554100697794\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554100697794\&cot=10)&#x20;
+
+**Agenda Items**&#x20;
+
+#### Archival Workgroup
+
+* Action - Audit workgroup proposal further as it's now more updated&#x20;
+* Decision - Each workgroup defines its own reporting&#x20;
+* Decision - Proposers can describe their reporting method but is not mandatory&#x20;
+
+#### Process Modeling Workgroup&#x20;
+
+* Action - Workshops start taking place every Wednesday 15:00 UTC&#x20;
+* Introduce Facilitators Collective to share us facilitation best practices&#x20;
+* Decision - Keep item in backlog to hear further updates in future from Strategy Guild&#x20;
+
+#### Create a visual representation about Writers workgroup onboarding model&#x20;
+
+* Decision - Keep item in the backlog to hear further updates in the future from Process Modeling&#x20;
+
+#### Workgroup Workshop around SingularityNET Decentralization Report Design phases&#x20;
+
+* Decision - Seems to early to work on this atm Set Up Ambassadors Miro Account&#x20;
+* Decision - We will create an Ambassador Miro Account&#x20;
+* Action - Copy over SingularityNET related boards from Swarm to SingularityNET&#x20;
+
+**Next elegant steps** (general action items)&#x20;
+
+* &#x20;Action - Have a discussion, how do we govern ourselves, (decision making models)
