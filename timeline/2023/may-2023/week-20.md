@@ -133,5 +133,9 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 
 ### Incubation Workshop
 
-Hosted by
+Hosted by Cran and Fly
+
+### Strategy Guild
+
+Hosted by Tommy Frey
 
