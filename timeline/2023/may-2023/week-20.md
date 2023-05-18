@@ -137,7 +137,7 @@ Hosted by Cran and Fly
 
 #### Attendees:&#x20;
 
-slysyl, iain, stephen, headelf, peter, felix, freys, fly, cran, syntronix, rojo
+slysyl, iain, stephen, headelf, peter, felix, freys, fly, cran, syntronix, rojo, vani
 
 #### Agenda Items:&#x20;
 
@@ -155,13 +155,13 @@ We had an open conversation about what everyone sees the Ambassador Program as a
 
 Here’s some various parts of conversation:
 
-**Peter** - “The way I open the Town Halls is that the program is about spreading the word on SNET. We need some refinement. I’ve been thinking about how spreading the word is one thing, then what? We need to fill in that blank space. Give people a framework or guidelines connected to SNET community.”
+**Peter** - “_The way I open the Town Halls is that the program is about spreading the word on SNET. We need some refinement. I’ve been thinking about how spreading the word is one thing, then what? We need to fill in that blank space. Give people a framework or guidelines connected to SNET community._”
 
-**Freys** - “Biggest thing I heard from Peter is spread the word then what? I know some people are more focused on governance and various aspects. Not everyone wants to be interested in the same thing. We want to supplement each other. I want to see things go with education getting people used to and working with AI and AGI tools in their daily lives.”
+**Freys** - “_Biggest thing I heard from Peter is spread the word then what? I know some people are more focused on governance and various aspects. Not everyone wants to be interested in the same thing. We want to supplement each other. I want to see things go with education getting people used to and working with AI and AGI tools in their daily lives_.”
 
-**Rojo** - “I see this on two layers. Abstract: I see that our role as a community as organized community members. Show the public the skies and heavens of the AI. Also show them the depths of hell which is something disregarded heavily. By showing two sides of the story we make sure more people are involved. Stay close to heaven. Be vigilant that it can be used against them. On a practical and applied front I see our role being the main funnel that gets people involved. You don’t have to be a dev, make videos, or articles to be involved.”
+**Rojo** - “_I see this on two layers. Abstract: I see that our role as a community as organized community members. Show the public the skies and heavens of the AI. Also show them the depths of hell which is something disregarded heavily. By showing two sides of the story we make sure more people are involved. Stay close to heaven. Be vigilant that it can be used against them. On a practical and applied front I see our role being the main funnel that gets people involved. You don’t have to be a dev, make videos, or articles to be involved._”
 
-**Felix** - “What changed from my perspective a lot is when SingComDAO started. The responsibility of not only figuring out our own governance but also the larger governance of the community. The Ambassador Program is able to build community environment around not only their own program but also the whole ecosystem.”
+**Felix** - “_What changed from my perspective a lot is when SingComDAO started. The responsibility of not only figuring out our own governance but also the larger governance of the community. The Ambassador Program is able to build community environment around not only their own program but also the whole ecosystem_.”
 
 **Stephen** mentions community building and the need to build first in relation to capacity. **Alex** brought up a website idea for the program.
 
