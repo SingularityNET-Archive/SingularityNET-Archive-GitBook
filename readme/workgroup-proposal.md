@@ -36,13 +36,13 @@ It is important to preserve these resources and records, and make them discovera
 
 This workgroup will archive information about the activities of the SingularityNET Ambassadors programme, and use AI tools as an aid to discover and analyse its corpus.
 
-It is needed because the record of what happens in SingularityNET’s work is part of history; and like any community, we need our history, and it is important that we all have a voice in deciding what forms the record and is preserved. Building a decentralised, transparent and accessible record that we can draw on helps avoid constantly “reinventing the wheel”, and helps us build on what has gone before.
+It is needed because the record of what happens in SingularityNET’s work is part of history; and like any community, we need our history, and it is important that we all have a voice in deciding what forms the record and is preserved. Building a decentralised, transparent and accessible record that we can draw on helps avoid constantly “reinventing the wheel”, and helps us build on what has gone ore.
 
 There are precedents for community-led, collaborative and open-source archival processes, which it is important for us to draw on - but archival processes which integrate the use of AI tooling are groundbreaking, and it is appropriate that SingularityNET should have a work-group which leads on this.
 
-## What are the goals? ( KPIs / OKRs ) <a href="#_tu7ftlhsuc3v" id="_tu7ftlhsuc3v"></a>
+## What are the goals? <a href="#_tu7ftlhsuc3v" id="_tu7ftlhsuc3v"></a>
 
-We propose to:
+#### We propose to: <a href="#_tu7ftlhsuc3v" id="_tu7ftlhsuc3v"></a>
 
 * Set up a regular, fortnightly working meeting
 * Set the terms for participation - GitHub membership, willingness to learn open-source tools.
