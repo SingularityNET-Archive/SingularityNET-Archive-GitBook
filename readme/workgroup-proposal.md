@@ -18,6 +18,8 @@ Proposal addressed to the SingularityNET Ambassadors program
 
 Andre Diamond - Technical, Treasury Guild
 
+Miro - Treasury Guild
+
 Stephen Whitenstall - Technical, QADAO, SingularityNET Ambassador
 
 Vanessa Cardui - Archivist, Facilitators Collective
