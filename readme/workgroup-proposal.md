@@ -30,7 +30,7 @@ Setting up an Archive Workgroup
 
 The SingularityNET Ambassadors programme has been running since May 2022 and is building up a wealth of resources.
 
-It is important to preserve these resources and records, and make them discoverable and usable. Also, as this is likely to be a large corpus, it is valuable to pioneer ways of using AI tools to work with it.
+It is important to preserve these resources and records, and make them discoverable and usable. This will build a large corpus of data with which the community can develop AI tools and experiment Large Language Models (LLMs).
 
 ## Why is this workgroup needed? <a href="#_kjzyhy69mgqe" id="_kjzyhy69mgqe"></a>
 
