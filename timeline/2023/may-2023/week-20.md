@@ -252,3 +252,23 @@ Decision - If we run into issue that we get too big metadata again this month we
 
 Next elegant steps (general action items) Work on newly created action items as a priority
 
+### Writers' Meeting
+
+Thursday Zoom session: 15:00-15:42UTC
+
+Kenichi welcomed everyone to the meeting and asked for everyone to share their writing workflow and availability. Mikasa, Slate, BlankGodd and hufi umer shared their writing preferences and Kenichi suggested they share their availability in the chat. Shared a link to a miroboard to help visualize the workflow and plan for further meetings.&#x20;
+
+Kenichi explains that editors' roles are assigned based on the content editing and copy editing tests taken, and supporters are people who track the progress of tasks and provide resources if needed. They also have a temporary suspension policy if tasks are not completed on time.
+
+#### Highlights:&#x20;
+
+Discussing Writing Workflows and Time Management: Understanding individual writing workflows Establishing a workflow for writers and editors to collaborate on articles.: Utilizing the editor role in the writers' workflow Discussion of workflow and criteria for becoming a scribe or editor: Areas of Focus Task Assignments Explaining the concept of support tasks in the workflow
+
+#### Action Items:&#x20;
+
+Create a Miroboard to visualize and document workflow Reassign tasks depending on the urgency of the task.
+
+#### Questions:&#x20;
+
+How can we utilize the editor role in the writers’ workflow? What are the criteria for becoming an editor?
+
