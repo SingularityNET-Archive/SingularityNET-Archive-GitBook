@@ -220,3 +220,35 @@ Project priority agendas Decision - we start with Ambassador Onboarding Process 
 
 Prepare for next session
 
+## Thursday, 18th May 2023
+
+### Treasury Guild
+
+#### Meeting Summary&#x20;
+
+Context: How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### Meeting notes:&#x20;
+
+https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554212409676\&cot=10
+
+#### Agenda Items&#x20;
+
+#### Retrospective rewards for Fly (David)&#x20;
+
+Action - Create a single Dework task that has total cost in the Dework title to reimbursed Decision - Peter will buy an adobe premiere license under SingularityNET ambassadors email Decision - We don't reimburse individual member service and license costs unless agreed on beforehand
+
+#### Licenses&#x20;
+
+Action - Create a list of subscriptions services we need for ambassadors and workgroup leads Result - read.ai is now implemented, integrated with Zoom and licensed
+
+SingularityNET Ambassador Program Stake Pool
+
+Action - Prepare Workshops for multiple timezones Thursday 29.06.23 08:00 AM UTC and 17:00 UTC
+
+#### Transaction Fees for metadata&#x20;
+
+Decision - If we run into issue that we get too big metadata again this month we start lowering the threshold of holding contribution and participation rewards from 4 weeks to 3 weeks and repeat the process back to 1 week if we still get too big metadata for collecting non financial contributions.
+
+Next elegant steps (general action items) Work on newly created action items as a priority
+
