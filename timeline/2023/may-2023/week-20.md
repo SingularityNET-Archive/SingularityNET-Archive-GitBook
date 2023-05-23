@@ -276,3 +276,13 @@ How can we utilize the editor role in the writers’ workflow? What are the crit
 
 Hosted by Jan
 
+## Friday, 19th May 2023
+
+### Video Workgroup
+
+Hosted by&#x20;
+
+### Writers Workgroup
+
+Hosted by Kenichi
+
