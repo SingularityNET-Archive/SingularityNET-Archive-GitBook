@@ -17,3 +17,11 @@ Hosted by Felix Weber
 ### Ambassadors Workgroup
 
 Weekly internal discussion
+
+### Ambassador Town Hall
+
+Hosted by Peter Elfrink
+
+### Process Guild
+
+Hosted by Tevo Saks
