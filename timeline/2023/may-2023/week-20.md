@@ -272,3 +272,7 @@ Create a Miroboard to visualize and document workflow Reassign tasks depending o
 
 How can we utilize the editor role in the writers’ workflow? What are the criteria for becoming an editor?
 
+### DeepFunding Town Hall
+
+Hosted by Jan
+
