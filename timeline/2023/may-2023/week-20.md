@@ -206,15 +206,17 @@ Video Summary:&#x20;
 
 Roadmap and rewards Action - invite all ambassadors for next week session&#x20;
 
-Decision - splitting workshop into 4 week cadence: plannig, drafting, sharing and refining model Decision - all facilitators get rewards attending meeting
+**Decision** - splitting workshop into 4 week cadence: plannig, drafting, sharing and refining model&#x20;
 
-Decision - we rotate facilitation and meeting related activities
+**Decision** - all facilitators get rewards attending meeting
+
+**Decision** - we rotate facilitation and meeting related activities
 
 Retrospective Rewards Action - Create meeting items under Swarm Dework Space
 
 Project priority agendas Decision - we start with Ambassador Onboarding Process Mapping
 
-Next elegant steps (general action items)&#x20;
+**Next elegant steps (general action items)**&#x20;
 
 Prepare for next session
 
