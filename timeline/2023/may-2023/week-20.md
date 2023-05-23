@@ -169,3 +169,20 @@ Here’s some various parts of conversation:
 
 Hosted by Tommy Frey
 
+#### Attendees:
+
+Tommy Frey, Fly, Crandano, Peter, Alex, Felix, Iain, Rojo, Sly Sly, Stephan, Vanessa, FreyDeFi.&#x20;
+
+#### Agenda:&#x20;
+
+Formation of Best Practices for Virtual Meetings P2.&#x20;
+
+Length of Meeting 1 hour +.&#x20;
+
+#### Brief Summary
+
+The meeting started with a 5 minute video by Tommy view on need for Agendas, and why setting expectations for a meeting is important.
+
+Discussion followed about this topic of agenda setting, pros vs cons. The meeting changed direction when Alex brought up Protein folding and a need for one place for data. The meeting then changed into a discussion about web site development. The recording and official meeting ended after approximately 1 hour. An informal discussion on the same topic lasted about an additional 30 minutes.\
+
+
