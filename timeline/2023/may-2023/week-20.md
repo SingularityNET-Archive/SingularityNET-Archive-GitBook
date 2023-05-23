@@ -186,3 +186,27 @@ The meeting started with a 5 minute video by Tommy view on need for Agendas, and
 Discussion followed about this topic of agenda setting, pros vs cons. The meeting changed direction when Alex brought up Protein folding and a need for one place for data. The meeting then changed into a discussion about web site development. The recording and official meeting ended after approximately 1 hour. An informal discussion on the same topic lasted about an additional 30 minutes.\
 
 
+### Process Modelling Workgroup
+
+Hosted by Tevo Saks
+
+Context:&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554312169904\&cot=10 Video Summary: https://youtu.be/KW8CjLxxoZs
+
+Agenda Items&#x20;
+
+Roadmap and rewards Action - invite all ambassadors for next week session&#x20;
+
+Decision - splitting workshop into 4 week cadence: plannig, drafting, sharing and refining model Decision - all facilitators get rewards attending meeting
+
+Decision - we rotate facilitation and meeting related activities
+
+Retrospective Rewards Action - Create meeting items under Swarm Dework Space
+
+Project priority agendas Decision - we start with Ambassador Onboarding Process Mapping
+
+Next elegant steps (general action items) prepare for next session
+
