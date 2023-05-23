@@ -190,13 +190,19 @@ Discussion followed about this topic of agenda setting, pros vs cons. The meetin
 
 Hosted by Tevo Saks
 
-Context:&#x20;
+#### Context:&#x20;
 
 Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
 
-Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554312169904\&cot=10 Video Summary: https://youtu.be/KW8CjLxxoZs
+#### Meeting notes:&#x20;
 
-Agenda Items&#x20;
+https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554312169904\&cot=10
+
+Video Summary:&#x20;
+
+{% embed url="https://youtu.be/KW8CjLxxoZs" %}
+
+#### Agenda Items&#x20;
 
 Roadmap and rewards Action - invite all ambassadors for next week session&#x20;
 
@@ -208,5 +214,7 @@ Retrospective Rewards Action - Create meeting items under Swarm Dework Space
 
 Project priority agendas Decision - we start with Ambassador Onboarding Process Mapping
 
-Next elegant steps (general action items) prepare for next session
+Next elegant steps (general action items)&#x20;
+
+Prepare for next session
 
