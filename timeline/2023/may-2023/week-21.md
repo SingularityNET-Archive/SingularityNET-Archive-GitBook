@@ -6,7 +6,13 @@ description: May 22, 2023 to May 28, 2023
 
 ## Monday, 22nd May 2023
 
+### Translator Support Workshop
 
+Hosted by
+
+### Education Guild
+
+Hosted by
 
 ## Tuesday, 23rd May 2022
 
