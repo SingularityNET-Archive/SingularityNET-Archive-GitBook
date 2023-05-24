@@ -32,7 +32,7 @@ Working on processes regarding the Ambassadors Governance Framework document.&#x
 
 Discussing the Ambassadors Governance Framework document with the Governance Workgroup and brainstorming on most elegant steps to refine the governance framework document
 
-**Action**: Create a Dework task for people to cluster, categorize comments/problems from the gov document&#x20;
+**Action**: Create a Dework task for people to cluster, categorize comments/problems from the gov document -  [https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=91ac491c-d29e-464d-b5bf-989c6b157c38](https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=91ac491c-d29e-464d-b5bf-989c6b157c38)
 
 **Action**: Create a time based order to solve categorized problems
 
