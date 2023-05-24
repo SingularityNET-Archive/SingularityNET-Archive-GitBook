@@ -20,6 +20,24 @@ Hosted by
 
 Hosted by Felix Weber
 
+#### Context:&#x20;
+
+Working on processes regarding the Ambassadors Governance Framework document.&#x20;
+
+https://docs.google.com/document/d/1VQvztaryoFQ\_vgY2u9dhKTsF7P\_pyDwD9K7CnDsxhNc/edit#heading=h.yd3mqo6vqpha
+
+**Dework task** - https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=4cb4a61b-4e80-4ffc-8053-0c89b52eb75f
+
+#### Agenda Item&#x20;
+
+Discussing the Ambassadors Governance Framework document with the Governance Workgroup and brainstorming on most elegant steps to refine the governance framework document
+
+**Action**: Create a Dework task for people to cluster, categorize comments/problems from the gov document
+
+**Action**: Create a time based order to solve categorized problems
+
+**Action**: Create a task for categorized problems so that people can take ownership of solving problems from the document
+
 ### Ambassadors Workgroup
 
 Weekly internal discussion
