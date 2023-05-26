@@ -165,7 +165,7 @@ Creating a very raw draft of Ambassador onboarding process and discussing next s
 
 #### Meeting notes:&#x20;
 
-Miro link
+[Miro link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554696971051\&cot=10)
 
 #### Agenda Items&#x20;
 
