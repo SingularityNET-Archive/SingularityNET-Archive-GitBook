@@ -58,6 +58,10 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 
 [Link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554647942728\&cot=10)
 
+<figure><img src="../../../.gitbook/assets/Process-Guild-23-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process-Guild-23-05-23.pdf" %}
+
 #### Agenda Items&#x20;
 
 Voting / Consensus / Consent / Decision making in Ambassador Program&#x20;
