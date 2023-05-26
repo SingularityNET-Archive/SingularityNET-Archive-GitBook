@@ -182,3 +182,38 @@ Realised we still need a Code of Conduct&#x20;
 * **Decision** - We will focus on workgroup processes first as it will give insight on the onboarding process of Ambassadors.
 
 **Next elegant steps (general action items)** prepare for next session (Writers Workgroup Onboarding Model)
+
+### Thursday, 25th May 2023
+
+### Treasury Guild
+
+#### Meeting Summary Context:&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+**Meeting notes**: [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554684563363\&cot=10)
+
+#### Agenda Items&#x20;
+
+#### Proposal - Dework PBL Workgroup&#x20;
+
+* **Description** - Creating educational Project Based Learning material how Ambassadors use Dework&#x20;
+* **Decision** - Select proposals trough Consent method in Treasury Guild until pushback and then fall back to Democratic methods&#x20;
+* **Decision** - 4% of total budget will moved from Misc Allocation to Dework PBL Workgroup
+* **Action** - Prepare and Schedule Dework PBL Workgroup&#x20;
+* **Action** - Share changes with all the Ambassadors&#x20;
+* **Insight** - Learning Materials will be created on top of Gimbalabs Andamio Platform&#x20;
+* **Insight** - Inviting people to workgroups one person at time leads to more effective workgroups
+
+#### Dao Lens - Participation Recognition Pipeline&#x20;
+
+* **Description** - More user friendly and automated process to share events and recognize participation
+* **Decision** - we wait with this proposal until the size of Misc Allocation is updated and Treasury rewards are reallocated and aligned on&#x20;
+* **Action** - Share back the feedback and response to DAO Lens Action - Connect with Kevin to see if Farm Bot Developers would be interested in creating Discord MVP to automate some proposed changes
+
+#### Ambassador Monthly Rewards&#x20;
+
+* **Description** - More user friendly and automated Decision - Ambassador allocation is increased to 75% of total budget,&#x20;
+* **Decision** - This and Next month we will be running Ambassador Program with 106% capacity based on monthly allocation
+
+**Next elegant steps (general action items)** Looking for facilitator for next week Treasury Guild Meeting
