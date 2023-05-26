@@ -128,6 +128,12 @@ Discuss and ideate bringing on people and projects into Incubation.
 
 Length of Meeting: 1 hr
 
+#### Miro Board:&#x20;
+
+<figure><img src="../../../.gitbook/assets/Incubation Workgroup-24-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Incubation Workgroup-24-05-23.pdf" %}
+
 #### Goal and or Action Items:&#x20;
 
 Miro Board ideation. Ideas on improving the program, listing people and projects to bring into Incubation
