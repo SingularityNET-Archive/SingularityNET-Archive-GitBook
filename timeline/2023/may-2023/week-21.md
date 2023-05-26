@@ -50,7 +50,9 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 [Link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554424979785\&cot=10)
 
+<figure><img src="../../../.gitbook/assets/Ambassador Workshop 23-05-23.jpg" alt=""><figcaption></figcaption></figure>
 
+{% file src="../../../.gitbook/assets/Ambassador Workshop 23-05-23.pdf" %}
 
 **Agenda Items**&#x20;
 
