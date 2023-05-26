@@ -110,3 +110,42 @@ Voting / Consensus / Consent / Decision making in Ambassador Program&#x20;
 
 **Next elegant steps** (general action items) Continue learning about decision making methods in the context of using them in Ambassador Program
 
+## Wednesday, 24th May 2023
+
+### Incubation Workgroup
+
+#### Host(s):&#x20;
+
+Cran & Fly
+
+#### Attendees:&#x20;
+
+cally, headelf, peter, freys, fly, cran, rojo, sucren, pauline
+
+#### Agenda Items:&#x20;
+
+Discuss and ideate bringing on people and projects into Incubation.
+
+Length of Meeting: 1 hr
+
+#### Goal and or Action Items:&#x20;
+
+Miro Board ideation. Ideas on improving the program, listing people and projects to bring into Incubation
+
+#### Brief Summary:&#x20;
+
+We started by highlighting last week's session around everyone's thoughts on the purpose of the Ambassador Program.
+
+We used Miro: [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554647942728\&cot=10)&#x20;
+
+to list:&#x20;
+
+* Ideas to Improve the Ambassador Program&#x20;
+* Incubation discussion topic ideas&#x20;
+* People to bring into Incubation&#x20;
+* Projects to bring into Incubation
+
+then created connections between people, projects, and discussion topics
+
+**Actionable Items**: Create a doc for people to contribute to for people & projects they'd like to reach out to for connecting them and bringing them into Incubation for future workshops, discussions, AMAs, etc.
+
