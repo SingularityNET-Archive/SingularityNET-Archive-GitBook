@@ -155,3 +155,28 @@ then created connections between people, projects, and discussion topics
 
 **Actionable Items**: Create a doc for people to contribute to for people & projects they'd like to reach out to for connecting them and bringing them into Incubation for future workshops, discussions, AMAs, etc.
 
+### Process Modelling Workshop
+
+#### Meeting Summary&#x20;
+
+#### Context:&#x20;
+
+Creating a very raw draft of Ambassador onboarding process and discussing next steps&#x20;
+
+#### Meeting notes:&#x20;
+
+#### Agenda Items&#x20;
+
+Current onboarding process - Looked at all resources and process of onboarding&#x20;
+
+Realised we still need a Code of Conduct&#x20;
+
+* **Decision** - Create small tasks to help onboard new contributors&#x20;
+* **Action** - Peter to include archival link in getting started channel in Discord
+* **Decision** - For ambassador role an implicit requirement is long term involvement (months)
+
+#### Non Ambassador Roles&#x20;
+
+* **Decision** - We will focus on workgroup processes first as it will give insight on the onboarding process of Ambassadors.
+
+**Next elegant steps (general action items)** prepare for next session (Writers Workgroup Onboarding Model)
