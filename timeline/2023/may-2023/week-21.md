@@ -42,6 +42,44 @@ Discussing the Ambassadors Governance Framework document with the Governance Wor
 
 Weekly internal discussion
 
+#### Summary Context:&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### Meeting notes:&#x20;
+
+[Link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554424979785\&cot=10)
+
+
+
+**Agenda Items**&#x20;
+
+Ambassador Workgroup Meeting format&#x20;
+
+**Action** - Update Calendar Item to give more info about workgroup description and new meeting policy&#x20;
+
+**Decision** - Moving forward these sessions are private and ambassadors only&#x20;
+
+**Decision** - Zoom link remains in public for easier access&#x20;
+
+**Decision** - Meeting will not be recorded or transcribed
+
+#### Ambassador Tools and Licenses
+
+**Action** - Add your tools you use or would like to propose to use by ambassadors&#x20;
+
+**Action** - update sheet if you need paid license for a tool and share the reason&#x20;
+
+**Decision** - we will come back to this sheet to align on licenses we will buy for ambassadors
+
+**New Retrospective Rewards for Ambassadors**&#x20;
+
+**Action** - Create Dework Tasks related to Retrospective Rewards&#x20;
+
+**Decision** - Rojo will be rewarded with 350$ worth of AGIX
+
+**Next elegant steps (general action items)** Learn about Ambassadors "who wants to work on what?"
+
 ### Ambassador Town Hall
 
 Hosted by Peter Elfrink
@@ -69,3 +107,4 @@ Voting / Consensus / Consent / Decision making in Ambassador Program&#x20;
 **Action** - Vote on Decision Making methods you think are most appropriate for Approving Governance Framework document and Proposals submitted to Ambassador Program
 
 **Next elegant steps** (general action items) Continue learning about decision making methods in the context of using them in Ambassador Program
+
