@@ -165,6 +165,8 @@ Creating a very raw draft of Ambassador onboarding process and discussing next s
 
 #### Meeting notes:&#x20;
 
+Miro link
+
 #### Agenda Items&#x20;
 
 Current onboarding process - Looked at all resources and process of onboarding&#x20;
