@@ -183,7 +183,7 @@ Realised we still need a Code of Conduct&#x20;
 
 **Next elegant steps (general action items)** prepare for next session (Writers Workgroup Onboarding Model)
 
-### Thursday, 25th May 2023
+## Thursday, 25th May 2023
 
 ### Treasury Guild
 
