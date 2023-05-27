@@ -169,8 +169,8 @@ Creating a very raw draft of Ambassador onboarding process and discussing next s
 
 ![Process Modelling Workshop
 -24-05-23](https://github.com/SingularityNET-Archive/SingularityNET-Archive-GitBook/assets/25156451/83dd829b-4c61-473f-b53e-8655d6663f4e)
-[Process Modelling Workshop
--24-05-23.pdf](https://github.com/SingularityNET-Archive/SingularityNET-Archive-GitBook/files/11582179/Process.Modelling.Workshop.-24-05-23.pdf)
+
+{% file src="https://github.com/SingularityNET-Archive/SingularityNET-Archive-GitBook/files/11582179/Process.Modelling.Workshop.-24-05-23.pdf" %}
 
 
 #### Agenda Items&#x20;
