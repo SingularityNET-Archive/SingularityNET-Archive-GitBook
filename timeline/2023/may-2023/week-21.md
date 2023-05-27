@@ -206,6 +206,8 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 **Meeting notes**: [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554684563363\&cot=10)
 
+<figure><img src="../../../.gitbook/assets/Treasury-Guild-25-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Agenda Items
 
 #### Proposal - Dework PBL Workgroup
