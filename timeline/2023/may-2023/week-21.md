@@ -86,6 +86,8 @@ Ambassador Workgroup Meeting format
 
 Hosted by Peter Elfrink
 
+{% embed url="https://youtu.be/JrRnlpP06AE" %}
+
 ### Process Guild
 
 Hosted by Tevo Saks
