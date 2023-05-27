@@ -116,6 +116,16 @@ Voting / Consensus / Consent / Decision making in Ambassador Program
 
 ## Wednesday, 24th May 2023
 
+### Archive Workgroup
+
+#### Host(s)
+
+Stephen Whitenstall & Vanessa
+
+#### Attendees
+
+#### Agenda
+
 ### Incubation Workgroup
 
 #### Host(s):
@@ -260,6 +270,8 @@ Work towards speaking with the Ambassador Program about allowing Individuals/Wor
 We started by talking about Slate's contributions over the month and then went onto the Miro board (Marketing Guild Meeting section): [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554647942728\&cot=10)
 
 <figure><img src="../../../.gitbook/assets/Marketing-26-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Marketing-26-05-23.pdf" %}
 
 We discussed the purpose of Marketing Guild and whether it's necessary moving forward. We brought up the idea of Individuals/Workgroups/Guilds bringing proposals to the Ambassador Program as a way to figure out the Budget moving forward after June.
 
