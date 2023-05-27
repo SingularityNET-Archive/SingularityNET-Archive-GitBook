@@ -208,6 +208,8 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 <figure><img src="../../../.gitbook/assets/Treasury-Guild-25-05-23.jpg" alt=""><figcaption></figcaption></figure>
 
+{% file src="../../../.gitbook/assets/Treasury-Guild-25-05-23.pdf" %}
+
 #### Agenda Items
 
 #### Proposal - Dework PBL Workgroup
@@ -232,3 +234,41 @@ How to structure Ambassador rules around payments, tasks and anything related to
 * **Decision** - This and Next month we will be running Ambassador Program with 106% capacity based on monthly allocation
 
 **Next elegant steps (general action items)** Looking for facilitator for next week Treasury Guild Meeting
+
+## Friday, 26th May 2023
+
+### Marketing Guild
+
+Host(s): Cran & Fly
+
+#### Attendees:&#x20;
+
+fly, cran, sucrenspice, peter, sly syl, slate, headelf, kenichi, mikasa
+
+Agenda Items: Purpose of Marketing Guild and whether it's necessary, Introducing proposal idea, what a Marketing/Video/Writers proposal might look like
+
+#### Length of Meeting:&#x20;
+
+1 hr
+
+#### Goal and or Action Items:&#x20;
+
+Work towards speaking with the Ambassador Program about allowing Individuals/Workgroups/Guilds to create proposals to seek budget for initiatives.&#x20;
+
+#### Brief Summary:&#x20;
+
+We started by talking about Slate's contributions over the month and then went onto the Miro board (Marketing Guild Meeting section): [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554647942728\&cot=10)
+
+We discussed the purpose of Marketing Guild and whether it's necessary moving forward. We brought up the idea of Individuals/Workgroups/Guilds bringing proposals to the Ambassador Program as a way to figure out the Budget moving forward after June.
+
+Marketing Guild is potentially unnecessary moving forward as Marketing Campaigns could be turned into Ambassador Program Proposals from Individuals/Workgroups/Guilds.
+
+The idea of going about the budget moving forward with proposals will be brought up at next week's Town Hall and we can find ways to move forward if there's no disagreements.
+
+We talked about what a proposal could look like and used the example of Archival Workgroup's proposal. Proposals could include Budget, Budget Reporting (how/where/when), Budget use history (if available), KPIs/Goals, and Why/Purpose.
+
+There could also be collaboration points within the proposals. ie if a Workgroup is looking to create content for a spinoff project they could reach out to that project and find ways to establish lines of communication and collaboration including the potential of receiving rewards.
+
+We ended with some potential proposal ideas people could begin thinking about such as: Social Media Management, Video Workgroup, Writers Workgroup, Digital Marketing, Graphic Design, Month/Quarterly Individual Project Ideas, Broadcasting, and Merchandise
+
+Noted for Merchandise: Practically speaking logos etc are not open source and requires permission but doesn't seem to be any barriers. Make sure to request. The Foundation is talking about setting up a shop that the Ambassador Program can provide input for Ambassador Merch.
