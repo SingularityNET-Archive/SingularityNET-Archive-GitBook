@@ -90,6 +90,8 @@ Hosted by Peter Elfrink
 
 Hosted by Tevo Saks
 
+{% embed url="https://youtu.be/znVQ-3gb_fg" %}
+
 #### Context:
 
 We Prioritize critical Ambassador Activities and cover process changes
@@ -168,7 +170,9 @@ Creating a very raw draft of Ambassador onboarding process and discussing next s
 [Miro link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554696971051\&cot=10)
 
 ![Process Modelling Workshop
-\-24-05-23](https://github.com/SingularityNET-Archive/SingularityNET-Archive-GitBook/assets/25156451/83dd829b-4c61-473f-b53e-8655d6663f4e) 
+\-24-05-23](https://github.com/SingularityNET-Archive/SingularityNET-Archive-GitBook/assets/25156451/83dd829b-4c61-473f-b53e-8655d6663f4e)
+
+{% file src="../../../.gitbook/assets/Process-Modelling-Workshop-24-05-23.pdf" %}
 
 #### Agenda Items
 
