@@ -196,6 +196,10 @@ Realised we still need a Code of Conduct
 
 ### Treasury Guild
 
+Hosted by Tevo Saks
+
+{% embed url="https://youtu.be/h48esvrlYaU" %}
+
 #### Meeting Summary Context:
 
 How to structure Ambassador rules around payments, tasks and anything related to financial activities.
