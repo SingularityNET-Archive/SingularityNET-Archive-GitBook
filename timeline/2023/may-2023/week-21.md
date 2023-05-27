@@ -259,6 +259,8 @@ Work towards speaking with the Ambassador Program about allowing Individuals/Wor
 
 We started by talking about Slate's contributions over the month and then went onto the Miro board (Marketing Guild Meeting section): [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764554647942728\&cot=10)
 
+<figure><img src="../../../.gitbook/assets/Marketing-26-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
 We discussed the purpose of Marketing Guild and whether it's necessary moving forward. We brought up the idea of Individuals/Workgroups/Guilds bringing proposals to the Ambassador Program as a way to figure out the Budget moving forward after June.
 
 Marketing Guild is potentially unnecessary moving forward as Marketing Campaigns could be turned into Ambassador Program Proposals from Individuals/Workgroups/Guilds.
