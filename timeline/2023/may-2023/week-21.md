@@ -214,6 +214,22 @@ Realised we still need a Code of Conduct
 
 ## Thursday, 25th May 2023
 
+### AI Sandbox
+
+https://app.dework.xyz/singularitynet-ambas/ai-sandbox?taskId=63431195-1111-47f9-a39b-a320518b1de4
+
+#### Host(s): Fly
+
+**Attendees**: fly, felix, cran, headelf
+
+**Agenda Items:** Discuss AI Sandbox so far with feedback. How AI Sandbox can enable Ambassador Program? Ideate on development of "Sandbox as a service" to program and ecosystem.
+
+**Length of Meeting:** 1 hr
+
+**Discussion points:** AI tools for website building AI-enabled Digital Twins and Decentralized Identities AI Collaboration Digital Twins Implications of AI on intellectual property and data security Discussion of Ideas for AI Tools and Governance Benefits of AI Sandbox for Work Groups Education and onboarding for AI tools Possibilities of Community-Driven AI Model Development
+
+**Miro Board:** https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764552397691263\&cot=10
+
 ### Treasury Guild
 
 Hosted by Tevo Saks
