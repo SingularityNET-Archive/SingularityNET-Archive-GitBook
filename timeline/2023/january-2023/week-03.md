@@ -1,8 +1,14 @@
 # Week 03
 
-## Tuesday, 17th Jan 2023
+## Monday, 18th January 2023
 
-**Process Guild - Planning Next Steps and WG Process changes**
+##
+
+## Tuesday, 17th January 2023
+
+### **Process Guild**
+
+#### **Planning Next Steps and WG Process changes**
 
 Hosted by Tevo Saks
 
@@ -31,6 +37,3 @@ Please check the link where you can check info about template format for invitat
 Template format for invitations to specific people
 
 {% embed url="https://docs.google.com/document/d/1cpKJd1H9a9I7uZZzkPDnN4xiVxfrFGEQCfizCo0fi3g/edit#heading=h.diklxfbs74z" %}
-
-
-
