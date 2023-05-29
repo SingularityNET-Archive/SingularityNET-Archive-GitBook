@@ -122,9 +122,19 @@ Voting / Consensus / Consent / Decision making in Ambassador Program
 
 Stephen Whitenstall & Vanessa
 
-#### Attendees
+**Attendees** - Andre, Felix, Fly, Miro, Peter, Stephen, TheFreysDeFi, Tommy, Vanessa Agenda Items -
 
 #### Agenda
+
+1. Why Archive ? - Vanessa
+2. GitHub Project Board - Stephen
+3. Hands on GitBook session - Vanessa&#x20;
+
+**Length of Meeting** - 90 minutes&#x20;
+
+**Summary** - This was the first working meeting of the Archive group. Full details of this meeting can be found in the meeting's issue (https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/25) and a timestamped video has also been uploaded to the SingularityNet YouTube channel here
+
+{% embed url="https://youtu.be/OA3y47sEzGE" %}
 
 ### Incubation Workgroup
 
