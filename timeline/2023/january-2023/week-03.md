@@ -24,6 +24,10 @@ Please check the whole concept at the Miro board link:
 
 **Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
 
+<figure><img src="../../../.gitbook/assets/Process-Guild-17-01-23.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process-Guild-17-01-23.pdf" %}
+
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 Please check the link how to use Dework & the Swarm Treasury systems...
