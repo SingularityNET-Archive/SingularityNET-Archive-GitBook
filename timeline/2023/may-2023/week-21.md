@@ -230,6 +230,10 @@ https://app.dework.xyz/singularitynet-ambas/ai-sandbox?taskId=63431195-1111-47f9
 
 **Miro Board:** https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764552397691263\&cot=10
 
+<figure><img src="../../../.gitbook/assets/AI-Sandbox-25-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/AI-Sandbox-25-05-23.pdf" %}
+
 ### Treasury Guild
 
 Hosted by Tevo Saks
