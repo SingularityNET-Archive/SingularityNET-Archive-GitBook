@@ -4,7 +4,7 @@ description: Jan 17, 2023
 
 # January 2023
 
-## Tusday, 17th Jan 2023
+## Tuesday, 17th Jan 2023
 
 **Process Guild - Planning Next Steps and WG Process changes**
 
