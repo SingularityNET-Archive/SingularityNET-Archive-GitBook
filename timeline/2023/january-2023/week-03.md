@@ -1,9 +1,5 @@
 # Week 03
 
-## Monday, 18th January 2023
-
-##
-
 ## Tuesday, 17th January 2023
 
 ### **Process Guild**
