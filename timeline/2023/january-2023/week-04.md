@@ -74,3 +74,8 @@ Ambassador Town Hall - 24.01.2023 Agenda can find on this link
 
 {% embed url="https://youtu.be/zvpablWB2d8" %}
 
+### Ambassador Town Hall 31
+
+Please check the whole concept at the Miro board link:
+
+**Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
