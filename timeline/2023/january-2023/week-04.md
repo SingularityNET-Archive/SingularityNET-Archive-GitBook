@@ -66,8 +66,11 @@ Please check the whole concept at the Miro board link:
 
 ### Ambassador Town Hall 31
 
-Hosted by Tevo Saks
+Ambassador Town Hall - 24.01.2023 Agenda can find on this link
 
-Ambassador Town Hall - 24.01.2023 meeting overview
+{% embed url="https://docs.google.com/presentation/d/1fr7UxNVhan3Rd7F2kwXxwRLs5qC2vV0JGdqvcHpxBlY/edit#slide=id.g1296df77e28_0_24" %}
 
-**Attendees: lain, Tevo, JulienCollins, Peter E, David, crandano, Felix(Swarm), Fly you fools, SucrenSpice, theholybinns**
+### You can watch stories/interviews from the Singularity Podcast at the link:
+
+{% embed url="https://youtu.be/zvpablWB2d8" %}
+
