@@ -4,7 +4,7 @@ description: 23rd January to 29th January 2023
 
 # Week 04
 
-Tuesday, 24th January 2023
+## Tuesday, 24th January 2023
 
 ### **Process Guild**
 
@@ -62,4 +62,12 @@ Please check the whole concept at the Miro board link:
 
 
 
-## **Ambassador Program Town Hall 31**
+## Tuesday, 24th January 2023
+
+### Ambassador Town Hall 31
+
+Hosted by Tevo Saks
+
+Ambassador Town Hall - 24.01.2023 meeting overview
+
+**Attendees: lain, Tevo, JulienCollins, Peter E, David, crandano, Felix(Swarm), Fly you fools, SucrenSpice, theholybinns**
