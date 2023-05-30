@@ -64,6 +64,10 @@ There was no sound at the Ambassador Town Hall meeting, so Tevo did a quick revi
 
 {% embed url="https://docs.google.com/spreadsheets/d/1sYaBn6qvaSObaJ_gRAUhWXDLqbxQLGmBsMA5KkTmxVQ/edit#gid=0" %}
 
+#### You can also look at the link below SingularityNET Loyalty Rewards — Governance Event <a href="#b047" id="b047"></a>
+
+{% embed url="https://blog.singularitynet.io/singularitynet-loyalty-rewards-governance-event-399020ccff58" %}
+
 #### Ambassador Town Hall 30&#x20;
 
 Please check the whole concept at the Miro board link:
