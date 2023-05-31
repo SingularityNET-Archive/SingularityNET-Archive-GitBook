@@ -90,6 +90,20 @@ Treasury Guild - 26.01.2023 meeting overview
 
 Hosted by Tevo Saks
 
-#### Attendees: Tevo, Cran ,&#x20;
+#### Attendees: Tevo, Cran , SucrenSpice
 
 {% embed url="https://youtu.be/Ft2lpwH0mBs" %}
+
+### On the link belove you can check Marketing Guild Budgeting and supporting the structure document
+
+{% embed url="https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit#gid=0" %}
+
+### On the meeting was presented a Survey for every 2 weeks about Agendas topics and you can check that on link:
+
+{% embed url="https://docs.google.com/forms/d/1LsZvSuztbAal3asZ5YI35EYPE0_8ElqaPP3JSLdwgeI/edit" %}
+
+### Treasury Guild - Contribution and Distribution Discussions
+
+Please check the whole concept at the Miro board link:
+
+**Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
