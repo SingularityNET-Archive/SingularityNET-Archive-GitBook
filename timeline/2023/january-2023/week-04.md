@@ -107,3 +107,21 @@ Hosted by Tevo Saks
 Please check the whole concept at the Miro board link:
 
 **Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
+
+
+
+## Saturday, 28th January 2023
+
+### **Process Guild - Decision Making Structure**
+
+On the link we can get information about Decision Making PBL Script
+
+{% embed url="https://docs.google.com/document/d/1QMf_BlLAIiAOWTPryXh547A7yZUUBjrjQR9LRBZXrPM/edit#heading=h.mhs7ykagqjqc" %}
+
+### At this meeting, the concept of decision making structure is generally presented, which can be seen on the miro board link:
+
+**Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
+
+
+
+####
