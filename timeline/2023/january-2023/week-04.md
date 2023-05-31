@@ -79,3 +79,17 @@ Ambassador Town Hall - 24.01.2023 Agenda can find on this link
 Please check the whole concept at the Miro board link:
 
 **Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
+
+
+
+## Thursday, 26th January 2023
+
+### Treasury Guild - Contribution and Distribution Discussions
+
+Treasury Guild - 26.01.2023 meeting overview
+
+Hosted by Tevo Saks
+
+#### Attendees: Tevo, Cran ,&#x20;
+
+{% embed url="https://youtu.be/Ft2lpwH0mBs" %}
