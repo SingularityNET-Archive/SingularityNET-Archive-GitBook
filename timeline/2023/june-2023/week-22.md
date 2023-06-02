@@ -87,9 +87,11 @@ We Prioritize critical Ambassador Activities and cover process changes Meeting n
 * **Description** - Alternative method to make easier to read meeting notes and make sense of discussions and its evolution, the downsides are loss of accuracy which date discussions took place&#x20;
 * **Decision** - This method will not be used to so it will be easier to archive and have a time trail
 
-Set Up Ambassadors Miro Account Description - Administrative task to give more freedom and access to Miro capabilities for Ambassadors Action - Buy License for ambassador account
+#### Set Up Ambassadors Miro Account&#x20;
 
-Next elegant steps (general action items) Continue learning about decision making methods in the context of using them in Ambassador Program
+**Description** - Administrative task to give more freedom and access to Miro capabilities for Ambassadors Action - Buy License for ambassador account
+
+**Next elegant steps (general action items)** Continue learning about decision making methods in the context of using them in Ambassador Program
 
 
 
