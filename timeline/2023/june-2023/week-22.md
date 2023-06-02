@@ -111,15 +111,10 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 #### Ambassador Monthly Rewards Description - Support ambassadors to recognize their time
 
-Decision - Ambassador rewards are rewarded once monthly activity list are provided under Treasury Guild Space (can be empty)&#x20;
-
-Decision - Ambassador rewards are distributed with same transaction as other community contributions&#x20;
-
-Decision - Ambassador Monthly Rewarding will take place 30.05.23 for those who have provided Activity List and get max rewards&#x20;
-
-Action - Connect with Ambassadors who has not reached monthly quote of 64 hours Insight - Working towards lowering percentage of Ambassador rewards under 50% and not rewarding ambassadors with flat amount
-
-####
+* **Decision** - Ambassador rewards are rewarded once monthly activity list are provided under Treasury Guild Space (can be empty)&#x20;
+* **Decision** - Ambassador rewards are distributed with same transaction as other community contributions&#x20;
+* **Decision** - Ambassador Monthly Rewarding will take place 30.05.23 for those who have provided Activity List and get max rewards&#x20;
+* **Action** - Connect with Ambassadors who has not reached monthly quote of 64 hours Insight - Working towards lowering percentage of Ambassador rewards under 50% and not rewarding ambassadors with flat amount
 
 #### Allow double tipping from June? Description - Can ambassadors can get AGIX rewards from tasks
 
