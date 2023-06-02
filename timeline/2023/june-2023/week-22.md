@@ -172,13 +172,17 @@ Headelf brought up Budget points and was discussed for the final 30min or so.
 
 
 
-**Process Modeling Workgroup**
+### **Process Modeling Workgroup**
 
 #### **Meeting Summary** Context
 
 Getting input from current Writers Workgroup about their membership onboarding / lifecycle&#x20;
 
 **Meeting notes**: [link](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764555386535343\&cot=10)
+
+<figure><img src="../../../.gitbook/assets/Process Modeling Workgroup 31-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process Modeling Workgroup 31-05-23.pdf" %}
 
 #### Video Summary:&#x20;
 
