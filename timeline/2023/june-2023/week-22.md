@@ -70,7 +70,10 @@ We Prioritize critical Ambassador Activities and cover process changes Meeting n
 * **Action** - each guild creates their own hypothesis on a decision making methods they use or are using&#x20;
 * **Decision** - we will gather more knowledge and educate each other on different decision making models in the next Governance Workgroup sessions
 
-Process Modelling Workgroup updates Description - This workgroup is Establishing or maintaining processes to help community members to efficiently collaborate together Decision - We start analyzing Writing Workgroup onboarding instead of Ambassador Program onboarding Learning - Ambassador role currently is a leadership position that would require knowledge of leading workgroups
+#### Process Modelling Workgroup updates&#x20;
+
+* **Description** - This workgroup is Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+* **Decision** - We start analyzing Writing Workgroup onboarding instead of Ambassador Program onboarding Learning - Ambassador role currently is a leadership position that would require knowledge of leading workgroups
 
 comment on Archival proposal Description - Action to review and feedback give feedback to Archival Workgroup Proposal Learning - Participants were unaware of this Dework task when its only posted in meeting Summary as action, shared in Process Guild meeting and listed on Miro Board
 
