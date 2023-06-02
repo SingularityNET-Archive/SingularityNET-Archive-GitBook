@@ -56,6 +56,32 @@ More exploration on the idea of meritocracy? Governance is sticky - we are worri
 
 We could use Dework’s functionality of upvoting - the most upvoted will become tasks (altho this embeds voting as a practice - that’s a governance system, so we shd be aware we are doing it)
 
+### Process Guild
+
+Meeting Summary Context:&#x20;
+
+We Prioritize critical Ambassador Activities and cover process changes Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764555273787315\&cot=10
+
+#### Agenda Items&#x20;
+
+#### Vote on decision making method for top decisions needed to be made in Ambassador Program&#x20;
+
+* **Description** - How do we do decisions in Ambassador Program, what methods and models we could help us?&#x20;
+* **Action** - each guild creates their own hypothesis on a decision making methods they use or are using&#x20;
+* **Decision** - we will gather more knowledge and educate each other on different decision making models in the next Governance Workgroup sessions
+
+Process Modelling Workgroup updates Description - This workgroup is Establishing or maintaining processes to help community members to efficiently collaborate together Decision - We start analyzing Writing Workgroup onboarding instead of Ambassador Program onboarding Learning - Ambassador role currently is a leadership position that would require knowledge of leading workgroups
+
+comment on Archival proposal Description - Action to review and feedback give feedback to Archival Workgroup Proposal Learning - Participants were unaware of this Dework task when its only posted in meeting Summary as action, shared in Process Guild meeting and listed on Miro Board
+
+Decision - Will introduce new parameter 'Dework Action', for future Dework task derived from Process Guild meetings
+
+Process Guild new process to navigate between meeting notes Description - Alternative method to make easier to read meeting notes and make sense of discussions and its evolution, the downsides are loss of accuracy which date discussions took place Decision - This method will not be used to so it will be easier to archive and have a time trail
+
+Set Up Ambassadors Miro Account Description - Administrative task to give more freedom and access to Miro capabilities for Ambassadors Action - Buy License for ambassador account
+
+Next elegant steps (general action items) Continue learning about decision making methods in the context of using them in Ambassador Program
+
 
 
 ## Wednesday 31st May 2023
