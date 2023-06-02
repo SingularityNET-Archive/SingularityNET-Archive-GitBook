@@ -193,19 +193,15 @@ Video\_Summary pending&#x20;
 * &#x20;**Action** - consider second path (writing task submitted) to validated skill for scribblers&#x20;
 * **Learning** - working group is in early phase, 4 articles done now
 
-Reviewed other operational tasks&#x20;
+#### Reviewed other operational tasks&#x20;
 
-Description - we recognized there is much more process to be found in production, publishing and promotion
+* **Description** - we recognized there is much more process to be found in production, publishing and promotion
+* **Decision** - model these additional processes too&#x20;
+* **Action** - 5 acknowledged processes to be modeled&#x20;
+* **Insight** - there is a bottleneck in editor workflow, may be possible to scale this role with more contributors (if/when needed based on volume)&#x20;
+* **Learning** - Roles have characteristics and capabilities as success factors
 
-Decision - model these additional processes too&#x20;
-
-Action - 5 acknowledged processes to be modeled&#x20;
-
-Insight - there is a bottleneck in editor workflow, may be possible to scale this role with more contributors (if/when needed based on volume)&#x20;
-
-Learning - Roles have characteristics and capabilities as success factors
-
-Next elegant steps (general action items)&#x20;
+#### Next elegant steps (general action items)&#x20;
 
 Process workgroup will model processes for 5 discovered activity areas (onboarding, meeting ops, publishing/promotion, article creation, results reporting)
 
