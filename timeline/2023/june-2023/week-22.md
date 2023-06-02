@@ -73,13 +73,19 @@ We Prioritize critical Ambassador Activities and cover process changes Meeting n
 #### Process Modelling Workgroup updates&#x20;
 
 * **Description** - This workgroup is Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
-* **Decision** - We start analyzing Writing Workgroup onboarding instead of Ambassador Program onboarding Learning - Ambassador role currently is a leadership position that would require knowledge of leading workgroups
+* **Decision** - We start analyzing Writing Workgroup onboarding instead of Ambassador Program onboarding&#x20;
+* **Learning** - Ambassador role currently is a leadership position that would require knowledge of leading workgroups
 
-comment on Archival proposal Description - Action to review and feedback give feedback to Archival Workgroup Proposal Learning - Participants were unaware of this Dework task when its only posted in meeting Summary as action, shared in Process Guild meeting and listed on Miro Board
+#### Comment on Archival proposal&#x20;
 
-Decision - Will introduce new parameter 'Dework Action', for future Dework task derived from Process Guild meetings
+* **Description** - Action to review and feedback give feedback to Archival Workgroup&#x20;
+* **Proposal Learning** - Participants were unaware of this Dework task when its only posted in meeting Summary as action, shared in Process Guild meeting and listed on Miro Board
+* **Decision** - Will introduce new parameter 'Dework Action', for future Dework task derived from Process Guild meetings
 
-Process Guild new process to navigate between meeting notes Description - Alternative method to make easier to read meeting notes and make sense of discussions and its evolution, the downsides are loss of accuracy which date discussions took place Decision - This method will not be used to so it will be easier to archive and have a time trail
+#### Process Guild new process to navigate between meeting notes&#x20;
+
+* **Description** - Alternative method to make easier to read meeting notes and make sense of discussions and its evolution, the downsides are loss of accuracy which date discussions took place&#x20;
+* **Decision** - This method will not be used to so it will be easier to archive and have a time trail
 
 Set Up Ambassadors Miro Account Description - Administrative task to give more freedom and access to Miro capabilities for Ambassadors Action - Buy License for ambassador account
 
