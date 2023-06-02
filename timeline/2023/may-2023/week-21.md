@@ -316,3 +316,25 @@ There could also be collaboration points within the proposals. ie if a Workgroup
 We ended with some potential proposal ideas people could begin thinking about such as: Social Media Management, Video Workgroup, Writers Workgroup, Digital Marketing, Graphic Design, Month/Quarterly Individual Project Ideas, Broadcasting, and Merchandise
 
 Noted for Merchandise: Practically speaking logos etc are not open source and requires permission but doesn't seem to be any barriers. Make sure to request. The Foundation is talking about setting up a shop that the Ambassador Program can provide input for Ambassador Merch.
+
+### Writers Workgroup
+
+#### Host:&#x20;
+
+Kenichi
+
+#### Attendees:&#x20;
+
+Fly, Headelf, Mikasa, Slate, Cjfrankie, Cran, SucrenSpice, Peter
+
+#### Summary:&#x20;
+
+Fly and Mikasa discussed the possibility of having a monthly or quarterly newsletter to update the community on the Ambassador program and the ecosystem. They suggested that the focus should be on creating content rather than monthly updates.
+
+Kenichi proposed a workflow for content creation and editing that would take a maximum of 7 hours per article. He suggested that the urgency of tasks should be taken into account and that he would reach out to writers to provide mentorship and guidance. He also proposed that the cap for writers should be kept at 10 until they have been thoroughly trained. Kenichi also brought it up that tasks assignments and payments moving forward \[starting June] would be based on a priority structure.
+
+Kenichi is taking up the scribe role and is responsible for articles and threads. He is also offering mentorship and feedback to improve scribblers' skills. Three articles were published this week and Kenichi has streamlined the process to take less than 24 hours with 3 hours of time with each individual. There was also a discussion on the benefits of working on brand assets for the ambassador program.
+
+Discussion: A Summary of the one-on-one meeting with each Scribbler Research ethics for articles Discussing the Frequency of Ecosystem Updates: Quarterly vs Monthly Newsletter Content Optimising workflow and scaling for content creation: Scaling the Workflow Exploring the Process and Responsibilities of Article Writing: Roles and Responsibilities
+
+Action Items: Reach out to scribblers to discuss convenient times for one-on-one conversations and mentorship. Work with Marketing to create brand assets Create dework tasks for scribblers to write articles on Publish the latest contents
