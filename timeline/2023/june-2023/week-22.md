@@ -58,9 +58,11 @@ We could use Dework’s functionality of upvoting - the most upvoted will become
 
 ### Process Guild
 
-Meeting Summary Context:&#x20;
+#### Meeting Summary Context:&#x20;
 
-We Prioritize critical Ambassador Activities and cover process changes Meeting notes: https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764555273787315\&cot=10
+We Prioritize critical Ambassador Activities and cover process changes&#x20;
+
+**Meeting notes:** [**link**](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764555273787315\&cot=10)
 
 #### Agenda Items&#x20;
 
