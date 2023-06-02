@@ -107,6 +107,8 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 **Meeting notes:** [link](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555315076803\&cot=10)
 
+<figure><img src="../../../.gitbook/assets/Ambassador Workgroup 30-05-23.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Agenda Items
 
 #### Ambassador Monthly Rewards Description - Support ambassadors to recognize their time
