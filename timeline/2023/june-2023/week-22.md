@@ -244,3 +244,15 @@ A Miro board to be developed showing the process/ steps of onboarding Onboarding
 Agenda Items not discussed would be moved over to the next meeting.
 
 ## Friday 2nd May 2023
+
+### Video Workgroup
+
+In this meeting we:
+
+* Voted for using the Summon platform.
+* Voted on Agus’s proposal for a video in Spanish.
+* listened to a proposal by Agus for social media management.
+* Made a welcome video for the onboarding workgroup.
+* Brainstormed about future videos’ topics&#x20;
+
+**Partcipants**: rojo, Agus, Sly, OEP, lilycupcake, CjFrankie, Sucren
