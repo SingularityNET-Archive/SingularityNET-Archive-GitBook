@@ -335,6 +335,10 @@ Kenichi proposed a workflow for content creation and editing that would take a m
 
 Kenichi is taking up the scribe role and is responsible for articles and threads. He is also offering mentorship and feedback to improve scribblers' skills. Three articles were published this week and Kenichi has streamlined the process to take less than 24 hours with 3 hours of time with each individual. There was also a discussion on the benefits of working on brand assets for the ambassador program.
 
-Discussion: A Summary of the one-on-one meeting with each Scribbler Research ethics for articles Discussing the Frequency of Ecosystem Updates: Quarterly vs Monthly Newsletter Content Optimising workflow and scaling for content creation: Scaling the Workflow Exploring the Process and Responsibilities of Article Writing: Roles and Responsibilities
+#### Discussion:&#x20;
 
-Action Items: Reach out to scribblers to discuss convenient times for one-on-one conversations and mentorship. Work with Marketing to create brand assets Create dework tasks for scribblers to write articles on Publish the latest contents
+A Summary of the one-on-one meeting with each Scribbler Research ethics for articles Discussing the Frequency of Ecosystem Updates: Quarterly vs Monthly Newsletter Content Optimising workflow and scaling for content creation: Scaling the Workflow Exploring the Process and Responsibilities of Article Writing: Roles and Responsibilities
+
+#### Action Items:&#x20;
+
+Reach out to scribblers to discuss convenient times for one-on-one conversations and mentorship. Work with Marketing to create brand assets Create dework tasks for scribblers to write articles on Publish the latest contents
