@@ -212,6 +212,40 @@ Realised we still need a Code of Conduct
 
 **Next elegant steps (general action items)** prepare for next session (Writers Workgroup Onboarding Model)
 
+### Strategy Guild
+
+#### Host:&#x20;
+
+Headelf.&#x20;
+
+#### Attendees participating:&#x20;
+
+Fly, Peter, FreydeFi, Crandano, Felix, Kenichi, Vanessa, Rojo, Grace.&#x20;
+
+#### Agenda:&#x20;
+
+Ethics, needed for Ambassadors? What are ethics? One of the most vibrant and passionate debate/discussion we have had.
+
+**Fly**: Morals, Code of Conduct, Use a Discord Bot;&#x20;
+
+**Peter**: Principles of Conduct and Principles, Trust person;&#x20;
+
+**Vanessa**: Ethical consideration, Draft Code of Ethics, Talk to each other first, Abuse - use own voice, Privacy issues, Do not put the power in the abuser;&#x20;
+
+**Felix**; Protect us from bad actors/actions, Issues addressed, Listen, Space to listen, how to stop the bad actor, Attenuate to victim,&#x20;
+
+**Kenichi**: Ethics principles, Integrity, Conflict of Interest, Colab, Professional relationship, Tools, create link, Blind suggestion box;&#x20;
+
+**FreysDefi**: Abuse, Harrassment, small group to listen, take it out of. our hands - SC for hearing/vetting;&#x20;
+
+**Rojo**: Move away from convo, More to where there is not agreement, How to point it out?;&#x20;
+
+**Grace**: Keep in line.&#x20;
+
+Meeting lasted 1 hour.&#x20;
+
+Post note DeFrey took the discussion to AI
+
 ## Thursday, 25th May 2023
 
 ### AI Sandbox
