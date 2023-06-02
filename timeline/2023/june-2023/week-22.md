@@ -103,7 +103,7 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 
 ## Wednesday 31st May 2023
 
-#### Incubation Workgroup & Strategy Guild
+### Incubation Workgroup & Strategy Guild
 
 #### Host(s):&#x20;
 
