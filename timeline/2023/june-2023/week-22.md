@@ -99,7 +99,39 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 
 **Next elegant steps (general action items)** Continue learning about decision making methods in the context of using them in Ambassador Program
 
+### Ambassador Workgroup&#x20;
 
+#### Meeting Summary Context:&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+**Meeting notes:** [link](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555315076803\&cot=10)
+
+#### Agenda Items
+
+#### Ambassador Monthly Rewards Description - Support ambassadors to recognize their time
+
+Decision - Ambassador rewards are rewarded once monthly activity list are provided under Treasury Guild Space (can be empty)&#x20;
+
+Decision - Ambassador rewards are distributed with same transaction as other community contributions&#x20;
+
+Decision - Ambassador Monthly Rewarding will take place 30.05.23 for those who have provided Activity List and get max rewards&#x20;
+
+Action - Connect with Ambassadors who has not reached monthly quote of 64 hours Insight - Working towards lowering percentage of Ambassador rewards under 50% and not rewarding ambassadors with flat amount
+
+####
+
+#### Allow double tipping from June? Description - Can ambassadors can get AGIX rewards from tasks
+
+Decision - We will have more discussions about this trough the week Insight - Majority in the call agreed to unlock double tipping
+
+Rename Ambassador Role?&#x20;
+
+Description - Ambassador role descriptive meaning and rewarded contribution does not seem to align
+
+Decision - We keep the role and move towards to reduce the scope of requirements by creating new roles Insight - Leadership role should be introduced Insight - Overview of the Infrastructure Contributors (George Lovegrove research)
+
+Next elegant steps (general action items) Learn about Ambassadors "who wants to work on what?"
 
 ## Wednesday 31st May 2023
 
