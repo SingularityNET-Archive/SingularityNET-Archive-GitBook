@@ -103,6 +103,40 @@ We Prioritize critical Ambassador Activities and cover process changes&#x20;
 
 ## Wednesday 31st May 2023
 
+#### Incubation Workgroup & Strategy Guild
+
+#### Host(s):&#x20;
+
+Fly, Cran, Headelf
+
+#### Attendees:&#x20;
+
+fly, cran, sucrenspice, peter, sly syl, headelf, callyfromauron
+
+#### Agenda Items:&#x20;
+
+Last week quick highlight, branding discussion, pros and cons to current Budget
+
+#### Length of Meeting:&#x20;
+
+2.5 hr
+
+#### Goal and or Action Items:&#x20;
+
+We started the meeting highlighting last week's meeting about bringing on people to host workshops, presentations, AMAs into Incubation.
+
+Introduced a document for writing peoples names, contact information, status of reaching out to them.
+
+We began touching on branding. Topics included role names.
+
+We were interrupted by trolls which took up the remainder of the meeting.
+
+Felix saved us.
+
+Conversation went into how to prevent it from happening to Miro moving forward.
+
+Headelf brought up Budget points and was discussed for the final 30min or so.
+
 
 
 ## Thursday 1st May 2023
