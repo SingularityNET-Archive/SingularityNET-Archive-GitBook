@@ -174,6 +174,36 @@ Headelf brought up Budget points and was discussed for the final 30min or so.
 
 ## Thursday 1st May 2023
 
+### Onboarding Workgroup
 
+#### Host(s):&#x20;
+
+SucrenSpice
+
+#### Attendees:
+
+SucrenSpice, Peter, Headelf, Eszter( Esther from SNET Foundation)
+
+**Length of Meeting**: 1 hour
+
+#### Agenda Items:&#x20;
+
+Email to be sent to applicants Guilds and workgroups overview -(Ambassador Handbook) Interview or Quiz for applicants Need for a channel for new members in the program (Great Filter)
+
+#### Goal or Action Items:
+
+#### Choosing an Email draft&#x20;
+
+* After reviewing the email drafts, Draft 2 was chosen to be sent to applicants of the ambassador program for now, just to clear the backlog. Draft 2 and Draft 3 will be merged and used in the future after a welcome video has been created. A script for the welcome video is to be written by SucrenSpice and a video created by a member of the videos workgroup.
+
+#### Guilds/Workgroups overview doc&#x20;
+
+* Workgroup leads should pin a brief summary about the workgroup in each channel as soon as possible. The Ambassador gitbook would be updated and would include an overview of the guild and workgroups in the program.
+
+#### Next Steps:
+
+A Miro board to be developed showing the process/ steps of onboarding Onboarding process could potentially be discussed in next week’s Process Guild or Ambassador Work group meeting.
+
+Agenda Items not discussed would be moved over to the next meeting.
 
 ## Friday 2nd May 2023
