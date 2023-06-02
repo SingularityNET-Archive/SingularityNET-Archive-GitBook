@@ -16,7 +16,11 @@ description: 29th May 2023 to 4th June 2023
 
 #### Meeting notes:&#x20;
 
-https://docs.google.com/presentation/d/1bpHOzewYaZDm9UihnjM2iyVgiqNXr8mKOsFxB0\_UqNI/edit?usp=sharing (Slide 4 to 7)
+https://docs.google.com/presentation/d/1bpHOzewYaZDm9UihnjM2iyVgiqNXr8mKOsFxB0\_UqNI/edit?usp=sharing
+
+&#x20;
+
+(Slide 4 to 7)
 
 #### Host(s):&#x20;
 
