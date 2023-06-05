@@ -112,7 +112,9 @@ Please check the whole concept at the Miro board link:
 
 ## Saturday, 28th January 2023
 
-### **Process Guild - Decision Making Structure**
+### **Process Guild**
+
+**Decision Making Structure**
 
 On the link we can get information about Decision Making PBL Script
 
