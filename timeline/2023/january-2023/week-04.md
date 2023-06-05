@@ -82,7 +82,9 @@ Please check the whole concept at the Miro board link:
 
 ## Thursday, 26th January 2023
 
-### Treasury Guild - Contribution and Distribution Discussions
+### Treasury Guild
+
+Contribution and Distribution Discussions
 
 Treasury Guild - 26.01.2023 meeting overview
 
@@ -92,15 +94,15 @@ Hosted by Tevo Saks
 
 {% embed url="https://youtu.be/Ft2lpwH0mBs" %}
 
-### On the link belove you can check Marketing Guild Budgeting and supporting the structure document
+On the link belove you can check Marketing Guild Budgeting and supporting the structure document
 
 {% embed url="https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit#gid=0" %}
 
-### On the meeting was presented a Survey for every 2 weeks about Agendas topics and you can check that on link:
+On the meeting was presented a Survey for every 2 weeks about Agendas topics and you can check that on link:
 
 {% embed url="https://docs.google.com/forms/d/1LsZvSuztbAal3asZ5YI35EYPE0_8ElqaPP3JSLdwgeI/edit" %}
 
-### Treasury Guild - Contribution and Distribution Discussions
+Treasury Guild - Contribution and Distribution Discussions
 
 Please check the whole concept at the Miro board link:
 
@@ -116,7 +118,7 @@ On the link we can get information about Decision Making PBL Script
 
 {% embed url="https://docs.google.com/document/d/1QMf_BlLAIiAOWTPryXh547A7yZUUBjrjQR9LRBZXrPM/edit#heading=h.mhs7ykagqjqc" %}
 
-### At this meeting, the concept of decision making structure is generally presented, which can be seen on the miro board link:
+At this meeting, the concept of decision making structure is generally presented, which can be seen on the miro board link:
 
 **Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
 
