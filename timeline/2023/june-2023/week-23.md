@@ -18,7 +18,11 @@ Open discussion.
 
 ### Ambassadors Town Hall
 
+#### Presentation on SophiaVerse by Jon Grove
+
 {% embed url="https://www.sophiaverse.ai/" %}
+
+{% file src="../../../.gitbook/assets/SophiaVerse Whitepaper v2.0.pdf" %}
 
 ## Weds 8th June 2023
 
