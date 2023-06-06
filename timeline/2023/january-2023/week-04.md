@@ -34,7 +34,9 @@ Marketing workshop: weekly thursdays 18UTC
 
 Podcast group  meeting: weekly monday 19UTC
 
-{% embed url="https://discord.com/channels/909843832491896832/909843834991706162" %}
+[https://miro.com/app/board/uXjVO0WVUBA=/moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
+<figure><img src="../../../.gitbook/assets/Podcast group weekly 19utc.png" alt=""><figcaption></figcaption></figure>
 
 Treasury guild meeting: bi-weekly  thursdays 16UTC
 
