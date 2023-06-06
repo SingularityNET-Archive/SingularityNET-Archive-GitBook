@@ -1,0 +1,24 @@
+# Week 23
+
+## Monday 6th June 2023
+
+### Education Guild
+
+**Participants**: Slysyl, Ubiodee, Peter, Syntronyx, Rojo
+
+**We did:** \
+CIP-1694’s Workshop preparations. \
+Alex is working on a demo to present later on. \
+In the next town hall, we will have a Sophiaverse update. \
+Open discussion.
+
+
+
+## Tues 7th June 2023
+
+## Weds 8th June 2023
+
+## Thurs 9th June 2023
+
+## Fri 10th June 2023
+
