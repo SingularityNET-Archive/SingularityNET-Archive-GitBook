@@ -16,6 +16,10 @@ Open discussion.
 
 ## Tues 7th June 2023
 
+### Ambassadors Town Hall
+
+{% embed url="https://www.sophiaverse.ai/" %}
+
 ## Weds 8th June 2023
 
 ## Thurs 9th June 2023
