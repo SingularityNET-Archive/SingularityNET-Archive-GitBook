@@ -40,6 +40,10 @@ Podcast group  meeting: weekly monday 19UTC
 
 Treasury guild meeting: bi-weekly  thursdays 16UTC
 
+[https://miro.com/app/board/uXjVO0WVUBA=/moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
+<figure><img src="../../../.gitbook/assets/Treasury guild 16 utc.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://us02web.zoom.us/j/87434060530?pwd=c3VHVlRtMzI5NTByNXRzd2JSaFA1QT09" %}
 
 Podcast: weekly mondays 17UTC
