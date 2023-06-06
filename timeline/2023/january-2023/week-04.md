@@ -48,7 +48,9 @@ Treasury guild meeting: bi-weekly  thursdays 16UTC
 
 Podcast: weekly mondays 17UTC
 
-{% embed url="https://discord.com/channels/909843832491896832/909843834991706162" %}
+[https://miro.com/app/board/uXjVO0WVUBA=/moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
+<figure><img src="../../../.gitbook/assets/podcast weekly 17 utc.png" alt=""><figcaption></figcaption></figure>
 
 Town Hall weekly Tuesdays 18UTC&#x20;
 
