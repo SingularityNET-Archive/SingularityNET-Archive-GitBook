@@ -22,7 +22,7 @@ Through this Zoom meeting, the meetings of other groups within SingularityNET ar
 
 Marketing meeting: weekly fridays 13UTC
 
-Miro board: [https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+Miro board: [https://miro.com/app/board/uXjVO0WVUBA=/moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
 
 <figure><img src="../../../.gitbook/assets/Marketing meeting.png" alt=""><figcaption></figcaption></figure>
 
