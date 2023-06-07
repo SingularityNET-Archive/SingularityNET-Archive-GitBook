@@ -34,9 +34,17 @@ Further we gave some updates on the initial Governance Framework document which 
 * A second task will be created, focusing on identifying parts of the Governance Framework document that could be removed.
 * To be further discussed: Individual Dework tasks will be created from the 11 “comments” issues in the Governance document. However, no agreement was reached on who will handle this task due to time constraints so we would still need to elaborate on the thing.
 
-### Ambassadors Town Hall
+### Ambassadors Town Hall #51
 
-#### Presentation on SophiaVerse by Jon Grove
+Jon Grove attended to share about SophiaVerse (see presentation and whitepaper below)
+
+<mark style="color:red;">**Action item:**</mark> tomorrow's incubation workshop will ideate on how we as ambassador program want to interact with SophiaVerse.&#x20;
+
+**Short term** - spread awareness, connect with the Sophia ambassadors (potential workgroup?), promote the launch once more info is public, vote on daomaker: [https://daomaker.com/company/sophiaverse/o0O1KoaJlY](https://daomaker.com/company/sophiaverse/o0O1KoaJlY)&#x20;
+
+**Mid term** - join in on the fun, teach Sophia about the ambassador program Further mid and long term to emerge as we go
+
+Presentation on SophiaVerse by Jon Grove
 
 {% embed url="https://www.sophiaverse.ai/" %}
 
