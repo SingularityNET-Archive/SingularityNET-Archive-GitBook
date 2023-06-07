@@ -1,6 +1,6 @@
 # Week 23
 
-## Monday 6th June 2023
+## Monday, 5th June 2023
 
 ### Education Guild
 
@@ -14,7 +14,7 @@ Open discussion.
 
 
 
-## Tues 7th June 2023
+## Tuesday, 6th June 2023
 
 ### Ambassadors Town Hall
 
@@ -24,9 +24,9 @@ Open discussion.
 
 {% file src="../../../.gitbook/assets/SophiaVerse Whitepaper v2.0.pdf" %}
 
-## Weds 8th June 2023
+## Wednesday, 7th June 2023
 
-## Thurs 9th June 2023
+## Thursday, 8th June 2023
 
-## Fri 10th June 2023
+## Friday, 9th June 2023
 
