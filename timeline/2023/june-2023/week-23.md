@@ -20,6 +20,8 @@ Open discussion.
 
 #### Summary Meeting notes:  Google Doc: [link](https://docs.google.com/presentation/d/1fkMyoOAD3PjFsjWBiY4\_-iRyRONsS3HzoIY57hSTmts/edit?usp=sharing)
 
+#### Google Slides: [link](https://docs.google.com/presentation/d/1fkMyoOAD3PjFsjWBiY4\_-iRyRONsS3HzoIY57hSTmts/edit?usp=sharing)
+
 #### Dework task: [link](https://app.dework.xyz/singularitynet-ambas/gov-wg?taskId=809975d7-c4ce-468a-aafc-05ef9690d8ed)
 
 We discussed the idea of facilitating peer education sessions focused on governance. Opinions differed on whether this fell within the purview of the Governance WG, with some arguing that the Education WG should handle such tasks. A counterpoint raised was the potential value of knowledge sharing on specific governance-related topics, which might encourage broader engagement.
