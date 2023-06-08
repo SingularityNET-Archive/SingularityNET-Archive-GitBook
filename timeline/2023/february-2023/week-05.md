@@ -58,7 +58,7 @@ Please check the whole concept at the Miro board link:
 
 
 
-Community Governance meeting - Loyalty Rewards
+**Community Governance meeting - Loyalty Rewards**
 
 Hosted by Peter E
 
@@ -72,4 +72,12 @@ Loyalty Rewards meeting was on 26.01.2023 you can check the link below:
 
 {% embed url="https://docs.google.com/presentation/d/10_PPoMw86OYZkbToq3hxt6D0Z5wnuZVngOd7lQwZttw/edit#slide=id.g1296df77e28_0_24" %}
 
+**Here is the Google Calendar for personal use or Google Workspace account for business use**
+
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
 <figure><img src="../../../.gitbook/assets/google (1).png" alt=""><figcaption></figcaption></figure>
+
+Please check the whole concept at the Miro board link:
+
+**Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
