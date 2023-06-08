@@ -23,3 +23,8 @@ Different topics were presented in this meeting, so let's start from the beginni
 Youtube videos, analyze results
 
 <figure><img src="../../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
+
+Ambassador Townhall videos
+
+<figure><img src="../../../.gitbook/assets/Video.png" alt=""><figcaption></figcaption></figure>
+
