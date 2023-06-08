@@ -1,5 +1,7 @@
 # Week 23
 
+##
+
 ## Monday, 5th June 2023
 
 ### Education Guild
@@ -130,6 +132,42 @@ Think about small proposal opportunities that benefit open communities.\
 **Example:** Propose workgroups as a service
 
 ## Wednesday, 7th June 2023
+
+### Strategy Guild
+
+#### **Host:**&#x20;
+
+Headelf&#x20;
+
+#### **Attendees**:&#x20;
+
+Peter, DeFrey, SucrenSpice, Felix, Vanessa, Rojo, SlySyl.&#x20;
+
+#### **Agenda:**&#x20;
+
+#### 1) Proposed 3rd quarter Budget and Ambassador Program framework change.&#x20;
+
+Presentation made by Headelf on current status of Ambassador framework, compensation, accomplishments and reason(s) for this suggested change to framework and compensation structure.&#x20;
+
+[Presentation Link](https://www.icloud.com/iclouddrive/08eTygk1-gRk-PsSdyDJ0Zmfw#Ambassador\_3rd\_quarter\_2023\_discussion)\
+[Budget & Framework proposal link](https://docs.google.com/spreadsheets/d/1y6BMN\_1hOak8uhbFbi5EfId6IdDHORG4vwQpjVC4ewE/edit?usp=sharing)\
+[Proposed budget as a Google sheet](https://docs.google.com/spreadsheets/d/1y6BMN\_1hOak8uhbFbi5EfId6IdDHORG4vwQpjVC4ewE/edit?usp=sharing)
+
+#### Discussion key points:&#x20;
+
+**Peter:** good foundation for discussion; re: roundtable structure - …downside of constant voting - 6 month term seems a good length; liked large Misc budget to allow for proposals. Rojo: …Dework tasks and budget - how to do? Work Group leads - compensation?; …audit questions on Dework tasks - Alarm and audits one higher dollar amount - perhaps $100 USD cap on Dework. Re: new ambassadors - tokens for governance or task time.&#x20;
+
+**Felix:** .. tokens for each WG for new ambassadors - build (“trust”) via tokens.&#x20;
+
+**SlySyl:** Travel budget not needed.&#x20;
+
+**Vani:** …Do we even need Roundtable elections?, … re rework - Price per task not hourly… real freelancers and gig work…Canvass ambassadors on changes proposed (re what next), What do we define “engagement”as?&#x20;
+
+Sucren, Syl, Defrays had a number of typed comments in the zoom discussion. I could not capture them properly.&#x20;
+
+#### Meeting length:&#x20;
+
+approx 1 hour 10 minutes.
 
 ## Thursday, 8th June 2023
 
