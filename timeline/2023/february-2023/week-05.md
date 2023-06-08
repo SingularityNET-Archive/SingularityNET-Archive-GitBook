@@ -52,3 +52,9 @@ Please check the whole concept at the Miro board link:
 
 **Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
 
+
+
+### **Ambassador program Town Hall 32**
+
+
+
