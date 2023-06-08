@@ -20,3 +20,6 @@ Process Guild - the entire meeting from 31.01.2023. you can see on link below:
 
 Different topics were presented in this meeting, so let's start from the beginning:
 
+Youtube videos, analyze results
+
+<figure><img src="../../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
