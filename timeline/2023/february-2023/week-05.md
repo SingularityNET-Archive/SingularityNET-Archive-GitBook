@@ -22,9 +22,13 @@ Different topics were presented in this meeting, so let's start from the beginni
 
 Youtube videos, analyze results
 
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
 <figure><img src="../../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
 
 Ambassador Townhall videos
+
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
 
 <figure><img src="../../../.gitbook/assets/Video.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,9 +38,13 @@ It was discussed about Ambassador onboarding community guide. Link below:
 
 SingularityNET Ambassador program - Onboarding Form&#x20;
 
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
 <figure><img src="../../../.gitbook/assets/form.png" alt=""><figcaption></figcaption></figure>
 
 And Discord channel for follow up
+
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
 
 <figure><img src="../../../.gitbook/assets/Discord.png" alt=""><figcaption></figcaption></figure>
 
