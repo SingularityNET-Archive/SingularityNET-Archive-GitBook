@@ -97,11 +97,17 @@ Presentation on SophiaVerse by Jon Grove
 
 We prioritize critical Ambassador Activities and cover process changes.
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555841405688\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555841405688\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555841405688\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555841405688\&cot=10)
 
-#### **Agenda Items**&#x20;
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_14 (2).pdf" %}
+PDF of Miro board for Process Guild 6th June 2023
+{% endfile %}
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_14.jpg" alt=""><figcaption><p>hi-res image of Miro board for Process Guild meeting, 6th June 2023</p></figcaption></figure>
+
+**Agenda Items**&#x20;
 
 **Troll Attacks** \
 **Description** - Security concerns and procedures for letting people into meetings and open documents, as well as the process for managing security protocols.
