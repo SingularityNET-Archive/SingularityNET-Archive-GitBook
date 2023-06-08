@@ -58,3 +58,17 @@ Please check the whole concept at the Miro board link:
 
 
 
+Community Governance meeting - Loyalty Rewards
+
+Hosted by Peter E
+
+**Attendees: Brian, Eric, Peter E, pinksha, crandano, jamp, raymond**
+
+Loyalty Rewards meeting was on 26.01.2023 you can check the link below:
+
+{% embed url="https://youtu.be/Y1OjnMQFdTY" %}
+
+
+
+
+
