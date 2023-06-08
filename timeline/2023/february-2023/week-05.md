@@ -28,3 +28,17 @@ Ambassador Townhall videos
 
 <figure><img src="../../../.gitbook/assets/Video.png" alt=""><figcaption></figcaption></figure>
 
+It was discussed about Ambassador onboarding community guide. Link below:
+
+{% embed url="https://docs.google.com/presentation/d/1EcU35o05NgRzimPckrBTuJMErVcQ-1XsCLxtmWL2iOQ/edit#slide=id.p" %}
+
+SingularityNET Ambassador program - Onboarding Form&#x20;
+
+<figure><img src="../../../.gitbook/assets/form.png" alt=""><figcaption></figcaption></figure>
+
+And Discord channel for follow up
+
+<figure><img src="../../../.gitbook/assets/Discord.png" alt=""><figcaption></figcaption></figure>
+
+
+
