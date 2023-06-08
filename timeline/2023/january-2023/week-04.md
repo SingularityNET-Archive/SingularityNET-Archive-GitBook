@@ -115,6 +115,8 @@ On the link belove you can check Marketing Guild Budgeting and supporting the st
 
 On the meeting was presented a Survey for every 2 weeks about Agendas topics
 
+[https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
+
 <figure><img src="../../../.gitbook/assets/TG.png" alt=""><figcaption></figcaption></figure>
 
 Treasury Guild - Contribution and Distribution Discussions
