@@ -28,6 +28,7 @@ Miro board: [https://miro.com/app/board/uXjVO0WVUBA=/moveToWidget=34587645530998
 
 Marketing workshop: weekly thursdays 18UTC
 
+\
 [https://miro.com/app/board/uXjVO0WVUBA=/moveToWidget=3458764553099805901\&cot=10](https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764553099805901\&cot=10)
 
 <figure><img src="../../../.gitbook/assets/Marketing workshop.png" alt=""><figcaption></figcaption></figure>
@@ -112,9 +113,9 @@ On the link belove you can check Marketing Guild Budgeting and supporting the st
 
 {% embed url="https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/edit#gid=0" %}
 
-On the meeting was presented a Survey for every 2 weeks about Agendas topics and you can check that on link:
+On the meeting was presented a Survey for every 2 weeks about Agendas topics
 
-{% embed url="https://docs.google.com/forms/d/1LsZvSuztbAal3asZ5YI35EYPE0_8ElqaPP3JSLdwgeI/edit" %}
+<figure><img src="../../../.gitbook/assets/TG.png" alt=""><figcaption></figcaption></figure>
 
 Treasury Guild - Contribution and Distribution Discussions
 

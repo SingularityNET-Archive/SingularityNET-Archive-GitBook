@@ -40,5 +40,7 @@ And Discord channel for follow up
 
 <figure><img src="../../../.gitbook/assets/Discord.png" alt=""><figcaption></figcaption></figure>
 
+Please check the whole concept at the Miro board link:
 
+**Miro board:** [**https://miro.com/app/board/uXjVO0WVUBA=/**](https://miro.com/app/board/uXjVO0WVUBA=/)
 
