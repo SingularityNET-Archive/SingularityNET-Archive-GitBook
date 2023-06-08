@@ -50,6 +50,46 @@ Presentation on SophiaVerse by Jon Grove
 
 {% file src="../../../.gitbook/assets/SophiaVerse Whitepaper v2.0.pdf" %}
 
+### Process Guild
+
+#### **Context:**
+
+We prioritize critical Ambassador Activities and cover process changes.
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555841405688\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555841405688\&cot=10)&#x20;
+
+#### **Agenda Items**&#x20;
+
+**Troll Attacks** \
+**Description** - Security concerns and procedures for letting people into meetings and open documents, as well as the process for managing security protocols.
+
+**Decision** - Main Miro Board stays private \
+**Decision** - Each group using a Miro Board should be created with Ambassador Account.\
+**Decision** - Admins can copy over information to Main Miro Board&#x20;
+
+**Action** - Define Main Miro Board \
+**Action** - Copy over Miro Boards from Swarm Account to SingularityNET Ambassador Account \
+**Action** - Create Ambassador Zoom own Account&#x20;
+
+**Insight** - strongly encouraged to delete the frame for a meeting once it's copied over to the main board to reduce history changes \
+**Insight** - [https://help.miro.com/hc/en-us/articles/7045408248594-Visitors-guests-and-members](https://help.miro.com/hc/en-us/articles/7045408248594-Visitors-guests-and-members)&#x20;
+
+#### **Each guild creates their own hypothesis**&#x20;
+
+**Description** - Process Guild created hypothesis for the decision-making model with point allocation and the generation of a heatmap of interest based on point distribution&#x20;
+
+**Decision** - Next Process Guild session we test the hypothesis voting on our proposal ideations for Catalyst Fund 10&#x20;
+
+**Action** - Select and create preferred decision making models used in your group.
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Think about small proposal opportunities that benefit open communities.\
+**Example:** Propose tools that could help manage and build communities\
+**Example:** Propose workgroups as a service
+
 ## Wednesday, 7th June 2023
 
 ## Thursday, 8th June 2023
