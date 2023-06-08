@@ -34,6 +34,45 @@ Further we gave some updates on the initial Governance Framework document which 
 * A second task will be created, focusing on identifying parts of the Governance Framework document that could be removed.
 * To be further discussed: Individual Dework tasks will be created from the 11 “comments” issues in the Governance document. However, no agreement was reached on who will handle this task due to time constraints so we would still need to elaborate on the thing.
 
+### Ambassadors' Workgroup
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+[**Meeting notes**](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555900905549\&cot=10)
+
+#### Miro
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_17.pdf" %}
+PDF of Miro board for Ambassadors Workgroup eeting, 6th June 2023
+{% endfile %}
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_17.jpg" alt=""><figcaption><p>image of Miro board for Ambassadors' Workgroup 6th Jaune 2023</p></figcaption></figure>
+
+#### **Agenda Items:**&#x20;
+
+#### **1) Monthly Rewards**&#x20;
+
+**Description** - What are the rewards Ambassadors get this and months in forward?&#x20;
+
+**Decision** - Lock in Ambassador rewards for next 2 months in Treasury Guild Action\
+Connect with TheFreys Defi for Community engagement estimations&#x20;
+
+**Action** - Create Community engagement tasks based on last month estimations&#x20;
+
+#### **2) Tevo 9 days Screen Time results**&#x20;
+
+Description - Tevo Discord and time management&#x20;
+
+Decision - adjust community engagement according to scale of this result&#x20;
+
+Insight - Good details for first impression and estimations&#x20;
+
+#### **3) Next elegant steps** (general action items)&#x20;
+
+Learn about Ambassadors "who wants to work on what?"
+
 ### Ambassadors Town Hall #51
 
 Jon Grove attended to share about SophiaVerse (see presentation and whitepaper below)
