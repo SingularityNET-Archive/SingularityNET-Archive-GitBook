@@ -68,7 +68,8 @@ Loyalty Rewards meeting was on 26.01.2023 you can check the link below:
 
 {% embed url="https://youtu.be/Y1OjnMQFdTY" %}
 
+**Agenda of Ambassador program Town Hall 32 you can check on the link:**
 
+{% embed url="https://docs.google.com/presentation/d/10_PPoMw86OYZkbToq3hxt6D0Z5wnuZVngOd7lQwZttw/edit#slide=id.g1296df77e28_0_24" %}
 
-
-
+<figure><img src="../../../.gitbook/assets/google (1).png" alt=""><figcaption></figcaption></figure>
