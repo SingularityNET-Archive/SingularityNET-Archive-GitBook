@@ -50,4 +50,10 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 
 <figure><img src="../../../.gitbook/assets/Ambassador Email.png" alt=""><figcaption></figcaption></figure>
 
+**The topic of the Ambassador Program was also touched upon at the meeting, and you can see it at the link:**
+
+<figure><img src="../../../.gitbook/assets/Ambassador Program (1).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://singularitynet.io/ambassador-program/#program-details" %}
+
 {% embed url="https://cryptpad.fr/pad/#/2/pad/edit/bCqcgYPwi6Wd--ou9F57Nb8D/" %}
