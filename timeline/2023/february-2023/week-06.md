@@ -63,3 +63,9 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 <figure><img src="../../../.gitbook/assets/Depp Funding.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://deepfunding.ai/" %}
+
+**SingularityNet ecosystem overview you can check on the link:**
+
+<figure><img src="../../../.gitbook/assets/SNet ecosystem.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://singularitynet.io/ecosystem/" %}
