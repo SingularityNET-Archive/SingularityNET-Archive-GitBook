@@ -27,3 +27,9 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 **Organize Action Items were presented at the meeting**
 
 <figure><img src="../../../.gitbook/assets/OAI.png" alt=""><figcaption></figcaption></figure>
+
+**The link below presents the results of the Swarm Deep Fund assessment experiment**
+
+<figure><img src="../../../.gitbook/assets/Swarm.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://app.dework.xyz/catalyst-swarm/singularitynet-and-swa?taskId=36a80532-6e2e-4c81-a6d4-c51ff20a14b7" %}
