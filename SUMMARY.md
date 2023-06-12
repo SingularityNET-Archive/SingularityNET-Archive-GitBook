@@ -29,7 +29,7 @@
     * [Week 11](timeline/2023/march-2023/week-11.md)
     * [Week 10](timeline/2023/march-2023/week-10.md)
   * [February 2023](timeline/2023/february-2023/README.md)
-    * [Week 6](timeline/2023/february-2023/week-6.md)
+    * [Week 06](timeline/2023/february-2023/week-06.md)
     * [Week 05](timeline/2023/february-2023/week-05.md)
   * [January 2023](timeline/2023/january-2023.md)
     * [Week 04](timeline/2023/january-2023/week-04.md)
