@@ -57,3 +57,9 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 <figure><img src="../../../.gitbook/assets/Ambassador Program (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://singularitynet.io/ambassador-program/#program-details" %}
+
+**If you didn't know, you can also be funded, and for more information check the link:**
+
+<figure><img src="../../../.gitbook/assets/Depp Funding.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://deepfunding.ai/" %}
