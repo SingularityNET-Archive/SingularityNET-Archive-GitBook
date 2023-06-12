@@ -39,3 +39,15 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 <figure><img src="../../../.gitbook/assets/Sticky notes.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764550256904599&cot=14" %}
+
+**The Ambassador Onboarding concept was presented at the meeting and you can see it below**
+
+<figure><img src="../../../.gitbook/assets/Swarm doc.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://catalyst-swarm.gitbook.io/singularity-swarm/" %}
+
+**And also you can check Ambassador Program Email:**
+
+<figure><img src="../../../.gitbook/assets/Ambassador Email.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://cryptpad.fr/pad/#/2/pad/edit/bCqcgYPwi6Wd--ou9F57Nb8D/" %}
