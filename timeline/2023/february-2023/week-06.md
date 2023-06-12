@@ -33,3 +33,9 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 <figure><img src="../../../.gitbook/assets/Swarm.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://app.dework.xyz/catalyst-swarm/singularitynet-and-swa?taskId=36a80532-6e2e-4c81-a6d4-c51ff20a14b7" %}
+
+**Tevo created a One pager including the full funnel and you can check that on the link below:**
+
+<figure><img src="../../../.gitbook/assets/Sticky notes.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764550256904599&cot=14" %}
