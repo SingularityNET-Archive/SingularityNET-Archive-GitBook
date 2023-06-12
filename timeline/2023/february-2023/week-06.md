@@ -18,9 +18,12 @@ Process Guild - the entire meeting from 07.02.2023. you can see on link below:
 
 {% embed url="https://youtu.be/Mx9xnGtrEFs" %}
 
-You can check the link for joining Proces Guild Dework
+**You can check the link for joining Proces Guild Dework**
 
 <figure><img src="../../../.gitbook/assets/Dework PG.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=1db09bc1-f1f9-43dd-9d35-c30169816874" %}
 
+**Organize Action Items were presented at the meeting**
+
+<figure><img src="../../../.gitbook/assets/OAI.png" alt=""><figcaption></figcaption></figure>
