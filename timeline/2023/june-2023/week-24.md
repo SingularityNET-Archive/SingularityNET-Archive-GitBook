@@ -18,6 +18,10 @@ Yes indeed, we're seeing a noticeable void in frameworks and processes for "expe
 
 Next Steps We'll kick-start a "Problem Statement" document. The idea here is to clearly define our current issues and to pinpoint the critical questions that we need to address before we dive into solution mode.&#x20;
 
+### Educational WorkGroup
+
+This week's Educational WG meeting was replaced by a CIP-1694 community workshop; documentation coming
+
 ## Tues 13th June 2023&#x20;
 
 ## Weds 14th June 2023&#x20;

@@ -278,6 +278,10 @@ Think about Summer vacation
 
 ## Friday, 9th June 2023
 
+### Writers Workgroup
+
+Writers' Workgroup did not meet this week
+
 ### Video Workgroup
 
 #### Facilitator:&#x20;
