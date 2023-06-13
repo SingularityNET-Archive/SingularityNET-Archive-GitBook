@@ -224,6 +224,60 @@ approx 1 hour 10 minutes.
 
 ## Thursday, 8th June 2023
 
+### Treasury Guild
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### **Meeting notes:**
+
+[**https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10**](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.jpg" alt=""><figcaption><p>meeting Miro board</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.pdf" %}
+PDF of meeting Miro board
+{% endfile %}
+
+
+
+**Agenda Items**&#x20;
+
+#### **Monthly Ambassador Rewards**
+
+**Description** - Planning expectations for reward allocation and distribution rules related to Ambassadors \
+**Decision** - For the month of May and June 4273 AGIX will be rewarded to Ambassador roles \
+**Action** - Treasury Guild will create new transaction to reimburse missing rewards to Ambassadors \
+**Action** - Create a single source starting point to find latest information about Ambassador treasury and its allocations\
+**Insight -** Starting from July Ambassadors might be allowed to be rewarded from Guild or Workgroup budgets \
+**Insight -** Starting from July Ambassadors role may be changed and scoped down \
+**Insight** - Starting from July a new role represented as current Ambassadors might be created \
+**Insight** - Archival WG will revise budget projections for Q3 and request sign-off from Treasury Guild or Incubation (using data from Q2)&#x20;
+
+#### **Using Contribution data as voting weight**&#x20;
+
+**Description** - Shared mvp tool to capture votes from Miro Board and assign contribution data \
+**Insight** - Tevo will continue adding more features to this tool in July \
+**Insight** - there are lot of interesting voting systems and platforms to test \
+**Action** - What are the advantages and disadvantages of different voting systems and platform options?&#x20;
+
+#### **Sticky Note Color Codes**&#x20;
+
+**Description** - A visual tool to help organize and find the information provided on Miro Boards \
+**Decision** - new color added, dark blue "Discussed Action/Agenda Item moved to future" \
+**Insight** - Color Code emerged from Process Guild where it became relevant to differentiate topics that need to be discussed in future and discussions already started&#x20;
+
+#### **Retrospective rewards for Fly (David)**&#x20;
+
+**Description** - Deciding Contribution rewards that were not rewarded by the time they were executed \
+**Decision** - More clarity required how the previous retrospective rewards were calculated and if we should redo it for everyone\
+**Decision** - License costs will be rewarded&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Think about Summer vacation
+
 ## Friday, 9th June 2023
 
 ### Video Workgroup
