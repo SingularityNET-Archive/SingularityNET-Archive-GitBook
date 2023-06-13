@@ -139,6 +139,45 @@ Think about small proposal opportunities that benefit open communities.\
 
 ## Wednesday, 7th June 2023
 
+### Process Modelling WorkGroup
+
+#### Meeting summary
+
+**Context:** Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+**Meeting notes:** [https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764556412211150\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764556412211150\&cot=10)&#x20;
+
+**Video Summary:** [https://youtu.be/FpqPCyHQPQM](https://youtu.be/FpqPCyHQPQM)&#x20;
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.jpg" alt=""><figcaption><p>image of meeting Miro board</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.pdf" %}
+
+#### **Agenda Items:**
+
+#### **Housekeeping**&#x20;
+
+**Description** - Process Modelling Workgroup internal tasks\
+**Decision** - Use Process Modelling Dework Task to recognize time it takes to model process Dework \
+**Action** - Create and assign activities and task points to Process Modelling Dework Task (use template) \
+**Action** - Create and add give role 'process design' to all contributors \
+**Insight** - Slate signed up to become Process Modelling Workgroup facilitator&#x20;
+
+#### **Presenting and updating writers workgroup processes**
+
+**Description** - designing process map on the Task Lane Framework \
+**Decision** - Miro Board processes will not be implemented on Dework, but instead used as reference Dework \
+**Action** - Headelf will create 'Operations Meetings' task process on the Task Lane Framework \
+**Dework Action** - Slate will create 'Publishing Material' task process on the Task Lane Framework \
+**Insight** - Pair up for assistance is an overhead team may not be able to establish \
+**Learning** - have a checklist for article reviewer Learning - have a separate checklist for publishers&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Finalize processes for demonstration.
+
+
+
 ### Strategy Guild
 
 #### **Host:**&#x20;
@@ -158,6 +197,10 @@ Presentation made by Headelf on current status of Ambassador framework, compensa
 [Presentation Link](https://www.icloud.com/iclouddrive/08eTygk1-gRk-PsSdyDJ0Zmfw#Ambassador\_3rd\_quarter\_2023\_discussion)\
 [Budget & Framework proposal link](https://docs.google.com/spreadsheets/d/1y6BMN\_1hOak8uhbFbi5EfId6IdDHORG4vwQpjVC4ewE/edit?usp=sharing)\
 [Proposed budget as a Google sheet](https://docs.google.com/spreadsheets/d/1y6BMN\_1hOak8uhbFbi5EfId6IdDHORG4vwQpjVC4ewE/edit?usp=sharing)
+
+{% file src="../../../.gitbook/assets/STRATEGY_MEETING_6723_NOTES.pdf" %}
+Meeting notes as PDF
+{% endfile %}
 
 #### Discussion key points:&#x20;
 
