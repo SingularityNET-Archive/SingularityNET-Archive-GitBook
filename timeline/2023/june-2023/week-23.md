@@ -153,7 +153,7 @@ Think about small proposal opportunities that benefit open communities.\
 
 {% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.pdf" %}
 
-#### **Agenda Items:**
+**Agenda Items:**
 
 #### **Housekeeping**&#x20;
 
@@ -165,6 +165,12 @@ Think about small proposal opportunities that benefit open communities.\
 
 #### **Presenting and updating writers workgroup processes**
 
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Process_Guild_-_Frame_1.jpg" alt=""><figcaption><p>Miro board of Writers Workgroup process mapping</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Process_Guild_-_Frame_1.pdf" %}
+PDF of Writers Workgroup process mapping on Miro board
+{% endfile %}
+
 **Description** - designing process map on the Task Lane Framework \
 **Decision** - Miro Board processes will not be implemented on Dework, but instead used as reference Dework \
 **Action** - Headelf will create 'Operations Meetings' task process on the Task Lane Framework \
@@ -175,8 +181,6 @@ Think about small proposal opportunities that benefit open communities.\
 #### **Next elegant steps** (general action items)&#x20;
 
 Finalize processes for demonstration.
-
-
 
 ### Strategy Guild
 
@@ -221,4 +225,26 @@ approx 1 hour 10 minutes.
 ## Thursday, 8th June 2023
 
 ## Friday, 9th June 2023
+
+### Video Workgroup
+
+#### Facilitator:&#x20;
+
+Rojo
+
+#### Present:&#x20;
+
+Rojo, Sucren, Agus, Lilycupcake, slysyl, Stephen, Vanessa
+
+[Dework task for the meeting](https://app.dework.xyz/singularitynet-ambas/marketing-videos-94111?taskId=132a1c42-4d51-44e4-bd55-06201c42b49f)&#x20;
+
+#### Meeting notes:
+
+In this meeting we:
+
+&#x20;\- Discussed how to use Summon and Crystal for proposal voting.\
+&#x20;\- Discussed some of the issues with Summon, and planned to try Crystal this week.\
+&#x20;\- Discussed making videos about Sophiaverse collaboratively.\
+&#x20;\- Discussed Agus’ proposal to do social media management.\
+&#x20;\- Mentioned Sucren’s script and planned to suggest it to members.
 
