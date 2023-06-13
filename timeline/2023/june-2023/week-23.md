@@ -1,7 +1,5 @@
 # Week 23
 
-##
-
 ## Monday, 5th June 2023
 
 ### Education Guild
@@ -232,7 +230,7 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 #### **Meeting notes:**
 
-[**https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10**](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10)&#x20;
 
 <figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.jpg" alt=""><figcaption><p>meeting Miro board</p></figcaption></figure>
 
