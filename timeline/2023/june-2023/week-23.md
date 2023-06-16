@@ -137,6 +137,10 @@ Think about small proposal opportunities that benefit open communities.\
 
 ## Wednesday, 7th June 2023
 
+### Archive Workgroup
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/32" %}
+
 ### Process Modelling WorkGroup
 
 #### Meeting summary
@@ -147,7 +151,7 @@ Think about small proposal opportunities that benefit open communities.\
 
 **Video Summary:** [https://youtu.be/FpqPCyHQPQM](https://youtu.be/FpqPCyHQPQM)&#x20;
 
-<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18 (1).jpg" alt=""><figcaption><p>image of meeting Miro board</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.jpg" alt=""><figcaption><p>image of meeting Miro board</p></figcaption></figure>
 
 {% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18 (1).pdf" %}
 
@@ -232,7 +236,7 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 [https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764555508816842\&cot=10)&#x20;
 
-<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16 (1).jpg" alt=""><figcaption><p>meeting Miro board</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.jpg" alt=""><figcaption><p>meeting Miro board</p></figcaption></figure>
 
 {% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16 (1).pdf" %}
 PDF of meeting Miro board
