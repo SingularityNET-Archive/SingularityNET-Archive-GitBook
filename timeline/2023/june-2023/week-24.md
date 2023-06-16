@@ -134,41 +134,81 @@ We focus on creating educational project-based learning material for Dework. One
 PDF of this meeting's Miro board
 {% endfile %}
 
-#### **Intro Video:**&#x20;
+**Intro Video:**&#x20;
 
 [https://youtu.be/B2t53mukhwo](https://youtu.be/B2t53mukhwo)&#x20;
 
 #### **Agenda Items**&#x20;
 
-**Workspace**&#x20;
+**1) Workspace**&#x20;
 
 **Description -** Development workspace to update website \
 **Decision -** for the first updates will be using localhost to draft content to website \
 **Action -** Update the website with markdown files before next workshop session \
 **Insight -** Gimbalabs is working on Andamio architecture automation&#x20;
 
-#### **Markdown Files**&#x20;
+#### **2) Markdown Files**&#x20;
 
 **Description -** Markdown is a lightweight markup language to add formatting elements to plaintext text documents.\
 **Action -** Create Google Form to capture requirements expected we expect from markdown files that are uploaded to website\
 **Action -** Include opportunity to opt in into workgroup activity in the Google Form \
 **Insight -** [https://kenbod.github.io/markdown\_github\_01/basics.html](https://kenbod.github.io/markdown\_github\_01/basics.html)&#x20;
 
-#### **PBL Development stages**&#x20;
+#### **3) PBL Development stages**&#x20;
 
 **Description -** An estimated roadmap to develop one module of content to in an effective impactful way \
 **Action -** Distribute module tasks asynchronously \
 **Insight -** One module may take around 6 weeks from creation to completion with the workload of estimated 8 hours (does not include 3 meetings we use for review and feedback collection)&#x20;
 
-#### **Menus and navigation?**&#x20;
+#### **4) Menus and navigation?**&#x20;
 
 **Description -** How do we want to organize our menus and navigation?\
 **Insight -** After we have completed Dework PBL module we should look into how we want to navigate between the content that other workgroups in different communities create&#x20;
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **5) Next elegant steps** (general action items)&#x20;
 
 Tevo will work on newly created action items as a priority \
 Next session will be held 28.06.2023 13:00 UTC (same link).
+
+### **Process Modelling Workgroup**
+
+#### **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557227007063\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557227007063\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_19_1.jpg" alt=""><figcaption><p>Image of this meeting's Miro board</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_19_1.pdf" %}
+PDF of this meeting's Miro board
+{% endfile %}
+
+#### **Writers WG Process Video:**&#x20;
+
+[https://youtu.be/54EHwFBx8zk](https://youtu.be/54EHwFBx8zk)&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **1) Housekeeping**&#x20;
+
+**Description -** Process Modelling Workgroup internal tasks \
+**Demonstration -** Use Process Modelling Dework Task to recognize time it takes to model process \
+**Insight -** Slate signed up to become Process Modelling Workgroup facilitator last week and has been added to the queue for meeting prep and summary&#x20;
+
+#### **2) Presenting and updating writers workgroup processes**&#x20;
+
+**Description -** Presenting process map on the Task Lane Framework \
+**Action -** Tevo to refine Publishing process \
+**Insight -** currently 39h to get out 1 article. \
+**Insight -** Still no newsletter, but we made a process for it. \
+**Learning -** Possible publishing role, right now a scribbler is handling it.&#x20;
+
+#### **3) Next elegant steps** (general action items)&#x20;
+
+Identify next workgroup to create process model and do some housekeeping.
 
 ### Incubation Workgroup & Strategy Guild
 
@@ -192,7 +232,7 @@ Ideating on minimum requirements to be an Ambassador and the Q3 Budget.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 1 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -221,5 +261,42 @@ We then dived into the Q3 Budget and broke it into sections. Each section had Pr
 Certain parts of the budget, like Round Table, Mentors, and Show Assistance, could be looped back into the Ambassador and Task percentages.
 
 ## Thurs 15th June 2023&#x20;
+
+### Treasury Guild
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557228104766\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557228104766\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.jpg" alt=""><figcaption><p>image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.pdf" %}
+PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Video Summary:**&#x20;
+
+[https://youtu.be/eI17jUELd6E](https://youtu.be/eI17jUELd6E)&#x20;
+
+#### **Agenda Items**&#x20;
+
+**1) Treasury Budget Rules**&#x20;
+
+**Description -** Ideation and clarification how are we going to manage rewards going forward \
+**Decision -** Treasury is split predictable fund requirements and unpredictable fund requirements \
+**Decision -** Predictable Fund Requirements split into two categories: Workgroups/Guilds and Roles \
+**Decision -** Treasury Guild will no longer audit individual tasks under 100 USD \
+**Decision -** If an individual task is 100 USD or more, Treasury Guild will check if the Task creator or reviewer has Ambassador or Workgroup Lead role; if not, reward distribution will be skipped and audited tag removed.\
+**Action -** Organize existing budget requiring elements (workgroups, guild, roles, etc) under respective fund requirements \
+**Insight -** Predictable Fund Requirements \
+**Insight -** Adjusting Tooling to 0.5% of budget from 5% to match with expected requirement&#x20;
+
+#### **2) Next elegant steps** (general action items)&#x20;
+
+Continue treasury discussions and refine each predictable fund down to specific rule
 
 ## Fri 16th June 2023
