@@ -1,8 +1,10 @@
 ---
-description: 29th May 2023 to 4th June 2023
+description: Monday, 29th May to Friday, 2nd June 2023
 ---
 
 # Week 22
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1573702148" %}
 
 ## Monday 29th May 2023
 
@@ -209,7 +211,7 @@ Video\_Summary pending&#x20;
 
 Process workgroup will model processes for 5 discovered activity areas (onboarding, meeting ops, publishing/promotion, article creation, results reporting)
 
-## Thursday 1st May 2023
+## Thursday 1st June 2023
 
 ### Onboarding Workgroup
 
@@ -243,7 +245,7 @@ A Miro board to be developed showing the process/ steps of onboarding Onboarding
 
 Agenda Items not discussed would be moved over to the next meeting.
 
-## Friday 2nd May 2023
+## Friday 2nd June 2023
 
 ### Video Workgroup
 
