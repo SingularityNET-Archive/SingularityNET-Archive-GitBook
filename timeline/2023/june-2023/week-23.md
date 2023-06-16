@@ -147,9 +147,9 @@ Think about small proposal opportunities that benefit open communities.\
 
 **Video Summary:** [https://youtu.be/FpqPCyHQPQM](https://youtu.be/FpqPCyHQPQM)&#x20;
 
-<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.jpg" alt=""><figcaption><p>image of meeting Miro board</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18 (1).jpg" alt=""><figcaption><p>image of meeting Miro board</p></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.pdf" %}
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18 (1).pdf" %}
 
 **Agenda Items:**
 
