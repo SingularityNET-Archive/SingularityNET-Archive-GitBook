@@ -125,7 +125,57 @@ PDF of this meeting's Miro board
 #### **Next elegant steps** (general action items)&#x20;
 
 Tevo will work on newly created action items as a priority \
-Next session will be held 28.06.2023 13:00 UTC (same link)&#x20;
+Next session will be held 28.06.2023 13:00 UTC (same link).
+
+### Incubation Workgroup & Strategy Guild
+
+#### Host(s):&#x20;
+
+Cran, Headelf
+
+**Attendees:**&#x20;
+
+cran, sucrenspice, rojo, slysyl, headelf, stephen, felix, slate
+
+#### Agenda Items:&#x20;
+
+Ideating on minimum requirements to be an Ambassador and the Q3 Budget.
+
+#### Length of Meeting:&#x20;
+
+2 hrs
+
+<figure><img src="../../../.gitbook/assets/Ambassadors proposed budget.png" alt=""><figcaption><p>Image of the proposed new budget</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 3 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 4.png" alt=""><figcaption><p>Images from this meeting's Miro board</p></figcaption></figure>
+
+</div>
+
+#### Goal and or Action Items:&#x20;
+
+Requirements to be an Ambassador and Q3 Budget ideation require more hashing out in next week's meeting
+
+#### Summary:&#x20;
+
+We started the meeting ideating on minimum requirements to become an Ambassador. Ideas were brought up like creating a SNET Ambassador Token similar to the function of Gimbals that represents contribution, and having a minimum threshold. The conversation on this topic throughout the meeting was brought up a few times. Should there be other roles besides Ambassadors? What if someone wants to just contribute content creation and doesn't want to mentor, attend events, or represent the community?
+
+We then dived into the Q3 Budget and broke it into sections. Each section had Pros, Cons, Thoughts & Ideas.
+
+Certain parts of the budget, like Round Table, Mentors, and Show Assistance, could be looped back into the Ambassador and Task percentages.
 
 ## Thurs 15th June 2023&#x20;
 
