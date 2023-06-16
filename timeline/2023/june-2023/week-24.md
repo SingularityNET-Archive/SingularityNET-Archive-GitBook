@@ -73,7 +73,59 @@ PDF of Miro board for this meeting
 
 Think about when you want to have Summer vacation?
 
-## Weds 14th June 2023&#x20;
+## Weds 14th June 2023
+
+### **Dework PBL Workgroup**
+
+#### **Context:**&#x20;
+
+We focus on creating educational project-based learning material for Dework. One of the main platform being used for this project is Andamio.&#x20;
+
+#### **Meeting notes:**
+
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764556413811937\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764556413811937\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_19.jpg" alt=""><figcaption><p>Image of this meeting's Miro board</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_19.pdf" %}
+PDF of this meeting's Miro board
+{% endfile %}
+
+#### **Intro Video:**&#x20;
+
+[https://youtu.be/B2t53mukhwo](https://youtu.be/B2t53mukhwo)&#x20;
+
+#### **Agenda Items**&#x20;
+
+**Workspace**&#x20;
+
+**Description -** Development workspace to update website \
+**Decision -** for the first updates will be using localhost to draft content to website \
+**Action -** Update the website with markdown files before next workshop session \
+**Insight -** Gimbalabs is working on Andamio architecture automation&#x20;
+
+#### **Markdown Files**&#x20;
+
+**Description -** Markdown is a lightweight markup language to add formatting elements to plaintext text documents.\
+**Action -** Create Google Form to capture requirements expected we expect from markdown files that are uploaded to website\
+**Action -** Include opportunity to opt in into workgroup activity in the Google Form \
+**Insight -** [https://kenbod.github.io/markdown\_github\_01/basics.html](https://kenbod.github.io/markdown\_github\_01/basics.html)&#x20;
+
+#### **PBL Development stages**&#x20;
+
+**Description -** An estimated roadmap to develop one module of content to in an effective impactful way \
+**Action -** Distribute module tasks asynchronously \
+**Insight -** One module may take around 6 weeks from creation to completion with the workload of estimated 8 hours (does not include 3 meetings we use for review and feedback collection)&#x20;
+
+#### **Menus and navigation?**&#x20;
+
+**Description -** How do we want to organize our menus and navigation?\
+**Insight -** After we have completed Dework PBL module we should look into how we want to navigate between the content that other workgroups in different communities create&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Tevo will work on newly created action items as a priority \
+Next session will be held 28.06.2023 13:00 UTC (same link)&#x20;
 
 ## Thurs 15th June 2023&#x20;
 
