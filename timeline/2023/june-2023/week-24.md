@@ -24,6 +24,49 @@ This week's Educational WG meeting was replaced by a CIP-1694 community workshop
 
 ## Tues 13th June 2023&#x20;
 
+### Governance Workgroup
+
+#### Host:&#x20;
+
+Felix Weber&#x20;
+
+#### Participants:&#x20;
+
+@CallyFromAuron, @Stephen \[QADAO], @Kenric, @Peter E, @Slate&#x20;
+
+#### Context:
+
+Weekly Governance Workgroup call to discuss and align on previous and next steps.&#x20;
+
+#### Notes/slides by @CallyFromAuron at:&#x20;
+
+{% embed url="https://docs.google.com/presentation/d/1da8VHTwPlY04jR9aMrsfcc8FH7kH2_2bBmi9Ka-LYeQ/edit?usp=sharing" %}
+Slides containing notes from this meeting
+{% endembed %}
+
+#### Notes:
+
+**1) Check-in** on previous tasks in the Dework space recognizing the yet low engagement from community members taking initiative on GovWG tasks. This evolved into a conversation about the lack of community capacity within the, as yet, fairly small singularitynet ecosystem (compared to larger DLT communities such as Cardano, Polkadot, Mina etc) Important takeaway from this part is that we recognized the need for collaboration on governance topics with other DLT ecosystems, which would allow us to take a more chain-agnostic approach and to scale up community governance capacity through collaboration.&#x20;
+
+**2) Governance baselines** We discussed initiatives to start building some very first basic research on SingularityNET’s governance baselines. This underpins our emerging thinking on “experimental” approaches - without an understanding of the baselines (i.e. what we have now), we have nothing to compare with when we change something. So defining baselines would need to include both factual and qualitative info What are the elements of “governance” in general? What do we include when thinking about how sNet is governed? What is the "status quo" of governance at SingularityNET? How well is it working, and what effects is it having? Further, we work on a first Problem Statement on as-yet-missing frameworks and processes to conduct, document, measure and archive experiments within SNET.&#x20;
+
+[https://docs.google.com/document/d/1pORhk41M5sSHn6drCxoynEaDgVK5ITfcCgEFpS1aBw0/edit#heading=h.9r9pscdc5qvk](https://docs.google.com/document/d/1pORhk41M5sSHn6drCxoynEaDgVK5ITfcCgEFpS1aBw0/edit#heading=h.9r9pscdc5qvk)&#x20;
+
+A Pol.is survey aims to get additional insights and feedback: [https://pol.is/85b5cmb8cx](https://pol.is/85b5cmb8cx)&#x20;
+
+**3) Ambassador Governance Framework Document** We briefly checked in on the cleaned up version of the Ambassador Governance Framework Document. Governance Framework - SingularityNET Ambassadors&#x20;
+
+Ideas on next steps for the document include: \
+Sending out the Document and ask community to mark the parts which could be deleted from the document for now, with the goal to get the document a bit smaller. \
+Planning a public event to work on resolving the comments in the original doc. The top 4 or 5 issues (i.e. the ones with the most people commenting) would have its own breakout room, and one of us would facilitate discussion, using the “cluster” of comments on that issue as a starting point.&#x20;
+
+**4) Action Items**
+
+* Start research on the current governance at SingularityNET
+* Start research on the best fits for later collaborations with other DLT ecosystems and communities
+* Start planning an event to work on the comments in the Governance Framework document
+* Work on the open tasks from last week
+
 ### Process Guild
 
 #### **Context:**&#x20;
