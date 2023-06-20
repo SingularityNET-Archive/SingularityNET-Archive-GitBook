@@ -77,7 +77,7 @@ We prioritize critical Ambassador Activities and cover process changes
 
 &#x20;[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764556121566349\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764556121566349\&cot=10)&#x20;
 
-<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18 (1).jpg" alt=""><figcaption><p>image of this meeting's Miro board</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.jpg" alt=""><figcaption><p>image of this meeting's Miro board</p></figcaption></figure>
 
 {% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_18.pdf" %}
 PDF of Miro board for this meeting
@@ -232,7 +232,7 @@ Ideating on minimum requirements to be an Ambassador and the Q3 Budget.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 1 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -272,7 +272,7 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 [https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557228104766\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557228104766\&cot=10)&#x20;
 
-<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16 (1).jpg" alt=""><figcaption><p>image of Miro board for this meeting</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.jpg" alt=""><figcaption><p>image of Miro board for this meeting</p></figcaption></figure>
 
 {% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_16.pdf" %}
 PDF of Miro board for this meeting

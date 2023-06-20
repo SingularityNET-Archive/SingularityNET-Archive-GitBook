@@ -8,6 +8,10 @@ description: >-
 
 <figure><img src=".gitbook/assets/Screenshot from 2023-04-15 00-46-38.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+This project is managed via our SingularityNET-Archive [Project Board](https://github.com/orgs/SingularityNET-Archive/projects/1/views/1)
+{% endhint %}
+
 ## Welcome
 
 SingularityNET-Archive contains a history of the activities of the SingularityNET Ambassador Program.&#x20;
@@ -36,4 +40,3 @@ Thank you for visiting our GitBooks, and we look forward to your contributions!
 
 To suggest changes to this message please comment in this [GitHub discussion thread](https://github.com/orgs/SingularityNET-Archive/discussions/2#discussion-5052599).
 
-This project is managed via our SingularityNET-Archive [Project Board](https://github.com/orgs/SingularityNET-Archive/projects/1/views/1)
