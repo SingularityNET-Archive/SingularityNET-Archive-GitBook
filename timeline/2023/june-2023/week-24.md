@@ -242,7 +242,7 @@ Ideating on minimum requirements to be an Ambassador and the Q3 Budget.
 
  
 
-<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 2.png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -250,7 +250,7 @@ Ideating on minimum requirements to be an Ambassador and the Q3 Budget.
 
  
 
-<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 4 (1).png" alt=""><figcaption><p>Images from this meeting's Miro board</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 4.png" alt=""><figcaption><p>Images from this meeting's Miro board</p></figcaption></figure>
 
 </div>
 
