@@ -1,4 +1,10 @@
+---
+description: 12th June to 18th June 2023
+---
+
 # Week 24
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1600915559" %}
 
 ## Mon 12th June 2023
 
@@ -236,7 +242,7 @@ Ideating on minimum requirements to be an Ambassador and the Q3 Budget.
 
  
 
-<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/incubation 14Jun2023 miro 2 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
