@@ -8,7 +8,9 @@ Placeholder link back issue
 
 ## Monday, 19th June 2023
 
-### Workgroup Meeting
+### Education Guild
+
+
 
 
 
@@ -17,6 +19,56 @@ Placeholder link back issue
 
 
 ## Wednesday, 21st June 2023
+
+### Archive Workgroup
+
+### Process Modelling Workgroup
+
+#### **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+#### **Meeting notes:**&#x20;
+
+Miro\_Link TBD&#x20;
+
+#### **Video Summary:**&#x20;
+
+Video\_Summary TBD&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **Feedback from Writers workgroup**&#x20;
+
+We aren't here to force process change ... but instead, to model existing process ... plus small recommended refinements based on our experience and best practices.\
+**Goal**: client workgroups are engaged in the modeled processes \
+**Dework Action** - get feedback from Writers Workgroup&#x20;
+
+#### **Candidate workgroups for process modeling**&#x20;
+
+**Governance workgroup?**\
+**Decision:** That group is still a bit early; not yet fully formed&#x20;
+
+**Process workgroup?** we can model our own processes prefer to take external processes at higher priority \
+**Decision**: defer&#x20;
+
+**Quarterly Ambassador Budget creation process?** \
+That activity is still in progress Want to address soon, while the experience and learnings are still fresh in minds. \
+**Decision**: likely next priority&#x20;
+
+**Modeling Workgroup-formation process?** \
+not a working group per se, but... we can provide one or more models that a working group can follow to achieve effective formation possible that different types of workgroups can have different processes e.g. Writers workgroup vs Governance workgroup \
+**Decision**: This will be our current priority. \
+**Insight:** meta analysis can be useful&#x20;
+
+**Learning**&#x20;
+
+**Administrative** Today's meeting not prepared well. Miro frame needs to be ready in meeting board! ...along with other checklist items \
+**Dework Action**: Update task templates for prep and summary activities&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+@Slate will arrange meeting board and other prep activities for next week's meeting.
 
 
 
