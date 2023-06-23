@@ -57,8 +57,6 @@ PDF of Miro board for this meeting
 Reorganize Ambassador tasks to new view to include latest learnings\
 Prepare async voting to try to get more collective insight on tasks and see if there are differences.
 
-
-
 ## Wednesday, 21st June 2023
 
 ### Archive Workgroup
@@ -160,6 +158,18 @@ Share your insight through upcoming Google Form (will be shared in Treasury Guil
 
 
 ## Friday, 23rd June 2023
+
+### Video workgroup
+
+#### Attendees:&#x20;
+
+Tevo, Rojo, lilycupcake
+
+#### In this meeting we:&#x20;
+
+* Made a short review about last month’s growth and KPIs review.&#x20;
+* Talked about the future vote for Agus’ video.&#x20;
+* Worked on the KPI sheet with Tevo.
 
 
 
