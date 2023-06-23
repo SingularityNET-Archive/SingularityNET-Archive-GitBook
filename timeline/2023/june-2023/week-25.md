@@ -84,20 +84,26 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 [https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557809642282\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557809642282\&cot=10)&#x20;
 
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_21.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_21.pdf" %}
+PDF of Miro board for this meeting
+{% endfile %}
+
 #### **Video Summary:**&#x20;
 
 {% embed url="https://youtu.be/e-uIi7x5vMw" %}
 
 #### **Agenda Items**&#x20;
 
-#### **Ambassador Role**&#x20;
+**1) Ambassador Role**&#x20;
 
 **Description -** How are we going to reward Ambassador Role going forward?\
 **Action -** Create Google form to collect async information to sense direction\
 **Insight -** We have created a very mix role and its unclear how to move forward with the role \
 **Learning -** Workgroup lead role should get the ability to request funds not ambassadors&#x20;
 
-#### **Fund Request Process**&#x20;
+#### **2) Fund Request Process**&#x20;
 
 **Description -** new process to help distribute SingularityNET Ambassador budget more effectively and faster \
 **Decision -** the feature can only be used by workgroup leads \
@@ -105,7 +111,7 @@ How to structure Ambassador rules around payments, tasks and anything related to
 **Decision -** There has to be proof of where the rewards will be allocated if request is 100$ or more \
 **Insight -** Fund Request Doc: [https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit?usp=sharing](https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit?usp=sharing)
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **3) Next elegant steps** (general action items)&#x20;
 
 We continue to ponder changes and rules for Ambassador Program budget.\
 Share your insight through upcoming Google Form (will be shared in Treasury Guild channel), how to move forward with Ambassador role.
