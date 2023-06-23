@@ -12,9 +12,50 @@ Placeholder link back issue
 
 
 
-
-
 ## Tuesday, 20th June 2023
+
+### Process Guild
+
+#### **Context:**&#x20;
+
+We Prioritize critical Ambassador Activities and cover process changes
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557832254244\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557832254244\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_24.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_24.pdf" %}
+PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Agenda Items**&#x20;
+
+**1) Tested ABCD + F to-do list model**&#x20;
+
+**Description -** A new model to help us organize tasks \
+**Decision -** We continue using ABCF + F model for future prioritizations\
+**Action -** Include a different process to differentiate done tasks before adding them to voting \
+**Insight -** a good way to discuss and coordinate \
+**Insight -** silly to vote on things that are already done \
+**Learning -** Starting from checking the most aligned immediate tasks and delegating tasks helps us to prioritize activities \
+**Learning -** Priority also depends on capacity \
+**Insight -** Agendas and tasks should have some basic requirements to be able to determine the urgency for discussion&#x20;
+
+#### **2) Live vote demo of Summon platform**&#x20;
+
+**Description -** testing DAO tools to engage participants and contributors in decision-making models \
+**Decision -** We discontinue testing and using the Summon platform \
+**Action -** Try different platforms for decision making \
+**Insight -** It's not an open source to improve our use cases \
+**Learning -** can't export data effectively \
+**Learning -** Confusing user experience&#x20;
+
+#### **3) Next elegant steps** (general action items)&#x20;
+
+Reorganize Ambassador tasks to new view to include latest learnings\
+Prepare async voting to try to get more collective insight on tasks and see if there are differences.
 
 
 
