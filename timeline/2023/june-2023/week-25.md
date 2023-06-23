@@ -74,6 +74,42 @@ not a working group per se, but... we can provide one or more models that a work
 
 ## Thursday, 22nd June 2023
 
+### Treasury Guild
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557809642282\&cot=10](https://miro.com/app/board/uXjVMDcNWXw=/?moveToWidget=3458764557809642282\&cot=10)&#x20;
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/e-uIi7x5vMw" %}
+
+#### **Agenda Items**&#x20;
+
+#### **Ambassador Role**&#x20;
+
+**Description -** How are we going to reward Ambassador Role going forward?\
+**Action -** Create Google form to collect async information to sense direction\
+**Insight -** We have created a very mix role and its unclear how to move forward with the role \
+**Learning -** Workgroup lead role should get the ability to request funds not ambassadors&#x20;
+
+#### **Fund Request Process**&#x20;
+
+**Description -** new process to help distribute SingularityNET Ambassador budget more effectively and faster \
+**Decision -** the feature can only be used by workgroup leads \
+**Decision -** Treasury Guild members add themselves to reviewers while if they audit fund request \
+**Decision -** There has to be proof of where the rewards will be allocated if request is 100$ or more \
+**Insight -** Fund Request Doc: [https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit?usp=sharing](https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit?usp=sharing)
+
+#### **Next elegant steps** (general action items)&#x20;
+
+We continue to ponder changes and rules for Ambassador Program budget.\
+Share your insight through upcoming Google Form (will be shared in Treasury Guild channel), how to move forward with Ambassador role.
+
 
 
 ## Friday, 23rd June 2023
