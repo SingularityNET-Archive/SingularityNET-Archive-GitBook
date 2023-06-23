@@ -14,9 +14,17 @@ Placeholder link back issue
 
 ## Tuesday, 20th June 2023
 
+### Governance Workgroup
+
+This week's meeting was small and informal, so it was not recorded
+
+### Ambassador Town Hall
+
+Coming soon
+
 ### Process Guild
 
-#### **Context:**&#x20;
+**Context:**&#x20;
 
 We Prioritize critical Ambassador Activities and cover process changes
 
@@ -113,6 +121,14 @@ not a working group per se, but... we can provide one or more models that a work
 
 @Slate will arrange meeting board and other prep activities for next week's meeting.
 
+### Incubation WorkGroup
+
+coming soon
+
+### Strategy Guild
+
+coming soon
+
 
 
 ## Thursday, 22nd June 2023
@@ -159,6 +175,10 @@ PDF of Miro board for this meeting
 We continue to ponder changes and rules for Ambassador Program budget.\
 Share your insight through upcoming Google Form (will be shared in Treasury Guild channel), how to move forward with Ambassador role.
 
+### Deepfunding Community Governance
+
+coming soon
+
 
 
 ## Friday, 23rd June 2023
@@ -174,6 +194,10 @@ Tevo, Rojo, lilycupcake
 * Made a short review about last month’s growth and KPIs review.&#x20;
 * Talked about the future vote for Agus’ video.&#x20;
 * Worked on the KPI sheet with Tevo.
+
+### Writers' Workgroup
+
+Coming soon
 
 
 
