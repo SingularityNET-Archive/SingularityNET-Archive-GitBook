@@ -69,7 +69,11 @@ Establishing or maintaining processes to help community members to efficiently c
 
 #### **Meeting notes:**&#x20;
 
-Miro\_Link TBD&#x20;
+<figure><img src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_25.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/SingularityNET_-_Ambassador_Program_meeting_Notes_-_Frame_25.pdf" %}
+PDF of Miro board for this meeting
+{% endfile %}
 
 #### **Video Summary:**&#x20;
 
