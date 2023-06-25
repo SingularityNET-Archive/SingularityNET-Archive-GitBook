@@ -85,7 +85,7 @@ PDF of Miro board for this meeting
 
 #### **Video Summary:**&#x20;
 
-Video\_Summary TBD&#x20;
+{% embed url="https://youtu.be/mAO8q_NxSh0" %}
 
 #### **Agenda Items**&#x20;
 
