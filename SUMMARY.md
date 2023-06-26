@@ -55,6 +55,10 @@
     * [Week 19](timeline/2022/may-2022/week-19.md)
     * [Week 18](timeline/2022/may-2022/week-18.md)
 
+## Development
+
+* [Design](development/design.md)
+
 ## Links
 
 * [SingularityNET Links](links/singularitynet-links/README.md)
@@ -76,7 +80,3 @@
   * [LangChain - development framework](https://python.langchain.com/en/latest/index.html)
   * [Infranodus - network thinking](https://infranodus.com/)
   * [Read.ai - transcription tool](https://www.read.ai/)
-
-## Technical
-
-* [Design](technical/design.md)
