@@ -187,6 +187,8 @@ coming soon
 
 ### Video workgroup
 
+{% embed url="https://vw-snetambassadors.carrd.co/" %}
+
 #### Attendees:&#x20;
 
 Tevo, Rojo, lilycupcake
