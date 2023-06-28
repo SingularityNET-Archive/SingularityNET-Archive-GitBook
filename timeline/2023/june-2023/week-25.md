@@ -6,10 +6,9 @@ description: 19th June to 25th June 2023
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1600915559" %}
 
-##
-
 ## Monday, 19th June 2023
-<hr>
+
+
 
 ### Education Guild
 
