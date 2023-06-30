@@ -147,6 +147,8 @@ Think about small proposal opportunities that benefit open communities.\
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/32" %}
 
+{% embed url="https://youtu.be/0bKv96ci4_Y" %}
+
 ### Process Modelling WorkGroup
 
 #### Meeting summary
