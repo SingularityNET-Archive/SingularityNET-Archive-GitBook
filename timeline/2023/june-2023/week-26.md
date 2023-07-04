@@ -134,19 +134,89 @@ The Draft outlines what a WG/Guild Lead is, Observable Responsibilities, and How
 
 ### Onboarding Workgroup
 
+#### HOST(S):&#x20;
+
+SucrenSpice&#x20;
+
+#### ATTENDEES:&#x20;
+
+SucrenSpice, Peter, Headelf, Vani&#x20;
+
+#### LENGTH OF MEETING:&#x20;
+
+1HR&#x20;
+
+#### AGENDA ITEMS:
+
+#### 1) Process flow for Onboarding&#x20;
+
+see [https://miro.com/welcomeonboard/d0JrMERkRzYyUEVReFlqQ2x0cEtxRGpIM0hLNjNSU3A5Q1VQMHVSenRwUlRaN2hHZWlXWFRBWldJNWE2OFpjNXwzNDU4NzY0NTQzMDc1MTU0ODE1fDI=?share\_link\_id=516527842800](https://miro.com/welcomeonboard/d0JrMERkRzYyUEVReFlqQ2x0cEtxRGpIM0hLNjNSU3A5Q1VQMHVSenRwUlRaN2hHZWlXWFRBWldJNWE2OFpjNXwzNDU4NzY0NTQzMDc1MTU0ODE1fDI=?share\_link\_id=516527842800)
+
+#### 2) Channel for new members in the program(Great Filter)
+
+#### 3) Interview / Quiz for new members
+
+#### GOAL AND OR ACTION ITEMS
+
+1. The process flow for onboarding was analyzed and we came to a conclusion that the introductions channel might not be needed if new applicants to the program were directed to the sign-up form in the getting started channel. This channel should contain all a new member needs to know to get started and contribute to the program.
+2. A discord channel for new members is not necessary. New members are to be directed to join the guild or workgroup they have interest in. The workgroup lead is responsible for welcoming the member into the group and conducting an interview/test or assigning a task if it is a requirement to be a member of the workgroup.
+3. Information about the various workgroups and updates on what they are currently working in should be pinned in the respective channels. This would help new members have a sense of direction.
+4. Vani and SucrenSpice would work together to update the onboarding process in the Gitbook.
+
 ### Treasury Guild
 
 ### Stake Pool Workgroup
 
 ### DeepFunding Town Hall
 
+#### Host(s):&#x20;
 
+Rojo, Felix, Cran&#x20;
 
+#### &#x20;Attendees:&#x20;
 
+Jan Horlings, Rafael Presa, Peter Elfink, Curtis Myers (DCypher), Kenric Nelson & William Thistleton (Photrek), Ubio Obu (Facilitators Collective), Tommy Frey (SNET Ambassador), Guillermo.
+
+#### Video recording: (see [https://www.youtube.com/@deepfunding](https://www.youtube.com/@deepfunding))
+
+{% embed url="https://youtu.be/uQmpJX0YGcA" %}
+
+#### At this DeepFunding Town Hall, we had:&#x20;
+
+#### 1) Updates from DeepFunding Team
+
+* announcement of DeepFunding round 3 in 2 weeks from now
+* announcement of new engagements at DeepFunding through different review activities:
+
+> * Proposal Review by previously awarded proposers
+> * Proposal Eligibility review by DeepFunding Community
+> * Awarded Proposer Milestone review by DeepFunding Community
+
+#### 2) General discussion about potential benefits of cross innovation fund collaborations&#x20;
+
+where present participants seem pretty aligned that such initiatives would be indeed helpful and could bring strong benefits.
+
+#### 3) End of Round 2
+
+This was the last DeepFunding Town Hall funded by DeepFunding at Round 2. Wrapping up the proposal now and preparing a close out report.
+
+#### Length of Meeting:&#x20;
+
+2.5 hrs&#x20;
 
 ## Friday 30th June 2023
 
 ### Video Workgroup
+
+#### Attendees:&#x20;
+
+Rojo, Lilycupcake, Agus, Sucren
+
+#### In this meeting we:&#x20;
+
+* Discussed workgroup progress (projects, social media,…)&#x20;
+* Discussed Agus’ work on social media management&#x20;
+* Discussed Lily’s progress on the onboarding video and decided to put it up for a vote by tomorrow morning.
 
 ### Writers' Workgroup
 
