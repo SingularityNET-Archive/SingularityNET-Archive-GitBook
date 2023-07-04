@@ -85,15 +85,50 @@ hi-res PDF of Miro board for this meeting
 
 ### Process Modelling Workgroup
 
-### Incubation Workgroup
+### Incubation Workgroup and Strategy Guild
 
-### Strategy Guild
+#### Host(s):&#x20;
 
+Cran, Headelf&#x20;
 
+#### Attendees:&#x20;
 
+cran, sucrenspice, rojo, peter, headelf, tevo, felix, eszter&#x20;
 
+#### Length of Meeting:&#x20;
 
+2 hrs
 
+#### Agenda Items:&#x20;
+
+#### 1) Go over the Simplified Q3 Budget and WG Lead Doc&#x20;
+
+**Goal and/or Action Items:** Continue discussion on Q3 Budget 30min prior to next Treasury Guild meeting on 29th June.\
+**Brief Summary:** We started the meeting with headelf providing an overview on last week's discussion which included the overview of the Simplified Q3 Budget [https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit?pli=1#heading=h.chpwdzvdx69m](https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit?pli=1#heading=h.chpwdzvdx69m) \
+\
+DeWork Template for Fund Requests: [https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=1e4016db-0f99-4f03-ba23-8a70ac4e8483](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=1e4016db-0f99-4f03-ba23-8a70ac4e8483) \
+\
+We outlined Pros, Cons, Thoughts & Ideas via Miro (see images below)
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Image 1, Incubation Strategy 28th June 2023.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Image 2, Incubation and Strategy 28th June 2023.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Image 3, Incubation and Strategy, 28th June 2023.png" alt=""><figcaption><p>Images from this meeting's Miro board</p></figcaption></figure>
+
+</div>
+
+Discussion highlights included what the malleability of a Fund Request could be and how proposals fit into this outline. Seemed to be an agreeance that the simplified budget made sense although not everything is fully hashed out quite yet.&#x20;
+
+**WG Leads Draft:** [https://docs.google.com/document/d/1DZK75HYvGKdhdj7TwO1EfPXrSwKfY7VVreeECToDh78/edit#heading=h.qh9qlksztg9p](https://docs.google.com/document/d/1DZK75HYvGKdhdj7TwO1EfPXrSwKfY7VVreeECToDh78/edit#heading=h.qh9qlksztg9p) "The outlined text is not theoretical, rather looking back and simply identifies and formulates already existing knowledge, work and responsibilities which emerged though the previous months…. So, this document is more of an observation than a proposal as it does not introduce anything new to already observable items !"&#x20;
+
+The Draft outlines what a WG/Guild Lead is, Observable Responsibilities, and How to become a Lead. Some conversation also happened around introducing Rejuve into the program.
 
 ## Thursday 29th June 2023
 
