@@ -83,7 +83,85 @@ hi-res PDF of Miro board for this meeting
 
 ### Dework PBL Workgroup
 
+#### **Context:**&#x20;
+
+We focus on creating educational project-based learning material for Dework. One of the main platform being used for this project is Andamio&#x20;
+
+#### **Meeting notes:**
+
+&#x20;[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764557891891567\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764557891891567\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this session</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.pdf" %}
+Hi-res PDFof Miro board for this meeting
+{% endfile %}
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/FIJMAa5ZGc8" %}
+
+#### **Presentation Video:**
+
+{% embed url="https://youtu.be/gQ5BSDWs1z0" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Workgroup Roles**&#x20;
+
+**Description -** what roles stand out in the workgroup and who wants to take responsibility \
+**Decision -** Learning Administrative side will not be incentivized with AGIX\
+**Action -** Create PBL Workgroup Role in Discord \
+**Action -** Coordinate a workshop to set up a local environment \
+**Insight -** 4 people were interested in the administrative side of the Andamio platform.
+
+#### **2) markdown file requirements**&#x20;
+
+**Description -** reasoning of markdown file requirements and recommendations \
+**Decision -** After the first examples build a style guide \
+**Decision -** Temporarily we will upload pictures to Ambassador Google Drive and include the picture name as a template on the markdown text \
+**Insight -** Include links to different existing lessons if applicable \
+**Insight -** Once Repo is public we will collect pictures for our own repository.
+
+#### **3) Next elegant steps** (general action items)&#x20;
+
+Prepare the PBL Lesson draft for sharing in the next meeting. Most of the background knowledge can be found in Dework GitBook: [https://dework.gitbook.io/product-docs/guides-for-orgs/getting-started-on-dework](https://dework.gitbook.io/product-docs/guides-for-orgs/getting-started-on-dework) \
+Recreating Zoom link (be aware of the change)
+
 ### Process Modelling Workgroup
+
+#### **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of the Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1.pdf" %}
+Hi-res PDF of the Miro board for this meeting
+{% endfile %}
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=Bk-0YrdoNpQ" %}
+
+#### **Agenda Items**&#x20;
+
+**1) Workgroup Formation**&#x20;
+
+**Description -** What should the workgroup formation roadmap look like?\
+**Decision -** Workgroups have to have minimum requirements \
+**Decision -** Workgroups will be differentiated by types \
+**Action -** Search for potential guidelines from Mini Proposal Workshop templates \
+**Insight -** We identified 3 different workgroup types that have different requirements \
+**Learning -** 1 person workgroups are not sustainable&#x20;
+
+#### **2) Next elegant steps** (general action items)&#x20;
+
+Create a Matrix table for workgroup types and requirements.
 
 ### Incubation Workgroup and Strategy Guild
 
@@ -164,6 +242,60 @@ see [https://miro.com/welcomeonboard/d0JrMERkRzYyUEVReFlqQ2x0cEtxRGpIM0hLNjNSU3A
 4. Vani and SucrenSpice would work together to update the onboarding process in the Gitbook.
 
 ### Treasury Guild
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764557891461396\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764557891461396\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Treasury_Guild_-_Frame_28.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Treasury_Guild_-_Frame_28.pdf" %}
+hi-res PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Budget Rules**&#x20;
+
+**Description -** Strategy Guild introduced quarterly timeline for budget changes \
+**Decision -** We don't change budget distribution rules before quarter ends&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **1) Roles and rules**&#x20;
+
+**Description -** What roles have extra incentives or permissions related to Ambassador Treasury?\
+**Decision -** WorkGroup leads have permission to request funds from Ambassador Treasury \
+**Decision -** Ambassadors have permission to request funds from Ambassador Treasury \
+**Decision -** Each month Ambassador role gets fixed percent (17%) AGIX from Ambassador Treasury that is distributed between the members.\
+**Questions -** Should the Ambassador rewards be distributed at the start of the month or end? \
+**Insight -** There are currently 11 ambassadors in the Ambassador program\
+**Insight -** There is no defined way how to become Ambassador in Ambassador Program \
+**Insight -** for the next 3 months Ambassador Treasury limits treasury spending to 57,000 AGIX per month&#x20;
+
+#### **2) services and products**&#x20;
+
+**Description -** Services and Tools where we allocate a minimum amount of resources each month \
+**Decision -** Tooling costs will be asked through Fund Request \
+**Decision -** Tag the Fund Request with the label 'Tool Sub' (Tool Subscription) \
+**Insight -** You can read about Fund Request here: [https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit#heading=h.chpwdzvdx69m](https://docs.google.com/document/d/1mWpC6dKJffAq-q4d\_dtOEtKY60b\_5AiDPkUricsAT\_A/edit#heading=h.chpwdzvdx69m)&#x20;
+
+#### **3) Treasury Guild Audit checklist**&#x20;
+
+**Description -** Guiding activities to audit fund requests \
+**Decision -** Before each bundle transaction, Treasury Guild checks for reward blocks in the 'Ambassadors Only' channel. \
+**Decision -** With the consent of 3 Ambassadors or Workgroup Leads, a fund request can be blocked.\
+**Decision -** Saturday, Sunday and Monday fund requests that are over 500$ are not rewarded in the first following distribution meeting. \
+**Decision -** There has to be proof of requirements and deliverables where the fund request is over $100.\
+**Decision -** a fund request has to be created by Ambassador or Workgroup Lead.\
+**Decision -** At least 6 different Ambassadors or Workgroup Leads need to approve fund requests over $500.\
+**Insight -** Reward block is state where we should wait or discuss before we distribute the rewards that are blocked.
+
+#### **4) Next elegant steps** (general action items)&#x20;
+
+Ambassadors prepare to vote for decisions and rules.
 
 ### Stake Pool Workgroup
 
