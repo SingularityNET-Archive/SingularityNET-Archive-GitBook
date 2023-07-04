@@ -10,7 +10,7 @@ description: 19th June to 25th June 2023
 
 ## Monday, 19th June 2023
 
-***
+
 
 ### Education Guild
 
