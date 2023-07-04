@@ -216,7 +216,9 @@ Rojo, Lilycupcake, Agus, Sucren
 
 * Discussed workgroup progress (projects, social media,…)&#x20;
 * Discussed Agus’ work on social media management&#x20;
-* Discussed Lily’s progress on the onboarding video and decided to put it up for a vote by tomorrow morning.
+* Discussed Lily’s progress on the onboarding video and decided to put it up for a vote by tomorrow morning (Sat 30th June).
+* Discussed making a new video about using dework for onboarding purposes.
+* Discussed to make the weekly meetings a bit later to accommodate for other workgroup members.
 
 ### Writers' Workgroup
 
