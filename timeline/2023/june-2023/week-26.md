@@ -1,5 +1,5 @@
 ---
-description: 26th June to 2nd July
+description: 26th June to 2nd July 2023
 ---
 
 # Week 26
