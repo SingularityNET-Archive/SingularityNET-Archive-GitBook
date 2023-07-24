@@ -18,11 +18,13 @@ description: 10th July to 16th July 2023
 
 ### Wednesday 12th July 2023
 
-#### Archives Workgroup
+#### <mark style="color:red;">Archives Workgroup</mark>
 
 Not this week
 
-#### Process Modelling Workgroup
+***
+
+#### <mark style="color:red;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -55,7 +57,9 @@ Establishing or maintaining processes to help community members to efficiently c
 
 We continue hashing out matrix table.
 
-#### Incubation Workgroup and Strategy Guild
+***
+
+#### <mark style="color:red;">Incubation Workgroup and Strategy Guild</mark>
 
 #### Host(s):&#x20;
 
