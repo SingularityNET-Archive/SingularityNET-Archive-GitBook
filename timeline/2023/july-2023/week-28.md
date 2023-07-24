@@ -98,7 +98,54 @@ Miro (Team Link): [https://miro.com/app/board/uXjVMBZi88o=/?moveToWidget=3458764
 
 ### Thursday 13th July 2023
 
-#### Onboarding Workgroup
+#### <mark style="color:red;">Onboarding Workgroup</mark>
+
+#### **HOST(S**):&#x20;
+
+SucrenSpice&#x20;
+
+#### **ATTENDEES**:&#x20;
+
+SucrenSpice,Peter, Vani, Atmosphere&#x20;
+
+#### **LENGTH OF MEETING**:&#x20;
+
+1hr&#x20;
+
+#### **AGENDA:**
+
+* Intro and recap of last meeting
+* Feedback from to-do items
+* Onboarding - Problems and Solutions
+
+#### **SUMMARY Progress Report:**
+
+* Welcome video and How to use Dework video being done by the video workgroup are still in progress.
+* SNET Ambassador Gitbook and the Getting started channel are also undergoing some updates.
+
+**Onboarding Problems And Solutions**
+
+* Several causes were raised on why new applicants were not seen participating in workgroups and meetings.
+* Proffered solutions to these causes were equally given and are to be implemented in the coming days/weeks.
+
+#### **Miro Board Link:**&#x20;
+
+[https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14](https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14)&#x20;
+
+
+
+{% embed url="https://miro.com/app/board/uXjVM5jyehQ=/?cot=14&moveToWidget=3458764559340088151" %}
+
+#### **GOALS AND/OR ACTION ITEMS**
+
+1. Follow-up emails and one-on-one outreach to individual applicants on Discord.
+2. Invite new members to give feedback on the program.
+3. Update the “getting started” Discord channel to show clarity on how to get involved.
+4. Give roles on Discord after they show interest and participate.
+5. Invite new members to join the Pre-Townhall meeting for games/quiz night.
+6. Discuss starting a design/graphics workgroup in the next Ambassadors workgroup meeting.
+
+***
 
 #### Treasury Guild
 
