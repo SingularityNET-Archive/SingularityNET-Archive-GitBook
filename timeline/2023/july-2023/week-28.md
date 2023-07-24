@@ -24,6 +24,37 @@ Not this week
 
 #### Process Modelling Workgroup
 
+#### **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+#### **Meeting notes:**
+
+&#x20;[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558435769991\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558435769991\&cot=10)&#x20;
+
+**Video Summary:**&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=740lgnmtcm8" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Insights from Housekeeping**&#x20;
+
+**Description -** We looked at the expectations for meeting prep and summary work \
+**Insight -** We learnt that we can clarify expectations as we go.&#x20;
+
+#### **2) Describe Workgroup Type Requirements**&#x20;
+
+**Description -** Creating matrix table for workgroup types and their requirements\
+**Decision -** Changed the names for workgroup types \
+**Decision -** We added description columns for workgroup types and requirements \
+**Action -** how do we repurpose existing workgroups which lose a lead and going through the metrics to complete it? \
+**Insight -** Guilds might be separate from workgroups; we will revisit guilds when we are done adding content for workgroups.&#x20;
+
+#### **3) Next elegant steps** (general action items)&#x20;
+
+We continue hashing out matrix table.
+
 #### Incubation Workgroup and Strategy Guild
 
 #### Host(s):&#x20;
