@@ -24,6 +24,67 @@ Not this week
 
 ***
 
+#### <mark style="color:red;">Dework PBL Workgroup</mark>
+
+#### **Context:**&#x20;
+
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559488684784\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559488684784\&cot=10)&#x20;
+
+#### **Meeting Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/z7JjerTGbM4" %}
+
+#### **Demonstration of Andamio platform navigation changes and workgroup role changes:**&#x20;
+
+{% embed url="https://youtu.be/GiCF6ikbchY" %}
+
+#### **Content upload demo:**&#x20;
+
+{% embed url="https://youtu.be/GmcXMb9JvcM" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Demonstrate menu and category changes on the Andamio platform**
+
+**Description -** Andamio platform has several opportunities to navigate between lessons and PBL modules \
+**Insight -** presentation video: [https://youtu.be/GiCF6ikbchY](https://youtu.be/GiCF6ikbchY) \
+**Learning -** There is currently missing an arrow button to jump from onboarding lessons into BBK lessons&#x20;
+
+#### **2) Demonstrate Workgroup role changes**&#x20;
+
+**Description -** We are trying to make it easier for others to get involved in the group \
+**Insight -** presentation video: [https://youtu.be/GiCF6ikbchY?t=226](https://youtu.be/GiCF6ikbchY?t=226) \
+**Decision -** Those who are active contributors in this workgroup get rewarded for participating in Dework PBL Workgroup \
+**Decision -** Guest facilitators are rewarded 20$ per hour \
+**Insight -** Due to Ambassador Program changes we don't need to keep track of the monthly budget and have room to do more work if the opportunity presents itself&#x20;
+
+#### **3) Google Drive Repo for Pictures**&#x20;
+
+**Description -** Temporary solution until we have our own image bank \
+**Decision -** Google Drive link: [https://drive.google.com/drive/folders/1zaNZ1QFbYgZWP6HHGRmaJhV7u95XsIfl](https://drive.google.com/drive/folders/1zaNZ1QFbYgZWP6HHGRmaJhV7u95XsIfl) \
+**Insight -** Use folders to make it later easier to find images \
+**Insight -** also markdown files could be added here&#x20;
+
+#### **4) Review Lessons**&#x20;
+
+**Description -** We reviewed the lessons distributed 2 weeks ago \
+**Action -** Upload draft markdown files to Andamio \
+**Insight -** Most draft lessons will be broken into smaller lessons \
+**Insight -** many nested links are required because the Dework platform has many features. \
+**Insight -** we currently have 5 draft lessons with relevant information + How to create tasks + Describe account Overview use cases + How to Create Spaces + Templates + Basic principles expected to manage tasks Dework \
+**Action -** Create Google Form to provide Feedback for the PBL Modules, [https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup?taskId=c7b3b9c6-6457-431f-bff0-cb62b082467f](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup?taskId=c7b3b9c6-6457-431f-bff0-cb62b082467f) \
+**Action -** Work on the lesson review feedback provided in today's meeting notes&#x20;
+
+#### **5) Next elegant steps** (general action items)&#x20;
+
+Next meeting on 19.07.23 we create Andamio Guides and get support to set up local instances.
+
+
+
 #### <mark style="color:red;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
