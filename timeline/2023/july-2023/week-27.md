@@ -20,6 +20,8 @@ description: 3rd July to 9th July 2023
 
 ### Archives Workgroup
 
+Not this week.
+
 ### Process Modelling Workgroup
 
 ### Incubation Workgroup and Strategy Guild
@@ -31,6 +33,72 @@ description: 3rd July to 9th July 2023
 Not this week
 
 ### Treasury Guild
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764558312867459\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764558312867459\&cot=10)&#x20;
+
+
+
+<figure><img src="../../../.gitbook/assets/Treasury_Guild_-_Frame_23.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Treasury_Guild_-_Frame_23.pdf" %}
+Hi-res PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Video Summary:**
+
+{% embed url="https://youtu.be/xbnl3aOjqRw" %}
+
+#### **Agenda Items**&#x20;
+
+#### **Treasury Guild break**&#x20;
+
+**Decision** - Next week Treasury Guild takes collective break&#x20;
+
+#### **Ambassador Reward Distribution Timing**&#x20;
+
+**Description:** Ambassador Role from now on is rewarded without any expectations, we could do that start of month \
+**Decision:** Ambassador rewards will be distributed at the end of month \
+**Insight:** This gives us time to look at the contribution made and we can collectively block rewards if we think the rewards would be wasted otherwise
+
+#### **Treasury Rule Documentation**&#x20;
+
+**Description** - How do we document the Treasury Management rules? \
+**Decision -** We will store most up-to-date info in the Treasury Management GitBook section Dework \
+**Action -** Document Treasury Management Rules for GitBook \
+**Action -** create "decision document" template for important decision that affect entire ambassador program \
+**Insight -** Treasury Guild should make sure documentation is up to date \
+**Insight -** Treasury Guild can outsource their tasks to other workgroups
+
+#### **Communication Rewards**&#x20;
+
+**Description -** In previous quarter we introduced the task that describes the time spent in social tools like Discord \
+**Decision -** From now on, if you think it's appropriate and specific action you do, create a fund request for this \
+**Insight -** For some workgroups and roles it makes more sense to include it in
+
+#### **Archival Workgroup Ambassador Rewards**&#x20;
+
+**Description -** Some ambassadors do not like to share their time spent \
+**Decision -** We don't reward Ambassadors Rewards through normal distribution if we do not recognize time spent \
+**Decision -** For month of June Fund Request can be created by Ambassadors whose time was not recognized \
+**Action -** What are other ways to measure value? (other than time) \
+**Insight -** From Quarter 3 there are no longer requirement to recognize time spent \
+**Insight -** based on meetings it looks like members are rewarded \~50$ per hour
+
+#### **Next elegant steps** (general action items)&#x20;
+
+&#x20;\- Complete newly created tasks in Treasury Guild Dework board \
+&#x20;\- Enjoy next weeks break from Treasury Guild :-)\
+&#x20;\- Even though there is no longer the need to provide your time, we still recommend you to do so where applicable to enhance our collective ability to estimate time consumption on specific projects and tasks
+
+
+
+***
 
 ### AI Sandbox
 
