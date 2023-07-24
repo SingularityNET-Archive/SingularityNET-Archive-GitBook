@@ -24,6 +24,36 @@ Not this week.
 
 ### Process Modelling Workgroup
 
+#### **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together.
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10)&#x20;
+
+**Video Summary:**&#x20;
+
+
+
+{% embed url="https://youtu.be/iHT9xXeZ3Kc" %}
+
+#### **Agenda Items**&#x20;
+
+#### 1) Workgroup Formation&#x20;
+
+**Description** - Workgroup type and its requirements discussion \
+**Decision** - New parameters for minimum requirements are (Evaluation & Agreement to Workgroup) \
+**Decision** - New name for pilot workgroup is Ideation / Problem definition\
+**Action** - Went through potential guidelines from Mini Proposal Workshop templates and filled the workgroup type and requirement table (partial) \
+**Insight** - from MPV&#x20;
+
+#### **2) Next elegant steps (general action items)**&#x20;
+
+How do we repurpose existing workgroups which lose a lead and going through the metrics to complete it?
+
+***
+
 ### Incubation Workgroup and Strategy Guild
 
 ## Thursday 6th July 2023
@@ -56,17 +86,17 @@ Hi-res PDF of Miro board for this meeting
 
 #### **Agenda Items**&#x20;
 
-#### **Treasury Guild break**&#x20;
+#### **1) Treasury Guild break**&#x20;
 
 **Decision** - Next week Treasury Guild takes collective break&#x20;
 
-#### **Ambassador Reward Distribution Timing**&#x20;
+#### **2) Ambassador Reward Distribution Timing**&#x20;
 
 **Description:** Ambassador Role from now on is rewarded without any expectations, we could do that start of month \
 **Decision:** Ambassador rewards will be distributed at the end of month \
 **Insight:** This gives us time to look at the contribution made and we can collectively block rewards if we think the rewards would be wasted otherwise
 
-#### **Treasury Rule Documentation**&#x20;
+#### **3) Treasury Rule Documentation**&#x20;
 
 **Description** - How do we document the Treasury Management rules? \
 **Decision -** We will store most up-to-date info in the Treasury Management GitBook section Dework \
@@ -75,13 +105,13 @@ Hi-res PDF of Miro board for this meeting
 **Insight -** Treasury Guild should make sure documentation is up to date \
 **Insight -** Treasury Guild can outsource their tasks to other workgroups
 
-#### **Communication Rewards**&#x20;
+#### **4) Communication Rewards**&#x20;
 
 **Description -** In previous quarter we introduced the task that describes the time spent in social tools like Discord \
 **Decision -** From now on, if you think it's appropriate and specific action you do, create a fund request for this \
 **Insight -** For some workgroups and roles it makes more sense to include it in
 
-#### **Archival Workgroup Ambassador Rewards**&#x20;
+#### **6) Archival Workgroup Ambassador Rewards**&#x20;
 
 **Description -** Some ambassadors do not like to share their time spent \
 **Decision -** We don't reward Ambassadors Rewards through normal distribution if we do not recognize time spent \
@@ -90,7 +120,7 @@ Hi-res PDF of Miro board for this meeting
 **Insight -** From Quarter 3 there are no longer requirement to recognize time spent \
 **Insight -** based on meetings it looks like members are rewarded \~50$ per hour
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **7) Next elegant steps** (general action items)&#x20;
 
 &#x20;\- Complete newly created tasks in Treasury Guild Dework board \
 &#x20;\- Enjoy next weeks break from Treasury Guild :-)\
