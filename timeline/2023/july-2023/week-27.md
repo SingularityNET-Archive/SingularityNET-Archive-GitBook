@@ -32,9 +32,9 @@ Establishing or maintaining processes to help community members to efficiently c
 
 [https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10)&#x20;
 
+<figure><img src="../../../.gitbook/assets/process modelling 5th July.png" alt=""><figcaption><p>Image of miro board for this meeting</p></figcaption></figure>
+
 **Video Summary:**&#x20;
-
-
 
 {% embed url="https://youtu.be/iHT9xXeZ3Kc" %}
 
