@@ -40,17 +40,21 @@ Establishing or maintaining processes to help community members to efficiently c
 
 #### **Agenda Items**&#x20;
 
-#### 1) Workgroup Formation&#x20;
+#### **1) Insights from MPW (Mini Proposal Workshop) templates**&#x20;
 
-**Description** - Workgroup type and its requirements discussion \
-**Decision** - New parameters for minimum requirements are (Evaluation & Agreement to Workgroup) \
-**Decision** - New name for pilot workgroup is Ideation / Problem definition\
-**Action** - Went through potential guidelines from Mini Proposal Workshop templates and filled the workgroup type and requirement table (partial) \
-**Insight** - from MPV&#x20;
+**Description -** Mini Proposal Workshops Templates are Catalyst Funded resources to help ideate on proposals on Miro Board; they consist of list of questions from different perspectives to make sure a proposal includes all necessary information \
+**Insight -** We did not use any key elements brought out from MPW insights in this meeting.&#x20;
 
-#### **2) Next elegant steps (general action items)**&#x20;
+#### **2) Describe Workgroup Type Requirements**&#x20;
 
-How do we repurpose existing workgroups which lose a lead and going through the metrics to complete it?
+**Description** - Creating matrix table for workgroup types and their requirements\
+**Decision -** New parameters for minimum requirements are (Evaluation & Agreement for Workgroup) \
+**Action -** how do we repurpose existing workgroups which lose a lead and going through the metrics to complete it? \
+**Insight -** Workgroup types don't yet feel correct, it almost looks like a process itself.
+
+#### **3) Next elegant steps (general action items)**&#x20;
+
+We continue hashing out matrix table.
 
 ***
 
