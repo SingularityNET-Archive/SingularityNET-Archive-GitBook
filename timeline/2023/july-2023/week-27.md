@@ -6,23 +6,81 @@ description: 3rd July to 9th July 2023
 
 ## Monday 3rd July 2023
 
-### Education Guild
+### <mark style="color:red;">Education Guild</mark>
+
+Not this week - holiday
+
+***
 
 ## Tuesday 4th July 2023
 
-### Governance WorkGroup
+### <mark style="color:red;">Governance WorkGroup</mark>
+
+Not this week
+
+***
 
 ### Ambassador Town Hall
 
-### Process Guild
+***
+
+### <mark style="color:red;">Process Guild</mark>
+
+#### **Context:**&#x20;
+
+We prioritize critical Ambassador activities and cover process changes
+
+#### **Meeting notes:**
+
+&#x20;[https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764558152903760\&cot=10](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764558152903760\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Process_Guild_-_Frame_2_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process_Guild_-_Frame_2.pdf" %}
+Hi-res PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Archived Agenda Items**&#x20;
+
+**Description -** There has been a list of agenda items we could archive \
+**Decision -** Archived the idea of using form for agenda items in Process Guild\
+**Learning -** Current agenda setting processes are more effective \
+**Decision -** Archived the agenda item about a role which can help maintaining and updating Deep Funding Proposal page \
+**Insight -** Task is outdated and Jan hasn't had time to provide updates about this opportunity \
+**Decision -** Archived the agenda item about ideating on the use of NFTs for Ambassadors \
+**Insight -** There has not been very few NFT use case experiments done in individual workgroups \
+**Decision -** Archive comparing agenda "Dework or Daolens?" \
+**Insight -** Dework is a more effective tool to recognize our work compared to DaoLens\
+**Insight -** DaoLens costs 350$ /month&#x20;
+
+#### **2) Dework PBL Workgroup**&#x20;
+
+**Description -** This Workgroup focuses on creating educational project-based learning material for Dework on Andamio platform in collaboration with Gimbalabs and Governance Guild. \
+**Insight -** Workgroup has been created and is successfully in operation \
+**Insight -** 19.07.23 workshop we learn to set up localhost&#x20;
+
+#### **3) Create Ambassador / Marketing Guild Gitbook**&#x20;
+
+**Description -** Create a gitbook for Ambassadors or Marketing Guild \
+**Decision -** Marketing Guild Gitbook not needed \
+**Insight -** SingularityNET Archive Gitbook has most info [https://github.com/orgs/SingularityNET-Archive/discussions/7](https://github.com/orgs/SingularityNET-Archive/discussions/7)&#x20;
+
+#### **4) Project Catalyst Fund 10**&#x20;
+
+**Description -** Discussion of proposals and opportunities for Ambassador Program \
+**Decision -** We keep the agenda item to later learn and align on proposal activities.
+
+***
 
 ## Wednesday 5th July 2023
 
-### Archives Workgroup
+### <mark style="color:red;">Archives Workgroup</mark>
 
 Not this week.
 
-### Process Modelling Workgroup
+### <mark style="color:red;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -64,11 +122,15 @@ We continue hashing out matrix table.
 
 ## Thursday 6th July 2023
 
-### Onboarding Workgroup
+### <mark style="color:red;">Onboarding Workgroup</mark>
 
 Not this week
 
-### Treasury Guild
+
+
+***
+
+### <mark style="color:red;">Treasury Guild</mark>
 
 #### **Context:**&#x20;
 
@@ -77,8 +139,6 @@ How to structure Ambassador rules around payments, tasks and anything related to
 #### **Meeting notes:**&#x20;
 
 [https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764558312867459\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764558312867459\&cot=10)&#x20;
-
-
 
 <figure><img src="../../../.gitbook/assets/Treasury_Guild_-_Frame_23.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
 
@@ -131,8 +191,6 @@ Hi-res PDF of Miro board for this meeting
 &#x20;\- Complete newly created tasks in Treasury Guild Dework board \
 &#x20;\- Enjoy next weeks break from Treasury Guild :-)\
 &#x20;\- Even though there is no longer the need to provide your time, we still recommend you to do so where applicable to enhance our collective ability to estimate time consumption on specific projects and tasks
-
-
 
 ***
 
