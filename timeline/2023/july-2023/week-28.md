@@ -34,6 +34,12 @@ This Workgroup focuses on creating educational project-based learning material f
 
 [https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559488684784\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559488684784\&cot=10)&#x20;
 
+<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.pdf" %}
+Hi-res PDF of Miro board for this meeting
+{% endfile %}
+
 #### **Meeting Video Summary:**&#x20;
 
 {% embed url="https://youtu.be/z7JjerTGbM4" %}

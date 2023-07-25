@@ -91,9 +91,9 @@ We focus on creating educational project-based learning material for Dework. One
 
 &#x20;[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764557891891567\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764557891891567\&cot=10)&#x20;
 
-<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this session</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1 (1).jpg" alt=""><figcaption><p>Image of Miro board for this session</p></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.pdf" %}
+{% file src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1 (1).pdf" %}
 Hi-res PDFof Miro board for this meeting
 {% endfile %}
 
