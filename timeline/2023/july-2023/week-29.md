@@ -32,13 +32,56 @@ We agreed a project or creation of “something” would be needed to facilitate
 
 It’s agreed further steps are needed to plan this out.&#x20;
 
+***
+
 ## Tuesday 18th July 2023
 
 ### Governance WorkGroup
 
 ### Ambassador Town Hall
 
-### Process Guild
+### <mark style="color:red;">Process Guild</mark>
+
+#### **Context:**&#x20;
+
+We Prioritize critical Ambassador activities and cover process changes&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764559488222590\&cot=10](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764559488222590\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Process_Guild_-_Frame_2.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process_Guild_-_Frame_2.pdf" %}
+Hi-res PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Troll Attacks**&#x20;
+
+**Description -** How do we protect our spaces and data from bad actors? \
+**Insight -** Zoom Account license under SingularityNET Ambassador Account \
+**Insight -** All Zoom Accounts rooms have waiting rooms \
+**Insight -** Workgroup Miro Boards spaces are separated into \
+**Learning -** Workgroup Miro Boards can be easily found using Miro Map Miro Board \
+**Action -** Add Miro Map Miro Board under your account favorites or bookmark it to have access to all the other SNET Boards&#x20;
+
+#### **2) Community Consensus mechanisms for implementing proposals?**&#x20;
+
+**Description -** How do we accept proposals and distribute rewards between the proposals?\
+**Decision -** We differentiate proposals between Internal and External proposals \
+**Decision -** We don't require full community consensus to accept proposals \
+**Decision -** We will experiment having a Dework Space for all proposals \
+**Action -** Create Dework Space and Proposal Suggestion template \
+**Insight -** Process Modelling Workgroup is creating Proposal Matrix table to help with context setting by differentiating types of proposals \
+**Decision -** Proposals should define Maximum Resource Cap to proposal that can be asked every month&#x20;
+
+#### **3) Next elegant steps** (general action items)&#x20;
+
+Try to create proposal for the spaces you are creating.
+
+***
 
 ## Wednesday 19th July 2023
 
@@ -46,9 +89,57 @@ It’s agreed further steps are needed to plan this out.&#x20;
 
 ### Dework PBL Workgroup
 
-### Process Modelling Workgroup
+***
+
+### <mark style="color:red;">Process Modelling Workgroup</mark>
+
+#### **Context:**&#x20;
+
+Workgroup lifecycle: the processes of establishing or maintaining workgroups to serve the community
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764559379811175\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764559379811175\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1.pdf" %}
+Hi-res PDF of Miro board for this meeting
+{% endfile %}
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/SKuLImviit0" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Housekeeping**&#x20;
+
+**Description -** Discussed practicalities of Miro-based task management for meeting rhythms \
+**Learning -** it's difficult to do task management simply by making sticky notes in miro - layout makes a big difference in understanding. We continue trying to communicate direction and intuition for meeting-preppers that will result in clear responsibilities and understanding of needed meeting-related activities and how to do second-level task-management.\
+**Decision -** Iterated "housekeeping" area to clarify "this-meeting" tasks vs "next-meeting" tasks, and handoffs between responsible contributors week to week. \
+**Description:** when prospective members don't do their parts, our workgroup doesn't work \
+**Insight -** prospective members can't gain active status except by actively contributing \
+**Insight -** reinforced need for developing some engagement flow for prospective members&#x20;
+
+#### **2) Reviewed Workgroup model**&#x20;
+
+**Description -** We focused discussion on the Seed workgroup - how a workgroup gets started and becomes adopted to its larger organization \
+**Insight -** a workgroup should have a purpose clearly connected to its org's mission/strategy/gaps/pain-points \
+**Insight -** Important to have feedback on workgroups - esp. if there is a budget - so it can continue, refine itself, stop itself or continue separately from the org. \
+**Decision -** Recommend periodic **check of purpose and impact and budget** based on Workgroup activity/results \
+**Insight** - We're developing a lightweight framework for workgroup lifecycles, leaving things flexible for people to act with autonomy while connecting their intent to impact on org-level needs.&#x20;
+
+#### **3)Next elegant steps** (general action items)&#x20;
+
+**Action -** Next Week: evaluate workgroup & program strategy / formation elements - same as Seed Group?? \
+**Action -** Next: adopting metrics and impact measurements for different types of workgroups.
+
+***
 
 ### Incubation Workgroup and Strategy Guild
+
+***
 
 ## Thursday 20th July 2023
 

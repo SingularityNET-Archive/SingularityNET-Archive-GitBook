@@ -138,9 +138,9 @@ Establishing or maintaining processes to help community members to efficiently c
 
 [https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558174991866\&cot=10)&#x20;
 
-<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1).jpg" alt=""><figcaption><p>Image of the Miro board for this meeting</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1) (1).jpg" alt=""><figcaption><p>Image of the Miro board for this meeting</p></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1.pdf" %}
+{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1).pdf" %}
 Hi-res PDF of the Miro board for this meeting
 {% endfile %}
 

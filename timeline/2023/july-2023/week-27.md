@@ -36,7 +36,7 @@ We prioritize critical Ambassador activities and cover process changes
 
 <figure><img src="../../../.gitbook/assets/Process_Guild_-_Frame_2_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/Process_Guild_-_Frame_2.pdf" %}
+{% file src="../../../.gitbook/assets/Process_Guild_-_Frame_2 (1).pdf" %}
 Hi-res PDF of Miro board for this meeting
 {% endfile %}
 
@@ -92,7 +92,7 @@ Establishing or maintaining processes to help community members to efficiently c
 
 
 
-<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1).jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
 
 **Video Summary:**&#x20;
 
