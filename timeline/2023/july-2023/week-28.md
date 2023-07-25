@@ -4,27 +4,27 @@ description: 10th July to 16th July 2023
 
 # Week 28
 
-### Monday 10th July 2023 <a href="#docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73" id="docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73"></a>
+## Monday 10th July 2023 <a href="#docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73" id="docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73"></a>
 
-#### Education Guild
+### Education Guild
 
-### Tuesday 11th July 2023
+## Tuesday 11th July 2023
 
-#### Governance WorkGroup
+### Governance WorkGroup
 
-#### Ambassador Town Hall
+### Ambassador Town Hall
 
-#### Process Guild
+### Process Guild
 
-### Wednesday 12th July 2023
+## Wednesday 12th July 2023
 
-#### <mark style="color:red;">Archives Workgroup</mark>
+### <mark style="color:red;">Archives Workgroup</mark>
 
 Not this week
 
 ***
 
-#### <mark style="color:red;">Dework PBL Workgroup</mark>
+### <mark style="color:red;">Dework PBL Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -85,7 +85,7 @@ Next meeting on 19.07.23 we create Andamio Guides and get support to set up loca
 
 ***
 
-#### <mark style="color:red;">Process Modelling Workgroup</mark>
+### <mark style="color:red;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -96,6 +96,10 @@ Establishing or maintaining processes to help community members to efficiently c
 &#x20;[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558435769991\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558435769991\&cot=10)&#x20;
 
 <figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (2).jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1).pdf" %}
+Hi-res PDF of Miro board for this meeting
+{% endfile %}
 
 **Video Summary:**&#x20;
 
@@ -122,7 +126,7 @@ We continue hashing out matrix table.
 
 ***
 
-#### <mark style="color:red;">Incubation Workgroup and Strategy Guild</mark>
+### <mark style="color:red;">Incubation Workgroup and Strategy Guild</mark>
 
 #### Host(s):&#x20;
 
@@ -159,9 +163,9 @@ Miro (Team Link): [https://miro.com/app/board/uXjVMBZi88o=/?moveToWidget=3458764
 
 ***
 
-### Thursday 13th July 2023
+## Thursday 13th July 2023
 
-#### <mark style="color:red;">Onboarding Workgroup</mark>
+### <mark style="color:red;">Onboarding Workgroup</mark>
 
 #### **HOST(S**):&#x20;
 
@@ -195,10 +199,6 @@ SucrenSpice,Peter, Vani, Atmosphere&#x20;
 
 [https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14](https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14)&#x20;
 
-
-
-{% embed url="https://miro.com/app/board/uXjVM5jyehQ=/?cot=14&moveToWidget=3458764559340088151" %}
-
 #### **GOALS AND/OR ACTION ITEMS**
 
 1. Follow-up emails and one-on-one outreach to individual applicants on Discord.
@@ -210,14 +210,14 @@ SucrenSpice,Peter, Vani, Atmosphere&#x20;
 
 ***
 
-#### Treasury Guild
+### Treasury Guild
 
-#### AI Sandbox
+### AI Sandbox
 
-#### Deepfunding Town Hall
+### Deepfunding Town Hall
 
-### Friday 14th July 2023
+## Friday 14th July 2023
 
-#### Video Workgroup
+### Video Workgroup
 
-#### Writers' Workgroup
+### Writers' Workgroup
