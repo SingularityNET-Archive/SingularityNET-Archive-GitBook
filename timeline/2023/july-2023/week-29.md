@@ -6,13 +6,13 @@ description: 17th July to 23rd July 2023
 
 ## Monday 17th July 2023 <a href="#docs-internal-guid-8e213b4f-7fff-d387-55df-f0c5b230e7fe" id="docs-internal-guid-8e213b4f-7fff-d387-55df-f0c5b230e7fe"></a>
 
-### Education Guild
+### <mark style="color:red;">Education Guild</mark>
 
 #### Attended by:
 
 Peter, Syntronyx, and TheFreysDefi.
 
-#### Summary
+#### Summary:
 
 The meeting opened up with Peter and Alex discussing the excellent work done by Alex on creating an education course using google apis.
 
