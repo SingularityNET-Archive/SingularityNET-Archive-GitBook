@@ -83,7 +83,7 @@ This Workgroup focuses on creating educational project-based learning material f
 
 Next meeting on 19.07.23 we create Andamio Guides and get support to set up local instances.
 
-
+***
 
 #### <mark style="color:red;">Process Modelling Workgroup</mark>
 
@@ -94,6 +94,8 @@ Establishing or maintaining processes to help community members to efficiently c
 #### **Meeting notes:**
 
 &#x20;[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558435769991\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764558435769991\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (2).jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
 
 **Video Summary:**&#x20;
 
