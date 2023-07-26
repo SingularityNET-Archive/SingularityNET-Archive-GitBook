@@ -87,6 +87,10 @@ now, we need to focus on making sure people know about it and can join in.
 
 ### Ambassador Town Hall
 
+No summary given
+
+***
+
 ### <mark style="color:red;">Process Guild</mark>
 
 #### **Context:**&#x20;
@@ -138,7 +142,7 @@ Not this week.
 
 ***
 
-### Dework PBL Workgroup
+### <mark style="color:red;">Dework PBL Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -211,16 +215,18 @@ Hi-res PDF of Miro board for this meeting
 **Decision -** Recommend periodic **check of purpose and impact and budget** based on Workgroup activity/results \
 **Insight** - We're developing a lightweight framework for workgroup lifecycles, leaving things flexible for people to act with autonomy while connecting their intent to impact on org-level needs.&#x20;
 
-#### **3)Next elegant steps** (general action items)&#x20;
+#### **3) Next elegant steps** (general action items)&#x20;
 
 **Action -** Next Week: evaluate workgroup & program strategy / formation elements - same as Seed Group?? \
 **Action -** Next: adopting metrics and impact measurements for different types of workgroups.
 
 ***
 
-### Incubation Workgroup&#x20;
+### Incubation Workgroup
 
-### Strategy Guild
+***
+
+### <mark style="color:red;">Strategy Guild</mark>
 
 #### In attendance :&#x20;
 
@@ -232,15 +238,15 @@ Peter, Fly, Crandano, Kenichi, Headelf&#x20;
 
 #### 2. Leadership function and roles aka The Round Table.&#x20;
 
-We had an open mic type ideation and spitballing style discussion. We discussed the need for a bit of hierarchy in the Ambassador program vs none. It was discussed and recognized that many people start as lurkers and some remain. Fly brought up and discussions were aimed at current Ambassadors that lurk in meetings, listening or multitasking and not participating. It was discussed how Read.ai could be gamed. Future strategy sessions will discuss and ideate around Fly's concept on the need for active participation. Discussion was pivoted to the need for direct and transparent communication with the foundation in part to help develop SingComDao. This brought up the Round Table as a solution. Peter suggested the Round Table could be the original Ambassadors. Discussion revolved around shrinking it to as small as 5.&#x20;
+We had an open mic type ideation and spitballing style discussion. We discussed the need for a bit of hierarchy in the Ambassador program vs none. It was discussed and recognized that many people start as lurkers and some remain. Fly brought up and discussions were aimed at current Ambassadors that lurk in meetings, listening or multitasking and not participating. It was discussed how Read.ai could be gamed. Future strategy sessions will discuss and ideate around **Fly's concept on the need for active participation**. Discussion was pivoted to the need for direct and transparent communication with the foundation in part to help develop SingComDao. This brought up the Round Table as a solution. Peter suggested the Round Table could be the original Ambassadors. Discussion revolved around shrinking it to as small as 5.&#x20;
 
-Headelf pivoted the discussion to Ambassador roles and names stating that humans need to feel they belong. The discussion settled into a consensus of four roles with the following names (we believe better role names are needed); New-bee for post lurkers; Trusted for first level Ambassador after a yet-to-be-defined process.&#x20;
+Headelf pivoted the discussion to **Ambassador roles and names** stating that humans need to feel they belong. The discussion settled into a consensus of four roles with the following names (we believe better role names are needed); New-bee for post lurkers; Trusted for first level Ambassador after a yet-to-be-defined process.&#x20;
 
-Discussion focused on Dework Task Points after looking at Gimbals and a new SNET Token due to a strong suggestion by Kenichi. The consensus was Dework TPs could only be earned and not purchased; Work Group Leads - a more involved Ambassador with more TPs; Ambassadors - the senior level and higher reputation with more TPs. An elevated leadership position for Ambassadors in the Round Table was discussed.&#x20;
+Discussion focused on **Dework Task Points** after looking at Gimbals and a new SNET Token due to a strong suggestion by Kenichi. The consensus was Dework TPs could only be earned and not purchased; Work Group Leads - a more involved Ambassador with more TPs; Ambassadors - the senior level and higher reputation with more TPs. An elevated leadership position for Ambassadors in the Round Table was discussed.&#x20;
 
-Onboarding was a major problem and hurdle. An issue was brought up by Kenric in an earlier meeting due to an email he received. He was confused by the letter and thought he had been elevated to the Ambassador role. Sucre-n-Spice had sent approximately 7 of these emails out during the beginning of July. This ‘not managing expectations’ had major concern to the attendees. We discussed and came to the consensus that ALL future Ambassadors had to complete a formal request that would be reviewed - perhaps by the RT. Or initially by the current Ambassadors for simple majority consensus. This way there would be a process the applicant was involved with on a voluntary basis and we would gain some insight. We also discussed the need for a more formalized Onboarding into the Ambassador program. Crandano will initiate and head a formal new Ambassador onboarding process. This will be via the new FR process. Sucre should continue with in channel onboarding process and head of the WG. This will assist her with a formalization of the process and a mentoring by several ambassadors. The group decided to use Peter's Telegram group as an experiment with this new application and Onboarding process slated for the first week in September. There were other questions and discussions on a legal wrapper and need for legal advice about what the Ambassador program is legally.&#x20;
+**Onboarding** was a major problem and hurdle. An issue was brought up by Kenric in an earlier meeting due to an email he received. He was confused by the letter and thought he had been elevated to the Ambassador role. Sucre-n-Spice had sent approximately 7 of these emails out during the beginning of July. This ‘not managing expectations’ had major concern to the attendees. We discussed and came to the consensus that ALL future Ambassadors had to complete a formal request that would be reviewed - perhaps by the RT. Or initially by the current Ambassadors for simple majority consensus. This way there would be a process the applicant was involved with on a voluntary basis and we would gain some insight. We also discussed the need for a more formalized Onboarding into the Ambassador program. Crandano will initiate and head a formal new Ambassador onboarding process. This will be via the new FR process. Sucre should continue with in channel onboarding process and head of the WG. This will assist her with a formalization of the process and a mentoring by several ambassadors. The group decided to use Peter's Telegram group as an experiment with this new application and Onboarding process slated for the first week in September. There were other questions and discussions on a legal wrapper and need for legal advice about what the Ambassador program is legally.&#x20;
 
-Another serious member concern was around conflict between individuals. Peter and Headelf expressed concern and apologies for not recognizing and talking about the issue(s). This was another reason for the need of a Round Table so any issues can be handled. No member of the Ambassadors should ever feel ignored, slighted, humiliated, bullied, harassed or made to feel less or unsafe. Our role as Ambassadors is to elevate, mentor and befriend our members and all of Snet and all of humanity. We need to be solid here and with each other so we can evolve Benevolent AGI. I \[Headelf] ask any one with an issue - whatever it is - to DM me or if the issue is with me DM Peter. Let us work out whatever the issue is. And, a reminder we do have a Tuesday Ambassador-only unrecorded Zoom each week so we can discuss private issues and concerns in a safe environment.&#x20;
+Another serious member concern was around **conflict between individuals**. Peter and Headelf expressed concern and apologies for not recognizing and talking about the issue(s). This was another reason for the need of a Round Table so any issues can be handled. No member of the Ambassadors should ever feel ignored, slighted, humiliated, bullied, harassed or made to feel less or unsafe. Our role as Ambassadors is to elevate, mentor and befriend our members and all of Snet and all of humanity. We need to be solid here and with each other so we can evolve Benevolent AGI. I \[Headelf] ask any one with an issue - whatever it is - to DM me or if the issue is with me DM Peter. Let us work out whatever the issue is. And, a reminder we do have a Tuesday Ambassador-only unrecorded Zoom each week so we can discuss private issues and concerns in a safe environment.&#x20;
 
 #### Meeting duration:
 
@@ -258,9 +264,37 @@ Another serious member concern was around conflict between individuals. Peter an
 
 ## Thursday 20th July 2023
 
-### Onboarding Workgroup
+### <mark style="color:red;">Onboarding Workgroup</mark>
 
-### Treasury Guild
+Not this week.
+
+***
+
+### <mark style="color:red;">Treasury Guild</mark>
+
+#### **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764559872563238\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764559872563238\&cot=10)&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **1) Creating Treasury Documentation**&#x20;
+
+**Description -** Creating a place where are going to store all Treasury Management-related documentation and information \
+**Decision -** We will be using Ambassador GitBook for that \
+**Action -** We will continue to add more relevant information, we did not cover all required elements \
+**Insight -** [https://snet-ambassadors.gitbook.io/home/group-1/treasury-management](https://snet-ambassadors.gitbook.io/home/group-1/treasury-management) \
+**Insight -** a lot of participants were present when we went through the rules and moved them to GitBook. There seems to be very little misunderstanding of what the rules mean. \
+**Insight -** In this meeting, we created Budget Overview, Introduction to Fund Request and Auditing sections.&#x20;
+
+#### **2) Next elegant steps** (general action items)&#x20;
+
+Continue updating and wording Treasury Documentation.\
+Does anybody want to help facilitate Treasury Guild sessions?
 
 ### AI Sandbox
 
