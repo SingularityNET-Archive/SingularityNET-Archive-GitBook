@@ -218,7 +218,41 @@ Hi-res PDF of Miro board for this meeting
 
 ***
 
-### Incubation Workgroup and Strategy Guild
+### Incubation Workgroup&#x20;
+
+### Strategy Guild
+
+#### In attendance :&#x20;
+
+Peter, Fly, Crandano, Kenichi, Headelf&#x20;
+
+#### Agenda Item(s):&#x20;
+
+#### 1. Levels and names for members of the Ambassador Cadre
+
+#### 2. Leadership function and roles aka The Round Table.&#x20;
+
+We had an open mic type ideation and spitballing style discussion. We discussed the need for a bit of hierarchy in the Ambassador program vs none. It was discussed and recognized that many people start as lurkers and some remain. Fly brought up and discussions were aimed at current Ambassadors that lurk in meetings, listening or multitasking and not participating. It was discussed how Read.ai could be gamed. Future strategy sessions will discuss and ideate around Fly's concept on the need for active participation. Discussion was pivoted to the need for direct and transparent communication with the foundation in part to help develop SingComDao. This brought up the Round Table as a solution. Peter suggested the Round Table could be the original Ambassadors. Discussion revolved around shrinking it to as small as 5.&#x20;
+
+Headelf pivoted the discussion to Ambassador roles and names stating that humans need to feel they belong. The discussion settled into a consensus of four roles with the following names (we believe better role names are needed); New-bee for post lurkers; Trusted for first level Ambassador after a yet-to-be-defined process.&#x20;
+
+Discussion focused on Dework Task Points after looking at Gimbals and a new SNET Token due to a strong suggestion by Kenichi. The consensus was Dework TPs could only be earned and not purchased; Work Group Leads - a more involved Ambassador with more TPs; Ambassadors - the senior level and higher reputation with more TPs. An elevated leadership position for Ambassadors in the Round Table was discussed.&#x20;
+
+Onboarding was a major problem and hurdle. An issue was brought up by Kenric in an earlier meeting due to an email he received. He was confused by the letter and thought he had been elevated to the Ambassador role. Sucre-n-Spice had sent approximately 7 of these emails out during the beginning of July. This ‘not managing expectations’ had major concern to the attendees. We discussed and came to the consensus that ALL future Ambassadors had to complete a formal request that would be reviewed - perhaps by the RT. Or initially by the current Ambassadors for simple majority consensus. This way there would be a process the applicant was involved with on a voluntary basis and we would gain some insight. We also discussed the need for a more formalized Onboarding into the Ambassador program. Crandano will initiate and head a formal new Ambassador onboarding process. This will be via the new FR process. Sucre should continue with in channel onboarding process and head of the WG. This will assist her with a formalization of the process and a mentoring by several ambassadors. The group decided to use Peter's Telegram group as an experiment with this new application and Onboarding process slated for the first week in September. There were other questions and discussions on a legal wrapper and need for legal advice about what the Ambassador program is legally.&#x20;
+
+Another serious member concern was around conflict between individuals. Peter and Headelf expressed concern and apologies for not recognizing and talking about the issue(s). This was another reason for the need of a Round Table so any issues can be handled. No member of the Ambassadors should ever feel ignored, slighted, humiliated, bullied, harassed or made to feel less or unsafe. Our role as Ambassadors is to elevate, mentor and befriend our members and all of Snet and all of humanity. We need to be solid here and with each other so we can evolve Benevolent AGI. I \[Headelf] ask any one with an issue - whatever it is - to DM me or if the issue is with me DM Peter. Let us work out whatever the issue is. And, a reminder we do have a Tuesday Ambassador-only unrecorded Zoom each week so we can discuss private issues and concerns in a safe environment.&#x20;
+
+#### Meeting duration:
+
+1 hour 30 minutes.&#x20;
+
+#### Decisions:&#x20;
+
+1\. Four Ambassador levels. Names to be worked by the community. \
+2\. Formalized application to apply for Ambassadorship. \
+3\. Onboarding process to be formalized headed by Crandano. \
+4\. Experiment process of system with onboarding Telegram group as Ambassadors. \
+5\. Further exploration, discussion and understanding of developing the Round Table.
 
 ***
 
