@@ -36,7 +36,54 @@ It’s agreed further steps are needed to plan this out.&#x20;
 
 ## Tuesday 18th July 2023
 
-### Governance WorkGroup
+### <mark style="color:red;">Governance WorkGroup</mark>
+
+#### Meeting notes (slides) by Vanessa&#x20;
+
+[https://docs.google.com/presentation/d/1D1D19Ej4Nhl-muZFzyDhtk9rI7oS33BzBDh8U90hbxg/edit#slide=id.p](https://docs.google.com/presentation/d/1D1D19Ej4Nhl-muZFzyDhtk9rI7oS33BzBDh8U90hbxg/edit#slide=id.p)
+
+{% embed url="https://docs.google.com/presentation/d/1D1D19Ej4Nhl-muZFzyDhtk9rI7oS33BzBDh8U90hbxg/edit#slide=id.p" %}
+
+#### Additional notes ReadAI&#x20;
+
+[https://app.read.ai/analytics/meetings/01H5MMPP35F1ZV4249N8NBCS1D?utm\_source=Share\_CopyLink](https://app.read.ai/analytics/meetings/01H5MMPP35F1ZV4249N8NBCS1D?utm\_source=Share\_CopyLink)&#x20;
+
+#### Agenda Items:&#x20;
+
+#### 1) What are the processes to record who is contributing to the Governance Framework doc?&#x20;
+
+How can we improve the process? How should we display our problem (or other) statements? What platform?&#x20;
+
+Don’t bring people to governance - take governance to people.Use the tools that people like and are familiar with.
+
+What is our change process; how do we support continued evolution? Are we expecting fixed, finished documents that people can only read and not change? In this decentralised space maybe our governance documents need to be much more fluid - which would have a big effect on our governance, since most of us are used to the idea that “governance” does involve quite fixed things? &#x20;
+
+**Decision:** on the Governance GitBook, we have listed key issues from the Governance Framework document, and a link to a Google Doc for each one where people can discuss and comment without needing to grapple with Git.
+
+\
+**ACTION:** We will post GitBook link in Discord [https://catalyst-swarm.gitbook.io/snet-ambassador-governance-framework/](https://catalyst-swarm.gitbook.io/snet-ambassador-governance-framework/), explain what we are inviting people to do, and ask people to contribute their thoughts via the linked Google docs
+
+#### 2) Planning an event to discuss the most-commented issues in the Governance Framework doc
+
+**ACTION:** Felix, Stephen, Slate, and Vani will get together to plan an event with breakouts to discuss the different topics in the Governance framework doc&#x20;
+
+#### 3) Experimentation process in sNET, and recording a Governance baseline
+
+See [https://docs.google.com/document/d/1pORhk41M5sSHn6drCxoynEaDgVK5ITfcCgEFpS1aBw0/edit?usp=sharing](https://docs.google.com/document/d/1pORhk41M5sSHn6drCxoynEaDgVK5ITfcCgEFpS1aBw0/edit?usp=sharing)
+
+* Why are we building governance and who is it for? Is it a product?
+* Language of governance for chains is often derived from public policy - idea of a “digital nation” - but reflecting on CIP-1694 shows that people use CORPORATE governance as a model.
+* How do we frame change as an experiment? We need to be collecting experimental data on how well a change worked, i.e. ask stakeholders what effect it had on them. There’s also ethics around people’s informaed consent to be part of the “experiment”.
+* Is “problem and solution” structure worth questioning too? It’s not an asset-based approach to focus on what is wrong - sometimes need to focus on what is good and how to amplify it. Also it falsely sugests that “problem and solution” are a matched pair, when actually there are many solutions to a problem, and which one you pursue can be political, or driven by resources, etc.
+
+**ACTION:** Contact Eszter re: the “governance baseline” issues that we were discussing in the 16th June meeting.
+
+#### Next steps:
+
+We have done quite a lot of thinking and planning and structuring; we have the info on Gitbook and the associated Google docs…\
+now, we need to focus on making sure people know about it and can join in.
+
+***
 
 ### Ambassador Town Hall
 
