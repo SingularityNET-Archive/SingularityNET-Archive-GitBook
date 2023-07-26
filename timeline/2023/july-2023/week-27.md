@@ -22,6 +22,8 @@ Not this week
 
 ### Ambassador Town Hall
 
+No summary given
+
 ***
 
 ### <mark style="color:red;">Process Guild</mark>
@@ -126,8 +128,6 @@ We continue hashing out matrix table.
 
 Not this week
 
-
-
 ***
 
 ### <mark style="color:red;">Treasury Guild</mark>
@@ -196,10 +196,26 @@ Hi-res PDF of Miro board for this meeting
 
 ### AI Sandbox
 
+No summary given
+
+***
+
 ### Deepfunding Town Hall
+
+No summary given
+
+***
 
 ## Friday 7th July 2023
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***

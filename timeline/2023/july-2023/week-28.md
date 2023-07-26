@@ -6,15 +6,31 @@ description: 10th July to 16th July 2023
 
 ## Monday 10th July 2023 <a href="#docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73" id="docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73"></a>
 
-### Education Guild
+### <mark style="color:red;">Education Guild</mark>
+
+Not this week
+
+***
 
 ## Tuesday 11th July 2023
 
-### Governance WorkGroup
+### <mark style="color:red;">Governance WorkGroup</mark>
+
+Not this week
+
+***
 
 ### Ambassador Town Hall
 
+No summary given
+
+***
+
 ### Process Guild
+
+No summary given
+
+***
 
 ## Wednesday 12th July 2023
 
@@ -218,12 +234,32 @@ SucrenSpice,Peter, Vani, Atmosphere&#x20;
 
 ### Treasury Guild
 
+No summary given
+
+***
+
 ### AI Sandbox
 
+No summary given
+
+***
+
 ### Deepfunding Town Hall
+
+No summary given
+
+***
 
 ## Friday 14th July 2023
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***

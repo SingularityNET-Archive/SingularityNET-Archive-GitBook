@@ -280,11 +280,13 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 [https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764559872563238\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764559872563238\&cot=10)&#x20;
 
+<figure><img src="../../../.gitbook/assets/Treasury_Guild_-_Frame_28 (1).jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
 #### **Agenda Items**&#x20;
 
 #### **1) Creating Treasury Documentation**&#x20;
 
-**Description -** Creating a place where are going to store all Treasury Management-related documentation and information \
+**Description -** Creating a place to store all Treasury Management-related documentation and information \
 **Decision -** We will be using Ambassador GitBook for that \
 **Action -** We will continue to add more relevant information, we did not cover all required elements \
 **Insight -** [https://snet-ambassadors.gitbook.io/home/group-1/treasury-management](https://snet-ambassadors.gitbook.io/home/group-1/treasury-management) \
@@ -296,12 +298,26 @@ How to structure Ambassador rules around payments, tasks and anything related to
 Continue updating and wording Treasury Documentation.\
 Does anybody want to help facilitate Treasury Guild sessions?
 
+***
+
 ### AI Sandbox
 
+***
+
 ### Deepfunding Town Hall
+
+***
 
 ## Friday 21st July 2023
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***
