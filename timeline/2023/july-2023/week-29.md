@@ -132,9 +132,43 @@ Try to create proposal for the spaces you are creating.
 
 ## Wednesday 19th July 2023
 
-### Archives Workgroup
+### <mark style="color:red;">Archives Workgroup</mark>
+
+Not this week.
+
+***
 
 ### Dework PBL Workgroup
+
+#### **Context:**&#x20;
+
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.&#x20;
+
+#### **Meeting notes:**
+
+&#x20;[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559745101280\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559745101280\&cot=10)&#x20;
+
+<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+
+#### **Set-Up Video:**&#x20;
+
+{% embed url="https://youtu.be/oXq0CZ2Le7U" %}
+
+**Agenda Items**&#x20;
+
+#### **1) Set up local Andamio environment**&#x20;
+
+**Description -** We are helping members to set up the Andamio environment so they can play around with displaying the content they create.\
+**Learning -** Do not use the command git rm -f \* without thinking through what it does. \
+**Insight -** we accidentally deleted all the previous Tevo Dework PBL content and structuring work \
+**Action -** Recreate the Dework PBL lesson structure on the new forked repo and push the changes for other PBL members \
+**Insight -** When building your own products start by forking the original repo instead of cloning it \
+**Insight -** Every project living in GIT repos will eventually need some planning on how to distribute and update the data. \
+**Insight -** Published previous learning video between Gimbalabs on How to use the Andamio platform&#x20;
+
+#### **2) Next elegant steps** (general action items)&#x20;
+
+Let's get our Dework PBL lessons ready for next meeting.
 
 ***
 

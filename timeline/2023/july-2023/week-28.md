@@ -34,7 +34,7 @@ This Workgroup focuses on creating educational project-based learning material f
 
 [https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559488684784\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559488684784\&cot=10)&#x20;
 
-<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1 (2).jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
 
 {% file src="../../../.gitbook/assets/Dework_PBL_Workgroup_-_Frame_1.pdf" %}
 Hi-res PDF of Miro board for this meeting
@@ -103,7 +103,7 @@ Establishing or maintaining processes to help community members to efficiently c
 
 <figure><img src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (2).jpg" alt=""><figcaption><p>Image of Miro board for this meeting</p></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1).pdf" %}
+{% file src="../../../.gitbook/assets/Process_Modelling_Workgroup_-_Frame_1 (1) (1).pdf" %}
 Hi-res PDF of Miro board for this meeting
 {% endfile %}
 
