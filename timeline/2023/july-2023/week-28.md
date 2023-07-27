@@ -4,6 +4,8 @@ description: 10th July to 16th July 2023
 
 # Week 28
 
+{% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=34268350&pane=issue" %}
+
 ## Monday 10th July 2023 <a href="#docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73" id="docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73"></a>
 
 ### <mark style="color:red;">Education Guild</mark>

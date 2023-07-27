@@ -4,6 +4,8 @@ description: 3rd July to 9th July 2023
 
 # Week 27
 
+{% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=34268350&pane=issue" %}
+
 ## Monday 3rd July 2023
 
 ### <mark style="color:red;">Education Guild</mark>

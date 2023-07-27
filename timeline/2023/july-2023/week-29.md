@@ -4,6 +4,8 @@ description: 17th July to 23rd July 2023
 
 # Week 29
 
+{% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=34268350&pane=issue" %}
+
 ## Monday 17th July 2023 <a href="#docs-internal-guid-8e213b4f-7fff-d387-55df-f0c5b230e7fe" id="docs-internal-guid-8e213b4f-7fff-d387-55df-f0c5b230e7fe"></a>
 
 ### <mark style="color:red;">Education Guild</mark>
