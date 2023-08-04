@@ -142,6 +142,8 @@ Community involvement at next weeks Town Hall and Strategy meeting.
 
 ### <mark style="color:green;">Video Workgroup</mark>
 
+#### Attendees
+
 Rojo, Lilycupcake, Sly, Peter, Agus
 
 #### In this meeting we:&#x20;
