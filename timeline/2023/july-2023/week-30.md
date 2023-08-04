@@ -98,6 +98,10 @@ The importance of KPI's. How we need to get to the root of the problems, steps f
 
 What's in the Ambassador name and stages of Ambassadors
 
+#### Slides 
+
+{% file src="../../../.gitbook/assets/Ambassador Name discussion slides.pdf" %}
+
 #### Present:&#x20;
 
 Headelf (host), Fly (co-host), Cran(co-host), Peter, Chris, Waka, SlySi, Tevo
