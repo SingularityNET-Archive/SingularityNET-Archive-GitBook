@@ -11,6 +11,7 @@
 
 * [2023](timeline/2023/README.md)
   * [August 2023](timeline/2023/august-2023/README.md)
+    * [Week 35](timeline/2023/august-2023/week-35.md)
     * [Week 34](timeline/2023/august-2023/week-34.md)
     * [Week 33](timeline/2023/august-2023/week-33.md)
     * [Week 32](timeline/2023/august-2023/week-32.md)
