@@ -226,6 +226,36 @@ Hi-res PDF of Miro board for this meeting
 
 ### Incubation Workgroup
 
+#### Host(s):&#x20;
+
+Cran, Fly&#x20;
+
+#### Attendees:&#x20;
+
+cran, fly, headelf, peter&#x20;
+
+#### Agenda Items:&#x20;
+
+Going over topics such as leadership and roles&#x20;
+
+#### Length of Meeting:&#x20;
+
+1 hr
+
+#### Goal and/or Action Items:&#x20;
+
+Open discussion on what role leadership could play in the Ambassador Program, leading up to the Strategy meeting (see below) which followed and further explored roles.
+
+#### Brief Summary:&#x20;
+
+We started the meeting with an exercise on leadership name ideation and open thoughts on what leadership could look like in the Ambassador Program.
+
+The group discussed Pros and Cons of leadership roles.
+
+Discussion took place that there would need to be some incentivization for a leadership role. The program could potentially benefit from someone or some people totaling full-time to help with the program and see initiatives through and safeguard certain things like email communication (kind of have a final look at what goes out from the main email and comms).
+
+We lightly talked about Grace Rachmany coming to the following week's Incubation meeting on July 26, 2023.
+
 ***
 
 ### <mark style="color:red;">Strategy Guild</mark>
