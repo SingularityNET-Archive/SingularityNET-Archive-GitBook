@@ -140,6 +140,15 @@ Community involvement at next weeks Town Hall and Strategy meeting.
 
 ## Friday 28th July 2023
 
-### Video Workgroup
+### <mark style="color:green;">Video Workgroup</mark>
+
+Rojo, Lilycupcake, Sly, Peter, Agus
+
+#### In this meeting we:&#x20;
+
+Discussed workgroup progress (projects, social media) \
+Discussed ways to increase the number of clips output\
+Discussed Lily’s progress on the onboarding video\
+Discussed Rojo’s progress on the Dework video.
 
 ### Writers' Workgroup
