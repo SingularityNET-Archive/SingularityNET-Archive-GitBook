@@ -8,7 +8,7 @@ description: 3rd July to 9th July 2023
 
 ## Monday 3rd July 2023
 
-### <mark style="color:red;">Education Guild</mark>
+### <mark style="color:green;">Education Guild</mark>
 
 Not this week - holiday
 
@@ -16,7 +16,7 @@ Not this week - holiday
 
 ## Tuesday 4th July 2023
 
-### <mark style="color:red;">Governance WorkGroup</mark>
+### <mark style="color:green;">Governance WorkGroup</mark>
 
 Not this week
 
@@ -28,7 +28,7 @@ No summary given
 
 ***
 
-### <mark style="color:red;">Process Guild</mark>
+### <mark style="color:green;">Process Guild</mark>
 
 #### **Context:**&#x20;
 
@@ -80,11 +80,11 @@ Hi-res PDF of Miro board for this meeting
 
 ## Wednesday 5th July 2023
 
-### <mark style="color:red;">Archives Workgroup</mark>
+### <mark style="color:green;">Archives Workgroup</mark>
 
 Not this week.
 
-### <mark style="color:red;">Process Modelling Workgroup</mark>
+### <mark style="color:green;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -124,15 +124,19 @@ We continue hashing out matrix table.
 
 ### Incubation Workgroup and Strategy Guild
 
+No summaries given
+
+***
+
 ## Thursday 6th July 2023
 
-### <mark style="color:red;">Onboarding Workgroup</mark>
+### <mark style="color:green;">Onboarding Workgroup</mark>
 
 Not this week
 
 ***
 
-### <mark style="color:red;">Treasury Guild</mark>
+### <mark style="color:green;">Treasury Guild</mark>
 
 #### **Context:**&#x20;
 

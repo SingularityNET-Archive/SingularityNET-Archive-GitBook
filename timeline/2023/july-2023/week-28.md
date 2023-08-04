@@ -8,7 +8,7 @@ description: 10th July to 16th July 2023
 
 ## Monday 10th July 2023 <a href="#docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73" id="docs-internal-guid-2fd8f533-7fff-aecb-8836-bf1d7e1e0a73"></a>
 
-### <mark style="color:red;">Education Guild</mark>
+### <mark style="color:green;">Education Guild</mark>
 
 Not this week
 
@@ -16,7 +16,7 @@ Not this week
 
 ## Tuesday 11th July 2023
 
-### <mark style="color:red;">Governance WorkGroup</mark>
+### <mark style="color:green;">Governance WorkGroup</mark>
 
 Not this week
 
@@ -36,13 +36,13 @@ No summary given
 
 ## Wednesday 12th July 2023
 
-### <mark style="color:red;">Archives Workgroup</mark>
+### <mark style="color:green;">Archives Workgroup</mark>
 
 Not this week
 
 ***
 
-### <mark style="color:red;">Dework PBL Workgroup</mark>
+### <mark style="color:green;">Dework PBL Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -109,7 +109,7 @@ Next meeting on 19.07.23 we create Andamio Guides and get support to set up loca
 
 ***
 
-### <mark style="color:red;">Process Modelling Workgroup</mark>
+### <mark style="color:green;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -150,7 +150,7 @@ We continue hashing out matrix table.
 
 ***
 
-### <mark style="color:red;">Incubation Workgroup and Strategy Guild</mark>
+### <mark style="color:green;">Incubation Workgroup and Strategy Guild</mark>
 
 #### Host(s):&#x20;
 
@@ -189,7 +189,7 @@ Miro (Team Link): [https://miro.com/app/board/uXjVMBZi88o=/?moveToWidget=3458764
 
 ## Thursday 13th July 2023
 
-### <mark style="color:red;">Onboarding Workgroup</mark>
+### <mark style="color:green;">Onboarding Workgroup</mark>
 
 #### **HOST(S**):&#x20;
 

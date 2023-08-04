@@ -8,7 +8,7 @@ description: 17th July to 23rd July 2023
 
 ## Monday 17th July 2023 <a href="#docs-internal-guid-8e213b4f-7fff-d387-55df-f0c5b230e7fe" id="docs-internal-guid-8e213b4f-7fff-d387-55df-f0c5b230e7fe"></a>
 
-### <mark style="color:red;">Education Guild</mark>
+### <mark style="color:green;">Education Guild</mark>
 
 #### Attended by:
 
@@ -38,7 +38,7 @@ It’s agreed further steps are needed to plan this out.&#x20;
 
 ## Tuesday 18th July 2023
 
-### <mark style="color:red;">Governance WorkGroup</mark>
+### <mark style="color:green;">Governance WorkGroup</mark>
 
 #### Meeting notes (slides) by Vanessa&#x20;
 
@@ -93,7 +93,7 @@ No summary given
 
 ***
 
-### <mark style="color:red;">Process Guild</mark>
+### <mark style="color:green;">Process Guild</mark>
 
 #### **Context:**&#x20;
 
@@ -138,13 +138,13 @@ Try to create proposal for the spaces you are creating.
 
 ## Wednesday 19th July 2023
 
-### <mark style="color:red;">Archives Workgroup</mark>
+### <mark style="color:green;">Archives Workgroup</mark>
 
 Not this week.
 
 ***
 
-### <mark style="color:red;">Dework PBL Workgroup</mark>
+### <mark style="color:green;">Dework PBL Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -178,7 +178,7 @@ Let's get our Dework PBL lessons ready for next meeting.
 
 ***
 
-### <mark style="color:red;">Process Modelling Workgroup</mark>
+### <mark style="color:green;">Process Modelling Workgroup</mark>
 
 #### **Context:**&#x20;
 
@@ -224,7 +224,7 @@ Hi-res PDF of Miro board for this meeting
 
 ***
 
-### Incubation Workgroup
+### <mark style="color:green;">Incubation Workgroup</mark>
 
 #### Host(s):&#x20;
 
@@ -258,7 +258,7 @@ We lightly talked about Grace Rachmany coming to the following week's Incubation
 
 ***
 
-### <mark style="color:red;">Strategy Guild</mark>
+### <mark style="color:green;">Strategy Guild</mark>
 
 #### In attendance :&#x20;
 
@@ -296,13 +296,13 @@ Another serious member concern was around **conflict between individuals**. Pete
 
 ## Thursday 20th July 2023
 
-### <mark style="color:red;">Onboarding Workgroup</mark>
+### <mark style="color:green;">Onboarding Workgroup</mark>
 
 Not this week.
 
 ***
 
-### <mark style="color:red;">Treasury Guild</mark>
+### <mark style="color:green;">Treasury Guild</mark>
 
 #### **Context:**&#x20;
 
@@ -334,9 +334,13 @@ Does anybody want to help facilitate Treasury Guild sessions?
 
 ### AI Sandbox
 
+No summary given
+
 ***
 
 ### Deepfunding Town Hall
+
+No summary given
 
 ***
 
