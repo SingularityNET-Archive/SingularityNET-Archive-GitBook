@@ -10,19 +10,43 @@ description: 24th July to 30th July
 
 ### Education Guild
 
+No summary given
+
+***
+
 ## Tuesday 25th July 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
+
+Not this week
+
+***
 
 ### Ambassador Town Hall
 
+No summary given
+
+***
+
 ### Process Guild
+
+No summary given
+
+***
 
 ## Wednesday 26th July 2023
 
 ### Archives Workgroup
 
-### Dework PBL Workgroup
+Coming soon
+
+***
+
+### <mark style="color:green;">Dework PBL Workgroup</mark>
+
+Not this week&#x20;
+
+***
 
 ### <mark style="color:green;">Process Modelling Workgroup</mark>
 
@@ -58,6 +82,8 @@ Developing process models for new workgroup formation&#x20;
 
 The workgroup will take a break for two weeks.
 
+***
+
 ### <mark style="color:green;">Incubation Workgroup</mark>
 
 #### Host(s):&#x20;
@@ -92,13 +118,15 @@ How do we automate processes? Discussion came up about how one poisonous person 
 
 The importance of KPI's. How we need to get to the root of the problems, steps for identifying problems. When things are difficult we need the ability to challenge/remove/sit and hash things out. See meeting recording  on YouTube in coming days.
 
+***
+
 ### <mark style="color:green;">Strategy Guild</mark>
 
 #### Agenda :&#x20;
 
 What's in the Ambassador name and stages of Ambassadors
 
-#### Slides 
+#### Slides
 
 {% file src="../../../.gitbook/assets/Ambassador Name discussion slides.pdf" %}
 
@@ -108,7 +136,7 @@ Headelf (host), Fly (co-host), Cran(co-host), Peter, Chris, Waka, SlySi, Tevo
 
 #### Length:&#x20;
 
-Approx 45 minutes. This meeting was after a lengthy Incubation meeting with special guest Grace Rakmany so we started late.
+45 minutes. This meeting followed a lengthy Incubation meeting with special guest Grace Rachmany so we started late.
 
 #### Discussion:&#x20;
 
@@ -130,7 +158,9 @@ Terms like Member, Participant, Contributor may have additional implications and
 
 #### Next elegant steps:&#x20;
 
-Community involvement at next weeks Town Hall and Strategy meeting.
+Community involvement at next week's Town Hall and Strategy meeting.
+
+***
 
 ## Thursday 27th July 2023
 
@@ -166,13 +196,25 @@ SucrenSpice (host), Kenric, Tevo, Atmosphere, Vani, Fly, Peter
 * Sucre, Ash and Vani will continue to contact new people 1-to-1
 * There is a lot to do in this group, so we'll move to weekly meetings as of next week.
 
+***
 
+### <mark style="color:green;">Treasury Guild</mark>
 
-### Treasury Guild
+Not this week
+
+***
 
 ### AI Sandbox
 
+No summary given
+
+***
+
 ### Deepfunding Town Hall
+
+No summary given
+
+***
 
 ## Friday 28th July 2023
 
@@ -189,4 +231,10 @@ Discussed ways to increase the number of clips output\
 Discussed Lily’s progress on the onboarding video\
 Discussed Rojo’s progress on the Dework video.
 
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***
