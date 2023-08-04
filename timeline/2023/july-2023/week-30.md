@@ -130,7 +130,39 @@ Community involvement at next weeks Town Hall and Strategy meeting.
 
 ## Thursday 27th July 2023
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
+
+#### Present
+
+SucrenSpice (host), Kenric, Tevo, Atmosphere, Vani, Fly, Peter
+
+#### Miro
+
+[https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14 ](https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14)
+
+#### Meeting notes&#x20;
+
+[https://docs.google.com/document/d/1r2nS3beYgyYc422Y0xuvq2FfQeGX9DVRO2kNCDaJ2SY/edit?usp=sharing](https://docs.google.com/document/d/1r2nS3beYgyYc422Y0xuvq2FfQeGX9DVRO2kNCDaJ2SY/edit?usp=sharing)&#x20;
+
+#### Issues
+
+1\) Onboarding email gives mistaken impression that recipients have definitely been accepted as ambassadors. Needs correcting.\
+2\) Some meetings have not been very welcoming to new people.\
+3\) Name of "ambassadors only" meeting might be unclear, especially since new people have received an email that may have given them the impression that they are already ambassadors.\
+4\) There is discussion in other workgroups about hierarchies, levels, names etc for different levels of involvement: but since these are not agreed yet, we'll send out the onboarding email to the backlog of people (c. 300) describing the process as it currently stands.\
+5\) Suggestion to implement the idea from a few meetings ago of asking people to attend as many meetings as they can, just once, and send feedback. This is includd in draft onboarding email: to be discussed further outside meeting.
+
+#### Action items
+
+* Vani and Sucre to tweak the onboarding email and then post a new version in Discord for comments.
+* Once the new email text is agreed, Peter will share his list of 300-ish people with Sucre so they can be contacted.
+* When emails go out, they will be BCC’d.
+* Name of the “Ambassadors Only” meeting has now been changed on calendar to “Leadership session”, for clarity.
+* We will give a heads-up to WG and Guild leads that new prospective Ambassadors might attend their meetings, and they should be welcomed.&#x20;
+* Sucre, Ash and Vani will continue to contact new people 1-to-1
+* There is a lot to do in this group, so we'll move to weekly meetings as of next week.
+
+
 
 ### Treasury Guild
 
