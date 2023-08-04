@@ -92,6 +92,42 @@ How do we automate processes? Discussion came up about how one poisonous person 
 
 The importance of KPI's. How we need to get to the root of the problems, steps for identifying problems. When things are difficult we need the ability to challenge/remove/sit and hash things out. See meeting recording  on YouTube in coming days.
 
+### <mark style="color:green;">Strategy Guild</mark>
+
+#### Agenda :&#x20;
+
+What's in the Ambassador name and stages of Ambassadors
+
+#### Present:&#x20;
+
+Headelf (host), Fly (co-host), Cran(co-host), Peter, Chris, Waka, SlySi, Tevo
+
+#### Length:&#x20;
+
+Approx 45 minutes. This meeting was after a lengthy Incubation meeting with special guest Grace Rakmany so we started late.
+
+#### Discussion:&#x20;
+
+Headelf filled in on previous meetings about the name, rankings, path and some confusion of how to become an “Ambassador”. Previous meetings came up with names of Lurkers (not yet engaged); New-bee (newly engaged); Trusted; Work Group Lead; Leadership (role at roundtable?). Lengthy discussion followed with Chris and WaKa having solid input on some of the names. Peter, Fly and Tevo expressed concerns on some of the labels and stages that had previously surfaced.
+
+It was decided that “Lurker” was not a warm name and perhaps Explorer would be better. Chris suggested an old Europe use of names ie. Initiate, Apprentice, Journeyman(person), Master. It was also brought up (WaKa maybe?) about Grace's use of belt colors as used in martial arts : white, yellow, orange and black. This will need more community input and discussion, thought it was almost agreed on via a light consensus type discussion that there are four formal “Ambassador: classes starting with New-bees. Oh this name was not particularly liked but until we decide on one I will continue to use. To this farmer in a bee hive the New bees usually come with spring and the revival of life after winter.
+
+The conversation pivoted to what does it take to become an ambassador. Waka commented that there was too much between stage 2 (trusted or newbee?) and stage 3 (trusted and WG lead?) where someone could begin to get paid. It was agreed after some convo that a formal request needed to be put in by an applicant. Not complicated but it ensures the person wants the position and they are cognizant of the process.
+
+**NOTE:** Headelf had to leave the meeting due to a previous date (engagement) so anything discussed after this (see below) is an addendum from other participants.
+
+Avoid naming the participation types and levels in ways that are offensive or patronizing, like Lurker or n00b. We should assume a new member perspective, and use terminology that maps for them the trajectory of meaningful growth in their participation lifecycle. Thus, Explorer or Prospect for recent arrivals.
+
+Levels structured around leadership and management of org entities \[Guilds / WG] is limiting and does not promote recognition of non-management contributions and subject area expertise.
+
+Best avoid framing the levels based on Discord roles, permissions, or validation steps.
+
+Terms like Member, Participant, Contributor may have additional implications and should be used selectively and consistently. For example, Participant vs. Contributor may imply eligibility for compensation. Member \[of an organization or a legal entity] may have jurisdiction-specific statutory implications.
+
+#### Next elegant steps:&#x20;
+
+Community involvement at next weeks Town Hall and Strategy meeting.
+
 ## Thursday 27th July 2023
 
 ### Onboarding Workgroup
