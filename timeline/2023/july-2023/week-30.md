@@ -24,7 +24,39 @@ description: 24th July to 30th July
 
 ### Dework PBL Workgroup
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Process Modelling Workgroup</mark>
+
+#### **Context:**&#x20;
+
+Developing process models for new workgroup formation&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764559775127220\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764559775127220\&cot=10)&#x20;
+
+#### **Video Summary:**
+
+{% embed url="https://www.youtube.com/watch?v=djJDzEx5HFc" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Housekeeping**&#x20;
+
+**Description** - We went through the facilitators who were assigned to the preparation of the meeting and the tasks assigned to them, and also went through the facilitation rotation that who will be preparing for the next meeting and its tasks.
+
+#### **2) Onboarding processes**&#x20;
+
+**Insight -** The onboarding process for new community members is essential for their effective integration into the workgroup. Creating a step-by-step guide ("A Program") will provide clear instructions and guidance, making it easier for newcomers to get acquainted with the workgroup's activities. \
+**Learning -** By implementing "A Program," the workgroup expects to see improved efficiency in onboarding new members and a reduction in the time taken for them to become active contributors.&#x20;
+
+#### **3) Listing/Availability of tasks**&#x20;
+
+**Insight -** Improved visibility of available tasks within the workgroup space is crucial for facilitating collaboration and encouraging members to engage in relevant projects. \
+**Learning -** By listing all the assets that workgroups deliver, members will have a comprehensive view of available tasks, enabling them to choose tasks aligned with their skills and interests more effectively.&#x20;
+
+#### **4) Next elegant steps** (general action items)&#x20;
+
+The workgroup will take a break for two weeks.
 
 ### <mark style="color:green;">Incubation Workgroup</mark>
 
