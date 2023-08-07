@@ -82,7 +82,15 @@ Hi-res PDF of Miro board for this meeting
 
 ### <mark style="color:green;">Archives Workgroup</mark>
 
-Not this week.
+{% embed url="https://youtu.be/g6B8czkg5ho" %}
+
+<mark style="color:green;">Meeting Issue</mark> &#x20;
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/41" %}
+
+<mark style="color:green;">Project Board</mark>
+
+{% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/1" %}
 
 ### <mark style="color:green;">Process Modelling Workgroup</mark>
 
