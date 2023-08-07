@@ -84,6 +84,18 @@ Hi-res PDF of Miro board for this meeting
 
 {% embed url="https://youtu.be/g6B8czkg5ho" %}
 
+**Hosts** : Stephen Whitenstall&#x20;
+
+**Date of Meeting** : Wednesday, 5th July 2023&#x20;
+
+**Attendees** : Andre, Stephen, Tevo & Vanessa&#x20;
+
+**Agenda** :&#x20;
+
+1 - GitHub Project Board - Stephen&#x20;
+
+2 - Practical Session - Vani
+
 <mark style="color:green;">Meeting Issue</mark> &#x20;
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/41" %}
