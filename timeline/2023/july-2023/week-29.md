@@ -244,7 +244,7 @@ Going over topics such as leadership and roles&#x20;
 
 #### Goal and/or Action Items:&#x20;
 
-Open discussion on what role leadership could play in the Ambassador Program, leading up to the Strategy meeting (see below) which followed and further explored roles.
+Open discussion on what role leadership could play in the Ambassador Program, leading up to the Strategy meeting (see [below](https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2023/july-2023/week-29#strategy-guild)) which followed and further explored roles.
 
 #### Brief Summary:&#x20;
 
@@ -254,7 +254,7 @@ The group discussed Pros and Cons of leadership roles.
 
 Discussion took place that there would need to be some incentivization for a leadership role. The program could potentially benefit from someone or some people totaling full-time to help with the program and see initiatives through and safeguard certain things like email communication (kind of have a final look at what goes out from the main email and comms).
 
-We lightly talked about Grace Rachmany coming to the following week's Incubation meeting on July 26, 2023.
+We lightly talked about Grace Rachmany coming to the following week's Incubation meeting on [July 26, 2023](https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2023/july-2023/week-30#incubation-workgroup).
 
 ***
 

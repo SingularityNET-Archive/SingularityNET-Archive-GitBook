@@ -102,6 +102,10 @@ Meeting with Grace Rachmany&#x20;
 
 1 hr&#x20;
 
+#### Meeting recording
+
+{% embed url="https://youtu.be/1M4cJqAMEOM" %}
+
 #### Goal and/or Action Items:&#x20;
 
 Ask questions to Grace Rachmany and bring up topics to help the Ambassador Program move forward.&#x20;
@@ -116,7 +120,7 @@ The topic moved into reputation of a person and how there's all these additive w
 
 How do we automate processes? Discussion came up about how one poisonous person can destroy a community without an anatomical structure to correct the situation. Sociocracy was brought up a few times and Grace mentioned exercises we could do: see [https://www.sociocracyforall.org/](https://www.sociocracyforall.org/)&#x20;
 
-The importance of KPI's. How we need to get to the root of the problems, steps for identifying problems. When things are difficult we need the ability to challenge/remove/sit and hash things out. See meeting recording  on YouTube in coming days.
+The importance of KPI's. How we need to get to the root of the problems, steps for identifying problems. When things are difficult we need the ability to challenge/remove/sit and hash things out. See meeting recording above for more detail.
 
 ***
 
