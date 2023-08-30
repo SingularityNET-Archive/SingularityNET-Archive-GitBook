@@ -44,9 +44,25 @@ No summary given
 
 ***
 
+**Hosts** : Stephen Whitenstall&#x20;
+
+**Date of Meeting** : Wednesday, 26th July 2023&#x20;
+
+**Attendees** : Andre, Peter, Felix, Stephen, Tevo & Vanessa&#x20;
+
+**Agenda** :&#x20;
+
+1 - GitHub Project Board - Stephen&#x20;
+
+2 - Discussion - Guidance notes/templates for meeting facilitators - Vani
+
+#### <mark style="color:green;">Meeting Issue</mark>
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/47" %}
+
 #### Project Board
 
-[https://github.com/orgs/SingularityNET-Archive/projects/1/views/1](https://github.com/orgs/SingularityNET-Archive/projects/1/views/1)
+{% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/1" %}
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
