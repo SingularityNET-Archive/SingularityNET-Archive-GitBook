@@ -22,6 +22,10 @@ description: 7th August to 13th August 2023
 
 ### Archives Workgroup
 
+#### Video
+
+{% embed url="https://youtu.be/Qp7plCU2zL0" %}
+
 ### Dework PBL Workgroup
 
 ### Process Modelling Workgroup
