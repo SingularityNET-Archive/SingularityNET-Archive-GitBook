@@ -38,9 +38,15 @@ No summary given
 
 ### Archives Workgroup
 
-Coming soon
+#### Video&#x20;
+
+{% embed url="https://youtu.be/PgbqNhysMfw" %}
 
 ***
+
+#### Project Board
+
+[https://github.com/orgs/SingularityNET-Archive/projects/1/views/1](https://github.com/orgs/SingularityNET-Archive/projects/1/views/1)
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
