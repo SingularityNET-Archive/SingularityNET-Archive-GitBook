@@ -26,6 +26,20 @@ description: 7th August to 13th August 2023
 
 {% embed url="https://youtu.be/Qp7plCU2zL0" %}
 
+**Hosts** : Stephen Whitenstall&#x20;
+
+**Date of Meeting** : Wednesday, 9th August 2023&#x20;
+
+**Attendees** : Andre, Stephen, & Vanessa&#x20;
+
+**Agenda** :&#x20;
+
+1 - GitHub Project Board - Stephen&#x20;
+
+2 - Discussion - Guidance notes/templates for meeting facilitators - Vani
+
+####
+
 ### Dework PBL Workgroup
 
 ### Process Modelling Workgroup
