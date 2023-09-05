@@ -26,7 +26,7 @@ description: 21st August to 27th August 2023
 
 **Hosts** : Vanessa
 
-**Date of Meeting** : Wednesday, 9th August 2023&#x20;
+**Date of Meeting** : Wednesday, 23rd August 2023&#x20;
 
 **Attendees** : Andre, & Vanessa&#x20;
 
