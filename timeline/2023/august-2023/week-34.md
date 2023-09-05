@@ -40,6 +40,10 @@ description: 21st August to 27th August 2023
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/53" %}
 
+#### Project Board
+
+[https://github.com/orgs/SingularityNET-Archive/projects/1/views/1](https://github.com/orgs/SingularityNET-Archive/projects/1/views/1)
+
 ### Dework PBL Workgroup
 
 ### Process Modelling Workgroup
