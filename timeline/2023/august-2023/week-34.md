@@ -22,6 +22,22 @@ description: 21st August to 27th August 2023
 
 ### Archives Workgroup
 
+{% embed url="https://youtu.be/VobFhJRSCzs" %}
+
+**Hosts** : Vanessa
+
+**Date of Meeting** : Wednesday, 9th August 2023&#x20;
+
+**Attendees** : Andre, & Vanessa&#x20;
+
+**Agenda** :&#x20;
+
+1 - GitHub Project Board - Vanessa&#x20;
+
+2 - Tool Development Screen share - Andre
+
+####
+
 ### Dework PBL Workgroup
 
 ### Process Modelling Workgroup
