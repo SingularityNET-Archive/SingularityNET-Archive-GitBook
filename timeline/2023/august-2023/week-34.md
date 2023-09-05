@@ -36,7 +36,9 @@ description: 21st August to 27th August 2023
 
 2 - Tool Development Screen share - Andre
 
-####
+#### Meeting Issue
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/53" %}
 
 ### Dework PBL Workgroup
 
