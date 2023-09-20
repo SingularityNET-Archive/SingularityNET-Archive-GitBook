@@ -36,6 +36,10 @@ This SingularityNET Archive GitBook (where you are currently located) aims to pr
 
 Thank you for visiting our GitBooks, and we look forward to your contributions!
 
+### Archive GitBook GitHub Source
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive-GitBook" %}
+
 ## To contribute
 
 To suggest changes to this message please comment in this [GitHub discussion thread](https://github.com/orgs/SingularityNET-Archive/discussions/2#discussion-5052599).
