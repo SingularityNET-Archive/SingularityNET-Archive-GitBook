@@ -4,8 +4,7 @@ description: 4th September to 10th September 2023
 
 # Week 36
 
-{% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=35070391&pane=issue" %}
-
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/58" %}
 
 ## Monday 4th September 2023 <a href="#docs-internal-guid-565643b2-7fff-f227-7377-f80e405da06c" id="docs-internal-guid-565643b2-7fff-f227-7377-f80e405da06c"></a>
 
