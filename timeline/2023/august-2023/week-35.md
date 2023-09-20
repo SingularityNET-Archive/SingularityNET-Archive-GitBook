@@ -7,11 +7,11 @@ description: 28th August to 3rd September 2023
 {% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=35070391&pane=issue" %}
 
 
-## Monday 4th September 2023 <a href="#docs-internal-guid-565643b2-7fff-f227-7377-f80e405da06c" id="docs-internal-guid-565643b2-7fff-f227-7377-f80e405da06c"></a>
+## Monday 28th August 2023 <a href="#docs-internal-guid-565643b2-7fff-f227-7377-f80e405da06c" id="docs-internal-guid-565643b2-7fff-f227-7377-f80e405da06c"></a>
 
 ### Education Guild
 
-## Tuesday 5th September 2023
+## Tuesday 29th August 2023
 
 ### Governance WorkGroup
 
@@ -19,7 +19,7 @@ description: 28th August to 3rd September 2023
 
 ### Process Guild
 
-## Wednesday 6th September 2023
+## Wednesday 30th August 2023
 
 ### Dework PBL Workgroup
 
@@ -27,7 +27,7 @@ description: 28th August to 3rd September 2023
 
 ### Incubation Workgroup and Strategy Guild
 
-## Thursday 7th September 2023
+## Thursday 31st August 2023
 
 ### Onboarding Workgroup
 
@@ -37,7 +37,7 @@ description: 28th August to 3rd September 2023
 
 ### Deepfunding Town Hall
 
-## Friday 8th September 2023
+## Friday 1st September 2023
 
 ### Video Workgroup
 
