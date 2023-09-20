@@ -36,7 +36,7 @@ description: 4th September to 10th September 2023
 
 1 - GitHub Project Board - Stephen
 
-#### AI summary
+#### AI summary - (claude.ai)
 
 * The meeting involved the SingularityNET Archive group, discussing ongoing projects and issues.
 * Topics discussed included updates needed for the Ambassadors GitBook, archiving town hall meetings, developing archival workflows, preparing the quarterly report, planning for next quarter, and outreach to other groups about archiving needs.
