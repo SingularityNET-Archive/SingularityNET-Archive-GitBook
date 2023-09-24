@@ -20,7 +20,7 @@ description: 7th August to 13th August 2023
 
 ## Wednesday 9th August 2023
 
-### Archives Workgroup
+### <mark style="color:green;">Archives Workgroup</mark>
 
 #### Video
 
