@@ -46,7 +46,34 @@ description: 21st August to 27th August 2023
 
 ### Dework PBL Workgroup
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Process Modelling Workgroup</mark>
+
+#### **Meeting Summary** **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together.
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764561795859944\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764561795859944\&cot=10)&#x20;
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/lSj_5bal8YE" %}
+
+#### **Agenda**
+
+#### **1) Improving Workgroup Type table**&#x20;
+
+discussion of differences between workgroup (ad-hoc) vs program (clearer process & skills and outputs) \
+discussion of principle for autonomous initiative-based creation of seed-stage group (not needing permission) and with our program's recommendations providing guidance for groups wanting official recognition & funding support \
+**Insight** - Onboarding workgroup may have additional onboarding requirements from workgroup types \
+**Insight** - Workgroups and Programs need at least 1 communications channel (fpr Seed workgroup it's optional) \
+**\[Action]** - prep templates/examples for groups wanting to get started \
+**\[Action]** - Prepare new design for matrix table with less sticky notes&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+**\[Action]** - Next meeting we will cover roadmap section.
 
 ### <mark style="color:green;">Strategy Guild</mark>
 

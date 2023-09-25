@@ -16,7 +16,44 @@ description: 14th August to 20th August 2023
 
 ### Ambassador Town Hall
 
-### Process Guild
+### <mark style="color:green;">Process Guild</mark>
+
+#### **Meeting Summary** **Context:**&#x20;
+
+We prioritize critical Ambassador Activities and cover process changes&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764559746347018\&cot=10](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764559746347018\&cot=10)&#x20;
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/v0A0puRP5co" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Process Guild Proposal**&#x20;
+
+**Description** - Sharing Statistics of participation and contribution in Process Guild and using that to propose more optimal path forward.\
+**\[Decision]** - Process Guild sessions will be stopped \
+**\[Decision]** - Process Guild Discord channel will remain \
+**Dework \[Action]** - All Agenda and Action Items from Process Guild Miro board to be moved to Process Guild Discord threads to have easier access to pick these items up\
+**Insight** - Interesting dashboard to look at in meeting notes \
+**Insight** - Onboarding WG may require most help at current stage \
+**Insight** - Process Modeling WG will continue to be active \
+**Learning** - Process Guild has fulfilled its goals and we now have a lot more members in the community who are running spaces and workgroups.
+
+#### **2) Ambassador Zoom Account**&#x20;
+
+**Description** - There was another annoying Troll attack in Ambassador Townhall \
+**\[Decision]** and **\[Action]** - Change all ambassador zoom account meetings to require email registration \
+**Insight** - people are starting to use their own Zoom accounts to create workgroups\
+**Insight** - Not every ambassador has the ability to use Google Authenticator \
+**\[Decision]** - we won't use our own GDPR text for Zoom registration, instead the default Zoom one.&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Continue looking out for action items in Discord and Dework﻿.
 
 ## Wednesday 16th August 2023
 
@@ -24,9 +61,78 @@ description: 14th August to 20th August 2023
 
 not this week
 
-### Dework PBL Workgroup
+### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-### Process Modelling Workgroup
+#### **Meeting Summary** **Context:**&#x20;
+
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559838187497\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559838187497\&cot=10)&#x20;
+
+#### **Meeting Video Summary:**&#x20;
+
+[https://youtu.be/mciTxnZQtJ4](https://youtu.be/mciTxnZQtJ4)&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **1) Review PBL Lesson development stages**&#x20;
+
+**Description** - Activities, estimated time allocation and project duration to contribute a lesson to PBL course \
+**\[Decision]** - Move Finalization Stage before Audit to indicate lesson writer opportunity to do final changes. \
+**\[Decision]** - Audits make the decisions to edit, include or withhold lesson from publications.\
+**Insight** - Andre interested in Auditing role&#x20;
+
+#### **2) New Status Window**&#x20;
+
+**Description** - This window is used to create a snapshots of PBL lesson development statuses. \
+**Insight** - 3 new Background lesson tasks were picked up \
+**Insight** - We have completed 2 lessons \
+**Insight** - We have 4 to be finalized \
+**Insight** - 4 lesson more in editing stage \
+**\[Decision]** - 22nd Tuesday is final date for finalizing and then starts auditing stage.
+
+#### **3) Feedback Form**&#x20;
+
+**Description** - Form to gather feedback from Dework PBL participants [https://docs.google.com/forms/d/e/1FAIpQLScMKxVYILl1gPksYgE3ZrmbQl6x26hvu0b4wH4LzCQOwr9xUw/viewform](https://docs.google.com/forms/d/e/1FAIpQLScMKxVYILl1gPksYgE3ZrmbQl6x26hvu0b4wH4LzCQOwr9xUw/viewform) **Dework \[Action]** - Form to be updated and checked again next meeting \
+**Insight** - In meeting we gathered a lot of feedback to improve Feedback form.
+
+#### **Next elegant steps** (general action items)&#x20;
+
+**\[Action]** Audit finalized lessons and add updates to Andamio \
+**\[Action]** Set up services to host PBL content courses online
+
+### <mark style="color:green;">Process Modelling Workgroup</mark>
+
+#### **Meeting Summary** **Context:**&#x20;
+
+Establishing or maintaining processes to help community members to efficiently collaborate together&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764560325345029\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764560325345029\&cot=10)&#x20;
+
+**Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/GHooGgd1MrQ" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Improving Workgroup Type table**&#x20;
+
+**Description** - What are the requirements to establish a workgroup or a program?\
+**\[Decision]** - To establish any workgroup, related to team structure we always need to know Cardano Wallet Address, Discord name and the skills required for the workgroup to run. \
+**\[Action]** - Come back to Team section and describe onboarding differences for each workgroup type.\
+**Insight** - if possible we always would like estimation of resource costs and work rate both actual and real rate \
+**Insight** - real rate is average market rate for the time. \
+**Insight** - Seed workgroups do not require measuring their workgroup, but establish workgroups and programs do \
+**Insight** - Seed workgroups do not require proposal to be established, but beyond that it is required. \
+**Insight** - to create a program you would require a process model documentation.
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Next meeting we will cover roadmap section.
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
@@ -109,7 +215,46 @@ Sucre’nSpice, Headelf \[facilitator] Vani, Tevo.
 * \[ACTION]: At next meeting on 24th, firm up exact date of onboarding session
 * \[ACTION]: Vani to draft slide-deck structure for next meeting, and Sucre and others to add content
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
+
+#### **Meeting Summary** **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities?&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764560854900578\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764560854900578\&cot=10)&#x20;
+
+#### **Video Summary:**&#x20;
+
+{% embed url="https://youtu.be/65YZnIfCpIA" %}
+
+#### **Agenda Items**&#x20;
+
+#### **1) Monthly Budget**&#x20;
+
+**Description** - The SNET Supervisory Council provides a third of their allocation to the Ambassador program, currently 57,648 AGIX per month until 20th May 2024 \
+**Insight** - We are reaching the limit of monthly budget (not enough AGIX rewards to distribute for all tasks) \
+**Insight** - We have around 70k AGIX left to reach quarterly budget limit&#x20;
+
+#### **2) Tag rate Standards**&#x20;
+
+**Description** - New feature idea for Dework Task Labels \
+**Insight** - When bounty task includes specific tag or specific combination of tags the task can have different rate of rewards based on task points (most commonly used as hours)
+
+#### **3) Treasury Guild Operations and Tooling Development**&#x20;
+
+**Description** - Where time is spent and what we are building \
+\[**Decision]** - Changing to Bi-Weekly meetings \
+**\[Decision]** - Create 1250$ fund request for awesome tools and features Andre has been building to automate Ambassador Program Treasury Management \
+**\[Decision]** - Reward up to 50h per month of Treasury Tool Development contributions at the rate of 25$ per hour for next quarter \
+**Insight** - Improving online Dashboard with Group information for Ambassador Program, estimated 2 months of development time \
+**Insight** - Current online Dashboard [https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet](https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet)&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+**\[Action]** Next Treasury Guild space is used for Grassroots Governance Community Forum. Governance Challenges and Collaborative Solutions - facilitated by EszterG from SingularityNet Foundation Register here: [https://us02web.zoom.us/meeting/register/tZYuc-qhrTkpH9VH8SbIAf4PL7tWJ6lIR\_7L](https://us02web.zoom.us/meeting/register/tZYuc-qhrTkpH9VH8SbIAf4PL7tWJ6lIR\_7L) \
+**\[Action]** Next Treasury Guild Session will take place 7th September (where we go over Ambassador budgets planning)
 
 ### AI Sandbox
 

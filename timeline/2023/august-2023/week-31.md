@@ -22,9 +22,43 @@ description: 31st July to 6th August 2023
 
 ## Wednesday 2nd August 2023
 
-### Archives Workgroup
+### <mark style="color:green;">Archives Workgroup</mark>
 
-### Dework PBL Workgroup
+Not this week
+
+### <mark style="color:green;">Dework PBL Workgroup</mark>
+
+#### **Meeting Summary** **Context:**&#x20;
+
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559745101280\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764559745101280\&cot=10)&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **1) Review and get the lessons in the right format**&#x20;
+
+**Description** - We looked at all our lessons and identified improvements \
+**\[Action]** - Refine our current lessons and turn them into markdown \
+**Insight** - To turn into markdown, copy all text and pictures in PBL Google Docs and paste in [https://stackedit.io/app](https://stackedit.io/app) \
+**Learning** - stackedit.io will turn the pictures into working links.&#x20;
+
+#### **2) Checking the structure of BBK Lessons**&#x20;
+
+**Description** - We looked at current structure and updated Miro board \
+**\[Action]** - Peter will do PBL Module on Permissions&#x20;
+
+#### **3) Feedback Forms**&#x20;
+
+**Description** - We discussed feedback forms for the PBLs \
+**Insight** - Having feedback forms for each lesson and a general form for whole course can be useful \
+**\[Decision]** - Completing feedback forms should not be mandatory.&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+Refine our lessons and turn them into markdown.
 
 ### Process Modelling Workgroup
 
@@ -74,11 +108,44 @@ Not enough time to discuss
 * Part of it could be fear that someone unknown who turns up in a Zoom meeting is a spammer. Should we circulate a list of the Zoom names of new people, so WG leads can keep an eye out for them?
 * Or do WG leads need a bit of training or ideas on how to welcome new people? (e.g. saying Hi rather than just ignoring)
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
+
+#### **Meeting Summary** **Context:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764559872563238\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764559872563238\&cot=10)&#x20;
+
+#### **Agenda Items**&#x20;
+
+#### **1) Collecting wallets during onboarding**&#x20;
+
+**Description** - We need an alternative to people sending wallets to Felix \
+**\[Decision]** - We will use Google form in "My first Bounty" task \
+**\[Action]** - Google form needs to be added to task&#x20;
+
+#### **2) No Gimbal tokens for tasks without task points**&#x20;
+
+**Description** - Informed Ambassadors in the call that no gimbals will be allocated to tasks without task points \
+**Insight** - There are tasks that don't need gimbals, like monthly subscriptions&#x20;
+
+#### **3) Better reporting on monthly budgets**&#x20;
+
+**Description** - We need better reporting on how the budget is spent each month.\
+**Insight** - Upgrading the treasury dashboard can solve this problem.&#x20;
+
+#### **Next elegant steps** (general action items)&#x20;
+
+\[Action] Implement the google form for wallet collection \
+\[Action]  Start work on the Treasury Dashboard
 
 ### AI Sandbox
 
 ### Deepfunding Town Hall
+
+No summary provided
 
 ## Friday 4th August 2023
 
