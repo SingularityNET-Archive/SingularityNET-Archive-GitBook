@@ -141,6 +141,50 @@ We went over the document and there were no objections, so it will be implemente
 
 ## Wednesday 20th September 2023
 
+### Archive Workgroup
+
+{% embed url="https://youtu.be/Fx9-9bpxAy8" %}
+
+#### Attendees
+
+Andre, Stephen \[facilitator], Peter. Vanessa
+
+#### Agenda
+
+1 - GitHub Project Board - Stephen
+
+2 - Close out Fund Requests for Quarter 3 2023 - All&#x20;
+
+3 - Quarter 3 Report for Archives Workgroup - Vanessa
+
+#### Summary
+
+(assisted by claude.ai)
+
+Reviewed the draft archival workflow design document, provided updates based on the new database interface being developed. Discussed whether bounties for uploading meeting summaries to GitBook are needed. Talked about potentially incentivizing workgroup leads to use new meeting summary templates, through a small bounty. Mentioned doing a town hall presentation to get buy-in on using the templates.
+
+#### Issues covered -
+
+* Ambassadors GitBook
+* Archive Gitbook - August 2023
+* Archival workflow design- LLMs to create archival finding aids
+* Meeting Summaries from Ambassadors TH
+* Quarter 3 2023 report for Archives WG
+* Archive WG Budget - Quarter 3 2023
+* How to archive Archive Group Meetings
+* Archive Gitbook - September 2023
+* Archive GitBook Backlog
+* Safeguards against data loss in Discord
+* Publicising Archive WG meetings
+* Bounties for Archiving meetings
+* Guidance notes/templates for meeting facilitators
+* Tool Development - September 2023
+* Governance GitBook
+
+#### Meeting Issue
+
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/55" %}
+
 ### Dework PBL Workgroup
 
 ### Process Modelling Workgroup
