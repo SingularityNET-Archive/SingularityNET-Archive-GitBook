@@ -61,9 +61,13 @@ The first part of the call was dedicated to introducing RnDAO to the SNET Ambass
 
 We see great synergies and opportunities for collaboration between the SNET Ambassador program and RnDAO. Follow up calls to further discuss effective collaborations will be initiated.
 
+***
+
 ### Ambassador Town Hall
 
-### Process Guild
+No summary given
+
+***
 
 ## Wednesday 13th September 2023
 
@@ -300,6 +304,10 @@ Headelf, Walter, Peter, Fly \[facilitator]&#x20;
 ***
 
 ### Treasury Guild
+
+Not this week
+
+***
 
 ### AI Sandbox
 

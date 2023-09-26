@@ -14,9 +14,15 @@ description: 4th September to 10th September 2023
 
 ### Governance WorkGroup
 
+Not this week
+
+***
+
 ### Ambassador Town Hall
 
-### Process Guild
+No summary given
+
+***
 
 ## Wednesday 6th September 2023
 
@@ -54,7 +60,7 @@ Not this week
 
 ### Process Modelling Workgroup
 
-
+No longer meeting
 
 ***
 
@@ -149,10 +155,26 @@ We didn't discuss quarterly budgets as yet, and should do so in next meeting as 
 
 ### AI Sandbox
 
+Not this week
+
+***
+
 ### Deepfunding Town Hall
+
+No summary given
+
+***
 
 ## Friday 8th September 2023
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***
