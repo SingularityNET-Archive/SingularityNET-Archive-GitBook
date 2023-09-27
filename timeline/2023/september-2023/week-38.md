@@ -110,7 +110,9 @@ Aggregating Ambassador Program assets and relevant information under GitBook
 
 ## Tuesday 19th September 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
+
+Not this week
 
 ### <mark style="color:green;">Ambassador Town Hall</mark>
 
@@ -136,8 +138,6 @@ We had a consent check on implementing our Code of Conduct document, which can b
 We went over the document and there were no objections, so it will be implemented!
 
 ***
-
-### Process Guild
 
 ## Wednesday 20th September 2023
 
@@ -185,15 +185,33 @@ Reviewed the draft archival workflow design document, provided updates based on 
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/55" %}
 
-### Dework PBL Workgroup
+### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-### Process Modelling Workgroup
+Not this week
 
-### Incubation Workgroup and Strategy Guild
+***
+
+### <mark style="color:green;">Process Modelling Workgroup</mark>
+
+Not this week
+
+***
+
+### Incubation Guild
+
+Not this week
+
+***
+
+### Strategy Guild
+
+***
 
 ## Thursday 21st September 2023
 
 ### Onboarding Workgroup
+
+***
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
@@ -254,12 +272,28 @@ We will continue discussing the next quarter's budget in the Discord Ambassadors
 
 ***
 
-### AI Sandbox
+### <mark style="color:green;">AI Sandbox</mark>
+
+Not this week
+
+***
 
 ### Deepfunding Town Hall
+
+No summary given
+
+***
 
 ## Friday 22nd September 2023
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***
