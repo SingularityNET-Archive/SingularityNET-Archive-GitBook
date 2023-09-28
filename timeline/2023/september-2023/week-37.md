@@ -140,7 +140,7 @@ Fly, Osmium, Peter, SucrenSpice, Walter (WaKa), Headelf \[facilitator].
 
 #### Notes:&#x20;
 
-1. Headelf played a video he did: topic Code Of Conduct for Singularity Net. Link: invideo-ai-480 SingularityNET Code of Conduct\_ A Commun 2023-09-13 (2).mp4 [https://s3-pro-exports.invideo.io/3044cc97-6785-4598-b75a-c10ebe5c5dd9/3044cc97-6785-4598-b75a-c10ebe5c5d](https://s3-pro-exports.invideo.io/3044cc97-6785-4598-b75a-c10ebe5c5dd9/3044cc97-6785-4598-b75a-c10ebe5c5d)&#x20;
+1. Headelf played a video he made: topic Code Of Conduct for Singularity Net. (Note:video was made as a test using free version of Invideo, so link is now expired.)
 2. Headelf read a recap of the former async document which was now edited.
 3. Discussion ensued on the edited doc. The attendees went over each paragraph and concept in turn - working towards consensus on each. Mesh was deleted as not a concern. The old 6 was deleted and added in part to Professionalism. Some other minor changes made.
 4. A review of the statements made in the Onboarding meeting the previous week was reviewed. One item was considered germane to COC and was incorporated. The other teams were ethic or otherwise related and were not incorporated.
