@@ -197,13 +197,35 @@ Not this week
 
 ***
 
-### Incubation Guild
+### <mark style="color:green;">Incubation Guild</mark>
 
 Not this week
 
 ***
 
-### Strategy Guild
+### <mark style="color:green;">Strategy Guild</mark>
+
+#### Participants:&#x20;
+
+TheDeFreys, Peter, Osmium, Fly, Headelf \[facilitator]&#x20;
+
+#### Agenda:&#x20;
+
+Conflict resolution&#x20;
+
+#### Notes:
+
+A long convo started as the group ideated on what is a conflict resolution, definitions, guardrails and goals.&#x20;
+
+Definitions were first. What is meaning of ‘Conflict’. What is meaning of ‘Resolution”. We discussed ‘Decision Making Process’. Fly brought up the subject of ‘what body will deal with this’? Headelf suggested we table the ‘body concept’ and work on definitions. Peter brought up the COC and process. Osmium defined from google or dictionary - Dispute is the active disagreement between people with opposing opinions. Accepted. Resolution - ‘coming to terms’. Question from DeFreys is How will we handle? Peter suggested that a conflict in a WG be handled within that WG. If cannot be scale it up to The Round Table(wip). DeFreys pivoted to a question of a Violation to the now extant COC. What to do. He suggested a board for conflict resolution and other issues that works within the particular group then have an appeal process with 1.the Two people to attempt to handle with the WG leads. Question then was raised by Headelf if/should WG leads or all Ambassadors have conflict resolution training. Cannot force someone to get training was noted. The convo on training needs and requirements and possibility of outside resources was long and consumed the rest of the meeting with no consensus. We did put together a rough draft of a CR document [https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5\_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing](https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5\_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing)&#x20;
+
+#### Meeting length:&#x20;
+
+1\. 45 hours&#x20;
+
+#### Action items:&#x20;
+
+**\[Action]** All to make comments on Conflict Resolution document.
 
 ***
 
