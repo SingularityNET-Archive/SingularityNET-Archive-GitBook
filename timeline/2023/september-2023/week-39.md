@@ -190,7 +190,8 @@ The discussion covered:&#x20;
 * Vani - Take turns to facilitate, like we do in this group, so the pay is shared? Particularly pay the new people (i.e. maybe a bonus if it’s your first time),, to reward taking the risk of jumping in and facilitating?
 * Onyeka - Facilitation is not easy - introverts find it harder - it shouldn’t be free cos it takes time
 
-**\[Decision]** To be further discussed in next Onboarding meeting in the light of what comes up in Treasury Guild discussion later today (28th Sept 2023)
+**\[Decision]** To be further discussed in next Onboarding meeting in the light of what comes up in Treasury Guild discussion later today (28th Sept 2023)\
+**\[Action]** Some attendees at this meeting will also attend Treasury discussion later today.
 
 #### Action items:
 
