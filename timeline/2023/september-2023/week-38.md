@@ -231,7 +231,65 @@ Definitions were first. What is meaning of ‘Conflict’. What is meaning of �
 
 ## Thursday 21st September 2023
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
+
+#### Attendees:&#x20;
+
+Vani {facilitator] Sucre n Spice, Tevo, Headelf \[documenter], LadyTempestt, Onyeka. Hogan joined later.
+
+#### Agenda:&#x20;
+
+#### 1) Approve minutes of last meeting
+
+Approved
+
+#### 2) Action Items from last meeting
+
+a. Getting Started Discord channel (needed work)
+
+b. Ask Video WG for 7th Sept onboarding session edit (in the works)
+
+c. Sucren to pass Hogan’s comment on to Rojo about increasing engagement; (done)
+
+d. Peter to join translation session next week to discuss entry level tasks. (in the works)
+
+#### 3) “Getting Started channel”
+
+The document [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) was shared, discussed, and edited live.&#x20;
+
+* Suggestion: Pin the edited doc to the Getting Started channel in Discord in full text form, and also share it on social media etc.
+* Question from Onboarding session on 7th Sept: should we create a FAQ?
+* Discussion - is the text simple enough, does it get the proper message across. A big concern was - if the frequently asked question of, ‘How do I become an ambassador’ was/is properly answered in the edited document.
+* Vani asked the newer (to the ambassador program) participants if they had suggestions and Onyeka input a question about tasks, types and how to get assigned to one. This was incorporated into the document in the FAQ section. LadyTempestt asked how to apply for tasks on Dework. This was added to the FAQ. section of the document.
+
+Discussion and editing stopped with 10 minutes left in the meeting time&#x20;
+
+#### 4) Onboarding and how to increase participation.
+
+* Vani brought up some ideas to help people and asked for suggestions.&#x20;
+* Tevo suggested having requirements for workgroups to explain their process as each workgroup is independent and may have differing requirements and procedures.&#x20;
+* Sucre n Spice suggested that each Discord channel should put up a post about how to get started in that channel.&#x20;
+* She then asked LadyTempestt how she found it to get involved with Writers Workgroup. LadyTempestt indicated that she had taken the scribbler test, then DMd Kenichi, and she had found the onboarding process easy. Onyeka also took the test and is waiting on Kenichi to get back in touch with him. &#x20;
+* Some more discussion followed on how to get onboarding explanations for each Guild or Workgroup to educate the Explorers and Level1 Ambassadors.&#x20;
+* Some pushback on the time it was taking to get onboarded with Writers Workgroup.&#x20;
+
+**\[Decision]** Vani or Sucren to create a Google Doc to ideate async, ready for next Onboarding Meeting.&#x20;
+
+#### Meeting ended:&#x20;
+
+14:02 UTC
+
+#### Action Items:&#x20;
+
+**\[Action]** - Doc creation by Vani on Workgroup specific onboarding concepts to make it easier for Explorers and Level1 Ambassadors. See [Onboarding WG - how can we support other WGs to onboard new people in their meetings](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
+
+**\[Action]** Tidy up Getting Started doc. Post the doc in Discord for editing. Then post to Discord channel.
+
+#### Note:
+
+the meeting scribe was Headelf who did add some titles that were not actually used in the meeting, such as Explorers and Level1 Ambassadors for clarity purposes.
+
+
 
 ***
 
