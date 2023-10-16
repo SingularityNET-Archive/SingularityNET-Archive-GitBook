@@ -54,6 +54,36 @@ We finished by covering multiple DeepFunding proposals by our ambassadors.
 
 ### Archives Workgroup
 
+{% embed url="https://youtu.be/9aKEV1Ier5A" %}
+
+Archive Workgroup - Meeting 10
+
+#### Attendees
+
+Andre, Stephen \[facilitator], Kenichi, Newman, Felix. Vanessa&#x20;
+
+Agenda : 1 - GitHub Project Board - Stephen&#x20;
+
+#### Summary
+
+Possible solutions to the Archive GitBook backlog were discussed. Concerns were raised about Safeguards against data loss in Discord. There were lengthy discussions on Bounties and templates for meeting summaries. Andre presented the draft interface for capturing meeting templates. Use of the Governance Gitbook was considered.&#x20;
+
+#### Issues covered
+
+* Ambassadors GitBook - Vanessa - 1:23
+* Archive GitBook - October 2023 - Vanessa - 02:20
+* LLMs to create archival finding aids - 02:56
+* Meeting Summaries from Ambassadors TH - 04:04
+* Archive WG Budget - Quarter 3 2023 - 07:23
+* Archive Gitbook - September 2023 - Vanessa - 11:10
+* Archive GitBook Backlog - Stephen - 21:05
+* Safeguards against data loss in Discord - 26:39
+* Publicising Archive WG meetings - 28:47
+* Bounties - Vanessa - 32:49
+* Guidance notes/templates for meeting summaries - 52:04
+* Tool Development - October 2023 - Andre - 56:24
+* Governance GitBook - 1:21:12
+
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
 not this week
