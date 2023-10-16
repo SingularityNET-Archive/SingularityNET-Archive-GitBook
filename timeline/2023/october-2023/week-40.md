@@ -12,6 +12,8 @@ description: 2nd October to 8th October 2023
 
 ### Knowledge Base Workgroup
 
+***
+
 ## Tuesday 3rd October 2023
 
 ### <mark style="color:green;">Governance WorkGroup</mark>
@@ -24,7 +26,7 @@ Not this week
 
 #### Video:&#x20;
 
-coming soon
+{% embed url="https://www.youtube.com/watch?v=dN0VyNmtxsk" %}
 
 #### Summary
 
