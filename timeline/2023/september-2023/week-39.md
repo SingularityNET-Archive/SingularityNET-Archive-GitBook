@@ -10,7 +10,37 @@ description: 25th September to 1st October 2023
 
 ## Monday 25th Sept 2023 <a href="#docs-internal-guid-8c7843e0-7fff-3115-a00e-611719ec27d3" id="docs-internal-guid-8c7843e0-7fff-3115-a00e-611719ec27d3"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+#### Present:
+
+Headelf \[facilitator]; Freysdefi \[documenter]; WaKa; Peter; Rojo; Osmonium; Fly.
+
+#### Agenda:&#x20;
+
+Video education series.&#x20;
+
+#### Notes:
+
+Meeting began with showing video that Headelf created using Invideo about Snet. Discussion followed with comments and critiques.
+
+Peter went next and showed his Invideo on the Rejueve s\ecosystem. Discussion and critiques followed.
+
+More discussion went into what should be included in videos to achieve a similar educational content. It was casually agreed that the following would be included: Founding date and founder, CEO, Tokens, Info on server, Links to video in call to action, Relevant links.
+
+It was stated by someone that reading blogs was more effective then video.An extreme amount of pushback occurred in discussion about the need for educating ambassadors.
+
+Headelf made a comment about the amount of pushback and volume made him think education should discontinue then, if the group did not feel we should educate or use videos to do so. Fly indicated that video education was not the type of education he was interested in. FreysDefi asked about purpose of Ambassador. Discussion followed.
+
+#### Meeting length:
+
+1 hour
+
+#### Action items:&#x20;
+
+None
+
+***
 
 ## Tuesday 26th Sept 2023
 
