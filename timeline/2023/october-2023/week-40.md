@@ -41,7 +41,7 @@ Aggregating Ambassador Program assets and relevant information under GitBook&#x2
 
 #### **Next elegant steps** (general action items)&#x20;
 
-**\[Action]** Still looking for help to collect other workgroup assests and resources. \
+**\[Action]** Still looking for help to collect other workgroup assets and resources. \
 **\[Action]** The reward amount is increased to 20$/h \
 **\[Action]** Next call we will further analyze resources.
 

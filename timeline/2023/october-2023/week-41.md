@@ -91,7 +91,9 @@ Address session feedback into Meeting Method Recording Lesson - Sucren 25.10.23 
 Play around with Git pull request to prepare for GitLab Pull Request Lesson - Andre, Tevo 25.10.23 \
 Address Google Form feedback to update some Lessons - Tevo 25.10.23&#x20;
 
-#### **2) Technical Platform Discussions** **Discussion Points**&#x20;
+#### **2) Technical Platform Discussions**&#x20;
+
+#### **Discussion Points**&#x20;
 
 Would it be possible to create pagebreak links? The mobile view is not formatted correctly and texts are going out of the boundaries Updated Technical Request Document&#x20;
 
