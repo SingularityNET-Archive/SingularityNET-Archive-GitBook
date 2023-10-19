@@ -10,6 +10,10 @@ description: 4th September to 10th September 2023
 
 ### Education Guild
 
+No summary given
+
+***
+
 ## Tuesday 5th September 2023
 
 ### Governance WorkGroup
@@ -21,6 +25,10 @@ Not this week
 ### Ambassador Town Hall
 
 No summary given
+
+#### Video
+
+{% embed url="https://www.youtube.com/watch?v=CCNeJI20f0c" %}
 
 ***
 

@@ -8,7 +8,9 @@ description: 16th October to 22nd October 2023
 
 ## Monday 16th October 2023 <a href="#docs-internal-guid-4b389c9a-7fff-36eb-379b-f302c6d49b59" id="docs-internal-guid-4b389c9a-7fff-36eb-379b-f302c6d49b59"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+Not this week
 
 ***
 
