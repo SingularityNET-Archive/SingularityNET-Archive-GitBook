@@ -243,9 +243,9 @@ not this week
 
 ***
 
-### Saturday 7th October 2023
+## Saturday 7th October 2023
 
-#### Gamers' Guild
+### Gamers' Guild
 
 #### Attendees:  <a href="#docs-internal-guid-174e89f4-7fff-a899-6b3b-49d6ddb172a1" id="docs-internal-guid-174e89f4-7fff-a899-6b3b-49d6ddb172a1"></a>
 
