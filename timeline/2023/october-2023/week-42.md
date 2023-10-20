@@ -83,7 +83,76 @@ Ambassador Gitbook, Miro Board, Treasury Guild, Meeting was short
 
 ### Onboarding Workgroup
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
+
+#### **People Present:**&#x20;
+
+Tevo, Andre, Peter, newman, callyfromauron, headelf, pureRelativity, fly, rojo&#x20;
+
+#### **Purpose:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities?&#x20;
+
+#### **Meeting notes:**
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764565380923749\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764565380923749\&cot=10)&#x20;
+
+#### **Dework Updates:**
+
+[https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)&#x20;
+
+#### **1) Ambassador September Rewards**&#x20;
+
+#### **Decision items**&#x20;
+
+We will have async voting if we should reward Ambassadors from reserve&#x20;
+
+#### **Action Items**&#x20;
+
+Create async voting item to reward from reserves - Tevo 23.10.23&#x20;
+
+#### **Discussion Points**&#x20;
+
+Have a better overview of budget limitations avoid undoing decisions \
+There are several async activities that ambassadors do but are not recognized&#x20;
+
+#### **2) What needs to be done to get Q4 budget decided?**&#x20;
+
+#### **Decision items**&#x20;
+
+We should not use collected data as projections for each workgroup&#x20;
+
+#### **Action Items**&#x20;
+
+Each workgroup updates finalizes their workgroup budget - Workgroup leads 02.11.23&#x20;
+
+#### **Discussion Points**&#x20;
+
+Expect Workgroups to have some idea of budget projections&#x20;
+
+#### **3) Treasury Dashboard**&#x20;
+
+#### **Action Items**&#x20;
+
+Add a reserve budget line to live dashboard - Andre 02.11.23 \
+Include workgroup budget projections into dashboard - Tevo, Andre \
+See what I could do to differentiate one off payments in Power BI - Tevo 02.11.23 \
+Create extra columns to see workgroup average spending and range of spending - Tevo, Andre 02.11.23&#x20;
+
+#### **Discussion Points**&#x20;
+
+from our first experiment we most likely wont get any meaningful trends from data&#x20;
+
+**Keywords**&#x20;
+
+\[topics covered] Dashboard, Power BI, Miro Board, Ambassador Role, Budget Ambassador Program Q4 Budgets:&#x20;
+
+\[sources] [https://docs.google.com/document/d/1\_39aE3tzcV7FuubRPDP3pMFWLY8o67dHxWYFKDSRYNU/edit#heading=h.ru81ay70gup](https://docs.google.com/document/d/1\_39aE3tzcV7FuubRPDP3pMFWLY8o67dHxWYFKDSRYNU/edit#heading=h.ru81ay70gup)  \
+[https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report](https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report)&#x20;
+
+\[how the meeting felt] In this session tensions were high, but we managed to stay constructive
+
+***
 
 ### Incubation: AI Sandbox
 
