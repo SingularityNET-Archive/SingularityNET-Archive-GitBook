@@ -81,7 +81,64 @@ Ambassador Gitbook, Miro Board, Treasury Guild, Meeting was short
 
 ## Thursday 19th October2023
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
+
+#### People present:  <a href="#docs-internal-guid-69ade962-7fff-6410-17f1-bdf519993d6d" id="docs-internal-guid-69ade962-7fff-6410-17f1-bdf519993d6d"></a>
+
+Sucre n Spice \[facilitator]; Vani \[documenter]; Hogan Tuso; Peter; Lord Kizzy
+
+#### In this meeting we discussed:&#x20;
+
+New Onboarding email \
+Video of the 7th Sept Onboarding meeting\
+Whether the Onboarding WG should be presented as a “1st port of call” for new people\
+Q4 budget and costing our work\
+The value of hidden work\
+The importance of 1-2-1 engagement work, of the kind that Sucre does\
+The problem of people doing tasks for rewards only\
+Flat rate payments, vs payment per engagement, vs payment per task, vs payment per hour
+
+#### Decisions:
+
+* new Onboarding email [https://docs.google.com/document/d/1dFfexScth-EyoKW1dhoCrsAz53E131YGXJykDPB-aBE/edit?usp=sharing](https://docs.google.com/document/d/1dFfexScth-EyoKW1dhoCrsAz53E131YGXJykDPB-aBE/edit?usp=sharing)  - Step 2 should not be “attend all meetings” - instead, highlight a) Ambassadors TH, and b) Onboarding WG.  \
+  **Rationale** - New people might have opinions on onboarding, and might find it easy to engage in the WG.
+* We will pay people to comment in discussion docs: $10 per doc that you contribute to (not per contribution). At the end of the quarter, assess whether people are commenting purely for the reward.&#x20;
+* $200 per month to Sucre for direct onboarding work, (DMs, explaining things individually). \
+  **Rationale:** we recognised the value of this mostly-invisible work - 2 people in the meeting said how much it had helped them. Without it, people often don’t get properly onboarded.&#x20;
+
+#### Action items:&#x20;
+
+* Sucre to tweak Onboarding email and send out by next week
+* Vani to meet LadyTempestt and LordKizzy re: meeting documentation by next week
+* All to try to attend Treasury meeting later today
+
+#### Learning points:&#x20;
+
+* Payment-per-contribution may cause people to add low-value input purely to get the reward. But worth the risk, to avoid micromanagement, and minimise overhead in assessing who gets paid.
+* There is more to pricing a task than how long it takes. Special skills or knowledge; how essential the work is; how demanding it is (e.g. being constantly “on call”) can affect what is a fair price.
+* 1-2-1 onboarding work: long term, Sucre could perhaps train more people to do it, but for now she can manage it.
+
+#### Things to carry over for next meeting: &#x20;
+
+none
+
+#### Keywords:
+
+#### Topics covered
+
+onboarding; video WG; meeting summaries; costing; budget, Q4; worth; value; hidden work; micromanagement; contribution
+
+#### Sources
+
+[https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing), [https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG\_LkKvFp5tRER30sxT\_wGV3ySt-MZ4/edit](https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG\_LkKvFp5tRER30sxT\_wGV3ySt-MZ4/edit), [https://app.dework.xyz/singularitynet-ambas/onboarding-workgroup](https://app.dework.xyz/singularitynet-ambas/onboarding-workgroup), [https://docs.google.com/document/d/1ZQA9xOyKFoiOgzI9ED9pExPIWs62tH9i\_r\_CSib6S-k/edit?usp=sharing](https://docs.google.com/document/d/1ZQA9xOyKFoiOgzI9ED9pExPIWs62tH9i\_r\_CSib6S-k/edit?usp=sharing)&#x20;
+
+[https://docs.google.com/document/d/1dFfexScth-EyoKW1dhoCrsAz53E131YGXJykDPB-aBE/edit?usp=sharing](https://docs.google.com/document/d/1dFfexScth-EyoKW1dhoCrsAz53E131YGXJykDPB-aBE/edit?usp=sharing)&#x20;
+
+#### how the meeting felt:&#x20;
+
+late-start; collaborative; shy; funny; good humoured; interesting
+
+***
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
