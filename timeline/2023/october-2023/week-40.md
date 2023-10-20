@@ -233,4 +233,47 @@ not this week
 
 ### Writers' Workgroup
 
+
+
+***
+
 ### Video Workgroup
+
+
+
+***
+
+### Saturday 7th October 2023
+
+#### Gamers' Guild
+
+#### Attendees:  <a href="#docs-internal-guid-174e89f4-7fff-a899-6b3b-49d6ddb172a1" id="docs-internal-guid-174e89f4-7fff-a899-6b3b-49d6ddb172a1"></a>
+
+Malik, Slate, Mikasa, Kenichi, New Man, Hufiumer69, Muhammad Ahmad, Dntmineifido, Devon Hardy
+
+#### Meeting Highlights:
+
+1. The meeting commenced with an announcement of the game to be played, which was Land IO. Slate provided some background information and explained the game to the attendees.
+2. Slate also presented the rules for the game and the ranking method that would be applied throughout the gaming session. The rules included:
+
+* Three rounds of Land IO, each lasting 3 minutes.
+* At the end of each round, a leaderboard would be concluded and recorded.
+* Points would be awarded to the top 3 participants of each round as follows:
+  * 1st rank: 4 points
+  * 2nd rank: 3 points
+  * 3rd rank: 2 points
+
+3. The game commenced with Slate guiding everyone on how to play, and each member was shifted to a private game section to begin playing.
+4. The winners of each round were announced:
+   * The first game was won by Devon Hardy
+   * The second game was won by Hufiumer69.
+   * The third game was won by Deon Hardy.
+5. In the last 15 minutes of the event, an open room was provided for suggestions and questions related to the games and how to improve them.
+6. Slate concluded the meeting by announcing that the leaderboard would be shared in the Gamers Guild channel on Discord. Winners would be tagged for their bounties on Dework.
+
+#### Action Items:
+
+* Share the leaderboard in the Gamers Guild Discord channel.
+* Tag the winners for their bounties on Dework.
+
+The meeting was successful in organizing a competitive gaming session and promoting camaraderie among the Gamers Guild members. Congratulations to the winners, Devon Hardy, Hufiumer69, and Deon Hardy!
