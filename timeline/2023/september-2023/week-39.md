@@ -46,7 +46,17 @@ None
 
 ### Governance WorkGroup
 
+No summary given
+
+***
+
 ### Ambassador Town Hall
+
+No summary given.
+
+#### Video
+
+{% embed url="https://youtu.be/FWzpjh5T17M?si=lhzI1CLz4hjJq5Zy" %}
 
 ***
 

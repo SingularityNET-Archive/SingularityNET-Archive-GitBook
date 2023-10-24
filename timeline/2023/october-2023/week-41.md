@@ -16,7 +16,21 @@ description: 9th October to 15th October 2023
 
 ### Governance WorkGroup
 
+No summary given
+
+
+
+***
+
 ### Ambassador Town Hall
+
+No summary given
+
+#### Video
+
+{% embed url="https://youtu.be/4bhTNXdXRyU?si=V1KmOdBO8Mwbdr_u" %}
+
+***
 
 ### <mark style="color:green;">Incubation Guild Think-Tank</mark>
 
