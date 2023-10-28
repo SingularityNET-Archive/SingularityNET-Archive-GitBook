@@ -220,3 +220,26 @@ from our first experiment we most likely wont get any meaningful trends from dat
 ### Writers' Workgroup
 
 ### Video Workgroup
+
+#### Present: 
+
+Rojo \[facilitator], Agus, Judith, Peter, TUSO, Lord Kizzy.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* Discussed upcoming tasks for next week.
+* Talked about potential topics for future videos.
+* Discussed the process of editing Town Hall videos and Town Hall summaries.
+* Welcomed Lord_Kizzy as our newest member by the votes conducted by the VW members.
+* Talked about our current 3 new applicants.
+
+#### Decisions: 
+
+Admitted 3 new members to the workgroup through a majority vote.
+
+
+#### Action items: 
+
+* Make weekly tasks for editing the Town Hall recording and its summary video.
+
