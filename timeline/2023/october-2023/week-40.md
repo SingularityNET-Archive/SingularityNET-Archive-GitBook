@@ -239,6 +239,22 @@ not this week
 
 ### Video Workgroup
 
+#### Present: 
+
+Agus \[facilitator], Peter, Lord Kizzy.
+
+#### In this meeting we:
+
+Discussed a little bit about the incident about the YouTube Singularity NET account, we were Peter and me for 20 minutes and when both jumped off, Lord Kizzy joined, so we had a little conversation.
+
+#### Decisions: 
+
+none
+
+
+#### Action items: 
+
+none
 
 
 ***
