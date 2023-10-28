@@ -46,4 +46,29 @@ description: 23rd October to 29th October 2023
 
 ### Writers' Workgroup
 
+
+
 ### Video Workgroup
+
+#### Present: 
+
+Rojo \[facilitator], Agus, Judith, Peter, TUSO, Lilycupcake, St Andrew, Lord Kizzy.
+
+#### In this meeting we:
+
+* Got updates about the recurrent weekly tasks.
+* Got updates from the social media manager.
+* Discussed challenges in tasks for new members.
+* Planned a workshop on the Psychology of social media for next week.
+* Discussed strategies to amplify social media growth and impact.
+
+#### Decisions: 
+
+* Accepted a new member into the workgroup through a majority vote by the members.
+
+
+#### Action items: 
+
+* Make weekly tasks for editing the Town Hall recording and its summary video.
+* Workshop on the Psychology of social media for next week.
+
