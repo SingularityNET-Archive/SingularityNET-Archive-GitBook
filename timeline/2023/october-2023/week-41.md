@@ -198,4 +198,30 @@ Continuing the discussion from last session. See: [SNET Onboarding WG Task Rewar
 
 ### Writers' Workgroup
 
+
+
+
 ### Video Workgroup
+
+#### Present: 
+
+Rojo \[facilitator], Agus, Judith, OEP, Peter, TUSO, Lilycupcake.
+
+#### In this meeting we:
+
+* Introduced our new 3 members.
+* Had an update about our operation.
+* Talked about the new weekly tasks (i.e. Town Hall editing, Town Hall summaries,…).
+* Explained the process of making a contribution to the video workgroup.
+* Updated about social media postings.
+* Peter suggested some topics for videos.
+* Opened the discussion to general questions.
+
+#### Decisions: 
+
+none
+
+
+#### Action items: 
+
+* Make weekly tasks for editing the Town Hall recording and its summary video.
