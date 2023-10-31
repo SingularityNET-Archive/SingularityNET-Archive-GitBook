@@ -61,7 +61,69 @@ Ambassador Gitbook, Miro Board, Treasury Guild, Meeting was short
 
 ## Tuesday 17th October 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
+
+(Note: this summary covers both 17th and 24th Oct 2023)
+
+#### People Present:&#x20;
+
+Kenric, Peter, Rojo, Fly, Headelf, Felix \[documenter]
+
+#### Purpose:&#x20;
+
+This Workgroup focuses on topics around Governance systems and processes at the SingularityNET Ambassadors program&#x20;
+
+#### Summary:
+
+In the Meetings on October 17th and October 24th, we discussed and ideated on a process to use the SNET Ambassadors Contribution and Treasury systems to define an onchain voting system based on a "one-person-one-vote" test vote on the Cardano Blockchain:&#x20;
+
+More information at: Meeting Notes: [https://docs.google.com/document/d/1h\_KtaPZxV977x3Mxa7T4ta-ivcxXbgmOYetAT3seDw8/edit?usp=sharing](https://docs.google.com/document/d/1h\_KtaPZxV977x3Mxa7T4ta-ivcxXbgmOYetAT3seDw8/edit?usp=sharing)&#x20;
+
+#### Detail
+
+This process outlines a first PoC of one-person-one-vote decision making process within the SingularityNET Ambassadors program.
+
+**How it actually works**
+
+1\) Ambassador Program participants contribute\
+2\) Contributions are tracked via Dework/GitHub tasks\
+3\) Contribution tasks are uploaded into treasury system\
+4\) Treasury system transforms participations into onchain data (Transactions)
+
+This process allows us to “validate” individual contributors over an open-ended time frame and the longer an contributor engages, the stronger his identity gets. This finally introduces a process which is able to replace a KYC process, bootstrapping a new way of “Proof Of Livelihood” while in the meantime ensuring a high level of anonymity as the only identifiers used are a Discord handle and a Wallet Address on the Cardano Blockchain. As this process provides a verifiable list of contributors, each linked to one specific wallet, we have plenty of interesting opportunities to pilot decision making processes based on “one-person-one-vote” at a Blockchain protocol level.
+
+To achieve the “one-person-one-vote”, we whitelist the program's contributors, generate a list of eligible wallets and send one voting token to each contributor. In this first pilot, we will use the [Voteaire Platform](https://voteaire.io/), which allows voting processes on the Cardano Blockchain.&#x20;
+
+(There are multiple other platforms and solutions to run an on-chain voting process on the Cardano Blockchain; we use Voteaire due to its easy interface)
+
+The Voting Ballot will allow only holders of the Voting token to cast their votes, through the policy id of the token.
+
+#### Voting Eligibility parameters
+
+At this first pilot, we defined some very simple parameters on how to “select” eligible voters. These soft parameters can be easily changed and adjusted in further initiatives.
+
+**Individuals are eligible if:**\
+&#x20;**-** Minimum 5hrs tracked contribution in the Program \
+&#x20;\- Active for a minimum of 6 months in the Program
+
+Token policy id - 3bbbc9facd9611c1f72521245c2ef3e72e6d580b11ad767a6584d045 (edited)\
+Token fingerprint - asset1eg7jp22f7qtczjj2da9nk65g6f49qkqtll93ku\
+Token Name: SNet test token\
+Token Amount: 51
+
+**What do we want to measure**\
+Voting participation % ([51 Total eligible voters](https://docs.google.com/spreadsheets/d/1h7nWb3\_yPbabxnQNUEkMSh7GeV2oRfi4RFShDwSOuj0/edit#gid=0))
+
+#### Action Items:&#x20;
+
+* Bootstrap the PoC as a initial test vote
+* Define voting start and end dates
+* Create Voting Guide material
+* Set up voting ballot on Voteaire
+* Announce voting at Ambassador Town Hall, 31st Oct
+* Send voting test token to contributors
+
+***
 
 ### Ambassador Town Hall
 
@@ -219,4 +281,69 @@ from our first experiment we most likely wont get any meaningful trends from dat
 
 ### Writers' Workgroup
 
+No summary given
+
+***
+
 ### Video Workgroup
+
+No summary given
+
+
+
+***
+
+## Saturday 21st Oct 2023
+
+### <mark style="color:green;">Gamers' Guild</mark>
+
+#### People present:
+
+Slate \[host], \[documenter]; Malik \[host]; Rebel; Hufiumer69; Muhammad Ahmad; Jay-Flinx; Devon Hardy; Joe.
+
+#### Meeting Narrative:
+
+* Malik and Slate led the Gamers Guild meeting on 21/10/23. The atmosphere was cheerful, and it included an experimental trivia session.
+* Malik began by announcing the game to be played, which was Land IO and also announced the trivia session. He provided background information about the game and explained its rules and ranking method.
+* The game session consisted of three rounds of Land IO, each lasting 3 minutes. At the end of each round, a leaderboard was concluded, and points were awarded to the top 3 participants (1st place: 4 points, 2nd place: 3 points, 3rd place: 2 points).
+* Slate guided everyone in playing the game, and the members were divided into private game sections to start playing.
+* The winners of the three Land IO rounds were:
+* 1st Round: Devon Hardy
+* 2nd Round: Hufiumer69
+* 3rd Round:  Hufiumer69
+
+#### Keywords:
+
+* Cheerful, Experimental, Trivia, Deepfunding, SingularityNET
+
+#### Game Rules:
+
+* Three rounds of Land IO, 3 minutes each.
+* Points: 1st place (4 points), 2nd place (3 points), 3rd place (2 points).
+
+#### Leaderboard:
+
+* 1st Round: Devon Hardy
+* 2nd Round: Hufiumer69
+* 3rd Round: Deon Hardy
+
+![](https://lh7-us.googleusercontent.com/ErtemzFKVQ-Xb3YhksicWk-N0zaleEkWXVi\_VOlyuWeSlanp4UMS8Tdjnp3Vl0aQNGar1CqRZC7Hol7XL-Y\_8yp8G6mK7NzTdlWVbSg61mPPnyOetgk900YJTy3fCqXt-fP\_9DMqPB6u1X11-2sQmxE)
+
+#### Trivia Results:
+
+* The trivia was an experimental addition to the meeting, with questions sourced from[ deepfunding.ai](http://deepfunding.ai). Participants were happy with its involvement.
+
+![](https://lh7-us.googleusercontent.com/6KNVNvawZRR3BWlU5rFGVVBODJXICt2lo8cjsfvS\_r-R0Vhl59ceNh3eGWjRjqpSizAQfe\_MhrgbqCWiAAEvOu7KFc-lDze\_OitNa9Y4OqU4p2LA-L8d0fXFQ72Toj3f1L5Ps3heuFDn2zrF2ptpZPg)
+
+#### Action Items:
+
+**\[Action]** Share the leaderboard in the Gamers Guild Discord channel.\
+**\[Action]** Update dework tasks.
+
+#### Note:&#x20;
+
+This meeting was an engaging and successful gathering of the Gamers Guild, which not only included gaming sessions but also an experimental trivia component focused on deepfunding in SingularityNET. The members expressed their satisfaction with this addition to the meeting.
+
+***
+
+\
