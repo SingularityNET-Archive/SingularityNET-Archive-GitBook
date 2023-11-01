@@ -159,21 +159,42 @@ This Workgroup focuses on creating educational project-based learning material f
 
 ### Process Modelling Workgroup
 
-
+No summary given
 
 ***
 
-### Strategy Guild
+### <mark style="color:green;">Strategy Guild</mark>
 
+#### In attendance:&#x20;
 
+Tommy Frey \[facilitator] \[documenter]; Fly; Defrey; Osmium; Kenichi; Vast
+
+#### Agenda:&#x20;
+
+Conflict Resolution Document
+
+Meeting went off agenda to various strategic thinking issues. Discussion was held on elevation process in conflict resolution, but pivoted to the difficulty in finding documents. Defrey mostly uses mobile and finds it hard to find things. Osmium questions where do we find relevant documents.&#x20;
+
+Question was then raised about “The purpose of Ambassadors”. Vast was concerned about lack of translation into Hindi . The conflict resolution document would be put into Hindi. As a side note Osmium or Vast discovered Cardano while planting trees in Nigeria and Kumar.
+
+Discussion held on comment about paid FR and getting paid $10 for engagement.&#x20;
+
+Discussion pivoted to the importance of training people in mediation and conflict resolution. It was suggested to put it out to SNET for team training for Ambassadors in Mediation.
+
+#### Meeting length:&#x20;
+
+1.5 hours
+
+#### Action items:
+
+**\[Action]** Conflict resolution over HIndi issue, money and translation.\
+**\[Action]** Mediation training.
 
 ***
 
 ### <mark style="color:green;">Incubation Guild</mark>
 
 Not this week
-
-
 
 ***
 

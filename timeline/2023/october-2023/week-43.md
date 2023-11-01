@@ -206,6 +206,70 @@ Peter \[host], Sucre n Spice \[co-host ], Love \[documenter], Vani , Kevin, Mayo
 
 ## Friday 27th October 2023
 
+### Session for the Guild Formerly Known as Marketing Guild
+
+#### 1) Improve Internal Marketing:&#x20;
+
+**Problem:** \
+Not too many people watch/attend TH meetings/lots of info gets lost there, our existing community needs more reminders on multiple platforms at the same time of what is going on in the ecosystem.&#x20;
+
+Writer’s and Video WG are currently too disconnected (as well as other workgroups)&#x20;
+
+**Proposed Solution:** \
+Promote initiatives across all platforms to get our existing community to engage more/achieve more cohesive messaging internally
+
+Strengthening our existing ecosystem,structures, processes + communication between workgroups by putting less time /energy on efforts to onboard lots of new members and more effort into improving what we already have →will put us in a better place of onboarding later down the line
+
+More communication + collaboration between workgroups: Hold joint meetings every now and then to align on upcoming marketing efforts
+
+#### 2) Cross-Collaboration with SNET Projects:
+
+**Problem:**\
+Other SNET projects are aware of Ambassador’s Program but unaware of what exactly we do /how much amazing talent we have available to help them with their needs
+
+We’re not not set up for a lot of scaling/onboarding new members as we don't have enough work for contributors(16 Video WG members, 11 Writer’s WG)  We need more work.
+
+Which other projects can we create for? \
+How can we offer our services? \
+How much should we charge?
+
+**Proposed Solution:** \
+Establish coordinator team (with dedicated roles) that will coordinate between SNET Spin-Off Projects and SNET Ambassadors Workgroups&#x20;
+
+Rather than having another Guild/Workgroup that meets/ideates we could have a Coordinator team of 2-3 people that focuses on active outreach/communication between other projects and Ambassadors workgroups
+
+Should be very results-based: Identify needs of the other projects and which tasks we can help them with, then give tasks to our workgroups (Eg. Marketing tasks for Deepfunding) -> leads to better problems solving when we collaborate
+
+Increase Marketing Guild Budget from 1000 AGIX to 3000 AGIX to fund this effort (Will need a vote)
+
+Charging other projects for our services could be done at a flat rate or figuring out individual quotes. Workgroups could determine price individually
+
+Will need further discussion + testing
+
+#### 3) Improve Onboarding Process:
+
+**Problem:**\
+While we don't overly want to focus on onboarding new members we do have onboarding infrastructure in place, however it needs improving
+
+Currently:  Getting started channel explains the onboarding process -> its for people that are already interested in joining
+
+We don’t have a document that we can send out to high level people/ institutions (eg. university) that explains what we do and why they should care to join us
+
+**Solution:**
+
+A one-pager explaining what we do and the benefits of joining
+
+There has been proposals in DeepFunding Round 2 or 3 that aimed at establishing a great onboarding experience, we might want to use what they have created/ get in touch with them to improve our onboarding process (Open Source code)
+
+**Side Notes:**&#x20;
+
+While we are at capacity for the Writer’s and Video Workgroup we need System Designers + contributors to Process Guild.\
+Next Video Workgroup Session will be a workshop on how to set up videos for increased reach / Algorithm hacks
+
+Next session: Friday Nov 3rd&#x20;
+
+***
+
 ### Writers' Workgroup
 
 ### Video Workgroup

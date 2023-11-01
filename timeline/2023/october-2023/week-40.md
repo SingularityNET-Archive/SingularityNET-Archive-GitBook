@@ -8,7 +8,29 @@ description: 2nd October to 8th October 2023
 
 ## Monday 2nd October 2023 <a href="#docs-internal-guid-814cc1bb-7fff-961d-fa7a-981e70609ecc" id="docs-internal-guid-814cc1bb-7fff-961d-fa7a-981e70609ecc"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+#### In attendance:&#x20;
+
+Vanu; Rojo; Fly; Waka; Tommy Frey \[facilitator] \[documenter]
+
+#### Summary:
+
+We covered the Miroboard and discussed and ideated over the need to educate ourselves as Ambassadors with a more outward facing approach.
+
+Rojo suggested a Masterclass style education approach including video, written and testing for accreditation. We discussed the archival process and whether it was a methodology of education.&#x20;
+
+The discussion pivoted into different political and governance systems including Meritocracy and Sociocracy.
+
+#### Meeting length:&#x20;
+
+1.45 hours
+
+#### Action items:&#x20;
+
+**\[Action]** Intro style vids for the programs.
+
+***
 
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
@@ -77,7 +99,7 @@ We finished by covering multiple DeepFunding proposals by our ambassadors.
 
 ### Incubation Think-Tank
 
-
+No summary given
 
 ***
 
@@ -154,7 +176,35 @@ not this week
 
 ***
 
-### Strategy Guild
+### <mark style="color:green;">Strategy Guild</mark>
+
+#### In attendance:&#x20;
+
+Headelf \[documenter]; Curtis; Rojo; Tuso; Slate; Peter \[facilitator]
+
+#### Agenda:
+
+Conflict Resolution Document
+
+#### Summary:
+
+The meeting edited the conflict resolution document in a joint effort.
+
+**\[Decision]:** A decision was made to finalize the document and publish it to the greater community for 1 week of final editing and comments. After the week on different social media channels the document will be brought up at Town Hall for a broad consensus or vote depending on Community sentiment.
+
+The discussion turned to the next topic Strategy would work on. The Round Table was discussed as a mediation and issue body.&#x20;
+
+Conflict of Interest was discussed. Supervisory Council was placed as our last resort in an appeal process, though the assumption was made by ‘us’ that the SC would accept.
+
+The conflict resolution document was thought to be 90% complete. We agreed to finish editing it async before the next week's Town Hall.
+
+#### Meeting length:
+
+1h 10 m
+
+#### Action items:
+
+Editing the CR doc async. Headelf to finish, edit and polish prior to Town Hall.
 
 ***
 

@@ -8,7 +8,43 @@ description: 9th October to 15th October 2023
 
 ## Monday 9th October 2023 <a href="#docs-internal-guid-7d5ecf6b-7fff-77ee-366e-80170a57b5bf" id="docs-internal-guid-7d5ecf6b-7fff-77ee-366e-80170a57b5bf"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+#### Present:
+
+Peter; Rojo; Curtis; WaKa; Slate; Osmium; Tevo; Headelf \[facilitator] \[documenter]
+
+#### Agenda:&#x20;
+
+Self-education
+
+#### Summary:
+
+Discussion on scope of issues and topics for ambassador education. It varied between basic education or a deeper, more detailed course. There was optimism on what had been done to date. Curtis commented on the different scopes covered but thought it was not enough.
+
+Headelf played a video he had created.
+
+Rojo presented his concept for a Masterclass. It was well received and discussed for a while.
+
+GimbaLabs was brought up by Curtis and their use of SLT - Student Learning Targets. It was flexible and could be one set or individual SLTS. Curtis also suggested creating buckets that would contain proprietary learning targets.&#x20;
+
+Rojo likened these to courses at the University where a syllabus is provided to students.
+
+Curtis pivoted the convo back to SLTs and questioned what our objective would be. Why are we building these SLTs and what would be unique for our course? Was a big question.
+
+Waka brought up and a discussion ensued about Google Class. Good, bad????
+
+Rojo questioned if we should use the Andamio platform, created by Gimbalabs, which Curtis was familiar with. A suggestion to make it a quest app like claim 5 points and / or make it for credentials.
+
+Tevo brought up a solid concept about how people learn when they teach.
+
+#### Meeting length:&#x20;
+
+1.15 hours
+
+#### Action items:
+
+**\[Action]:** Create videos for comparison for the following week.
 
 ### Knowledge Base Workgroup
 
