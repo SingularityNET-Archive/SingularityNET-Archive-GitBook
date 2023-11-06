@@ -214,7 +214,7 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 #### **1) Archival Workgroup Fund Request**&#x20;
 
-**Decision items** Archival WG October Budget is approved \
+**Decision items** Archival WG September Budget is approved \
 **Action Items** Create a project management item instead of including the costs of project management under a meeting item - for November Fund Request \
 **Discussion Points** How our differences of work recognition models trigger scrutiny, based on what information we build trust? How to have clarity on workgroup objectives.
 
@@ -250,7 +250,7 @@ We updated Workgroup Budget Limits&#x20;
 **Sources:** Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit](https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit) \
 Workgroup Types and Requirements - [https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view](https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view) \
 Task Submission Template - [https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing](https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing) \
-Archival WG Fund Request - [https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023](https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023) \
+Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023](https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023) \
 **How the meeting felt:** Meeting was collaborative and focused on topics that helped to align and improve our distribution rules.
 
 ***
