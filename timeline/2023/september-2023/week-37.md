@@ -65,7 +65,12 @@ We see great synergies and opportunities for collaboration between the SNET Amba
 
 ### Ambassador Town Hall
 
-No summary given
+Town Hall #65.\
+No summary given.
+
+#### Video:
+
+{% embed url="https://youtu.be/b6Ucc2823XE?si=ZfvG2trCoYeie6fR" %}
 
 ***
 
@@ -303,18 +308,28 @@ Headelf, Walter, Peter, Fly \[facilitator]&#x20;
 
 ***
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
 
-Not this week
+Not this week.
 
 ***
 
-### AI Sandbox
+### <mark style="color:green;">Deepfunding Town Hall</mark>
 
-### Deepfunding Town Hall
+Not this week.
+
+***
 
 ## Friday 15th September 2023
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***

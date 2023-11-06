@@ -8,9 +8,36 @@ description: 23rd October to 29th October 2023
 
 ## Monday 23rd October 2023 <a href="#docs-internal-guid-89e767c7-7fff-bf41-650a-ba5c51f35685" id="docs-internal-guid-89e767c7-7fff-bf41-650a-ba5c51f35685"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+#### Present:
+
+Peter; Defreys; Waka; Headelf \[facilitator] \[documenter]
+
+#### Agenda:&#x20;
+
+Length and construction of an educational video.
+
+#### Summary:
+
+Discussion continued on self-education for ambassadors and best way to construct a video/written /test course.\
+Long discussion on chunking the videos. 30 second to 60 second intro with a 30 second outgo and about 5-7 minutes for the meat and potatoes for each spinoff. \
+Long convo on what is a good length of educational vid. Headelf brought up his study and book on Senior Education learning. 5 minutes is the sweet spot with no longer than 10.\
+Waka closed out the meeting with his comment on how we need to work our way to the basics.
+
+#### Meeting length:
+
+1 hour 20 minutes
+
+#### Action items:
+
+**\[Action]** Create a 30-second intro vid for Snet.
+
+***
 
 ### Knowledge Base Workgroup
+
+***
 
 ## Tuesday 24th October 2023
 
@@ -74,7 +101,9 @@ Voting participation % ([51 Total eligible voters](https://docs.google.com/sprea
 * Create Voting Guide material
 * Set up voting ballot on Voteaire
 * Announce voting at Ambassador Town Hall, 31st Oct
-* Send voting test token to contributors
+* Send voting test token to contributors.
+
+***
 
 ### Ambassador Town Hall
 
@@ -151,7 +180,42 @@ We will continue refining activities next session&#x20;
 
 ### Incubation Guild
 
-### Strategy Guild
+***
+
+### <mark style="color:green;">Strategy Guild</mark>
+
+#### Present:
+
+Fly; MS Duncan; Freysdefi; Peter; Rojo; Slate; Tuso; Headelf \[facilitator] \[documenter]
+
+#### Agenda:&#x20;
+
+Appeals mechanism in Snet aka Round Table.
+
+#### Summary:
+
+Rojo led off with the elephant in the room - Round Table is tricky. Perhaps we need to solve the Roles and Levels issue and actually ID the Ambassadors.\
+A long convo ensued about roles, levels and how many attempts had started but had stalled.\
+Fly brought up other parts of the ecosystem and a suggestion was made to bring the Roles and Levels discussion to the Think Tank.\
+Headelf pivoted the convo for the need of an appeals or elder council to provide structure when and where needed on an as if basis. He suggested that the Roles and Levels would be worked out as we as a community help construct what a Round Table should be and what its existence would look like. \
+We as a team started constructing a Round Table document. Duncan suggested there be no biases. Someone suggested we start by identifying what the problems are that we want the Round Table to solve. Headelf included portions of a doc that had started with the Code of Conduct and the Conflict Resolution.\
+As a team we put together a very rough document of ideas, problems and concepts. A schedule was included for writing, editing and bringing it to the greater community.\
+It was decided due its raw state to hold this initial doc to just the Strategy Guild, though anyone could edit. The plan was to smooth it out at the following meeting and then bring it out to the community.
+
+#### Meeting length
+
+2 hours
+
+#### Decisions
+
+**\[Decision]** Keep initial Round Table doc to just the Strategy Guild, though anyone can edit.\
+**\[Decision]** Smooth it out at the following meeting and then bring it out to the community.
+
+#### Action items:&#x20;
+
+**\[Action]** Continue commentary on the Round Table google doc.
+
+***
 
 ## Thursday 26th October 2023
 

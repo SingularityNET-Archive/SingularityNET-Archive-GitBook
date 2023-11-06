@@ -16,15 +16,16 @@ No summary given
 
 ## Tuesday 5th September 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
 
 Not this week
 
 ***
 
-### Ambassador Town Hall
+### <mark style="color:green;">Ambassador Town Hall</mark>
 
-No summary given
+Town Hall #64.\
+No summary given.
 
 #### Video
 
@@ -66,7 +67,7 @@ Not this week
 
 ***
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Process Modelling Workgroup</mark>
 
 No longer meeting
 
@@ -98,7 +99,7 @@ Discussion focused on debate, gentle argument and consensus on the many topics i
 
 ### Incubation Guild
 
-
+No summary given
 
 ***
 
@@ -106,7 +107,13 @@ Discussion focused on debate, gentle argument and consensus on the many topics i
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
-No workgroup meeting - it was replaced with an onboarding session for new members.&#x20;
+No workgroup meeting this week - it was replaced with an onboarding session for new members.&#x20;
+
+#### Video:
+
+{% embed url="https://youtu.be/5gnF2Q2qLS0" %}
+
+***
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
@@ -161,15 +168,19 @@ We didn't discuss quarterly budgets as yet, and should do so in next meeting as 
 
 ***
 
-### AI Sandbox
+### <mark style="color:green;">AI Sandbox</mark>
 
 Not this week
 
 ***
 
-### Deepfunding Town Hall
+### <mark style="color:green;">Deepfunding Town Hall</mark>
 
-No summary given
+No summary given.
+
+#### Video:
+
+{% embed url="https://youtu.be/hZNXQfmI70w?si=CubIrgWGmKjRxGEs" %}
 
 ***
 

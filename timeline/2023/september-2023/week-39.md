@@ -157,9 +157,9 @@ This Workgroup focuses on creating educational project-based learning material f
 
 ***
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Process Modelling Workgroup</mark>
 
-No summary given
+Not this week
 
 ***
 
@@ -318,11 +318,13 @@ Tomorrow (Fri 29th Sept), new Treasury Guild call
 
 ### Incubation: AI Sandbox
 
+No summary given
+
 ***
 
-### Deepfunding Town Hall
+### <mark style="color:green;">Deepfunding Town Hall</mark>
 
-No summary given
+Not this week
 
 ***
 

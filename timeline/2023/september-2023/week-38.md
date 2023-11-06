@@ -61,6 +61,8 @@ Do we focus on Onboarding education? \
 Do we continue with outward focused Ambassador education? \
 **\[Action]** Document and concurrent convo to continue in Discord, and follow up next week.
 
+***
+
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
 #### **Meeting Summary** **Context:**&#x20;
@@ -94,8 +96,7 @@ Aggregating Ambassador Program assets and relevant information under GitBook
 **Description** - Shared a way how we could organize collected information under different questions and topics to make it easier to have an overview of the Ambassador Program **\[Decision]** - We will try the presented approach \
 **Learning** - Before organizing assets, we need to analyze the resource and decide if it is relevant for sharing in the GitBook. \
 **Insight** - After organizing information we can see the overview of collected data and move on to writing and uploading tasks \
-**Insight** - Presentation Recording: [https://youtu.be/v8VBBAL7PzI](https://youtu.be/v8VBBAL7PzI) \
-
+**Insight** - Presentation Recording: [https://youtu.be/v8VBBAL7PzI](https://youtu.be/v8VBBAL7PzI)&#x20;
 
 #### **3) Off-topic concerns of a lack of collaboration between Ambassadors**&#x20;
 
@@ -106,13 +107,17 @@ Aggregating Ambassador Program assets and relevant information under GitBook
 #### **Next elegant steps** (general action items)&#x20;
 
 **\[Action]** Spread information about this workgroup to other workgroups and ambassadors\
-**\[Action]** Recommend Ambassadors to watch these workgroup presentations
+**\[Action]** Recommend Ambassadors to watch these workgroup presentations.
+
+***
 
 ## Tuesday 19th September 2023
 
 ### <mark style="color:green;">Governance WorkGroup</mark>
 
 Not this week
+
+***
 
 ### <mark style="color:green;">Ambassador Town Hall</mark>
 
@@ -184,6 +189,8 @@ Reviewed the draft archival workflow design document, provided updates based on 
 #### Meeting Issue
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/55" %}
+
+***
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
@@ -360,7 +367,17 @@ Not this week
 
 ### Deepfunding Town Hall
 
-No summary given
+Not this week - replaced by DeepFunding Round 3 IdeaFest. See playlists:\
+\
+**New projects**: [https://www.youtube.com/playlist?list=PLC\_2LlWfxxoe1ZcSRPJeryCBgyrwK\_\_Kz](https://www.youtube.com/playlist?list=PLC\_2LlWfxxoe1ZcSRPJeryCBgyrwK\_\_Kz)\
+\
+**Ideation:** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxoely\_Hvy-DmLri1IOwogjOV](https://www.youtube.com/playlist?list=PLC\_2LlWfxxoely\_Hvy-DmLri1IOwogjOV)
+
+**Tooling:** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxod3djRT1H7OlzgYaPv\_VytV](https://www.youtube.com/playlist?list=PLC\_2LlWfxxod3djRT1H7OlzgYaPv\_VytV)
+
+**Marketing**: [https://www.youtube.com/playlist?list=PLC\_2LlWfxxodKFagoOew8d3OjM9qxwYlU](https://www.youtube.com/playlist?list=PLC\_2LlWfxxodKFagoOew8d3OjM9qxwYlU)
+
+**Request For Proposal** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxodRwDFDmuuZrf0GSaQBU7OB](https://www.youtube.com/playlist?list=PLC\_2LlWfxxodRwDFDmuuZrf0GSaQBU7OB)
 
 ***
 
