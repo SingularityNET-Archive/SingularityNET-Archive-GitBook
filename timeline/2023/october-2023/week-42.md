@@ -10,7 +10,7 @@ description: 16th October to 22nd October 2023
 
 ### <mark style="color:green;">Education Guild</mark>
 
-Not this week
+No meeting this week
 
 ***
 
@@ -125,21 +125,47 @@ Voting participation % ([51 Total eligible voters](https://docs.google.com/sprea
 
 ***
 
-### Ambassador Town Hall
+### <mark style="color:green;">Ambassador Town Hall</mark>
+
+No summary given.
+
+
+
+#### Video:
+
+{% embed url="https://youtu.be/ydRMAtWMuX8?si=1nnENq2_pzNL_pKl" %}
+
+***
 
 ### Incubation Think-Tank
+
+No summary given
+
+***
 
 ## Wednesday 18th October 2023
 
 ### Archives Workgroup
 
-### Dework PBL Workgroup
+Coming soon
 
-### Process Modelling Workgroup
+***
 
-### Incubation Guild
+### <mark style="color:green;">Dework PBL Workgroup</mark>
+
+Not this week
+
+***
+
+### <mark style="color:green;">Incubation Guild</mark>
+
+Not this week
+
+***
 
 ### Strategy Guild
+
+***
 
 ## Thursday 19th October2023
 
@@ -275,7 +301,19 @@ from our first experiment we most likely wont get any meaningful trends from dat
 
 ### Incubation: AI Sandbox
 
+No summary given
+
+***
+
 ### Deepfunding Town Hall
+
+No summary given
+
+#### Video:
+
+{% embed url="https://youtu.be/sTHew8dU5Qw?si=kqxsfo93dSTUYVFz" %}
+
+***
 
 ## Friday 20th October 2023
 
@@ -286,8 +324,6 @@ No summary given
 ***
 
 ### Video Workgroup
-
-No summary given
 
 
 

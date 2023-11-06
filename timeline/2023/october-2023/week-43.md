@@ -35,7 +35,9 @@ Waka closed out the meeting with his comment on how we need to work our way to t
 
 ***
 
-### Knowledge Base Workgroup
+### <mark style="color:green;">Knowledge Base Workgroup</mark>
+
+Not this week
 
 ***
 
@@ -105,9 +107,23 @@ Voting participation % ([51 Total eligible voters](https://docs.google.com/sprea
 
 ***
 
-### Ambassador Town Hall
+### <mark style="color:green;">Ambassador Town Hall</mark>
+
+No summary given.
+
+
+
+#### Video:
+
+{% embed url="https://youtu.be/BtWsqQ2Gu6s?si=xI7r4ntp0AS0vH66" %}
+
+***
 
 ### Incubation Think-Tank
+
+No summary given
+
+***
 
 ## Wednesday 25th October 2023
 
@@ -176,9 +192,9 @@ We will continue refining activities next session&#x20;
 
 ***
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Incubation Guild</mark>
 
-### Incubation Guild
+Not this week
 
 ***
 
@@ -262,15 +278,27 @@ Peter \[host], Sucre n Spice \[co-host ], Love \[documenter], Vani , Kevin, Mayo
 
 ***
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
+
+Not this week
+
+***
 
 ### Incubation: AI Sandbox
 
-### Deepfunding Town Hall
+No summary given
+
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+Not this week
+
+***
 
 ## Friday 27th October 2023
 
-### Session for the Guild Formerly Known as Marketing Guild
+### <mark style="color:green;">Session for the Guild Formerly Known as Marketing Guild</mark>
 
 #### 1) Improve Internal Marketing:&#x20;
 
@@ -336,4 +364,12 @@ Next session: Friday Nov 3rd&#x20;
 
 ### Writers' Workgroup
 
+No summary given
+
+***
+
 ### Video Workgroup
+
+
+
+***

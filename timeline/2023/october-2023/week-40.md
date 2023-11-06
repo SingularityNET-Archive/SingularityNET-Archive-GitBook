@@ -271,25 +271,35 @@ Meeting summary templates from Archives WG: Vani would like to share the new tem
 
 ***
 
-### <mark style="color:green;">Treasury Guild</mark>
+### Treasury Guild
+
+***
 
 ### <mark style="color:green;">Incubation: AI Sandbox</mark>
 
 not this week
 
-### Deepfunding Town Hall
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+No summary given
+
+#### Video:
+
+{% embed url="https://youtu.be/6RAa3_KyqIA?si=aj0THOQmgCERM830" %}
+
+***
 
 ## Friday 6th October 2023
 
 ### Writers' Workgroup
 
-
+No summary given
 
 ***
 
 ### Video Workgroup
-
-
 
 ***
 
@@ -327,3 +337,5 @@ Malik, Slate, Mikasa, Kenichi, New Man, Hufiumer69, Muhammad Ahmad, Dntmineifido
 * Tag the winners for their bounties on Dework.
 
 The meeting was successful in organizing a competitive gaming session and promoting camaraderie among the Gamers Guild members. Congratulations to the winners, Devon Hardy, Hufiumer69, and Deon Hardy!
+
+***

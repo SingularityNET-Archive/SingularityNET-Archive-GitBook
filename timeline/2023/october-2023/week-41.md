@@ -46,15 +46,21 @@ Tevo brought up a solid concept about how people learn when they teach.
 
 **\[Action]:** Create videos for comparison for the following week.
 
-### Knowledge Base Workgroup
+
+
+***
+
+### <mark style="color:green;">Knowledge Base Workgroup</mark>
+
+Not this week
+
+***
 
 ## Tuesday 10th October 2023
 
 ### Governance WorkGroup
 
 No summary given
-
-
 
 ***
 
@@ -165,11 +171,17 @@ The meeting felt busy as we had a lot to review and didn't get to other prepared
 
 ***
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Incubation Guild</mark>
 
-### Incubation Guild
+Not this week
 
-### Strategy Guild
+***
+
+### <mark style="color:green;">Strategy Guild</mark>
+
+Not this week
+
+***
 
 ## Thursday 12th October 2023
 
@@ -224,14 +236,30 @@ Continuing the discussion from last session. See: [SNET Onboarding WG Task Rewar
 
 ***
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
 
-### Incubation: AI Sandbox
+Not this week
 
-### Deepfunding Town Hall
+***
+
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+Cancelled for this week
+
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+Not this week
+
+***
 
 ## Friday 13th October 2023
 
 ### Writers' Workgroup
 
+***
+
 ### Video Workgroup
+
+***
