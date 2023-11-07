@@ -271,7 +271,9 @@ Meeting summary templates from Archives WG: Vani would like to share the new tem
 
 ***
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
+
+Meeting cancelled
 
 ***
 
