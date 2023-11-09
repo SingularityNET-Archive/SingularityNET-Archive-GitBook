@@ -6,6 +6,7 @@ description: 31st December 2023 to 6th January 2024
 
 ## Monday 1st January 2024
 
+
 ### Archival Workgroup
 
 - Type of meeting: Weekly Meeting
@@ -45,6 +46,38 @@ description: 31st December 2023 to 6th January 2024
 - references: GitBook links
 - emotions: Collaborative
 - other: Deepfund proposals
+
+### Governance Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Felix [host], Vanessa [documenter], Peter, Tevo, Headelf, Stephen
+- Purpose: Testing archive tool
+
+#### Narrative:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+
+
+#### Action Items:
+- [action] Test Action [assignee] Felix [due]  [status] todo
+
+#### Decision Items:
+- Test Decision
+  - [rationale] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt 
+  - [opposing] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: Governance
+- emotions: Collaborative
+- other: Deepfund proposals
+
+
 ## Tuesday 2nd January 2024
 
 ### Translation Workgroup
