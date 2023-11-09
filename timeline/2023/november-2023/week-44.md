@@ -139,6 +139,7 @@ Progressing the roundtable document, so it can be shared to a wider audience [ht
 
 ## Thursday 2nd November 2023
 
+
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
 #### People present: <a href="#docs-internal-guid-a1b8555f-7fff-c102-2db5-3cae567f7493" id="docs-internal-guid-a1b8555f-7fff-c102-2db5-3cae567f7493"></a>
@@ -258,6 +259,84 @@ Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Arc
 ### Incubation: AI Sandbox
 
 ### Deepfunding Town Hall
+
+
+### Archival Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Stephen [host], Vanessa, Stephen [documenter], André, Peter, Felix
+- Purpose: GitBook Archive
+- Miro board: miro.com/r2r2r23r23r
+
+#### Agenda item 1 - Testing the Archive tool - [carry over]
+
+#### Action Items:
+- [action] Test git commits [assignee] André [due] 2023-11-09 [status] in progress
+- [action] Finalize discord [assignee] André [due] 2023-11-09 [status] in progress
+
+#### Decision Items:
+- Workgroupps to start using the tool before the year ends
+  - [rationale] The sooner we test, the faster we can make improvements and get accurate data
+  - [effect] affectsAllWorkgroups
+
+#### Discussion points:
+- We discussed bugs and improvements in the tool
+
+#### Agenda item 2 - Template Guidelines - [carry over]
+
+#### Action Items:
+- [action] Present in Town Hall [assignee] Vanessa [due] 2023-11-14 [status] in progress
+
+#### Decision Items:
+- We will create onboarding material for using the tool
+  - [rationale] New workgroups will need to learn how to use this before they start meeting, so we can capture the data
+  - [effect] affectsAllWorkgroups
+
+#### Discussion points:
+- We discussed onboarding material
+
+#### Agenda item 3 - Testing Discord bot character length - [carry over]
+
+#### Action Items:
+- [action] Create more Agenda Items to test character limits [assignee] André [due] 2023-11-09 [status] in progress
+
+#### Decision Items:
+- Decided to create multiple embeds in Discord message
+  - [rationale] Discord embeds have character limits
+  - [effect] affectsAllWorkgroups
+
+#### Discussion points:
+- Discussed different approached and settled for the Discord embeds
+- Discussed potential exclution of content or format of Discord messages
+
+#### Agenda item 4 - Testing the GitBook repo commits - [carry over]
+
+#### Action Items:
+- [action] Test file and date insertion in GitBook repo [assignee] André, Vanessa [due] 2023-11-13 [status] in progress
+
+#### Decision Items:
+- Keep the existing prepped files in repo
+  - [rationale] The tool should still be able to insert at the correct places and we dont want to break any existing links in other platforms
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Discussion points:
+- We discussed whether to keep existing prepped files in repo or delete them 
+
+#### Agenda item 5 - Town Hall Presentation - [carry over]
+
+#### Action Items:
+- [action] Create Slides [assignee] Vanessa, André [due] 2023-11-13 [status] in progress
+- [action] Present in Town Hall [assignee] Vanessa [due] 2023-11-14 [status] todo
+
+#### Discussion points:
+- Discussed the Town Hall Presentation
+
+#### Keywords/tags:
+- topics covered: Meeting Summaries, Tool Development
+- references: GitBook links
+- emotions: Collaborative
+- other: Deepfund proposals
+
 
 ## Friday 3rd November 2023
 
