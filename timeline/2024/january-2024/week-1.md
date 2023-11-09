@@ -45,6 +45,35 @@ description: 31st December 2023 to 6th January 2024
 - references: GitBook links
 - emotions: Collaborative
 - other: Deepfund proposals
+## Tuesday 2nd January 2024
+
+### Translation Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Sucren [host], Vanessa [documenter], Peter, Headelf
+- Purpose: Testing the tool
+
+#### Issues:
+- TEst issue
+- TEst issue
+
+#### Action Items:
+- [action] Test action [assignee] Sucren [due] 2023-11-09 [status] done
+
+#### Decision Items:
+- Test
+  - [rationale] Test Rationale
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Discussion points:
+- Test discussion
+
+#### Keywords/tags:
+- topics covered: Meeting Summaries
+- references: Miroboard Links
+- emotions: Casual
+
+
 ## Wednesday 3rd January 2024
 
 ### Archival Workgroup
