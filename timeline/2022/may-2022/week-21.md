@@ -25,3 +25,12 @@ Ambassador Town Hall meeting #3 was hosted by Peter Elfrink.
 #### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1z3TRRbwJ1nMW9-uxY4-TGTh3EWzE6n4Kkq5rzTVk0RI/edit?usp=sharing" %}
+
+## Friday, 27th May 2022
+
+### Ambassador Workgroup meeting | Community Podcast
+
+{% embed url="https://youtu.be/GHisV-Ufvlk" %}
+
+[0:00](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=0s) Agenda #1 Mindplex [6:30](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=390s) Agenda #2 Platform Ideas? [14:00](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=840s) Podcast structure discussion [23:15](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=1395s) Dework Platform/Tooling discussion [37:10](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=2230s) Questions/Thoughts [51:30](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=3090s) Miro Board-Mini Proposals Process [54:50](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=3290s) Podcast Ambassador Program Ideas [1:05:48](https://www.youtube.com/watch?v=GHisV-Ufvlk\&t=3948s) Final thoughts
+
