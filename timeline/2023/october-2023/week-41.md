@@ -258,6 +258,8 @@ Not this week
 
 ### Writers' Workgroup
 
+No summary given
+
 ***
 
 ### Video Workgroup
