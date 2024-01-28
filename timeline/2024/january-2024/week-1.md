@@ -1,40 +1,15 @@
 ---
-description: 31st December 2023 to 6th January 2024
+description: Mon 1st Jan - Sun 7th Jan 2024
 ---
 
 # Week 1
 
+## Monday 1st January 2024
+
+## Tuesday 2nd January 2024
+
 ## Wednesday 3rd January 2024
 
+## Thursday 4th January 2024
 
-### Onboarding Workgroup
-
-- Type of meeting: Weekly Meeting
-- People present: Sucren [host], Vanessa [documenter], Peter, Fly, Headelf
-- Meeting video: ewefwefwefw
-
-#### Town Hall Updates:
-Test sdqwqwdwqdwq
-dwqdqwwdqw
-qwqwf
-wefwefwefwef
-wefwefwefwefwef
-wefwef
-
-
-#### Action Items:
-- [action] ewfwe [assignee] Vanessa [due] 2023-11-13 [status] done
-
-#### Discussion Points:
-- qdw
-
-#### Learning Points:
-- ewfwef
-
-#### Issues:
-- r23r32r23fewf
-
-#### Keywords/tags:
-- topics covered: Governance
-- references: GitBook links
-- emotions: Friendly
+## Friday 5th January 2024
