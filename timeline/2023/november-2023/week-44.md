@@ -14,20 +14,21 @@ description: 30th October to 5th November 2023
 
 Curtis; Waka; Peter; Headelf \[facilitator] \[documenter]
 
-#### Agenda:&#x20;
+#### Agenda:
 
 Video Education
 
-#### Summary
+#### Summary:
 
-Headelf shared his Intro video on Snet. 32 sec.\
-Peter shared his Intro video on Snet 1min10sec.\
-Curtis asked about who is the target audience. Discussion followed\
-WaKa responded to Headelf's inquiry on Google Class with ‘its a rich full blown system’.\
-Discussion centered around Peter's more detailed longer video. The balance of the meeting was with Headelf working on editing Peter's video in real time. We replaced stock photos with custom-made by Headelf. Some of the on-the-fly editing left the graphic out of proportion.\
-A long discussion was held about an Outgo video after the meat & potatoes after the intro. Is a splash for each project possible or needed? was discussed.\
+Headelf shared his Intro video on SNet. 32 sec.\
+Peter shared his Intro video on SNet 1min10sec.\
+Curtis asked about who is the target audience. Discussion followed.\
+WaKa responded to Headelf's inquiry on Google Class with ‘it's a rich full-blown system’.\
+Discussion centered around Peter's more detailed longer video. \
+The balance of the meeting was with Headelf working on editing Peter's video in real time. We replaced stock photos with custom-made by Headelf. Some of the on-the-fly editing left the graphic out of proportion.\
+A long discussion was held about an Outgo video after the intro and the "meat & potatoes". Is a splash for each project possible or needed? \
 Brand assists were raised.\
-WaKa brought up Personalized Education by AI for individuals.
+WaKa brought up personalized education by AI for individuals.
 
 #### Meeting length:
 
@@ -41,57 +42,57 @@ WaKa brought up Personalized Education by AI for individuals.
 
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
-#### **People Present:**&#x20;
+#### **People Present:**
 
-Tevo \[facilitator] \[documenter]; Andre; Peter; Kenric; Fly; Michael Duncan; Curtis&#x20;
+Tevo \[facilitator] \[documenter]; Andre; Peter; Kenric; Fly; Michael Duncan; Curtis
 
-#### **Purpose:**&#x20;
+#### **Purpose:**
 
-Aggregating Ambassador Program assets and relevant information under GitBook&#x20;
+Aggregating Ambassador Program assets and relevant information under GitBook
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764567917552346\&cot=10](https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764567917552346\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764567917552346\&cot=10](https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764567917552346\&cot=10)
 
-#### **Dework Updates:**&#x20;
+#### **Dework Updates:**
 
-[https://app.dework.xyz/singularitynet-ambas/process-guild](https://app.dework.xyz/singularitynet-ambas/process-guild)&#x20;
+[https://app.dework.xyz/singularitynet-ambas/process-guild](https://app.dework.xyz/singularitynet-ambas/process-guild)
 
 #### **Agenda**
 
-#### **1) Workgroup Housekeeping**&#x20;
+#### **1) Workgroup Housekeeping**
 
-**Discussion Points** We are building a place for most relevant community data that is used by Ambassador community Shared an overview of action items that Knowledge Base WG is doing&#x20;
+**Discussion Points** We are building a place for most relevant community data that is used by Ambassador community Shared an overview of action items that Knowledge Base WG is doing
 
-#### **2) Analyze Treasury Guild Links and assets + Townhall Preparation item**&#x20;
+#### **2) Analyze Treasury Guild Links and assets + Townhall Preparation item**
 
-**Decision items:** \
-We will include SingularityNET Foundation Phase 2 Token proposal in the GitBook \
-We continue to share Ambassador Program Treasury Rules on GitBook \
-We will include GitHub link of Treasury Manager Decentralised Application in GitBook \
-We will include the form where new members can register their wallet address in the GitBook \
-We will include Dework Link to Treasury Space in the Gitbook \
-We will include link to Treasury Dashboard in the GitBook \
-We will link to Google Folder with all the Ambassador Townhall Slide Decks in GitBook&#x20;
+**Decision items:**\
+We will include SingularityNET Foundation Phase 2 Token proposal in the GitBook\
+We continue to share Ambassador Program Treasury Rules on GitBook\
+We will include GitHub link of Treasury Manager Decentralised Application in GitBook\
+We will include the form where new members can register their wallet address in the GitBook\
+We will include Dework Link to Treasury Space in the Gitbook\
+We will include link to Treasury Dashboard in the GitBook\
+We will link to Google Folder with all the Ambassador Townhall Slide Decks in GitBook
 
-**Action Items** \
-We now continue to do more item analysis async - 13.11.23&#x20;
+**Action Items**\
+We now continue to do more item analysis async - 13.11.23
 
-**Discussion Points** \
-All workgroups are working on their workgroup onboarding \
-There seems to be less emphasis on Dework Management and how to use it&#x20;
+**Discussion Points**\
+All workgroups are working on their workgroup onboarding\
+There seems to be less emphasis on Dework Management and how to use it
 
-#### **Keywords**&#x20;
+#### **Keywords**
 
 **Topics:** Dework, form, analysis, Tokenomics proposal, GitHub, Townhall Slides, Ambassador Gitbook\
-**Sources:** \
+**Sources:**\
 Miro Board Article that has link to proposal: [https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a](https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a)\
-Treasury Management Rules: [https://snet-ambassadors.gitbook.io/home/group-1/treasury-management](https://snet-ambassadors.gitbook.io/home/group-1/treasury-management) \
-Treasury DApp Source Code: [https://github.com/treasuryguild/treasury-dapp](https://github.com/treasuryguild/treasury-dapp) \
-Wallet Collector: [https://forms.gle/xqEoAB26tDCsw7789](https://forms.gle/xqEoAB26tDCsw7789) \
-Treasury Guild Dework Space: [https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240) \
-Treasury Dashboard: [https://treasuryguild.com/Singularity%20Net](https://treasuryguild.com/Singularity%20Net) \
-Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link](https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link) \
+Treasury Management Rules: [https://snet-ambassadors.gitbook.io/home/group-1/treasury-management](https://snet-ambassadors.gitbook.io/home/group-1/treasury-management)\
+Treasury DApp Source Code: [https://github.com/treasuryguild/treasury-dapp](https://github.com/treasuryguild/treasury-dapp)\
+Wallet Collector: [https://forms.gle/xqEoAB26tDCsw7789](https://forms.gle/xqEoAB26tDCsw7789)\
+Treasury Guild Dework Space: [https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)\
+Treasury Dashboard: [https://treasuryguild.com/Singularity%20Net](https://treasuryguild.com/Singularity%20Net)\
+Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link](https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link)\
 **Feelings**: Meeting felt busy as we went through different individually analyzed items
 
 ***
@@ -118,20 +119,20 @@ Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6Gu
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
-#### People Present:&#x20;
+#### People Present:
 
 Headelf, Rojo, Fly, Curtis, Tuso, Peter \[summarizer]
 
-#### Purpose:&#x20;
+#### Purpose:
 
-Progressing the roundtable document, so it can be shared to a wider audience [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit)&#x20;
+Progressing the roundtable document, so it can be shared to a wider audience [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit)
 
-#### Decisions:&#x20;
+#### Decisions:
 
-**\[Decision]:** Post in strategy channel, tagging all workgroup leaders for their input before putting it to full community input. \
-**\[Decision]:** the RT will be required to participate in program wide votes. They will NOT have additional voting power compared to other members.&#x20;
+**\[Decision]:** Post in strategy channel, tagging all workgroup leaders for their input before putting it to full community input.\
+**\[Decision]:** the RT will be required to participate in program wide votes. They will NOT have additional voting power compared to other members.
 
-#### Action items:&#x20;
+#### Action items:
 
 **\[Action]:** Work a-sync to expand the document
 
@@ -161,7 +162,7 @@ Giving a short survey form for people to express how they feel about the onboard
 **\[Decision]** We agreed that people can only apply for tasks in the Onboarding Dework if they have the “Onboarding workgroup member” tag in Discord as the Onboarding Dework space is now only accessible to people with the tag.\
 **\[Decision]** We agreed to submit proof of DM-TO-DM onboarding and engagement with new members of the SNET ambassador program fortnightly or weekly so proof of fund request will not be required.
 
-#### Action items:&#x20;
+#### Action items:
 
 **\[Action]** Sucre to tweak the scripts and relay the imagery in the onboarding video to LilyCupcake.\
 **\[Action]** Peter to give every member of the onboarding WG the onboarding WG role on Discord.\
@@ -179,9 +180,9 @@ Check [Getting Started doc](https://docs.google.com/document/d/1q4dhediWgcbgAP3W
 
 We should reach out to other WGs and ask for a bit of their time during their meetings to find out how they onboard new/old members to their meetings while explaining things from our perspectives
 
-#### Keywords:&#x20;
+#### Keywords:
 
-**Topics covered:** Onboarding, Dework, Privacy, Survey, Collaboration, Permissions, Video. \
+**Topics covered:** Onboarding, Dework, Privacy, Survey, Collaboration, Permissions, Video.\
 **Sources:**
 
 [https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?usp=sharing](https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?usp=sharing)
@@ -194,63 +195,63 @@ We should reach out to other WGs and ask for a bit of their time during their me
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
-#### **People Present:**&#x20;
+#### **People Present:**
 
 Tevo \[facilitator] \[documenter]; Andre; Peter; Love; Rojo; Vani; Headelf; Kenichi; Sucre n Spice
 
-#### **Purpose:**&#x20;
+#### **Purpose:**
 
-How to structure Ambassador rules around payments, tasks and anything related to financial activities?&#x20;
+How to structure Ambassador rules around payments, tasks and anything related to financial activities?
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764567368822168\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764567368822168\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764567368822168\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764567368822168\&cot=10)
 
-#### **Dework Updates:**&#x20;
+#### **Dework Updates:**
 
-[https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)&#x20;
+[https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
 
 #### **Agenda**
 
-#### **1) Archival Workgroup Fund Request**&#x20;
+#### **1) Archival Workgroup Fund Request**
 
-**Decision items** Archival WG September Budget is approved \
-**Action Items** Create a project management item instead of including the costs of project management under a meeting item - for November Fund Request \
+**Decision items** Archival WG September Budget is approved\
+**Action Items** Create a project management item instead of including the costs of project management under a meeting item - for November Fund Request\
 **Discussion Points** How our differences of work recognition models trigger scrutiny, based on what information we build trust? How to have clarity on workgroup objectives.
 
-#### **2) Who should be auditing budgets?**&#x20;
+#### **2) Who should be auditing budgets?**
 
 **Decision items** Each workgroup and team justifies their next quarterly budget\
-**Discussion Points** Should we have a focus group auditing budget?&#x20;
+**Discussion Points** Should we have a focus group auditing budget?
 
-#### **3) Quarter 4 Treasury Proposal**&#x20;
+#### **3) Quarter 4 Treasury Proposal**
 
-**Decision items** Only Ambassadors and workgroup leads can propose and vote on treasury proposals \
-The proposal must align with the Ambassadors Program's mission and goals. \
-Proposals will undergo a review period of 14 days or until 80% of all ambassadors or workgroup leads have voted \
-Proposals will be subject to a community vote. \
-A majority vote of 51% of those who vote is required for approval. \
-Approved budgets will allow the withdrawal of funds up until the quarterly limit \
-Each Workgroup is expected to produce a Quarterly Report \
-Withdrawals are made as Dework Bounties or Fund Requests \
-We continue to use Swarm Treasury System to distribute rewards&#x20;
+**Decision items** Only Ambassadors and workgroup leads can propose and vote on treasury proposals\
+The proposal must align with the Ambassadors Program's mission and goals.\
+Proposals will undergo a review period of 14 days or until 80% of all ambassadors or workgroup leads have voted\
+Proposals will be subject to a community vote.\
+A majority vote of 51% of those who vote is required for approval.\
+Approved budgets will allow the withdrawal of funds up until the quarterly limit\
+Each Workgroup is expected to produce a Quarterly Report\
+Withdrawals are made as Dework Bounties or Fund Requests\
+We continue to use Swarm Treasury System to distribute rewards
 
-#### **Action Items**&#x20;
+#### **Action Items**
 
-Share Quarter 4 Treasury Proposal in Townhall - 07.11.23&#x20;
+Share Quarter 4 Treasury Proposal in Townhall - 07.11.23
 
-#### **Discussion Points**&#x20;
+#### **Discussion Points**
 
-We updated Workgroup Budget Limits&#x20;
+We updated Workgroup Budget Limits
 
-#### **Keywords**&#x20;
+#### **Keywords**
 
-**Topics:** Budget, Audit, Proposal, Quarter 4, Planning, Archival, Fund Request, Miro Board&#x20;
+**Topics:** Budget, Audit, Proposal, Quarter 4, Planning, Archival, Fund Request, Miro Board
 
-**Sources:** Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit](https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit) \
-Workgroup Types and Requirements - [https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view](https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view) \
-Task Submission Template - [https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing](https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing) \
-Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023](https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023) \
+**Sources:** Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit](https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit)\
+Workgroup Types and Requirements - [https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view](https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view)\
+Task Submission Template - [https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing](https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing)\
+Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023](https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023)\
 **How the meeting felt:** Meeting was collaborative and focused on topics that helped to align and improve our distribution rules.
 
 ***
@@ -260,6 +261,87 @@ Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Arc
 ### Deepfunding Town Hall
 
 ## Friday 3rd November 2023
+
+### <mark style="color:green;">Marketing Guild</mark>
+
+#### Present:
+
+Mihai Bărbulescu; jay.05 | Judith W; headelf; Peter E; Tevo; Fly; Rojo; Kenichi.
+
+#### In this meeting we discussed:
+
+#### Should the Outreach/Marketing Guild be kept running or is it enough to have 2 people with outreach role that can coordinate between Writers WG and Video WG as well as spin-off projects?
+
+* It should be kept. From there people can chose workgroups: Writing, Video or Outreach
+* It makes sense to have a body that's collaborating with writers WG, video WG and outreach roles
+* Risk: Are we micromanaging too much?
+* Who would lead the Outreach/Marketing Guild? Fly, who has been leading it, isn't inside the workgroups but wants to contribute but not lead it
+* Weekly meetings might not be needed. Meetings could be scheduled when needed only.
+* How many people will be needed for the outreach role? 2 might be good to start with
+
+#### What should the responsibilities of the outreach role holders be?
+
+* Stay on top with events happening across SNet and understand what's happening in the next months&#x20;
+* Outreach to spin-off projects to find out how we can support them/ what we can create for them
+* Decide what the main marketing focus should be
+* Communicate to each workgroup what content needs to go out&#x20;
+* Make sure the workgroups are communicating (They have alignment on what content goes out)
+* Outreach to external organisations that could collaborate with SNet
+* Social media coordination between workgroup content ,especially Writers' and Video WG
+* Amplifying messages on social media from the whole ecosystem
+
+#### Should we put increased effort into amplifying the messages of other spin-off projects on the Ambassadors' X (Twitter) account?
+
+* It makes sense to create more content about the other spin-off projects
+* Risk: Too many tweets /too spammy - people will mute?
+* What do people want to see on Twitter?Are they here for Ambassador program updates or SNet project updates?
+* How do we decide what's being posted in the sea of content in the SNet ecosystem? There are so many projects, it's challenging to amplify every message.
+
+#### How can we best offer our services/support to the other spin-off projects?
+
+* How can they request a task?
+* Should they create their tasks in Dework for us? Do they know how to use Dework? (Will need to get feedback from them)
+* Should we have the outreach role coordinators get the info from projects on what tasks are needed and create the tasks for them? (Could be very time consuming!)
+* We could offer a Google doc template for them to input task info. We can then turn it into Dework task for them.
+* Should workgroups decide on the pricing for each task, or should we have standardised rates, or should the spin-off projects themselves decide what they want to pay?
+* Charging a service fee to cover SNet costs is definitely needed ( treasury etc): Proposed: 5-10% charge&#x20;
+* What currency should it be charged in? Their token or AGIX?
+* How do we establish a point of contact? Invite them to Town Hall session or outreach by an individual person with an outreach role?
+* Should we reach out with a defined offer/service?  Risk: It will restrict their creativity to come up with what they truly need.
+* Should we ask them what exactly they need? Risk: We shouldn't bend for them. They might ask for things we can’t offer
+
+#### What specific services could we provide/ offer as a package?
+
+* Translation
+* Video production
+* Writing
+* Outreach to establish external partner leads/relationships
+* Town Hall hosting service w/ Breakout room
+* Developers (If we have capacity)
+* Process modelling / Process maps (If Tevo has capacity)
+* Take meeting notes / produce meeting summaries
+* Create documentation
+* Help them set up or manage their own Ambassadors program:
+* Full Ambassador’s package/ Consultations (Treasury, Dework, Note taking…)
+
+#### Decisions:  <a href="#docs-internal-guid-4dd7003b-7fff-9e69-0fe6-e11a495e2037" id="docs-internal-guid-4dd7003b-7fff-9e69-0fe6-e11a495e2037"></a>
+
+We need more time to ideate on each item, discussion will continue next Friday 12 UTC\
+In the meantime: create a Google doc to continue brainstorming (See action items)
+
+#### Action items:
+
+Judith to create a Google document where we can continue brainstorming collaboratively on:
+
+* Who are the points of contacts for each spinoff project?
+* What questions do we want to ask them?
+* What responsibilities should a person with the ‘outreach role’ have?&#x20;
+* What workgroups want to offer their services?
+* What services could we potentially offer?
+
+This document is at [https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9TN9Qr\_Jh7k8W3FRCi1pLLQ/edit ](https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9TN9Qr\_Jh7k8W3FRCi1pLLQ/edit)
+
+***
 
 ### Writers' Workgroup
 
