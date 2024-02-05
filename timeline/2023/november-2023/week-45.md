@@ -82,17 +82,182 @@ None
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-**People Present:** Tevo, Andre, Sucren, Peter, Newman **Purpose:** This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild. **Meeting notes:** [https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10) **Dework Updates:** [https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup) **Review new Draft lessons** **Decision items** We implement option to provide direction to Lesson Feedback for every lesson **Action Items** Break Course Feedback Lesson and the Feedback form into Course feedback and Lesson Feedback - Tevo 22.11.23 **Discussion Points** Course Feedback Models Importance of feedback **Review Edited Lessons** **Action items** Focus on updating Cardano Wallet Address for rewards lesson - Sucren, Andre Focus on updating meeting recording method - Sucren **Discussion Points** Gitlab Lesson updated **Andamio Update** **Discussion Points** Went trough updated Lesson Structure and Sequence **Playing Trough Lesson Activities** **Decision items** We remove action to set integrations, current permission and Dework infra doesnt allow good a way to simulate Integrations effectively **Action Items** Include more examples of outputs the way other Ambassadors use Activity Lists Next session continue playing trough course action, starting from making a task template **Discussion Points** Actions for specializing **Keywords** Activities, students, feedback, PBL, Dework, Miro Board, Lessons, Google Form, Andamio Blockchain Education Alpha Program - [https://education.cardano.org/course/cbca-alpha-2](https://education.cardano.org/course/cbca-alpha-2) Course Feedback Lesson - [https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011](https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011) Progressive as we got ideate new strategies to improve our feedback collection and also move forward implementing course deliverables and doing them
+#### **Present:**&#x20;
+
+Tevo, Andre, Sucren, Peter, Newman&#x20;
+
+#### **Purpose:**&#x20;
+
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10)&#x20;
+
+#### **Dework Updates:**&#x20;
+
+[https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)&#x20;
+
+#### **Agenda**
+
+#### **1) Review new Draft lessons**&#x20;
+
+**Decision items** \
+We implement option to provide direction to lesson feedback for every lesson&#x20;
+
+**Action Items** \
+Break the course feedback lesson and the feedback form into Course Feedback and Lesson Feedback - Tevo 22.11.23&#x20;
+
+**Discussion Points** \
+Course Feedback models importance of feedback&#x20;
+
+#### **2) Review Edited Lessons**&#x20;
+
+**Action items** \
+Focus on updating Cardano wallet address for rewards lesson - Sucren, Andre \
+Focus on updating meeting recording method - Sucren&#x20;
+
+**Discussion Points**&#x20;
+
+Gitlab Lesson updated&#x20;
+
+#### **3) Andamio Update**&#x20;
+
+**Discussion Points** \
+Went through updated lesson structure and sequence&#x20;
+
+#### **4) Playing through Lesson Activities**&#x20;
+
+**Decision items** \
+We remove action to set integrations. Current permission and Dework infrastructure doesnt allow a good way to simulate integrations effectively.
+
+**Action Items** \
+Include more examples of outputs the way other Ambassadors use Activity Lists.&#x20;
+
+#### Next session&#x20;
+
+Continue playing through course action, starting from making a task template.&#x20;
+
+**Discussion Points** \
+Actions for specializing&#x20;
+
+#### **Keywords**&#x20;
+
+**Topics:**\
+Activities, students, feedback, PBL, Dework, Miro Board, Lessons, Google Form, Andamio Blockchain Education&#x20;
+
+**Sources and links**\
+Alpha Program - [https://education.cardano.org/course/cbca-alpha-2](https://education.cardano.org/course/cbca-alpha-2) Course Feedback Lesson - [https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011](https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011)&#x20;
+
+**How the meeting felt**\
+Progressive, as we got to ideate new strategies to improve our feedback collection, and also move forward implementing course deliverables and doing them.
+
+***
 
 ### Process Modelling Workgroup
 
 ### Incubation Guild
 
-### Strategy Guild
+***
+
+### <mark style="color:green;">Strategy Guild</mark>
+
+#### Present:
+
+Peter, Tuso, Osminium, Rojo, Slate, Headelf \[facilitator] \[documenter]
+
+#### Agenda:
+
+Round Table formation
+
+#### Notes:
+
+No real notes other than we spent the entire session editing and refining the [google document](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing) that was started a few weeks ago. The doc will be posted again for community editing.
+
+#### Sources:
+
+sNET Round Table formation [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing)&#x20;
+
+#### Meeting length
+
+&#x20;1 hour 45
+
+#### Action items
+
+\[action] Edit the google document.
+
+***
 
 ## Thursday 9th November 2023
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
+
+#### Present:&#x20;
+
+Sucre \[Host], Onyeka \[Documenter], Vani, Love, Tuso, TechTone
+
+#### In this meeting we discussed:&#x20;
+
+Minutes from the last meeting\
+Adjustment made to Q4 Budget \
+Meeting Summary for the Ambassador TH Update\
+Changes to the Onboarding Survey Form\
+Continuous Onboarding (How to support other WGs in onboarding new members to their meetings)\
+drafting of a Twitter thread from the Getting Started Document.
+
+#### Decisions:
+
+* We agreed on a price of 10AGIX and some Gimbals to be rewarded to people for completing the Onboarding Survey Form.
+* For the next Town Hall our update from this Workgroup will be: 1) Explanation of the Onboarding Role and how to acquire it and do tasks on dework; 2) we are currently working on an Onboarding survey form and it would be ready for the next Town Hall meeting; 3) we are preparing a Twitter thread to teach newbies on how to get started into the program.
+* We agreed to launch the survey form on the 21st of November 2023 in the Town Hall meeting \[after bringing it into the next meeting]
+* Sucre, Love, Vani, Onyeka and Peter agreed to go to other Workgroups' meetings to dicuss continuous onboarding.
+
+#### Action items:&#x20;
+
+\[Action] Sucre to tweak the scripts and relay the imagery in the onboarding video to LilyCupcake.\
+\[Action] Vani, Onyeka and any other interested members could help to edit the onboarding survey form and make it ready for the next meeting.\
+\[Action] Vani or Sucre  to share a list of what info a WG needs to give to the Video WG when commissioning them to make a video.\
+\[Action] Love to draft a Twitter thread based on the Getting started doc\
+\[Action] Vani to tweak the survey form from ticking of options to  a Yes or No format\
+\[Action] Onyeka to create an update for the next Ambassador TH meeting.\
+\[Action] Sucre to meet Workgroup leads and discuss when we can visit their meetings.\
+\[Action] Sucre to create a cover photo for the ambassador program onboarding form
+
+#### Learning points:&#x20;
+
+Most people tend to leave the option of "Any other comments" blank so it's better to be specific when asking questions.
+
+#### To carry over for next meeting:&#x20;
+
+* Conclusion of the survey form.
+
+#### Keywords:&#x20;
+
+**Topics covered:** \
+Onboarding, Survey, Collaboration, Summary, Budget etc
+
+**Sources:** \
+Quarterly WorkGroup budget calculator \
+[https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)\
+
+
+Commissioning video clips [https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing](https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing)
+
+Ideas on how to support other WGs with continuous onboarding [https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
+
+**How the meeting felt:** \
+Funny, Contributive, Thoughtful.
+
+**Other:**\
+We welcomed a new member to the meeting \[ToneTech]
+
+#### Meeting Summary for Town Hall Update
+
+* Explanation on the Onboarding Role and how to acquire it and do tasks on dework&#x20;
+* We are currently working on an Onboarding survey form and it will be shared at the next Town Hall meeting.
+* We are preparing a Twitter thread to put out there on how to get started into the Ambassador program.
+
+***
 
 ### Treasury Guild
 
