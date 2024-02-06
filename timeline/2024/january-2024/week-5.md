@@ -12,6 +12,7 @@ description: Mon 29th Jan - Sun 4th Feb
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -49,3 +50,37 @@ description: Mon 29th Jan - Sun 4th Feb
 #### Keywords/tags:
 - topics covered: Meeting Summaries, ACP, Videomaking, infographic, quizzes
 - emotions: Collaborative, contructive criticism
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- People present: Tevo [host], Tevo [documenter], Tevo, André, Peter, Sucren, malik
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764575517374325&cot=10
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+
+#### Agenda item 1 - Review Lessons - [resolved]
+
+#### Discussion Points:
+- Are there any other lessons we should have?
+- What do we do with the Meeting Summary Lesson?
+- How do we manage various Course Feedback?
+
+#### Decision Items:
+- The "Sentiment Analysis" Lesson is good enough
+  - [effect] affectsOnlyThisWorkgroup
+- The "Course Feedback" Lesson is good enough
+  - [effect] affectsOnlyThisWorkgroup
+- The "Outreaching Dework Tasks to wider Dework Community" Lesson is good enough
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] The "Feedback Loop" lesson will be slightly updated  [assignee] André [status] todo
+- [action] Update Lesson Feedback Form with newly added lessons [assignee] Tevo [status] todo
+
+#### Keywords/tags:
+- topics covered: Feedback Form, Outreach, Error, PBL, Dework, Miro Board, Lessons, Google Form, Andamio
+- emotions: The meeting was quick and progressive
