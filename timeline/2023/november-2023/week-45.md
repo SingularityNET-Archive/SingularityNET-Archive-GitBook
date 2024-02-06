@@ -265,8 +265,70 @@ We welcomed a new member to the meeting \[ToneTech]
 
 ### Deepfunding Town Hall
 
-## Friday 10th November2023
+## Friday 10th November 2023
+
+### Marketing Guild
+
+
+
+***
 
 ### Writers' Workgroup
 
+***
+
 ### Video Workgroup
+
+***
+
+## Saturday 11th November 2023
+
+### <mark style="color:green;">Gamers' Guild</mark>
+
+#### Present: <a href="#docs-internal-guid-9c882c80-7fff-22d7-cb7a-f087b5ca0ce3" id="docs-internal-guid-9c882c80-7fff-22d7-cb7a-f087b5ca0ce3"></a>
+
+Malik, Hufiumer69, Rebel, oneforall, Devon Hardy \[documenter], Slate \[facilitator]
+
+#### Meeting Narrative:
+
+Slate opened the meeting by providing a concise summary of the session, revealing that it would be divided into three distinct parts, each with its own focus and activities.
+
+This meeting was structured into three distinct parts, focusing on gaming, virtual experiences in Decentraland, and the introduction of web games to the community. Participants were given clear explanations and directions for each part, ensuring an organized and engaging session for all attendees.
+
+#### Part 1 - Games:
+
+The first part of the meeting was dedicated to gaming. Two games were on the agenda: Land IO with three rounds and Putt Party for one round of 6 holes.
+
+Slate thoroughly explained the rules and regulations for these games, including the point system for the top 3 participants in each round:
+
+* 1st place: 4 points
+* 2nd place: 3 points
+* 3rd place: 2 points
+
+#### Part 2 - Decentraland and "Ai World Fair 2023":
+
+* In the second part of the meeting, Slate introduced Decentraland, a virtual social platform governed by its users, allowing them to create their own marketplace.
+* The main focus of this session was exploring the "AI World Fair 2023" section within Decentraland. Participants were informed that they would be engaging with Dr Ben Goertzel's Twin prototype.
+* Slate shared the location and details for this virtual experience.
+
+#### Part 3 - Shifting to Web Games:
+
+* The third part of the session revolved around the transition towards web games.
+* The guild's objective was to introduce web games to the community, emphasizing the need for consistent participation to compete effectively.
+* Slate announced that multiple sessions would be organized to provide comprehensive explanations of the web games before actual gameplay.
+
+#### **Keywords:**
+
+Games, Land IO, Putt Party, Decentraland, Ai World Fair 2023, Dr Ben Goertzel's Twin prototype, Web games
+
+#### Action Items:
+
+\[action] Share specific game rules and regulations for the Land IO and Putt Party games.\
+\[action]  Provide location details for the "Ai World Fair 2023" section in Decentraland.\
+\[action] Schedule and conduct sessions to educate the community about web games.
+
+#### How the meeting felt:
+
+organized, engaging
+
+***
