@@ -67,6 +67,7 @@ description: Mon 22nd Jan - Sun 28th Jan 2024
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -126,6 +127,70 @@ description: Mon 22nd Jan - Sun 28th Jan 2024
 #### Keywords/tags:
 - topics covered: Miro Board, Budget , Quarter 1, Staking, Proposals, AGIX, Stable Value, Ethics
 - emotions: We had quite a tension around discussing the differentiation of core contributors and how it's done
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- People present: LadyTempestt [host], Onyeka  [documenter], Sucren, Vanessa, Peter, esewilliams, Tevo, Cjfrankie, Slate, Precious, Duke, lord kizzy, LadyTempestt
+- Working Docs:
+  - [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG_LkKvFp5tRER30sxT_wGV3ySt-MZ4/edit)
+  - [Quarterly Workgroup Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Onboarding WG - how can we support other WGs to onboard new people in their meetings](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
+  - [Onboarding Workgroup MIRO](https://miro.com/app/board/uXjVM5jyehQ=/ )
+  - [F&D roster](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+
+#### Town Hall Updates:
+-Thanks to those who participated in our Continuous onboarding sessions
+-Onboarding session on the 8th February 2024.
+-We have more people joining the Onboarding Workgroup and talk on the criterias for you to become a member.
+-Quarterly Budget Report.
+
+
+
+#### Discussion Points:
+- Minutes of last Meeting 
+- Action items from last meeting 
+- Next Ambassador TH Update
+- Twitter thread on the Getting started channel 
+- Continuous Onboarding Session Report
+- Onboarding Workgroup Facilitation and Documentation Roster 
+- Q4 Quarterly report 
+- Budget for Q1
+
+#### Decision Items:
+- We agreed to set a deadline (15th of February) for the Onboarding Session Report.
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that the asynchronous input from R&D, Education and Strategy can be added as comments to the Report.
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- We have decided to create a Twitter tweet to announce our Onboarding session. 
+  - [opposing] None
+- We decided to split the Facilitation of the Onboarding Session into 4 parts 
+  - [opposing] None
+
+#### Action Items:
+- [action] Sucren to speak to Mikasa to create a tweet to announce the Onboarding session  [assignee] Sucren [due] 1 February 2024 [status] todo
+- [action]  Lady Tempestt to create a resource, with ideas for how WGs can support continuous onboarding [assignee] LadyTempestt [due] 1 February 2024 [status] in progress
+- [action] Vani to make the necessary corrections to the Onboarding Session slides  [assignee] Vanessa [due] 1 February 2024 [status] todo
+- [action] Lord Kizzy to create a report on Continuous Onboarding (1st draft bring to meeting on 15th) [assignee] lord kizzy [due] 15 February 2024 [status] in progress
+- [action] Lord Kizzy to give the onboarding updates in the next TH meeting  [assignee] lord kizzy [due] 30 January 2024 [status] todo
+- [action] Lord Kizzy to  share the infographic to announce the Onboarding session on the 8th of February [assignee] lord kizzy [due] 2024-01-11 [status] todo
+
+#### Learning Points:
+- GMBLS has been changed to MINS
+
+#### Issues:
+- The Onboarding Session.
+- The Continuous Onboarding Report 
+- The Question on Guilds and WorkGroups
+
+#### Keywords/tags:
+- topics covered: Guilds , Onboarding, TH Update , Roles, Budget 
+- emotions: Collaborative, speedy , funny , Thoughtful , Friendly
 
 
 ## Friday 26th January 2024
