@@ -93,15 +93,60 @@ Today's session for chill and progressive as there were few of us in the session
 
 ## Thursday 16th November 2023
 
-### Onboarding Workgroup
-
 ### Treasury Guild
+
+#### **Present:**&#x20;
+
+Rojo, SucrenSpice, lord\_kizzy, Lady Tempestt, Vanessa, Peter \[facilitator]&#x20;
+
+#### **Purpose:**&#x20;
+
+How to structure Ambassador rules around payments, tasks and anything related to financial activities?&#x20;
+
+#### **Meeting notes:**&#x20;
+
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764568759337298\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764568759337298\&cot=10)&#x20;
+
+#### **Dework Updates:**&#x20;
+
+[https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)&#x20;
+
+#### **Treasury Guild Insights**&#x20;
+
+**Discussion Points**&#x20;
+
+We went over the requests that got raised during transaction building session by treasury guild. \
+We added stickies to the Miro board to indicate further actions, comments or approvals
+
+#### **Quarter 4 Treasury Proposal**&#x20;
+
+**Decision items** \
+\[decision] Have a discussion about Treasury Proposal feedback in the Townhall&#x20;
+
+**Action Items** \
+\[action] Have a vote by Workgroup leads and ambassadors in the next TH for approval. \
+\[action] Create a Feedback Form draft - Vanessa \
+\[action] Share feedback form \
+\[action] Notify Workgroup leads and ambassadors to read the proposal and prepare to vote during Townhall - Peter&#x20;
+
+**Discussion Points** \
+How a broader community can engage with a Google form to provide feedback on the budget proposal.&#x20;
+
+#### **Keywords**&#x20;
+
+**Topics:**\
+Dework, Google Form, Feedback, Treasury, Proposal, Miro Board&#x20;
+
+**Sources:**\
+Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit](https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit)
+
+***
 
 ### Incubation: AI Sandbox
 
 ### Deepfunding Town Hall
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
 
 * Type of meeting: Weekly
 * People present: Vanessa \[host], Onyeka \[documenter], Peter, Sucren, love, tone
@@ -163,8 +208,10 @@ Today's session for chill and progressive as there were few of us in the session
 
 #### Keywords/tags:
 
-* topics covered: Onboarding survey, Collaboration, Town Hall update, Rewards, Getting Started twitter thread, New Onboarding video
-* emotions: speedy , Casual, Collaborative
+* topics covered: onboarding survey, collaboration, Town Hall update, rewards, getting Started twitter thread, new Onboarding video
+* emotions: speedy , casual, collaborative
+
+***
 
 ## Friday 17th November 2023
 
