@@ -265,9 +265,43 @@ We welcomed a new member to the meeting \[ToneTech]
 
 ### Deepfunding Town Hall
 
+***
+
 ## Friday 10th November 2023
 
 ### Marketing Guild
+
+#### Present:&#x20;
+
+jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
+
+#### In this meeting we discussed:&#x20;
+
+* the strategy we will adopt for the initial outreach to the SingularityNet spin-off projects as well as which channels will be best for outreach and what message we want to reach out with initially
+* how many of us and who will handle the initial outreach and that the best strategy for now will be to have two people reach out to Snet spin-off projects first to see if there is any interest in collaborating with the Ambassador’s workgroups on tasks that need to be done, before we start assigning outreach coordinator roles to interested Guild members
+* ideas on how we will reward the outreach coordinator role and whether or not we want spin-off projects to pay for that, whether or not a service fee should be worked into a margin of the price we are going to charge for any work we will do for them, or if compensation for outreach should come front he marketing budget as the marketing budget would increase when spin-off projects hire us for tasks
+* Dework access and set up for Judith to be able to manage the Marketing Guild meetings and any tasks associated with it
+* the results of the polls that were put up by Judith in the Marketing Guild chat
+
+#### Decisions:&#x20;
+
+\[decision] To start the outreach to all spin-off projects next week with two people in charge of initial outreach before we determine how many members will take on the outreach role (dependent on response/interest from Snet spin-offs).
+
+\[decision] It was voted to keep the name of this Guild as ‘Marketing Guild’ (Voted through poll in Marketing Guild chat).
+
+\[decision] It was voted to run Marketing Guild Sessions whenever needed (Voted through poll in Marketing Guild chat), however currently they will still be weekly meetings until we fully figured out the outreach process.
+
+\[decision] It was voted that each spin-off project should have their own Snet Ambassadors program representative, (however we still need to figure out how doable this actually is and how many members are ultimately interested in participating in outreach) (Voted through poll in Marketing Guild chat).
+
+\[decision]  Judith will prepare + host future Marketing Guild meetings and has permission to put up tasks to the Marketing Guild Dework
+
+#### Action Items:&#x20;
+
+\[action] Judith to set up a message chat with Slate and Peter to coordinate who reached out to which spin-off project, and for Peter to possibly help with point of contacts for those
+
+\[action] To facilitate the outreach to Snet spin-off point of contacts through various channels over the upcoming week and report back to the Guild Members by Friday (Slate and Judith, with help of Peter)
+
+\[action]  To give Judith permission to add tasks on Dework (Marketing Guild only)
 
 
 

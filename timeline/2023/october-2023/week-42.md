@@ -323,9 +323,28 @@ No summary given
 
 ***
 
-### Video Workgroup
+### <mark style="color:green;">Video Workgroup</mark>
 
+#### Present:&#x20;
 
+Rojo \[facilitator], Agus, Judith, Peter, TUSO, Lord Kizzy.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media)
+* Discussed upcoming tasks for next week.
+* Talked about potential topics for future videos.
+* Discussed the process of editing Town Hall videos and Town Hall summaries.
+* Welcomed Lord\_Kizzy as our newest member by the votes conducted by the VW members.
+* Talked about our current 3 new applicants.
+
+#### Decisions:&#x20;
+
+\[decision] Admitted 3 new members to the workgroup through a majority vote.
+
+#### Action items:
+
+\[action] Make weekly tasks for editing the Town Hall recording and its summary video.
 
 ***
 

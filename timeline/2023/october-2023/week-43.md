@@ -368,7 +368,28 @@ No summary given
 
 ***
 
-### Video Workgroup
+### <mark style="color:green;">Video Workgroup</mark>
+
+#### Present:&#x20;
+
+Rojo \[facilitator], Agus, Judith, Peter, TUSO, Lilycupcake, St Andrew, Lord Kizzy.&#x20;
+
+#### In this meeting we:
+
+* Got updates about the recurrent weekly tasks.
+* Got updates from the social media manager.
+* Discussed challenges in tasks for new members.
+* Planned a workshop on the psychology of social media for next week.
+* Discussed strategies to amplify social media growth and impact.
+
+#### Decisions:
+
+\[decision] Accepted a new member into the workgroup through a majority vote by the members.
+
+#### Action items:
+
+\[action] Make weekly tasks for editing the Town Hall recording and its summary video.\
+\[action] Workshop on the psychology of social media for next week.
 
 
 

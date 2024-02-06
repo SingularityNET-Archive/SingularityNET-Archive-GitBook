@@ -301,7 +301,23 @@ No summary given
 
 ***
 
-### Video Workgroup
+### <mark style="color:green;">Video Workgroup</mark>
+
+#### **Present:**
+
+Agus \[facilitator], Peter, Lord Kizzy.
+
+#### **In this meeting we:**
+
+Discussed a little bit about the incident about the YouTube Singularity NET account. We were Peter and me for 20 minutes and when both jumped off, Lord Kizzy joined, so we had a little conversation.
+
+#### **Decisions:**
+
+none
+
+#### **Action items:**
+
+none
 
 ***
 
