@@ -345,4 +345,55 @@ This document is at [https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9T
 
 ### Writers' Workgroup
 
-### Video Workgroup
+
+
+***
+
+### <mark style="color:green;">Video Workgroup</mark>
+
+#### Present:&#x20;
+
+Rojo \[facilitator], Judith \[documentor], Peter. E, headelf, OEP, lord\_kizzy, Kenichi
+
+#### In this meeting we:&#x20;
+
+* Discussed Workgroup videos that have recently been posted
+* Discussed ways to improve the appeal of our current videos for example: adding a headline to our videos, adding auto caption, changing the background, and discussed the best placement for those video elements
+* Discussed additional task requirements to add to Dework to make the task instruction clearer and ensure a higher standard of videos (additional task requirements: auto-caption, headline, solid background)
+* Discussed the idea of having a Q\&A document with solutions to the most commonly asked questions by our members (many members are asking questions in DMs -> the answers get lost / need to be repeated)
+* Discussed whether or not we should have the announced video optimization workshop as an interactive workshop or as a written cheat sheet
+
+#### Decisions:&#x20;
+
+\[decision] To start adding a main caption (headline) to our videos to let people know what they are watching (also as a hook to get people to stop scrolling)\
+\[decision] Instead of extending the blurred background to fit the whole frame of the video we will add a solid colour background (there we will place the auto caption and headline)\
+\[decision] To brainstorm a suitable headline for the Town Hall summary videos\
+\[decision] To add more info/requirements to Dework task description eg. auto-captions, headline caption, and solid background if applicable\
+\[decision] All videos should have auto-captions without exception because many people watch videos without sound\
+\[decision] To make a Q\&A document with the most common problems of workgroup members and their solutions and share it in the video group and then add it to our Carrd page\
+\[decision] To always proof-read auto-captions to avoid mistakes\
+\[decision] To add sound to the Town Hall summary video ( we will trial this)\
+\[decision] To show the headline in the video thumbnail\
+\[decision] To ask workgroup members if they would prefer the announced video optimization workshop as an online workshop or document&#x20;
+
+#### Action items
+
+\[action] Add additional task requirements to Dework: auto-captions that will be proof-read, solid background (if video doesn't fit the full frame), headline/ video caption to add context to videos\
+\[action] To share a Q\&A document in the workgroup chat where members can ask their most common questions, they will then be answered and the document will be shared to our Carrd page (or pinned to the group chat)\
+\[action] To add sound to the next Town Hall summary video (give it a try first before we make it a requirement)\
+\[action] Ask members in the group if they prefer the announced video workgroup as an online workshop or as a cheat-sheet document\
+\[action] Brainstorm catchy headline for Town Hall summary videos
+
+#### Keywords:
+
+**Topics covered:**\
+Dework, Town Hall Summary, Auto Captions, Video Caption (Headline), Video Background, Q\&A, Most common problems/questions, Video Edit Improvements
+
+**Sources:**\
+Video WorkGroup's Carrd: [https://vw-snetambassadors.carrd.co/](https://vw-snetambassadors.carrd.co/)
+
+**How the meeting felt:** \
+Productive, friendly, collaborative, action oriented, problem-solving mindset, great engagement from everyone
+
+\
+\

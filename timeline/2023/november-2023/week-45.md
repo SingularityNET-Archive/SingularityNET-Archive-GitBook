@@ -269,7 +269,7 @@ We welcomed a new member to the meeting \[ToneTech]
 
 ## Friday 10th November 2023
 
-### Marketing Guild
+### <mark style="color:green;">Marketing Guild</mark>
 
 #### Present:&#x20;
 
@@ -311,7 +311,7 @@ jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 
 ***
 
-### Video Workgroup
+### <mark style="color:green;">Video Workgroup</mark>
 
 #### Present:&#x20;
 
