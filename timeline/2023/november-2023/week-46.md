@@ -217,6 +217,83 @@ Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25X
 
 ## Friday 17th November 2023
 
+### <mark style="color:green;">Marketing Guild</mark>
+
+#### Present:&#x20;
+
+jay.05 | Judith W. \[facilitator] \[documentor], Peter E, Slate, Lord\_kizzy, Kenichi
+
+#### In this meeting we discussed:&#x20;
+
+* Monthly Marketing Guild Budget for Q4 and if we need to request additional budget
+* Partnership with DeepFunding marketing circle and its possibilities for our workgroups
+* Process of putting together the outreach team, how to recruit members, where to find them, and if we should recruit people that are not part of Ambassador’s program (via tweets or other channels)
+* Criteria the outreach team members should have and workflow of the outreach team
+* External outreach beyond Snet spin-offs: should we make it part of our effort or should it be proposal based?
+* Marketing materials: how quickly do we need them?&#x20;
+* What can each workgroup offer to spin-offs?
+* Sandra from Cogito joining Writers' meeting to discuss potential partnership with Writers' workgroup on ‘Finance meets AI’ articles
+
+#### Decisions:&#x20;
+
+\[decision] We should focus on DeepFunding partnership and make sure to set it up properly\
+\[decision] Send a message out in Snet Discord channels to see who is interested in being part of  outreach team \
+\[decision] We will reach out to external Discord servers/ Telegram groups to find people that are interested in outreach if we do not find enough people interested within Snet Ambassadors Discord\
+\[decision] Outreach team members to report updates to marketing channel, not writers or video workgroup\
+\[decision] For now stick to outreach to Snet spin-offs instead of focus on external outreach\
+\[decision] To reach out to all workgroups to see what they can contribute to spin-offs
+
+#### Action Items:&#x20;
+
+\[action] Judith to send out message in Ambassador’s Discord to see who wants to be part of outreach team\
+\[action] Slate and Judith to continue with initial outreach to spin-off projects\
+\[action] Judith to have a chat with Rafael on Marketing collaboration\
+\[action] Judith to reach out to all workgroups to see how they can help support spin-offs
+
+***
+
 ### Writers' Workgroup
 
-### Video Workgroup
+No summary given
+
+***
+
+### <mark style="color:green;">Video Workgroup</mark>
+
+#### Present:&#x20;
+
+Rojo \[facilitator], Agus, Judith \[Documentor], Kenichi, Lord\_kizzy, Peter
+
+#### In this meeting we:&#x20;
+
+* Discussed videos that will go out next week
+* Discussed editing details for short clips that will go out next week: format, outro, video description
+* Discussed editing procedure for video on staking on Cardano and that it will require 2 people to work on
+* Discussed how we should decide on teams for collaborative videos
+* Discussed if we should translate important videos into Spanish
+* Discussed the process of adding and editing subtitles in 2 languages
+* Researched audience insights on our Youtube channel and which countries watch our content the most
+
+#### Decisions:&#x20;
+
+\[decision] The first 2 people to apply for a collaborative tasks will be working together as a team\
+\[decision] To test out translating important Snet videos into Spanish or have Spanish subtitles
+
+#### Action items
+
+\[action] Rojo to talk to Sucren about collaboration for translations of videos into Spanish\
+\[action] Judith to write the meeting summary for this meeting\
+\[action] Rojo to put new tasks on Dework&#x20;
+
+#### Keywords:
+
+**Topics covered:**\
+Dework, Cardano Staking, Spanish Video Translation, Youtube Audience Insights, Subtitles
+
+**Sources:**\
+Video WorkGroup's Carrd: [https://vw-snetambassadors.carrd.co/](https://vw-snetambassadors.carrd.co/)
+
+**How the meeting felt:** \
+Productive, collaborative, action-oriented, creative
+
+***
