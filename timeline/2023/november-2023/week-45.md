@@ -313,6 +313,55 @@ jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 
 ### Video Workgroup
 
+#### Present:&#x20;
+
+Rojo \[facilitator], Judith \[documentor], OEP, lord\_kizzy, Agus
+
+#### In this meeting we:&#x20;
+
+* discussed recent videos that have been posted
+* discussed ways to further optimize the Town Hall summary videos, specifically how to optimize the headline, size, and layout of the video to improve the quality of the video
+* discussed whether we should optimize Town Hall summary videos for our internal ecosystem or viewers outside our ecosystem
+* discussed and brainstormed specific headline captions for the Town Hall summary videos
+* discussed whether we want to add viral music or stock music to our videos and the benefits / challenges for each
+* discussed how we can make Dework task description even clearer for workgroup members
+* discussed what kind of videos we should put out over the next weeks (short clips, compilations, educational long videos)
+* discussed if we should repurpose old videos
+* discussed tools for editing long video recordings of the Town Hall meetings
+
+#### Decisions:&#x20;
+
+\[decision] To optimize the headline of the Town Hall summary video.\
+\[decision] To add the number of the TownHall summary video in the caption every time.\
+\[decision] To not zoom in on the screen recording of the Town Hall summary video as much and reduce the size to reduce the blur/ achieve a higher resolution.\
+\[decision] To brainstorm a caption for the Town Hall summary in our Discord chat.\
+\[decision] To add more info/requirements to the Dework task description regarding headline, layout, auto-captions, and background.\
+\[decision] To optimize TownHall summary videos for our internal ecosystem rather than external viewers (other videos can be optimized for people outside the ecosystem).\
+\[decision] To make a few short videos with already recorded content from the internet.\
+\[decision] To repurpose some of our old videos with new captions
+
+#### Action items
+
+\[action] Rojo to add additional task requirements to Dework to make the tasks easier to understand for task applicants\
+\[action] Brainstorm headlines for Town Hall summary videos in Discord chat\
+\[action] Rojo to put a task on Dework for short clip videos\
+\[action] Everyone to discuss their topics for short videos in the Discord chat so we avoid duplicate videos\
+\[action] Judith to write the meeting summary for this meeting
+
+#### Keywords: (use as many as you like for each heading)
+
+**Topics covered**\
+Dework, Town Hall Summary, Video Caption (Headline), Video Edit Improvements, Music, Video Quality
+
+**Sources**
+
+Video WG's Carrd [https://vw-snetambassadors.carrd.co/](https://vw-snetambassadors.carrd.co/)\
+Clipchamp, video editing tool [https://clipchamp.com](https://clipchamp.com)
+
+**How the meeting felt**
+
+Productive, friendly, collaborative, action-oriented, problem-solving mindset, great engagement from everyone
+
 ***
 
 ## Saturday 11th November 2023

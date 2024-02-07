@@ -91,9 +91,11 @@ Today's session for chill and progressive as there were few of us in the session
 
 ### Strategy Guild
 
+***
+
 ## Thursday 16th November 2023
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
 
 #### **Present:**&#x20;
 
