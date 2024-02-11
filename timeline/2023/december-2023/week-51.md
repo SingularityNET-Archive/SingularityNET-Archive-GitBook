@@ -8,7 +8,42 @@ description: 18th December to 24th December 2023
 
 ## Monday 18th December 2023 <a href="#docs-internal-guid-95f1989b-7fff-cb17-b2db-68e8d83ca327" id="docs-internal-guid-95f1989b-7fff-cb17-b2db-68e8d83ca327"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+#### Present:
+
+Headelf \[facilitator] \[documenter], Peter, Osmium, Rojo, WaKa, Kent
+
+#### Agenda
+
+Videos on infographics; platform for classes
+
+#### Notes:
+
+The first convo was on the platform for the Ambassador Certification program. Google classroom as agreed to at last meeting(s) is not possible, as a program needs to be accredited. We circled back to using Andamio (see PBL (Project Based Learning) Workgroup), or Google Spaces (as Google itself suggested when they turned down our application). Peter indicated we could use his, and the application for Google Classroom gave us a free version for a time. \
+\[decision] It was agreed to use Google Spaces to post the infographics, the quizzes, the videos and eventually the final 100 question exam.
+
+It was also suggested that Gitbook could be used as a tool, with sections using Google as pools. Markdown. Drop files in and fix them later was one suggestion.
+
+Conversation on archives took time for a period, and then Incubation as it was of interest to several members. Since the conversation was not directly pertinent to Education workgroup, note taking relaxed.&#x20;
+
+After a long conversation, the discussion turned to the videos. As some of the infographics had been completed it was time to start on videos. But Conflict Resolution and the function of the Round Table came up. It was suggested that Education Workgroup should take up the unfinished subject of Conflict Resolution. One suggestion was to create video lessons for workgroup leads and ambassadors, similar to the Ambassador Certification Program (ACP). \
+\[decision] After long conversation, this was a preferred course. It was suggested this be tabled until after the videos for the ACP were complete.
+
+As Rojo was present the conversation turned to fair rewards for quality for these videos. Rojo indicated that Video WG compensates differently based on the type of video. The bounty was upwards of 120 USD but did not necessarily include script, original video, and of quality for a 5-minute specific subject video. \
+\[decision] After a long conversation it was consensus to compensate 140 USD for a quality video with original graphics and fully edited.&#x20;
+
+Rojo and Headelf had a conversation about offering bounties to the video workgroup for videos about a number of the spinoff projects. It was discussed about cash accounting and incurred due to the uncertainty of the  Ambassador budget. Education Workgroup has the budget to complete the videos for each spinoff under current budget.
+
+#### Meeting length
+
+2 hours 30 mins
+
+#### Action items
+
+\[action] Video production on spinoffs.
+
+***
 
 ### Knowledge Base Workgroup
 
