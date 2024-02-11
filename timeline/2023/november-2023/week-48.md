@@ -340,6 +340,8 @@ Not this week
 
 ### Deepfunding Town Hall
 
+Video unavailable
+
 ***
 
 ## Friday 1st December 2023
