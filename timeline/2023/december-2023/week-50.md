@@ -40,6 +40,12 @@ We are waiting on several infographics still.
 
 ***
 
+### <mark style="color:green;">Developer workgroup</mark>
+
+Nascent group that has begun to meet, but is not yet documenting
+
+***
+
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
 Meeting was moved to Weds 13th December 2023
@@ -60,6 +66,8 @@ Not this week
 
 ### Incubation Think-Tank
 
+No summary given
+
 ***
 
 ## Wednesday 13th December 2023
@@ -70,9 +78,9 @@ Not this week
 
 ***
 
-### Dework PBL Workgroup
+### <mark style="color:green;">Dework PBL Workgroup / Knowledge Base WorkGroup</mark>
 
-Meeting was replaced by Knowledge Base Workgroup rescheduled from Monday 11th Dec 2023.
+Dework PBL meeting was replaced by Knowledge Base Workgroup rescheduled from Monday 11th Dec 2023. Knowldge Base Workgroup may move permanently to this slot.
 
 #### **Present:**&#x20;
 
@@ -327,10 +335,32 @@ Meeting was fine, we were able to tackle several open questions that were on par
 
 ### Incubation: AI Sandbox
 
+No summary given
+
+***
+
 ### Deepfunding Town Hall
+
+
+
+***
 
 ## Friday 15th December 2023
 
+### Marketing Workgroup
+
+no summary given
+
+***
+
 ### Writers' Workgroup
 
+no summary given
+
+***
+
 ### Video Workgroup
+
+No summary given
+
+***

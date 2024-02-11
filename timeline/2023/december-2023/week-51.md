@@ -45,40 +45,106 @@ Rojo and Headelf had a conversation about offering bounties to the video workgro
 
 ***
 
-### Knowledge Base Workgroup
+### <mark style="color:green;">Developer workgroup</mark>
+
+Nascent group that has begun to meet, but is not yet documenting
+
+***
+
+### <mark style="color:green;">Knowledge Base Workgroup</mark>
+
+Not this week.
+
+***
 
 ## Tuesday 19th December 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
+
+No meeting: Christmas break
+
+***
 
 ### Ambassador Town Hall
 
-### Incubation Think-Tank
+
+
+***
+
+### <mark style="color:green;">Incubation Think-Tank</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Wednesday 20th December 2023
 
-### Archives Workgroup
+### <mark style="color:green;">Archives Workgroup</mark>
 
-### Dework PBL Workgroup
+No meeting: Christmas break
 
-### Process Modelling Workgroup
+***
 
-### Incubation Guild
+### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-### Strategy Guild
+Not this week
+
+***
+
+### <mark style="color:green;">Incubation Guild</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Strategy Guild</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Thursday 21st December 2023
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
 
-### Treasury Guild
+No meeting: Christmas break
 
-### Incubation: AI Sandbox
+***
 
-### Deepfunding Town Hall
+### <mark style="color:green;">Treasury Guild</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Friday 22nd December 2023
 
-### Writers' Workgroup
+### <mark style="color:green;">Marketing Guild</mark>
 
-### Video Workgroup
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Writers' Workgroup</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Video Workgroup</mark>
+
+No meeting: Christmas break
+
+***

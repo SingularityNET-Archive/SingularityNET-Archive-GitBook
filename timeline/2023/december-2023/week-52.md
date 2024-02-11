@@ -8,42 +8,112 @@ description: 25th December to 31st December 2023
 
 ## Monday 25th December 2023 <a href="#docs-internal-guid-4c78e875-7fff-08ca-0e62-a7b2aa7d9bed" id="docs-internal-guid-4c78e875-7fff-08ca-0e62-a7b2aa7d9bed"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
 
-### Knowledge Base Workgroup
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Knowledge Base Workgroup</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Tuesday 26th December 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
 
-### Ambassador Town Hall
+No meeting: Christmas break
 
-### Incubation Think-Tank
+***
+
+### <mark style="color:green;">Ambassador Town Hall</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Incubation Think-Tank</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Wednesday 27th December 2023
 
-### Archives Workgroup
+### <mark style="color:green;">Archives Workgroup</mark>
 
-### Dework PBL Workgroup
+No meeting: Christmas break
 
-### Process Modelling Workgroup
+***
 
-### Incubation Guild
+### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-### Strategy Guild
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Incubation Guild</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Strategy Guild</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Thursday 28th December 2023
 
-### Onboarding Workgroup
+### <mark style="color:green;">Onboarding Workgroup</mark>
 
-### Treasury Guild
+No meeting: Christmas break
 
-### Incubation: AI Sandbox
+***
 
-### Deepfunding Town Hall
+### <mark style="color:green;">Treasury Guild</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+No meeting: Christmas break
+
+***
 
 ## Friday 29th December 2023
 
-### Writers' Workgroup
+### <mark style="color:green;">Marketing Guild</mark>
 
-### Video Workgroup
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Writers' Workgroup</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Video Workgroup</mark>
+
+No meeting: Christmas break
+
+***
+
+### <mark style="color:green;">Gamers' Guild</mark>
+
+No meeting: Christmas break
+
+***

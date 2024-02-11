@@ -36,6 +36,12 @@ Meeting was for presentation of Homework for the assigned infographics: Waka - N
 
 ***
 
+### <mark style="color:green;">Developer workgroup</mark>
+
+Nascent group that has begun to meet, but is not yet documenting
+
+***
+
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
 Not this week
@@ -46,9 +52,21 @@ Not this week
 
 ### Governance WorkGroup
 
+No summary given
+
+***
+
 ### Ambassador Town Hall
 
+
+
+***
+
 ### Incubation Think-Tank
+
+No summary given
+
+***
 
 ## Wednesday 6th December 2023
 
@@ -245,6 +263,8 @@ Not this week
 ***
 
 ### Incubation: AI Sandbox
+
+No summary given
 
 ***
 
