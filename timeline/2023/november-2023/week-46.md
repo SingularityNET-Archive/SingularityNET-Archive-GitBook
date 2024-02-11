@@ -8,7 +8,41 @@ description: 13th November to 19th November 2023
 
 ## Monday 13th November 2023 <a href="#docs-internal-guid-9805ff01-7fff-3555-5547-3dfbc67705b3" id="docs-internal-guid-9805ff01-7fff-3555-5547-3dfbc67705b3"></a>
 
-### Education Guild
+### <mark style="color:green;">Education Guild</mark>
+
+#### Present:
+
+Headelf \[facilitator] \[documenter], Peter, WaKa, Slate, Pure Relativity, Malik, Clementine, Kostyra
+
+#### Agenda
+
+Infographics for Certified Ambassador program
+
+#### Notes
+
+The agenda was initially set aside to review and recap the last few weeks' work on the education initiative for the ambassador certification project. We had the same discussion about the purpose. \
+WaKa ended this old discussion for newcomers by explaining that Ambassadors need a tool set and training materials. He indicated he was generating information for NUnet and it was open source.
+
+\[decision] We then decided that after this project was done we could develop similar information for the public.
+
+We ideated on the course and the material. Concepts included: Test market, Sets a standard, Ambassadors expected to have knowledge, Make the certificate an NFT, Sets a plan and a growth path, People enjoy having a path designed for them. Slate closed out the ideation with it would emphasize that you as an ambassador know a lot, and that testing should be included to obtain certification.
+
+We then went over the basics of an infographic, and assigned people to projects (se Action Items)
+
+It was discussed $20 for each infographic as a reward.
+
+Clementine and Kostyra were new so they introduced themselves and told us about a project they were working on involving making models inspired by the human mind for long term memory.
+
+#### Meeting length
+
+1 hr 30 mins
+
+#### Action items
+
+\[action] Make infographic cards using the 5 W’s.\
+\[action] Peter - Ambassador Program; Waka - Nunet; Slate - SophiaVerse; Curtis - Pass; Malik - Deep Funding; Headelf - Rejuve and Rejuve Bio.
+
+***
 
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
