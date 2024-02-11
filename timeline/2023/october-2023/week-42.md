@@ -312,6 +312,8 @@ No summary given
 #### Video:
 
 {% embed url="https://youtu.be/sTHew8dU5Qw?si=kqxsfo93dSTUYVFz" %}
+DeepFunding Town Hall #19, on 19th October 2023
+{% endembed %}
 
 ***
 

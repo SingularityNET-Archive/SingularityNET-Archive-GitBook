@@ -299,9 +299,11 @@ Not this week
 
 ***
 
-### Deepfunding Town Hall
+### <mark style="color:green;">Deepfunding Town Hall</mark>
 
-
+{% embed url="https://youtu.be/sO-pMKsh_7Y?feature=shared" %}
+DeepFunding Town Hall #20, on 2nd November 2023
+{% endembed %}
 
 ***
 

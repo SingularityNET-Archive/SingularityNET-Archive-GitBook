@@ -285,7 +285,13 @@ Not this week
 
 ***
 
-### Deepfunding Town Hall
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+{% embed url="https://youtu.be/Q1GwJ1niERk?feature=shared" %}
+DeepFunding Town Hall #21, on 16th November 2023
+{% endembed %}
+
+***
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
