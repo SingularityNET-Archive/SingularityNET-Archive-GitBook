@@ -159,4 +159,36 @@ description: Mon 5th Feb - Sunday 11th Feb
 
 ## Friday 9th February 2024
 
+
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: hogantuso [facilitator], devon [documenter], cardano_class, lord kizzy, malik, Zalfred, killy, Rojo
+- Purpose: The main purpose of the meeting was to discuss the Video Suggestion Sheet, focusing on whether we need to form partnerships for creating video content.
+#### Discussion Points:
+- Malik, as a social media manager, regularly updated about video upload statuses.
+- Rojo and Judith's recommendations for videos were brought up during the meeting.
+- Lord Kizzy, as the task manager, gave weekly task updates.
+- Kizzy discussed the deadline for Lily's and Cardano class's  townhall video submissions.
+- A discussion took place regarding the video suggestion sheet.
+- Tuso discussed the process of pairing members for suggested video.
+- Rojo discussed that whether members should pair up before making a suggestion, or they should pair up after a video has been suggested.
+- Rojo mentioned that there is a budget for only 4 long videos.
+- OEP stated that pairing should ensure that everyone has the opportunity to participate in the video production process.
+
+#### Decision Items:
+-  Malik will conduct an analysis of the views and likes, subsequently providing an update to the workgroup regarding these metrics.
+  - [effect] affectsOnlyThisWorkgroup
+- Pairing of members for the suggested video.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Performing an analysis of video metrics across various social media platforms. [assignee] malik [status] in progress
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, video suggestion sheet
+- emotions: Friendly, Collaborative, Thoughtful , speedy 
+
+
 ## Saturday 10th February 2024
