@@ -130,6 +130,17 @@ Not this week
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/z-q7soDj5F0?feature=shared" %}
+
+#### Timestamps
+
+[00:00](https://www.youtube.com/watch?v=z-q7soDj5F0\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=42\&t=0s) Introduction by Peter \
+[1:24](https://www.youtube.com/watch?v=z-q7soDj5F0\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=42\&t=84s) Mentions \
+[2:42](https://www.youtube.com/watch?v=z-q7soDj5F0\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=42\&t=162s) Treasury and Q4 budget \
+[31:32](https://www.youtube.com/watch?v=z-q7soDj5F0\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=42\&t=1892s) Q4 proposal vote \
+[36:06](https://www.youtube.com/watch?v=z-q7soDj5F0\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=42\&t=2166s) Workgroup updates \
+[56:40](https://www.youtube.com/watch?v=z-q7soDj5F0\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=42\&t=3400s) Ending by Peter
+
 ***
 
 ### Incubation Think-Tank

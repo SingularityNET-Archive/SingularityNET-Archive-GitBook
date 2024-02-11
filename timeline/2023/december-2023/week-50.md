@@ -62,6 +62,31 @@ Not this week
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/6TgTVucR7ZM?feature=shared" %}
+
+#### Summary
+
+This session was a retrospective of 2023 in the Ambassador Program. Those present talked about what they felt had worked well (and not so well) this year, and what they hope for in 2024.&#x20;
+
+#### Timestamps
+
+[00:00](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=0s) Introduction by Felix \
+[02:12](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=132s) Ambassador Program's timeline \
+[16:50](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=1010s) Q\&A \
+[18:16](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=1096s) Feedback format on Miro \
+[20:14](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=1214s) Peter's feedback \
+[25:16](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=1516s) Judith's feedback \
+[35:28](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=2128s) Vani's feedback \
+[45:30](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=2730s) Guillermo's feedback \
+[56:27](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=3387s) Kent's feedback \
+[01:01:12](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=3672s) Curtis' feedback \
+[01:09:33](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=4173s) Rojo's feedback \
+[01:21:45](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=4905s) Iain's feedback \
+[01:25:11](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=5111s) Erik's feedback \
+[01:36:13](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=5773s) Ubio's feedback \
+[01:45:00](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=6300s) Open discussion \
+[01:52:20](https://www.youtube.com/watch?v=6TgTVucR7ZM\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=44\&t=6740s) Ending by Felix
+
 ***
 
 ### Incubation Think-Tank

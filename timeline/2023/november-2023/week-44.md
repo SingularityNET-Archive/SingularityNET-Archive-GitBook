@@ -84,7 +84,9 @@ There seems to be less emphasis on Dework Management and how to use it
 
 #### **Keywords**
 
-**Topics:** Dework, form, analysis, Tokenomics proposal, GitHub, Townhall Slides, Ambassador Gitbook\
+**Topics:** \
+Dework, form, analysis, Tokenomics proposal, GitHub, Townhall Slides, Ambassador Gitbook
+
 **Sources:**\
 Miro Board Article that has link to proposal: [https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a](https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a)\
 Treasury Management Rules: [https://snet-ambassadors.gitbook.io/home/group-1/treasury-management](https://snet-ambassadors.gitbook.io/home/group-1/treasury-management)\
@@ -92,8 +94,10 @@ Treasury DApp Source Code: [https://github.com/treasuryguild/treasury-dapp](http
 Wallet Collector: [https://forms.gle/xqEoAB26tDCsw7789](https://forms.gle/xqEoAB26tDCsw7789)\
 Treasury Guild Dework Space: [https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)\
 Treasury Dashboard: [https://treasuryguild.com/Singularity%20Net](https://treasuryguild.com/Singularity%20Net)\
-Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link](https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link)\
-**Feelings**: Meeting felt busy as we went through different individually analyzed items
+Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link](https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link)
+
+**Feelings**: \
+Meeting felt busy as we went through different individually analyzed items
 
 ***
 
@@ -107,7 +111,20 @@ Not this week
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/Qibx63Pbq98?feature=shared" %}
 
+#### Timestamps
+
+[00:00](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=0s) Introduction by Peter \
+[00:12](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=12s) Participants Intro \
+[01:38](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=98s) Mentions \
+[05:48](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=348s) Workgroup Updates \
+[13:00](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=780s) Quarter 4 Budget \
+[22:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=1345s) Video workgroup Monthly Updates \
+[46:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=2785s) Voting Experiment by Felix \
+[54:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=3265s) Governance Discussion by WaKa \
+[01:01:02](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=3662s) Welcoming Session for DeepFunding Round 3 awarded teams \
+[01:02:20](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=3740s) Conclusion by Peter
 
 ***
 

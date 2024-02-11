@@ -58,7 +58,20 @@ No summary given
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/KV94iMk4ADU?feature=shared" %}
 
+#### Summary
+
+This meeting focused on the proposal for a Round Table that has been created in Strategy Guild: see [https://docs.google.com/document/d/1e6eirn-c-1dzyQjHGKb5i1sdf\_LRTyc7fYO-oARB0kk/edit?usp=sharing](https://docs.google.com/document/d/1e6eirn-c-1dzyQjHGKb5i1sdf\_LRTyc7fYO-oARB0kk/edit?usp=sharing)
+
+#### Timestamps
+
+[00:00](https://www.youtube.com/watch?v=KV94iMk4ADU\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=43\&t=0s) Introduction by Peter \
+[01:40](https://www.youtube.com/watch?v=KV94iMk4ADU\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=43\&t=100s) Mentions \
+[02:52](https://www.youtube.com/watch?v=KV94iMk4ADU\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=43\&t=172s) Round Table proposal\
+&#x20;[12:35](https://www.youtube.com/watch?v=KV94iMk4ADU\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=43\&t=755s) Vote on the proposal \
+[31:50](https://www.youtube.com/watch?v=KV94iMk4ADU\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=43\&t=1910s) Open Discussion \
+[01:06:30](https://www.youtube.com/watch?v=KV94iMk4ADU\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=43\&t=3990s) Ending by Peter
 
 ***
 

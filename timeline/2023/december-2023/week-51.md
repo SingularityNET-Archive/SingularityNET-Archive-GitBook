@@ -67,7 +67,17 @@ No meeting: Christmas break
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/8DnVSN9ZLtI?feature=shared" %}
 
+#### Timestamps
+
+[00:00](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=0s) Introduction by Peter \
+[01:40](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=100s) Mentions (Holiday season) \
+[02:50](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=170s) Monthly workgroup updates? \
+[10:55](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=655s) Bi-weekly workgroup updates? \
+[28:09](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=1689s) Workgroup updates \
+[57:50](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=3470s) Open discussion \
+[01:06:13](https://www.youtube.com/watch?v=8DnVSN9ZLtI\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=45\&t=3973s) Ending by Peter
 
 ***
 

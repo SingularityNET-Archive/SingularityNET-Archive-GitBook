@@ -64,6 +64,18 @@ no summary given
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/LX90gh3x6Y4?feature=shared" %}
+
+#### Timestamps:
+
+[00:00](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=0s) Intro by Peter \
+[01:40](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=100s) Mentions \
+[11:10](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=670s) Q4 budget Shout-out \
+[19:05](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=1145s) Workgroup updates \
+[48:35](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=2915s) Ross from SingularityDAO \
+[50:35](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=3035s) Ambassador Program for Spin-off projects \
+[01:06:58](https://www.youtube.com/watch?v=LX90gh3x6Y4\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=39\&t=4018s) Outro by Peter
+
 ***
 
 ### Incubation Think-Tank

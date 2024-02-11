@@ -82,7 +82,17 @@ no summary given
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/F3ttEPggaNY?feature=shared" %}
 
+#### Timestamps
+
+[0:00](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=0s) Introduction by Peter \
+[1:49](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=109s) Mentions \
+[2:32](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=152s) Workgroups updates \
+[41:24](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=2484s) Outreach discussion \
+[47:28](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=2848s) Voting experiment \
+[50:04](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=3004s) Q4 budget proposal \
+[56:09](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=3369s) ending by Peter
 
 ***
 

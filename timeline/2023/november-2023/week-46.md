@@ -115,7 +115,18 @@ Not this week
 
 ### Ambassador Town Hall
 
+{% embed url="https://youtu.be/EX5hlk0y4nY?feature=shared" %}
 
+#### Timestamps
+
+[00:00](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=0s) Introduction by Rojo \
+[01:52](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=112s) Mentions \
+[03:17](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=197s) Workgroup updates \
+[45:15](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=2715s) Voting experiment \
+[46:23](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=2783s) Q4 budget proposal\
+&#x20;[49:09](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=2949s) Open discussions and newcomers introduction \
+[53:56](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=3236s) Deep Funding Town Hall presentation mention \
+[53:30](https://www.youtube.com/watch?v=EX5hlk0y4nY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=40\&t=3210s) Ending by Rojo
 
 ***
 
