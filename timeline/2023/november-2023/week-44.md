@@ -99,21 +99,41 @@ Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6Gu
 
 ## Tuesday 31st October 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
+
+Not this week
+
+***
 
 ### Ambassador Town Hall
 
+
+
+***
+
 ### Incubation Think-Tank
+
+No summary given
+
+***
 
 ## Wednesday 1st November 2023
 
-### Archives Workgroup
+### <mark style="color:green;">Archives Workgroup</mark>
 
-### Dework PBL Workgroup
+Meeting cancelled&#x20;
 
-### Process Modelling Workgroup
+***
 
-### Incubation Guild
+### <mark style="color:green;">Dework PBL Workgroup</mark>
+
+Not this week
+
+***
+
+### <mark style="color:green;">Incubation Guild</mark>
+
+meetings suspended pending reorganisation of the guild
 
 ***
 
@@ -256,9 +276,17 @@ Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Arc
 
 ***
 
-### Incubation: AI Sandbox
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+Not this week
+
+***
 
 ### Deepfunding Town Hall
+
+
+
+***
 
 ## Friday 3rd November 2023
 
@@ -345,7 +373,7 @@ This document is at [https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9T
 
 ### Writers' Workgroup
 
-
+No summary given
 
 ***
 

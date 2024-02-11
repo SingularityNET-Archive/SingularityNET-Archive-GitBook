@@ -107,27 +107,117 @@ Today's session for chill and progressive as there were few of us in the session
 
 ## Tuesday 14th November 2023
 
-### Governance WorkGroup
+### <mark style="color:green;">Governance WorkGroup</mark>
+
+Not this week
+
+***
 
 ### Ambassador Town Hall
 
-### Incubation Think-Tank
+
+
+***
+
+### <mark style="color:green;">Incubation Think-Tank</mark>
+
+Meeting cancelled
+
+***
 
 ## Wednesday 15th November 2023
 
 ### Archives Workgroup
 
-### Dework PBL Workgroup
+Coming soon
 
-### Process Modelling Workgroup
+***
 
-### Incubation Guild
+### <mark style="color:green;">Dework PBL Workgroup</mark>
+
+Not this week
+
+***
 
 ### Strategy Guild
+
+No summary given
 
 ***
 
 ## Thursday 16th November 2023
+
+### <mark style="color:green;">Onboarding Workgroup</mark>
+
+#### Present:  <a href="#docs-internal-guid-82d8bfe4-7fff-5167-0124-8f4a55334d41" id="docs-internal-guid-82d8bfe4-7fff-5167-0124-8f4a55334d41"></a>
+
+Vani \[Facilitator], Onyeka \[Documenter], Sucren, Love, Peter, Tone
+
+#### In this meeting we discussed:&#x20;
+
+* Minutes from the last meeting.
+* Changes to the Onboarding survey form.
+* Next Ambassador TH Update.
+* Creating a Twitter thread on Getting started [https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+* Continuous Onboarding
+
+#### Decisions:
+
+\[decision] We agreed to set a deadline (1st of December) for the Onboarding Survey Form.\
+\[decision] We agreed to the estimate of 15 mins for the completion of the survey form.\
+\[decision] We have decided to add some visuals to the Twitter thread about getting started as an ambassador. \
+\[decision] We agreed to launch the survey form on the 21st of November 2023 in the Town Hall meeting \[after bringing it into our next meeting]\
+\[decision] We agreed on rewarding 10 AGIX and 50 GMBLs for completion of the Introductory task.\
+\[decision] Onboarding WG has agreed to test the new archives documentation tool for meeting minutes.
+
+#### Action items:&#x20;
+
+\[action] Sucren to tweak the scripts and relay the imagery in the onboarding video to LilyCupcake.\
+\[action] Sucren  to share a list of what info a WG needs to give to the Video WG when commissioning them to make a video.\
+\[action] Sucren to meet Workgroup leads and discuss when we can visit their meetings to discuss onboarding.\
+\[action] Vani and Onyeka to make the necessary changes to the survey form as discussed in the meeting.\
+\[action] Sucre to create a sign-up sheet for visits to other WGs to discuss onboarding\
+\[action] Love to make necessary corrections to the Twitter thread Doc.\
+\[action] Sucren to send the Twitter thread Doc to Mikasa in the writers workgroup once love is done \
+\[action] Sucren to fix the cover photo of the Getting started Doc \
+\[action] Vani to add an FAQ on "What are GMBLs" to the Getting started Doc. \
+\[action] Sucren to add an FAQ on "How do I get rewarded?" \
+\[action] Onyeka to add an FAQ on "What wallet is to be used".\
+\[action] Vani to make a post on the Ambassador general channel about new members joining the Gamer's Guild.\
+\[action] Onyeka to create visuals for the Twitter thread doc\
+\[action] Sucre to make the agreed changes to Dework Introductions task.
+
+#### Our next Town Hall Update will cover:
+
+* &#x20;Launch of the Onboarding survey form.
+* Halping to promote the Gamers Guild, and inviting people to attend their next meeting
+
+#### To carry over for next meeting:&#x20;
+
+* The Getting started Twitter thread
+* The Continuous Onboarding Document
+* The Question on How to practically use the meeting summary tool
+
+#### Keywords:&#x20;
+
+**Topics covered:** \
+Onboarding, Survey, Collaboration, TH Update, Rewards, Meeting summary tool
+
+**Sources:**&#x20;
+
+Commissioning video from Video WG: [https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing](https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing)
+
+Twitter thread draft: [https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing](https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing)
+
+Supporting continuous onboarding: [https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
+
+Survey form: [https://forms.gle/dJMGVP7FZDMdyw6h6](https://forms.gle/dJMGVP7FZDMdyw6h6)
+
+\
+**How the meeting felt:** \
+Funny, Contributive, Thoughtful, Interesting, Speedy
+
+***
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
@@ -178,7 +268,11 @@ Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25X
 
 ***
 
-### Incubation: AI Sandbox
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+Not this week
+
+***
 
 ### Deepfunding Town Hall
 

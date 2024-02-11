@@ -42,21 +42,43 @@ Ambassador certification program, infographics, infographic template
 
 ***
 
-### Knowledge Base Workgroup
+### <mark style="color:green;">Developer workgroup</mark>
+
+Nascent group that has begun to meet, but is not yet documenting
+
+***
+
+### <mark style="color:green;">Knowledge Base Workgroup</mark>
+
+Not this week
+
+***
 
 ## Tuesday 21st November  2023
 
 ### Governance WorkGroup
 
+no summary given
+
+***
+
 ### Ambassador Town Hall
 
+***
+
 ### Incubation Think-Tank
+
+No summary given - these sessions are currently not being documented
+
+***
 
 ## Wednesday 22nd November 2023
 
 ### <mark style="color:green;">Archives Workgroup</mark>
 
 Not this week
+
+***
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
@@ -127,11 +149,11 @@ New URL for latest design - [https://andamio-andamio-live-instances-dework-pbl.v
 
 ***
 
-### Process Modelling Workgroup
-
-### Incubation Guild
-
 ### Strategy Guild
+
+No summary given
+
+***
 
 ## Thursday 23rd November  2023
 
@@ -195,15 +217,31 @@ Funny, Contributive, Thoughtful, Interesting, Speedy, Late Starting.
 
 ***
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
 
-### Incubation: AI Sandbox
+Not this week
 
-### Deepfunding Town Hall
+***
+
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+Meeting cancelled
+
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+Not this week
 
 ***
 
 ## Friday 24th November 2023
+
+### Marketing Guild
+
+No summary given
+
+***
 
 ### Writers' Workgroup
 

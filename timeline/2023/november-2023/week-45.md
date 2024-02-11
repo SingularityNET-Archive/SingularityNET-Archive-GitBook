@@ -66,19 +66,39 @@ None
 
 ***
 
-### Knowledge Base Workgroup
+### <mark style="color:green;">Knowledge Base Workgroup</mark>
+
+not this week
+
+***
 
 ## Tuesday 7th November 2023
 
 ### Governance WorkGroup
 
+no summary given
+
+***
+
 ### Ambassador Town Hall
+
+
+
+***
 
 ### Incubation Think-Tank
 
+no summary given
+
+***
+
 ## Wednesday 8th November 2023
 
-### Archives Workgroup
+### <mark style="color:green;">Archives Workgroup</mark>
+
+Not this week
+
+***
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
@@ -154,9 +174,9 @@ Progressive, as we got to ideate new strategies to improve our feedback collecti
 
 ***
 
-### Process Modelling Workgroup
+### <mark style="color:green;">Incubation Guild</mark>
 
-### Incubation Guild
+Not currently meeting
 
 ***
 
@@ -259,11 +279,21 @@ We welcomed a new member to the meeting \[ToneTech]
 
 ***
 
-### Treasury Guild
+### <mark style="color:green;">Treasury Guild</mark>
 
-### Incubation: AI Sandbox
+Not this week
 
-### Deepfunding Town Hall
+***
+
+### <mark style="color:green;">Incubation: AI Sandbox</mark>
+
+No summary given - it has been decided not to document these sessions&#x20;
+
+***
+
+### <mark style="color:green;">Deepfunding Town Hall</mark>
+
+Not this week
 
 ***
 
@@ -308,6 +338,8 @@ jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 ***
 
 ### Writers' Workgroup
+
+No summary given
 
 ***
 

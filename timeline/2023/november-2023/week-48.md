@@ -48,7 +48,13 @@ We each took a project, $20 bounty, to create an infographic per the template an
 #### Action items
 
 \[action] Infographic creation.\
-Headelf - Rejuve. Kenichi - Cogito. Malik - Deepfunding. WaKa-NUnet. Curtis- Mindplex. Peter - Ambassador Program, if bandwidth allows. Slate - Sophiaverse. Osmium - Jam Galaxy.
+Headelf - Rejuve. Kenichi - Cogito. Malik - Deepfunding. WaKa-NUnet. Curtis- Mindplex. Peter - Ambassador Program, if bandwidth allows. Slate - Sophiaverse. Osmium - Jam Galaxy
+
+***
+
+### <mark style="color:green;">Developer workgroup</mark>
+
+Nascent group that has begun to meet, but is not yet documenting
 
 ***
 
@@ -127,6 +133,8 @@ Not this week
 ***
 
 ### Incubation Think-Tank
+
+No summary given
 
 ***
 
@@ -325,7 +333,7 @@ Not this week
 
 ## Friday 1st December 2023
 
-### Marketing Guild (Snet Spin -Offs X Ambassadors event)
+### <mark style="color:green;">Marketing Guild (Snet Spin -Offs X Ambassadors event)</mark>
 
 #### Present:&#x20;
 
