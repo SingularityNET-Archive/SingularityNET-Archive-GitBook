@@ -12,6 +12,7 @@ description: Mon 5th Feb - Sunday 11th Feb
 
 
 
+
 ### Knowledge Base Workgroup
 
 - Type of meeting: Biweekly
@@ -90,6 +91,46 @@ description: Mon 5th Feb - Sunday 11th Feb
 - topics covered: Feedback Form, Onboarding Slides, Budget Request, Role Proposal Requirements, Quarterly Budget Calculator, SingularityNET Phase Two Proposal, Proposal, Quarterly Report, Reward Data, Decision Making Process, Workgroup Proposal Requirements, Ambassador GitBook, Miro Board
 - emotions: Session items reviewing moved slowly as we had disagreements in many items and required discussions
 - other: Stopped including workgroup assets used in Summary due to huge number of files
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Peter, Slate [facilitator], Slate [documenter], Slate, osmium, malik, duke peter, Peter, esewilliams, Will Tatz
+- Purpose: ACP Video/Infographics and Setting Up Quizzes
+- Other media: [Link](https://docs.google.com/spreadsheets/d/1Z571NxFC8vvCTvpvsake5PYess3MM3mLi1VaFYgk8r0/edit?usp=sharing)
+#### In this meeting we discussed:
+- Ambassador Certification Program Video by Osmium about Mindplex 
+- Ambassador Certification Program Infographic by Ese Williams about Awakening - Health
+- Ambassador Certification Program Infographic by Will Tatz about SNET 
+- Ambassador Certification Program Infographic by Devon about SingularityDAO
+
+#### Discussion Points:
+- Will asked Slate if he can accept his Friend reqest on Discord and explain to him the process of making his video as it seemed ideal for Ambassador Certification Program
+- Osmium's video for Ambassador Certification Program on Mindplex was previewed by every participant for feedback 
+- On Osmium's video,WIll  suggested: Needs to review other videos created by the members to get more idea of the overall video quality and making  
+- On Osmium's Video : EseWilliams  suggested text is slightly more and that she needs more time to read each slide before it gets changed, so suggested to increase the time duration of each slide  
+- On Osmium's video, Malik suggested to lessen text .  Peter : the heading "What" is missing 
+- Then Ese Williams  shared her infographic on  Awakening - Health and asked for feedback
+- On Ese Williams infographic :  Slate suggested to  add "What" heading 
+- On Ese Williams infographic The suggestions were: Peter The "What" reads more like a "why"  Slate: Using the standard template design  Slate: Robot pic is needed  Peter: Include Meditation element of the robot  Peter : "Where" has repetition
+- Will shared his infographic on SNET. Slate: It highlight the main 1 or 2 people who initially made the project come forward   Slate: Need to put all the information into the Canva template that is being used for infographics 
+- Devon : discuss the infographic with Headelf, async or maybe next meeting 
+
+#### Decision Items:
+- Osmium to rework his video
+  - [effect] affectsOnlyThisWorkgroup
+- Will and Ese to put their infographics into the Canva template 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Rework and work on feedbacks given to each participants for their infographics and videos  [assignee] everyone assigned  [due] 13 February 2024 [status] in progress
+- [action] Post the meeting summary  [assignee] Slate [due] 4 February 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Meeting Summaries, ACP, Videomaking, infographic, quizzes
+- emotions: Collaborative, contructive criticism
 
 
 ## Thursday 8th February 2024
