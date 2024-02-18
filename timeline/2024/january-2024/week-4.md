@@ -10,6 +10,7 @@ description: Mon 22nd Jan - Sun 28th Jan 2024
 
 ## Wednesday 24th January 2024
 
+
 ### Knowledge Base Workgroup
 
 * Type of meeting: Biweekly
@@ -161,6 +162,29 @@ Research & Development Guild Budget Proposals Sheet \_ 100124: [https://docs.goo
 Fun, Exciting, Collaborative, Productive
 
 **Other** We miss Fly!
+
+
+### Archival Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen [documenter], André, Vanessa, Stephen, Peter, Slate, Onyeka, Vasu
+- Meeting video: [Link](https://www.youtube.com/watch?v=qXmEiJGWPbI&list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Meeting Issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/95)
+
+#### Action Items:
+- [action] Bring to next meeting a list of things that should be included in Governance GitBook update [assignee] Vanessa [due] 7 February 2024 [status] todo
+- [action] Manually finish archiving all summaries from Nov and Dec 2023, and close the issues for those months so that fund request can be submitted [assignee] Vanessa [due] 7 February 2024 [status] todo
+- [action] Once November and December 2023 are archived, submit funding requests for those months, and close Q4 2023 Budget issue [assignee] Stephen [due] 21 February 2024 [status] todo
+- [action] Add bounties to Dework for 4 bounties: 1) Meeting publicity, 2) General Archives publicity; 3) Chasing meeting summaries; 4) Updates to Ambassador GitBook [assignee] Vanessa, Stephen [due] 26 January 2024 [status] done
+- [action] Draft an approach, with budget, for the Tag Taxonomy work, ready for next meeting on 7th Feb [assignee] Vanessa [due] 7 February 2024 [status] todo
+- [action] Contact Ubio with brief for his work on LLM tooling [assignee] André [due] 31 January 2024 [status] todo
+- [action] Core Archives team to meet with Supervisory Council re knowledge management on Fri 26th Jan [assignee] Stephen, Vanessa, André [due] 31 January 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Tag taxonomy, bounties, monthly archiving, publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, mentorship, transition from manual archiving to use of meeting summary tool, Outreach, Knowledge management across the singularityNET ecosystem
+- emotions: Organised, Discursive, Well-attended, outward-looking
+
 
 ## Thursday 25th January 2024
 
