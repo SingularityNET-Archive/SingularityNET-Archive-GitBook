@@ -48,6 +48,59 @@ description: 11th February 2024 to 17th February 2024
 #### Keywords/tags:
 - topics covered: Meeting Summaries, ACP, Videomaking, infographic, Budget 
 - emotions: Collaborative, contructive criticism, prickly, frustrated, budget request problems
+## Thursday 15th February 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Onyeka  [documenter], Vanessa, Onyeka, Peter, Duke, LadyTempestt, Boaz, tone, SucrenSpice
+- Working Docs:
+  - [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Onboarding Workgroup MIRO](https://miro.com/app/board/uXjVM5jyehQ=/ )
+  - [F&D roster](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes of last meeting and process for corrections
+- Action items from last meeting 
+- Video of the Onboarding session on 8th Feb
+- Our next Onboarding session
+- Whether the program is ready for lots of new members, whether there is the budget for it; whether having more people would make it possible to be more ambitious in what we do
+- Overall Ambassador budget allocation
+- New Welcome video
+
+#### Decision Items:
+- We agreed NOT to upload the video of onboarding session from 8th Feb to Youtube, but for Duke to record a narration of the slides instead, for use in future Onboarding sessions
+  - [rationale] Due to a recording error, we only have a Read.ai video of the event on 8th Feb, which is quite low-res; plus it's very similar to the last session so it's repetitve
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to have a simple Q&A session - no slides - as our next Onboarding session, on 21st March
+  - [rationale] Less overhead to organise, and more lowkey. Also the date is Spring Equinox - symbolic of new beginnings :-)
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- We agreed that the new Welcome video looks nice visually, and content is mostly good, but we would like to see the script to check as some minor script changes might be needed; also, audio is too slow; and sometimes not synced with what's on screen.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Record a version of the Onboarding slides, for use in future Onboarding sessions [assignee] Duke [due] 22 February 2024 [status] todo
+- [action] Give Duke access to the onboarding slides [assignee] Vanessa [due] 15 February 2024 [status] in progress
+- [action]  Post the script of the new Welcome video in the Onboarding Discord channel for people to view [assignee] SucrenSpice [due] 16 February 2024 [status] todo
+- [action] correct minutes of our previous meeting on 1st Feb, and upload via Meeting Summary Tool [assignee] cjfrankie  [due] 21 February 2024 [status] todo
+- [action] Updates on Intro tasks on Dework [assignee] Sucren [due] 22 February 2024 [status] todo
+
+#### Learning Points:
+- It would be useful to know what other WGs'capacity is for taking on new members within their current budgets
+
+#### To carry over for next meeting:
+- Continuous Onboarding Report by Onyeka
+- Ideas and Improvements doc by LadyTempestt
+- Draft process for approving a WG by Vani
+- Idea for a "matching new people with WGs" Discord channel
+
+#### Keywords/tags:
+- topics covered: Welcome video, Overall Ambassador Program budget, Onboarding sessions, Onboarding Slides, Process for correcting erros in meeting summaries, Program's capacity for new people
+- emotions: funny , Friendly, Slightly too many things on agenda, Did new people feel unsure what was happening?, Confusing when discussing process for correcting errors in meeting summaries, confusing, entertaining, warm
+
+
 ## Friday 16th February 2024
 
 
