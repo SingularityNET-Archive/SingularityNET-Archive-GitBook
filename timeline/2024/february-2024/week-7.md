@@ -48,3 +48,32 @@ description: 11th February 2024 to 17th February 2024
 #### Keywords/tags:
 - topics covered: Meeting Summaries, ACP, Videomaking, infographic, Budget 
 - emotions: Collaborative, contructive criticism, prickly, frustrated, budget request problems
+## Friday 16th February 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: hogantuso [facilitator], devon [documenter], lord kizzy, malik, Slate, hogantuso, devon
+- Purpose: The main purpose of the meeting was to discuss  social media management, budget constraints, content creation, and technical challenges.
+#### Discussion Points:
+- Discussion turned to managing social media tasks, specifically focusing on the frequency of video uploads in light of budget limitations.
+- Concerns were raised about maintaining the flow of content and engagement despite limited resources.
+- Various updates were provided, including social media metrics such as subscriber counts, views, and engagement across platforms like YouTube, Twitter, Instagram, and TikTok.
+- Participants highlighted efforts to upload videos and engage with the audience.
+- Task updates were shared, including issues with video uploads and applications to join the video group.
+- Suggestions were made regarding reposting previous content to keep accounts active, but concerns were raised about the impact on audience reach, especially on platforms like YouTube.
+- Participants discussed the possibility of incorporating content from the Education Guild into their social channels, acknowledging the educational value and quality of such content.
+- Concerns were raised about the need for approval and potential edits to the videos before posting
+- Participants agreed that most of the videos were ready to be shared without requiring significant edits.
+- There was a request to share the document containing the videos for review and learning purposes.
+
+#### Decision Items:
+-  Incorporating content from the Education Guild into social channels, acknowledging the educational value and quality of such content.
+  - [opposing] First all videos need to be compiled 
+  - [effect] mayAffectOtherPeople
+- Sustain social media presence despite budget constraints.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, Overall Ambassador Program budget
+- emotions: speedy , Casual
