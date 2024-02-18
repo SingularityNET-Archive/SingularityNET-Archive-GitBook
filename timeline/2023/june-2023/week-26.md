@@ -340,19 +340,31 @@ This was the last DeepFunding Town Hall funded by DeepFunding at Round 2. Wrappi
 
 ### Video Workgroup
 
-#### Attendees:&#x20;
+#### Present:&#x20;
 
-Rojo, Lilycupcake, Agus, Sucren
+Rojo \[facilitator] \[Documenter], Agus, SucrenSpice, Lilycupcake.
 
-#### In this meeting we:&#x20;
+#### In this meeting we:
 
-* Discussed workgroup progress (projects, social media,…)&#x20;
-* Discussed Agus’ work on social media management&#x20;
+* Discussed workgroup progress (projects, social media,…)
+* Discussed Agus’ work on social media management
 * Discussed Lily’s progress on the onboarding video and decided to put it up for a vote by tomorrow morning (Sat 30th June).
-* Discussed making a new video about using dework for onboarding purposes.
-* Discussed to make the weekly meetings a bit later to accommodate for other workgroup members.
+* Discussed making a new video about using Dework, for onboarding purposes.
+* Discussed making the weekly meetings a bit later to accommodate other workgroup members.
+
+#### Decisions:&#x20;
+
+\[decision] Make new video for Onboarding.\
+\[decision] Make new video about using Dework
+
+#### Action items:
+
+\[action] Put Lilycupcake's Onboarding video up for a vote by Sat 30th June
+
+***
 
 ### Writers' Workgroup
 
+No summary given
 
-
+***

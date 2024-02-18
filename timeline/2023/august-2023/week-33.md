@@ -264,4 +264,30 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 ### Video Workgroup
 
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Agus, Mahesvara, Slysyl.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* New joiners presented themselves
+* Discussed Agus’new Deep funding video in Spanish
+* Discussed the ongoing vote for clips
+* Discussed the growth in our social media
+
+#### Decisions:&#x20;
+
+None
+
+#### Action items:
+
+\[action] Joining the ongoing vote for clips.
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***

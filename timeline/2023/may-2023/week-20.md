@@ -83,7 +83,7 @@ Generate a Js script that creates a button with the text ‘Submit File’ and i
 
 #### Organic Governance Through the Logic of Holonic Systems
 
-{% file src="../../../.gitbook/assets/Organic Governance Through the Logic of Holonic Systems By Mihaela Ulieru" %}
+{% file src="../../../.gitbook/assets/kenric" %}
 
 ### Ambassador Townhall - 48
 
@@ -284,7 +284,23 @@ Hosted by Jan
 
 ### Video Workgroup
 
-Hosted by&#x20;
+#### Present:&#x20;
+
+Headelf \[facilitator] \[documenter], TheFreyDefi \[Co-host], Agus, Cjfrankie.
+
+#### In this meeting we:
+
+Rojo had an emergency. TheFreysDefi picked up and started hosting the meeting. Headelf took over. Some discussion on videos in the pipeline, and awards. Agus had a concept for a Spanish onboarding video. Group thought it was a good concept. SlySly and CJ had posted videos: decision was deferred until Rojo was back.
+
+#### Decisions:&#x20;
+
+\[decision] Decided to defer decisions until Rojo is back
+
+#### Action items:
+
+\[action] Make NFTs for Video WorkGroup members.
+
+***
 
 ### Writers Workgroup
 

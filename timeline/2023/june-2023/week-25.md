@@ -10,7 +10,7 @@ description: 19th June to 25th June 2023
 
 ## Monday, 19th June 2023
 
-
+***
 
 ### Education Guild
 
@@ -187,18 +187,26 @@ coming soon
 
 ### Video workgroup
 
-{% embed url="https://vw-snetambassadors.carrd.co/" %}
+#### Present:&#x20;
 
-#### Attendees:
-
-Tevo, Rojo, lilycupcake
+Rojo \[facilitator] \[documenter], Tevo, Lilycupcake.
 
 #### In this meeting we:
 
-* Made a short review about last month’s growth and KPIs review.
+* Made a short review of last month’s growth and KPIs review.
 * Talked about the future vote for Agus’ video.
 * Worked on the KPI sheet with Tevo.
 
+#### Sources
+
+Video WorkGroup Carrd: [https://vw-snetambassadors.carrd.co/](https://vw-snetambassadors.carrd.co/)
+
+***
+
 ### Writers' Workgroup
 
-Coming soon
+No summary given
+
+
+
+***

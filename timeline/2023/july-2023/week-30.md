@@ -246,16 +246,24 @@ No summary given
 
 ### <mark style="color:green;">Video Workgroup</mark>
 
-#### Attendees
+#### Present:&#x20;
 
-Rojo, Lilycupcake, Sly, Peter, Agus
+Rojo \[facilitator] \[documenter], Agus, Peter, Slysyl, Lilycupcake.
 
-#### In this meeting we:&#x20;
+#### In this meeting we:
 
-Discussed workgroup progress (projects, social media) \
-Discussed ways to increase the number of clips output\
-Discussed Lily’s progress on the onboarding video\
-Discussed Rojo’s progress on the Dework video.
+* Discussed workgroup progress (projects, social media,…)
+* Discussed ways to increase the number of clips output.
+* Discussed Lily’s progress on the onboarding video.
+* Discussed Rojo’s progress on the Dework video.
+
+#### Decisions:&#x20;
+
+\[decision] Increase our clip output.
+
+#### Action items:
+
+\[action] Finalize ongoing videos.
 
 ***
 

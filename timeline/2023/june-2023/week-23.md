@@ -294,25 +294,20 @@ Think about Summer vacation
 
 Writers' Workgroup did not meet this week
 
+***
+
 ### Video Workgroup
-
-#### Facilitator:&#x20;
-
-Rojo
 
 #### Present:&#x20;
 
-Rojo, Sucren, Agus, Lilycupcake, slysyl, Stephen, Vanessa
+Rojo \[facilitator] \[documenter], Lilycupcake, slysyl, SucrenSpice, Stephen, Vanessa, Agus.
+
+#### In this meeting we:
+
+* Discussed how to use Summon and Crystal for proposal voting.
+* Discussed some of the issues with Summon, and planned to try Crystal this week.
+* Discussed making videos about Sophiaverse collaboratively.
+* Discussed Agus’s proposal to do social media management.
+* Mentioned SucrenSpice’s script, and planned to suggest it to members.
 
 [Dework task for the meeting](https://app.dework.xyz/singularitynet-ambas/marketing-videos-94111?taskId=132a1c42-4d51-44e4-bd55-06201c42b49f)&#x20;
-
-#### Meeting notes:
-
-In this meeting we:
-
-&#x20;\- Discussed how to use Summon and Crystal for proposal voting.\
-&#x20;\- Discussed some of the issues with Summon, and planned to try Crystal this week.\
-&#x20;\- Discussed making videos about Sophiaverse collaboratively.\
-&#x20;\- Discussed Agus’ proposal to do social media management.\
-&#x20;\- Mentioned Sucren’s script and planned to suggest it to members.
-

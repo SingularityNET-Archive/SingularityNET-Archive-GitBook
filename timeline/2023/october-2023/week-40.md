@@ -309,7 +309,7 @@ Agus \[facilitator], Peter, Lord Kizzy.
 
 #### **In this meeting we:**
 
-Discussed a little bit about the incident about the YouTube Singularity NET account. We were Peter and me for 20 minutes and when both jumped off, Lord Kizzy joined, so we had a little conversation.
+Discussed a little bit about the recent incident about the YouTube Singularity NET account. We were Peter and Agus for 20 minutes and when both jumped off, Lord Kizzy joined, so we had a little conversation.
 
 #### **Decisions:**
 

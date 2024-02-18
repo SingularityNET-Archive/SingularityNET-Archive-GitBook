@@ -272,7 +272,7 @@ Rojo \[facilitator], Agus, Judith, OEP, Peter, TUSO, Lilycupcake.&#x20;
 
 * Introduced our new 3 members.
 * Had an update about our operation.
-* Talked about the new weekly tasks (i.e. Town Hall editing, Town Hall summaries,…).
+* Talked about the new weekly tasks (i.e. Town Hall editing, Town Hall summaries)
 * Explained the process of making a contribution to the video workgroup.
 * Updated about social media postings.
 * Peter suggested some topics for videos.
@@ -284,6 +284,6 @@ none&#x20;
 
 #### Action items:
 
-* Make weekly tasks for editing the Town Hall recording and its summary video.
+\[action] Make weekly tasks on Dework for editing the Town Hall recording and its summary video.
 
 ***

@@ -48,6 +48,8 @@ Ambassadors SingularityNET is excited about the upcoming Agora voter feature, wh
 
 {% embed url="https://summonplatform.io/" %}
 
+{% file src="../../../.gitbook/assets/Summon Platform Review - Wed, 26 Apr 2023" %}
+
 ### Incubation Workshop
 
 
@@ -168,11 +170,29 @@ Presented by Kenichi
 
 Artificial Intelligence — including out-of-the-mainstream practical applications, and the push for Artificial General Intelligence, AI ethics, and AI aesthetics/art Biotech — genetic engineering, engineered life-forms, biohacking Blockchain — and its potential to create decentralized networks, upending the current economy, identity, and ownership Body modification — from the funky and freaky to the profound, including brain and body implants with real computational power Brain-Computer Interfacing — for instant brain-to-computer-cloud communications, connecting to the global brain Consciousness — neurofeedback, psychedelics, and other tech for consciousness expansion Experiences — VR/AR/MR/Metaverses/spatial sound/liminal/new realities/The Matrix - Military and surveillance tech — which is advancing fast, focusing on ethical and privacy issues Nanotech — and beyond, to femtotech and molecular machines Neuroscience — combined with AI and speculative directions like quantum neuro Quantum Computing — including quantum machine learning and quantum cryptography. Parapsychology — scientific data and exploratory theories about strange phenomena going beyond conventional science Radical physics theories, yielding insights into the nature of the universe and perhaps new technologies Community Discussion — Book, film, TV, new tech products, reviews, new ideas Advanced tech for the developing world — how the global poor can leapfrog into the future, and the social implications if they don’t.
 
-### Video Workgroup
+### Video WorkGroup
 
-Presented by Rojo
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Lilycupcake, Agus, headelf, fly, Crandano, Cardano\_class.
+
+#### In this meeting we:
+
+* Discussing workgroup progress (projects, social media,…)
+* Voting for projects to be funded.
+* Voting for new members.
+
+#### Decisions:&#x20;
+
+\[decision] Funding accepted projects.
+
+#### Action items:
+
+\[action] Voting for new members.
 
 {% embed url="https://docs.google.com/presentation/d/1laB-opqNrgymKWJDCIYhNbE7p7gGl-cw3fs0wV6hwhk/edit?usp=sharing" %}
+Video Workgroup monthly update
+{% endembed %}
 
 {% file src="../../../.gitbook/assets/VW weekly presentation.pptx" %}
 
@@ -181,6 +201,8 @@ Presented by Rojo
 #### Crypto Stablecoins - Everything You Need to Know
 
 {% embed url="https://youtu.be/Seb_YaMvB0Y" %}
+Video from Video WG on stablecoins
+{% endembed %}
 
 #### Video workgroup structure <a href="#pnsjpd" id="pnsjpd"></a>
 
@@ -189,6 +211,8 @@ Presented by Rojo
 {% embed url="https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit?usp=sharing&ouid=112760840436100626711&rtpof=true&sd=true" %}
 
 {% embed url="https://miro.com/app/board/uXjVMQx-OwU=/?share_link_id=999171221156" %}
+Video WG Miro Board
+{% endembed %}
 
 
 

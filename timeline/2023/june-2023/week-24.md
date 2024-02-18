@@ -305,4 +305,18 @@ PDF of Miro board for this meeting
 
 Continue treasury discussions and refine each predictable fund down to specific rule
 
+***
+
 ## Fri 16th June 2023
+
+### Video WorkGroup
+
+No summary given
+
+***
+
+### Writers' WorkGroup
+
+No summary given
+
+***

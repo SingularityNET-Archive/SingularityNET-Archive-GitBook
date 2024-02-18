@@ -79,7 +79,7 @@ Hosted by Rojo Kaboti. Jan Horlings on Decentralisation Summit [https://decentra
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 22-08-16.png" alt=""><figcaption></figcaption></figure>
 
-#### Should we Start the next round of governance without having crystal clear definitions? <a href="#0" id="0"></a>
+#### Should we Start the next round of governance without having crystal clear definitions? <a href="#id-0" id="id-0"></a>
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-04-20 21-53-23.png" alt=""><figcaption></figcaption></figure>
 
@@ -101,8 +101,27 @@ This week's Treasury Guild was facilitated by Tevo Saks and discussed documentat
 
 Facilitated by Crandano.
 
-### Video Work group
+### Video WorkGroup
 
-Facilitated by rojokaboti.
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Lilycupcake, Agus, Headelf, Fly, Crandano, Cardano\_class, Linda, Bartkardynall.
+
+#### In this meeting we:
+
+* Introduction of members
+* Discussing workgroup progress (projects, social media,…)
+* Voting for projects to be funded
+* Voting for new members
+
+#### Decisions:&#x20;
+
+\[decision] Funding accepted projects.
+
+#### Action items:
+
+\[action] Voting for new members.
 
 {% embed url="https://miro.com/app/board/uXjVMQx-OwU=/" %}
+Link to Video WorkGroup Miro board
+{% endembed %}

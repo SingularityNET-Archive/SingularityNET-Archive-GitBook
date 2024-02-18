@@ -236,7 +236,25 @@ No summary given
 
 ### Video Workgroup
 
-No summary given
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Agus, SucrenSpice, Lilycupcake.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* Discussed Lilycupcake’s Onbboarding video.
+* Discussed the challenges and advancements of social media management by Agus.
+* We had a new applicant to the workgroup who introduced himself.
+* We discussed the importance of making new clip tasks.
+
+#### Decisions:&#x20;
+
+\[decision] Making new clips.
+
+#### Action items:
+
+\[action] Create Dework tasks for making clips.
 
 ***
 

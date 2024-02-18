@@ -214,7 +214,7 @@ Hosted by Tevo Saks
 
 <figure><img src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 1.jpg" alt=""><figcaption></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/2023-05-11-SNet-Treasury-Guild.pdf" %}
+{% file src="../../../.gitbook/assets/2023-05-11-SNet-Treasury-Guild (1) (1) (1).pdf" %}
 
 #### Agenda Items:&#x20;
 
@@ -250,7 +250,7 @@ The group discussed the process for creating a new work group, the importance of
 
 #### Miro Board&#x20;
 
-{% file src="../../../.gitbook/assets/SingularityNET - Ambassador Program - Guild -  Contribution Management and Treasury Fees..pdf" %}
+{% file src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 2.pdf" %}
 
 ### DeepFunding Town Hall
 
@@ -282,13 +282,25 @@ Hosted by Jan Horlings
 
 ### Video Workgroup
 
-Hosted by Rojo
+#### Present:&#x20;
 
-Discussed and voted for CjFrankie's proposal.
+Rojo \[facilitator] \[documenter], Lilycupcake, Sucren, Agus, OEP, Cjfrankie, headelf, Syntronyx, Fly, Crandano, SlySyl, Stephen, Slate, TheFreysDefi, Linda.
 
-We agreed to cancel the intern role, membership will now be obtained if your submission to a video workgroup task was approved.
+#### In this meeting we:
 
-We discussed the adoption of the Summon platform in future workgroup meetings, and making an NFT for the workgroup.
+* Discussed workgroup progress (projects, social media,…)
+* Discussed and voted for CjFrankie's proposal.
+* Agreed to cancel the intern role. Membership will now be obtained if your submission to a video workgroup task was approved.
+* Discussed the adoption of the Summon platform in future workgroup meetings.
+* Discussed making an NFT for the workgroup.
+
+#### Decisions:&#x20;
+
+\[decision] Discussed and voted on CjFrankie's proposal: it was accepted
+
+#### Action items:
+
+\[action] Using Summon platform.
 
 #### Read.ai summary (edited)
 
@@ -297,18 +309,24 @@ It was proposed to create a video for the SingularityNET Quarterly Update, with 
 The Ambassadors discussed abolishing internships and transitioning to a system of judging people by their work. They discussed using the Summon platform for voting and creating NFTs for work group members.&#x20;
 
 {% embed url="https://docs.google.com/presentation/d/1rhiKpf-b-Lw0fcDh3YrD37vRALaJq5KPRDNbVwomGxw/edit?usp=sharing" %}
+Video WorkGroup weekly meeting slides
+{% endembed %}
 
 {% file src="../../../.gitbook/assets/VW weekly presentation.pdf" %}
 
 {% embed url="https://miro.com/app/board/uXjVMQx-OwU=/" %}
+Video WorkGroup Miro Board
+{% endembed %}
 
-#### References
+#### References and sources
 
-{% embed url="https://blog.singularitynet.io/singularitynet-operations-q1-2023-update-fa1060d75c8a" %}
+Medium blogpost: SingularityNET Operations, Q1 2023 update [https://blog.singularitynet.io/singularitynet-operations-q1-2023-update-fa1060d75c8a](https://blog.singularitynet.io/singularitynet-operations-q1-2023-update-fa1060d75c8a)
 
-{% embed url="https://summonplatform.io/" %}
+Summon platform [https://summonplatform.io/](https://summonplatform.io/)
 
-{% embed url="https://saturnnft.io/" %}
+Saturn NFT platform [https://saturnnft.io/](https://saturnnft.io/)
+
+***
 
 ### Writers Workgroup
 

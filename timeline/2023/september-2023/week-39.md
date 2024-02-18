@@ -375,7 +375,25 @@ Next special Treasury Guild Call about the budget will be 04.10.23 at 12:30 UTC.
 
 ### Video Workgroup
 
-No summary given
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Agus, Judith, OEP, Peter, TUSO, Lilycupcake, Standrew, Fly, Lord\_kizzy, Slate, Hogantuso.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* Talked about the progress of the weekly Town Hall summary videos.
+* Talked about progress on the Quarterly Update video.
+* Talked about progress on the onboarding process to the Video workgroup.
+* Had questions from workgroup applicants about the process of onboarding and task details.
+
+#### Decisions:&#x20;
+
+none&#x20;
+
+#### Action items:
+
+\[action] Make documentation about the onboarding process to the video workgroup.
 
 ***
 

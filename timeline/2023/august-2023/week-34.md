@@ -146,4 +146,37 @@ all done
 
 ### Video Workgroup
 
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Agus, DevonHardy.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* Decided to take a clip from the end of Town Hall about what's happening every week.
+* Decided to reach out to connect our socials to SNet socials.
+* Decided to make visuals for Instagram highlights.
+* Decided to put the same content on Twitter and make Twitter our main social media account
+
+#### Decisions:&#x20;
+
+\[decision] Take a clip from the end of Town Hall about what's happening every week.\
+\[decision] Reach out to connect our socials to SNet socials.\
+\[decision] Make visuals for Instagram highlights.\
+\[decision] Put the same content on Twitter and make Twitter our main social media account
+
+#### Action items:
+
+\[action] Take a clip from the end of Town Hall about what's happening every week.\
+\[action]  Make visuals for Instagram highlights.\
+\[action]  Put the same content on Twitter and make Twitter our main social media account.
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+
+
+***

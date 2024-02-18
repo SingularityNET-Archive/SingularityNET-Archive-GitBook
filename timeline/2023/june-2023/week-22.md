@@ -221,15 +221,21 @@ SucrenSpice
 
 #### Attendees:
 
-SucrenSpice, Peter, Headelf, Eszter( Esther from SNET Foundation)
+SucrenSpice, Peter, Headelf, Eszter (Esther from SNET Foundation)
 
 **Length of Meeting**: 1 hour
 
 #### Agenda Items:&#x20;
 
-Email to be sent to applicants Guilds and workgroups overview -(Ambassador Handbook) Interview or Quiz for applicants Need for a channel for new members in the program (Great Filter)
+Email to be sent to applicants&#x20;
 
-#### Goal or Action Items:
+Guilds and workgroups overview (Ambassador Handbook)&#x20;
+
+Interview or Quiz for applicants&#x20;
+
+Need for a channel for new members in the program (Great Filter)
+
+#### Action Items:
 
 #### Choosing an Email draft&#x20;
 
@@ -249,7 +255,11 @@ Agenda Items not discussed would be moved over to the next meeting.
 
 ### Video Workgroup
 
-In this meeting we:
+#### Present:&#x20;
+
+Rojo \[facilitator] \[Documenter], Lilycupcake, SlySyl, SucrenSpice, Agus, OEP, Cjfrankie.
+
+#### In this meeting we:
 
 * Voted for using the Summon platform.
 * Voted on Agus’s proposal for a video in Spanish.
@@ -257,4 +267,10 @@ In this meeting we:
 * Made a welcome video for the onboarding workgroup.
 * Brainstormed about future videos’ topics&#x20;
 
-**Partcipants**: rojo, Agus, Sly, OEP, lilycupcake, CjFrankie, Sucren
+#### Decisions:&#x20;
+
+None
+
+#### Action items:
+
+None

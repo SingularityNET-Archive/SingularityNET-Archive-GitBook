@@ -66,4 +66,30 @@ description: 7th August to 13th August 2023
 
 ### Video Workgroup
 
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Agus, SucrenSpice, Slysyl, Slate.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* Discussed how newcomers can become members.
+* Discussed how we can increase our clip output
+* Discussed where we can find more content.
+* Talked about the next tasks to be covered.
+
+#### Decisions:&#x20;
+
+\[decision] Increase our clip output.
+
+#### Action items:
+
+\[action] Find more content for clips.
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***

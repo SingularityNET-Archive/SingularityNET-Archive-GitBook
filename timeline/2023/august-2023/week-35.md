@@ -189,4 +189,12 @@ Thurs 14th Sept, 13:00 UTC (Note that the meeting on 7th Sept will be an onboard
 
 ### Video Workgroup
 
+No summary given
+
+***
+
 ### Writers' Workgroup
+
+No summary given
+
+***

@@ -311,6 +311,21 @@ How to structure Ambassador rules around payments, tasks and anything related to
 
 ## Friday, 26th May 2023
 
+### Video WorkGroup
+
+#### Present:&#x20;
+
+Rojo \[facilitator] \[documenter], Lilycupcake, SucrenSpice, Agus, OEP, Cjfrankie, headelf, Syntronyx, Fly, Crandano, Kenichi.
+
+#### In this meeting we:
+
+* Discussed workgroup progress (projects, social media,…)
+* Discussed and voted for CjFrankie's proposal.
+* We agreed to cancel the intern role, membership will now be obtained if your submission to a video workgroup task was approved.
+* We discussed the adoption of the Summon platform in future workgroup meetings, and making an NFT for the workgroup.
+
+***
+
 ### Marketing Guild
 
 Host(s): Cran & Fly
@@ -350,6 +365,8 @@ There could also be collaboration points within the proposals. ie if a Workgroup
 We ended with some potential proposal ideas people could begin thinking about such as: Social Media Management, Video Workgroup, Writers Workgroup, Digital Marketing, Graphic Design, Month/Quarterly Individual Project Ideas, Broadcasting, and Merchandise
 
 Noted for Merchandise: Practically speaking logos etc are not open source and requires permission but doesn't seem to be any barriers. Make sure to request. The Foundation is talking about setting up a shop that the Ambassador Program can provide input for Ambassador Merch.
+
+***
 
 ### Writers Workgroup
 

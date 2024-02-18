@@ -188,7 +188,7 @@ Proposers have a chance to take their ideas to Incubation Workgroup to refine th
 
 We will have a Proposal Approval Session this week at Treasury Guild
 
-{% file src="../../../.gitbook/assets/Process Guild - Workgroup Proposal Process. 09-05-2023.pdf" %}
+{% file src="../../../.gitbook/assets/SingularityNET - Ambassador Program meeting Notes - Frame 1-2.pdf" %}
 
 ## Wednesday, 10th May 2023
 
@@ -457,11 +457,30 @@ Comment by Grace: It feels like we also might need a code of conduct so that som
 
 ### Video workgroup
 
-Hosted by Ro&#x20;
+#### Present:&#x20;
+
+Rojo \[facilitator] \[Documenter], Lilycupcake, Sucren, Agus, OEP, Cjfrankie, headelf, Syntronyx, Fly, Crandano, SlySyl, Stephen, Slate, TheFreysDefi, Linda.
+
+#### In this meeting we:
+
+* Showed Monthly Update slides for April&#x20;
+* Discussed workgroup progress (projects, social media…)
+* Noted that 25 videos were completed in April
+* Welcomed new members DevonHardy, Mahesvara and grego
+* Discussed the adoption of the Summon platform in future workgroup meetings
+* Discussed making an NFT for the workgroup.
+
+#### Decisions
+
+\[decision] Twitter will be the main focus for creating content\
+\[decision] We will roll out less content, with higher quality\
+\[decision] We will try to get more engagement from SingularityNET's socials
+
+####
 
 {% embed url="https://docs.google.com/presentation/d/1laB-opqNrgymKWJDCIYhNbE7p7gGl-cw3fs0wV6hwhk/edit?usp=sharing" %}
 
-{% file src="../../../.gitbook/assets/VW weekly presentation 12-05-2023 (1).pptx" %}
+{% file src="../../../.gitbook/assets/VW weekly presentation 12-05-2023.pptx" %}
 
 #### Selection of key slides
 
@@ -470,6 +489,8 @@ Hosted by Ro&#x20;
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-27-44.png" alt=""><figcaption><p>New Proposals</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-12 14-28-05.png" alt=""><figcaption><p>Tasks to cover</p></figcaption></figure>
+
+***
 
 ### Writers workgroup
 
