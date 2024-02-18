@@ -50,6 +50,7 @@ description: 11th February 2024 to 17th February 2024
 - emotions: Collaborative, contructive criticism, prickly, frustrated, budget request problems
 ## Friday 16th February 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -77,3 +78,27 @@ description: 11th February 2024 to 17th February 2024
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, Overall Ambassador Program budget
 - emotions: speedy , Casual
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: Judith [facilitator], lord kizzy [documenter], Sucren, Slate, malik, Franklyn, Aguboss, Lex, Kenichi, Mikasa, hogantuso, Hamzat_iii, Judith, lord kizzy
+- Purpose: Assigning tasks for contribution to the branding and communication strategy of the Ambassador Program 
+- Working Docs:
+  - [Marketing Guild Tasks](https://docs.google.com/document/d/1ktWxTMqnu-srw7u1EsIU81L37E7agUm8HHesUEZ76wU/edit)
+
+#### Discussion Points:
+- Renaming of the Town Hall and the Ambassador Program
+- Assigning of Marketing tasks to members
+- Possible collaboration with Gamers' Guild
+
+#### Decision Items:
+- We decided to create a poll where members of the ambassador could vote, if they are in support or not in changing the Ambassador program and Town Hall name 
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Create and assign the tasks on Dework with task description  [assignee] Judith [due] 19 February 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Marketing, Engagement, Roles, Task Assignment, Name change
+- emotions: Friendly, speedy , The meeting was quick and progressive
