@@ -155,3 +155,50 @@ description: 11th February 2024 to 17th February 2024
 #### Keywords/tags:
 - topics covered: Marketing, Engagement, Roles, Task Assignment, Name change
 - emotions: Friendly, speedy , The meeting was quick and progressive
+## Saturday 17th February 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], malik, rebel, hufiumer69, Gorga Siagian, Slate, TenBaseTee, ShankarUdaniya, duke peter, Flynn, oneforall, devon
+- Purpose: Project "Ambassador Program On Roblox"
+- Media link: [Link](https://docs.google.com/spreadsheets/d/1iyZmt4H1-Gy2AVsi2CVkJr5wUbezWm9HK3XCu8T83AE/edit#gid=0)
+#### Narrative:
+Presentation of MAP (3D Model Graphic) for the project
+Gaming Session - Game made By Slate - Maze Game 
+Workshop By @Slate  On basics of "How to Use Roblox Studio". Slate was not able to record the workshop because of screen lag, so proceeded to give the workshop without recording so that everyone can see it clearly. He will record it later for Youtube.
+
+A lot of questions were asked by @Tenbasetee about doing certain things on Roblox Studio, which Slate effciently answered by showcasing how each thing works and is made inside of Roblox Studio.
+
+Then the Gaming Session happened, and everyone was intrigued to ask who made this game and enjoyed it while playing.
+
+
+
+#### Decision Items:
+- After Flyn And Devon presented the MAP graphic (3D model), it got some feedback that the Ambassador Townhall should be put in the centre rather than on the corner 
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to make the pathway in the 3D model more of a casual pathway rather than a road, as it's inside of a university and not an urban model 
+  - [effect] affectsOnlyThisWorkgroup
+- Slate asked everyone whether he can record the meeting later on and post it on youtube, everybody agreed 
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed that whoever gets familiar with the usage of Roblox Studio and takes this workshop can work on the project collaboratively with the guild .
+  - [rationale] Whether we need some prior experience in order to participate - answer to that was no 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Work on the Map graphic - do rework according to the University Type Model  [assignee] devon, flyn [due] 2 March 2024 [status] in progress
+- [action] Record and Upload the workshop on Youtube  [assignee] Slate [due] 2 March 2024 [status] in progress
+- [action] Post the Winner announcement  [assignee] Slate [due] 17 February 2024 [status] done
+
+#### Game Rules:
+The person with the least amount of deaths wins.
+Or the person who completed the Maze first.
+
+
+#### Leaderboard:
+- 1st rebel
+
+#### Keywords/tags:
+- topics covered: Rewards, Roles, Budget , infographic, Workshop, Roblox, participation
+- emotions: Friendly, Collaborative
+- games played: Roblox
