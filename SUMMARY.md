@@ -21,6 +21,8 @@
   * [April 2024](timeline/2024/april-2024.md)
   * [March 2024](timeline/2024/march-2024.md)
   * [February 2024](timeline/2024/february-2024/README.md)
+    * [Week 8](timeline/2024/february-2024/week-8.md)
+    * [Week 7](timeline/2024/february-2024/week-7.md)
     * [Week 6](timeline/2024/february-2024/week-6.md)
     * [Week 5](timeline/2024/february-2024/week-5.md)
   * [January 2024](timeline/2024/january-2024/README.md)
