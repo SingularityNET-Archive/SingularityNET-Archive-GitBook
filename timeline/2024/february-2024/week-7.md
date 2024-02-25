@@ -4,6 +4,36 @@ description: 12th February 2024 to 18th February 2024
 
 # Week 7
 
+## Tuesday 13th February 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Judith [facilitator], Vanessa [documenter], Judith, Peter, Vanessa, Guillermo, Curtis, asfr s40, Grace Rachmany, WaKa, Samuel Wilson, esewilliams, Headelf, Mikasa
+- Town Hall Number: 85
+
+#### Timestamped video:
+{% embed url="https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=0s) Introduction By Judith 
+[00:30](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=30s) Topic Of Rebranding In The Ambassador Program And Town Hall 
+[04:25](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=265s) Ideation Around The Rebranding Topic 
+[23:03](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=1383s) Test Vote On Rebranding 
+[24:20](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=1460s) Governance And Discussion: Purpose Of The Ambassador Program By Grace 
+[34:15](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=2055s) Discussion Around Purpose Of Ambassador Program 
+[44:35](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=2675s) A Suggested Framework For Brainstorming: Explorer, Artist, Judge, Warrior 
+[47:30](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=2850s) More Discussion Around Purpose Of Ambassador Program 
+[01:09:00](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=4140s) What Is Unique To This Community? Nobody Mentioned Beneficial Agi 
+[01:09:50](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=4190s) Comments From Peter 
+[01:12:24](https://youtu.be/093T7Wz77Eo?si=XqZ__boBb05IkeYe\&t=4344s) Ending Discussion
+
+#### Keywords/tags:
+- topics covered: the Ambassador role, experiment, Governance, Supervisory Council, community engagement, Value of Ambassador Program, Purpose of Ambassador Program, Devil's advocate, Extreme position, renaming, renaming Ambassador program, metrics, Nobody talked about beneficial AGI, ethics of AGI
+- emotions: insightful, analytical, Discursive
+
+
 ## Wednesday 14th February 2024
 
 ### Education Workgroup
