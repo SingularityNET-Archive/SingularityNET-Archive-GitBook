@@ -10,6 +10,31 @@ description: Mon 15th Jan - Sun 21st Jan 2024
 
 
 
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Peter, Judith, Curtis, Emotu, Julian, Maurus, Tevo, Walter, Will Tatz
+- Town Hall Number: 81
+
+#### Timestamped video:
+{% embed url="https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9\&t=0s) Intro; What The Ambassador Program Is About
+[12:00](https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9\&t=720s) Ambassador Role Definition 
+[30:33](https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9\&t=1833s) Participation And Proof Of Humanity
+[34:55](https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9\&t=2095s) Transparency, And Defining Roles And Responsibilities 
+[41:47](https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9\&t=2507s) How Long To Run The Suggested Experiment?
+[46:10](https://youtu.be/BUtgyPKmd7k?si=K1XmCRyizh_JcNt9\&t=2770s) Which 5 People Will Attend Bgi 24 Summit? And Future Events?
+
+#### Keywords/tags:
+- topics covered: BGI 2024 summit, representation, Rewards, roles and levels, the Ambassador role, governance experiments, experiment
+- emotions: interesting, informative, enthusiastic
+
+
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
