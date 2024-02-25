@@ -8,6 +8,39 @@ description: Mon 22nd Jan - Sun 28th Jan 2024
 
 ## Tuesday 23rd January 2024
 
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], André, Emotu, Eric, Judith, Tevo, Vanessa, WaKa, Will Tatz, Peter, Boaz, Musonda Bemba, Rojo, lord kizzy, Headelf, Curtis, Vasu
+- Town Hall Number: 82
+
+#### Timestamped video:
+{% embed url="https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=0s) Intro
+[01:58](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=118s) Who Will Be Attending The Bgi 24 Summit 
+[09:46](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=586s) Meeting Summary Tool
+[14:18](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=858s) What Cool Things Will The Tool Enable Us To Do Next 
+[15:27](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=927s) How The Tool Works
+[37:15](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=2235s) Useful Documentation And Tracking Decisions
+[44:21](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=2661s) The Ambassador Role Experiment
+[47:13](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=2833s) Who's Tracking Time?
+[53:31](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=3211s) Any Strong Objections To Using Governance Workgroup Meetings To Discuss Further?
+[54:21](https://youtu.be/V-2Mm4NZHeM?si=Innw0nuh6HSNsTLU\&t=3261s) Mental Wellbeing
+
+
+#### Slides:
+{% embed url="https://docs.google.com/presentation/d/1U4HDfWaxvphqY77yz7bwus8jceuy9e9pyhJJr_hFtvI/edit?usp=sharing" %}
+
+#### Keywords/tags:
+- topics covered: BGI 2024 summit, meeting summary tool, the Ambassador role, roles and levels, mental wellbeing, mental health, useful documentation, what data to capture to assign ambassador role, the human touch, transition from manual archiving to use of meeting summary tool
+- emotions: curious, questioning, resistant to change, data driven
+
+
 ## Wednesday 24th January 2024
 
 
