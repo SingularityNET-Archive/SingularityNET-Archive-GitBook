@@ -8,6 +8,36 @@ description: Mon 29th Jan - Sun 4th Feb
 
 ## Tuesday 30th January 2024
 
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Judith, Tevo, Vanessa, Peter, Boaz, lord kizzy, Headelf, Curtis, Guillermo, Daniel, Kenichi, Sharon, Will Tatz
+- Town Hall Number: 83
+
+#### Timestamped video:
+{% embed url="https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=0s) Intro
+[01:08](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=68s) What The Ambassador Program Is, And What We Do 
+[WORKGROUP](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=NaNs) Updates
+[02:58](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=178s) Archives Workgroup
+[07:37](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=457s) Dework Pbl Workgroup
+[16:40](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=1000s) Education Workgroup
+[20:44](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=1244s) R&d Guild
+[30:37](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=1837s) Bgi 24 Preparation
+[49:10](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=2950s) Onboarding Workgroup
+[51:28](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=3088s) Video Workgroup
+[53:54](https://youtu.be/XXFG0A6Qakw?si=nLYpZlUU73vsw_aZ\&t=3234s) Writers Workgroup
+
+#### Keywords/tags:
+- topics covered: BGI 2024 summit, meeting summary tool, transition from manual archiving to use of meeting summary tool, workgroup updates
+- emotions: interesting, informative
+
+
 ## Wednesday 31st January 2024
 
 
