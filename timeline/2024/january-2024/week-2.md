@@ -8,6 +8,34 @@ description: Mon 8th Jan - Sun 14th Jan 2024
 
 ## Tuesday 9th January 2024
 
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Tevo, Vanessa, Peter, Curtis, Guillermo, Sharon, Ian, Judith, Rojo
+- Town Hall Number: 80
+
+#### Timestamped video:
+{% embed url="https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=0s) Intro
+[00:19](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=19s) Agenda
+[00:53](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=53s) What The Ambassador Program Is All About
+[01:13](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=73s) Interested In Joining?
+[01:31](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=91s) Introduction To Pre-event Challenges
+[14:07](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=847s) Would Be Great To Have Ambassadors On The Ground At Bgi 2024 Event In Panama
+[16:03](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=963s) Shout-out To Supervisory Council 
+[18:13](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=1093s) Roles/levels In The Ambassador Program V0.1
+[43:47](https://youtu.be/UuYSAI4We20?si=GCxYhL2sPup5s7_p\&t=2627s) Policy Implications And Budget Approval
+
+#### Keywords/tags:
+- topics covered: BGI 2024 summit, Quarter 1 2024 WorkGroup budgets, roles and levels, Supervisory Council, Ambassador role definition, what data to capture to assign ambassador role, DeepFunding
+- emotions: interesting, informative
+
+
 ## Wednesday 10th January 2024
 
 ### Knowledge Base WorkGroup
