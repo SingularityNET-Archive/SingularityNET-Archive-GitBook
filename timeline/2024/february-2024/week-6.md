@@ -8,6 +8,38 @@ description: Mon 5th Feb - Sunday 11th Feb
 
 ## Tuesday 6th February 2024
 
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Peter, Curtis, Guillermo, hogantuso, Judith, Kinga, Rojo, Vanessa, WaKa, Will Tatz
+- Town Hall Number: 84
+
+#### Timestamped video:
+{% embed url="https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=0s) Introduction By Peter
+[01:24](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=84s) Mentions 
+[02:56](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=176s) Ambassador Role Progress 
+[19:36](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=1176s) Supervisory Council Updates By Grace 
+[20:26](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=1226s) Challenges Faced By The Supervisory Council 
+[23:35](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=1415s) Blueprint Set-up 
+[26:55](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=1615s) Lead Writer Announcement 
+[28:30](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=1710s) Knowledge Management Organization 
+[33:00](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=1980s) Additional Comments By Daniel
+[35:05](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=2105s) What Does Success Look Like? 
+[43:25](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=2605s) Q&a 
+[47:40](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=2860s) Difference Between Problems And Solutions: The Ambassador Program Is A Solution, But Is It The Right One?
+[1:17:40](https://youtu.be/C3CI0SS2LH4?si=zALpKzgkbc39i7-k\&t=4660s) Ending
+
+#### Keywords/tags:
+- topics covered: the Ambassador role, experiment, Governance, Supervisory Council, Decentralisation Blueprint, Decentralization, Decentralization Blueprint, Decentralisation, Lead Writer, Knowledge management across the singularityNET ecosystem, Knowledge management, keeping informed, blogpost, community engagement, Google Docs, GitBook, useful documentation, Value of Ambassador Program, Purpose of Ambassador Program
+- emotions: interesting, informative, insightful, analytical
+
+
 ## Wednesday 7th February 2024
 
 
