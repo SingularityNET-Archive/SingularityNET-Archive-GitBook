@@ -111,6 +111,7 @@ The meeting was constructive but we had to skip organizing time due to the propo
 
 ## Thursday 11th January 2024
 
+
 ### <mark style="color:green;">Onboarding WorkGroup</mark>
 
 #### Present:  <a href="#docs-internal-guid-5771aa41-7fff-d91e-9917-61455218a7c8" id="docs-internal-guid-5771aa41-7fff-d91e-9917-61455218a7c8"></a>
@@ -256,6 +257,32 @@ Research & Development Guild Proposal - [https://docs.google.com/document/d/1PNd
 We had quite a tension because there were several opposing opinions on how should improve our Ambassador Program Workgroups and budgeting requirements.
 
 ***
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Judith [facilitator], Vanessa [documenter], Judith, Jan Horlings, Mauro Andreoli, Rojo, Headelf, Rafael Presa, Sharon, Kinga, WaKa, Curtis, Ana Paula Pereira, Ubio, Juan Pablo Barea, Juana Attieh
+- Town Hall Number: 24
+
+#### Timestamped video:
+{% embed url="https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf" %}
+
+[00:00](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=0s) Intro And Agenda By Judith Williams.
+[03:00](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=180s) Depp Funding Test Round With 150k In Rewards Total By Jan Horlings. 
+[19:51](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=1191s) Purpose And Objetives For 2024 Growth.
+[34:18](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=2058s) Books: Prosocial, By David Sloan Wilson, Paul W. B. Atkins, And Steven C. Hayes, And Governing The Commons By Elinor Ostrom (core Design Principles)
+[47:54](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=2874s) Our Circles
+[51:47](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=3107s)  Deep Funding Round Circle By Rojo Kaboti.
+[56:20](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=3380s) Focus Group Talk.
+[1:01:30](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=3690s) Deep Funding Marketing Presentation
+[1:13:00](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=4380s) Roadmap Vision
+[1:37:41](https://youtu.be/bHCcBLFNFas?si=A_zW60zuL4d535cf\&t=5861s) Free Talk And Close
+
+#### Keywords/tags:
+- topics covered: Elinor Ostrom, Prosocial, Governing The Commons, David Sloan Wilson, Paul W. B. Atkins, Steven C. Hayes, Circles, sociocracy, Deep Funding test round, Ambassador Program marketing, roadmap, vision, purpose, Objectives, objectives for 2024, planning, future, Deep Funding Focus Group, Focus Group
+- emotions: calm, forward-looking
+
 
 ## Friday 12th January 2024
 
