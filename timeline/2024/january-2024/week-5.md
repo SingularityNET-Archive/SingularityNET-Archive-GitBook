@@ -43,6 +43,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -114,3 +115,35 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Feedback Form, Outreach, Error, PBL, Dework, Miro Board, Lessons, Google Form, Andamio
 - emotions: The meeting was quick and progressive
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Curtis, Guillermo [facilitator], Guillermo [documenter], Vasu, Duke, WaKa, Onyeka, Ubiodee
+- Purpose: R&D Purpose & Proposal 
+- Working Docs:
+  - [Research & Development Guild Budget Proposals Sheet _ 310224](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [UpdatResearch & Development Guild Proposal _ 310224](https://docs.google.com/spreadsheets/d/1RB7XBd393xGxpBg7ZuYQKyMIaGp18oevVDddW6vbcXo/edit?usp=sharing)
+  - [Proposal template:](https://docs.google.com/document/d/1Z6FSHz4CmgVeKyva9ZmqqbMfw5lAeDfpF-ICuAWvSBM/edit#heading=h.e3tybvyav5jy)
+
+#### Agenda Items:
+- The overall purpose of the meeting was to go over the new R&D Guild proposal, the new workgroup operations strategy final edits including guilds members contribiutons on the document. Next following guilds inputs and team decision and agreements, team members in charge of operations followed to update the budget including all members proposed ideas agreed and submitted at yesterday 's meeting. Details can be found on the budget sheet. 
+
+#### Discussion Points:
+- We discussed and agreed on guilds files sharing protocol and permissions strategy.
+- We discussed and agreed on guilds operational files sharing protocol and permissions strategy
+- We discussed and the members have reached an agreement to reduce the budget allocated to operations, meeting schedules and other operational matters. Agreed on reduce the budget to the minimum for this first phase and learn from experience to save budget for development
+- Proposals and template; It should be noted that almost all of the guild members have presented proposals that have been considered. The proposals have been integrated into the template format created by Walter, helping to standardize the methodology to present the ideas to be developed.
+- We continue with the discussion on Governance; Those present at the meeting agreed to establish internally in this phase one, the order of development priority for the proposals according to the assigned budget. Next Q2, the proposals will be presented to the ambassador community for a vote, giving members the opportunity to select the order of development priority according to their understanding of the benefit they will bring to the community.
+- AGIX Price $0.27 Q1 Total Estimated Cost in US Dollars $7,300 Q1 Total Estimated Cost in AGIX 27,037
+
+#### Decision Items:
+- Final estimated budget needed for development for proposals presented to treasury guilds.  The number of proposals has been limited in this first phase to a total detailed
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Budget Fitting and adjustments before next treasuty meeting [assignee] Rojo, Guillermo [due] 5 February 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Onboarding, Roles, Tool Development, Proposal, Q1 projections, Quarter 1, AI tooling
+- emotions: Collaborative, productive, challenging, Friendly
