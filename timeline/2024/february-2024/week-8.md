@@ -36,6 +36,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 ## Wednesday 21st February 2024
 
 
+
 ### Archival Workgroup
 
 - Type of meeting: Biweekly
@@ -76,6 +77,45 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, Knowledge management across the singularityNET ecosystem, Permissions, GitHub training, Google Analytics, managing corrections to meeting summaries by workgroup members, governance experiments, Strategy Guild, new people, Onboarding
 - emotions: Organised, engaging new people, "I didn't know Archives meeting was this interesting"
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Headelf [facilitator], Slate [documenter], malik, Peter, Slate, osmium, will tatz, devon
+- Purpose: ACP Video/Infographics,Panama Event, SpinOffs Contact
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Initiating the process to upload Education Guild videos to the Ambassador YouTube channel.
+- Contacting the video workgroup for collaboration on the YouTube upload initiative.
+- Seeking approval from spin-off projects of SingularityNET for the distribution of infographics and videos, emphasizing the importance of quality control.
+- Planning for potential rework if spin-off project reviews lead to rejection.
+- Discussion on the proposal to turn on cameras during recorded meetings to enhance viewer engagement and interest.
+
+#### Discussion Points:
+- Will's Infographic on SingularityNET (SNET) was reviewed, with specific feedback on date correction, eliminating redundancy, and incorporating information about the OpenCog Hyperon Framework.
+- Malik's Infographic on Twin Protocol was discussed, focusing on positive aspects like color and logo, while addressing spelling errors and improving clarity in the tokenomics section.
+- Osmium's Infographic on HyperCycle underwent discussion, highlighting the need for including information about the native token and refining certain language for clarity.
+- HeadElf Will be flying to Panama and he will not be hosting the next week meeting and if Slate wants to host next week feel free to 
+- Slate to manage and audit each completed task by next week -HeadElf
+- If anybody needs assistant in anything he/she can contact Slate 
+- Rojo and Headelf are looking for Dubai or Israel To get credited for the ACP(Ambassador Certification Program)
+- - Osmium is going to be visiting Dubai and he might also be looking to get the ACP Credited
+-  Skillshare was a platform suggested by Duke
+- - Pathform infographic for duke (Is it an actual project check this before working on it?)
+- - Osmium will be working on jam galaxy project
+
+#### Action Items:
+- [action] Will to update the SNET Infographic with feedback provided. [assignee] Will Tatz [due] 27 February 2024 [status] in progress
+- [action] Malik to make revisions to the Twin Protocol Infographic based on the feedback. [assignee] malik [due] 26 February 2024 [status] done
+- [action] Osmium to rework the HyperCycle Infographic considering the feedback received. [assignee] osmium [due] 27 February 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: Meeting Summaries, ACP, Videomaking, infographic, Video upload, Camera usage
+- emotions: Collaborative, contructive criticism, productive
+
+
 ## Thursday 22nd February 2024
 
 
