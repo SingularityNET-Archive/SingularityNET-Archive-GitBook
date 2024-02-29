@@ -44,6 +44,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 ## Wednesday 24th January 2024
 
 
+
 ### Knowledge Base Workgroup
 
 * Type of meeting: Biweekly
@@ -217,6 +218,42 @@ Fun, Exciting, Collaborative, Productive
 #### Keywords/tags:
 - topics covered: Tag taxonomy, bounties, monthly archiving, publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, mentorship, transition from manual archiving to use of meeting summary tool, Outreach, Knowledge management across the singularityNET ecosystem
 - emotions: Organised, Discursive, Well-attended, outward-looking
+
+
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Rojo, Guillermo [facilitator], Guillermo [documenter], Curtis, Vasu, Duke, WaKa, Ubiodee
+- Purpose: R&D Purpose & Proposal 
+- Working Docs:
+  - [Research & Development Guild Presentation _ @SingularityNET Ambassador _090124](https://docs.google.com/presentation/d/1MVHXfjQDAafVFPwduLam4anMnHx0b8cUE8W08uniHrs/edit#slide=id.g2ad24b6b863_0_2)
+  - [Research & Development Guild Budget Proposals Sheet _ 100124](https://docs.google.com/spreadsheets/d/1RB7XBd393xGxpBg7ZuYQKyMIaGp18oevVDddW6vbcXo/edit#gid=1248558897)
+
+#### Agenda Items:
+- The overall purpose of the meeting was to go over the new R&D Guild proposal, the new workgroup operations strategy. Fundamentals for the governance system for the guild.
+
+#### Discussion Points:
+- -Discussed the difference and definition of Resaerch, Ideation and Developemnt and the potential scope of the guild in regards of ambassadors needs and on how to approach the differente guild and groups for further actions.
+- - We continue with the discussion that began in the guild chat about the possible segregation or not into two independent bodies, advantages and disadvantages. The members will present their positions and arguments.
+- Walter; I envision **Innovation** [ex-Incubation] providing a range of services to other Ambassador units, according to their needs and our capabilities. These will eventually include analysis of wants and needs, identifying processes, features and benefits, crafting designs and executing development, organizing testing, deployment, training, and support.
+- Ambassador has a very specific charter and a fixed budget, in most ways separate organization from a dozen and a half projects and organizations under the sNET umbrella. To me, a Guild formed within Ambassadors and applying its budget has an obligation to focus on executing a definitive segment of the overall organizational vision and plan.  Providing services according to the needs and the timelines of other groups, while tapping into their budgets, is best delivered by a separate unit, perhaps a financially self-sufficient Workgroup. Without a clear separation, I do not see bringing more external business or recruiting specific skill sets, as those may not align with Ambassadors mandate and plan.
+- Rojo: The R&D initiative is funded based on projects according to the sheet we agreed upon. That means that the ambassador program is funding specific projects with clear outcomes and use cases. Any external endowment if agreed upon will also be funding a specific project. Therefore double rewarding for the same work, or making use of ambassador funds for other entities cannot happen under this paradigm.
+- - The use of a template for the standardization of the guild’s proposal submission processes was discussed and approved.
+- - Discussed the different governance system For the selection of the proposals to be developed according to the available budget, the possibility of involving the different guilds in the selection was discussed, thus establishing a priority according to the need of the group. The possibility of voting among guild members.
+
+#### Decision Items:
+- - Guild members agreed that it is beneficial for the whole to maintain the unity of the guild and evaluate reincorporating the 'ideation' functionality as a service for the other guilds and WG. This completes the circle with the total capacity of Reasearch, ideation and development.
+  - [effect] mayAffectOtherPeople
+- - TBD Final schedule and time slot for guilds weekly meeting
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Next step will be to analyze the team's proposals. to this day we have 10 proposals or ideas in a state of ideation, some of them have the backup of a research and blue print and others are just ideas of potential developments that the different members of the team have developed and shared in the initial document that we have reviewed in this session and will share tomorrow with the tresury guild. Proposals name and description can be found at the GR&D Guilds Propposal. [assignee] Rojo, Guillermo [due] 31 January 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Onboarding, Roles, Tool Development, Proposal, Q1 projections
+- emotions: Collaborative
 
 
 ## Thursday 25th January 2024
