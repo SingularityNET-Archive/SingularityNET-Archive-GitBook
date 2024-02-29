@@ -133,3 +133,27 @@ description: 19th February 2024 to 25th February 2024
 #### Keywords/tags:
 - topics covered: Video Script, New Onboarding video, Getting Started, Continuous Onboarding Report, Ideas and Improvements, Onboarding session slides video
 - emotions: Friendly, funny , Collaborative, Welcoming, Deliberative
+## Friday 23rd February 2024
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: Judith [facilitator], lord kizzy [documenter], malik, Aguboss, Kenichi, Hamzat_iii, Judith, lord kizzy, Gavriel, Duke, Kareem, Olokoji, Godfather, Zaff, Prime
+- Purpose: Tweak the doc on the Ambassador Program Explainer Page that is shared with the public 
+- Working Docs:
+  - [Marketing Guild Tasks](https://docs.google.com/document/d/1ktWxTMqnu-srw7u1EsIU81L37E7agUm8HHesUEZ76wU/edit)
+  - [AMBASSADORS PROGRAM EXPLAINER](https://docs.google.com/document/d/1QzM6-3fsR5ZBBp3FQ8LKFT_rR34gM5CLmiZIUZRsA9k/edit?usp=sharing)
+  - [SNET Jam Purpose](https://jamboard.google.com/d/1jJ0qgZkbjaXVpVNL1EWExYI9w81NEJqBCLbNG9psYao/viewer?f=0&pli=1)
+
+#### Discussion Points:
+- Work on the Ambassador Program Explainer Page
+- Things to include in an FAQ
+
+#### Decision Items:
+- We need to update the website and getting started channel (like the time meetings) 
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: Marketing, Engagement, Task Assignment, Getting Started channel, Onboarding
+- emotions: Friendly, Casual, Thoughtful 
+- other: You dont have to be an ambassador to be part of the guild
