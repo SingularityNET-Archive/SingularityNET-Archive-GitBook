@@ -4,6 +4,35 @@ description: 19th February 2024 to 25th February 2024
 
 # Week 8
 
+## Tuesday 20th February 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Peter
+- Town Hall Number: 86
+
+#### Timestamped video:
+{% embed url="https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=0s) Introduction By Peter
+[01:34](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=94s) Mentions
+[04:10](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=250s) Core Contributors Names
+[06:45](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=405s) Possible Manual Additions
+[09:00](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=540s) Opt-in Vs Opt-out 
+[21:08](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=1268s) Name Of Core Contributors Role
+[23:40](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=1420s) Voting Process On Role Decision
+[45:20](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=2720s) Bgi-scheduling And Workshops 
+[50:54](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=3054s) Schedule Updates
+[01:05:50](https://youtu.be/UoyO1XLgaio?si=C5Q0aqqqEbuerWT7\&t=3950s) Ending By Peter
+
+#### Keywords/tags:
+- topics covered: the Ambassador role, experiment, Governance, the human touch, core contributors, Opt-in or opt-out, voting, Decision Making Process, BGI 2024 summit, records
+- emotions: tense, exploratory, opposition, critical, Thoughtful 
+
+
 ## Wednesday 21st February 2024
 
 
