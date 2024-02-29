@@ -46,6 +46,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 
+
 ### Knowledge Base Workgroup
 
 - Type of meeting: Biweekly
@@ -187,6 +188,40 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Tag taxonomy, bounties, monthly archiving, publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, mentorship, transition from manual archiving to use of meeting summary tool, Outreach, Knowledge management across the singularityNET ecosystem
 - emotions: Organised, Discursive, Well-attended, outward-looking
+
+
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Rojo, WaKa [facilitator], Guillermo [documenter], malik
+- Purpose: R&D Objectives & Budget Final Adjustments 
+- Working Docs:
+  - [Research & Development Guild Budget Proposals Sheet _ 310224](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [UpdatResearch & Development Guild Proposal _ 310224](https://docs.google.com/spreadsheets/d/1RB7XBd393xGxpBg7ZuYQKyMIaGp18oevVDddW6vbcXo/edit?usp=sharing)
+  - [Proposal template:](https://docs.google.com/document/d/1Z6FSHz4CmgVeKyva9ZmqqbMfw5lAeDfpF-ICuAWvSBM/edit#heading=h.e3tybvyav5jy)
+
+#### Agenda Items:
+- The overall purpose of the meeting was to go over the new R&D Guild list of proposed projects on the pipeline  and to discuss the beter approach for development. Members present talked about their calendar and schedule availability to organize tasks and the coordinated effort of the task force
+
+#### Discussion Points:
+- We discussed and agreed on  final changes on budget to be presented on Feb 080224 Discussed, agreed and vote on operation structure and members contributors fees established to follow Ambassadors standards of $10 per Hour.
+- We discussed specific criteria for development strategy and tools to implement on the development.
+- We discussed and the members have reached an agreement on the operational budget allocation sving budget for development of tools and proposals.
+- Team members presented details of roadmaps for each proposal and members started showing their interest in participating on one or the other, this way we were able to build teams and start discussing tasks. 
+- On Governance; members discussed how to move forward and present community proposals on next Q. Members have found an agreement on engaging other guilds on next Q to present their proposals and bring constructive feedback to pulish the blueprints and pulish the outcome.
+- AGIX Price $0.27 Q1 Total Estimated Cost in US Dollars $7,300 Q1 Total Estimated Cost in AGIX 27,037
+
+#### Decision Items:
+- Budget needed for final adjustments to fit all projects proposed by guilds members needs, this will be conducted by leading members and presented for final approval on future teasury meeting.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Budget Fitting and adjustments for final approval at next treasuty call [assignee] Rojo, Guillermo [due] 12 January 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, Q1 projections, Quarter 1, AI tooling
+- emotions: Collaborative, productive
 
 
 ## Thursday 8th February 2024
