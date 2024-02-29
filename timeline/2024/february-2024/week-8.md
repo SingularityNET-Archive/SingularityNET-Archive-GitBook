@@ -272,6 +272,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 - emotions: Friendly, funny , Collaborative, Welcoming, Deliberative
 ## Friday 23rd February 2024
 
+
 ### Marketing Guild
 
 - Type of meeting: Weekly
@@ -294,3 +295,26 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 - topics covered: Marketing, Engagement, Task Assignment, Getting Started channel, Onboarding
 - emotions: Friendly, Casual, Thoughtful 
 - other: You dont have to be an ambassador to be part of the guild
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: hogantuso [facilitator], devon [documenter], lord kizzy, malik, Slate, Prime, cardano_class
+- Purpose: The main purpose of the meeting was to discuss  social media management, budget constraints, content creation, and technical challenges.
+#### Discussion Points:
+- Weekly meeting agenda outlined by Tuso
+- Updates provided on various aspects including ambassador meetings, marketing efforts, social media content, and video production.
+- Malik as social media manager gave updates about content posting and problem in subtitle of a video clip.
+- Kizzy as a task manager gave updates about the tasks.
+- Discussion on video production budget and scheduling for upcoming content creation
+- Introduction of a new applicant, Prime, who expressed interest in video editing and content creation.
+- Clarifications and discussions on payment procedures for tasks completed within the group.
+- Planning for future topics and collaborations within the group
+
+#### Decision Items:
+-  Selecting specific individuals to collaborate on suggested topics.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people
+- emotions: speedy , confusing, frustrated
