@@ -37,6 +37,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 
+
 ### Archival Workgroup
 
 - Type of meeting: Biweekly
@@ -114,6 +115,73 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Meeting Summaries, ACP, Videomaking, infographic, Video upload, Camera usage
 - emotions: Collaborative, contructive criticism, productive
+
+
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, André, Peter, lord kizzy, Sucren, Vanessa, Stephen, Ekemini Samuel, Kenichi, Franklyn
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574355564547&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Facilitating Next Session - [carry over]
+
+#### Discussion Points:
+- Who wants to facilitate WG on 6th March?
+
+#### Decision Items:
+- Kenichi is stepping in to facilitate the next session
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Coordinate with the Writers workgroup to validate items for the GitBook in the next session [status] todo
+
+#### Agenda item 2 - Knowledge Base Workgroup Overview - [resolved]
+
+#### Discussion Points:
+- Workgroups purpose
+- Went over the Resource planning process
+- Shared Workgroup Proposal
+- Share examples of the task outputs
+- Explained Item Color Codes
+- Different ways of managing a knowledge base
+- importance of version management
+- How to improve contribution to open source projects
+
+#### Action Items:
+- [action] Check and create a GIT repository for Ambassador GitBook if it's missing [status] todo
+
+#### Agenda item 3 - Review Translation Workgroup Items - [carry over]
+
+#### Discussion Points:
+- Should "Ambassador Program Translations - Forum Website" be on the GitBook?
+- Should "Translation Task Processes Mapping - Miro Board" be on the GitBook?
+
+#### Decision Items:
+- Include "SingularityNET Ambassadors - Medium Page" in the GitBook
+  - [effect] mayAffectOtherPeople
+- Include "SingularityNET - Blog Website" in the GitBook
+  - [effect] mayAffectOtherPeople
+- Include "SingularityNET Ambassadors Translation Management Documentation - Google Doc" in the GitBook
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Agenda item 4 - Organize reviewed items - [carry over]
+
+#### Discussion Points:
+- reviewing reasoning why an item was moved under a specific question
+
+#### Action Items:
+- [action] Prepare a more scalable and clear process for organizing items in a bigger group [status] todo
+- [action] Go over newly added items again with 1 item in mind instead of browsing through what was added under a specific question [status] todo
+- [action] clean miro board to be able to differentiate newly organized items [status] todo
+
+#### Keywords/tags:
+- topics covered: Ambassador GitBook, Miro Board, management, process, Marketing, forum, website, open source, GitHub, medium, organizing, purpose
+- emotions: The meeting was all over the place as there was a misalignment between new and existing people on purpose and technicalities of how knowledge management should be done and how it has been done so far
 
 
 ## Thursday 22nd February 2024
