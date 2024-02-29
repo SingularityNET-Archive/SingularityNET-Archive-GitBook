@@ -36,6 +36,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 ## Wednesday 14th February 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -78,6 +79,44 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Meeting Summaries, ACP, Videomaking, infographic, Budget 
 - emotions: Collaborative, contructive criticism, prickly, frustrated, budget request problems
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Rojo, Guillermo [facilitator], Guillermo [documenter], Curtis, Vasu, Duke, WaKa, Franklyn, Onyeka
+- Purpose: R&D Final Budget & Development Roadmap for Q1 Objectives 
+- Working Docs:
+  - [Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
+  - [Final Guilds requested Budget](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget ](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254)
+
+#### Agenda Items:
+- The overall purpose of the meeting was to go over the new R&D Guild final fitted budgetl, the workgroup operations strategy and roadmap for development. Final Guilds fitted budget discussion, rational and retrospective.
+
+#### Discussion Points:
+- Members that participate presenting final budget adjustments to the treasury guild debrief the guilds members about the outcome and present the case and points of discussion. 
+- The members discussed the arguments presented before the Tresury Guild and the discussion that arises about the need to establish an order of priority to adjust developments to the assigned budget.
+- Treasury members offered a solution and the guild members responsible for presenting the budget developed the ideas and defense arguments that we then presented at our weekly meeting.
+- Franklin, a new member of the community has participated in the meeting and was updated on the process to present proposals to the guild to be taken into account in the next Q and will be taken into account to be added to the task force in the developments in process.
+- R&D Guild Requested $8100 > AGIX 28929  Final Fitted > AGIX 23288  Research & Development Guild Proposal _ 100124 $7763  08.02.24
+
+#### Decision Items:
+- The decision of the group was to equitably adjust the budget and not discard any proposal.
+  - [rationale] The team has committed to working as a team to achieve results that we hope to begin presenting to the community in the coming months with the delivery of tools that generate a positive impact on the results of the group.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Next step is the blueprint, roadmaps and schedule for development. [assignee] All Members [due] 12 January 2024 [status] done
+- [action] Members in charge of different proposals are working on documents to share with the different WG and guild to get finall feedback before starting to build.  [assignee] All Members  [due] 26 February 2024 [status] todo
+- [action] Curtis & Guillermo , they have been participating in parallel meetings and created a document on the proposal COLLABORATION SKILLS DATABASE and generated the following document with the aim of polishing the proposal,  / Feedback Request WANTS/NEEDS / WaKa has intervened and created a substantial contribution to the document, promoting the action. Once feedback finished the team in charge of the development started building with the help and participation of other members of the guild. [assignee] Curtis, Guillermo [due] 26 February 2024 [status] todo
+- [action] Rojo and Walter are leading two proposals and working on a final bluprint and potential roadmap. Later will follow the same path and involve the community in final feedback before starting to build. As their projects are straigh forward this process will probably take a shorter period of time to exchange and interact with the community. [assignee] Rojo, WaKa [due] 26 February 2024 [status] todo
+- [action] Ubio is leading a third proposal and will debrief on the upgrades and advances to the guilds member in the upcoming meeting. Documentation will follow.  [assignee] Ubiodee [due] 26 February 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, Q1 projections, Quarter 1, AI tooling
+- emotions: Collaborative, productive
+
+
 ## Thursday 15th February 2024
 
 ### Onboarding Workgroup
