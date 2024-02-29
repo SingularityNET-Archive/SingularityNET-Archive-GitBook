@@ -47,3 +47,36 @@ description: 19th February 2024 to 25th February 2024
 #### Keywords/tags:
 - topics covered: publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, Knowledge management across the singularityNET ecosystem, Permissions, GitHub training, Google Analytics, managing corrections to meeting summaries by workgroup members, governance experiments, Strategy Guild, new people, Onboarding
 - emotions: Organised, engaging new people, "I didn't know Archives meeting was this interesting"
+## Thursday 22nd February 2024
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], André [documenter], Tevo, Vanessa, Peter, Will Tatz, WaKa, Headelf, Kenichi, André, Miro, Vasu
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Meeting video: [Link](https://youtu.be/LbzvIMobzcE)
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764574789806585&cot=10)
+- Transcript: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quaterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing)
+
+#### Agenda item 1 - Ambassador Q1 Budget Request to fit into Q1 Budget limit - [carry over]
+
+#### Discussion Points:
+- Don't try to improve budget fitting for this quarter as AGIX price went up and there is enough budget now
+- Consider already spent rewards based on previous exchange rates
+- Discussed what core and project costs of workgroups are. Voted on minimum cap on base costs, but decided its not the way to go.
+- Discussed a limit for maximum amount per workgroup, but need to revisit this in next meetings
+- Discussed how some workgroups can afford to cut core costs while others can't, as their main functions are core activities, like Treaury Guild
+- We should try to have some rules and processes to enforce for next quarter.
+
+#### Decision Items:
+- Undo budget cuts that were done and see if we can cover all workgroups in next meeting
+  - [rationale] Price of AGIX went up, so there might be enough budget to cover all workgroups
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: Miro Board, Budget , Quarter 1, Quarterly Budget Calculator, Budget fitting, price, AGIX, AGIX price
+- emotions: problem-solving, analytical, Friendly, prickly
