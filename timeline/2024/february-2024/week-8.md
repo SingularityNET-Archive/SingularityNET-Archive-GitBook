@@ -187,6 +187,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 ## Thursday 22nd February 2024
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -270,6 +271,60 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Video Script, New Onboarding video, Getting Started, Continuous Onboarding Report, Ideas and Improvements, Onboarding session slides video
 - emotions: Friendly, funny , Collaborative, Welcoming, Deliberative
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: SucrenSpice [facilitator], LadyTempestt [documenter], Peter, Vanessa, Sucren, Duke, LadyTempestt, ToneTech, Vasu, Boaz, Emmanuel, Gavriel
+- Working Docs:
+  - [Continuous Onboarding Report](https://docs.google.com/document/d/1UEL60VgQ_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit?usp=sharing)
+  - [Ideas and Potential Improvement ](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit)
+  - [New welcome video script](https://docs.google.com/document/d/1Iy4jotEpsJbYe2lWNArQrSU9kAPKfvj9oHfbweokTuA/edit)
+
+#### In this meeting we discussed:
+- Minutes of the last meeting.
+- Action Items from the last meeting
+- Onboarding session Date
+- The new welcome video script
+- Getting started document
+- Video of the onboarding session slides
+- Continuous onboarding session report - Lord Kizzy
+- Ideas and potential Improvements for continuous onboarding - LadyTempestt
+
+#### Decision Items:
+- We agreed that the next onboarding session will be on the 16th of May, rather than 21st April as suggested in the last meeting
+  - [rationale] It is too soon to have another one this quarter
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- We agreed to post the “Ideas & Potential Improvements - Lady Tempestt” - written by Lady Tempestt” for comments first on Discord before converting it to a PDF.
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to have our town hall update ready next week. 
+  - [rationale] It is the week before townhall updates from all workgroups/guilds - normally this is on the first Tuesday of a month, but this time it is being put back a week because peopl will be attending the BGI Summit in Panama on Tues  5th March
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Vani to share the doc on how to become a workgroup in the onboarding workgroup on Discord for all to go through. [assignee] Vanessa [due] 29 February 2024 [status] in progress
+- [action] Lord Kizzy to tweak the continuous onboarding report. [assignee] lord kizzy [due] 29 February 2024 [status] in progress
+- [action] Duke to bring the video summary of the onboarding session slides to the next meeting. [assignee] duke peter [due] 29 February 2024 [status] in progress
+- [action] Lady Tempestt to finish edits on the Ideas & Potential Improvements doc [assignee] LadyTempestt [due] 29 February 2024 [status] in progress
+- [action] Lady Tempestt to ask Tevo for his survey link to use an example in a document. [assignee] LadyTempestt [due] 29 February 2024 [status] todo
+- [action] Lord Kizzy to write a short note on MINS for Getting Started channel [assignee] lord kizzy [due] 29 February 2024 [status] todo
+
+#### Learning Points:
+- We need to place emphasis on what we have as conclusions from the continuous onboarding session report.
+
+#### To carry over for next meeting:
+- How WGs can improve continuous onboarding - written by Lady Tempestt
+- Idea for “tell us your interests and we’ll suggest what WGs you might like” Discord channel (5 mins) 
+- Draft doc on how to become a WG
+
+#### Keywords/tags:
+- topics covered: Video Script, New Onboarding video, Getting Started, Continuous Onboarding Report, Ideas and Improvements, Onboarding session slides video
+- emotions: Friendly, funny , Collaborative, Welcoming, Deliberative
+
+
 ## Friday 23rd February 2024
 
 
