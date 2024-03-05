@@ -258,6 +258,7 @@ Fun, Exciting, Collaborative, Productive
 
 ## Thursday 25th January 2024
 
+
 ### Treasury Guild
 
 * Type of meeting: Biweekly
@@ -389,6 +390,39 @@ Fun, Exciting, Collaborative, Productive
 
 * topics covered: Guilds , Onboarding, TH Update , Roles, Budget
 * emotions: Collaborative, speedy , funny , Thoughtful , Friendly
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Judith, Jan Horlings [facilitator], Vanessa [documenter], Judith, Jan Horlings, Kenric, Mauro Andreoli, Juana Attieh, Headelf, Megan Hess, Mercy, Mike Lewis, Juan Pablo Barea, Guillermo, Curtis, Newman Lanier, Ubio
+- Purpose: Improving voting and decison-making
+- Town Hall Number: 25
+- Working Docs:
+  - [Sign-up form to run a breakout room](https://forms.gle/SEZboWxyqpxTu5Pb9 )
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD" %}
+
+This bi-weekly meeting is an initiative led by the SingularityET Ambassador community. We invite you to be part of our regular event where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+
+[00:16](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=16s) Deep Funding Town Hall Is A Platform For Community Engagement And Feedback.
+[02:54](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=174s) Test Round Updates And Challenges
+[08:12](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=492s) Encouraging Community To Create Rfps For New Rounds
+[10:47](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=647s) Collecting Feedback On Improving Voting And Decision-making Process
+[14:04](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=844s) What Problem Are We Trying To Solve With This Complex Reputation System, And Is There An Easier Way?
+[16:36](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=996s) Improving Voting And Decision-making Process In The Df Rounds
+[26:25](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=1585s) Quadratic Voting Forces Consideration And Constraints On Allocation
+[40:43](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=2443s) The Importance Of A Strong Identity System For Decision-making Process.
+[45:22](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=2722s) Testing Different Voting Scenarios And Behaviors
+[48:14](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=2894s) Importance Of Distributed Identity In Decision-making Process
+[53:27](https://youtu.be/PBDCclXJCJg?si=w2q-ifesmC4-2RMD\&t=3207s) Improving Decision-making Process In Deep Funding Rounds
+
+#### Keywords/tags:
+- topics covered: voting, testing voting behaviours, Deep Funding test round, Community RFPs, RFP, feedback, quadratic voting, Decision Making Process, identity, distributed, platform, Deepfunding proposal platform, proposal platform, voting behavior, strategic, reputation, complex systems, experiment
+- emotions: analytical, fiery, lively, silencing, complex, heated, passionate, frank, upfront, straightforward, ideas
+
 
 ## Friday 26th January 2024
 
