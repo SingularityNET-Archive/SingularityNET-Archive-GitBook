@@ -38,3 +38,59 @@ description: 26th February 2024 to 3rd March 2024
 #### Keywords/tags:
 - topics covered: ACP, Videomaking, infographic, certification, time limit, Google Classroom, slide decks, review, Cogito, accessibility for non-technical people
 - emotions: Collaborative, contructive criticism, productive
+## Thursday 29th February 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Vanessa [facilitator], LadyTempestt [documenter], Vanessa, LadyTempestt, duke peter, lord kizzy, Psycho42069, hogantuso, Cjfrankie, Mikasa, malik
+- Working Docs:
+  - [Continuous Onboarding Report](https://docs.google.com/document/d/1UEL60VgQ_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit?usp=sharing)
+  - [Ideas and Potential Improvement ](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit)
+  - [New welcome video script](https://docs.google.com/document/d/1Iy4jotEpsJbYe2lWNArQrSU9kAPKfvj9oHfbweokTuA/edit)
+
+#### Town Hall Updates:
+Share our Continuous Onboarding report and Ideas and Improvements report. 
+Give a report-back on the onboarding session on 8th Feb.
+Share Duke’s voiceover video for the Onboarding slides.
+Advertise that the next onboarding session is on 16th May.
+
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting.
+- Action Items from the last meeting
+- Quarterly budget for this quarter, Q1
+- Video of the onboarding session slides
+- Getting started document and FAQ on Mins token
+- Continuous onboarding session report - Lord Kizzy
+- Ideas and Improvements for continuous onboarding - LadyTempestt
+- Town Hall update
+- Idea of Introduction channel on Discord.
+
+#### Decision Items:
+- We signed off on Duke’s Video of the onboarding session slides.
+  - [rationale] LadyTempestt downloaded and checked video quality - it was fine (it looked blurry when playing in Discord, but the video itself is good)
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- We signed off and agreed to share the two Continuous Onboarding documents, as  “read-only” versions - Ideas & Potential Improvements - Lady Tempestt & https://docs.google.com/document/d/1UEL60VgQ_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Vani to share the doc on how to become a workgroup in the onboarding workgroup on Discord for all to go through. [assignee] Vanessa [due] 7 March 2024 [status] in progress
+- [action] Lord Kizzy to meet Sucre and Tevo to check the short note on MINs before adding it to the getting started channel. [assignee] lord kizzy [due] 7 March 2024 [status] in progress
+- [action] Lady Tempestt to check the Video quality of the onboarding session slides. [assignee] LadyTempestt [due] 29 February 2024 [status] done
+- [action] Duke to present the WG’s latest updates at the ambassador town hall on 5th March [assignee] duke peter [due] 5 March 2024 [status] in progress
+- [action] Lady Tempestt to ask Tevo for his survey link to use an example in a document. [assignee] LadyTempestt [due] 7 March 2024 [status] todo
+- [action] Lady Tempestt and Vani to finish edits on the Ideas & Potential Improvements - Lady Tempestt doc in time to share it at TH on 5th March [assignee] LadyTempestt, Vanessa [due] 4 March 2024 [status] in progress
+- [action] Lord Kizzy and Vani to finish edits on continuous onboarding report in time to share it at TH on 5th March [assignee] lord kizzy, Vanessa [due] 4 March 2024 [status] in progress
+
+#### To carry over for next meeting:
+- Discuss more on opening up onboarding WG as the first place to go if you want to join the SNET ambassador program.
+- Idea for “tell us your interests and we’ll suggest what WGs you might like” Discord channel (5 mins) 
+- Draft doc on how to become a WG
+
+#### Keywords/tags:
+- topics covered: Getting Started, Continuous Onboarding Report, Ideas and Improvements, Onboarding session slides video, Mins token, Onboarding Workgroup as a first stop, Onboarding, Onboarding WG, Introductions Discord channel, Video Script, Town Hall update
+- emotions: Friendly, funny , Welcoming, Deliberative, Discursive, new ideas, new people present, took place on Discord, progress made, long agenda, everyone contributing ideas
