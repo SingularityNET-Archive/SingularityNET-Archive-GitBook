@@ -269,6 +269,39 @@ Rojo \[facilitator] \[documenter], Agus, Peter, Slysyl, Lilycupcake.
 
 ### Writers' Workgroup
 
-No summary given
+#### Present: Slate \[documenter], Mikasa, Kenichi \[facilitator], Peter, CJfrankie
+
+#### Recap: Tasks done
+
+Inside SNET June/July Edition [https://app.dework.xyz/singularitynet-ambas/writers-work-group?taskId=d73b7506-1dff-4c3b-b2b5-ef0a24f00083](https://app.dework.xyz/singularitynet-ambas/writers-work-group?taskId=d73b7506-1dff-4c3b-b2b5-ef0a24f00083)
+
+Dr Ben Goertzel: AGI, SingularityNET, Blockchain, The Dangers of Centralized AI Development [https://app.dework.xyz/singularitynet-ambas/writers-work-group?taskId=574809dc-ba63-4465-abf5-fa06930652fa](https://app.dework.xyz/singularitynet-ambas/writers-work-group?taskId=574809dc-ba63-4465-abf5-fa06930652fa)
+
+#### Meeting summary:
+
+We reviewed the published articles and updates from _Inside SingularityNET_ for the months of June and July. It was noted that several tasks had been successfully completed.
+
+The main focus of the meeting was the review of the recently written "Inside SNET June/July Edition" article. All attendees were assigned to read the article, and it received positive feedback from everyone.
+
+Updates on the Ambassador Program graphics were discussed, and the submissions were made by the assignees. The graphics will be shared on Discord for further review and feedback. Kenichi, the workgroup lead, will reach out to the assignees to coordinate the process.
+
+The creation of the Mindplex account was announced, which will serve as a platform for community-based content. SingularityNET's internal activities will be posted on Medium, and highlights will be shared through Twitter threads.
+
+**\[decision]** It was decided that a new article to be published would be about the content covered in Townhall #52 [https://youtu.be/20UCKc1EZXg?si=S\_6vvtBERSSnZrKv](https://youtu.be/20UCKc1EZXg?si=S\_6vvtBERSSnZrKv) re proposed Ambassador budget structure for Q3 2023, given its abundance of valuable information. Additionally, tasks were assigned to explore specific topics from the Town Hall for further articles.
+
+Considering the substantial amount of available content, there were slight delays in completing some article tasks. Kenichi encouraged everyone to share any article suggestions they might have.
+
+**\[decision]** Kenichi proposed that Slate combine his two article topics, to which Slate agreed. This consolidation aims to streamline the content and make it more effective.
+
+There was an acknowledgement that videos covering AGI topics and discussions involve more effort when being transformed into articles. The compensation for such articles was discussed, and the possibility of holding a meeting to collectively work on this content was suggested to make the process easier.
+
+#### Action Items:
+
+\[action] Review and provide feedback on Ambassador Program graphics submissions on Discord.\
+\[action] Kenichi to reach out to the assignees for further coordination on the Ambassador Program graphics.\
+\[action] Create an article based on the content of Townhall #52.\
+\[action] Assign specific tasks to members for creating articles on selected topics from the town hall.\
+\[action] Initiate discussions on creating an onboarding thread.\
+\[action] Combine Slate's two article topics as agreed upon.
 
 ***
