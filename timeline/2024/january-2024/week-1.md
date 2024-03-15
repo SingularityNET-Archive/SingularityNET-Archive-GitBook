@@ -14,6 +14,37 @@ description: Mon 1st Jan - Sun 7th Jan 2024
 
 ## Friday 5th January 2024
 
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, cjfrankie, Mikasa, LadyTempestt
+#### Narrative:
+The meeting started with a warm greeting from the Writer Workgroup Lead - Kenichi. He wished all the Scribblers a Happy New Year and a fruitful year ahead.
+
+Lady Tempestt submitted her draft Cogito article from last year - “Customer Centric AI Solutions.” https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing The meeting agreed it had a nice read.
+
+The Ambassador Twitter account https://twitter.com/SNET_Ambassador is growing rapidly; we are on our way to 1,000 followers.
+
+The BGI 2024 Summit Kickoff has begun. This summit aims to explore the positive impact of AI on various domains. It promises a series of immersive challenges and interactive experiences. 
+
+The focus of Writers' WorkGroup for the month of January will be decided in our next meeting. 
+
+Cj Frankie proposed an article: "The transformative role of AI in consumer electronics."
+
+
+
+#### Decision Items:
+- Lady Tempestt will complete her draft article for Cogito, “Customer Centric AI Solutions.” https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing 
+  - [effect] affectsOnlyThisWorkgroup
+- Article topic by Cj Frankie was agreed:  "The transformative role of AI in consumer electronics."
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: Cogito, Points system, BGI 2024 summit, New Year
+
+
 ## Saturday 6th January 2024
 
 ### <mark style="color:green;">Gamers' Guild</mark>
@@ -74,4 +105,3 @@ Slate concluded the meeting by wishing everyone well and expressing excitement f
 \[action] Initiate a review of the Longevity app in a future meeting.
 
 ***
-
