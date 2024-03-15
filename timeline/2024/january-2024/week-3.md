@@ -176,6 +176,7 @@ Funny, Contributive, Thoughtful, Interesting.
 
 ## Friday 19th January 2024
 
+
 ### <mark style="color:green;">Video WorkGroup</mark>
 
 #### Present:&#x20;
@@ -230,6 +231,12 @@ Sources:\
 [https://snet-ambassadors.gitbook.io/home/workgroups/video-workgroup](https://snet-ambassadors.gitbook.io/home/workgroups/video-workgroup)
 
 ***
+
+
+### Writers Workgroup
+
+Meeting was cancelled 
+
 
 ## Saturday 20th January 2024
 
