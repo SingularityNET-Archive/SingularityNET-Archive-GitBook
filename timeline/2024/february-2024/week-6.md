@@ -293,6 +293,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -321,6 +322,48 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, video suggestion sheet
 - emotions: Friendly, Collaborative, Thoughtful , speedy 
+
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Mikasa [documenter], Kenichi, Mikasa, cjfrankie, devon, Gorga Siagian, hogantuso, LadyTempestt, Precious Asuquo, Slate
+- Working Docs:
+  - [Content editing test](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Writers' WG budget proposal for Q1 2024](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing)
+
+#### Narrative:
+Kenichi suggested  the tool Wudpecker (https://www.wudpecker.io/) to record our meetings for more accuracy.
+
+Dework updates: Slate gave an update on the Cogito article "Enhancing Security: The Role of Machine Learning in Risk Mitigation".
+
+Cj Frankie gave an update on his task on Dework; he’ll have a submission by Saturday (10th Feb) evening.
+
+There were corrections to be made to a few articles written by members of the workgroup.
+
+LadyTempestt raised questions about the points system task on Dework. Kenichi explained that the points system is used to track the efforts and contribution to the workgroup, not the time contributed to completing tasks.
+
+Kenichi made awareness regarding the Substack newsletter as a recurring task. The substack newsletter is an article/blogpost containing all the guilds' and workgroups' meetings summary for the week. There was discussion on ways to assign Scribblers to the Substack newsletter task.
+
+Onboarding new members: Precious was given introduction into the workgroup, and the test was also shared. Good luck, Precious!
+
+
+#### Decision Items:
+- the note-taker ai from Wudpecker (https://www.wudpecker.io/) will be integrated into our next meeting
+  - [rationale] To inprove accuracy
+  - [effect] affectsOnlyThisWorkgroup
+- For the Substack task, the Scribbler assigned for the week will assign a different Scribbler for the following week.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi will send the WG's budget proposal to Treasury today: this funding will be used to incentivize our points system and the weekly trivia session - Done. See https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing [assignee] Kenichi [due] 2 February 2024 [status] done
+- [action] Cj Frankie will make a submission for his task on Dework before Monday 12th Feb [assignee] cjfrankie  [due] 12 February 2024 [status] todo
+- [action] Lady Tempestt and Slate will make proper corrections to their articles. [assignee] LadyTempestt, Slate [due] 16 February 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Substack, new people, new members, corrections, points system, Dework, Onboarding, cohort edit session, Wudpecker, AI summaries, useful documentation, Meeting Summaries, Cogito, security, machine learning, risk mitigation, tracking, contribution
+- emotions: calm, interactive
 
 
 ## Saturday 10th February 2024
