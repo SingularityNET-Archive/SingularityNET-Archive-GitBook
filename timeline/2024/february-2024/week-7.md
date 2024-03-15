@@ -173,6 +173,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 ## Friday 16th February 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -224,6 +225,49 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Marketing, Engagement, Roles, Task Assignment, Name change
 - emotions: Friendly, speedy , The meeting was quick and progressive
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, cjfrankie, Slate, Mikasa, devon, Franklyn
+- Working Docs:
+  - [Content editing test](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Writers' WG budget proposal for Q1 2024](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing)
+  - [SingularityNET Ambassadors on Medium](https://medium.com/@singularitynetambassadors)
+
+#### Narrative:
+Good news! Our Medium page has officially become a publication. After a few short weeks, Scribblers will be able to upload/add articles to draft for a review before they’re published. https://medium.com/@singularitynetambassadors
+
+Slate gave us a quick update on his tasks.
+ 
+Kenichi briefly shared more insights into how the point system works. Points are used to record tasks that were not otherwise recorded/assigned. Scribblers could earn more points via engagement, meeting note-taking, and much more! Our current points systems pool will serve us till March 2024.
+
+Kenichi shared more insights into the “Scribe" role.
+
+There was a quick onboarding session for Franklyn Okeke. He has all the resources and we’re looking forward to seeing his work!
+
+Cj Frankie suggested an article: "Leveling up: Unleashing the Power of AI in the Gaming Industry".
+
+New people - we note that we are still looking out for Duke's and Gorga’s submissions of the test to join the WorkGroup.
+
+
+
+#### Decision Items:
+- Slate suggested that we have a circle of editors that will work on the editing side of things 
+  - [rationale] to ease our workflow 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to setup our first Medium publication article  [assignee] Kenichi [due] 23 February 2024 [status] todo
+- [action] Kenichi to reach out to the graphics teams, to set up the Writers' WG's Medium publication so it aligns with our brand [assignee] Kenichi [due] 23 February 2024 [status] todo
+- [action] Cj Frankie to reach out to Lili  (Cogito marketing person) [assignee] cjfrankie  [due] 23 February 2024 [status] todo
+- [action] Kenichi to draft a document explaining what the “Scribe" role really means  [assignee] Kenichi [due] 23 February 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Points system, Medium publications, Scribe role, Scribe, Marketing, brand, gaming, Onboarding, new people, gaming industry, editors, editing, branding, brand identity
+- emotions: quiet
+
+
 ## Saturday 17th February 2024
 
 ### Gamers Guild
