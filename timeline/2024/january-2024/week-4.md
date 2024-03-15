@@ -428,6 +428,7 @@ This bi-weekly meeting is an initiative led by the SingularityET Ambassador comm
 
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -453,5 +454,37 @@ This bi-weekly meeting is an initiative led by the SingularityET Ambassador comm
 - topics covered: BGI, social media management, Q4 report, Q1 projections, Ambassador Program marketing
 - emotions: Friendly
 
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, cjfrankie, Mikasa, devon
+#### Narrative:
+Kenichi shared his screen for the Scribblers to see the milestones the workgroup has achieved in the last couple of months.
+
+We’re growing indeed and it’s a thing of joy to share it with the Scribblers who have been part of this remarkable journey. 
+
+One of the articles that piqued the interest of many individuals is the article written by our very own Mikasa: “AI Cryptography: Enhancing Security and Privacy in the Digital Age."
+
+Good news: our first ever points system will be up and running by the end of this month; scribblers will be rewarded with points as they contribute along the way! 
+
+Buildup to the BGI Event is still ongoing. Scribblers are encouraged to tune in; they can also find interesting article suggestions while participating.
+
+Kenichi shared an article suggestion from the CEO of Rejuve.ai, "Using AI and blockchain to target aging", and some interesting updates from Cogito, including a forthcoming Twitter space this Mon 29th Jan with the CEO, Cloris Chen https://twitter.com/CogitoProtocol/status/1750443374304239674
+
+Cjfrankie shared some article suggestions: "AI and Longevity: Unlocking the secrets to prolonged Human Lifespan" and "Digital Dynamo: How AI-Powered Marketing Strategies Catapult Startups to Success".
+
+Our Medium page is growing exponentially. Our goal is to reach the milestone of 1k reads by the end of February 2024.
+
+
+
+#### Decision Items:
+- We set a goal to reach 1k reads  on Medium by the end of February 2024.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: Cogito, Points system, BGI 2024 summit, Zealy, Rejuve, Longevity, medium, AI-powered marketing, Marketing, Medium milestones, Beneficial AGI, Weekly updates
+- emotions: quiet
 
 ## Saturday 27th January 2024
