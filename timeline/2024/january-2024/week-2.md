@@ -286,6 +286,7 @@ We had quite a tension because there were several opposing opinions on how shoul
 
 ## Friday 12th January 2024
 
+
 ### <mark style="color:green;">Video WorkGroup</mark>
 
 #### Present:&#x20;
@@ -337,5 +338,53 @@ Quarterly budget on Ambassador GitBook: [https://snet-ambassadors.gitbook.io/hom
 Fun, Exciting, Collaborative, Productive
 
 ***
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Slate [documenter], Kenichi, LadyTempestt, Slate, devon, cjfrankie, Peter, CardanoSpot, Gorga Siagian
+- Working Docs:
+  - [Cogito article  “Customers Centric AI Solutions" by LadyTempestt](https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing)
+
+#### Narrative:
+Prospective new member Gorga Siagian joined the meeting, expressing interest in joining the writers workgroup. Kenichi guided Gorga through the onboarding process, providing detailed information.
+
+Kenichi provided positive feedback on the current performance of the Scribblers. Encouragement to increase the number of scribblers due to consistent levels for the past three months. Noted increased interest from community members to join the writers' workgroup.
+
+Collaboration and new ideas were encouraged among the team.
+
+The team expressed the need for more content on Twitter. Suggestions and contributions from members are welcome.
+
+With one more article pending publication, suggestions for additional articles were sought from the team.
+
+Lady Tempest was tasked with completing her “Customer-Centric AI Solutions” article for Cogito and presenting it to Sandra in the upcoming meeting.
+Kenichi emphasized that the system of writing articles for Cogito is almost ready to go, highlighting progress.
+
+There was discussion on implementing a content calendar for scheduling Twitter posts and tracking engagement.
+
+
+#### Decision Items:
+- Kenichi suggested incorporating sports-related content
+  - [rationale]  To diversify and balance the focus, moving beyond articles solely about AI.
+  - [effect] affectsOnlyThisWorkgroup
+- Incorporate more graphics in articles
+  - [rationale] To enhance articles with visual appeal and engagement.
+  - [effect] affectsOnlyThisWorkgroup
+- Points system: points will be added for biweekly sessions and trivia sessions
+  - [rationale] Emphasizing the importance of recognition and reward.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Lady Tempestt to complete her “Customer-Centric AI Solutions” article for Cogito and present it to Sandra from Cogito in the next meeting. [assignee] LadyTempestt [due] 19 January 2024 [status] todo
+- [action] Lady Tempestt to provide the resources for her upcoming “Customer-Centric AI Solutions” article. [assignee] LadyTempestt [due] 19 January 2024 [status] todo
+- [action] Slate will be writing on "Usage of AI for Blockchain Transaction Detection." [assignee] Slate [due] 19 January 2024 [status] todo
+- [action] CjFrankie will be writing on "Unlocking Real Estate Investment Potential with Artificial Intelligence" [assignee] cjfrankie  [due] 19 January 2024 [status] todo
+- [action] LadyTempestt will be writing on "AI's Impact on Journalism and Intellectual Property" (topic proposed by CjFrankie) [assignee] LadyTempestt [due] 19 January 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Cogito, Points system, Journalism, Intellectual property, Real estate, Investment, Blockchain transaction detection, Customer-centric, Twitter, Graphics, sports, trivia sessions, content calendar, new member, Rewards, Recognition, Onboarding, Collaboration, New ideas, visual, Engagement
+- emotions: Ambitious, Building, New members
+
 
 ## Saturday 13th January 2024
