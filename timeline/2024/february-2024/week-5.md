@@ -10,6 +10,7 @@ description: Mon 29th Jan - Sun 4th Feb
 
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -48,6 +49,52 @@ description: Mon 29th Jan - Sun 4th Feb
 #### Keywords/tags:
 - topics covered: BGI, social media management, Q4 report, Ambassador Program marketing, Task Assignment
 - emotions: Friendly, Collaborative
+
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, cjfrankie, Peter, Mikasa, Emmanuel, duke peter, LadyTempestt, Gorga Siagian, esewilliams, Veralyn Williams
+- Working Docs:
+  - [Content editing test](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Customer-centric AI Solutions: article for Cogito by LadyTempestt](https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing)
+
+#### Narrative:
+We began with a warm welcome from our workgroup lead, Kenichi.
+
+Lady Tempestt and Mikasa shared a quick update on their tasks.
+
+Sandra from Cogito has sent two drafts: 
+1) Predictive Analysis and 
+2) Trading Strategies 
+The briefs for these will be sent out today, hopefully. The rewards will be sent to the SNET treasury once the four drafts are completed.
+
+Our first Cogito article, “Customer-Centric AI Solutions” https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing, will be going out soon! Kudos to Lady Tempestt for the awesome write up. 
+
+Potential new member Gorga Siagian has completed her onboarding test and it’s currently under review.
+
+We also introduced Duke Peter and Veralyn Williams to the writers workgroup, we hope to see more of them! 
+
+
+
+#### Decision Items:
+- We want to revive our Substack, for weekly events (e.g. Town Hall updates etc), and to send out emails to community members. 
+  - [rationale] To keep community members updated on happenings within the ecosystem
+  - [effect] affectsOnlyThisWorkgroup
+- We set a goal that by the end of Q1 2024, we want to onboard 5 new Scribblers
+  - [effect] affectsOnlyThisWorkgroup
+- We set a goal to publish 10 articles on our Medium page each passing month 
+  - [effect] affectsOnlyThisWorkgroup
+- We want to set up a Notion.so account and also integrate it with the SNET’s Gitbook
+  - [rationale] To make onboarding seamless as possible, and help new members to easily understand what this workgroup is about.
+
+#### Action Items:
+- [action] Kenichi will send the WG's budget proposal to Treasury today: this funding will be used to incentivize our points system and the weekly trivia session [assignee] Kenichi [due] 2 February 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Substack, Pair review, Editing Framework, Budget , Budget proposal, Cogito, Cogito articles, Notion, Zealy, Onboarding, GitBook, Ambassador GitBook, new people, new members, predictive analysis, trading strategies
+- emotions: insightful, informative
 
 
 ## Saturday 3rd February 2024
