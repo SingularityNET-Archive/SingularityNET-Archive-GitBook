@@ -1,5 +1,32 @@
 # Week 11
 
+## Friday 15th March 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], hogantuso [documenter], lord kizzy, malik, Slate, Rojo, hogantuso, devon, Zalfred
+- Purpose: The meeting focused on task updates, Strategy for video content production, existing tasks.
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Devon provided updates on video production tasks, including delays and progress made.
+- Lord kizzy the social media manager gave weekly updates for Video content engagement.
+- Discussions on the pending long video tasks.
+- Discussions on two new workgroup members
+
+#### Action Items:
+- [action] Make video clips from BGI content. [assignee] everyone assigned  [due] 31 March 2024 [status] todo
+- [action] Invite the new member to the workgroup  [assignee] devon [due] 12 March 2024 [status] todo
+- [action]  Interview Snippets at BGI [assignee] Judith [due] 15 March 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics
+- emotions: Friendly, Thoughtful , speedy , Casual, productive
+
+
 ## Saturday 16th March 2024
 
 ### Gamers Guild
