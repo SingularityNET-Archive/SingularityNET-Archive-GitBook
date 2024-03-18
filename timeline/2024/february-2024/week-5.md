@@ -6,6 +6,52 @@ description: Mon 29th Jan - Sun 4th Feb
 
 ## Thursday 1st February 2024
 
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], cjfrankie  [documenter], lord kizzy, cjfrankie, Peter, Vanessa, SucrenSpice, duke peter, ShankarUdaniya, Guillermo, Kenichi, Oku Enyong
+- Working Docs:
+  - [MiroBoard](https://miro.com/app/board/uXjVM5jyehQ=/)
+  - [Announcing Onboarding Sssion](https://miro.com/app/board/uXjVM5jyehQ=/)
+  - [Onboarding session slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+-  Differentiating WGs from Guilds - should they all have same name?
+-  The new Welcome Video that needs to be made is not ready yet
+- Ambassador Gitbook  - does Onboarding want to use the "workgroups" section at the end to collate our docs, as Video WG does?
+-  Next Onboarding open session
+- How a workgroup becomes official
+
+#### Decision Items:
+- Next Onboarding Session will be on 8th Feb 2024. We will record it, approach Video WG to create an edit of the video, and Peter will take notes of the Q&A section
+  - [rationale] We aim to do at least 1 of these sessions in a quarter.  We don't need notes of the main body of the session, since it is in the slides - only need notes of the Q&A in case there's anything that should be added to the FAQ section in Getting Started channel
+  - [effect] mayAffectOtherPeople
+- Given the current AGIX price rise, we don't need to adjust budget to account for the bits of new work we are doing - what we already have will cover it
+- Gamers Guild shouldn’t be added to the list of WGs in the Getting Started channel until there’s an agreed process for how a WG becomes official.
+  - [effect] mayAffectOtherPeople
+- Guillermo and the R&D Guild are working on a skills database - this may cross over with Onboarding's ideas, so we will keep aware of each other's work and look for ways to collaborate
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Vanessa to draft a doc on how new workgroups could be approved - base it on what Tevo already developed in Process Guild, and check it with Slate as facilitator of Gamers Guild to see if it would work [assignee] Vanessa [due] 15 February 2024 [status] in progress
+- [action] Guillermo to keep us posted on the progress of their skills database [assignee] Guillermo [due] 8 February 2024 [status] in progress
+- [action] Lady Tempestt will share a link to her doc “How WGs can improve continuous onboarding”  [assignee] LadyTempestt [due] 8 February 2024 [status] todo
+- [action] Sucre to reach out to Rojo (video WG lead)  re: editing the video of our next onboarding session  [assignee] SucrenSpice [due] 5 February 2024 [status] todo
+- [action] Peter to give Duke the onboarding WG tag in Discord, as he has attended 3 consecutive Onboarding meetings [assignee] Peter [due] 8 February 2024 [status] todo
+
+#### To carry over for next meeting:
+- Lord Kizzy's report on the Continuous Onboarding research we did at the end of 2023
+- Lady Tempestt's doc on how WGs can improve continuous onboarding, based on the same research
+- How WGs should be ratified
+
+#### Keywords/tags:
+- topics covered: Ambassador GitBook, Quarterly Budget, Onboarding, WGs vs Guilds, Continuous Onboarding, Continuous Onboarding Report, AGIX price, Process for agreeing new workgroups, R&D guild, Collaboration, skills database, new member, Onboarding session slides video, Onboarding Slides
+- emotions: Collaborative, Deliberative, insightful
+
+
 ## Friday 2nd February 2024
 
 
