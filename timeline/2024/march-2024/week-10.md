@@ -41,6 +41,59 @@ description: 26th February 2024 to 3rd March 2024
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Monthly analytics, video topics, Roles
 - emotions: Friendly, Thoughtful , entertaining
+## Wednesday 6th March 2024
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen, Vanessa [documenter], André, Vanessa, Stephen, Vasu, Kenichi, duke peter, esewilliams, Onyeka
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Meeting Issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/104)
+
+#### Decision Items:
+- On meeting publicity: we agreed that if this task continues in Q2, it should probably shift towards DMing those involved in the WG (perhaps even reminding them of their action items?) rather than general publicity
+  - [rationale] New people are coming more because they are doing bounties and getting involved with the work of the group, than becaue they are responding to publicity. But Slate DMd people this week, and people said they liked it and found it useful
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed on doing a Town Hall presentation to share tips and tricks on making good meeting summaries. Provisional date 19th March, subject to checking with Peter. Vanessa to create slides, Ese to deliver, and Onyeka to facilitate Q&A.
+  - [effect] mayAffectOtherPeople
+- We will offer bounties for people to use the Archives to create short (90-second) reports at TH on what WGs have done this quarter, as a supplement to the WGs' own reports. Subject to agreement from WG leads, provisional date TH on 26th March
+  - [rationale] It's a good way to get people using the Archives and becoming aware of other WGs' work.
+  - [effect] mayAffectOtherPeople
+- We agreed that the "correction and maintenance of monthly reocrds" work will cover June to end of August this quarter; Sept-Dec will be done in Q2
+  - [effect] affectsOnlyThisWorkgroup
+- Ubio has made a short video to demonstrate his work on AI application of (human-generated) tags to the corpus - all agreed it was great
+  - [effect] affectsOnlyThisWorkgroup
+- Kenichi gave a backlog of Writers' Workgroup summaries from 2023 and 2024 - we agreed that Vanessa will add them to the achives (manually for the 2023 ones, and via the tool for the later ones); and  Kenichi will raise it at a writers' WG meeting and find someone to do it for the future
+  - [rationale] Because once you have backlog that has mounted up, it can feel exhausting to clear it - so easier if Vanessa does it
+  - [effect] mayAffectOtherPeople
+- We agreed Duke, Onyeka and Ese will timestamp the BGI video material (subject to verifying how many videos there are). We'll use the going rate of $15 per video. Also agreed that since Ese has not done it before, Duke will meet her to explain how it's done; and agreed that Onyeka will upload the timestamps to the YouTube account since he has access to it.
+  - [rationale] It's important archival material, and we don't think any other WG has planned to do it.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Look further into what should be included in Governance GitBook update, and bring to next meeting - Basically done, although still waiting for some input from Supervisory Council - see relevant issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/23 [assignee] Vanessa [due] 6 March 2024 [status] done
+- [action] Look at how to ensure that Meeting Summary tool issues at https://archive-oracle.netlify.app/issues get referred to Onyeka where needed - done, Onyeka's contact has been added to the issues log [assignee] André [due] 6 March 2024 [status] done
+- [action] Add a feature request in the Tool Issues, for the addition of a comment section, to enable members of a workgroup to comment on a summary rather than creating a whole new summary with suggested changes. Need to ensure that comments are separate and don't get exported. [assignee] lord kizzy [due] 20 March 2024 [status] done
+- [action] André to chat to Ubio about his tool dev work - done, Ubio has added updates to the relevant Issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/115 [assignee] André [due] 6 March 2024 [status] done
+- [action] Google Analytics has been set up on the Archives GitBook - André will check in 48 hrs (Friday 23rd) that it's working - Done. It is working [assignee] André [due] 23 February 2024 [status] done
+- [action] Run a brief session sometime before the next meeting, to familiarise new people with how a GitHub board works - Done, session took place on Mon 4th March and video is on YouTube [assignee] Stephen [due] 6 March 2024 [status] done
+- [action] Vanessa and Andre to firm up what the template for the backlog meetings needs to look like [assignee] André, Vanessa [due] 20 March 2024 [status] in progress
+- [action] Stephen to check why SucrenSpice doesn't seem to have permissions to merge changes on Ambassador GitBook [assignee] Stephen [due] 28 February 2024 [status] in progress
+- [action] Vanessa to add Town Hall recordings from Jan and Feb to the Archive using the new template for them [assignee] Vanessa [due] 28 February 2024 [status] done
+- [action] Duke, Onyeka and Ese to timestamp the BGI video material, subject to verifying how many videos there are [assignee] duke peter, esewilliams, lord kizzy [due] 20 March 2024 [status] in progress
+- [action] Duke to create a video walkthru of how to use the GitHub Board, based on Stephen's training session - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116 [assignee] duke peter [due] 20 March 2024 [status] in progress
+- [action] Vanessa to add Writers' WG's backlog of summaries to the Archives [assignee] Vanessa [due] 19 March 2024 [status] todo
+- [action] Vanessa, Ese and Onyeka to devise a TH session on tips and tricks for good meeting summaries - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/106 [assignee] Vanessa, esewilliams, lord kizzy [due] 19 March 2024 [status] todo
+- [action] Vanessa to post bounties for people to use the Archives to create quick TH reports on what WGs have been doing this quarter - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/107 [assignee] Vanessa [due] 15 March 2024 [status] todo
+- [action] Vanessa to contact Esther on Monday re: next steps for knowledge management work with SC [assignee] Vanessa [due] 11 March 2024 [status] in progress
+- [action] Vanessa to bring a finished draft of the Q1 quarterly report to the next meeting for sign-off [assignee] Vanessa [due] 20 March 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, Town Hall, GitHub training, GitHub video walkthrough, Q1 quarterly report, BGI 2024 summit, documenting BGI, Supervisory Council, encouraging use of Archives, bounties, Writers WorkGroup, timestamps
+- emotions: new ideas, outward-looking, engaging new people, focused, inventive, ideas for engagement
+
+
 ## Thursday 7th March 2024
 
 ### Onboarding Workgroup
