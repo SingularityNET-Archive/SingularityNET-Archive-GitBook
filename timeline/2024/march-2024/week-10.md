@@ -240,3 +240,31 @@ Advertise that the next onboarding session is on 16th May.
 #### Keywords/tags:
 - topics covered: Miro Board, Budget , Quarter 1, Quarterly Budget Calculator, Surplus, Exchange rates, Reporting
 - how the meeting felt: small, not many people spoke, no decisions, duologue, collating ideas
+## Friday 8th March 2024
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: Judith [facilitator], lord kizzy [documenter], Kenichi, Judith, lord kizzy, Duke, Slate, Franklyn, Clement Umoh, Oluwaseun Gbiri
+- Purpose: Updates on the Zealy Amplification System
+- Working Docs:
+  - [Marketing Guild Tasks](https://docs.google.com/document/d/1ktWxTMqnu-srw7u1EsIU81L37E7agUm8HHesUEZ76wU/edit)
+  - [AMBASSADORS PROGRAM EXPLAINER](https://docs.google.com/document/d/1QzM6-3fsR5ZBBp3FQ8LKFT_rR34gM5CLmiZIUZRsA9k/edit?usp=sharing)
+  - [SNET Jam Purpose](https://jamboard.google.com/d/1jJ0qgZkbjaXVpVNL1EWExYI9w81NEJqBCLbNG9psYao/viewer?f=0&pli=1)
+
+#### Discussion Points:
+- Explanation on how tasks are assigned in the Guild: once you are in the meeting in which tasks are being assigned, express your interest in where you feel you can contribute and the task will be assigned to you
+- Discussions on Zealy updates by Kenichii
+
+#### Decision Items:
+- The Zealy program could have a module for community engagement, like a separate Discord server for community posts
+  - [effect] mayAffectOtherPeople
+- There will be a BETA stage for the Zealy platform before its actual launch
+  - [effect] mayAffectOtherPeople
+- The Zealy will be using a tier system for rewards and only top participants will be rewarded 
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: Marketing, Engagement, Rewards, Zealy, Tasks
+- emotions: Friendly, Casual, Thoughtful , speedy 
+- other: There will be rewards for people who can provide quality quest for the Zealy platform
