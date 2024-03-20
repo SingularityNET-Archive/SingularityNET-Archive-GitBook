@@ -242,6 +242,7 @@ Advertise that the next onboarding session is on 16th May.
 - how the meeting felt: small, not many people spoke, no decisions, duologue, collating ideas
 ## Friday 8th March 2024
 
+
 ### Marketing Guild
 
 - Type of meeting: Weekly
@@ -268,3 +269,42 @@ Advertise that the next onboarding session is on 16th May.
 - topics covered: Marketing, Engagement, Rewards, Zealy, Tasks
 - emotions: Friendly, Casual, Thoughtful , speedy 
 - other: There will be rewards for people who can provide quality quest for the Zealy platform
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], lord kizzy [documenter], lord kizzy, malik, Slate, Prime, lilycupcake, Rojo, hogantuso, osmium, devon, hufiumer69
+- Purpose: The meeting focused on task updates, Strategy for video content production, existing tasks.
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Devon provided updates on video production tasks, including delays and progress made.
+- Social media manager gave weekly updates for video content engagement.
+- Rojo proposed to make more video clips from BGI content available on youtube.
+- Discussions on the pending long video tasks.
+- Discussions on ways to suggest topics for videos and review of the video created by Osmium
+- Zealy platform updates
+- Video update from OEP
+
+#### Decision Items:
+- There was a decision to introduce topics in the meetings, and votes should be in the video workgroup channel 
+  - [rationale] this was done due to the fact that some members aren't usually in the meetings, so it's better the votes are done in the video workgroup channel 
+  - [effect] affectsOnlyThisWorkgroup
+- Voting on a video only lasts for 24 hrs
+  - [rationale] this is to hasten the process of voting
+  - [effect] affectsOnlyThisWorkgroup
+- The task manager for the month is to reach out to members once their video gets accepted
+  - [rationale] this is to know whom they intend to partner with on the video
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Make video clips from BGI content. [assignee] everyone assigned  [due] 31 March 2024 [status] todo
+- [action] Extension of deadline for long videos [assignee] devon [due] 12 March 2024 [status] todo
+- [action] Communication with judith on her approved video [assignee] lord kizzy [due] 15 March 2024 [status] todo
+- [action] Partnership with OEP on an HYPERCYCLE video [assignee] osmium [due] 15 March 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics, Roles, Hypercycle
+- emotions: Friendly, Thoughtful , speedy , Casual
