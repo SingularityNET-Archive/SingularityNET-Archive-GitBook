@@ -43,6 +43,7 @@ description: 26th February 2024 to 3rd March 2024
 - emotions: Friendly, Thoughtful , entertaining
 ## Wednesday 6th March 2024
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -92,6 +93,49 @@ description: 26th February 2024 to 3rd March 2024
 #### Keywords/tags:
 - topics covered: publicity, meeting summary tool, Tool Development, AI tooling, Governance GitBook, Town Hall, GitHub training, GitHub video walkthrough, Q1 quarterly report, BGI 2024 summit, documenting BGI, Supervisory Council, encouraging use of Archives, bounties, Writers WorkGroup, timestamps
 - emotions: new ideas, outward-looking, engaging new people, focused, inventive, ideas for engagement
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], malik, Slate, osmium, duke peter, Headelf, WaKa, Will Tatz
+- Purpose: Hypercycle video, Ambassador Program progress, Budget, Shifting focus, Rotating facilitation, Cogito infographic, Spinoffs, ACP, Quiz creation
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Reviewed and approved Osmium's hypercycle video.
+- Headelf's discussion with a SingularityNet funder about the Ambassador Program progress.
+- Q2 Budget Discussion
+
+#### Discussion Points:
+- Headelf expressed gratitude to Slate for hosting and managing in his absence.
+- Next quarter budget discussion planned for the next meeting.
+- Headelf's announcement of shifting focus to the strategy guild.
+- Proposal for implementing a rotating facilitation model, similar to the video workgroup.
+- Reviewed and approved Duke Peter's infographic on Cogito.
+- Slate mentioned the completion of most spinoffs, with only 2-3 remaining.
+- Discussion on Kenichi's proposal to introduce slide decks in the Ambassador Certification Program (ACP), with a decision to maintain the current process to avoid delays.
+- Headelf proposed shifting towards the creation of quizzes as projects wrap up.
+- Discussion on the fairness of a $10 price per quiz creation.
+- Positive feedback on the usefulness of infographics during Headelf's visit to Panama.
+
+#### Decision Items:
+- Approved Osmium's hypercycle video.
+  - [effect] affectsOnlyThisWorkgroup
+- Approved Duke Peter's infographic on Cogito.
+  - [effect] affectsOnlyThisWorkgroup
+- Maintained the current process for the ACP, rejecting the proposal to introduce slide decks.
+
+#### Action Items:
+- [action] Next quarter budget discussion in the upcoming meeting. [assignee] everyone assigned  [due] 12 March 2024 [status] in progress
+- [action] Implementation of a rotating facilitation model. [assignee] Slate [due] 11 March 2024 [status] in progress
+- [action] Consideration of the $10 price per quiz creation. [assignee] everyone assigned  [due] 12 March 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: ACP, infographic, Google Classroom, slide decks, review, Cogito, Budget, Q2 Budget, Hypercycle, slide decks, facilitation, quiz, $10, pay, rewards, fairness, 
+- emotions: productive,  Collaborative, Businesslike.
 
 
 ## Thursday 7th March 2024
