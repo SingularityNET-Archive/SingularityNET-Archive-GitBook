@@ -140,6 +140,7 @@ description: 26th February 2024 to 3rd March 2024
 
 ## Thursday 7th March 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -209,3 +210,33 @@ Advertise that the next onboarding session is on 16th May.
 #### Keywords/tags:
 - topics covered: Getting Started, Mins token, Onboarding Workgroup as a first stop, Video Script, Town Hall update, Q2 budget, Infographics, Education material, Collaboration, Introductions Discord channel, "which WG should I join?" channel, onboarding journeys, Gamers Guild, Roblox, new Welcome video, infographic, Quarterly Report
 - emotions: Friendly, funny , Deliberative, Discursive, long agenda, in depth, differing opinions, good to hear differing opinions, people were confident
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: André [facilitator], André [documenter], Vanessa, Will Tatz, André, duke peter, SucrenSpice, Clement Umoh
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764574789806585&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quaterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing)
+
+#### Agenda item 1 - Ambassador Q1 Budget Request to fit into Q1 Budget limit - [carry over]
+
+#### Discussion Points:
+- Discussed topics to bring over to next meeting when everyone is back
+- Create budgets in AGIX or USD
+- Limits on the Core Costs
+- What are Core Costs
+- Reporting on budgets
+- How do we do reporting on proposals
+- How do we handle workgroups that underspent on proposals and can the unspent budget be secured for next quarter
+- Renewel of Ambassador budget 20th May and will the quarterly amount change
+- If the price rises, should the rates go up for tasks
+- Can workgroups bid on some of the surplus
+
+#### Keywords/tags:
+- topics covered: Miro Board, Budget , Quarter 1, Quarterly Budget Calculator, Surplus, Exchange rates, Reporting
+- how the meeting felt: small, not many people spoke, no decisions, duologue, collating ideas
