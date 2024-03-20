@@ -50,6 +50,7 @@
 
 ## Friday 15th March 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -73,6 +74,34 @@
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics
 - emotions: Friendly, Thoughtful , speedy , Casual, productive
+
+
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: Judith [facilitator], lord kizzy [documenter], Judith, lord kizzy, Peter, Mikasa
+- Purpose: New Group for the Foundation.
+- Working Docs:
+  - [Marketing Guild Tasks](https://docs.google.com/document/d/1ktWxTMqnu-srw7u1EsIU81L37E7agUm8HHesUEZ76wU/edit)
+  - [AMBASSADORS PROGRAM EXPLAINER](https://docs.google.com/document/d/1QzM6-3fsR5ZBBp3FQ8LKFT_rR34gM5CLmiZIUZRsA9k/edit?usp=sharing)
+  - [SNET Jam Purpose](https://jamboard.google.com/d/1jJ0qgZkbjaXVpVNL1EWExYI9w81NEJqBCLbNG9psYao/viewer?f=0&pli=1)
+
+#### Discussion Points:
+- Discussions on The New Group for the Foundation
+- Discussions on Engagement strategy
+
+#### Decision Items:
+- Creation of a group that works closely with the Foundation
+  - [rationale] The foundation doesn't see any value of the Ambassadors program to them and will need a new group that will help with community engagement
+  - [effect] mayAffectOtherPeople
+- We decided to discuss the conversation in the next Town Hall
+  - [rationale] This was due to the fact that there weren't many participants in the meeting
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: community engagement, Value of Ambassador Program
+- emotions: Casual, Thoughtful, speedy 
 
 
 ## Saturday 16th March 2024
