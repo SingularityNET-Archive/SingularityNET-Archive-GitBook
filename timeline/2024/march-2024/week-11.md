@@ -2,6 +2,7 @@
 
 ## Wednesday 13th March 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -46,6 +47,52 @@
 #### Keywords/tags:
 - topics covered: ACP, Google Classroom, Twitter, Twitter spaces, Zarqa, Awakening Health, social media, review, video review, Budget, Q2 budget, translation, subtitles, Twin protocol 
 - emotions: productive,  Collaborative, Businesslike., speedy 
+
+
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Boaz, Paulm
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764575517374377&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+  - [Lesson feedback form](https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit)
+
+#### Agenda item 1 - PBL Feedback - [carry over]
+
+#### Discussion Points:
+- How do we recognize the value, and what is the appropriate reward?
+- Shared proposal of a monthly feedback collection with 3 different reward limits.
+
+#### Decision Items:
+- grant weezie, Paulm and Boaz a Dework PBL Student role
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Include a lesson to ask for a dework role that has access to do stuff 'Dework PBL Student' [assignee] Tevo [status] todo
+
+#### Agenda item 2 - Next Meetings - [carry over]
+
+#### Discussion Points:
+- When do we meet next as pbl workgroup?
+
+#### Decision Items:
+- We meet in 2 weeks for 30min for check-in and Q and A
+- When we coordinate meeting with Andamio Team we would prefer a publicly shared session
+
+#### Agenda item 3 - Workgroup Overview - [carry over]
+
+#### Discussion Points:
+- Shared how workgroup is running, what we do here and what our results look like
+
+#### Keywords/tags:
+- topics covered: Feedback Form, Outreach, PBL, Dework, Miro Board, Lessons, Google Form, Andamio, Onboarding, planning, course, student
+- other: Lesson Feedback Form: https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit
 
 
 ## Friday 15th March 2024
