@@ -1,5 +1,53 @@
 # Week 11
 
+## Wednesday 13th March 2024
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], malik, Slate, Headelf, esewilliams, devon, duke peter
+- Purpose: Twin Protocol and Zarqa video, Budget, ACP, Quiz creation, Ese Awakening Health Video
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Reviewed and approved Malik's Twin Protocol video 
+- Reviewed Ese Williams' Awakening Health video 
+- Reviewed Zarqa Video by Rojo and approved infographic 
+- Budget Request ideas 
+- Completion of ACP 
+
+#### Discussion Points:
+- During the reviewing of Malik's video on Twin Protocol, Headelf pointed out that Bill Inmans needs to be added/ mentioned in the video 
+- Next quarter budget discussion was done.
+- Then Ese pointed out that her video didn't get reviewed so she wanted to present her video 
+- During the reviewing of Ese's video, Slate pointed out that the subtitles are big in some places and very small in some places 
+- Headelf pointed out that it is hard to find material regarding Awakening Health, but the video length is still very short as compared to the other videos which are of about 7 -5 min in length 
+- Then we reviewed Rojo's video on Zarqa 
+- Headelf had the suggestion that the interviews which are put inside of the video should have the name of the person who is speaking as a highlight 
+- Ese suggested to shorten the clips and add more visuals 
+- Slate said that he would have preferred to add more subtitles to the video due to different accents of the speakers, and lessen the interviews and in place of them add visuals explaining that aspect of the project.
+- Budget suggestions were taken from the attendees.
+- Slate said that we should start working on hosting Twitter spaces, like having general AMAs and other stuff 
+- He said that we should put more focus on social media publicity like lives and YouTube podcasts etc 
+- Another suggestion was made to translate the Education videos which are made to different languages, as this will help to broaden the effect of the ACP and will also help to more understand what the project is all about.
+
+#### Decision Items:
+- Work on Budget 
+  - [effect] affectsOnlyThisWorkgroup
+- Complete ACP Video and Infographic 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Next quarter (Q2) budget discussion in the upcoming meeting. [assignee] everyone assigned  [due] 19 March 2024 [status] in progress
+- [action] Start the making of quizzes  [assignee] everyone assigned  [due] 19 March 2024 [status] todo
+- [action] Setup Google Classoom  [assignee] everyone assigned  [due] 19 March 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: ACP, Google Classroom, Twitter, Twitter spaces, Zarqa, Awakening Health, social media, review, video review, Budget, Q2 budget, translation, subtitles, Twin protocol 
+- emotions: productive,  Collaborative, Businesslike., speedy 
+
+
 ## Friday 15th March 2024
 
 ### Video Workgroup
