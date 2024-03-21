@@ -2,6 +2,7 @@
 
 ## Wednesday 20th March 2024
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -50,3 +51,82 @@
 #### Keywords/tags:
 - topics covered: publicity, meeting summary tool, Tool Development, AI tooling, Q1 quarterly report, Supervisory Council, encouraging use of Archives, bounties, timestamps, Q2 budget, community engagement, engaging new people, Google Analytics, Quarterly Report, accountability, GitHub
 - emotions: happy, making headway, achievements, retrospective of Q1, positive, inclusive, Well-attended, new people present
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, André, Peter, Clement Umoh, Ayodele, Olokoji, Photogee
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764583010375738&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Onboarding - [resolved]
+
+#### Discussion Points:
+- Shared Agenda and explained relation of todays agenda to the bigger picture
+- Shared proposal and pointed to onboarding videos
+- Described why we do Organizing activity, how we do it and what is the expected outcome
+
+#### Agenda item 2 - Organizing Treasury Guild GitBook assets - [carry over]
+
+#### Discussion Points:
+- Reviewed organization choices of "SingularityNET Phase Two: Massive Token Utilization Toward Decentralized Beneficial AGI - Article" https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a
+- Reviewed organization choices of "Quarterly Workgroup Budget Calculator - Google Sheet" https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit
+- We found new perspectives and insights where the budget sheet could be organized into
+- Reviewed organization choices of "Treasury Guild Proposal - Google Doc" https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit#heading=h.9t5jkakh8028
+
+#### Decision Items:
+- The Phase Two article is only included in the Aspirational Layer to describe morality and mission
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet is included under the Global Strategy as showing aggregation of aligned proposals to help benefit Ambassador Program Mission
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet is also included under the Agent Models as showing our Program limitations
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet is also included under Executive Functions as to help manage financial resources
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet is also included under Value Assessment as a way to set value to the intentions and make it able to recognize and reward those intentions
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet is also included under the Identification Process as a way to find the newly added projects
+  - [effect] mayAffectOtherPeople
+- The Treasury proposal is included under the Aspirational Layer by aligning proposal goals with the Ambassador Program Mission
+  - [effect] mayAffectOtherPeople
+- The Treasury proposal is included under the Role Definitions by showing an example of roles that are in use in the Ambassador Program and how they are defined.
+  - [effect] mayAffectOtherPeople
+- The Treasury proposal is also included under the Agent Models as a service we can offer to Ecosystem partners
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet and Treasury proposal is also included under Expectation Setting as showing what participants can expect from us
+  - [effect] mayAffectOtherPeople
+- The Budget Sheet and Treasury proposal is also included under Executive Functions as to help manage financial resources
+  - [effect] mayAffectOtherPeople
+- The Treasury Proposal is also included under Value Assessment by proposing to run the operations required to recognize and distribute value in the Ambassador Program
+  - [effect] mayAffectOtherPeople
+
+#### Agenda item 3 - Reviewing Onboarding Feedback and its Form - [carry over]
+
+#### Discussion Points:
+- How to improve onboarding?
+- How to improve the Feedback Form?
+
+#### Decision Items:
+- Include new question "How would you explain Knowledge Base WG to a new member?" to feedback form.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Include more Workgroup-related links to the Agenda item, Google Description, and also to the Feedback Form Description, like a proposal and Miro Board [assignee] Tevo [status] todo
+
+#### Agenda item 4 - Catch Up with last month async updates - [resolved]
+
+#### Discussion Points:
+- translation WG Items
+- Why session did not happen?
+- Described how information collection is done to a new member
+
+#### Action Items:
+- [action] Collect new Translation WG links into Miro Board from the provided Google Doc [status] todo
+- [action] Analyze the new items. [status] todo
+
+#### Keywords/tags:
+- topics covered: Ambassador GitBook, Miro Board, organizing, purpose, Onboarding, Proposal, Budget , Article 
+- emotions: Both progressive and a learning moment for decision making
