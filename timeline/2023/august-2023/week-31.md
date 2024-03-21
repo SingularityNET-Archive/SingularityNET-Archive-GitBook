@@ -157,8 +157,55 @@ No summary given
 
 ### Writers' Workgroup
 
-No summary given
+#### Present: <a href="#docs-internal-guid-0a894e1c-7fff-a7ec-7ad7-5c9899613088" id="docs-internal-guid-0a894e1c-7fff-a7ec-7ad7-5c9899613088"></a>
 
+Kenichi \[facilitator] \[workgroup lead], Slate \[documenter], Devon, Mikasa
 
+#### Agenda <a href="#docs-internal-guid-0a894e1c-7fff-a7ec-7ad7-5c9899613088" id="docs-internal-guid-0a894e1c-7fff-a7ec-7ad7-5c9899613088"></a>
+
+[WWG Agenda - (4, August '23)](https://docs.google.com/document/d/1zJa0d-aV91WaGoBRgF4G-HKEuAdWpvLzoxGPJsiAWGw/edit?usp=sharing)
+
+#### Summary:
+
+The meeting commenced with introducing a new member, Devon, who was guided through the copy-editing test to join the writers' team.&#x20;
+
+Kenichi introduced the use of Substack for creating individual portfolios, and Medium for community-based publishing under the name of SingularityNet.
+
+#### Key Decisions and Discussions:
+
+**\[decision]** Consistent Deadlines: The workgroup decided to set consistent deadlines for article publication and Twitter threads.\
+**\[decision]** Article Backlog: The team currently has at least 5 articles pending publication, ensuring that content is available even during holidays or periods of reduced writing activity.\
+**\[decision]** Generating Ideas: The group will brainstorm articles and thread ideas during SingularityNet town halls on Tuesdays.\
+**\[decision]** Incentives: The workgroup agreed to incentivize participation and contributions to the meetings, to value the time and effort of the participants.\
+**\[decision]** Review Process: The team will review articles together and make comments before publishing.\
+**\[decision]** Publication Timing: Articles will be published on Fridays after the meeting when everyone has reviewed them.\
+**\[decision]** Reward for Scribbler Role: Kenichi proposed rewarding the scribbler role for joining calls and contributing, and all participants agreed to this.\
+**\[decision]** Meeting Incentives: A rate of 10 USD per hour for meeting calls will be offered as an incentive for participants.\
+**\[decision]** Documentation task recognition: Slate's previous week's meeting summary will be rewarded as a recurring task on Dework.\
+**\[decision]** Contribution System: The workgroup will discuss implementing a contribution system to evaluate individual contributions during the next meeting.\
+**\[decision]** Urgent Tasks: A system for urgent tasks on Dework, with delivery within 24 hours, was proposed.\
+**\[decision]** Recurring Tasks: The team plans to assign individuals to recurring tasks for 2-3 weeks, which may include tasks related to milestone publications and ecosystem updates.\
+**\[decision]** Educational Series: The "AI and Beyond" educational series was proposed, and a graphic with title "Ai and Beyond Educational Series" will be used.\
+**\[decision]** Mindplex Articles:  Slate's article on "Synthesis of Art and Altruism" will be the second article on Mindplex, while the first article will cover "Introduction to the Ambassador Program."
+
+#### Progress Update:
+
+Kenichi reviewed the progress made on the Mindplex Episode 11 article.
+
+#### Next Steps:&#x20;
+
+The next meeting will focus on&#x20;
+
+* finalizing the contribution system and&#x20;
+* discussing _AI and Beyond_ tasks.
+
+#### Action Items:
+
+* Finalize the contribution system for evaluation in the next meeting.
+* Create _AI and Beyond_ tasks on Dework for review in the following week.
+* Complete and publish "_Introduction to the Ambassador Program_" as the first Mindplex article.
+* Complete and publish Slate's article on "_Synthesis of Art and Altruism_."
+* Review the progress of Mindplex Episode 11 article.
+* Brainstorm article and thread ideas during SingularityNet townhalls on Tuesdays.
 
 ***

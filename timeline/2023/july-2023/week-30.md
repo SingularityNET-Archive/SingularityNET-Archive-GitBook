@@ -269,7 +269,9 @@ Rojo \[facilitator] \[documenter], Agus, Peter, Slysyl, Lilycupcake.
 
 ### Writers' Workgroup
 
-#### Present: Slate \[documenter], Mikasa, Kenichi \[facilitator], Peter, CJfrankie
+#### Present:
+
+Slate \[documenter], Mikasa, Kenichi \[facilitator], Peter, CJfrankie
 
 #### Recap: Tasks done
 
