@@ -10,11 +10,21 @@ description: 14th August to 20th August 2023
 
 ### Education Guild
 
+No summary given
+
+***
+
 ## Tuesday 15th August 2023
 
 ### Governance WorkGroup
 
+No summary given
+
+***
+
 ### Ambassador Town Hall
+
+***
 
 ### <mark style="color:green;">Process Guild</mark>
 
@@ -55,11 +65,15 @@ We prioritize critical Ambassador Activities and cover process changes&#x20;
 
 Continue looking out for action items in Discord and Dework﻿.
 
+***
+
 ## Wednesday 16th August 2023
 
 ### <mark style="color:green;">Archives Workgroup</mark>
 
 not this week
+
+***
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
@@ -103,6 +117,8 @@ This Workgroup focuses on creating educational project-based learning material f
 **\[Action]** Audit finalized lessons and add updates to Andamio \
 **\[Action]** Set up services to host PBL content courses online
 
+***
+
 ### <mark style="color:green;">Process Modelling Workgroup</mark>
 
 #### **Meeting Summary** **Context:**&#x20;
@@ -133,6 +149,8 @@ Establishing or maintaining processes to help community members to efficiently c
 #### **Next elegant steps** (general action items)&#x20;
 
 Next meeting we will cover roadmap section.
+
+***
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
@@ -185,7 +203,7 @@ This was a two hour ten minute meeting. We had several action items, thinking to
 3. Headelf to start a concise ethics doc based on a combo of Discord channel rules.
 4. Initiate a wider Ambassador conversation on this initiative.
 
-&#x20;
+***
 
 ## Thursday 17th August 2023
 
@@ -213,7 +231,9 @@ Sucre’nSpice, Headelf \[facilitator] Vani, Tevo.
 * \[ACTION]: All to use [GETTING STARTED CHANNEL](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) to add the info that should be there.
 * \[ACTION]: Slate to be invited to share draft of Graphics WG proposal for comment whenever it’s ready
 * \[ACTION]: At next meeting on 24th, firm up exact date of onboarding session
-* \[ACTION]: Vani to draft slide-deck structure for next meeting, and Sucre and others to add content
+* \[ACTION]: Vani to draft slide-deck structure for next meeting, and Sucre and others to add content.
+
+***
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
@@ -256,9 +276,19 @@ How to structure Ambassador rules around payments, tasks and anything related to
 **\[Action]** Next Treasury Guild space is used for Grassroots Governance Community Forum. Governance Challenges and Collaborative Solutions - facilitated by EszterG from SingularityNet Foundation Register here: [https://us02web.zoom.us/meeting/register/tZYuc-qhrTkpH9VH8SbIAf4PL7tWJ6lIR\_7L](https://us02web.zoom.us/meeting/register/tZYuc-qhrTkpH9VH8SbIAf4PL7tWJ6lIR\_7L) \
 **\[Action]** Next Treasury Guild Session will take place 7th September (where we go over Ambassador budgets planning)
 
+***
+
 ### AI Sandbox
 
+No summary given
+
+***
+
 ### Deepfunding Town Hall
+
+
+
+***
 
 ## Friday 18th August 2023
 
@@ -288,6 +318,35 @@ None
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:  <a href="#docs-internal-guid-03215336-7fff-00b3-7ad2-eea52824d87c" id="docs-internal-guid-03215336-7fff-00b3-7ad2-eea52824d87c"></a>
+
+Kenichi \[Workgroup lead] \[facilitator], Mikasa, Slate \[documenter], Sucre n Spice, Devon, Cjfrankie, Rafael Jeff.
+
+#### Key Highlights:
+
+1. Article status: The group currently has three articles in its inventory.
+2. Engagement on Medium: Attendees were encouraged to interact with the group's Medium posts by leaving claps and comments to enhance engagement.
+3. Test submissions: There were two submissions for the tests. Kenichi invited everyone to review the new test.
+4. Test review: It was proposed to review the submissions for new people together. Devon's submission was particularly appreciated.
+5. New Scribbler: Devon's submission qualified him as a new Scribbler.
+6. 1-on-1 call: The other two participants with submissions will be scheduled for a 1-on-1 call with Kenichi.
+7. Tasks status: The only pending task was related to "AI and Beyond."
+8. Tweet Deck issue: The use of Tweet Deck was addressed. It now requires a premium subscription, prompting Kenichi to liaise with Ambassadors to address the situation. Consequently, there won't be any tasks related to Twitter for now.
+9. Article suggestions: Two article suggestions were presented during the meeting.
+10. Input session: A planned input Session among scribblers was discussed, with a proposed payment of $10 for each participant.
+11. Blog performance: The third blog post gained traction with increasing views each month. Four articles have been published so far.
+12. View analytics: The blog views were presented: 35 in May and 76 in June. Most views come from sources beyond current subscribers, including email and Twitter.
+13. Visualization of performance: The group plans to visualize performance using Miro board charts.
+14. Article release plan: The goal is to release at least three more articles before the end of the month, including "Mindplex Episode 11."
+15. Partnership discussion: A potential partnership for the Deep Funding round 3 proposal was considered, though engagement might be affected due to lower Twitter engagement.
+16. Monthly overview: The group is preparing to release its official first monthly overview soon. Kenichi will assume the role if no scribe is available.
+17. Atomic essays: Kenichi inquired if anyone was familiar with atomic essays, which are 250-word essays focusing on a single idea. These might be included in the next quarter, aiming to offer concise education in the education series.
+18. Welcoming RafaelJeff: RafaelJeff was welcomed to the program, and Kenichi offered an overview of the writer's workgroup's contribution process.
+19. Contributions overview: Kenichi explained that contribution involves bringing article topics to meetings and showcasing content related to the topic.
+20. Guidance for RafaelJeff: Kenichi shared the test link and editing framework with RafaelJeff.
+21. Reviewing articles: Kenichi encouraged participation in the contribution system by reviewing articles to earn meeting rewards.
+22. Article presentation: Slate presented his article on "Converting Theory to Reality: Case Studies of AI Solutions Built on SingularityNET."
+
+The meeting adjourned after covering these key points, fostering an atmosphere of productive collaboration among the writers.
 
 ***

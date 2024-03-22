@@ -258,7 +258,7 @@ Not this week
 
 ### Writers' Workgroup
 
-No summary given
+Meeting cancelled.
 
 ***
 

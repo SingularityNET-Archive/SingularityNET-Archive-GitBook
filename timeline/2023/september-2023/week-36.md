@@ -194,6 +194,36 @@ No summary given
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:
+
+Kenichi \[facilitator], Mikasa \[documenter], CJFrankie, Devon Hardy, Nwobi Onyeka, Vasu
+
+#### Agenda:
+
+Translating Ben Goertzel’s Wikipedia blog to other languages: \
+**\[action]** Kenichi will make a list of available languages. \
+**\[action]** Mikasa will be translating into Spanish, other Scribblers can send a DM to Kenichi if they'd like to translate to other languages
+
+#### Tasks:
+
+Ambassadors graphics: creation of welcome graphics into each new month. Each member was asked to check the new graphics and send reviews, We got great feedback from members
+
+Trivia testing: A new channel for trivia will be opened for members of the ambassador program&#x20;
+
+AI marketplace: Scribblers should get familiar with the AI marketplace and a task would be put up for scribblers to choose which AI tools they'd be interested in&#x20;
+
+Writing focus for the month: LLMs, Deep Funding, and AGI. Each scribbler and scribe are welcome to bring topics
+
+#### General:
+
+Questions were raised as to why our Twitter and Medium handles were needed. Kenichi explained it's for publicity and awareness, a way to announce to people your latest work on SNET medium
+
+Our Twitter page should be back on Tweetdeck soon, and more threads should be ready to be published
+
+More tasks for the upcoming week will be on Dework
+
+New members are always welcome
+
+Great meeting everyone!
 
 ***

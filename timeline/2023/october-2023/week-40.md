@@ -297,7 +297,43 @@ No summary given
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:
+
+Kenichi \[facilitator], Mikasa \[documenter], CJFrankie,Devon Hardy, Peter, Judith, LadyTempestt, Slate
+
+#### Agenda:
+
+Sharing updates
+
+New tasks ideas
+
+General
+
+#### Sharing Updates:
+
+There is not much update for the week as this is our first meeting of the month.
+
+Tasks on the Dework board: new tasks have been put up, and old tasks are to be submitted and treated with priority.
+
+The Deep Funding task is a priority, and applicants should make sure they stick to their submission timeline.
+
+We need two more test submissions to have a total cap of 10 Scribblers.
+
+#### New Task Ideas:
+
+CJFrankie brought a new task idea and shared insight on his article: Exploring the Role of AI in Human Society and Bioethics.
+
+New tasks on Nunet and Rejuve Q3 will be on the board today: \
+Nunet's Q3 2023 recap [https://medium.com/nunet/nunet-quarter-three-2023-recap-91565c7aa054](https://medium.com/nunet/nunet-quarter-three-2023-recap-91565c7aa054). \
+Rejuve Q3 2023 recap [https://blog.rejuve.ai/rejuve-ai-quarter-3-recap-special-announcements-on-app-redesign-hard-fork-feebc9c58586](https://blog.rejuve.ai/rejuve-ai-quarter-3-recap-special-announcements-on-app-redesign-hard-fork-feebc9c58586)\
+Suggestions were made to either make infographics, write articles or thread for the Q3 articles\
+**\[decision]** We settled on Infographics and threads.
+
+#### General:
+
+Questions were raised regarding members unable to apply to tasks on Dework. Kenichi suggested that tasks should be opened to anyone.
+
+Great meeting.
 
 ***
 

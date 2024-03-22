@@ -330,6 +330,59 @@ No summary given
 
 ### Writers' Workgroup
 
-No summary given
+#### Purpose:
+
+This is the bi-weekly meeting that involves an editing and proofreading session.\
+Note: Meeting started late, at 14:14 UTC.
+
+#### Present:
+
+Devon Hardy, Kenichi \[facilitator], Mikasa \[documenter], Peter, Slate, CjFrankie, Nwobi Onyeka
+
+#### Agenda:
+
+Recap on last discussions and idea for task in last meeting
+
+Update on tasks
+
+General talk & ideation
+
+15mins editing Co-session
+
+#### Update on tasks:&#x20;
+
+Kenichi mentioned each Scribbler give an update on their assigned task on the Dework board: Atomic essays, ELI5 articles, the Ben Goertzel Wikipedia translations: The idea is to translate it ourselves or leave it up to the translation workgroup
+
+Mikasa gave an update on her yet to do and submitted tasks on the board
+
+Slate also gave an update on his task
+
+A new member, Nwobi Onyeka, has been asked to take the onboarding copy-editing test
+
+#### General talk and ideation:
+
+Scribblers who are yet to submit their Twitter handles were asked to do so as our Twitter will be running soon.
+
+Kenichi brought up a new task idea: all Scribblers should write an atomic essay on SingularityNET and its platform and the articles should be posted on each Scribbler's Medium page.
+
+#### New topic suggestions:
+
+Slate suggested to write on: Challenges and Opportunities in Decentralized AI Governance
+
+Devon suggested: The Role of AI in Healthcare: Recent Advancements and Future Prospects
+
+Mikasa suggested: The AI Bubble
+
+#### 15mins Co-editing session:
+
+The article for the week to be published was edited by everyone.
+
+It was said to always simplify the words in our article for an easier read.
+
+Peter raised questions regarding our editing session and Kenichi gave a brief explanation on what we aim to do during these sessions.
+
+The meeting was concluded after a great editing session.
+
+Great meeting everyone!
 
 ***

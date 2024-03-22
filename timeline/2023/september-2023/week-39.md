@@ -399,6 +399,34 @@ none&#x20;
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:&#x20;
+
+Lord Kizzy, Godspower Joseph, Cjfrankie, Slate \[documenter], Mikasa, Kenichi \[facilitator], Devon Hardy, Peter, Judith, Hogan Tuso, Lady Tempestt \[new Scribbler]
+
+Main Points Discussed:
+
+1. The meeting commenced with Kenichi welcoming Lady Tempest as the newest member of the Writers' Workgroup, marking her first official participation.
+2. Since the last meeting, the group successfully released two articles, and Kenichi shared the respective article links with the attendees.
+3. Kenichi encouraged everyone to read the articles and provide comments to enhance the quality and engagement of the content.
+4. Felix has proposed a request to Marketing Guild, suggesting the creation of Twitter threads for DeepFunding proposals. Kenichi expressed his support for this idea and announced his intention to assign tasks related to this to Marketing Guild.
+5. Marketing Guild will be responsible for creating approximately nine videos, with the IdeaFest involving around 150 videos. This initiative is seen as a valuable opportunity to improve the group's thread creation skills.
+6. There is a consideration for an article that will comprehensively cover the entire marketing pool, including the Twitter threads. Kenichi plans to assign tasks accordingly.
+7. A task was assigned on Dework related to renaming SingComDAO, and Workgroup members were encouraged to participate actively in this task.
+8. Kenichi highlighted the group's increasing engagement on Twitter, emphasizing that Twitter threads will continue to be a crucial aspect of our strategy.
+9. Another task related to an AMA (Ask Me Anything) session of the Supervisory Council was added to Dework, indicating a busy schedule ahead for the Writers Workgroup.
+10. The upcoming weeks will involve a focus on urgent tasks and potentially increasing the monthly article cap from 6 to 10 in the next quarter.
+11. A new experimental budget allocation system was discussed. The idea is to allocate specific budgets to workgroups each quarter, promoting decentralization. If overbudgeting occurs due to new workgroup formations, unallocated funds from the Ambassador Program budget may cover it. Alternatively, Rejuve can assist with task rewards.
+12. Kenichi assigned Lady Tempestt the role of Scribbler officially, recognizing her as an essential part of the team.
+13. Godspower Joseph, who was initially unsure about the Writers Workgroup's activities, received an overview from Kenichi about the meeting and how to contribute to the group after successfully passing the startup test.
+14. Kenichi assured Lord Kizzy that he would receive a direct message regarding his submission.
+15. In the final minutes of the meeting, Kenichi shared a link to an article that required editing. Only those with the Scribbler tag who edit the article will be eligible for editing rewards.
+16. Kenichi provided LadyTempestt with guidance on the editing sessions, which occur biweekly in the last 10 to 15 minutes of the meeting.
+17. Judith Williams expressed her commitment to review article test submissions over the upcoming weekend.
+
+#### Future Considerations:
+
+The group plans to explore increasing the monthly article cap and is actively working on implementing a budget allocation system for workgroups in the next quarter. This system aims to enhance transparency and decentralization within the Writers Workgroup and can be supplemented by unallocated Ambassador Program funds or support from Rejuve if necessary.
+
+The group's is committed to producing high-quality content and engaging with the community while continually improving their processes and efficiency.
 
 ***

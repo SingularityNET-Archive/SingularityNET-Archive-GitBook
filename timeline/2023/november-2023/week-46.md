@@ -399,7 +399,41 @@ jay.05 | Judith W. \[facilitator] \[documentor], Peter E, Slate, Lord\_kizzy, Ke
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:
+
+Kenichi \[facilitator], Mikasa, Lady Tempestt, Slate, Judith, PeterE, Cjfrankie \[documenter], Isaac, Devon Hardy, Sandra | Cogito&#x20;
+
+#### Meeting Narative:
+
+We couldn’t hold our weekly call on Zoom as we normally would, due to some technical glitches, our call was held on Discord!&#x20;
+
+Sandra from Cogito kicked things off by showing her keen interest in the Writers' WorkGroup. She was fascinated by the WorkGroup’s journey so far. She also asked about what kind of knowledge and material we share in the workgroup as SingularityNET is focused on AI. Following that, Kenichi explained! He made it clear that the Writers WorkGroup focuses on all projects in the SingularityNET’s ecosystem, from AGI to AI. The Scribblers also suggest any article they might be interested in. Occasionally, two Scribblers collaborate to write an article. We also get our article suggestions via Podcasts - Kenichi said!!
+
+Sandra suggested that a group should be created on Telegram since she uses Telegram more frequently than Discord. The group would be tailored on AI and Finance alongside other great topics that would help SingularityNET grow exponentially. According to Sandra, Once the group is created, she would create a document that will contain a list of topics and ideas to be written on. Every Scribbler is welcomed with open arms - Scribblers can also suggest their own article idea and it will be added to the document. Scribblers that had a Telegram account began to submit their Telegram handle in the chat.&#x20;
+
+Devon Hardy gave us an update on his task “@AIBC\_World.”
+
+Cjfrankie proposed an article: Forest Hills Lab’s joins forces with Awakening Health Lab to Revolutionize Healthcare Delivery and Management.
+
+PeterE also gave us some insightful topics which are: 1) SophiaVerse upcoming announcement 2) Toufi from HyperCycle was featured on the NASA podcast - these are interesting topics for any Scribbler to write about.
+
+Kenichi took to Dework task board to see the available tasks, he also apologized to LadyTempestt for not updating the title of the task she was assigned to, and he promised to do so as soon as possible.&#x20;
+
+#### Action Items:&#x20;
+
+**\[action]** Kenichi to update the title of LadyTempestt's task as soon as possible.&#x20;
+
+#### Keywords:
+
+**Topics dicussed:**\
+Trivia, Cogito, AI and Finance, Trading and Finance, Medium Blog, Sophia Verse, Mindplex, Deep Funding&#x20;
+
+**Sources:**\
+The editing session worked on this doc, about rewards for engagement in DeepFunding [https://docs.google.com/document/d/1lTFs819lpsorTQKWqPYfjXZPOaQ4cHWX2PpgC5pXSXk/edit?usp=sharing](https://docs.google.com/document/d/1lTFs819lpsorTQKWqPYfjXZPOaQ4cHWX2PpgC5pXSXk/edit?usp=sharing)\
+Farrell's  AI and Crypto News on LinbkedIn [https://www.linkedin.com/newsletters/farrell-s-ai-crypto-news-7072197181465636864/](https://www.linkedin.com/newsletters/farrell-s-ai-crypto-news-7072197181465636864/)
+
+**How the meeting felt:** \
+Interactive and Insightful.
 
 ***
 

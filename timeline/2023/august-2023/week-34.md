@@ -175,7 +175,7 @@ Rojo \[facilitator] \[documenter], Agus, DevonHardy.
 
 ### Writers' Workgroup
 
-No summary given
+Meeting cancelled.
 
 
 

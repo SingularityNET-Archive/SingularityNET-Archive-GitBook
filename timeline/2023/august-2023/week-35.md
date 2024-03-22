@@ -10,13 +10,27 @@ description: 28th August to 3rd September 2023
 
 ### Education Guild
 
+No summary given
+
+***
+
 ## Tuesday 29th August 2023
 
 ### Governance WorkGroup
 
+No summary given
+
+***
+
 ### Ambassador Town Hall
 
+***
+
 ### Process Guild
+
+Not this week
+
+***
 
 ## Wednesday 30th August 2023
 
@@ -181,9 +195,19 @@ Thurs 14th Sept, 13:00 UTC (Note that the meeting on 7th Sept will be an onboard
 
 ### Treasury Guild
 
+Not this week
+
+***
+
 ### AI Sandbox
 
+Not this week
+
+***
+
 ### Deepfunding Town Hall
+
+***
 
 ## Friday 1st September 2023
 
@@ -195,6 +219,36 @@ No summary given
 
 ### Writers' Workgroup
 
-No summary given
+#### Purpose
+
+This meeting is a bi-weekly session that involves proofreading articles and onboarding new members
+
+#### Present
+
+Kenichi \[facilitator], Mikasa \[documenter], Devon, Emmanuel, Slate
+
+#### Summary:
+
+Kenichi gave us a warm welcome to the new month&#x20;
+
+Articles on our Medium page have been getting good impressions since last month. We urge everyone to follow our medium page and give 2 or 50 claps on our articles
+
+The last Zarqa article published got 150 views - an impressive milestone
+
+Slate gave an update regarding his task
+
+There's a new structure to be implemented in the WWG called ELI5 (explain like I'm 5), which we are going to use in writing atomic essays.
+
+A new member, Emmanuel, was informed about the onboarding, work and structure of the WWG
+
+Everyone was advised to read up on LLMs because there is lot of content coming out
+
+Each Scribbler and Scribe was asked to submit their Twitter handles; they will be tagged on Twitter after their article has been published on the Medium page to promote their works and gain recognition
+
+[https://docs.google.com/document/d/1usfm5zWHYXzvBb3nHa2Rodx7FgUQGlx6UratfcNjlYQ/edit?usp=sharing](https://docs.google.com/document/d/1usfm5zWHYXzvBb3nHa2Rodx7FgUQGlx6UratfcNjlYQ/edit?usp=sharing) Doc on partnerships and spinoffs within SingularityNET was shared for review and editing
+
+The last 15 minutes of the meeting was used to edit and access articles meant to be published and some submitted works
+
+The meeting was concluded after a successful editing session.
 
 ***

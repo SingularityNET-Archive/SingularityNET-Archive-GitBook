@@ -321,7 +321,45 @@ jay.05 | Judith W. \[facilitator] \[documenter], Peter E, Russ (SDAO), Tevo, Ken
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:
+
+Kenichi \[facilitator], Sucre n Spice, Judith, LadyTempestt \[documenter], Mikasa, Vanessa, Sandra G, Emmanuel Isaac, LordKizzy, Cj Frankie&#x20;
+
+#### Agenda:
+
+* 30 mins discussion with a Cogito representative (Sandra G)&#x20;
+* Contents to send out before Christmas break.
+* Meeting with Onboarding WG on how the Writers WG does continuous onboarding(20 mins)
+
+#### Meeting narrative:
+
+* Sandra asked how rewards will be made to the writers for collaboration (the amount and strategies)
+* Kenichi explained how Treasury Guild is in charge and the rewards would be 2 CGP/Word
+* Sandra also said there'll be a brief of the article before it's written, the goal of Cogito (to post article on the knowledge app, partnership and collaboration with SNET ambassador program)
+* Kenichi asked if we can have multiple titles from different areas of focus in the article with different assignees
+* Kenichi spoke about writing content for each month (pick up the highlights) on SNET’s ecosystem and SNET Ambassador program growth.
+* Onboarding WG ran a short research session to find out how Writers' WG do continuous onboarding.
+
+#### Action Items:
+
+**\[action]** Kenichi to assign tasks to scribblers on highlights of everything that happened each month in the SNET Ecosystem and Ambassador program (Jan-Dec).\
+**\[action]** CJFrankie to write a Twitter thread on Jan/Feb. highlights (events that occurred) in the SNET Ecosystem.
+
+#### Keywords:
+
+**Topics covered:**\
+Continuous onboarding, SNET, Workgroup, Cogito, Twitter thread, points system, infographics, payment
+
+Sources:\
+Onboarding WG's Miro board [https://miro.com/app/board/uXjVM5jyehQ=/](https://miro.com/app/board/uXjVM5jyehQ=/)
+
+Cogito article on Medium [https://medium.com/@CogitoProtocol/the-future-of-cogito-protocol-tokenizing-traditional-assets-to-revolutionize-onchain-finance-61e36bd0d9dc](https://medium.com/@CogitoProtocol/the-future-of-cogito-protocol-tokenizing-traditional-assets-to-revolutionize-onchain-finance-61e36bd0d9dc)
+
+Cogito Content Spreadsheet by Sandra [https://docs.google.com/spreadsheets/d/1tFbZfAyC\_7EG-tU5bDX9XYL4mXtsgzi4QUxMcDGNjQY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1tFbZfAyC\_7EG-tU5bDX9XYL4mXtsgzi4QUxMcDGNjQY/edit?usp=sharing)
+
+\
+**How the meeting felt:** \
+Informative, Insightful, and Contributive, Quiet.
 
 ***
 

@@ -380,7 +380,41 @@ no summary given
 
 ### Writers' Workgroup
 
-no summary given
+#### Present:
+
+Kenichi \[facilitator], Judith, Mikasa, LadyTempestt, Devon Hardy, CjFrankie \[documenter].
+
+#### Meeting Narrative:
+
+Kickoff: It seems that everyone is preparing for the holidays already as we recorded low attendance today!&#x20;
+
+Mikasa shared insights into her task “The Evolution of Music Composition: How AI is Shaping the Sounds of Tomorrow.” We’re looking forward to seeing her submission.
+
+LadyTempestt shared her experiences with the Cogito articles; according to her, Sandra has provided some detailed briefs so, we hope to see her deliver an exceptional write up.
+
+We are just a few miles away from the anticipated launch 🚀 of our Zealy page. Kenichi and Peter will discuss a few parameters to make sure it’s fully functional, up, and running! In that same light, Kenichi also mentioned that all Scribblers can share their ideas/quests so it will be added to the Zealy page.&#x20;
+
+We’re thrilled to announce that our Medium page is growing exceptionally - kudos 🥳. _**Zarqa: The Next Generation of Neural-Symbolic LLMs**_ and _**AI-Cryptography**_ are the most viewed content so far! There’s a lot to look forward to, we’re aiming at over 1000+ views on each article for next quarter.
+
+Starting from next quarter, Scribblers will be able to publish directly on the SNET Ambassador Medium page; we’re growing to commence the Medium Publication soon!&#x20;
+
+#### Action Items:
+
+**\[action]** Kenichi and Mikasa will hold a call to discuss about the ecosystem Twitter threads 🧵 that are rolling out.\
+**\[action]** In light of the branding kit, every Scribbler is urged to drop their email address in the writer’s channel on Discord.
+
+#### Keywords:
+
+**Topics covered:**\
+Zealy, Branding Kit, Trivia, kPI, Cogito, Infographics, Quarterly Report, Twitter Threads 🧵, Cohort Session, AI-Cryptography, Pair Review
+
+**Sources:**\
+The Evolution of Music Composition: How AI is Shaping the Sounds of Tomorrow [https://docs.google.com/document/d/11pbdFS84p9x3D85931f1qBgrQOpFOiFTAHFSojiD48g/edit](https://docs.google.com/document/d/11pbdFS84p9x3D85931f1qBgrQOpFOiFTAHFSojiD48g/edit)
+
+Dr. Ben Goertzel Explores the Emergent Global Brain at N2 Conference [https://docs.google.com/document/d/1W7\_1i7EPaAlkVs6x2yQc1C3KDqRbwd5UeQDrCtQyo0Q/edit?usp=sharing](https://docs.google.com/document/d/1W7\_1i7EPaAlkVs6x2yQc1C3KDqRbwd5UeQDrCtQyo0Q/edit?usp=sharing)
+
+**How the meeting felt:** \
+Quiet, Insightful.
 
 ***
 

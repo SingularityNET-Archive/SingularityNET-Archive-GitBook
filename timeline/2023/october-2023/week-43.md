@@ -364,7 +364,7 @@ Next session: Friday Nov 3rd&#x20;
 
 ### Writers' Workgroup
 
-No summary given
+Meeting cancelled.
 
 ***
 

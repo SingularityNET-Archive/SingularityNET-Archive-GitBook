@@ -380,7 +380,46 @@ The purpose of the meeting was to discuss how the SNET ambassadors can better su
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:
+
+Kenichi \[facilitator], Peter, Judith, LadyTempestt, Mikasa, Slate, Devon, Alex Sergin, Emmanuel Isaac, RafaelJeff, Lord Kizzy, Cj Frankie \[documenter].
+
+#### Meeting narrative:
+
+Sandra from Cogito shared a spreadsheet containing a list of article ideas tailored to the Cogito Protocol. Slate, Mikasa, and Lady Tempestt showed interest in writing about some of the topics. The Cogito articles would definitely have a specific structure and writing style and it's something we can incorporate into the Writers Work Group. Keep an eye on the Telegram channel, more updates are coming soon regarding Cogito and how to move forward with the articles.
+
+**\[action]** Kenichi and Judith Williams will keep in touch with Sandra.
+
+In an effort to bootstrap Cogito, some of the writers express their love for making infographics. Kenichi is looking forward to meeting with Sandra to see whether infographics would be feasible for Cogito. &#x20;
+
+The Writers' WorkGroup Points System is set to launch this month officially. After a bit of edits by the work group lead - Kenichi, we hope to see the Points System in action.&#x20;
+
+Mikasa and Lady Tempestt gave us a quick update regarding their tasks, and we’re looking forward to seeing their submissions.
+
+RafaelJeff is on his way to becoming our newest Scribbler; Kenichi was impressed with his test after the review! He also had further conversations with him, and also gave him a clear sense of the Writers work Group structure.
+
+Slate shared a link to an upcoming Mindplex Podcast event that will be hosted on YouTube; he also turned it into an article suggestion to write about because he’ll be attending the event!&#x20;
+
+Cj Frankie proposed two articles: 1) Artificial Intelligence and its Impact on Real Estate Market (Resources: [https://fajarrealty.ae/artificial-intelligence-and-its-impact/](https://fajarrealty.ae/artificial-intelligence-and-its-impact/)) and 2) The role of Artificial Intelligence in tackling Climate Change (Resources: [https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/a](https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/amp/))
+
+#### Keywords:
+
+**Topics discussed**:\
+AI Safety, Open AI, Zaqar, Spinoff Projects, Cogito, Twitter Meme Contest, Points System, Zealy, Trivia, Infographics
+
+**Sources:**\
+SNET content planner [https://docs.google.com/spreadsheets/d/1FBPoJY66H\_ZKMOkgybEqEcBeH9JjzABp1i8Iyf2CJIM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1FBPoJY66H\_ZKMOkgybEqEcBeH9JjzABp1i8Iyf2CJIM/edit?usp=sharing)
+
+WWG: AI Articles With SNET [https://docs.google.com/spreadsheets/d/1WawzQ\_v9an1festlc6Rv8p9sa7jAKdpmG\_oPgM6vWvw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WawzQ\_v9an1festlc6Rv8p9sa7jAKdpmG\_oPgM6vWvw/edit?usp=sharing)
+
+Article edited in Cohort Session: [https://docs.google.com/document/d/1o7OJvMJLqrVy9RIy2bo32MFOnx6CqB-RYPIvmNIjZ\_c/edit?usp=sharing](https://docs.google.com/document/d/1o7OJvMJLqrVy9RIy2bo32MFOnx6CqB-RYPIvmNIjZ\_c/edit?usp=sharing)
+
+Mindplex Mastodon Launch AMA | Decentralizing Social Media With Blockchain. [https://www.youtube.com/live/U1VM33f7Dc0?si=V7yCEYyQgNo1N33I](https://www.youtube.com/live/U1VM33f7Dc0?si=V7yCEYyQgNo1N33I)
+
+Cogito Content Spreadsheet by Sandra [https://docs.google.com/spreadsheets/d/1tFbZfAyC\_7EG-tU5bDX9XYL4mXtsgzi4QUxMcDGNjQY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1tFbZfAyC\_7EG-tU5bDX9XYL4mXtsgzi4QUxMcDGNjQY/edit?usp=sharing)
+
+**How the meeting felt:** \
+Informative, Insightful, Contributive.
 
 ***
 

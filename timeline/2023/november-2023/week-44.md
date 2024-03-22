@@ -392,7 +392,95 @@ This document is at [https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9T
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:&#x20;
+
+RafaelJeff, LadyTempestt, CJfrankie, Judith, Devon Hardy, Kenichi \[facilitator], Slate \[documenter]
+
+#### Agenda
+
+recap of previous tasks\
+task experiences\
+updates on ongoing tasks\
+upcoming articles\
+collaboration\
+Twitter thread management\
+upcoming trivia session\
+the need for infographics for Zealy\
+substack\
+article suggestions and December articles\
+scribblers as note-takers for other groups\
+article editing\
+Greasury problem resolution
+
+#### Recap of Previous Tasks:&#x20;
+
+Kenichi opened the meeting by providing a recap of the tasks from the previous session. This ensured that everyone was on the same page regarding ongoing assignments.
+
+#### Task Experiences:
+
+LadyTempestt shared a positive experience with her first task, underscoring the importance of task fulfillment and collaboration within the group.
+
+#### Ongoing Tasks:
+
+Judith reported that she was taking her time with her current task, as it lacked urgency and a strict time limit. Kenichi offered his guidance and support for her ongoing work.
+
+#### Upcoming Articles:&#x20;
+
+The team discussed plans for working on articles with added events. This suggests a focus on providing timely and engaging content for readers.
+
+#### Collaborative Work:
+
+&#x20;Members were encouraged to actively engage in collaborative work. They were advised to post in the Discord channel for help or resources, demonstrating a commitment to mutual support and growth.
+
+#### Twitter Thread Management:&#x20;
+
+Mikasa was identified as the point of contact for managing Twitter threads. Members were encouraged to reach out for guidance or assistance in this regard.
+
+#### Trivia session:&#x20;
+
+A trivia session is scheduled for this Friday (today), which will focus on topics related to SingularityNET, deepfunding, and AI. Prizes were announced : \
+The first-place winner receives $20,\
+the second-place winner receives $10,\
+and the third-place winner receiving $5.\
+Additionally, the fourth to forward positions would receive Zealy points.
+
+#### Infographics for Zealy:
+
+&#x20;Judith and CJFrankie volunteered to create infographics for Zealy, a valuable contribution to visual content.
+
+#### Substack Site:&#x20;
+
+A notable article by LadyTempestt was discussed, and members were encouraged to show their appreciation by giving claps, highlighting the importance of supporting each other's work.
+
+#### Article Suggestions:&#x20;
+
+The group discussed updates on subscribers and \
+**\[decision]** set a goal of reaching 60 subscribers. \
+Additionally, it was mentioned that there are numerous articles in the pipeline waiting to be published, suggesting a robust content creation schedule.
+
+**December Articles:** \
+LadyTempestt suggested the proactive creation of extra articles for December. This idea stems from the understanding that many members are likely to be on holiday during this period.
+
+#### **Scribblers taking notes:**&#x20;
+
+Kenichi proposed an intriguing concept - scribblers attending other people's meetings and taking notes. The Treasury Guild notetaker role was identified as open, providing an opportunity for participation and involvement.
+
+#### Article editing :&#x20;
+
+In the last 15 minutes of the meeting, Kenichi shared an article link related to an editing session, ensuring that the group stays informed and connected.
+
+#### Treasury problem resolution:&#x20;
+
+Kenichi provided the important update that the treasury problem had been resolved, and tasks would be rewarded the following Tuesday. This underscores the commitment to transparency and accountability within the group.
+
+#### Action Items:&#x20;
+
+**\[action]** Participate in the upcoming trivia session. (To Do)\
+**\[action]** Create infographics for Zealy.\
+**\[action]** Continue working on pending articles.\
+**\[action]** Consider additional articles for December.\
+**\[action]** Encourage and explore the possibility of Scribblers attending other meetings and taking notes.\
+**\[action]** Updates on articles (Next week).
 
 ***
 

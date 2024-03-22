@@ -349,7 +349,51 @@ jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 
 ### Writers' Workgroup
 
-No summary given
+NOTE: first Writers' WG meeting that was summarised using the Meeting Summary template&#x20;
+
+#### Present:
+
+Kenichi \[facilitator], Ines Gavina, Judith, Cjfrankie, Slate \[documenter], Mikasa, RafaelJeff
+
+#### Meeting narrative:
+
+* Video workgroup and Ambassador Program have a Carrd.co page. Discussion on whether the Writer Workgroup should have its own Carrd or a webpage. Suggestion to have important workgroup information on the Carrd.co page. CJFrankie proposes having a card for the Writers Workgroup to store important documents and links.
+* New participant Ines Gavina joins the meeting to understand the workgroup dynamics and how to contribute. Kenichi offers to provide an onboarding session to Ines Gavina to familiarize her with the workgroup.
+* RafaelJeff inquires about the status of his test.
+* Discussion on tasks related to infographics and  **\[decision]** deciding on a description template.
+* Judith updates the group on her first task, mentioning the abundance of content in the assigned video task and uncertainty regarding its length and content. Kenichi suggests the possibility of converting a thread into an article if the content is extensive.
+* Kenichi provides an update about the ecosystem update threads, emphasizing that updates can be accessed through the article link provided.
+* Mention of open submissions for a task, advising participants to announce their topics on Discord before writing on the updates.
+* New Mindplex season has started; the group discusses whether to include Mindplex podcast episodes in the Writers Workgroup.
+* Reference to a podcast by Rejuve related to AI.
+* Ines Gavina shares some topics for articles and provides a brief overview during the meeting.
+* Kenichi explains content editing and editing formats to Ines Gavina.
+* Kenichi announces upcoming Trivia sessions and articles to be featured in the Tuesday town hall.
+* Kenichi introduces the idea of a points system for tasks within the Writers Workgroup, mentioning that he's working on its calculation.
+* Kenichi asks if anyone is interested in assisting with Zealy.
+
+#### Action Items:
+
+**\[action]** Kenichi will set up an onboarding session for Ines Gavina to help her understand the workgroup dynamics and how to contribute effectively.\
+**\[action]** The group needs to finalize the description template for infographics.\
+**\[action]** Participants should consider announcing their topics on Discord before working on the open submissions updates task.\
+**\[action]**The group needs to decide whether to include Mindplex podcast episodes in the Writers Workgroup.\
+**\[action]**Ines Gavina has topics for articles; the group can consider writing on them.\
+**\[action]**Kenichi will announce trivias and articles on the Tuesday townhall.\
+**\[action]** Kenichi is developing a point system for tasks within the Writers Workgroup and seeks assistance in this regard.
+
+#### Keywords:
+
+**Topics covered:**\
+Carrd. co, Onboarding, Infographics, Content editing, Ecosystem updates, Open submissions, Mindplex podcast, Points system, Zealy
+
+**Sources:**\
+Editing test:[ ](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing)[https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing)\
+Meeting Summary Template: [https://docs.google.com/document/d/1VFFLg5dE76dQckzPOk3FEM14UWFl4q4TIQIdqXTadcQ/edit](https://docs.google.com/document/d/1VFFLg5dE76dQckzPOk3FEM14UWFl4q4TIQIdqXTadcQ/edit)\
+Writers' WG Governance Doc: [https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc](https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc)
+
+**How the meeting felt:** \
+Informative, collaborative
 
 ***
 

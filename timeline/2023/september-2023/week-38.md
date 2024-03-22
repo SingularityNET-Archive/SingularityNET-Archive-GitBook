@@ -391,6 +391,41 @@ No summary given
 
 ### Writers' Workgroup
 
-No summary given
+#### Present:
+
+Kenichi \[facilitator], Mikasa \[documenter], Devon Hardy, Nwobi Onyeka, Peter, Judith, Slate
+
+#### Agenda
+
+Sharing updates
+
+New tasks ideas
+
+Onboarding new members
+
+#### Sharing Updates:
+
+Four (4) articles were published last week, and Mikasa's article on Zarqa got good reviews.\
+We do not have any tasks on the Dework board right now.
+
+#### New Task Ideas:
+
+Slate talked about his article and shared insight into the resources \
+Devon brought a new task idea: the gamification of the new Sophiaverse\_based species of Neoterics
+
+#### Workflow for submissions:
+
+After submitting a task on Dework, there will be a proofreading and editing time slot on Dework. The links to the original and edited articles can be found in that slot.\
+Each Scribbler is to publish their edited article on their Medium page and an announcement Tweet on their Twitter account.
+
+#### Onboarding new members:
+
+Judith was greeted, and she gave an idea to use [https://answerthepublic.com/](https://answerthepublic.com/) for efficient research. Kenichi gave her the breakdown of the workgroup and how to go about the onboarding tests.
+
+#### General:
+
+Judith and Onyeka asked questions on how articles are written, scheduled, edited, and rewarded. Kenichi gave a brief explanation of how a content planner is used in scheduling our articles and only Scribes and Kenichi have access to the final editing of articles.
+
+Great meeting.
 
 ***

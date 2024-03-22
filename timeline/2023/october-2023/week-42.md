@@ -321,7 +321,60 @@ DeepFunding Town Hall #19, on 19th October 2023
 
 ### Writers' Workgroup
 
-No summary given
+Present:
+
+Kenichi \[facilitator], Mikasa, Peter, Slate, Judith, CjFrankie \[documenter], Devon Hardy, Emmanuel Issac, Lord Kizzy, LadyTempestt.
+
+#### Agenda:
+
+\- Substack Newsletter\
+\- Looking forward into the month of November\
+\- Zealy update\
+\- General
+
+#### Kickoff
+
+The writer’s work group session kicked off very strong as Kenichi introduced the newest set of Scribblers — congratulations to Judith Williams and Emmanuel Issac for achieving this milestone; they are now a full-blown Scribbler as they can now pick up tasks on Dework board. Kenichi also added that all the Scribblers should fill out the Scribbler onboarding form [https://tinyurl.com/4zpyxatz](https://tinyurl.com/4zpyxatz) to enable us to grow exponentially.&#x20;
+
+#### Substack Newsletter
+
+The idea of the Substack Newsletter was raised by Kenichi. According to him, our focus is to swiftly send out monthly updates covering everything around the Ambassador program. The aim of disbursing these newsletters is to keep everyone informed and updated on upcoming events likely to occur in the following months.&#x20;
+
+Peter raised comments about the Substack newsletter and he concluded that the idea should be implemented.&#x20;
+
+**\[action]** Following that, Kenichi added that he would create a dework task for the Substack newsletter  —  everyone should be on the lookout.
+
+#### Looking forward to the month of November
+
+November still has a lot more in the bag for Scribblers!
+
+Firstly, the need for October templates has arisen. There will be specific tasks covering that aspect plus, while setting up the writers' work group Substack page, atomic essays would be going out too.
+
+\
+For the sake of clarity, Kenichi briefly explained what an atomic essay is all about — according to him, these essays are write-ups of around 200–400 words. They will contain relevant links with at least 1–2 minute reads. The atomic essays would also be accompanied by infographics and thankfully, some scribblers showed interest.
+
+#### ELI5 — Explain Like I’m 5 Years Old (Threads)
+
+Kenichi also raised comments regarding ELI5 articles; they will be written as Twitter threads in simple English so everyone can understand (there will also be infographic designs for this task). Scribblers should keep an eye on the Dework task board.
+
+#### Zealy update
+
+We know that community engagement and growth have been at the forefront of the writers' work group. We want to see the SingularityNET Ambassador program grow exponentially. To this effect, we saw that Zealy would be an effective tool.\
+With Zealy, we could get more engagements for our Twitter, Medium, and also Discord. With the help of contests, surveys, and quizzes (web3 niches) we would be able to push new engagements that will bootstrap the SingularityNET Ambassador program.
+
+Should in case you have any idea on how this milestone can be reached, kindly reach out to Kenichi — your ideas and suggestions will be welcomed with open arms.
+
+And that brings us to:
+
+#### General
+
+Kenichi expressed his joy and commended everyone on the call for the support shown on the Ambassadors' Medium account. He said that there has been a big difference from when we started until now; currently, we have 38 subscribers and we’re looking to amass over 60 subscribers by the end of this quarter.
+
+Mikasa suggested that members of the workgroup should also pay attention to the Medium publications; each member is advised to read these articles and give at least 30 claps after reading, as this act could trigger the medium algorithm and SNET would reach more audiences.&#x20;
+
+We also had our editing setting session where Scribbers read and edit an article for better clarification.
+
+Great Meeting!!!
 
 ***
 
