@@ -303,11 +303,10 @@ Kenichi \[facilitator], Mikasa \[documenter], CJFrankie,Devon Hardy, Peter, Judi
 
 #### Agenda:
 
-Sharing updates
-
-New tasks ideas
-
-General
+Sharing updates\
+New tasks ideas\
+General\
+**Agenda doc:** [https://docs.google.com/document/d/1lwD43qt51Mt6RTc65ITGSJZ5Eeb504IP59WvcWgUr2k/edit?usp=sharing](https://docs.google.com/document/d/1lwD43qt51Mt6RTc65ITGSJZ5Eeb504IP59WvcWgUr2k/edit?usp=sharing)
 
 #### Sharing Updates:
 

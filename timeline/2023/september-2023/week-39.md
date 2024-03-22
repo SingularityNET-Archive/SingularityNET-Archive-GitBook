@@ -403,7 +403,11 @@ none&#x20;
 
 Lord Kizzy, Godspower Joseph, Cjfrankie, Slate \[documenter], Mikasa, Kenichi \[facilitator], Devon Hardy, Peter, Judith, Hogan Tuso, Lady Tempestt \[new Scribbler]
 
-Main Points Discussed:
+#### Agenda
+
+[https://docs.google.com/document/d/1sTXEDLCZlxbHEQzkAuJ38WOYk7Z5yOJIUF0J\_EEp7fY/edit?usp=sharing](https://docs.google.com/document/d/1sTXEDLCZlxbHEQzkAuJ38WOYk7Z5yOJIUF0J\_EEp7fY/edit?usp=sharing)
+
+#### Main Points Discussed:
 
 1. The meeting commenced with Kenichi welcoming Lady Tempest as the newest member of the Writers' Workgroup, marking her first official participation.
 2. Since the last meeting, the group successfully released two articles, and Kenichi shared the respective article links with the attendees.

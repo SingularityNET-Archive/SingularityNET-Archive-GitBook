@@ -397,11 +397,10 @@ Kenichi \[facilitator], Mikasa \[documenter], Devon Hardy, Nwobi Onyeka, Peter, 
 
 #### Agenda
 
-Sharing updates
-
-New tasks ideas
-
-Onboarding new members
+Sharing updates\
+New tasks ideas\
+Onboarding new members\
+**Agenda document:** [https://docs.google.com/document/d/1vS-Kp-r2MBVJRcjKFEO7qF-1hdp00zFJyaZRp1UTaY4/edit?usp=sharing](https://docs.google.com/document/d/1vS-Kp-r2MBVJRcjKFEO7qF-1hdp00zFJyaZRp1UTaY4/edit?usp=sharing)
 
 #### Sharing Updates:
 

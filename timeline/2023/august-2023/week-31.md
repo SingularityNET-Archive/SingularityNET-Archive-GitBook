@@ -163,7 +163,7 @@ Kenichi \[facilitator] \[workgroup lead], Slate \[documenter], Devon, Mikasa
 
 #### Agenda <a href="#docs-internal-guid-0a894e1c-7fff-a7ec-7ad7-5c9899613088" id="docs-internal-guid-0a894e1c-7fff-a7ec-7ad7-5c9899613088"></a>
 
-[WWG Agenda - (4, August '23)](https://docs.google.com/document/d/1zJa0d-aV91WaGoBRgF4G-HKEuAdWpvLzoxGPJsiAWGw/edit?usp=sharing)
+[https://docs.google.com/document/d/1zJa0d-aV91WaGoBRgF4G-HKEuAdWpvLzoxGPJsiAWGw/edit?usp=sharing](https://docs.google.com/document/d/1zJa0d-aV91WaGoBRgF4G-HKEuAdWpvLzoxGPJsiAWGw/edit?usp=sharing)
 
 #### Summary:
 
