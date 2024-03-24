@@ -130,3 +130,32 @@
 #### Keywords/tags:
 - topics covered: Ambassador GitBook, Miro Board, organizing, purpose, Onboarding, Proposal, Budget , Article 
 - emotions: Both progressive and a learning moment for decision making
+## Friday 22nd March 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], hogantuso [documenter], lord kizzy, malik, Slate, Rojo, hogantuso, devon, Zalfred, oep, Kareem, Photogee, osmium
+- Purpose: The meeting focused on task updates, strategy for video content production, and existing tasks.
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Devon provided updates on video production tasks, including delays and progress made.
+- Lord Kizzy, the social media manager, gave weekly updates for Video content engagement.
+- Discussions on the issues affecting the quality of video 
+- Discussions on other means videos could be uploaded properly 
+- Discission on videos to be part of Zealy tasks 
+- Discussion on budget for second quarter 
+
+#### Action Items:
+- [action] video content should be added to Zealy for more enegagment  [assignee] lord kizzy [due] 31 March 2024 [status] todo
+- [action] Social media manager should be added to the Zealy review team  [assignee] devon [status] todo
+- [action] Facilitator should prepare quarter 2 2024 budget [assignee] Slate [status] todo
+- [action] Give update on the second quaterly budget in the next town hall  [assignee] Slate [status] todo
+- [action] Creating a video on Hyper Cycle  [assignee] osmium [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics, Budget , Quarterly Report
+- emotions: Friendly, Thoughtful , speedy , Casual, productive
