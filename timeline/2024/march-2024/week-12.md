@@ -244,3 +244,49 @@
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics, Budget , Quarterly Report
 - emotions: Friendly, Thoughtful , speedy , Casual, productive
+## Saturday 23rd March 2024
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, esewilliams, duke peter, Peter, Clement Umoh, Kenichi, Cjfrankie, lord kizzy, Curtis, GorgaSeagian
+- Purpose: Budget, ACP, Quiz creation, HeadElf's absence, Proposals for next quarter 
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Videos And infographics completion 
+- Budget request for Q2
+- Proposal ideations for Q2
+- HeadElf's absence 
+- Completion of ACP 
+- Completion of remaining vids and infos by next meeting 
+- New platform for ACP introduction
+
+#### Discussion Points:
+- Meeting started with Slate welcoming everyone to the meeting 
+- Slate mentioned that he and Headelf are currently working on Education Guild budget request but it's delayed 
+- Headelf has been busy lately and hasn't checked dms yet 
+- Slate asked everyone about which proposals or initiatives Education Guild could take in the next quarter 
+- Osmium pointed out that we can use Mentimeter instead of Teams or Google classroom as it's more beneficial 
+- Slate informed every participant who is late on his/her submission to complete it by next meeting as we will be moving towards quiz creation
+- Slate also asked everyone if the quiz creation should be open to everyone or should it be assigned to the same person who made the vids and info 
+- Gorga showed interest in making of quizzes
+- Osmium said that the quiz should be made by the same person who made the info and vids 
+- Slate shared a sheet with everyone where they can give their suggestions on proposals 
+- Slate also proposed that we should be educating on holding AMAs on every social platform
+
+#### Decision Items:
+- Work on Budget 
+  - [effect] affectsOnlyThisWorkgroup
+- Complete ACP Video and Infographic 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Next quarter budget discussion in the upcoming meeting. [assignee] everyone assigned  [due] 26 March 2024 [status] in progress
+- [action] Start the making of quizzes  [assignee] everyone assigned  [due] 26 March 2024 [status] todo
+- [action] Setup Google Classoom  [assignee] everyone assigned  [due] 26 March 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: ACP, Google Classroom, Mentimeter, review, budget, Absence, Proposals
+- emotions: productive,  Collaborative, Businesslike, speedy
