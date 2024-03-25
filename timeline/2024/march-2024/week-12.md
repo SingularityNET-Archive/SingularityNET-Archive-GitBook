@@ -130,6 +130,91 @@
 #### Keywords/tags:
 - topics covered: Ambassador GitBook, Miro Board, organizing, purpose, Onboarding, Proposal, Budget , Article 
 - emotions: Both progressive and a learning moment for decision making
+## Thursday 21st March 2024
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Vanessa, Will Tatz, SucrenSpice, Vasu, Tevo
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764583178988047&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quaterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing)
+
+#### Agenda item 1 - Go over previously planned questions - [resolved]
+
+#### Discussion Points:
+- Do we create budgets in AGIX or USD?
+- What are the Core Costs and their limits?
+- How do we report on budgets?
+- How do we do reporting on proposals?
+- How can we handle workgroup spending?
+
+#### Decision Items:
+- USD is expected to be used for budget requests
+  - [effect] mayAffectOtherPeople
+- Reminder - The underspent budget requests are carried over from quarter to quarter
+  - [effect] mayAffectOtherPeople
+- You can create new budget requests while having a budget left for a workgroup.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Create a Budget Sheet Template for submitting Budget Requests. [status] todo
+- [action] Update the Workgroup Types and Requirements template to visualize the new workgroup starting process. [status] todo
+
+#### Agenda item 2 - Ambassador Program Q1 2024 Budget Proposal - [carry over]
+
+#### Discussion Points:
+- What's next?
+
+#### Decision Items:
+- Create a proposal form for the consent process to approve the Ambassador Program Quarter 1 budget requests.
+  - [effect] mayAffectOtherPeople
+- We share the form only with Core Contributors.
+  - [effect] affectsOnlyThisWorkgroup
+- No rewards for this decision making form
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Finalize the form that was started during the session. https://docs.google.com/forms/d/e/1FAIpQLSeRPU26UXer7i0a5rNUo1njrZwnhjrOfFMcClGBYBVcfjQGyw/viewform [assignee] Tevo, Vanessa [status] todo
+
+#### Agenda item 3 - new workgroup idea: Treasury Policy Workgroup - [carry over]
+
+#### Discussion Points:
+- Workgroup activities
+- Workgroup roles
+- Workgroup effects
+
+#### Action Items:
+- [action] Continue with the idea of forming a team and proposal. [status] todo
+
+#### Agenda item 4 - Q2 Budget Requirements - [carry over]
+
+#### Discussion Points:
+- Quarterly budget requests
+- Fund Request requirements
+- New Proposal Process https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit#heading=h.7ivzdnc619ji
+- Incentivizing people to learn about different workgroup methods and tools
+
+#### Decision Items:
+- Budget requests can come from existing Guilds and Workgroups.
+  - [effect] mayAffectOtherPeople
+- A Proposal is required to request a new Workgroup or Guild Budget Request.
+  - [effect] mayAffectOtherPeople
+- A Quarterly Report is required from each Workgroup and Guild.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Include all Quarter reports in the Budget Sheet [status] todo
+- [action] Create a core contributions Google Sheet list for where each workgroup contributions are listed [status] todo
+
+#### Keywords/tags:
+- topics covered: Miro Board, Budget , Quarter 1, Quarterly Budget Calculator, Surplus, Exchange rates, Reporting, Proposals, Quarter 2, workgroups, process
+
+
 ## Friday 22nd March 2024
 
 ### Video Workgroup
