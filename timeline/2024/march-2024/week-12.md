@@ -132,6 +132,7 @@
 - emotions: Both progressive and a learning moment for decision making
 ## Thursday 21st March 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -213,6 +214,89 @@
 
 #### Keywords/tags:
 - topics covered: Miro Board, Budget , Quarter 1, Quarterly Budget Calculator, Surplus, Exchange rates, Reporting, Proposals, Quarter 2, workgroups, process
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], lord kizzy [documenter], Vanessa, LadyTempestt, SucrenSpice, Cjfrankie, duke peter, lord kizzy, Clement Umoh, Peter, Photogee, Boaz, Guillermo
+- Working Docs:
+  - [Draft doc on how to become a WG](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit)
+  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1vAEd5xMdjgfqSUdxdA3l8TTK19IQyVnjslgXnuGjybI/edit?usp=sharingON)
+  - [Onboarding workgroup Q2 budget proposal](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+  - [Quarterly report for Q1](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
+
+#### Town Hall Updates:
+Share our Continuous Onboarding report and Ideas and Improvements report. 
+Give a report-back on the onboarding session on 8th Feb.
+Share Duke’s voiceover video for the Onboarding slides.
+Advertise that the next onboarding session is on 16th May.
+Mention session with André about payments, treasury etc on 18th April
+
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+- Action Items from the last meeting
+- Draft doc on how to become a WG
+-  Ambassador Program onboarding journey from different prototype scripts.
+-  Q2 Budget.
+-  Q1 Quarterly Report.
+-  Things we said we might do this quarter.
+- Session with André - date and payment 
+
+#### Decision Items:
+- We all agreed to go through Vani’s doc on how to create or become a WG before discussing it next week.
+  - [rationale] Some members of the group pleaded for more time to actually read the doc and add comments if there is need
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to share the doc on how to become a WG in the Ambassador-General Discord channel 
+  - [rationale] We need as much comments as possible so that we can actually finalize the doc
+  - [effect] mayAffectOtherPeople
+- We decided to have a separate session of 1 hr before the meeting on 28th March for finalising the comments in the Doc on how to become a Workgroup.
+  - [rationale] We felt it would be better before our WG meeting, otherwise it might take up the entire meeting
+  - [effect] mayAffectOtherPeople
+- For Q2, we decided to stick with our current budget on Documentation and Facilitation 
+  - [rationale] we should not be increasing the price because others are doing so, but rather focus on more output in terms of production
+  - [opposing] Some members felt that since there is an increase in price allocated for facilitation and documentation by some other workgroups, that means it should apply to ours
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to create an infographic on the onboarding journeys 
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to invite André  (Treasury Guild) to deliver a session for us on 18th April (this session entails explaining payments for tasks in the Ambassador program, introducing the Treasury dashboard, how to track your own payments, info on wallets, and other financial basics. This session is intended to help people feel onboarded - it will be open to everyone, and it will be publicised to get people there. We will use our normal meeting slot. Agreed $50 payment for André's  time
+  - [rationale] we actually feel this will help so many people to feel onboarded
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Vani to share the doc on how to ratify a new workgroup in Ambassador-General Discord channel for all to go through. [assignee] Vanessa [due] 28 March 2024 [status] done
+- [action] Lord Kizzy to ask Sucre and/or Tevo to check the new FAQ on MINs before adding it to the getting started channel. [assignee] lord kizzy [due] 7 March 2024 [status] done
+- [action] Duke to present the WG’s latest updates at the ambassador town hall on 5th March - now postponed to 26th, since TH did not take place on the 5th due to Panama conference [assignee] duke peter [due] 26 March 2024 [status] in progress
+- [action] Lady Tempestt to look on Knowledge Base WG's Miro board for link to sample survey form, to use an example in the Ideas and Improvements doc [assignee] LadyTempestt [due] 14 March 2024 [status] done
+- [action] Vani to draft a doc to list possible new budget elements for Q2 - all to contribute ideas to be discussed in a future meeting. Done - see https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=sharing [assignee] Vanessa [due] 8 March 2024 [status] done
+- [action] Duke, Onyeka, and Cjfrankie to continue work on Onboarding Journeys [assignee] duke peter, lord kizzy, cjfrankie  [due] 28 March 2024 [status] in progress
+- [action] LordKizzy to chase LilyCupcake via DM about new Welcome video - link has disappeared? [assignee] lord kizzy [due] 14 March 2024 [status] done
+- [action] Sucre and LadyTempestt to get together to on the statistics for the Q1 quarterly report  [assignee] Sucren, LadyTempestt [due] 28 March 2024 [status] todo
+- [action] Sucren to meet Peter on moving the Introductory task to the Ambassadors' Dework space. [assignee] Sucren [due] 28 March 2024 [status] todo
+- [action] Vani, LadyTempestt and Onyeka to work on developing some context-setting / educative material aimed at Core Contributors about decision-making on WG budgets [assignee] Vanessa, lord kizzy, LadyTempestt [due] 28 March 2024 [status] todo
+- [action] Everyone to have a look on Q2 Budget sheet and input their comments before next meeting  [assignee] all [due] 28 March 2024 [status] todo
+- [action] Everyone to take a look at Love’s draft of the quarterly report before the next meeting and drop a comment. [assignee] all [due] 28 March 2024 [status] todo
+- [action] Vani to add minutes of the last meeting (14th March) to the Archive via meeting summary tool. [assignee] Vanessa [due] 28 March 2024 [status] todo
+- [action] Lord Kizzy to upload Duke’s Onboarding video to YouTube. [assignee] lord kizzy [due] 28 March 2024 [status] todo
+- [action] Sucre n Spice to create a new roster for Q2 for facilitation and documentation [assignee] SucrenSpice [due] 4 April 2024 [status] todo
+
+#### Learning Points:
+- Some workgroups are actually harder to facilitate and document than others 
+
+#### To carry over for next meeting:
+- Onboarding journeys 
+- Draft doc on how to become a WG
+- New meeting Facilitation and Documentation Roster
+- Q2 budget:  Onboarding WG budget projections for Q2 2024
+- Q1 quarterly report
+- Development of some context-setting / educative material about decision making on WG budgets
+
+#### Keywords/tags:
+- topics covered: Town Hall update, Q2 budget, Infographics, Education material, Collaboration, onboarding journeys, Quarterly Report, Treasury, Onboarding, workgroups, Process for agreeing new workgroups, education, Decision Making Process, financial onboarding
+- emotions: Friendly, funny , Deliberative, Discursive, long agenda, in depth, differing opinions, good to hear differing opinions, people were confident
 
 
 ## Friday 22nd March 2024
