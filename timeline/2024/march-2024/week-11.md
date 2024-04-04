@@ -95,6 +95,69 @@
 - other: Lesson Feedback Form: https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit
 
 
+## Thursday 14th March 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], LadyTempestt [documenter], LadyTempestt, lord kizzy, Vanessa, SucrenSpice, Peter, Boaz, ToneTech, cjfrankie, Slate, hufiumer69, Clement Umoh
+- Working Docs:
+  - [Draft doc on how to become a WG](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit)
+  - [Onboarding workgroup Q2 budget proposal](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+  - [Quarterly report for Q1](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
+  - [Consent Decision-making for Ambassador Q1 budgets](https://docs.google.com/document/d/1c6GRhTowZw2cxqyKVYRHT27Zw0vAUg0ww2GEXsU2iiw/edit?usp=sharing)
+  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1IV4-7tsUJ99s4DY_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit)
+  - [Ideas & Potential Improvements Doc](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit?usp=sharing)
+  - [Continuous Onboarding Report](https://docs.google.com/document/d/1UEL60VgQ_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit?usp=sharing)
+  - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+
+#### Town Hall Updates:
+To be delivered on 26th March:
+
+Share our Continuous Onboarding report and Ideas and Improvements report. 
+Give a report-back on the onboarding session on 8th Feb. 
+Share Duke’s voiceover video for the Onboarding slides. 
+Advertise that the next onboarding session is on 16th May.
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+- Action Items from the last meeting
+- Draft doc on how to become a WG
+-  Ambassador Program onboarding journey from different prototype scripts.
+-  Gamers Guild's use of Onboarding WG on a Roblox Game (with a demo).
+
+#### Decision Items:
+- We agreed to all read through Vani's "How to ratify a new workgroup" doc async, before discussing next week
+  - [effect] affectsOnlyThisWorkgroup
+- Gamers Guild agreed to work on putting Onboarding WG into their Roblox game-based recreation of the Ambassador Program, based on our input
+  - [effect] mayAffectOtherPeople
+- The Roblox game will have several members of the Onboarding workgroup in the background as non-game characters, just doing tasks related to the WG
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Sucre to talk to Peter about adding Duke’s onboarding session video to the Ambassador Google Drive. [assignee] SucrenSpice [due] 21 March 2024 [status] in progress
+- [action] Duke to present the WG’s latest updates at the ambassador town hall on 5th March - now postponed to 26th, since TH did not take place on the 5th due to Panama conference [assignee] duke peter [due] 26 March 2024 [status] todo
+- [action] Lord Kizzy to remind Duke about giving town hall updates on the 26th of March, since Duke isn't here today [assignee] lord kizzy [due] 21 March 2024 [status] todo
+- [action] Lady Tempestt to come up with the first draft of the Q1 2024 quarterly report before the next meeting. [assignee] LadyTempestt [due] 21 March 2024 [status] todo
+- [action] Peter to give Boaz, Clement and Tone Tech the Onboarding WG role in Discord (done during meeting itself) [assignee] Peter [due] 14 March 2024 [status] done
+- [action] Vani, Sucre and LadyTempestt to meet CJ Frankie, Onyeka and Duke to give some additional input into the onboarding journeys. [assignee] SucrenSpice, Vanessa, LadyTempestt, cjfrankie , lord kizzy, Duke [due] 21 March 2024 [status] todo
+
+#### Learning Points:
+- Onboarding Journeys shouldn't be personal stories of real people, but should draw on our research as a group, our own experiences, and what we observe around us in the Program, to create composite fictional characters. There should also be several steps towards onboarding for each character.
+
+#### To carry over for next meeting:
+- Onboarding journeys 
+- Draft doc on how to become a WG
+- Quarterly report for Q1 2024
+- Q2 budget
+- Things we said we might do in Q1 2024 (infographics; context-setting / educative material about decision making on WG budgets)
+
+#### Keywords/tags:
+- topics covered: Town Hall update, onboarding journeys, Onboarding, workgroups, Process for agreeing new workgroups
+- emotions: informative, funny , Welcoming, insightful
+
+
 ## Friday 15th March 2024
 
 
