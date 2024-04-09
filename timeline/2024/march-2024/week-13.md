@@ -40,6 +40,7 @@ GOVERNANCE THINGIES
 ## Wednesday 27th March 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -118,6 +119,48 @@ GOVERNANCE THINGIES
 #### Keywords/tags:
 - topics covered: ACP, review, Budget, Q2 2024 budget, Proposals, platform, software, quizzes
 - emotions: productive,  Collaborative, Businesslike, speedy 
+
+
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, André, Emaden
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764577501566856&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+  - [Lesson feedback form](https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit)
+
+#### Agenda item 1 - WG Updates - [carry over]
+
+#### Discussion Points:
+- Governance Guild Course Maintenance Service Fee
+- Course Content
+- Technical Andamio Updates
+
+#### Action Items:
+- [action] Bring back the assignments for testing the pre-production network [status] todo
+- [action] Research more into solution set to acquire lesson information while loading up course website [status] todo
+- [action] Going over background knowledge with a thought of checking vital action sentences (we have lost some content when changing git versions) [status] todo
+
+#### Agenda item 2 - Dework PBL Course - [carry over]
+
+#### Discussion Points:
+- How could we get more participation to course?
+
+#### Decision Items:
+- Keep having Q and A sessions to provide opportunities to onboard people into the course and allow room to solve blockers
+- grant Emaden a Dework PBL Student role
+
+#### Action Items:
+- [action] Do the Dework PBL course [assignee] André, Emaden [status] todo
+
+#### Keywords/tags:
+- topics covered: PBL, Miro Board, Lessons, Andamio, planning, course, student, testing, participation, onboarding, Q&A
 
 
 ## Thursday 28th March 2024
