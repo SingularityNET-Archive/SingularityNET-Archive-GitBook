@@ -260,3 +260,61 @@ GOVERNANCE THINGIES
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Budget , Quarterly Report
 - emotions: Friendly, Thoughtful , speedy , Casual, productive, Organised, engaging new people, positive
+## Saturday 30th March 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], Slate [documenter], malik, rebel, hufiumer69, flyn, devon, Slate, lord kizzy, Gorga Siagian, martin, john
+- Purpose: Project "Ambassador Program On Roblox" and Gaming Session
+- Working Docs:
+  - [Quarterly Report ](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh_EdIL-bAlPFXiQ/edit?usp=sharing)
+
+#### Narrative:
+Discussion on topics including:
+Workgroup iterations
+Animation / Scripting 
+Questions inside of Onboarding WG on Roblox
+Budget Request for Q2
+
+
+
+
+#### Discussion Points:
+- Slate welcomed everyone in the meeting 
+- Slate then showcased the workgroup and the upgrades made to the workgroup 
+- Slate also showcased the NPC (non-player character) dialgue system and the questions added to the workgroup lead NPC 
+- Then animations of NPC were shown 
+- Lord Kizzy really liked his NPC 
+- The NPCs included waving, researching, documenting, and moving around 
+- Lord Kizzy also mentioned that we can add more questions to the NPCs and said that he will get to back to us about this after the meeting 
+- Slate then discussed the quarterly budget and told that in the next quarter we are going to be working on at least 6-7 workgroups
+- And also mentioned that the budget would be increased from 1*200 = 200$ for 1 Workgroup so for 7*200 = 1400$ for 7 Workgroups for next quarter 
+- On that Lord Kizzy mentioned that we should make a schedule for the collecting of information from different workgroups 
+- Everybody really liked the idea and to discuss it by next meeting 
+- Slate then handed over the gaming session to Malik 
+- For today the game was a racing game 
+- And everybody enjoyed the gaming session 
+- Slate said farewell to everyone until next meeting 
+
+#### Decision Items:
+- Schedule making 
+  - [effect] affectsOnlyThisWorkgroup
+- Adding more questions to NPCs 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Add more questions to the NPCs [assignee] Slate [due] 30 March 2024 [status] in progress
+- [action] Document the questions  [assignee] lord kizzy [due] 2 April 2024 [status] in progress
+
+#### Game Rules:
+Cross the lap 3 times and be the first participant to win the race 
+
+
+#### Leaderboard:
+- 1st Devon
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget, Q2 2024 budget, Roblox, participation, Onboarding WG, NPC, Budget request
+- emotions: Friendly, Collaborative, Thoughtful 
+- games played: Roblox
