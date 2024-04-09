@@ -82,3 +82,31 @@
 #### Keywords/tags:
 - topics covered: ACP, review, Budget, Q2 2024 budget, Proposals, platform, quizzes, Video Script
 - emotions: productive,  Collaborative, Businesslike, speedy
+## Friday 5th April 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], hogantuso [documenter], lord kizzy, malik, hogantuso, Zalfred, Photogee, osmium, killy, Colleen, Zibah, WealthWissy, electronige, Olokoji, Hamzat_iii, GorgaSeagian, devon
+- Purpose: The meeting focused on task updates, video suggestions, onboarding process, and ASI merger
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Malik, the social media manager, gave a rundown on the weekly updates.
+- Hogantuso, the task manager, gave updates on the weekly management tasks 
+- lord kizzy, the town hall editor, gave more updates on the Zealy task discussed with kenichi as the previous Social Media Manager.
+- Acquaintance and introduction of new members 
+- Updates and improvements on the video application was discussed 
+- Voting on the creation of ASI merger video by Rojo.
+- Voting on the creation of voting procedure tutorials on ASI alliance 
+- Slate, the facilitator, updated the new members on how to apply to become a member of the workgroup. 
+
+#### Action Items:
+- [action] Rojo's video suggestion about the ASI Merger was approved. [assignee] Rojo, Crandano [status] todo
+- [action] voting procedure tutorials on ASI alliance [assignee] osmium, hogantuso [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Zealy, ASI toekn merger, Town Hall, workgroup membership
+- emotions: Friendly, Thoughtful, speedy, Casual, productive, Organised, engaging new people, positive, productive
