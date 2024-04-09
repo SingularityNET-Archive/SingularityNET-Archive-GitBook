@@ -3,6 +3,7 @@
 ## Wednesday 3rd April 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -82,6 +83,44 @@
 #### Keywords/tags:
 - topics covered: ACP, review, Budget, Q2 2024 budget, Proposals, platform, quizzes, Video Script
 - emotions: productive,  Collaborative, Businesslike, speedy
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen, Vanessa [documenter], Vanessa, Stephen, Onyeka, oep, SucrenSpice, Olokoji, Photogee, Gorga Siagian
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Meeting Issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/128)
+
+#### Decision Items:
+- Quarterly report for Q1 2024 - there have been a couple of minor changes suggested. Also we want to try out presenting it in a format that is more closely linked to our budget request  - e.g. via notes on the budget spreadsheetfor Q1
+  - [rationale] spreadsheet approach might connect reporting more closely to budget request, to support tracking and accountability, which is something that has been discussed in general terms in Treasury Guild meetings
+  - [opposing] The existing text-based format is probably more readable, and allows a WG to make narrative points about how their work has gone. Worth trying both formats.
+  - [effect] affectsOnlyThisWorkgroup
+- Tag taxonomy project - suggested training date of 1st April wasn't possible (bank holiday) so will look at later in April
+  - [effect] affectsOnlyThisWorkgroup
+- Last meeting's suggestion of a TH session on how we use GitHub - we forhgot to pick this up as an action item, so we will add it this meeting.
+  - [effect] mayAffectOtherPeople
+- Decided to keep the meeting shorter than usual (1 hr) since there was not so much to discuss
+  - [rationale] Since André was absent, we didn't discuss tool development work
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Stephen to check why SucrenSpice doesn't seem to have permissions to merge changes on Ambassador GitBook - still can't work out why [assignee] Stephen [due] 3 April 2024 [status] in progress
+- [action] RE: Duke, Onyeka and Ese to timestamp BGI videos - Onyeka will check with Peter that it's not already being done. Also there have been more videos uploaded, so now a total of 9, so 3 each [assignee] duke peter, esewilliams, lord kizzy [due] 17 April 2024 [status] in progress
+- [action] Duke to create a video walkthru of how to use the GitHub Board, based on Stephen's training session - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116 [assignee] duke peter [due] 20 March 2024 [status] in progress
+- [action] Vani to bring finished version of Q1 quarterly report to the 3rd April meeting - Done [assignee] Vanessa [due] 3 April 2024 [status] done
+- [action] Sucre and Vanessa to raise the issue of quarterly reports, and whether more WGs should write them, in the Treasury Guild meeting tomorrow (21st March 2024) [assignee] SucrenSpice, Vanessa [due] 21 March 2024 [status] done
+- [action] Everyone to suggest possible new bounties or entry-level tasks for Q2 budget, to discuss next meeting - some people would still like time to contribute so this will be finalised next meeting (17th April) [assignee] all [due] 3 April 2024 [status] in progress
+- [action] Vani to send Q1 quarterly report to Peter (and, if time, create 2nd version based on the budget request spreadsheet) [assignee] Vanessa [due] 17 April 2024 [status] todo
+- [action] Sucre to add the Q1 quarterly report to Ambassador GitBook when ready [assignee] SucrenSpice [due] 17 April 2024 [status] todo
+- [action] Vanessa to DM participants in tag taxonomy project, and set a date for training session [assignee] Vanessa [due] 17 April 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Q1 quarterly report, encouraging use of Archives, bounties, timestamps, Q2 budget, community engagement, engaging new people, Quarterly Report, accountability, GitHub, BGI 2024 summit, Tag taxonomy, Reporting, forward planning
+- emotions: positive, new people present, short, Friendly
+
+
 ## Thursday 4th April 2024
 
 ### Treasury Guild
