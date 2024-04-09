@@ -2,6 +2,7 @@
 
 ## Wednesday 3rd April 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -39,3 +40,45 @@
 #### Keywords/tags:
 - topics covered: Guilds, Budget, Tool Development, Proposal, AI tooling, GitHub, API, deliverables, incentives
 - emotions: Collaborative, productive, Thoughtful, speedy
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, esewilliams, Kenichi, Clement Umoh, Photogee, duke peter, WaKa, GorgaSiagian
+- Purpose: Videos, Quizzes, Q2 Budget request, Module-based budgets, Participation-rewarding 
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Videos
+- Q2 budget Request 
+- Ways to improve budgets
+
+#### Discussion Points:
+- Meeting started with Slate welcoming everyone to the meeting
+- Duke mentioned that his video on Cogito is completed and he would like to showcase it 
+- Slate then shared Duke's video on Cogito 
+- After watching the video the floor was opened for comments on the video 
+- Most of the people had comments of adding names of the main team members 
+- Duke said that he will be making the small adjustments and then uploading the video 
+- Then Slate showcased the budget request he ideated for Education Guild 
+- Some comments were made on the budget request like removing the participation rewards,
+- Proposed a module based budget request 
+- Then at the end Slate assigned some quizzes to some of the participants 
+
+#### Decision Items:
+- Work on budget 
+  - [effect] affectsOnlyThisWorkgroup
+- Complete ACP Video and infographic 
+  - [effect] affectsOnlyThisWorkgroup
+- Platform suggestions for ACP 
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Next quarter budget discussion in the next meeting. [assignee] Slate [due] 9 April 2024 [status] in progress
+- [action] Assignment of quizzes  [assignee] Slate [due] 2 April 2024 [status] done
+- [action] Setup reviewing process for Quizzes  [assignee] Slate [due] 2 April 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: ACP, review, Budget, Q2 2024 budget, Proposals, platform, quizzes, Video Script
+- emotions: productive,  Collaborative, Businesslike, speedy
