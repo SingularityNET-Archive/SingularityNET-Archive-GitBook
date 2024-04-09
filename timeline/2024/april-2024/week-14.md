@@ -82,6 +82,87 @@
 #### Keywords/tags:
 - topics covered: ACP, review, Budget, Q2 2024 budget, Proposals, platform, quizzes, Video Script
 - emotions: productive,  Collaborative, Businesslike, speedy
+## Thursday 4th April 2024
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Peter, Sucren, WaKa, lord kizzy, Clement Umoh, Guillermo, duke peter, Vanessa
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584778877630&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quarterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing)
+
+#### Agenda item 1 - Q1 Budget Final Results - [resolved]
+
+#### Discussion Points:
+- How do we want to present results?
+- How do we want to show proposal status?
+- What is missing, and what is irrelevant?
+
+#### Decision Items:
+- All Treasury Guild Q1 Proposals are approved with the date at 02.04.24
+  - [effect] mayAffectOtherPeople
+- Create a voting result report starting with Q2 proposals
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Create an efficient way to see AGIX spent by each guild and WG in WG Budget Calculator [status] todo
+- [action] Create a separate channel for all contributors where proposals requiring consent are dropped into [status] todo
+
+#### Agenda item 2 - Q2 Budget Requirements - [carry over]
+
+#### Discussion Points:
+- Should Treasury rules that affect proposal acceptance criteria be changeable and implementable in Quarter 2?
+- Should we have continued onboarding and approval for proposals throughout Q2?
+- How can we avoid assessing proposals without creating the feeling that proposals are being heavily scrutinized?
+
+#### Decision Items:
+- 02.05.2024 we approve the first cohort of proposals that make it through the consent process and update the remaining limited quarter 2 budget
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Have a discussion on how to bring up workgroups better in Governance WG [status] todo
+
+#### Agenda item 3 - Treasury Guild Proposal and Guiding Material - [carry over]
+
+#### Discussion Points:
+- The available supporting material to help create proposals and examples.
+- What do we propose for Quarter 2 in Treasury Guild?
+- Proposal feedback
+
+#### Action Items:
+- [action] Create a consent form so that contributors can vote on the Treasury Guild proposal [status] todo
+- [action] Update the Seed Workgroup column in the WG matrix tables based working starting doc [status] todo
+- [action] Create a paragraph about proposal changes to the proposal if it is an update [status] todo
+
+#### Agenda item 4 - About Ambassador Program - [resolved]
+
+#### Discussion Points:
+- What's the difference between Guilds and Workgroups?
+- Do we want to make a clear distinction between Guilds and Workgroups?
+
+#### Decision Items:
+- We should have a common understanding of the differences and when they are used.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Draft extra information about this and include it into onboarding docs where relevant [status] todo
+
+#### Agenda item 5 - Questions about AGIX to ASI Merge - [resolved]
+
+#### Discussion Points:
+- Brainstormed different common ideas and our questions on the Miro Board
+- Answered a few questions at the meeting
+
+#### Action Items:
+- [action] Create a Q and A doc to address those questions as best we can [status] todo
+
+
+
 ## Friday 5th April 2024
 
 ### Video Workgroup
