@@ -1,5 +1,42 @@
 # Week 13
 
+## Tuesday 26th March 2024
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Felix [documenter], Vanessa, Felix, Peter, Tevo, Vasu
+- Purpose: Weekly GovWG Meeting
+- Media link: [Link](https://app.read.ai/analytics/meetings/01HSXMDSYP9CXNA5CZERS7TJQV?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Weekly GovWG Meeting](https://app.read.ai/analytics/meetings/01HSXMDSYP9CXNA5CZERS7TJQV?utm_source=Share_CopyLink)
+
+#### Narrative:
+GOVERNANCE THINGIES
+
+
+#### Discussion Points:
+- Core Contributors' decision making processes
+- Recent Core Contributors' decision on approving Q1 budgets
+- Governance AI Agent conversation
+
+#### Decision Items:
+- Change to meeting weekly instead of every 2 weeks
+  - [rationale] Match the current need and demand on governance conversations and move the GovWG meetings from bi-weekly to a weekly meeting schedule
+  - [opposing] No opposing arguments
+  - [effect] affectsOnlyThisWorkgroup
+- Transform WG into Guild 
+  - [rationale] Several projects started within the GovWG and we see the time fit to take the next step in the GovWG and open up to a Gov Guild, making it more easy to facilitate several projects in parallel
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Create a Governance Guild Proposal [assignee] Felix [status] todo
+
+#### Keywords/tags:
+- topics covered: Governance, AI tooling, Core Contributors, decisionmaking, Q1 budgets
+- emotions: Collaborative
+
+
 ## Thursday 28th March 2024
 
 ### Onboarding Workgroup
