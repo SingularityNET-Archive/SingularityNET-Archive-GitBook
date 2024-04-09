@@ -39,6 +39,7 @@ GOVERNANCE THINGIES
 
 ## Wednesday 27th March 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -73,6 +74,50 @@ GOVERNANCE THINGIES
 #### Keywords/tags:
 - topics covered: Guilds, Budget, Tool Development, Proposal, AI tooling, GitHub, FrontEnd, API, deliverables, Archives, Treasury
 - emotions: Collaborative, productive, Thoughtful 
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, esewilliams, Kenichi, Clement Umoh, Photogee, duke peter, Headelf, Rojo
+- Purpose: ACP, Infographics, Videos, Quizzes assignments, Proposals by Education Guild members, Enterprise Version softwares 
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Videos And infographics
+- Completion of ACP 
+- Distribution of quizzes
+
+#### Discussion Points:
+- Meeting started with Slate welcoming everyone to the meeting
+- Slate mentioned that he and Headelf are having discussions regarding the setting up of budget request for Q2 off meeting schedule 
+- Then Rojo showcased his video which he reworked and made the proposed adjustments. 
+- Everybody really liked the video and approved it
+- Then Ese showcased her video on Awakening Health 
+- Everybody liked her video as well but Slate pointed out the showing of branding of stock images inside of the video 
+- To that Headelf said that it might be because of the invideo problem as it generates watermarked videos 
+- Headelf also proposed that we will be needing a software that does not have this problem or has a enterprise version that can be shared with the group so everyone can use it 
+- After that Slate showcased the completed videos and infographics and assigned some of the quizzes to the volunteering participants 
+- As the meeting ran short on time then Slate mentioned that the budget discussion will be delayed to the next meeting and also the discussion on the setting up of platform for ACP.
+
+#### Decision Items:
+- Work on Budget 
+  - [effect] affectsOnlyThisWorkgroup
+- Complete ACP Video and Infographic 
+  - [effect] affectsOnlyThisWorkgroup
+- Platform decision for ACP 
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Next quarter budget discussion will be in the next meeting. [assignee] everyone assigned  [due] 2 April 2024 [status] in progress
+- [action] Assignment of quizzes  [assignee] Slate [due] 26 March 2024 [status] done
+- [action] Setup Hosting site  [assignee] everyone assigned  [due] 2 April 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: ACP, review, Budget, Q2 2024 budget, Proposals, platform, software, quizzes
+- emotions: productive,  Collaborative, Businesslike, speedy 
 
 
 ## Thursday 28th March 2024
