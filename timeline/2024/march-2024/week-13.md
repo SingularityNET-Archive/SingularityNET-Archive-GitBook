@@ -228,3 +228,35 @@ GOVERNANCE THINGIES
 #### Keywords/tags:
 - topics covered: Town Hall update, Q2 budget, Infographics, Education material, Collaboration, onboarding journeys, Quarterly Report, Treasury, Onboarding, workgroups, publicity, financial onboarding
 - emotions: Friendly, funny , Deliberative, Discursive, Thoughtful
+## Friday 29th March 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], hogantuso [documenter], lord kizzy, malik, Slate, Rojo, hogantuso, devon, Zalfred, oep, Photogee, osmium, killy, lilycupcake, Prime, cardano_class, Cjfrankie
+- Purpose: The meeting focused on task updates, Strategy for video content production, Existing tasks, Distribution of tasks 
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Slate provided updates on the welcome development with the Zealy task 
+- Lord kizzy, the social media manager, gave weekly updates for video content engagement.
+- Introduction of new members joining in 
+- Devon, the task management, gave more information on the weekly updates
+- LilyCupcake updated us on the Town Hall Video Edits 
+- Malik updated us on the Town Hall Summary 
+- Allocation of task by Slate, the video workgroup facilitator
+- Discussion on budgeting 
+
+#### Action Items:
+- [action] New lead on Meeting Summary  [assignee] devon [due] 26 April 2024 [status] in progress
+- [action] New Lead on Town Hall Edits  [assignee] lord kizzy [due] 26 April 2024 [status] in progress
+- [action] New Lead on Town Hall Summary  [assignee] cardano_class [due] 26 April 2024 [status] in progress
+- [action] New Lead on Task Management  [assignee] hogantuso [due] 26 April 2024 [status] in progress
+- [action] New Lead on Social Media Management [assignee] malik [due] 26 April 2024 [status] in progress
+- [action] New Lead on the Video Work Group Facilitator [assignee] Slate [due] 26 April 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Budget , Quarterly Report
+- emotions: Friendly, Thoughtful , speedy , Casual, productive, Organised, engaging new people, positive
