@@ -277,6 +277,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 ## Friday 23rd February 2024
 
 
+
 ### Marketing Guild
 
 - Type of meeting: Weekly
@@ -322,3 +323,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people
 - emotions: speedy , confusing, frustrated
+
+### Writers Workgroup
+
+No Summary Given
