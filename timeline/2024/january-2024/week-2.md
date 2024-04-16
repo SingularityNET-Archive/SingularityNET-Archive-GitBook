@@ -6,6 +6,13 @@ description: Mon 8th Jan - Sun 14th Jan 2024
 
 ## Monday 8th January 2024
 
+
+
+### Education Workgroup
+
+No Summary Given 
+
+
 ## Tuesday 9th January 2024
 
 
