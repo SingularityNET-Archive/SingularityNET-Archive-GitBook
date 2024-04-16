@@ -3,6 +3,7 @@
 ## Wednesday 10th April 2024
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -85,3 +86,71 @@
 #### Keywords/tags:
 - topics covered: Guilds, Budget, Q2, Tool Development, Proposal, AI tooling, API, deliverables, incentives
 - emotions: Collaborative, productive, Thoughtful , speedy
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, André, Guillermo, Photogee, hogantuso, Sound Wave
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764583176359336&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+  - [Lesson feedback form](https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit)
+
+#### Agenda item 1 - Quarterly Report - [carry over]
+
+#### Discussion Points:
+- Shared Dework PBL WG's quarterly report for Q1 2024 https://docs.google.com/document/d/1s09ifUK8J921X-oJRJzVAyPQKWO0FCKGEoYPDXyi66M/edit#heading=h.ftfioj9c9q2h
+
+#### Action Items:
+- [action] Edit, suggest, comment, do whatever you think should be highlighted about our Q1 results. [status] todo
+
+#### Agenda item 2 - SLT updates (Student Learning Target) - [carry over]
+
+#### Discussion Points:
+- Described new lesson to take position of lesson 101.2 - introduce Action Paragraphs and the first action is to ask for a Dework role
+- Should we re-structure onboarding section into different headers?
+
+#### Decision Items:
+- Merged Dework requirements (101.2) into About Dework (101.1). Both content now in a single lesson.
+
+#### Action Items:
+- [action] Update Miro Board structures - Tevo [assignee] Tevo [status] todo
+- [action] Create a Discord Account lesson [status] todo
+- [action] Collaborate with Deep Funding Academy to include their wallet registration lesson in our Dework PBL WG [assignee] Tevo [status] todo
+- [action] Include Metamask wallet guide to give them the idea of cross-chain opportunities [status] todo
+- [action] Update Dework PBL Onboarding structure into 3 different headers related to: Dework lesson, this course specific lesson, and blockchain tooling requirements that Ambassador program members use [status] todo
+
+#### Agenda item 3 - Andamio Updates - [carry over]
+
+#### Discussion Points:
+- Shared new Andamio instance design, look and capability
+- Current version does not do automatic updates, latest changes are currently only seen on GitHub.
+
+#### Action Items:
+- [action] Coordinate with Andamio team to update Dework PBL course into newest version [assignee] Tevo [status] todo
+
+#### Agenda item 4 - Domain and Public Course Hosting Service - [carry over]
+
+#### Discussion Points:
+- Would Ambassador Program be ok to be serviced by Governance Guild for maintaining the Dework PBL Andamio site?
+- How to be prepared for scaling?
+- Support makes it easier to integrate with other Ambassador Workgroup work
+
+#### Decision Items:
+- Accept Governance Guild hosting service offer of 20USD in AGIX per month
+  - [effect] mayAffectOtherPeople
+
+#### Agenda item 5 - Next session agendas - [resolved]
+
+#### Discussion Points:
+- What would we like to do in the next session?
+
+#### Decision Items:
+- If the opportunity presents itself, we will review the new site and try to do the course ourselves in the new design.
+  - [effect] affectsOnlyThisWorkgroup
+- Let's have a workshop to create a new lesson for example creating a new Discord Account
+  - [effect] affectsOnlyThisWorkgroup
