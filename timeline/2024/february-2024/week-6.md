@@ -235,6 +235,7 @@ Meeting was cancelled
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -294,6 +295,33 @@ Meeting was cancelled
 #### Keywords/tags:
 - topics covered: Miro Board, Budget , Quarter 1, Proposals, Quarterly Budget Calculator, core contributors
 - other: As always expecting reducing rewards and stepping to people's toes brings up heated discussions, but I feel like we made quite some good progress on the meeting
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: All Members [facilitator], Peter [documenter], SucrenSpice, Peter, Vanessa, lord kizzy, LadyTempestt, duke peter
+- Working Docs:
+  - [Onboarding slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Our regular meeting was replaced by an open Onboarding session for new people, including a Q&A. 
+
+#### Decision Items:
+- The session was not videoed
+  - [rationale] because the content was very similar to the previous Onboarding session here https://youtu.be/5gnF2Q2qLS0?si=V4AV3pIwdwQ-fgxW
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Notes were taken of the questions asked, and we will decide in our next meeting whether any of them need to be added to the Getting Started Discord channel as FAQ. [status] todo
+
+#### To carry over for next meeting:
+- Deciding on whether to add any new FAQs to Getting Started channel
+
+#### Keywords/tags:
+- topics covered: Onboarding, workgroups, the Ambassador role, Decision Making Process, Engagement, Getting Started
+- emotions: engaging new people, participatory, well organised
 
 
 ## Friday 9th February 2024
