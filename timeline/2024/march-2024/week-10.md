@@ -41,6 +41,13 @@ description: 26th February 2024 to 3rd March 2024
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Monthly analytics, video topics, Roles
 - emotions: Friendly, Thoughtful , entertaining
+## Tuesday 5th March 2024
+
+### Ambassador Town Hall
+
+Meeting was cancelled 
+
+
 ## Wednesday 6th March 2024
 
 
