@@ -233,3 +233,42 @@ Invite people to our meetings and explain how you become a member?
 #### Keywords/tags:
 - topics covered: Town Hall update, Q2 budget, Infographics, Education material, Collaboration, onboarding journeys, Treasury, Onboarding, workgroups, publicity, financial onboarding, survey , Videomaking
 - emotions: Friendly, funny , Deliberative, Discursive, Thoughtful
+## Friday 12th April 2024
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], devon [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, Slate, William, Gorga Siagian, ines ganina
+- Purpose: The meeting focused on article updates, zealy updates , platforms for articles, and workgroup operations.
+- Meeting video: [Link](https://us02web.zoom.us/j/89224946982?pwd=bVo0ckVyNlMxVmdxaUI1cUtUOWJDQT09)
+- Working Docs:
+  - [Content editing test](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Customer-centric AI Solutions: article for Cogito by LadyTempestt](https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing)
+  - [Writers' WG budget proposal for Q1 2024](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing)
+  - [SingularityNET Ambassadors on Medium](https://medium.com/@singularitynetambassadors)
+
+#### Narrative:
+We discussed the progress of ongoing articles.
+Kenichi proposed featuring a Mindplex podcast in trivia with 5 questions.
+Kenichi provided an update on his article "Zealy Quiz modules."
+We talked about issues related to task applications.
+Kenichi detailed the onboarding procedure and the grading system, with 3 writers rated as grade A and 2 as grade B.
+He explained the rationale behind using Medium and Twitter for articles.
+William recommended translating the articles.
+
+
+#### Decision Items:
+- Include the last five episodes of the Mindplex podcast in the trivia.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi will present the quarterly report at the upcoming townhall meeting. [assignee] Kenichi [status] todo
+
+#### Learning Points:
+- LinkedIn as a platform for articles
+- How to increase bonus system points
+- Point-based grading system
+
+#### Keywords/tags:
+- topics covered: Medium publications, Dework, Tasks, task priority, image generators, social media, contribution, monthly statistics
+- emotions: Collaborative, productive, Thoughtful
