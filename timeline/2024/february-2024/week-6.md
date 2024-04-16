@@ -237,6 +237,7 @@ Meeting was cancelled
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -329,6 +330,28 @@ Meeting was cancelled
 ### Deep Funding Town Hall
 
 No Summary Given 
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Jan Horlings, Judith [facilitator], Vanessa [documenter], Mercy, Joshua, Mohammed, Rafael Cardoso, Rojo, Kenn, Guillermo, Kenric Nelson, Seira, Ammar, Musonda Bemba, Mauro Andreoli
+- Purpose: Offering a space for proposers in Deep Funding round 3 to present their proposals
+
+#### Timestamped video:
+{% embed url="https://youtube.com/playlist?list=PLC_2LlWfxxofvmtx10K2urwQqDADT72vA&si=UjKUqUrs5-XzBueb" %}
+
+This week's Town Hall was replaced by a Deep Funding Spotlight Day, with presentations from proposers in Deep Funding round 3.
+
+[0:00](https://youtube.com/playlist?list=PLC_2LlWfxxofvmtx10K2urwQqDADT72vA&si=UjKUqUrs5-XzBueb\&t=0s) Intro
+[0:31](https://youtube.com/playlist?list=PLC_2LlWfxxofvmtx10K2urwQqDADT72vA&si=UjKUqUrs5-XzBueb\&t=31s) Df Spotlight Day Presentation By Judith
+[4:06](https://youtube.com/playlist?list=PLC_2LlWfxxofvmtx10K2urwQqDADT72vA&si=UjKUqUrs5-XzBueb\&t=246s) Deep Funding Test Round Updates By Jan
+[7:30](https://youtube.com/playlist?list=PLC_2LlWfxxofvmtx10K2urwQqDADT72vA&si=UjKUqUrs5-XzBueb\&t=450s) Breakout Room # 1
+[1:20:53](https://youtube.com/playlist?list=PLC_2LlWfxxofvmtx10K2urwQqDADT72vA&si=UjKUqUrs5-XzBueb\&t=4853s) Breakout Room # 2
+
+#### Keywords/tags:
+- topics covered: DeepFunding, Deep funding round 3
 
 
 ## Friday 9th February 2024
