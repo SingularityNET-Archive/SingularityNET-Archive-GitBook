@@ -235,6 +235,7 @@ Invite people to our meetings and explain how you become a member?
 - emotions: Friendly, funny , Deliberative, Discursive, Thoughtful
 ## Friday 12th April 2024
 
+
 ### Writers Workgroup
 
 - Type of meeting: Weekly
@@ -272,3 +273,27 @@ William recommended translating the articles.
 #### Keywords/tags:
 - topics covered: Medium publications, Dework, Tasks, task priority, image generators, social media, contribution, monthly statistics
 - emotions: Collaborative, productive, Thoughtful
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], devon [documenter], malik, hogantuso, Zalfred, Photogee, osmium, killy, GorgaSeagian, 5oundwave5, oep, AndrewBen
+- Purpose: The meeting focused on task updates, Video suggestions, and  onboarding process
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Malik, the social media manager, provided a rundown of the weekly updates and also shared information about Zealy.
+- Hogantuso, the task manager, provided updates on the weekly management tasks.
+- Acquintance and introduction of new applicants
+- Discussion on video suggestion by osmium on Hyperailbox
+- Discussion on the purpose of a video workgroup
+
+#### Action Items:
+- [action] video suggestion by osmium on Hyperailbox [assignee] osmium, oep [status] todo
+- [action] Tuso to guide new applicant andrew  [assignee] hogantuso [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Zealy, Videomaking
+- emotions: Friendly, speedy , Casual, engaging new people, positive
