@@ -10,6 +10,7 @@ description: Mon 5th Feb - Sunday 11th Feb
 
 
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -38,6 +39,12 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: the Ambassador role, experiment, Governance, Supervisory Council, Decentralisation Blueprint, Decentralization, Decentralization Blueprint, Decentralisation, Lead Writer, Knowledge management across the singularityNET ecosystem, Knowledge management, keeping informed, blogpost, community engagement, Google Docs, GitBook, useful documentation, Value of Ambassador Program, Purpose of Ambassador Program
 - emotions: interesting, informative, insightful, analytical
+
+
+
+### Governance Workgroup
+
+Meeting was cancelled 
 
 
 ## Wednesday 7th February 2024
