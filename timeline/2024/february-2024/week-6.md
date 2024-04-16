@@ -236,6 +236,7 @@ Meeting was cancelled
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -322,6 +323,12 @@ Meeting was cancelled
 #### Keywords/tags:
 - topics covered: Onboarding, workgroups, the Ambassador role, Decision Making Process, Engagement, Getting Started
 - emotions: engaging new people, participatory, well organised
+
+
+
+### Deep Funding Town Hall
+
+No Summary Given 
 
 
 ## Friday 9th February 2024
