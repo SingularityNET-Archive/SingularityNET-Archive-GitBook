@@ -188,6 +188,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -272,6 +273,48 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Video Script, New Onboarding video, Getting Started, Continuous Onboarding Report, Ideas and Improvements, Onboarding session slides video
 - emotions: Friendly, funny , Collaborative, Welcoming, Deliberative
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Jan Horlings, Judith [facilitator], Vanessa [documenter], Jan Horlings, Judith, Gavriel, Guillermo, duke peter, Vanessa, soubhir
+- Purpose: Discussion of Deep Funding and partnerships
+
+#### Timestamped video:
+{% embed url="https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj" %}
+
+[00:09](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=9s) Introduction
+[03:03](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=183s) Successful Completion Of Test Round And Positive Feedback
+[08:22](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=502s) Partnership Conditions And Benefits
+[11:08](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=668s) Creating Partnerships For Mutual Growth
+[16:18](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=978s) Different Perspectives Of Partnerships
+[18:44](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=1124s) Importance Of Legal Agreements And Communication Guidelines
+[23:42](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=1422s) Positive Response Towards Partnerships
+[26:15](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=1575s) Proposal For Partner Management Approach
+[30:56](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=1856s) Proposal To Create An All Circles Group As A Decision-making Entity
+[33:13](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=1993s) Implementing A Consent Mechanism For Partnership Decisions.
+[37:54](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=2274s) Guidelines For Legal Contracts And Partnerships
+[40:12](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=2412s) Partnerships And Project Funding Consideration
+[44:48](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=2688s) Deep Funding Allows For 50/50 Funding Partnerships With Crypto Entities For Themed Pools Like 'logistics.'
+[47:05](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=2825s) Partnership Funding Vs. Normal Proposals
+[52:21](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=3141s) Discussion On Assessing Potential Partners
+[54:59](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=3299s) Discussion On Community Trust And Decision-making
+[59:57](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=3597s) Engaging The Community For Feedback And Decision-making
+[1:02:08](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=3728s) Community Organizing And Decentralized Governance
+[1:06:51](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=4011s) Partnerships In Business Are Tricky
+[1:09:41](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=4181s) Considerations For Partnerships In The Crypto Space
+[1:14:09](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=4449s) Deep Funding Is Focused On Developing Artificial General Intelligence.
+[1:16:46](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=4606s) Decentralized Organizations Need To Consider Ethical Dimensions In Decision-making.
+[1:21:35](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=4895s) Finding Partners For Deep Funding Program
+[1:23:51](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=5031s) Balancing The Decision To Work With Open Ai
+[1:28:25](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=5305s) Decision-making Process And Next Steps
+[1:30:49](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=5449s) Privacy And Confidentiality In Partnerships
+[1:35:45](https://youtu.be/kmjAm9WsGus?si=4kNEL_iMAliIcqyj\&t=5745s) Discussion On Potential Funding Opportunities In Panama
+
+#### Keywords/tags:
+- topics covered: Partnership, Deep Funding test round, mutual growth, partner, legal, agreement, deep funding all circles, consent, consent decision making, Decision Making Process, contract, community engagement, Decentralization, Ethics, OpenAI, privacy, confidentiality, BGI 2024 summit
 
 
 ## Friday 23rd February 2024
