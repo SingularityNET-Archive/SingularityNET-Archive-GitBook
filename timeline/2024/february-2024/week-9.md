@@ -6,9 +6,44 @@ description: 26th February 2024 to 3rd March 2024
 
 ## Tuesday 27th February 2024
 
+
 ### Governance Workgroup
 
 Meeting was cancelled 
+
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Will Tatz [facilitator], Vanessa [documenter], 
+- Town Hall Number: 87
+
+#### Timestamped video:
+{% embed url="https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=0s) Intro By William
+[00:42](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=42s) Mentions
+[01:29](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=89s) Ideas For Tasks/workgroups
+[05:15](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=315s) Decision Making Software 
+[14:00](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=840s) Insights From Bgi Conference
+[16:28](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=988s) Education Guild Questions
+[21:25](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=1285s) Writer's Workgroup Operations 
+[22:05](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=1325s) Tevo Joins (updates From Panama)
+[29:05](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=1745s) Writer's Workgroup Operations
+[38:17](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=2297s) Cleveland Ai Meetup
+[44:30](https://youtu.be/GeCYASj70wA?si=1GGucOxj9mMvpK6u\&t=2670s) Ending
+
+#### Town Hall Summary:
+This TH was hosted by Will Tatz, as the usual host, Peter, was at the BGI Conference in Panama.
+
+Unfortunately, the list of attendees at this Town Hall was not recorded.
+
+
+#### Keywords/tags:
+- topics covered: core contributors, Decision Making Process, BGI 2024 summit, the Ambassador role, workgroups, decision making software, Education Guild, Writers WorkGroup, Cleveland, Cleveland AI meetup
 
 
 ## Wednesday 28th February 2024
