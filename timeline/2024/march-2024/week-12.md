@@ -301,6 +301,7 @@ Mention session with André about payments, treasury etc on 18th April
 
 ## Friday 22nd March 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -328,6 +329,12 @@ Mention session with André about payments, treasury etc on 18th April
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics, Budget , Quarterly Report
 - emotions: Friendly, Thoughtful , speedy , Casual, productive
+
+### Writers Workgroup
+
+No Summary Given 
+
+
 ## Saturday 23rd March 2024
 
 ### Education Workgroup
