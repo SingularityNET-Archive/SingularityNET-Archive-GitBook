@@ -148,6 +148,7 @@ Meeting was cancelled
 ## Thursday 7th March 2024
 
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -247,6 +248,51 @@ Advertise that the next onboarding session is on 16th May.
 #### Keywords/tags:
 - topics covered: Miro Board, Budget , Quarter 1, Quarterly Budget Calculator, Surplus, Exchange rates, Reporting
 - how the meeting felt: small, not many people spoke, no decisions, duologue, collating ideas
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Judith [facilitator], Vanessa [documenter], Judith, Ubio, Gavriel, Mauro Andreoli, Rafael Presa, Curtis, Emotu, WaKa, Kenn, duke peter, Juan Pablo Barea, William Thistleton, hogantuso, Yoram Ben Zvi, Daniel David Lezu, Juana Attieh, Clement Umoh
+- Purpose: Discussion of ideas for improvements to Town Hall
+
+#### Timestamped video:
+{% embed url="https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC" %}
+
+[0:00](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=0s) Intro By Judith Williams.
+[03:42](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=222s) Mauro Andreoli Giving His Point Of View On Guests At Th.
+[04:30](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=270s) Rafael Presa About Format.
+[06:10](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=370s) Unio Obu On Why Do Come To Deep Funding.
+[08:15](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=495s) William Thistleton On Technical Interest In Deep Funding.
+[11:12](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=672s) Curtis Myers On Value Contribution.
+[12:11](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=731s) Emotu About Platform Assistance For Dyslexic People.
+[16:24](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=984s) Walter Karshat On Builder Community.
+[19:01](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=1141s) Mauro Andreoli About Developers To Attend Th.
+[23:01](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=1381s) Unio Obu Discussion On How Technicals Are The Th.
+[26:31](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=1591s) Gavriel In Culture Share About Th.
+[33:09](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=1989s) Ken Suggestion On Hackathons Events And Going On Public At Other Platforms.
+[39:35](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=2375s) Gavriel Sharing The Survey On Producing Projects Vs. Engage With The Community.
+[43:41](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=2621s) Unio Obu Implication On The Statement That Th Should Be For The Town.
+[46:30](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=2790s) Rafael Presa On Creating Connections And Engagements Round After Round.
+[51:42](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3102s) Gavriel About To Leverage Breakout Rooms In X Spaces.
+[53:10](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3190s) Mauro Andreoli Presents His Experience With  X Spaces And Topics To Discuss.
+[55:20](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3320s) Gavriel About Directing Conversation For Developers.
+[56:30](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3390s) Rafael Presa About Being Beneficial For Everyone.
+[59:47](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3587s) Gavriel Says That The Th Should Be Something To Meet The People In The Town.
+[01:01:38](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3698s) Unio Obu Anyone Should Join The Th.
+[01:04:05](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=3845s) Awareness About The Proposers Are Not Participating In Th.
+[01:11:20](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=4280s) Kenn And Gavriel About Community Governance.
+[01:14:55](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=4495s) Mauro Andreoli Presents Positives Indicators At Current Th.
+[01:16:00](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=4560s) Walter On Tools And Platforms For Th.
+[01:18:51](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=4731s) Duke Suggest Delegating On Survey For Developers Ecosystem About How They Think To Understand The Topics For Them In The Th.
+[01:21:20](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=4880s) Walter About How Developers Can Participate In Th.
+[01:23:25](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=5005s) Rafael Presa With Technical Vs Non-technicals Funded Projects.
+[01:24:35](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=5075s) Gavriel Explains That Developers Are Social Persons.
+[01:26:25](https://youtu.be/Gt_BjQFIJNU?si=ObHqqmQ986-2SldC\&t=5185s) Final Words
+
+#### Keywords/tags:
+- topics covered: developers, format, guests, contribution, value, dyslexia, community, community engagement, builder, hackathon, breakout room, X spaces, proposer, participation, Governance, community governance, tools, platform, survey , tech vs non tech
+
+
 ## Friday 8th March 2024
 
 
