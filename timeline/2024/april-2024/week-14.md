@@ -4,6 +4,7 @@
 
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -119,6 +120,44 @@
 #### Keywords/tags:
 - topics covered: Q1 quarterly report, encouraging use of Archives, bounties, timestamps, Q2 budget, community engagement, engaging new people, Quarterly Report, accountability, GitHub, BGI 2024 summit, Tag taxonomy, Reporting, forward planning
 - emotions: positive, new people present, short, Friendly
+
+
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Clement Umoh, Olokoji, lord kizzy, Felix
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764579831707581&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Quarterly report: Knowledge Base WG - [resolved]
+
+#### Discussion Points:
+- Shared Draft quarterly report https://docs.google.com/document/d/1B_u4kYNusZdGOq1xK8km54mOsBloM9oXGXzqpv9DxU4/edit?usp=sharing
+- Improved Onboarding feedback loop
+
+#### Action Items:
+- [action] Participants are welcome to introduce new insights on the report. [status] todo
+
+#### Agenda item 2 - Miro Board Overview and Onboarding Process - [resolved]
+
+#### Discussion Points:
+- Showed around Miro Board and introduced to workgroup processes https://youtu.be/aVg_N2notVE
+
+#### Agenda item 3 - Analyzed and organized asset relations with - [carry over]
+
+#### Discussion Points:
+- Organized Process Guild GitBook asset
+- Organized Translation WG GitBook asset
+- Ideated on async organizing process
+
+#### Decision Items:
+- In the next session, let's organize one item where, in each category, a different person shares thoughts.
+  - [effect] affectsOnlyThisWorkgroup
+
 
 
 ## Thursday 4th April 2024
