@@ -2,9 +2,41 @@
 
 ## Tuesday 12th March 2024
 
+
 ### Governance Workgroup
 
 No Summary Given 
+
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Peter, Curtis, Ubio, Ian, Judith, Nicola, Slate, Tevo, Vanessa, WaKa, Grace Rachmany, Nick Almond, SucrenSpice, Headelf, Kenichi
+- Town Hall Number: 88
+
+#### Timestamped video:
+{% embed url="https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=0s) Introduction By Peter
+[01:54](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=114s) Mentions
+[03:50](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=230s) Core Contributors-continued
+[12:05](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=725s) Bgi24 Recap
+[22:34](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=1354s) Open Discussion 
+[23:10](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=1390s) Questions About The Core Contributor Rôle
+[27:10](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=1630s) Tommy Congratulations 
+[30:35](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=1835s) Tevo About Processes
+[31:51](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=1911s) Tommy Open Topic
+[37:08](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=2228s) Central Source Of Information By Grace
+[42:35](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=2555s) Decentralization Blueprint Writer Nick Almond
+[54:50](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=3290s) What Does Onboarding Mean To You?
+[57:40](https://youtu.be/XufEXYCMU7Y?si=oA-8S87i0ROyTYzW\&t=3460s) Ending By Peter
+
+#### Keywords/tags:
+- topics covered: Decentralization Blueprint, core contributors, BGI 2024 summit, Decentralization, Decentralisation, fishbowl interviews, treasury guild operations, dework PBL
+- emotions: supportive, congratulatory, Discursive
 
 
 ## Wednesday 13th March 2024
