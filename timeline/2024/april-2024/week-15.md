@@ -297,3 +297,40 @@ William recommended translating the articles.
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Zealy, Videomaking
 - emotions: Friendly, speedy , Casual, engaging new people, positive
+## Saturday 13th April 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], malik, rebel, hufiumer69, lord kizzy, Gorga Siagian, 5oundwave5, flyn
+- Purpose: Task Assignment and Q2 outlook review
+- Working Docs:
+  - [Quarterly Report ](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh_EdIL-bAlPFXiQ/edit?usp=sharing)
+
+#### Narrative:
+
+The game was not played and not all agenda items were covered because the meeting ran late.
+
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Slate showcased the workgroup and the upgrades made to the workgroup 
+- Slate also showcased the NPC dialogue system and the questions added to the workgroup lead NPC 
+- discussion on other platforms for game creation 
+- Quarterly budget was discussed
+- timetable for gathering information from various workgroups.
+
+#### Decision Items:
+- 2 department creation per month
+  - [effect] affectsOnlyThisWorkgroup
+- Schedule for collecting information
+
+#### Action Items:
+- [action] Change stranger with mate/friend in NPC Dialogue [assignee] Slate [status] todo
+- [action] Collecting information from video workgroup [assignee] malik, devon [status] todo
+- [action] Collecting information from treasury guild [assignee] Gorga Siagian, hufiumer69 [status] todo
+- [action] Collecting information from educational guild [assignee] Gorga Siagian, malik [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget , Roblox, participation, NPC, Budget Request
+- emotions: Friendly, Collaborative, Thoughtful
