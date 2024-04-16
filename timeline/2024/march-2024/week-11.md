@@ -161,6 +161,7 @@ Advertise that the next onboarding session is on 16th May.
 ## Friday 15th March 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -212,6 +213,12 @@ Advertise that the next onboarding session is on 16th May.
 #### Keywords/tags:
 - topics covered: community engagement, Value of Ambassador Program
 - emotions: Casual, Thoughtful, speedy 
+
+
+
+### Writers Workgroup
+
+No Summary Given 
 
 
 ## Saturday 16th March 2024
