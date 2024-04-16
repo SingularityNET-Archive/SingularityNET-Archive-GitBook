@@ -2,6 +2,7 @@
 
 ## Wednesday 10th April 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -43,3 +44,44 @@
 #### Keywords/tags:
 - topics covered: ACP, review, Budget , platform, quizzes
 - emotions: productive,  Collaborative, Businesslike., speedy
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Curtis, Guilermo [facilitator], Onyeka  [documenter], Photogee, Ubiodee, Tevo, 5oundwave5, William, Curtis, Guillermo, Onyeka
+- Purpose: R&D discussions on quarterly report for Q1
+- Working Docs:
+  - [Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
+  - [Final Guilds requested Budget](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget ](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254)
+  - [Typeform link](https://fqmtepho6kd.typeform.com/to/uHsVjdS5)
+  - [R&D _ Q1 DELIVERABLES](https://drive.google.com/drive/folders/1qy4P7bWmzFDWbNe03Do5HSV3FLOGYMnT?usp=sharing)
+  - [Research & Development Guild Budget Proposals Sheet](https://docs.google.com/spreadsheets/d/1Cu2snGCH-9H4rviHFwcMD_qV-qRLjwFbO4eNjrWX6Hs/edit?usp=drive_link)
+  - [R&D _ Q1 Quarterly Report ](https://docs.google.com/document/d/1ZFZr_OxtuQd2x21ZQQtFiaMipuYdj8MvuYFljWsRRZ8/edit?usp=drive_link)
+
+#### Agenda Items:
+- R&D discussions on Q1 quarterly report.
+
+#### Discussion Points:
+- Discussions on project deliverables
+- Discussions on Q1 quarterly report and plans for the upcoming quarter.
+- There were some introductions from new members.
+
+#### Decision Items:
+- We decided to use the MIRO board for Q1 RoadMap and Operations
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Rojo to continue building the backend and conduct the backend testing with members of the project who manage the social media account; once that is done, then build the front end [assignee] Rojo [due] 3 April 2024 [status] in progress
+- [action] Guillermo to assist the other teams to get some deliverables [assignee] Guillermo [due] 3 April 2024 [status] in progress
+- [action] Curtis and Rojo to create a document for showcasing our progress (deliverables) in the Guild [assignee] Curtis, Rojo [due] 3 April 2024 [status] todo
+- [action] Curtis and Guillermo to have a call to see where we are as a Guild, how we integrate with Treasury and Archives workgroup works [assignee] Curtis, Guillermo [due] 3 April 2024 [status] done
+- [action] Guillermo to attend the next Treasury meeting on the 5th of April,2024 [assignee] Guillermo [due] 11 April 2024 [status] done
+- [action] Guillermo to have a call with Ubio on providing assistance to the multilingual project through some Brazilians  [assignee] Guilermo [due] 11 April 2024 [status] todo
+- [action] Guild members to add their contributions to the docs [assignee] All Members [due] 17 April 2024 [status] todo
+- [action] Ubio, Waka, Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template. [assignee] Ubiodee, WaKa, Rojo [due] 17 April 2024 [status] todo
+- [action] Onyeka to message Rojo on how he could contribute to the automated social media project. [assignee] lord kizzy [due] 17 April 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds, Budget, Q2, Tool Development, Proposal, AI tooling, API, deliverables, incentives
+- emotions: Collaborative, productive, Thoughtful , speedy
