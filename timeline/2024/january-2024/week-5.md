@@ -44,6 +44,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -147,3 +148,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Onboarding, Roles, Tool Development, Proposal, Q1 projections, Quarter 1, AI tooling
 - emotions: Collaborative, productive, challenging, Friendly
+
+### Research and Development Guild
+
+No Summary Given
