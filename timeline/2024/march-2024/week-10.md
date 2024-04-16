@@ -243,6 +243,7 @@ Advertise that the next onboarding session is on 16th May.
 ## Friday 8th March 2024
 
 
+
 ### Marketing Guild
 
 - Type of meeting: Weekly
@@ -308,3 +309,7 @@ Advertise that the next onboarding session is on 16th May.
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics, Roles, Hypercycle
 - emotions: Friendly, Thoughtful , speedy , Casual
+
+### Writers Workgroup
+
+No Summary Given
