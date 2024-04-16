@@ -47,6 +47,7 @@ No Summary Given
 
 ## Wednesday 17th January 2024
 
+
 ### <mark style="color:green;">Dework PBL WorkGroup</mark>
 
 #### **Present:**&#x20;
@@ -129,6 +130,12 @@ Dework PBL Workgroup Proposal - [https://docs.google.com/document/d/1D-w4GgH3fdZ
 The meeting was progressive. We were able to onboard a new person.
 
 ***
+
+
+### Education Workgroup
+
+No Summary Given 
+
 
 ## Thursday 18th January 2024
 
