@@ -154,3 +154,82 @@
   - [effect] affectsOnlyThisWorkgroup
 - Let's have a workshop to create a new lesson for example creating a new Discord Account
   - [effect] affectsOnlyThisWorkgroup
+## Thursday 11th April 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: LadyTempestt [facilitator], lord kizzy [documenter], Vanessa, SucrenSpice, Cjfrankie, duke peter, Photogee, Billy, Kenichi, osmium, Gorga Siagian, Peter, hogantuso, Olokoji, 5oundwave5, Clement Umoh
+- Working Docs:
+  - [Draft doc on how to become a WG](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit)
+  - [Onboarding workgroup Q2 budget proposal](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+  - [Quarterly report for Q1](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
+  - [Consent Decision-making for Ambassador Q1 budgets](https://docs.google.com/document/d/1c6GRhTowZw2cxqyKVYRHT27Zw0vAUg0ww2GEXsU2iiw/edit?usp=sharing)
+  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1IV4-7tsUJ99s4DY_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit)
+  - [Ideas & Potential Improvements Doc](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit?usp=sharing)
+  - [Continuous Onboarding Report](https://docs.google.com/document/d/1UEL60VgQ_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit?usp=sharing)
+  - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+
+#### Town Hall Updates:
+Suggestions (to be confirmed in meeting on 25th
+report back on Treasury session on 18th, and link to video of it?
+Share our Q1 quarterly report?
+Say we are working on some onboarding journeys?
+Say we have implemented a buddy system to mentor new members?
+Invite people to our meetings and explain how you become a member?
+
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+- Action Items from the last meeting
+- The Token Merger
+- Onboarding Journeys
+-  Q2 Budget
+- Creating a doc on the "Renaming the Ambassador role" decision
+- Facilitation and Documentation next time
+- Money and Payments session with André on 18th April
+- Next Town Hall Updates on 30th April
+
+#### Decision Items:
+- We decided that Olokoji will facilitate the next onboarding workgroup meeting on the 25th of April, 2024, if Peter isn't available 
+  - [rationale] Peter might not be available due to the ASI Merger discussion
+- We decided that Clement's idea on a complilation graphic for new members will be implemented in the next Quarter. 
+  - [rationale] we decided to use this quarter to track new members that are coming into the program
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to add Gorga 's proposal for educational resources on Spinoffs in Indonesian and Japanese to our Budget for Q2
+  - [effect] affectsOnlyThisWorkgroup
+- We decided QA-DAO will create a zoom meeting link for André's workshop on the 18th (next week) just in case Peter won't be available to start up the session. 
+  - [effect] affectsOnlyThisWorkgroup
+- We decided LadyTempestt will assist André as the Co Host for the treasury session on the 18th
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that in principle, we are interested in creating a doc to support core contributors iwith the decision-making process about whether or not to rename the Ambassador role - but first, it should be clarified in a Governance WG meeting exactly what is being decided on.
+  - [rationale] There's a bit of unclarity about whether it's just the name of the role, or the name of the Program itself, or even the whole "roles and levels" issue
+  - [effect] mayAffectOtherPeople
+- We agreed on the main activities for Q2 and their costs - see budget sheet https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk
+  - [rationale] We decided that some things suggested would be better in Q3 since they don't feel ready to do in this Quarter.
+
+#### Action Items:
+- [action] Duke, Onyeka, and Cjfrankie to continue work on Onboarding Journeys [assignee] duke peter, lord kizzy, cjfrankie  [due] 4 April 2024 [status] in progress
+- [action] Vani to add minutes of the last meeting (14th March) to the Archive via meeting summary tool. [assignee] Vanessa [due] 25 April 2024 [status] done
+- [action] Lord kizzy to create a graphic to publicize the Ideas & Potential improvement Doc and Continuous Onboarding Report. [assignee] lord kizzy [due] 4 April 2024 [status] done
+- [action] Love to create a graphic to publicize the session with Andre on treasury operations [assignee] LadyTempestt [due] 4 April 2024 [status] done
+- [action] Peter to give Olokoji & Billy the Onboarding Workgroup tag - done during the meeting [assignee] Peter [due] 11 April 2024 [status] done
+- [action] Duke to mentor Clement on how to deliver the Workgroup updates [assignee] Duke, Clement Umoh [due] 25 April 2024 [status] todo
+- [action] Clement to do our Town Hall updates on Tues 30th April [assignee] Clement Umoh [due] 30 April 2024 [status] todo
+- [action] Gorga to write a short proposal for making SNET educational content - he'll present it at our next meeting [assignee] Gorga Siagian [due] 25 April 2024 [status] todo
+- [action] LadyTempestt to add some ideas on surveys to be implemented in Q2 to the Q2 Budget sheet  [assignee] LadyTempestt [due] 25 April 2024 [status] todo
+- [action] SucrenSpice to send our Q2 Budget sheet to Treasury  [assignee] Sucren [due] 25 April 2024 [status] todo
+- [action] SucrenSpice to check attendance records to see if Hogan Tuso is qualified to get the Onboarding tag [assignee] Sucren [due] 25 April 2024 [status] todo
+- [action] Lord Kizzy to collaborate with Photogee on editing the video of the Treasury session on 18th April [assignee] lord kizzy, Photogee [due] 25 April 2024 [status] todo
+
+#### Learning Points:
+- Vani got a new name from Peter (Vanilla)
+
+#### To carry over for next meeting:
+- Treasury session with André
+- Creating a doc about the Renaming decision
+
+#### Keywords/tags:
+- topics covered: Town Hall update, Q2 budget, Infographics, Education material, Collaboration, onboarding journeys, Treasury, Onboarding, workgroups, publicity, financial onboarding, survey , Videomaking
+- emotions: Friendly, funny , Deliberative, Discursive, Thoughtful
