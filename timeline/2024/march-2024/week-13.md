@@ -230,6 +230,7 @@ GOVERNANCE THINGIES
 - emotions: Friendly, funny , Deliberative, Discursive, Thoughtful
 ## Friday 29th March 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -260,6 +261,12 @@ GOVERNANCE THINGIES
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Budget , Quarterly Report
 - emotions: Friendly, Thoughtful , speedy , Casual, productive, Organised, engaging new people, positive
+
+### Writers Workgroup
+
+No Summary Given 
+
+
 ## Saturday 30th March 2024
 
 ### Gamers Guild
