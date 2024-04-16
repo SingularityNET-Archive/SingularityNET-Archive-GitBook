@@ -9,6 +9,7 @@ description: Mon 15th Jan - Sun 21st Jan 2024
 ## Tuesday 16th January 2024
 
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -34,6 +35,12 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 
 ### Governance Workgroup
+
+No Summary Given 
+
+
+
+### Research and Development Guild
 
 No Summary Given 
 
