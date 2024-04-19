@@ -327,11 +327,6 @@ Meeting was cancelled
 
 
 
-### Deep Funding Town Hall
-
-No Summary Given 
-
-
 
 ### Deep Funding Town Hall
 
