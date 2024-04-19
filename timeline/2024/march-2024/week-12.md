@@ -7,6 +7,7 @@ description: 18th March 2024 to 24th March 2024
 ## Wednesday 20th March 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -134,6 +135,53 @@ description: 18th March 2024 to 24th March 2024
 #### Keywords/tags:
 - topics covered: Ambassador GitBook, Miro Board, organizing, purpose, Onboarding, Proposal, Budget , Article 
 - emotions: Both progressive and a learning moment for decision making
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, esewilliams, duke peter, Peter, Clement Umoh, Kenichi, Cjfrankie, lord kizzy, Curtis, GorgaSeagian
+- Purpose: Budget,  ACP, Quiz creation, HeadElf's absence , Proposals for next quarter 
+- Working Docs:
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Videos And infographics completion 
+- Budget request for Q2
+- Proposal ideations for Q2
+- HeadElf's absence 
+- Completion of ACP 
+- Completion of remaining vids and infos by next meeting 
+- New platform for ACP introduction
+
+#### Discussion Points:
+- Meeting started with Slate welcoming everyone to the meeting 
+- Slate mentioned that he and Headelf are currently working on Education Guild budget request but it's delayed 
+- Headelf has been busy lately and hasn't checked dms yet 
+- Slate asked everyone which proposals or initiatives Education Guild could take in the next quarter 
+- Osmium pointed out that we could use Mentimeter instead of Teams or Google Classroom as it's more beneficial 
+- Slate informed every participant who is late on his/her submission to complete it by next meeting as we will be moving towards quiz creation
+- Slate also asked everyone should the quiz creation be open to everyone or should it be assigned to the same person who made the vids and info 
+- Gorga showed interest in making of quizzes
+- Osmium said that the quiz should be made by the same person who made the info and vids 
+- Slate shared a sheet with everyone where they can give their suggestions on proposals 
+- Slate also proposed that we should be educating on holding AMAs on every social platform
+
+#### Decision Items:
+- Work on budget 
+  - [effect] affectsOnlyThisWorkgroup
+- Complete ACP videos and infographics 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Next quarter budget discussion will take place in the next meeting. [assignee] everyone assigned  [due] 26 March 2024 [status] in progress
+- [action] Start the making of quizzes  [assignee] everyone assigned  [due] 26 March 2024 [status] todo
+- [action] Set up Google Classroom  [assignee] everyone assigned  [due] 26 March 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: ACP, Google Classroom, review, Budget, Q2 2024 budget, Absence, Proposals
+- emotions: productive,  Collaborative, Businesslike., speedy 
+
+
 ## Thursday 21st March 2024
 
 
@@ -362,4 +410,3 @@ In Breakout Room 2 we reviewed the current Deep Funding branding manual and guid
 ### Writers Workgroup
 
 No Summary Given
-
