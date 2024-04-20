@@ -307,6 +307,8 @@ Productive, friendly, collaborative, action-oriented, problem-solving
 
 ## Saturday 25th November 2023
 
+### <mark style="color:green;">Gamers' Guild</mark>
+
 #### Present:
 
 Slate \[Host], Malik, Hufiumer69, Rebel, Oneforall, Lord\_kizzy, OEP, DTK, Devon Hardy \[documenter].
