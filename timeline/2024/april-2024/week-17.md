@@ -3,6 +3,7 @@
 ## Wednesday 24th April 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -92,6 +93,71 @@
 #### Keywords/tags:
 - topics covered: ACP, review, platform, Fetch, Ocean, Google Classroom, gamersguild, representation, Roblox, Andamio, 
 - emotions: productive, Collaborative, Businesslike, speedy
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, André, Gorga Siagian, 5oundwave5, SucrenSpice
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+  - [Lesson feedback form](https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit)
+
+#### Agenda item 1 - Andamio Updates - [carry over]
+
+#### Discussion Points:
+- Differences between Andamio Version 1 and 2
+- Current problems to be solved in Version 1 and 2
+
+#### Decision Items:
+- We will try Version 2 once it's ready for testing
+  - [effect] affectsOnlyThisWorkgroup
+- We continue to use Version 1
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Check on Andamio Version 2 updates before next meeting - Tevo [assignee] Tevo [due] 7 May 2024 [status] todo
+
+#### Agenda item 2 - What lessons are missing? - [carry over]
+
+#### Discussion Points:
+- Ideated on lessons we could make in the session
+- What should the scope of Dework PBL be?
+
+#### Decision Items:
+- We use meeting time to create a lesson about how to create a Nami wallet
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Add Nami Wallet lesson from Google Doc to Dework PBL Course https://docs.google.com/document/d/1KoYG8INC5aupcJpDlwOu8tVQSRD0UlF1Pt8pQGMn5g4/edit#heading=h.d4ti2to33mpw [assignee] Tevo [status] todo
+
+#### Agenda item 3 - Dework PBL Onboarding Structure - [carry over]
+
+#### Discussion Points:
+- Should we group wallet registration options together?
+
+#### Decision Items:
+- Group Wallet registration lessons into Module 101
+  - [effect] affectsOnlyThisWorkgroup
+- Before we start the main topics of course we expect students to have Cardano wallet address (identity)
+  - [effect] affectsOnlyThisWorkgroup
+- Learning Requirements is Module 102
+  - [effect] affectsOnlyThisWorkgroup
+- And rest of lessons go to Module 103
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] What do we do with Assignment lessons? [status] todo
+- [action] Update Course Structure  [assignee] Tevo [status] todo
+
+#### Keywords/tags:
+- topics covered: Course structure, wallet, Nami, scope, scope of Dework PBL, Andamio, Andamio version 2, Andamio updates, expectations, expectations of learners
+
+
 ## Friday 26th April 2024
 
 ### Video Workgroup
