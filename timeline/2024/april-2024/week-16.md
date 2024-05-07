@@ -265,3 +265,24 @@
 #### Keywords/tags:
 - topics covered: Miro Board, procedures, Proposal, Cohort, On-Chain, Quarter, Governance, Budgets, Rewards, core contributors, consent decision making, Q2 budget
 - emotions: Discursive, inconclusive
+## Friday 19th April 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], devon [documenter], malik, hogantuso, Zalfred, Photogee, osmium, killy, GorgaSeagian, 5oundwave5, oep, Billy
+- Purpose: The meeting focused on task updates, Zealy updates, and community engagement
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Weekly meeting agenda outlined by Slate
+- Malik, the social media manager, provided a rundown of the weekly updates and also shared information about Zealy.
+- Hogantuso, the task manager, provided updates on the weekly management tasks.
+- Discussion on the process of Zealy
+- Improving community engagement 
+- A representative from Gamers' Guild explained their Roblox game and asked some questions about the video workgroup for inclusion in the game.
+
+#### Keywords/tags:
+- topics covered: social media management, workgroup updates, new people, Zealy, videomaking, Roblox, Gamers' Guild, community engagement
+- emotions: Friendly, Casual, positive, Thoughtful
