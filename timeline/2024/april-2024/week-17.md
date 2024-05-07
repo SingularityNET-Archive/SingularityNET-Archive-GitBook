@@ -2,6 +2,7 @@
 
 ## Wednesday 24th April 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -58,3 +59,36 @@
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, meeting summary tool, agenda creation
 - emotions: Collaborative, productive, Thoughtful , speedy , Welcoming
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, Clement Umoh, Photogee, GorgaSeagian, Peter, malik, osmium, WaKa, SoundWaves, Billy
+- Purpose: Google Classroom showcasing by Slate, VR model showcasing by Gamers' Guild 
+- Working Docs:
+  - [Andamio Overview ](https://docs.google.com/document/d/10Yy0lg17MtvN8xCZbFHRft-NZ7XxM-P-pLu8sYrHCTs/edit)
+
+#### In this meeting we discussed:
+- Google Classroom test run , Gamers' Guild presentation by Gorga and Malik 
+
+#### Discussion Points:
+- Slate apologised for being late 
+- Then he showcased working of ACP in terms of Google Classroom and how we can integrate it in it 
+- Then he invited everybody to take the assigned quiz and check the resources 
+- So far Google Classroom seems to be the best option for introducing ACP 
+- Then Osmium shared some insights from Tevo regarding Andamio 
+- Then at the end Gamers' Guild  showcased their work and collected information regarding Education Guild which will be integrated inside Ambassador Program VR
+- Everybody really liked the initiative and the presentation 
+
+#### Decision Items:
+- Reach out to Fetch and Ocean
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Hold vote for educator role  [assignee] Slate [due] 26 April 2024 [status] done
+- [action] Reach out to Fetch and Ocean [assignee] WaKa [due] 1 May 2024 [status] todo
+- [action] Present teams app presentation [assignee] esewilliams [due] 1 May 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: ACP, review, platform, Fetch, Ocean, Google Classroom, gamersguild, representation, Roblox, Andamio, 
+- emotions: productive, Collaborative, Businesslike, speedy
