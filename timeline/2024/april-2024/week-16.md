@@ -4,6 +4,7 @@
 
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -135,3 +136,70 @@
 #### Keywords/tags:
 - topics covered: ACP, review, platform, quizzes, Fetch, Ocean
 - emotions: productive, Collaborative, Businesslike, speedy
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Olokoji, lord kizzy, André, Photogee
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?share_link_id=819033103692)
+- Transcript: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764583723783907&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Onboarding - [carry over]
+
+#### Discussion Points:
+- We have new feedback on the workgroup onboarding form. 
+
+#### Decision Items:
+- We will postpone the onboarding improvements discussions until we can async do the Organizing steps.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Discuss Onboarding improvements and insights on form improvements. [status] todo
+
+#### Agenda item 2 - Organized Onboarding Workgroup GitBook assets - [carry over]
+
+#### Discussion Points:
+- Our approach to organizing (5min video): https://www.youtube.com/watch?v=lJ8FYsFb0TQ
+
+#### Decision Items:
+- We found seven times more places where Feedback Form Item could fit in the organizing window.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] The rest of the three Onboarding workgroup items we put up for the async test round [status] todo
+
+#### Agenda item 3 - What would be our async organizing outcome expectations and rewards? - [carry over]
+
+#### Discussion Points:
+- How much budget we have left? ~2k AGIX Left
+- How much experience do we expect from participants?
+- Organizer and Organizer Reviewer Roles
+- Role activities and process
+- Role Rewards
+
+#### Decision Items:
+- Two people should organize each Async item. (we can afford the quality and diversity of thought)
+  - [effect] affectsOnlyThisWorkgroup
+- To obtain an Organizer and Organizer Reviewer Role, you must attend one session where we Organize Items live.
+  - [effect] mayAffectOtherPeople
+- We use purple sticky if we want to remove items from organized places.
+  - [effect] affectsOnlyThisWorkgroup
+- We use Miro Board Kanban to manage Organizing Items Async.
+  - [effect] affectsOnlyThisWorkgroup
+- Organizing Item Rewards is based on the default hourly rate and the average time it takes to complete an Item.
+  - [effect] affectsOnlyThisWorkgroup
+- The first five Organized Items give 50% less rewards for a contributor.
+  - [effect] affectsOnlyThisWorkgroup
+- Organizing and Reviewing have the same rate
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Test Organizing one Item by the end of 24th April [status] todo
+- [action] Test Reviewing one Organized Item before the next session. [status] todo
+
+#### Keywords/tags:
+- topics covered: organizing, review, Budget , Onboarding, Ambassador GitBook, Miro Board
