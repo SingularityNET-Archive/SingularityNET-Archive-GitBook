@@ -127,3 +127,38 @@
 
 #### Keywords/tags:
 - topics covered: consent decision making, core contributors, Budget , Q2 budget, objections, consent, privacy, Roblox, Gamers Guild
+## Friday 3rd May 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], hogantuso, Photogee, lord kizzy, Slate, D.S.9, Mikasa, tevosak, Olokoji, devon, cardano_class, Clement Umoh
+- Purpose: Weekly updates/deliberation of Q2 budget
+- Working Docs:
+  - [Quarterly workgroup budget](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945)
+
+#### Discussion Points:
+- Updates on the Zealy campaign
+- Slate, as the social media manager, provided this week's update about our social media platform
+- Lord kizzy, as the task manager, provided weekly task updates.
+- We are to vote on how tasks will be distributed, either quarterly or monthly
+- There was a discussion on been more descriptive on the Zealy tasks
+- There was a discussion about the Q2 budget
+- There was a discussion on Gamers' Guild
+
+#### Decision Items:
+- Slate and malik to work on the Zealy engagement
+  - [rationale] Slate is the current social media manager, while malik is the pervious manager so they are to work together and update more content
+- We decided to tag some tasks to know what type of payment is being made, either it is weekly or monthly
+  - [rationale] To be descriptive on the type of payment being paid out from the work group
+- We decided to do a Discord vote to decide if the task assignments will be distributed either quaterly or monthly
+  - [rationale] We decided to make it a Discord vote because we need all video workgroup members' participation
+
+#### Action Items:
+- [action] Task Management/ tag the task payment either it is a monthly or weekly payment [assignee] lord kizzy [due] 24 May 2024 [status] todo
+- [action] facilitator to give monthly updates [assignee] Zalfred [due] 24 May 2024 [status] todo
+- [action] Facilitator to create a vote pool for quarterly or monthly assignment [assignee] Zalfred [due] 24 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, new people, Videomaking, task assignment, Zealy, payments, quarterly or monthly, Discord, voting, governance, decisionmaking
+- emotions: Friendly, Casual, positive, speedy
