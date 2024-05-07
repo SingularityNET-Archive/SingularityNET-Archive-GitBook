@@ -92,3 +92,31 @@
 #### Keywords/tags:
 - topics covered: ACP, review, platform, Fetch, Ocean, Google Classroom, gamersguild, representation, Roblox, Andamio, 
 - emotions: productive, Collaborative, Businesslike, speedy
+## Friday 26th April 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], devon [documenter], malik, hogantuso, Zalfred, Photogee, killy, 5oundwave5, oep, lord kizzy, AndrewBen
+- Purpose: The meeting focused on task assignments
+- Working Docs:
+  - [PROPOSAL SHEET FOR VIDEO WORKGROUP ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate outlined weekly meeting agenda
+- Malik, as the social media manager, provided updates about social media
+- Tuso, as the task manager, provided task updates.
+- Discussion on eligibility criteria for different tasks
+- Discussion on the seniority of members
+
+#### Action Items:
+- [action] Task Management [assignee] lord kizzy [due] 24 May 2024 [status] todo
+- [action] Social Media management [assignee] Slate [due] 24 May 2024 [status] todo
+- [action] Meeting summarizing [assignee] killy [due] 24 May 2024 [status] todo
+- [action] Townhall summary Edit [assignee] malik [due] 24 May 2024 [status] todo
+- [action] Town hall Edit [assignee] hogantuso [due] 24 May 2024 [status] todo
+- [action] Facilitation [assignee] Zalfred [due] 24 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, new people, Videomaking, Task Assignment, task eligibility, seniority
+- emotions: Friendly, Casual, positive, speedy
