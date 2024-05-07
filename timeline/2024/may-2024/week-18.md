@@ -4,6 +4,7 @@
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -122,6 +123,41 @@
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, meeting summary tool, agenda creation, Decision Making Process, GitHub
 - emotions: Collaborative, productive, Thoughtful , speedy , Welcoming
+
+
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen, Vanessa [documenter], Vanessa, Stephen, André, duke peter, esewilliams, Billy, Photogee, Nebula, Ekemini Samuel, Colleen, Clement Umoh, Gorga Siagian, Mikasa, Samson Freeman
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Q2 budget](https://docs.google.com/spreadsheets/d/1d9j-IPA0wary0EdR8YIoKl1BF0mAtkV_dgTs0hSnzAs/edit?usp=sharing)
+  - [Meeting issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/140)
+  - [Draft AI ethics doc](https://docs.google.com/document/d/1MIItGDkPIBMA6x-_rvIaWvpRE_sKkkz9TdEhao_MVwM/edit?usp=sharing)
+
+#### Decision Items:
+- colleen, olokoji, clement, gorga and ekemini potentially interested in technical documentation
+  - [rationale] Stephen will get the project a bit further along, and work out best ways for people to contribute
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Stephen to check why SucrenSpice doesn't seem to have permissions to merge changes on Ambassador GitBook - still can't work out why [assignee] Stephen [due] 15 May 2024 [status] in progress
+- [action] Onyeka and Ese to timestamp BGI videos [assignee] esewilliams, lord kizzy [due] 1 May 2024 [status] done
+- [action] Duke to create a video walkthru of how to use the GitHub Board, based on Stephen's training session - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116 [assignee] duke peter [due] 15 May 2024 [status] in progress
+- [action] Sucre to add the Q1 quarterly report to Ambassador GitBook when ready [assignee] SucrenSpice [due] 1 May 2024 [status] in progress
+- [action] Vanessa to DM participants in tag taxonomy project, and set a date for training session [assignee] Vanessa [due] 1 May 2024 [status] done
+- [action] Progress the idea of doing a TH session on how we use GitHub [assignee] Stephen, André, Vanessa [due] 1 May 2024 [status] done
+- [action] Vanessa to find out whether Strategy Guild is still active (result: it seems they are not) [assignee] Vanessa [due] 25 April 2024 [status] done
+- [action] Core Archives team to meet with Ubio on Mon 22nd April to clarify the focus of his work in Q2 - sentiment analyisis or dashboard? [assignee] Stephen, Andre, Vanessa, Ubio [due] 22 April 2024 [status] done
+- [action] Ese to talk to Kenichi to find out whether Writers WG are currently doing meeting summaries; and if so, whether they plan to add them via the Tool; or if not, could they add them at least to their spreadsheet here https://docs.google.com/spreadsheets/d/1S1M-IlMnI4WPL2c_ojOeIExvWU-bkzfamirE5_Ls9-4/edit?usp=sharing [assignee] esewilliams [due] 15 May 2024 [status] todo
+- [action] All to add comments to AI ethics doc async [assignee] all [due] 15 May 2024 [status] todo
+- [action] Vanessa to  to start writing guide on how to make a doc community-owned - i.e. a process for how to work with a doc to avoid stuff like deleting it, deleting comments, etc [assignee] Vanessa [due] 15 May 2024 [status] todo
+- [action] Vanessa to add issues to the GitHub Board for the new tasks we agreed to do this Quarter https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/119 [assignee] Vanessa [due] 15 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Tag taxonomy, colabs, langchain, AI tooling, open source, document management, github board, AI ethics, Ethics, ethics of AGI, new work
+- emotions: positive, new people present, Friendly, forward-looking
 
 
 ## Thursday 2nd May 2024
