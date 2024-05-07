@@ -75,3 +75,55 @@
 
 #### Keywords/tags:
 - topics covered: Miro Board, Quarterly Report, evaluation, deliverables, ChatGPT
+## Thursday 2nd May 2024
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Peter, Vanessa, Guillermo, Gorga Siagian, Sucren, love, Clement Umoh, Freeman, hufiumer69, Kenichi, lord kizzy, Slate, 5oundwave5
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584775426018&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quaterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing)
+  - [Context-setting doc for Q2 budgets decision](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [Core Contributors list](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h)
+
+#### Agenda item 1 - Ambassador Program Core Contributors - [resolved]
+
+#### Discussion Points:
+- Contributor list is updated and will be used to verify members in consents forms https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h
+
+#### Agenda item 2 - Review proposal consent feedback - [resolved]
+
+#### Discussion Points:
+- Facilitation Procedures for Consent Review Sessions
+- What does it mean to increase Budget?
+- Going through different concerns that were raised via the consent forms
+
+#### Decision Items:
+- We avoid sharing or recording access to files that contain email addresses used to verify people's Discord name
+  - [effect] affectsOnlyThisWorkgroup
+- We skip recording today's session
+  - [effect] affectsOnlyThisWorkgroup
+- 14 out of 16 Proposals passed https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Add all results into single sheet to visualize different preferences [status] todo
+- [action] Differentiate Core Contributors and non Core Contributors from final results [status] todo
+- [action] Writers WG will check in with team to check their proposal and see if it checks out also for quarter two [status] todo
+- [action] Have a separate meeting for proposal improvements and passing [status] todo
+
+#### Agenda item 3 - Gamers' Guild presentation - [carry over]
+
+#### Discussion Points:
+- Presented Robolox metaverse that has dialog interactions with characters named after active members
+
+#### Action Items:
+- [action] update and share active contributor list of Treasury Guild members to Gamers Guild [status] todo
+
+#### Keywords/tags:
+- topics covered: consent decision making, core contributors, Budget , Q2 budget, objections, consent, privacy, Roblox, Gamers Guild
