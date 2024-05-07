@@ -3,6 +3,7 @@
 ## Wednesday 17th April 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -90,3 +91,47 @@
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, incentives, Q2 budget, open source, contributing, Automated, social media, automated social media, Quarterly Report, Q1 quarterly report, multilingual, meeting time
 - emotions: Collaborative, productive, Thoughtful , speedy
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, Clement Umoh, Photogee, GorgaSeagian, Peter, malik, osmium, WaKa, SoundWaves, Billy
+- Purpose: ACP Quizzes Review Team update , Andamio platform introduction by Malik, Google Classroom introduction by Slate, Pricing discussion about both the platforms
+- Working Docs:
+  - [Andamio Overview ](https://docs.google.com/document/d/10Yy0lg17MtvN8xCZbFHRft-NZ7XxM-P-pLu8sYrHCTs/edit)
+
+#### In this meeting we discussed:
+- ACP Review Team updates 
+- Andamio platform
+- Google Classroom platform
+- Pricing discussions 
+
+#### Discussion Points:
+- Meeting started with Slate welcoming everyone to the meeting
+- Osmium shared some concerns of Duke regarding his quiz review 
+- Osmium than gave some updates regarding quizzes review 
+- Slate than moved on the topic of introduction of ACP platforms 
+- Then Malik showcased his presentation regarding the Andamio platform 
+- Everyone was concerned with the pricing of Andamio platform
+- and also the complexity of understanding the platform as a whole by the participants 
+- Then there was a proposal to invite Tevo to once of the education guild meetings to introduce Andamio 
+- Then Waka mentioned that we should be adding Fetch and Ocean to the ACP as projects
+- On this Peter said that it would be best if we let them create these resources for us and for that we could reach out to them 
+- Waka said that he would be interested in doing that 
+- Then Slate shared the Google Classroom platform presentation 
+- Everybody liked the platform as a whole and its easiness to interact with
+- There were positive insights for the platform by the group
+
+#### Decision Items:
+- Reach out to Fetch and Ocean
+  - [effect] affectsOnlyThisWorkgroup
+- Create a real time presentaion for Google Classroom 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Presentation with real quiz submissions, reviewing and marking for test run [assignee] Slate [due] 23 April 2024 [status] in progress
+- [action] Reach out to fetch and ocean [assignee] WaKa [due] 23 April 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: ACP, review, platform, quizzes, Fetch, Ocean
+- emotions: productive, Collaborative, Businesslike, speedy
