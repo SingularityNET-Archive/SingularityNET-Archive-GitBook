@@ -162,3 +162,42 @@
 #### Keywords/tags:
 - topics covered: social media management, new people, Videomaking, task assignment, Zealy, payments, quarterly or monthly, Discord, voting, governance, decisionmaking
 - emotions: Friendly, Casual, positive, speedy
+## Saturday 4th May 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], malik, rebel, hufiumer69, lord kizzy, Gorga Siagian, 5oundwave5, flyn, Billy, Dr Strange, DS9
+- Purpose: Workgroup creation updates and progress 
+- Working Docs:
+  - [Quarterly Report ](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh_EdIL-bAlPFXiQ/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Updates on the creation of workgroups in the Roblox game was discussed.
+- Discussion on the day and night cycle system took place.
+- Discussion on improving the model
+- Discussed modifications in the onboarding workgroup building.
+- Discussion on enhancing user interface
+
+#### Decision Items:
+- Meeting summaries and publicizing task will rotate among members.
+
+#### Action Items:
+- [action] Meeting summary [assignee] devon [due] 18 May 2024 [status] todo
+- [action] Meeting Publicizing [assignee] lord kizzy [due] 18 May 2024 [status] todo
+- [action] Video workgroup department creation  [assignee] lord kizzy, Gorga Siagian [status] todo
+- [action] Educational guild Department creation [assignee] malik, hufiumer69 [status] todo
+
+#### Game Rules:
+Capture the flag
+The team that captures the most flags wins
+
+
+#### Leaderboard:
+- 1st Blue team won - Devon - Hufiumer - kevin - lord kizzy - Scare Crow
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget, Roblox, participation, Task Assignment, Video Workgroup, Onboarding Workgroup, Education Guild
+- emotions: Friendly, Collaborative, engaging new people
+- games played: Combat Shooting Game
