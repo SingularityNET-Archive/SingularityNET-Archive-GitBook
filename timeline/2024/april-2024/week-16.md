@@ -286,3 +286,37 @@
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Zealy, videomaking, Roblox, Gamers' Guild, community engagement
 - emotions: Friendly, Casual, positive, Thoughtful
+## Saturday 20th April 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], malik, rebel, hufiumer69, lord kizzy, Gorga Siagian, 5oundwave5, flyn, Billy, Dr Strange, AndrewBen
+- Purpose: Task Assignment and Procedures for Task Execution
+- Working Docs:
+  - [Quarterly Report ](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh_EdIL-bAlPFXiQ/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- discussion on monitor role in information collection
+- Discussion on the presenter's role in information collection.
+- discussion on other platforms for game creation 
+- Discussion about the layout of the model
+- Discussion on game development on Roblox
+
+#### Action Items:
+- [action] Gorga to create next game for the gaming session. [assignee] Gorga Siagian [due] 27 April 2024 [status] todo
+- [action] research regarding decentraland  [assignee] devon [status] todo
+
+#### Game Rules:
+Combat Shooting Game 
+The person with least amount of deaths wins 
+
+
+#### Leaderboard:
+- 1st Dr Strange
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget , Roblox, participation, Task Assignment
+- emotions: Friendly, Collaborative, engaging new people
+- games played: Combat Shooting Game
