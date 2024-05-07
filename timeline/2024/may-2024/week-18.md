@@ -3,6 +3,7 @@
 ## Wednesday 1st May 2024
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -75,6 +76,54 @@
 
 #### Keywords/tags:
 - topics covered: Miro Board, Quarterly Report, evaluation, deliverables, ChatGPT
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Guillermo [facilitator], Onyeka  [documenter], 5oundwave5, Curtis, Rojo, William, WaKa, duke peter, Kenichi, Photogee
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
+  - [Final Guilds requested Budget](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget ](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254)
+  - [Typeform link](https://fqmtepho6kd.typeform.com/to/uHsVjdS5)
+  - [R&D _ Q1 DELIVERABLES](https://drive.google.com/drive/folders/1qy4P7bWmzFDWbNe03Do5HSV3FLOGYMnT?usp=sharing)
+  - [Research & Development Guild Budget Proposals Sheet](https://docs.google.com/spreadsheets/d/1Cu2snGCH-9H4rviHFwcMD_qV-qRLjwFbO4eNjrWX6Hs/edit?usp=drive_link)
+  - [R&D _ Q1 Quarterly Report ](https://docs.google.com/document/d/1ZFZr_OxtuQd2x21ZQQtFiaMipuYdj8MvuYFljWsRRZ8/edit?usp=drive_link)
+  - [Decision making tool](https://citizenos.com/)
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+
+#### Agenda Items:
+- Projects Updates
+-  Q2 R&D Guild Objectives
+- Operations: R&D GitHub Project Management
+
+#### Discussion Points:
+- Discussions on Project updates from Rojo & Curtis
+- Discussions on R&D GitHub Project Management
+- Final discussions on implementation of the use of meeting summaries for meeting agenda preparations
+- Kenichi Discussions on the Ambassador's program website and reputations system
+- Discussions on Q2 Objectives and an Onboarding Evaluation process into the R&D Guild by Guillermo 
+- Discussions on Decision making tool and processes
+
+#### Decision Items:
+- We decided to adopt and implement an Onboarding Evaluation process for new members into the R&D Guild
+  - [rationale] Majority of members felt it was important to conduct an evaluation test to onboard new members into the Guild 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Guillermo to have a call with Ubio on providing assistance to the multilingual project  [assignee] Guilermo [due] 8 May 2024 [status] todo
+- [action] Ubio, WaKa, Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template. [assignee] Ubiodee, WaKa, Rojo [due] 8 May 2024 [status] todo
+- [action] Rojo to add Duke's proposal to the budget for Q2 [assignee] Rojo [due] 1 May 2024 [status] done
+- [action] Kenichi to share his evaluation doc for the Writer's WG with the R&D Guild [assignee] Kenichi [due] 8 May 2024 [status] todo
+- [action] Kenichi to create a basic explanatory document on his initiatives for the ambassador program website and present it in the next meeting  [assignee] Kenichi [due] 8 May 2024 [status] todo
+- [action] 5oundwave5 to create a doc on how they could contribute to the Guild, and share it in next meeting [assignee] 5oundwave5 [due] 15 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, meeting summary tool, agenda creation, Decision Making Process, GitHub
+- emotions: Collaborative, productive, Thoughtful , speedy , Welcoming
+
+
 ## Thursday 2nd May 2024
 
 ### Treasury Guild
