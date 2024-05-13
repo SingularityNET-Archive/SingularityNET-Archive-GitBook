@@ -164,17 +164,15 @@
     * [Week 47](timeline/2022/november-2022/week-47.md)
   * [December 2022](timeline/2022/december-2022.md)
 
+***
+
+* [Page](page.md)
+
 ## Development
 
 * [Design](development/design.md)
 
 ## Links
-
-* [SingularityNET Links](links/singularitynet-links/README.md)
-  * [SingularityNET Discord](https://discord.gg/snet)
-  * [SingularityNET Main Telegram](https://t.me/singularitynet)
-  * [SingularityNET Announcement Channel](https://t.me/snetann)
-  * [SingularityNET Website](https://singularitynet.io/)
 
 ***
 
@@ -184,8 +182,17 @@
   * [GitHub](tools/github.md)
   * [Medium](tools/medium.md)
   * [Miro](tools/miro.md)
+  * [SingularityNET Links](tools/singularitynet-links/README.md)
+    * [SingularityNET Discord](https://discord.gg/snet)
+    * [SingularityNET Main Telegram](https://t.me/singularitynet)
+    * [SingularityNET Announcement Channel](https://t.me/snetann)
+    * [SingularityNET Website](https://singularitynet.io/)
 * [AI Tools](ai-tools/README.md)
   * [Google colab - Python notebook](https://colab.research.google.com)
   * [LangChain - development framework](https://python.langchain.com/en/latest/index.html)
   * [Infranodus - network thinking](https://infranodus.com/)
   * [Read.ai - transcription tool](https://www.read.ai/)
+
+## LLM Development
+
+* [RAG Process](llm-development/rag-process.md)
