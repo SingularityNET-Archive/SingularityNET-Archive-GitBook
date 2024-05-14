@@ -2,6 +2,7 @@
 
 ## Wednesday 8th May 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -49,6 +50,71 @@
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, meeting summary tool, agenda creation, Decision Making Process, GitHub, Workshop
 - emotions: Collaborative, productive, Thoughtful , speedy , Welcoming
+
+
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, André, Gorga Siagian, 5oundwave5, malik, Effiom
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+  - [Lesson feedback form](https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit)
+
+#### Agenda item 1 - Reward Automation related to Dework PBL - [carry over]
+
+#### Discussion Points:
+- How should participation be rewarded in the Dework PBL WG meeting?
+- How are Dework PBL Participants currently getting funded?
+- Should there be offboarding, and what does that look like?
+- Participation vs Contribution
+
+#### Decision Items:
+- We don't take control of the off-boarding process. Instead, we will try to find a reward weight for each participant based on their contributions done before.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Create a visualization of different potential categories of contributions and participations we have accumulated so far. [status] todo
+- [action] Define the algorithm and parameters for rewarding participation in future sessions [status] todo
+
+#### Agenda item 2 - Course Website - [carry over]
+
+#### Discussion Points:
+- Taking a look into new fresh onboarding, Dework PBL Course changes https://youtu.be/WW9YZRhM_no
+- Suggesting improvements as we go through content
+
+#### Decision Items:
+- We continue to step through course actions in every bi-weekly meeting for around 30 minutes
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Update permissions lesson with a guide on how to invite people to Dework Space to manage tasks [status] todo
+- [action] Update Module 201.1 check subheadings [status] todo
+- [action] Update Module 201.1 to include a Link to the Playground Overview Page. [status] todo
+- [action] Check if some features are missing in the mobile Dework version compared to the Desktop version [status] todo
+
+#### Agenda item 3 - Review and planning next steps - [carry over]
+
+#### Discussion Points:
+- What have we achieved so far at a high level?
+- What other PBL and Amabssador related things do we want to work on?
+- What things are left to do according to the proposal?
+- We did Point Allocation Voting on ideated results to give us group sentiment on the next steps.
+
+#### Decision Items:
+- Continue waiting for Version 2 Updates to try it out for course creation
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Go through Gamers Guild questions in the next session [status] todo
+
+#### Keywords/tags:
+- topics covered: review, forward planning, Andamio updates, Reward automation, Rewards
 
 
 ## Friday 10th May 2024
