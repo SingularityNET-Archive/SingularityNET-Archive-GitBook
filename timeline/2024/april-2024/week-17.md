@@ -160,6 +160,7 @@
 
 ## Friday 26th April 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -186,3 +187,36 @@
 #### Keywords/tags:
 - topics covered: social media management, new people, Videomaking, Task Assignment, task eligibility, seniority
 - emotions: Friendly, Casual, positive, speedy
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, Mikasa, LadyTempestt, Kareem, Gorga Siagian, ines gavina
+- Purpose: The meeting features discussions centered on podcasts.
+#### Narrative:
+The meeting began with Kenichi’s warm comment on the first “We Are Reading” article from Inés. 
+Questions regarding the relief of workload arose. This is where the Scribe role comes in handy: Scribes can assist with the writing of budget proposals, and more!
+We want to spice up the Friday trivia sessions to make it more interesting and fun; Kenichi will incorporate other genres like music, sports, movies, and more.
+Kenichi shared information about the implementation of a poll to enable Trivia players to choose the next genre or area of focus - for example, if "movies" gets more votes in the poll - expect to see movie questions in the trivia - Awesome right?
+Our first podcast is set to commence next quarter. In this regard, we need:
+- Audio-visual specialist 
+- Designers 
+- Writers (available)
+- Analysis and promotion person 
+- Documenter
+- Social media manager (available)
+Kenichi introduced the idea of “Soulbound Tokens.” They will serve as proof of participation; individuals can use them to see the Writers' Discord channel etc.
+Kareem shared an update on the brand assets.
+Kenichi introduced the latest WWG’s “Scribe” in the person of Cjfrankie.
+
+
+#### Decision Items:
+- We plan to use Notion for better management of the podcast activities.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to submit the updated version of Q2’s budget [assignee] Kenichi [status] done
+
+#### Keywords/tags:
+- topics covered: Scribe role, Graphics, Notion, Trivia sessions, roadmap, Credential system, Soulbound tokens, Loyalty points, Q2 budget, podcasts, workload
+- emotions: informative, insightful, interesting
