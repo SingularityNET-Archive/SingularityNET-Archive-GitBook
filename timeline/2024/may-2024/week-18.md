@@ -214,6 +214,7 @@
 - topics covered: consent decision making, core contributors, Budget , Q2 budget, objections, consent, privacy, Roblox, Gamers Guild
 ## Friday 3rd May 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -247,6 +248,47 @@
 #### Keywords/tags:
 - topics covered: social media management, new people, Videomaking, task assignment, Zealy, payments, quarterly or monthly, Discord, voting, governance, decisionmaking
 - emotions: Friendly, Casual, positive, speedy
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, Mikasa, LadyTempestt, Kareem, devon, Emmanuel
+- Purpose: Creating X pages for specific region, to address language barriers. Increasing budget allocation.
+- Other media: [Link](https://www.figma.com/file/AgdZbBr9BXokX0xaTADRB6/MI-FI?type=design&node-id=2443%3A83&mode=design&t=12bWF72JEDlLNvij-1)
+#### Narrative:
+We discussed creating Twitter/X accounts in multiple languages
+We discussed Zealy sprints
+We're looking to write around 30 more articles for Medium; these articles include educational series, atomic essays, and plain articles.
+Kareem shared an update on the brand assets; he's at the final phase of the designs.
+Lady Tempestt mentioned that Onboarding Workgroup are considering implementing the points system that is used in Writers' WG.
+A poll was created, and people cast their votes for increasing the points system allocation.
+
+
+
+#### Decision Items:
+- We decided to create new X pages for different languages, including Pidgin, Spanish, Hindi, Mandarin, and French. We aim to translate every piece of content on the Ambassador X account and publish it on the respective X page. Scribblers who are proficient in speaking any language can submit their proposal.
+  - [rationale] To address language barriers
+  - [effect] mayAffectOtherPeople
+- The Scribes will be added to the Zealy review team, and Scribes won't participate in the Zealy quests.
+  - [effect] affectsOnlyThisWorkgroup
+- The Zealy Sprint fund allocation has increased. 
+  - [effect] affectsOnlyThisWorkgroup
+- Kenichi aims to put out over 30 quests on Zealy this quarter.
+  - [effect] affectsOnlyThisWorkgroup
+- The Scribes will be added to the Zealy review team, and Scribes won't participate in the Zealy quests.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to chase Sucre n Spice for the top contributors in the translation WG. [assignee] Kenichi [status] todo
+- [action] Kareem to do a walkthrough on the brand kit in the next writers’ meeting. [assignee] Kareem [status] todo
+- [action] Kenichi to submit the writers' workgroup Q1 quarterly report to Tevo. [assignee] Kenichi [status] done
+- [action] Mikasa to create more announcements for the Friday trivia a few hours before it begins. [assignee] Mikasa [status] todo
+
+#### Keywords/tags:
+- topics covered: Scribe, Monthly newsletter, Points system, Zealy sprint, Trivia allocation, Q1 quarterly report, Q2 quarterly report, zealy quest, Twitter, Twitter/X, Translation, multilingual
+- emotions: informative, insightful, interesting
+
+
 ## Saturday 4th May 2024
 
 ### Gamers Guild
