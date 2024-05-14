@@ -297,6 +297,7 @@ Advertise that the next onboarding session is on 16th May.
 
 
 
+
 ### Marketing Guild
 
 - Type of meeting: Weekly
@@ -366,3 +367,39 @@ Advertise that the next onboarding session is on 16th May.
 ### Writers Workgroup
 
 No Summary Given
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, Clement Umoh, devon, Franklyn, Ehmee Isaac
+- Purpose: Announcing the successful launch of our Zealy.
+#### Narrative:
+The first 25 minutes of the meeting were dedicated to sharing vital insights into how our zealy would run after now.
+To keep community members engaged, an NFT badge might be implemented to reward participation.
+A brand guideline is also very crucial; it would be a 40-page PDF containing things such as colors, typography, logo, and more!
+According to the WG lead - Kenichi, the Points System for February has been paid, however, he wasn’t impressed with our performances - we’re urged to improve our communication, and attendance, and suggest more articles.
+
+
+
+
+#### Decision Items:
+- We decided that any Scribbler can suggest a quest for the Zealy page.
+  - [rationale] To encourage more participation
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that we will be on the lookout for designers who would be a part of the Zealy journey and they must be in our weekly meetings. In light of such, anyone interested should submit their portfolio of work.
+  - [rationale] Because we want to work with people who actually attend our meetings
+  - [effect] affectsOnlyThisWorkgroup
+- Moving forward, our meeting notes will be uploaded to the meeting summary tool; once a Scribbler takes a note, they should share it in the writer's channel before it gets uploaded.
+  - [rationale] So WG members can check it before it is added to the Archives
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to announce the need for making a writer WG brand guideline in the ambassador’s town hall. [assignee] Kenichi [status] done
+- [action] Kenichi to chase Judith before the next marketing call to discuss more on the Zealy launch 🚀 [assignee] Kenichi [status] done
+- [action] There would be a pair review for Primes test, this test determines whether he gets onboarded or not! [status] todo
+- [action] Kenichi to draft an FAQ to provide more clarity on Zealy  [assignee] Kenichi [status] done
+- [action] We would need to launch a Zealy Beta Round which will run for 2 straight weeks [status] todo
+
+#### Keywords/tags:
+- topics covered: zealy launch, NFT badge, Points system, zealy quest, Peer review, meeting notes
+- emotions: funny , insightful, informative, disappointment, awkward silence
