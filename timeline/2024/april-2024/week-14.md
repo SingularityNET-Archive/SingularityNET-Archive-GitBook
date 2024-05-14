@@ -243,6 +243,7 @@
 
 ## Friday 5th April 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -269,3 +270,35 @@
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Zealy, ASI toekn merger, Town Hall, workgroup membership
 - emotions: Friendly, Thoughtful, speedy, Casual, productive, Organised, engaging new people, positive, productive
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, Mikasa, LadyTempestt, Nebula1224, 5oundwave5, ines gavina
+- Purpose: Reflection on what we’ve achieved this month and quarter.
+- Working Docs:
+  - [SNET WWG-TEST](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+
+#### Narrative:
+We discussed Q2 projections and what we might need to improve this quarter.
+Open discussion on how to become a Scribe; the Scribe role will be assigned once our Medium publication kicks off.
+The graphics/brand assets are still in progress; once that is done, we shall kickstart the Medium publication. 
+Our attendance last month was pretty high, and had great numbers: we published 12 articles last month and 28 pieces in Q1.
+
+
+
+#### Decision Items:
+- We will kickstart the Medium publication once our brand assets are finished
+  - [effect] affectsOnlyThisWorkgroup
+- Scribe role will be assigned once our Medium publication starts.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to draft the document for the Q2 project budget, and submit it to Treasury Guild. [assignee] Kenichi [status] todo
+- [action] Kenichi to work on implementing the NFT badges for roadmap accomplishment. [assignee] Kenichi [status] in progress
+- [action] Peter to give Inés Gavina the Scribbler tag. [assignee] Peter [status] done
+- [action] Kenichi to onboard some new Scribblers this quarter. [assignee] Kenichi [status] in progress
+
+#### Keywords/tags:
+- topics covered: Zealy, Scribe role, Points system, Scribblers, Peer review, Brand kit, Medium publications, NFT badge, Budget , Q2 budget, attendance
+- emotions: informative, Welcoming, insightful
