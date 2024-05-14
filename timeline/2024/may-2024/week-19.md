@@ -119,6 +119,7 @@
 
 ## Friday 10th May 2024
 
+
 ### Writers Workgroup
 
 - Type of meeting: Weekly
@@ -149,3 +150,39 @@ LadyTempestt suggested that everyone in WG gets involved in drafting quarterly b
 #### Keywords/tags:
 - topics covered: Triva, Tasks, Quarterly Budget, inclusion, Brand kit, Decentralization
 - emotions: insightful, short, Collaborative
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], hogantuso, lord kizzy, Sound Wave, oep, AndrewBen, martinsoki, DS9, Photogee, malik
+- Purpose: Weekly updates/improvement on engagment
+- Working Docs:
+  - [Cardano girls ](https://x.com/itscattledaddy/status/1787172039297573325)
+  - [Cardano girls](https://x.com/itscattledaddy/status/1788639543106637901)
+  - [Cardano girlspp](https://x.com/itscattledaddy/status/1788936258606997538)
+  - [Rick  McCracken DIGI](https://x.com/RichardMcCrackn/status/1779155397116322043)
+  - [Proposal for long videos ](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit#gid=0)
+
+#### Discussion Points:
+- More updates on the Zealy tasks
+- We discussed on more engagement for our socials 
+- Lord kizzy, as the task manager, provided weekly task updates.
+- Discussion on updates of the proposal sheet
+- There was a discussion on creating a video workgroup Zealy sprint 
+- There was more discussion on tournament for the Gamers Guild 
+
+#### Decision Items:
+- We decided to have to keep the Zealy program 
+  - [rationale] It would be unwise to have two zealy sprints from the Ambassador program
+  - [effect] mayAffectOtherPeople
+- zalfred as facilitator is to contact slate on the idea that DS9 gave during the meeting
+
+#### Action Items:
+- [action] Task Management/ tag the task payment either it is a monthly or weekly payment [assignee] lord kizzy [due] 24 May 2024 [status] in progress
+- [action] facilitator to give monthly updates [assignee] Zalfred [due] 24 May 2024 [status] todo
+- [action] Facilitator to create a vote pool for quarterly or monthly assignment [assignee] Zalfred [due] 24 May 2024 [status] done
+- [action] social manager, task manager and town hall editor to reach out to peter to get admin access to the zealy sprint [assignee] Slate, lord kizzy, malik [due] 10 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, new people, Videomaking, Zealy, gamers' guild, vote pool, assignments
+- emotions: Friendly, Casual, positive, speedy
