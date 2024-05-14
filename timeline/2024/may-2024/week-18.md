@@ -162,6 +162,7 @@
 
 ## Thursday 2nd May 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -212,6 +213,77 @@
 
 #### Keywords/tags:
 - topics covered: consent decision making, core contributors, Budget , Q2 budget, objections, consent, privacy, Roblox, Gamers Guild
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], Olokoji, LadyTempestt [documenter], Vanessa, SucrenSpice, Cjfrankie, duke peter, Photogee, Gorga Siagian, Peter, Olokoji, 5oundwave5, Clement Umoh, Kenichi, Hamzat_iii, LadyTempestt
+- Working Docs:
+  - [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+  - [Our Quarterly Workgroup Budget Calculator](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
+  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1IV4-7tsUJ99s4DY_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit)
+  - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+  - [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [DRAFT context-setting doc on naming decision](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing)
+  - [Context-setting doc on Q2 budget decision](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit)
+  - [Ideas for Q2 survey](https://docs.google.com/document/d/1RZ0vhz7brsaOYrTeXe2jVqOsIGilIxnM0KsJ2NZmu_o/edit?usp=sharing)
+  - [Gorga's proposal on educational content](https://docs.google.com/document/d/1BeYZP6-O84pTnAoK6ye8YWKnE6ojb1cMHY8TPI2vAG4/edit?usp=sharing)
+  - [Treasury Session (18th April)  video](https://www.youtube.com/watch?v=Um7Zv5F9TyA )
+  - [Draft scripts for onboarding journeys](https://docs.google.com/document/d/1aF53HrArlVy3GHQTD6APNJNTpOxP5lG-RSu5kWrpyEA/edit?usp=sharing)
+  - [Q2 survey about our onboarding sessions](https://forms.gle/qMvn7jkhkKAiQ7B88)
+
+#### Town Hall Updates:
+Hogan Tuso will give the Onboarding WG update on Tues 28th May, Clement Umoh to mentor him
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+- Action Items from the last meeting
+- Document on ideas for our Q2 survey https://docs.google.com/document/d/1RZ0vhz7brsaOYrTeXe2jVqOsIGilIxnM0KsJ2NZmu_o/edit?usp=sharing
+- Onboarding journey scripts
+- Context-Setting docs
+- Next Town Hall update
+- Facilitation and Documentation next time
+- Gamers' Guild Roblox presentation was postponed due to technical issues
+- Impromptu discussion of an idea from Kenichi to help track contribution
+
+#### Decision Items:
+- We agreed on last week's minutes
+  - [effect] affectsOnlyThisWorkgroup
+- On action items from last week's meeting, Lord kizzy and Photogee have uploaded the treasury session video from 18th
+  - [effect] mayAffectOtherPeople
+- Lady Tempestt has created a survey about our onboarding sessions https://forms.gle/qMvn7jkhkKAiQ7B88; it will be sent out during our next onboarding session on May 16th, and afterwards in Discord.
+  - [effect] affectsOnlyThisWorkgroup
+- Sucre, Lady Tempestt and Vani have completed the context-setting doc about the Q2 budget consent decision-making process
+  - [rationale] The document has been completed and it is being circulated around. Core contributors should submit their consent for the budget proposals
+  - [effect] mayAffectOtherPeople
+- Peter gave Gorga his Onboarding WG tag on Discord.
+  - [rationale] Gorga has passed the requirement of attending 3 consecutive meetings to become an Onboarding WG member.
+  - [effect] affectsOnlyThisWorkgroup
+- Sucre has reached out to Slate (education guild lead) concerning Gorga's proposal https://docs.google.com/document/d/1BeYZP6-O84pTnAoK6ye8YWKnE6ojb1cMHY8TPI2vAG4/edit?usp=sharing - No feedback from him yet
+  - [rationale] because the proposal is probably more of a fit for Education than for Onboarding
+  - [effect] mayAffectOtherPeople
+- Kenichi raised his idea of a website for contribution tracking; it will use soulbound tokens, and will mint badges and monitor contributor's tier level
+  - [rationale] To track how long contributors have been working, rather than the time spent (as the gimbal token does) . No work Group uses this yet but it is something that should be considered by each work group.
+  - [opposing] There is no consensus on this yet, various questions was asked but kenichi stated this is just initial stage for the tool. 
+  - [effect] mayAffectOtherPeople
+- We agreed people would look at the context-setting doc on the naming decision https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing and make any comments they might have
+  - [effect] mayAffectOtherPeople
+- we agreed CJFrankie will make an infographic to advertise the Onboarding session on 16th May
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Lord Kizzy, Duke, Cj frankie, Vani, SucrenSpice, Lady Tempestt to continue work on scripts for onboarding journeys [assignee] duke peter, lord kizzy, cjfrankie , LadyTempestt, Vanessa, SucrenSpice [due] 9 May 2024 [status] in progress
+- [action] Sucre facilitating the next meeting, Cj Frankie to document [assignee] Sucren, Cjfrankie  [due] 9 May 2024 [status] todo
+- [action] Infographic for May 16th Onboarding Session  [assignee] Cjfrankie  [due] 9 May 2024 [status] todo
+- [action] Sucre to reach out to Educational Guild about Gorga's proposal [assignee] SucrenSpice [due] 9 May 2024 [status] in progress
+- [action] LadyTempestt to add some ideas on surveys to be implemented in Q2 to the Q2 Budget sheet  [assignee] LadyTempestt [due] 9 May 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: context-setting docs, renaming Ambassadors, Q2 budget decision process, survey , Onboarding sessions, infographic, Education Guild, onboarding journeys, Soulbound tokens, loyalty system, Proposals, contribution, tracking contribution
+- emotions: informative, short, unusual, off-schedule
+
+
 ## Friday 3rd May 2024
 
 
