@@ -267,6 +267,7 @@
 - emotions: Discursive, inconclusive
 ## Friday 19th April 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -286,6 +287,37 @@
 #### Keywords/tags:
 - topics covered: social media management, workgroup updates, new people, Zealy, videomaking, Roblox, Gamers' Guild, community engagement
 - emotions: Friendly, Casual, positive, Thoughtful
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, Mikasa, LadyTempestt, ines ganina, Slate, devon
+- Working Docs:
+  - [SNET WWG-TEST](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+
+#### Narrative:
+The NuNet community town hall has commenced.
+Ines Gavina shared some interesting ideas that might help us produce more articles in the future.
+Kenichi gave an update regarding the Cogito articles from last year; the third piece is on its way!
+Kenichi explained how Dework tasks are being reviewed.
+Kenichi shared more insights into the “Scribe" role: anyone with this role can seamlessly claim tasks on Dework. 
+Deliberations on whether the Scribes should attend the weekly meetings; how long Scribbers should hold the Scribe role and what minimum threshold they should have. 
+
+
+
+#### Decision Items:
+- Kenichi wants the Scribblers to do a recap on every NuNet TH.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Kenichi to chase Kareem regarding updates on the brand assets [assignee] Kenichi [status] done
+- [action] Kenichi to write the first NuNet community town hall recap before assigning it to any Scribe. [assignee] Kenichi [status] done
+
+#### Keywords/tags:
+- topics covered: Scribe role, Rejuve, Q2 recap, Nunet, Cogito, Points system, NuNet Town Hall, Dework, Cogito articles
+- emotions: quiet, informative
+
+
 ## Saturday 20th April 2024
 
 ### Gamers Guild
