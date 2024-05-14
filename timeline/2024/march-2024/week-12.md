@@ -379,6 +379,7 @@ In Breakout Room 2 we reviewed the current Deep Funding branding manual and guid
 ## Friday 22nd March 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -410,3 +411,39 @@ In Breakout Room 2 we reviewed the current Deep Funding branding manual and guid
 ### Writers Workgroup
 
 No Summary Given
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, LadyTempestt, Mikasa, Prime, ines gavina, Photogee, Kareem
+- Working Docs:
+  - [Ehnacing security and privacy in a digital age](https://medium.com/@singularitynetambassadors/ai-cryptography-enhancing-security-and-privacy-in-the-digital-age-db5c1bbf5fdb)
+  - [SNET WWG-TEST](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Ines Gavina's test](https://docs.google.com/document/d/17GdXHqUQYuleKaUgJpuOFv-im-PjuTTdCG-in3L7_NU/edit)
+
+#### Narrative:
+Our Zealy number has grown significantly since the start of the latest Zealy sprint.
+The need for making unique brand asset designs is finally here; the ambassador program will work closely with the SNET Foundation next quarter, and these assets are crucial. 
+Mikasa gave a quick update regarding her tasks, sharing some tips to help us write better Twitter threads.
+Kenichi allowed some Scribblers to voice their thoughts, possible things they’d love to do moving forward, and more!
+Ines Gavina submitted a new test - she also spoke about how she has improved herself, working with SucrenSpice, and hoping her new test passes.
+
+
+
+#### Decision Items:
+- We will soon be implementing Zealy-tailored content for the spin-offs. 
+  - [effect] mayAffectOtherPeople
+- We decided we will implement some Zealy quests for the Ambassadors' YouTube channel.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] New peer review for Ines Gavina’s test [status] done
+- [action] We need 5 more articles for our publication.  [status] done
+- [action] Mikasa to create a Twitter template as a guideline for writing Twitter Threads 🧵  [assignee] Mikasa [status] done
+- [action] Kenichi to hop on the video workgroup call to facilitate discussion on the graphic brand assets. [assignee] Kenichi [status] done
+- [action] Kareem to design some graphics for the ambassador program. [assignee] Kareem [status] done
+- [action] Kenichi to reach out to Peter E to make a designer tag and grant Kareem access to the writer's dework channel. [assignee] Kenichi [status] done
+
+#### Keywords/tags:
+- topics covered: Zealy, Onboarding, Graphics, Twitter threads, Peer review, Brand kit, "Designer" tag, Ambassador YouTube, Foundation, SingularityNET Foundation
+- emotions: insightful, informative, Welcoming
