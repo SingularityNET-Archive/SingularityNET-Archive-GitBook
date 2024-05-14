@@ -252,6 +252,7 @@ GOVERNANCE THINGIES
 
 ## Friday 29th March 2024
 
+
 ### Video Workgroup
 
 * Type of meeting: Weekly
@@ -289,6 +290,49 @@ GOVERNANCE THINGIES
 ### Writers Workgroup
 
 No Summary Given
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], LadyTempestt [documenter], Kenichi, LadyTempestt, Mikasa, Prime, Photogee, Kareem, devon
+- Purpose: Reflection on what we’ve achieved this month and quarter.
+- Working Docs:
+  - [Ehnacing security and privacy in a digital age](https://medium.com/@singularitynetambassadors/ai-cryptography-enhancing-security-and-privacy-in-the-digital-age-db5c1bbf5fdb)
+  - [SNET WWG-TEST](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Ines Gavina's test](https://docs.google.com/document/d/17GdXHqUQYuleKaUgJpuOFv-im-PjuTTdCG-in3L7_NU/edit)
+
+#### Narrative:
+Kenichi gave a quick update regarding Cogito articles, and asked the Scribblers involved to be patient with the payment process.
+Kenichi talked about adding one or two Scribes next week to assist with the editing and proofreading of articles.
+Kenichi talked about increasing Zealy quests allocation next quarter.
+Kenichi also discussed a publication site for all Scribblers to post their articles after being reviewed by Scribes and paid for.
+Kareem updated us on the workings of the ambassador brand guidelines he’s working on.
+We need to publish 4 more articles from this quarter.
+Kenichi opened the floor with Scribblers on how to get more article suggestions.
+Our Zealy is doing great with engagement and impressions, surpassing the WG’s expectations.
+Kenichi opened the floor to Scribblers to express if they want an increase or decrease in the number of articles, points, and rewards. He also explained how articles are evaluated for payment.
+
+
+
+
+#### Decision Items:
+- The allocation for the points system will include past amounts due to the final budget allocation once the vote is concluded.
+  - [rationale] To align it with the final budget allocation
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kareem to design the publication avatar and logo and forward it to Kenichi for our upcoming publication site. [assignee] Kareem [status] done
+- [action] Kenichi to reach out to Peter E concerning the brand guidelines colors. [assignee] Kenichi [status] done
+- [action] Kareem to create a graphic on an Easter announcement [assignee] Kareem [status] done
+- [action] Kareem to work on a graphic for the quarterly update from the ambassador program.  [assignee] Kareem [status] done
+- [action] Kenichi to assign Mikasa and LadyTempestt to work on monthly updates from the ambassador program.  [assignee] Kenichi [status] done
+- [action] Kenichi to reach out to Peter E to make a designer tag and grant Kareem access to the writer's dework channel. [assignee] Kenichi [status] done
+
+#### Keywords/tags:
+- topics covered: Zealy, Graphics, brand guidelines, quarterly update, Points system, monthly updates, avatar, logo, payment, evaluation, evaluation of articles, publication, publication site, Scribe role
+- emotions: informative, Welcoming, Collaborative, Thoughtful 
+
 
 ## Saturday 30th March 2024
 
