@@ -167,7 +167,8 @@
 ## Development
 
 * [Design](development/design.md)
-* [LLM Development](development/llm-development.md)
+* [LLM Development](development/llm-development/README.md)
+  * [RAG Process](development/llm-development/rag-process.md)
 
 ## Links
 
