@@ -158,6 +158,74 @@
 - topics covered: Course structure, wallet, Nami, scope, scope of Dework PBL, Andamio, Andamio version 2, Andamio updates, expectations, expectations of learners
 
 
+## Thursday 25th April 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: duke peter [facilitator], LadyTempestt [documenter], Vanessa, SucrenSpice, duke peter, LadyTempestt, 5oundwave5, ToneTech, cjfrankie, Colleen, daniel effiom, Clement Umoh, Olokoji, Photogee, Franklin, Billy, Gorga Siagian, lord kizzy, Aguboss
+- Working Docs:
+  - [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+  - [Our Quarterly Workgroup Budget Calculator](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
+  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1IV4-7tsUJ99s4DY_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit)
+  - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+  - [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [DRAFT context-setting doc on naming decision](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing)
+  - [Context-setting doc on Q2 budget decision](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit)
+  - [Gorga's proposal on educational content](https://docs.google.com/document/d/1BeYZP6-O84pTnAoK6ye8YWKnE6ojb1cMHY8TPI2vAG4/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+- Action Items from the last meeting
+- Recap of Treasury session last week
+- Update on creation iof Onboarding Journeys 
+- Context setting doc for Q2 budgets
+- Onboarding session on 16th May
+- Gorga’s proposal on educational content for the SNET ambassador program.
+- WG town hall updates to give on 30th April.
+
+#### Decision Items:
+- Minutes of last meeting (11th April) agreed
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed that last week's Treasury info session was great and very useful; and that the edit of the video of gthe session should include the material on the token merger
+  - [rationale] Because although it makes the video less "timeless", it is important information
+  - [effect] mayAffectOtherPeople
+- We  decided that our Onboarding session on 16th May will include a walk-through of the Discord server, which will be recorded in advance
+  - [rationale] To ensure it doesn't acidentally breach anyone's privacy by showing something, on a video that will be shared on Youtube, that anyone might prefer not to be shared that way
+  - [effect] mayAffectOtherPeople
+- Next steps for Onboarding Journeys - the scripts will be changed so they are a 3rd-person narrator; info will be added on barriers that may be faced by the female character because she is female
+  - [rationale] 3rd person is better because if we use 1st person, it could give the misleading impression that these are real people rather than composites; and it would mean we need to recruit appropriate voices to voice them
+  - [effect] affectsOnlyThisWorkgroup
+- We briefly discussed Gorga's proposal on creating educational materials, and agreed that perhaps it would be best as a collaboration between Oboarding, Translation, and Education guilds, probably in Q3
+  - [rationale] Because it addresses mainly education and translation issues, and Onboarding can't fund it this Quarter
+  - [effect] mayAffectOtherPeople
+- Gorga asked if he could be paid to be a mentor to new member Franklyn, but the group decided against it, but noted that Gorga, llike all of us, can still help Franklyn even without officially being his mentor
+  - [rationale] because Gorga himself is quite new to the program, and doesn't yet have enough knowledge to mentor someone effectively. 
+  - [effect] affectsOnlyThisWorkgroup
+- There was a bit of tension in the meeting with people misunderstanding each other, especially about who was offering to do which tasks
+  - [rationale] There is a certain amount of competition to be assigned paid tasks
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] At onboarding session on 16th May: LadyTempestt will facilitate, Gorga will document, LordKizzy will run the Q&A, and Clement will prepare a video walk-through of Discord. [assignee] LadyTempestt, Gorga Siagian, lord kizzy, Clement Umoh [due] 16 May 2024 [status] todo
+- [action] CJ FRankie will make a graphic to advertise the Onboarding session [assignee] Cjfrankie  [due] 2 May 2024 [status] todo
+- [action] For next week, LordKizzy and Photogee will edit and upload the video of the Treasury session from 18th April [assignee] lord kizzy, Photogee [due] 2 May 2024 [status] in progress
+- [action] LadyTempestt will come up with ideas for this Quarter's survey [assignee] LadyTempestt [due] 2 May 2024 [status] todo
+- [action] Everyone to look at and comment on the 2 "context-setting" documents on decisionmaking (one for the Q2 Budget decision, and one for the Naming decision)  in time for next week [assignee] everyone [due] 2 May 2024 [status] todo
+- [action] Peter to give Gorga the "Onboarding workgroup member" tag in Discord, since Gorga has attended 3 consecutive meetings [assignee] Peter [due] 2 May 2024 [status] todo
+- [action] Sucre to reach out to Education WG about Gorga's education proposal [assignee] SucrenSpice [due] 2 May 2024 [status] todo
+
+#### Learning Points:
+- We need to adhere to orderliness in our weekly meetings, not speaking over each other.
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+
+#### Keywords/tags:
+- topics covered: context-setting docs, Q2 budget decision process, survey , Onboarding sessions, Education Guild, onboarding journeys, Proposals, Discord, Discord walkthrough, privacy, Education material, Video upload, Treasury
+- emotions: informative, concerning, tense
+
+
 ## Friday 26th April 2024
 
 
