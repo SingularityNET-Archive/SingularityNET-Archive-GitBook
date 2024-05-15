@@ -164,17 +164,12 @@
     * [Week 47](timeline/2022/november-2022/week-47.md)
   * [December 2022](timeline/2022/december-2022.md)
 
-***
-
-* [Page](page.md)
-
 ## Development
 
 * [Design](development/design.md)
+* [LLM Development](development/llm-development.md)
 
 ## Links
-
-***
 
 * [Tools](tools/README.md)
   * [Google](tools/google.md)
@@ -192,7 +187,3 @@
   * [LangChain - development framework](https://python.langchain.com/en/latest/index.html)
   * [Infranodus - network thinking](https://infranodus.com/)
   * [Read.ai - transcription tool](https://www.read.ai/)
-
-## LLM Development
-
-* [RAG Process](llm-development/rag-process.md)
