@@ -320,6 +320,7 @@ Deliberations on whether the Scribes should attend the weekly meetings; how long
 
 ## Saturday 20th April 2024
 
+
 ### Gamers Guild
 
 - Type of meeting: Biweekly
@@ -352,3 +353,62 @@ The person with least amount of deaths wins
 - topics covered: Rewards, Budget , Roblox, participation, Task Assignment
 - emotions: Friendly, Collaborative, engaging new people
 - games played: Combat Shooting Game
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Peter, Vanessa, Olokoji, Photogee, Sound Wave, Billy, Guillermo, Gorga Siagian
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584775426018&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quaterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing)
+
+#### Agenda item 1 - How to contribute with writing skills? - [resolved]
+
+#### Discussion Points:
+- Writers WG
+- Treasury Guild Documentations (decisions, meeting summary)
+
+#### Agenda item 2 - Do we want to recognize people who take part in the consent process on-chain? - [resolved]
+
+#### Discussion Points:
+- incentives
+- What we recognize?
+
+#### Decision Items:
+- We will recognize the Consent Question (Title) and participants who chose any option in the form
+  - [effect] mayAffectOtherPeople
+- We assign utility tokens as rewards
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Continue utility token discussion in Governance Workgroup [status] todo
+
+#### Agenda item 3 - How do validate the impact of said proposal - [carry over]
+
+#### Discussion Points:
+- What has been done before?
+- What do we need from the Proposal?
+- Ambassador Program Consent Process
+- S3 guide for potential objection solving https://patterns.sociocracy30.org/principle-consent.html
+- What blockers can people bring up against budget requests?
+- After funding measures
+- Proposal Request Cap
+
+#### Decision Items:
+- Ambassador Program Q2 Budget proposal final deadline is 24th April 2024
+  - [effect] mayAffectOtherPeople
+- We will collect proposals through the Treasury Guild channel.
+  - [effect] mayAffectOtherPeople
+- Only Contributor Role blockers will stop the proposal from passing
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Prepare voting tools and channel for all this decision making that is about to come [status] todo
+- [action] Decision for next session: do we have the capacity to run 2nd cohort of proposals for Q2? [status] todo
+
+#### Keywords/tags:
+- topics covered: Miro Board, procedures, Proposal, Cohort, On-Chain, Discursive, Quarter, Governance, Budgets, Rewards, Inconclusive
