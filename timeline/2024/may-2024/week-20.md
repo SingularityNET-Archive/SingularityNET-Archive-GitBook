@@ -144,3 +144,70 @@
 
 #### Keywords/tags:
 - topics covered: async, veteran organizer role, reviews, categorisation, Rewards, Onboarding, Feedback Form
+## Thursday 16th May 2024
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Peter, kateri, vani, Duke, Photogee, lord kizzy, Effiom, Ayo, rob b, Sound Wave, Guillermo, Kenichi
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584775426018&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quaterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Context-setting doc for Q2 budgets decision](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [Core Contributors list](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h)
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/19k06OQEXJe0nYSrVVRLw1t_3BXSnUcXwsmLV9Tp07C4/edit?usp=sharing)
+
+#### Agenda item 1 - Ambassador Program workgroups, budget plans and projects in Quarter 2 - [carry over]
+
+#### Discussion Points:
+- What are the next steps for proposals that did not get their budget request approved?
+- New consent Forms
+- Improvements for the consent process
+- Consent form results
+
+#### Decision Items:
+- In the future, blockers after the deadline will not affect the results.
+  - [effect] mayAffectOtherPeople
+- We will no longer ask people to opt in.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Update the Consent Form to include space for amendments. [status] todo
+- [action] Create a new Consent Form for the Marketing Guild. [status] todo
+- [action] Create a new Consent Form for Writers WG. [status] todo
+- [action] Update Core Contributor roles. [status] todo
+- [action] Provide insight about opting out from the Core Contributor role every time Core contributors are called for consenting on the proposal. [status] todo
+
+#### Agenda item 2 - Treasury Guild and its workgroups - [carry over]
+
+#### Discussion Points:
+- Shared general overview of Treasury Guild and its workgroups
+- Who is interested in facilitating future Treasury Guild Sessions?
+- How should the Treasury Guild continue facilitating?
+- How have the sessions been facilitated so far?
+
+#### Action Items:
+- [action] Have an additional meeting about Treasury Guild facilitation. [status] todo
+- [action] Update Treasury Guild Session time based on the new scheduling insight provided by when2Meet https://www.when2meet.com/?24905342-e8Hvc (same link for policy WG) [status] todo
+- [action] Update Treasury Policy WG Session time based on the new scheduling insight provided by when2Meet [status] todo
+
+#### Agenda item 3 - R&D Guild Proposal budget changes on the last minute - [carry over]
+
+#### Discussion Points:
+- The wrong budget may have been consented to on the consent forms. We cannot tell if people were looking at and consenting to the total given in the Budget Calculator google sheet, or the updated total in the Guild's actual budget, which included Duke Peter's proposal for a project looking at barriers due to disability.
+
+#### Decision Items:
+- It was mistakenly recorded in the meeting summary video that we had agreed not to update the budget to the new total that was submitted just before the deadline. But in fact, the meeting agreed to raise this issue for further discussion in a future meeting.
+  - [rationale] R&D's budget was updated before the deadline, and the majority felt that the updated version is what people are likely to have been looking at, so the additional budget item should stand.
+  - [opposing]  Some felt that people might have been consenting to the older total given in the Budget Calculator, which was lower
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] this issue will be discussed in a future meeting [assignee] all [due] 30 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: R&D guild, Q2 budget, Q2 budget decision process, Decision Making Process, consent decision making, Facilitation, scheduling, meeting time, deadlines, core contributors, Opt-in or opt-out
+- emotions: muddled, interesting, unclear
