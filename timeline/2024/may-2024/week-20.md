@@ -1,2 +1,50 @@
 # Week 20
 
+## Wednesday 15th May 2024
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen, Vanessa [documenter], Vanessa, Stephen, André, 5oundwave5, Photogee, Ekemini Samuel, Clement Umoh, esewilliams, osmium
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Q2 budget](https://docs.google.com/spreadsheets/d/1d9j-IPA0wary0EdR8YIoKl1BF0mAtkV_dgTs0hSnzAs/edit?usp=sharing)
+  - [Draft AI ethics doc](https://docs.google.com/document/d/1MIItGDkPIBMA6x-_rvIaWvpRE_sKkkz9TdEhao_MVwM/edit?usp=sharing)
+  - [Meeting Issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/156)
+  - [LLM development - Data loading and preprocessing](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Data_Loading_and_Preprocessing.ipynb)
+  - [LLM development - Vector store creation and similarity search](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Vector_Store_Creation.ipynb)
+  - [SNET Archive AI features (draft of possible features an AI tool might have)](https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing)
+
+#### Decision Items:
+- Stephen showed April and May work on colab development.  
+  - [rationale] Straightforward semantic searches are returning correct results, though it needs some refinement to get it into more human language; next step will be prompt creation.
+  - [effect] mayAffectOtherPeople
+- Open Source Strategy issue (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/139) contains a lot of different work elements, and will eventually need breaking up - although we're not quite ready to separate it out yet.
+  - [rationale] Needs breaking up so we can track the discrete tasks that it comprises (for example, RAG retrieval process; development of AI Ethics strategy doc; sharing our approach to open source licencing; etc)
+  - [opposing] but the issues are all quite interconnected, so it is useful to keep them together for a little while longer
+  - [effect] affectsOnlyThisWorkgroup
+- On open-source document management, Andre has identified how to work with text changes to a google doc, and how to extract resolved comments and update text changes to the doc in the repo itself
+  - [rationale] Next steps will be identifying headings; and automating turning the text into markdown; ultimately to use it as part of the source material for an LLM to search.
+  - [effect] affectsOnlyThisWorkgroup
+- We clarified the distiction between Stephen's LLM work and Ubio's this quarter
+  - [rationale] Stephen focusing on extraction and interpretation of data using natural language; Ubio looking at categorisation, tagging, sentiment analysis; and comparing/assessing different models.
+  - [effect] affectsOnlyThisWorkgroup
+- Meeting Summary tool development this month - cancelled or "no summary given" meetings are now saving properly to the database; an automation has been created to dump all the summarires into the repo; and a summary template for the new AI Ethics WG has been added
+  - [effect] mayAffectOtherPeople
+- The data dump of meeting summaries only includes links to any linked docs. A next step is to create some kind of document manager tool that will extract the text and create a dump of that too
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Stephen to check why SucrenSpice doesn't seem to have permissions to merge changes on Ambassador GitBook - still can't work out why [assignee] Stephen [due] 15 May 2024 [status] done
+- [action] Duke to create a video walkthru of how to use the GitHub Board, based on Stephen's training session - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116 - done, and to be shared by next meeting [assignee] duke peter [due] 29 May 2024 [status] in progress
+- [action] Sucre to add the Q1 quarterly report to Ambassador GitBook when ready [assignee] SucrenSpice [due] 29 May 2024 [status] in progress
+- [action] Ese to find out if Writers WG are currently doing meeting summaries: yes, they are. CJFrankie is now documenting their meetings [assignee] esewilliams [due] 15 May 2024 [status] done
+- [action] All to add comments to AI ethics doc async [assignee] all [due] 29 May 2024 [status] in progress
+- [action] Vanessa to start writing guide on how to make a doc community-owned - i.e. a process for how to work with a doc to avoid stuff like deleting it, deleting comments, etc [assignee] Vanessa [due] 29 May 2024 [status] in progress
+- [action] Vanessa to add issues to the GitHub Board for the new tasks we agreed to do this Quarter https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/119 [assignee] Vanessa [due] 15 May 2024 [status] done
+- [action] Sucre, Clement and Lord_Kizzy to agree criteria for "good meeting summaries" bounty, and pick one winner from May summaries which they will share at next meeting on 29th - see this issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/152 [assignee] SucrenSpice, lord kizzy, Clement Umoh [due] 29 May 2024 [status] in progress
+- [action] Andre to discuss with Ubio re Town Hall presentation on Ubio's work - would Ubio like to do it, or can he provide guidance to those interested? (Ekemini and Ese) See this issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/150 [assignee] André [due] 29 May 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: AI tooling, open source, document management, github board, AI ethics, Ethics, ethics of AGI, Writers WorkGroup, Town Hall presentation, Meeting Summaries, good meeting summaries, LLMs, LLM development, vector store, data preprocessing, similarity search, semantic query, JSON index filtering
+- emotions: positive, Friendly, forward-looking, educational
