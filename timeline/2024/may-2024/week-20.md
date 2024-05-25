@@ -239,3 +239,39 @@
 #### Keywords/tags:
 - topics covered: social media management, new people, videomaking, engagement, models, fund allocation
 - emotions: Friendly, Casual, positive, speedy
+## Saturday 18th May 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], malik, rebel, hufiumer69, lord kizzy, Gorga Siagian, 5oundwave5, flyn, Dr Strange, Tevo
+- Purpose: Workgroup creation updates and progress 
+- Working Docs:
+  - [Quarterly Report ](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh_EdIL-bAlPFXiQ/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Updates on the creation of workgroups was discussed.
+- Discussion on video workgroup model  and how it should be improved?
+- Discussion on APIs and the importance of integrating them into the model.
+- Discussion on game passes and whether they should be added?
+- What currency would be used to buy game passes?
+
+#### Decision Items:
+-  to adjust video display based on user preferences.
+
+#### Action Items:
+- [action] 5oundwaves to research on APIs [assignee] 5oundwave5 [status] todo
+
+#### Game Rules:
+Racing Game
+The first to complete all 3 laps wins.
+
+
+#### Leaderboard:
+- 1st Rebel
+
+#### Keywords/tags:
+- topics covered: Rewards, Roblox, participation, metaverse
+- emotions: Friendly, Collaborative, engaging new people, Thoughtful 
+- games played: Racing Game
