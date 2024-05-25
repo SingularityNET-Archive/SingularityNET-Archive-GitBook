@@ -3,6 +3,7 @@
 ## Wednesday 15th May 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -84,3 +85,62 @@
 #### Keywords/tags:
 - topics covered: ACP, Google Classroom, processes, Blueprints 
 - emotions: productive,  Collaborative, Businesslike., speedy
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Olokoji, lord kizzy, André, Photogee, osmium, Ayo, esewilliams, Peter, Effiom
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?share_link_id=819033103692)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Onboarding Feedback Form - [resolved]
+
+#### Discussion Points:
+- How much reward should we provide to feedback givers?
+- What are the requirements to get rewarded?
+- How do we check requirements?
+
+#### Decision Items:
+- We reward 10$ in AGIX per person for filling out the feedback form and passing the group consensus
+  - [effect] affectsOnlyThisWorkgroup
+- We check Feedback forms monthly in a Workgroup Meeting
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Reward the eligible people who for feedback [assignee] Tevo [status] todo
+
+#### Agenda item 2 - Review Organized and Reviewed Items - [carry over]
+
+#### Discussion Points:
+- Reviewing: SingularityNET - Blog Website https://medium.com/@singularitynetambassadors
+- Reviewing: SingularityNET Ambassadors - Medium Page https://medium.com/singularitynet
+- It is easy to fall into the trap of using articles as content that we organize instead of the purpose of the platform
+- Often times, these 2 items we reviewed overlapped with their reasons of relations to category questions
+
+#### Decision Items:
+- We removed the items from several organized positions and found categories where the item was missing
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Re-review two items again with 2 additional person [status] todo
+- [action] Review 1 new item added to the Organizing Resources Window Process Kanban board. [status] todo
+
+#### Agenda item 3 - Retrospective on Async results - [carry over]
+
+#### Discussion Points:
+- Did we achieve a high Quality of Async work?
+
+#### Decision Items:
+- Change process to include 2 reviews per item, 1 review from a new or existing member and 1 review from a person whose organizing results have provided the best accuracy
+  - [effect] affectsOnlyThisWorkgroup
+- Create a veteran organizer role
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] In the next session we review the new method async results [due] 30 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: async, veteran organizer role, reviews, categorisation, Rewards, Onboarding, Feedback Form
