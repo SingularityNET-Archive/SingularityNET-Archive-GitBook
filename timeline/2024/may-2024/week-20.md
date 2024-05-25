@@ -2,6 +2,7 @@
 
 ## Wednesday 15th May 2024
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -48,3 +49,38 @@
 #### Keywords/tags:
 - topics covered: AI tooling, open source, document management, github board, AI ethics, Ethics, ethics of AGI, Writers WorkGroup, Town Hall presentation, Meeting Summaries, good meeting summaries, LLMs, LLM development, vector store, data preprocessing, similarity search, semantic query, JSON index filtering
 - emotions: positive, Friendly, forward-looking, educational
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, Clement Umoh, Photogee, osmium, WaKa, Billy, esewilliams, malik, hogantuso, Kenichi, Mikasa
+- Purpose: - ACP Implementation Discussion - ACP Blueprint discussion - What is ACP (Kenichi' Questions)  - Education Guild Blueprint 
+- Working Docs:
+  - [List of Ambassador Program DeepFunding proposals ](https://docs.google.com/spreadsheets/d/1jrOKJK2BrrS4Z5vLNyQqTxgJpt85ny0YsQ2kCuzPCog)
+
+#### In this meeting we discussed:
+- ACP Implementation discussion
+- ACP Blueprint discussion 
+- What is ACP (Kenichi's questions) 
+- Education Guild Blueprint 
+- WaKa's collective doc for Ambassador Program individuals proposals in deepfunding round 4
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then he highlighted the agenda for today's meeting 
+- Waka mentioned his doc in which he is collecting information regarding Deepfunding Round 4 proposals from people in the Ambassador Program 
+- Osmium that he is iterating/ creating a blueprint regarding Education Guild and also working to rework the ACP old blueprint doc  
+- Kenichi had multiple queries regarding ACP as he was not able to attend meetings for education guild for quite some time - those queries were answered by Slate and Osmium respectively 
+- Slate mentioned that we will  be needing a process for implementing ACP on Google Classroom which will most probably be discussed next week 
+
+#### Decision Items:
+- ACP and Education Guild Blueprint 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Osmium for setting up ACP and Education Guild Blueprint for transparency and clarity  [assignee] osmium [due] 29 May 2024 [status] in progress
+- [action] Google Classroom process implementation  [assignee] Slate [due] 29 May 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: ACP, Google Classroom, processes, Blueprints 
+- emotions: productive,  Collaborative, Businesslike., speedy
