@@ -1,5 +1,40 @@
 # Week 19
 
+## Tuesday 7th May 2024
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: Esther [facilitator], Esther [documenter], Vanessa, Peter, 5oundwave5, Esther, Duke, LeeLoo, Guillermo
+- Purpose: To form initial conversations about the GEI (Global Ethics Initiative) workgroup, overall purpose, and some initial strategy.
+- Meeting video: [Link](No video)
+- Transcript: [Link](No transcript)
+- Working Docs:
+  - [GEI Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [Starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+
+#### Narrative:
+We addressed who will be part of core contributors - Vani said this often happens organically by starting channel and see who turns up.
+We talked about how the Archives workgroup in Ambassadors has started an AI ethics/strategy  policy. This led to a discussion about how the ecosystem could apply ethics and safety. This could take the form of local groups set within a broader, ecosystemwide ethics committee, so that there's coherence but also focused attention within groups, and freedom to do it according to their needs. Some ethics needs will be different.
+
+We talked about how the Global Ethics Initiative fits in the Risk Management Framework. Specifically, gathering information from ecosystem groups, and collating general ethics research and information. It was suggested that setting standards for the Marketplace could ensure that spinoffs apply it (thought that's only effective if they care about getting on the Marketplace). We agreed to set up a common resource spreadsheet to start to gather research information and frameworks.
+
+
+We discussed how the new LATAM Guild can get involved in the Global Ethics Initiative. They could translate survey into Spanish and distribute. Maybe the Foundation funding can contribute to that.
+Ambassadors could have a presence at AI for Good and/or AGI and continue the fishbowl interviews (discussed proper ethics and informed consent form, and collecting metadata/contextual data
+
+
+#### Action Items:
+- [action] Start Discord channel for coordination  [assignee] Peter [status] done
+- [action] Create the Resources/ecosystem ethics/risk evaluation spreadsheet [assignee] Esther, LeeLoo [status] in progress
+- [action] Create consent form [assignee] Esther, Vanessa, LeeLoo [status] in progress
+- [action] Find out feasibility of Ambassadors at the 2 events  [assignee] Haley, Esther [status] todo
+
+#### Keywords/tags:
+- topics covered: AI ethics, Global Ethics Initiative, policies, interviews, consent, events, marketplace, spinoffs, risk management
+- emotions: Casual, Collaborative
+
+
 ## Wednesday 8th May 2024
 
 
