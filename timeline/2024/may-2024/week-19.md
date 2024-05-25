@@ -152,6 +152,89 @@ Ambassadors could have a presence at AI for Good and/or AGI and continue the fis
 - topics covered: review, forward planning, Andamio updates, Reward automation, Rewards
 
 
+## Thursday 9th May 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Clement Umoh [facilitator], cjfrankie  [documenter], Clement Umoh, cjfrankie, SucrenSpice, Vanessa, Peter, LadyTempestt, lord kizzy, duke peter, Slate, daniel effiom, Photogee, Olokoji, Billy, Gorga Siagian
+- Working Docs:
+  - [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+  - [Our Quarterly Workgroup Budget Calculator](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
+  - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+  - [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [DRAFT context-setting doc on naming decision](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing)
+  - [Treasury Session (18th April)  video](https://www.youtube.com/watch?v=Um7Zv5F9TyA )
+  - [Draft scripts for onboarding journeys](https://docs.google.com/document/d/1aF53HrArlVy3GHQTD6APNJNTpOxP5lG-RSu5kWrpyEA/edit?usp=sharing)
+  - [Q2 survey about our onboarding sessions](https://forms.gle/qMvn7jkhkKAiQ7B88)
+  - [Skills Audit doc](https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing)
+
+#### Town Hall Updates:
+Hogan Tuso will give the Onboarding WG update on Tues 28th May, Clement Umoh to mentor him.
+
+Suggested topics include:
+- share link to survey on onboarding sessions, and mention it closes on 31st May
+- Thank all who attended Treasury session (18th April) AND share a link to the YouTube video.
+- Recap of Onboarding session on 16th May - mention the Discord walkthrough and share a link to the recording.
+
+
+
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting
+- Action Items from the last meeting
+- Updating the Getting-Started Discord channel
+- Onboarding Sessions survey
+- The Facilitators' Collective training course https://thefacilitatorscollective.wordpress.com/project-type/facilitation-course/
+- Gamers' Guild's Roblox game of the Ambassador Program - a presentation of how they have representaed Onboarding WG
+
+#### Decision Items:
+- We agreed on last week's minutes
+  - [rationale] We noted that the documenter (Olokoji) had uploaded minutes directly in the Meeting Summary tool, but some of the group were looking for a doc. Need to check for both when approving minutes!
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed ladyTempestt's survey about onboarding sessions is good and ready to go out. We'll share it at the onboarding session on 16th May, and afterwards in Discord
+  - [rationale] because we want to capture answers both from those who attend on 16th and those who don't
+  - [effect] mayAffectOtherPeople
+- We agreed that everyone should add their skills to the Skills Audit doc before the next meeting
+  - [rationale] To capture what skills people have, and what they want to learn - to identify any training or peer-support/mentoring needs, and any skills gaps
+  - [effect] affectsOnlyThisWorkgroup
+- We noted that the Facilitators' Collective (a Cardano Project Catalyst project) has a self-paced online training course for facilitators, and a Discord server at https://discord.gg/un4R6YBZR6 ,  which might be useful for people here
+  - [rationale] People often make their first steps in facilitation via this WG, so a learning resource might help
+  - [effect] mayAffectOtherPeople
+- We agreed that Clement will be the backup person to deliver our Town Hall update this month if HoganTuso is unavailable
+  - [rationale] Clement (who is mentoring Tuso on this) hasn't been able to get in touch with Tuso, so we're not sure if he's still available to do it.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed that the context-setting document for the naming decision is still open for comments and input from WG members
+  - [rationale] We don't yet know when the naming decision will be made, but it will be before the end of Q2 - so it's best to get the info/context-setting doc ready as soon as we can
+  - [effect] mayAffectOtherPeople
+- Slate and the gamers' Guild presented how Onboarding WG looks in the Roblox game of the Ambassador program, and we agreed it's great
+  - [effect] mayAffectOtherPeople
+- We agreed to carry over discussion of the Getting Started channel to next meeting, and for all interested members to add comments to the Getting Starred doc wirth anythings that needs to be updated
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Lord Kizzy, Duke, Cj frankie, Vani, SucrenSpice, Lady Tempestt to continue work on scripts for onboarding journeys [assignee] duke peter, lord kizzy, cjfrankie , LadyTempestt, Vanessa, SucrenSpice [due] 23 May 2024 [status] in progress
+- [action] Clement will be facilitating the next meeting to cover for Vani (note this is 23rd May, because 16th is the onboarding session), Gorga to document [assignee] Clement Umoh, Gorga Siagian [due] 23 May 2024 [status] todo
+- [action] Infographic for May 16th Onboarding Session  [assignee] Cjfrankie  [due] 9 May 2024 [status] done
+- [action] Sucre to reach out to Educational Guild about Gorga's proposal [assignee] SucrenSpice [due] 9 May 2024 [status] done
+- [action] Vani to add the meeting notes from the 25th April and the 2nd May to the summary tool [assignee] Vanessa [due] 23 May 2024 [status] todo
+- [action] Lady Tempestt to chase Mikasa to publicize the forthcoming onboarding session on X [Twitter] [assignee] LadyTempestt [due] 14 May 2024 [status] todo
+- [action] Lordkizzy to ask Tevo to add the context-setting docs to the knowledge base. [assignee] lord kizzy [due] 23 May 2024 [status] todo
+- [action] Clement Umoh to contact Tuso about delivering the next Town Hall update scheduled for 28th of May, 2024. [assignee] Clement Umoh [due] 23 May 2024 [status] todo
+
+#### Learning Points:
+- Some people upload minutes directly to the Summary Tool, so we need to check both when approving minutes of last meeting
+
+#### To carry over for next meeting:
+- Onboarding Journey scripts
+- Getting Started discord channel
+
+#### Keywords/tags:
+- topics covered: context-setting docs, renaming Ambassadors, survey , Onboarding sessions, Documentation, Meeting Summaries, Roblox, Gamers Guild, Town Hall update, Knowledge base, Twitter/X, publicity, Facilitation, facilitators collective, learning resources
+- emotions: informative, interesting
+
+
 ## Friday 10th May 2024
 
 
