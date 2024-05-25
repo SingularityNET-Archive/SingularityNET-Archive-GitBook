@@ -211,3 +211,31 @@
 #### Keywords/tags:
 - topics covered: R&D guild, Q2 budget, Q2 budget decision process, Decision Making Process, consent decision making, Facilitation, scheduling, meeting time, deadlines, core contributors, Opt-in or opt-out
 - emotions: muddled, interesting, unclear
+## Friday 17th May 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], lord kizzy, martinsoki, malik, osmium, Billy, DS9, Slate
+- Purpose: Weekly updates
+#### Discussion Points:
+- More updates on the Zealy platform.
+- Lord kizzy, as the task manager, provided weekly task updates.
+- Slate as our social mdeia manager gave weekly updates on our socials.
+- Discussion on new idea from DS9 on using models to promote our engagement.
+- Discussion on lord kizzy's opinion on devising a means to allocate funds for these people.
+
+#### Decision Items:
+- the video workgroup decided that DS9 is to write a short proposal and present it to the Workgroup
+  - [rationale] DS9's idea should be processed to avoid complication with other workgroups
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Task Management/ tag the task payments, either it is a monthly or weekly payment [assignee] lord kizzy [due] 24 May 2024 [status] in progress
+- [action] facilitator to give monthly updates [assignee] Zalfred [due] 24 May 2024 [status] todo
+- [action] social manager, task manager and town hall editor to reach out to Peter to get admin access to the Zealy sprint [assignee] Slate, lord kizzy, malik [due] 10 June 2024 [status] done
+- [action] DS9 is to tender a proposal concerning his idea and get back to us  [assignee] DS9 [due] 24 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, new people, videomaking, engagement, models, fund allocation
+- emotions: Friendly, Casual, positive, speedy
