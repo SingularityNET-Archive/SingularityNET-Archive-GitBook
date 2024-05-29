@@ -168,7 +168,7 @@
 
 * [Design](development/design.md)
 * [LLM Development](development/llm-development/README.md)
-  * [RAG Process](development/llm-development/rag-process.md)
+  * [Retrieval-Augmented Generation](development/llm-development/rag-process.md)
 
 ## Links
 
