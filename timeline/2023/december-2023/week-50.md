@@ -218,7 +218,7 @@ Peter joined the meeting at the halfway point as he had messaged he would. The c
 
 #### Present:  <a href="#docs-internal-guid-83fc112e-7fff-b541-2651-4aa943518ee9" id="docs-internal-guid-83fc112e-7fff-b541-2651-4aa943518ee9"></a>
 
-Sucren \[Facilitator], Onyeka\[Documenter], Vani, Love, Peter, Kent, Cjfrankie
+SucrenSpice \[Facilitator], Onyeka \[Documenter], Vani, Love, Peter, Kent, Cjfrankie
 
 #### In this meeting we discussed:&#x20;
 
@@ -406,7 +406,7 @@ Starting from next quarter, Scribblers will be able to publish directly on the S
 #### Keywords:
 
 **Topics covered:**\
-Zealy, Branding Kit, Trivia, kPI, Cogito, Infographics, Quarterly Report, Twitter Threads 🧵, Cohort Session, AI-Cryptography, Pair Review
+Zealy, Branding Kit, Trivia, KPI, Cogito, Infographics, Quarterly Report, Twitter Threads, Cohort Session, AI Cryptography, Peer Review
 
 **Sources:**\
 The Evolution of Music Composition: How AI is Shaping the Sounds of Tomorrow [https://docs.google.com/document/d/11pbdFS84p9x3D85931f1qBgrQOpFOiFTAHFSojiD48g/edit](https://docs.google.com/document/d/11pbdFS84p9x3D85931f1qBgrQOpFOiFTAHFSojiD48g/edit)
