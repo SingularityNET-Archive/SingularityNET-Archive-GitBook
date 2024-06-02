@@ -22,9 +22,9 @@ Infographics, Platform, Video
 
 Meeting jumped into a long convo on which educational platform to use for the ACC. Discussed at length were Kahoots, Andamio and Google Classroom. All had proponents and pros and cons. While Google Classroom may be the more expensive or on a par with Kahoots, it was felt to be the quickest and easiest to set up and use. Andamio would require some coding.&#x20;
 
-Curtis, who also was a proponent of Andamio, asked about the use and scalability of Google Classroom for beyond Education Guild. Headelf stated that one consideration was that Strategy Guild might also use the platoform for training in mediation. Curtis was interested if we could use it for marketing, etc and what the expense would be. TBD.
+Curtis, who also was a proponent of Andamio, asked about the use and scalability of Google Classroom for beyond Education Guild. Headelf stated that one consideration was that Strategy Guild might also use the platform for training in mediation. Curtis was interested if we could use it for marketing, etc and what the expense would be. TBD.
 
-\[decision] Consensus was reached that Google Class was easiest and should be tried.
+\[decision] Consensus was reached that Google Classroom was easiest and should be tried.
 
 We are waiting on several infographics still.
 
@@ -34,7 +34,7 @@ We are waiting on several infographics still.
 
 #### Action items:
 
-\[action] Enroll in Google Class.\
+\[action] Enroll in Google Classroom.\
 \[action]Build out rest of infographics.\
 \[action] Rojo to do the infographic for OpenCog Hyperon.&#x20;
 
