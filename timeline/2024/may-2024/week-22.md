@@ -182,6 +182,7 @@
 - [action] Let's prompt engineer ourselves a result next session, where input is the item, and output is the the list and rationale where item belongs [status] todo
 ## Friday 31st May 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -205,3 +206,54 @@
 #### Keywords/tags:
 - topics covered: social media management, new people, Videomaking, Task Assignment, Zealy, training, tests
 - emotions: Friendly, Casual, positive, speedy
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie [documenter], Kenichi, Cjfrankie, LadyTempestt, devon, Nebula1224, Ines, Slate, Onize, kateri
+- Purpose: Zealy update, community page, WWG Twitter page manager.
+- Other media: [Link](https://zealy.io/cw/singularitynetambassadorsprogram/invite/k3tYhGdB-qpvUQfmjubl8)
+- Working Docs:
+  - [SNET WWG-TEST](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+  - [Cjfrankie - New Article Suggestion for the Scribblers](https://docs.google.com/document/d/1SKuUO-RkYsfJbGJHgbbOSQKMscv5Gzg8HBcdGarKCJc/edit)
+  - [AI Cryptography: Enhancing-security-and-privacy-in-the-digital-age](https://medium.com/@singularitynetambassadors/ai-cryptography-enhancing-security-and-privacy-in-the-digital-age-db5c1bbf5fdb)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone to the meeting. 
+
+Kenichi announced that the WWG Q2 budget increase proposal has been approved.
+
+Kenichi shared a quick rundown of the Medium article performances. Clearly, our article from last year, “AI Cryptography,” is still gaining ground.
+
+Then Kenichi shared his screen as we explored the readers' interest in AI Cryptography. Kenichi suggested that we write articles based on readers' interest, to enable the WG to reach more people via Medium.
+
+Kenichi shared updates from the Zealy side of things. Currently, we have 65 Zealy participants, and the sprint is ending in a few days!
+
+Discussion on finding someone to manage the WWG Spanish X page
+Inés said she would take the responsibility.
+
+Discussion on Kenichi’s vision for the WWG community page: this community page will enable Scribblers to share more diverse articles outside of the SNET Ambassador Program niche.
+
+Cjfrankie shared some article topics for the Scribblers.
+
+
+
+#### Decision Items:
+- We decided to create a new channel for the Scribes; this channel will enable anyone to track the Scribe activities; however, they can only view the channel but cannot send messages. 
+  - [rationale] To enhance openess and fairness and to keep everyone abreast of what the Scribes are working on.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that Inés would be the WWG Spanish page manager.
+  - [rationale] Since she is a native speaker, she could potentially help us reach a wider audience. 
+  - [effect] affectsOnlyThisWorkgroup
+- Before now, only the Scribes suggested quests for Zealy sprints; we decided that Scribbler(s) should be a part of the Zealy exercise, so they can submit quest ideas moving forward.
+  - [rationale] To make it more inclusive for everyone who has an idea to share.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Inés to chase Mikasa to get insider tips on managing the Spanish X page. [assignee] Ines [status] in progress
+- [action] Kenichi to chase Peter for the creation of the Scribe channel. [assignee] Kenichi [due] 1 January 1 [status] todo
+- [action] Cjfrankie to share his article suggestions on the WWG channel. [assignee] Cjfrankie  [due] 31 May 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Scribe channel, Q2 KPI, Q3 budget, Twitter management, Onboarding, Zealy, Medium, Native speakers, Spanish
+- emotions: Welcoming, Friendly, interactive, Discursive
