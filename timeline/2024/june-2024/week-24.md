@@ -99,3 +99,25 @@
 
 #### Keywords/tags:
 - topics covered: Feedback Form, organizing, process, Administration, Roles, Rewards, Coordination, Miro Board, async, async working practices
+## Friday 14th June 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], lord kizzy, hogantuso, AndrewBen, Slate, kateri, osmium
+- Purpose: weekly updates 
+- Working Docs:
+  - [Proposal Sheet For video workgroup](https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=drivesdk)
+
+#### Discussion Points:
+- More updates on the Zealy platform.
+- slate, as our social media manager, gave weekly updates on our socials.
+- More weekly news updates from the Town Hall meeting
+
+#### Action Items:
+- [action] Creation of a group for test and training for our two candidates to serve as our reveiwer and communicator for the zealy progeam [assignee] lord kizzy, devon [due] 28 June 2024 [status] in progress
+- [action] creation of our Budget proposal [assignee] hogantuso, lord kizzy [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, Videomaking, Task Assignment, Zealy, budget, Q3 budget, town hall, training, test
+- emotions: Casual
