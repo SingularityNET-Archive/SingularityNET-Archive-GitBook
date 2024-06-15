@@ -194,6 +194,7 @@
 - topics covered: async, veteran organizer role, reviews, categorisation, Rewards, Onboarding, Feedback Form
 ## Thursday 16th May 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -259,6 +260,45 @@
 #### Keywords/tags:
 - topics covered: R&D guild, Q2 budget, Q2 budget decision process, Decision Making Process, consent decision making, Facilitation, scheduling, meeting time, deadlines, core contributors, Opt-in or opt-out
 - emotions: muddled, interesting, unclear
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: LadyTempestt [facilitator], lord kizzy [documenter], Clement Umoh, cjfrankie, SucrenSpice, Vanessa, Peter, lord kizzy, duke peter, daniel effiom, hogantuso, CollyPride, Gorga Siagian, LadyTempestt
+- Purpose: Instead of the usual weekly workgroup meeting, this was an Onboarding Q&A session aimed at new people
+- Working Docs:
+  - [Onboarding session 16th May video](https://drive.google.com/file/d/17LMF1KmGhWYn77kBipzvor2HaVyMLhnN/view?usp=sharing)
+  - [Onboarding slides video](https://youtu.be/ceOAl7ObJVU?si=KSWOnZRbH99aq_fr)
+  - [Onboarding Sessions survey](https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform)
+
+#### In this meeting we discussed:
+- Today's workgroup meeting was replaced by an Onboarding Session aimed at new people. We presented a video on how to join SingularityNET's ambassador program, and a walkthrough of the sNET Discord, follwed by a Q&A session.
+- Q&A Session and suggestions: we noted that not many new people were in attendance and discussed how to rememdy it. Clement suggested that we ask leads of other WGs to advise new members to join one of these onboarding sessions to help them onboard.
+- Tuso and Gorga suggested the creation of bots to welcome new members into program and guide them to e.g. the Getting Started channel
+- LadyTempestt suggested that onboarding WG members could attend different Workgroups' meetings to  invite members to our onboarding sessions
+- Vani suggested that we could post in the introductions channel to encourage people that are interested in the ambassador program
+- We discussed whether we actually need onboarding sessions as such, if new people are not attending? We noted that perhaps the timing of this session was the problem, as it hasn't coincided with a big influx of new people.
+- We discussed which Discord channels newcomers tend to use - Introductions? Ambassador-General? or just the channel for the WGs they are interested in?
+- We discussed idea of colour-coding people's names on Discord to show their roles: but we noted that most people are part of many groups and have many roles , so it wouldn't really work, and our current WG tags already serve this function
+- A hierarchy or system of levels in Discord was suggested, but several people questioned how this would be valid given our non-hierarchical ecosystem. Also questioned how someone's "level" would be determined (manually, and if so, by whom? or automated?) and on what basis (Time? Number of posts? A combination?) 
+- We discussed how well we "spot" new people in Discord. We noted that there is a green leaf "I'm new" symbol next to people's names, but it seems not everyone can see it. There is also a welcome channel, but not everyone can see it - it might be best for it to remain restricted, but should any Onboarding members have access to it? 
+- We also noted that if a new person posts to say hi, we welcome them - but if they don't - perhaps by being too shy - we can easily miss them
+- LadyTempestt shared a link to our survey about these Onboarding sessions, and invited everyone to complete it by 31st May.
+
+#### Decision Items:
+- We decided to bring up the points from this discussion in our next Onboarding meeting on 23rd May
+  - [rationale] because we didn't have time in this session to finish discussing them; plus, they need discussion in the context of the WG's overall work and planning
+  - [effect] affectsOnlyThisWorkgroup
+
+#### To carry over for next meeting:
+- Getting Started discord channel
+- Discussions on Outreach to new members
+
+#### Keywords/tags:
+- topics covered: survey , Onboarding sessions, Outreach, Onboarding, Discord walkthrough, Discord, Bots
+- emotions: informative, interesting, Collaborative, Thoughtful 
+
+
 ## Friday 17th May 2024
 
 ### Video Workgroup
