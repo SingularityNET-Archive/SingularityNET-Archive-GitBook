@@ -2,6 +2,7 @@
 
 ## Monday 3rd June 2024
 
+
 ### Treasury Policy WG
 
 - Type of meeting: Weekly
@@ -58,6 +59,54 @@
 #### Keywords/tags:
 - topics covered: Emergent, Discursive, Decentralisation vs Centralisation, Documenting Baselines, Organising, Development, Policy Creation, Miro Board, tooling, Google Docs, Google Form, GitBook
 - emotions: Confused, Divergent views, confusing
+
+
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Peter, kateri, Ayo, Kenichi, Billy, Kareem
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584775426018&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6)
+- Working Docs:
+  - [Treasury Guild Dework Space](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Treasury Quarterly Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Context-setting doc for Q2 budgets decision](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [Core Contributors list](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h)
+  - [Treasury Guild Q2 budget proposal](https://docs.google.com/document/d/19k06OQEXJe0nYSrVVRLw1t_3BXSnUcXwsmLV9Tp07C4/edit?usp=sharing)
+
+#### Agenda item 1 - Ambassador Program Quarter 2 report templates - [carry over]
+
+#### Discussion Points:
+- Should workgroups report on their onboarding results?
+- Should we measure and assess quarterly reports?
+- When do we report?
+- Treasury Guild can provide reports
+
+#### Decision Items:
+- Deadlines are necessary to ensure progress, but we can still be somewhat flexible in how much extra time is needed to put the information together, but it shouldn't be a regular occurrence for the groups
+  - [effect] mayAffectOtherPeople
+- Each number and statement on proposal should be accommodated with source of information if applicable
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Check up with Onboarding WG to learn how should we approach collecting onboarding results? [status] todo
+
+#### Agenda item 2 - Lack of clarity on the onboarding in general (to Ambassador Program) - [carry over]
+
+#### Discussion Points:
+- What are the contributions people can do?
+- Missing specific ppl who help welcome new people and connect them with the social infrastructure based on their skills and interest
+- We seem to have gaps because we bring this up quite often
+
+#### Decision Items:
+- There is high need for 1 to 1 conversations with new people for effective onboarding
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: Miro Board, Onboarding, Reporting, accountability, processes
+- emotions: muddled
 
 
 ## Tuesday 4th June 2024
