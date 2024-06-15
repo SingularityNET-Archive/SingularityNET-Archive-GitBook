@@ -74,3 +74,29 @@ The rest of the meeting with preominately talking about strategy and figuring ou
 #### Keywords/tags:
 - topics covered: ACP, processes, Blueprints, implementation, Group creation, Info and vid rework, Budget, Objectives, objactives achieved so far, achievement
 - emotions: productive,  Collaborative, Businesslike., speedy
+## Friday 7th June 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], lord kizzy, hogantuso, AndrewBen, malik, Slate, kateri, daniel effiom
+- Purpose: weekly updates 
+#### Discussion Points:
+- More Updates on the zealy platform.
+- malik, as the task manager, provided weekly task updates.
+- slate, as our social media manager gave weekly updates on our socials.
+- More weekly updates from the town hall editor
+
+#### Decision Items:
+- lord kizzy is to reach out to devon to create a group of tests and training for our candidates
+  - [effect] mayAffectOtherPeople
+- The Zealy manager must be a member of both work groups (writers and video work group)
+  - [rationale] to ensure better communication for both groups 
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Creation of a group for test and training for our two candidates to serve as our reveiwer and communicator for the Zealy progeam [assignee] lord kizzy, devon [due] 28 June 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: social media management, new people, Videomaking, Task Assignment, Zealy, training, test
+- emotions: Friendly, Casual, positive, speedy
