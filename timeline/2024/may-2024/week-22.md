@@ -3,6 +3,7 @@
 ## Wednesday 29th May 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -91,3 +92,41 @@
 #### Keywords/tags:
 - topics covered: document management, github board, AI ethics, Ethics, ethics of AGI, Town Hall presentation, good meeting summaries, LLMs, LLM development, AI tooling, open source
 - emotions: positive, Friendly, Organised
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, Clement Umoh, Photogee, osmium, WaKa, Billy, esewilliams, malik, Onize, kateri, Ayo
+- Purpose: - Onboarding WG mentorship  discussion - blueprints for ACP and Education Guild  - process for ACP implementation  - process for saving artifacts such as infos, vids and quizzes - resolve nunet 
+- Working Docs:
+  - [List of Ambassador Program DeepFunding proposals ](https://docs.google.com/spreadsheets/d/1jrOKJK2BrrS4Z5vLNyQqTxgJpt85ny0YsQ2kCuzPCog)
+
+#### In this meeting we discussed:
+- Onboarding WG mentorship  discussion by Billy
+-  blueprints for ACP and Education Guild
+-  process for ACP implementation 
+- process for saving artifacts basically the infos,vids and quizzes
+- resolve nunet 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then he highlighted the agenda for today's meeting 
+- Billy discussed his concerns regarding onboarding wg mentorship 
+- Slate highlighted that we would be needing a process for creation of  blueprints for ACP and Education Guild, which at the end was agreed to be group creation and opening the doc for comments 
+- osmium gave updates from the review team side 
+- Slate also mentioned that we would be needing a way to secure these artificats that we have created for ACP most importantly the videos to a safe and permanent place 
+- In that there was a suggestion of posting the videos on youtube as a unlisted  playlist 
+- Slate notified Waka regarding his missing video on Nunet 
+- Then Slate discussed that we would also be needing a process for the implementation of ACP on Google Classroom which was initially meant to be a job for two people with a assigned activity list 
+
+#### Decision Items:
+- ACP and Education Guild Blueprint 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Securing ACP Videos [assignee] everyone assigned  [due] 5 June 2024 [status] in progress
+- [action] Google Classroom process implementation activity list  [assignee] Slate [due] 5 June 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: ACP, Google Classroom, processes, Blueprints , implementation, unlistedvideos, Nunet, GroupforBlueprintsz
+- emotions: productive,  Collaborative, Businesslike., speedy
