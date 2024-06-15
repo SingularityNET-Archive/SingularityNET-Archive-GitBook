@@ -180,3 +180,28 @@
 
 #### Action Items:
 - [action] Let's prompt engineer ourselves a result next session, where input is the item, and output is the the list and rationale where item belongs [status] todo
+## Friday 31st May 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], lord kizzy, hogantuso, AndrewBen, malik, Slate, kateri, daniel effiom
+- Purpose: weekly updates 
+#### Discussion Points:
+- More updates on the Zealy platform.
+- malik, as the task manager, provided weekly task updates.
+- slate, as our social media manager, gave weekly updates on our socials.
+- weekly updates from the town hall editor.
+- lord kizzy gave us updates on the task assignment for the video workgroup members.
+
+#### Decision Items:
+- lord kizzy is to reach out to devon to create a group of tests and training for our candidates
+  - [effect] affectsOnlyThisWorkgroup
+- 2 members from our workgroup will serve as a reveiwer and the other as communicator for the Zealy program
+
+#### Action Items:
+- [action] Creation of a group for test and training for our two candidates to serve as our reveiwer and communicator for the Zealy progeam [assignee] lord kizzy, devon [due] 28 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, new people, Videomaking, Task Assignment, Zealy, training, tests
+- emotions: Friendly, Casual, positive, speedy
