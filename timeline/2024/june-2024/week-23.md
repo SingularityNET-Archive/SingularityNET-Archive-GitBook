@@ -36,3 +36,41 @@ The rest of the meeting with preominately talking about strategy and figuring ou
 #### Keywords/tags:
 - topics covered: AI ethics, Global ethics initiative, strategy, drafting strategy documents, ambassador workgroup
 - emotions: Casual, Collaborative, a bit slow
+## Wednesday 5th June 2024
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, Clement Umoh, Photogee, osmium, esewilliams, malik, kateri, Peter, duke peter, Ayo
+- Purpose: -Budget Discussion  - Group blueprints for ACP and Education Guild  - Education Guild Projects by Slate - What have been achieved so far by Education in Q2?- Ambassador Program Info And Video Rework 
+- Working Docs:
+  - [Proposed Education Guild Projects ](https://docs.google.com/document/d/1mlmw_h2rkfbr75nPyNKI_mXA7ZKOz8mhL1Raz9590i8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Budget 
+- Group blueprints for ACP and Education Guild
+-  Education Guild Projects by Slate 
+- What has been achieved so far by Education in Q2?
+- Ambassador Program Info And Video Rework 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then he shared the Projects document that he has come up with, highlighting two to three projects which education guild can undertake going forward
+- He also mentioned that the purpose of proposing these is because all of the processes of the ACP have been defined and ACP will be put live once we have all the completed resources thus we can look forward for new projects
+- Then Slate shared what education guild has achieved in Q2 so far 
+- Then he shared the Q2 budget, highlighting which allocation has been used and which is still left 
+- Then there was a mention that whoever is interested in creation of education guild blueprints can showcase their interest and will be added to the group by the weekend 
+- Osmium mentioned that Ambassadors Info and video needs rework 
+- Which is going to be done by Clement 
+
+#### Decision Items:
+- ACP and Education Guild Blueprint 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Assign Clement to Info and Vid for Ambassadors  [assignee] Clement Umoh [due] 11 June 2024 [status] in progress
+- [action] Group creation for Education Guild Blueprints  [assignee] Slate [due] 11 June 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: ACP, processes, Blueprints, implementation, Group creation, Info and vid rework, Budget, Objectives, objactives achieved so far, achievement
+- emotions: productive,  Collaborative, Businesslike., speedy
