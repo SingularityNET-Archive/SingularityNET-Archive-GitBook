@@ -1,5 +1,65 @@
 # Week 23
 
+## Monday 3rd June 2024
+
+### Treasury Policy WG
+
+- Type of meeting: Weekly
+- Present: Tevo [facilitator], Tevo [documenter], Clement Umoh, Tevo, Effiom, Billy, SucrenSpice, Kenichi, lord kizzy, Vanessa
+- Purpose: Design and Organize Ambassador Program Treasury Rules
+- Meeting video: [Link](https://www.youtube.com/watch?v=tT2dk-8oQCU)
+- Miro board: [Link](https://miro.com/app/board/uXjVKL5-fNY=/)
+- Working Docs:
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/19k06OQEXJe0nYSrVVRLw1t_3BXSnUcXwsmLV9Tp07C4/edit#heading=h.9t5jkakh8028)
+  - [Policy Template](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v)
+
+#### Agenda item 1 - Introduction to Policy Workgroup - [resolved]
+
+#### Discussion Points:
+- References to resources that are made available for this workgroup
+- Planned roadmap for the workgroup
+- Roles and Deliverables
+- What work could be done asynchronously and how?
+- Presentation Video: https://youtu.be/HP8hkC0OMno
+
+#### Agenda item 2 - Policy Creation Template - [carry over]
+
+#### Discussion Points:
+- How do we design Ambassador Program Treasury rules?
+- What are the minimum requirements for providing Policy Template - Google Doc
+- What are current policies?
+- What have been our current processes?
+- How policies will be ratified and moved into effect
+- 2 examples for policies will give a better view into the range of different ways to introduce a policy
+- It might be difficult to distinguish the difference between clear rules vs guidelines
+- This document will most likely turn into a living document and get updated more often as new processes emerge
+
+#### Action Items:
+- [action] Draft Policy Template https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit?usp=sharing [assignee] all [status] todo
+- [action] Each workgroup has the opportunity to provide their view on the Policy Template and share how they have accepted previous policies or guidelines and what process they followed to set policies or guidelines [assignee] all [status] todo
+- [action] Prepare a retrospective session to go over different workgroups' and guilds' processes how have they arrived at decisions - somewhere at 4th session we can start preparing for information collection again [assignee] all [status] todo
+
+#### Agenda item 3 - How do we organize the rules? - [resolved]
+
+#### Discussion Points:
+- How often should we update the Ambassador GitBook? https://snet-ambassadors.gitbook.io/home
+- Which tools we will mainly use?
+
+#### Decision Items:
+- We will use Google Forms to capture policies within data structures
+- We will use Google Sheets to aggregate policies and feedback for Policy Selectors
+- We will use Google Docs for drafting documentation and to play around with more complex policies
+- We will use the Ambassador GitBook to present Treasury rules and policies that affect the Ambassador Program financially
+- We will use Miro Board for referencing all possible links to different source materials related this workgroup assets
+
+#### Action Items:
+- [action] Bring up question of how often we should update the GitBook in the next retrospective session mentioned in last agenda. [assignee] all [status] todo
+
+#### Keywords/tags:
+- topics covered: Emergent, Discursive, Decentralisation vs Centralisation, Documenting Baselines, Organising, Development, Policy Creation, Miro Board, tooling, Google Docs, Google Form, GitBook
+- emotions: Confused, Divergent views, confusing
+
+
 ## Tuesday 4th June 2024
 
 ### AI Ethics WG
