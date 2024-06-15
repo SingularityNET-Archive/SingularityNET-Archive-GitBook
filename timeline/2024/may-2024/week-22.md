@@ -4,6 +4,7 @@
 
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -130,3 +131,52 @@
 #### Keywords/tags:
 - topics covered: ACP, Google Classroom, processes, Blueprints , implementation, unlistedvideos, Nunet, GroupforBlueprintsz
 - emotions: productive,  Collaborative, Businesslike., speedy
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, lord kizzy, André, Ayo, esewilliams, Effiom, hogantuso, Onize, Gorga Siagian
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Meeting video: [Link](https://youtu.be/OtCQb3Gvf24)
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?share_link_id=819033103692)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Review organized and reviewed items - [carry over]
+
+#### Discussion Points:
+- Reviewing SNET Ambassador Program - Webpage https://singularitynet.io/ambassador-program/
+- We had conflicting views on how relevant it is an item to demonstrating how we recognize the value.
+- Mostly everyone agreed to reasons and locations for this item
+
+#### Decision Items:
+- We added an Item under the Agent Model under the guiding questions of "what services we offer" and "what are our limitations"
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] 8 new Items have been added to the Miro Task Board to be organized [status] todo
+
+#### Agenda item 2 - Retrospective on organizing process and async results - [carry over]
+
+#### Discussion Points:
+- How do we resolve conflicting views?
+
+#### Decision Items:
+- We achieved good enough results to async to proceed with the current model.
+  - [effect] affectsOnlyThisWorkgroup
+- Conflicting Reviews are decided by simple majority.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Review only conflicting items in future collective review sessions [status] todo
+- [action] Gather for collective practice every now and then [status] todo
+- [action] Next session, continue discussions on documenting the process and making it easier to follow [status] todo
+
+#### Agenda item 3 - Elegant next steps - [carry over]
+
+#### Discussion Points:
+- Initiate one of the previous next steps to try use LLM to sort our items
+
+#### Action Items:
+- [action] Let's prompt engineer ourselves a result next session, where input is the item, and output is the the list and rationale where item belongs [status] todo
