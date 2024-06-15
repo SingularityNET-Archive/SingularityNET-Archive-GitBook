@@ -121,6 +121,7 @@
 
 ## Friday 24th May 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -152,3 +153,55 @@
 #### Keywords/tags:
 - topics covered: social media management, new people, Videomaking, Task Assignment, rewards
 - emotions: Friendly, Casual, positive, speedy
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, LadyTempestt, devon, Nebula1224, Ines, Onize, hogantuso, Ayo
+- Purpose: Introduction to 'WWG Role Document V1' and Notion as a platform.
+- Other media: [Link](https://medium.com/@singularitynetambassadors)
+- Working Docs:
+  - [Scribe Application Form](https://docs.google.com/document/d/1nEKcHFW8fk7t3xvAI2iKz_PDmAD_vLEe8YGcCDOQFYg/edit?usp=sharing)
+  - [WWG Role Document v1](https://docs.google.com/document/d/1Snol58978ZkEtWpIBv0VNEwqsdM8ZHz9jsvOyr4qmA4/edit?usp=sharing)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone to the meeting.
+
+Kenichi shared insider tips on the Writers' WorkGroup role document v1, which he shared during the meeting.
+
+Inés asked questions about how the articles written by the SNET Scribblers are published on Medium, when articles go out, and what’s next after the publication. Kenichi gave more thoughts on her questions.
+
+Onize, who is just attending our meeting for the first time, was curious to know how she could contribute; Kenichi explained the whole WG process to her.
+
+Discussion on working on the Notion page to foster collaboration and automation.
+
+Updates on the rejected Q2 budget were discussed.
+
+Ayo suggested that the writer's WG make a proper agenda for their weekly meetings, and he also stated the need for creating a getting-started doc for people who are interested in writing for the ambassador program.
+
+
+
+#### Decision Items:
+- We decided that moving forward, we would have a look at our last meeting summary before proceeding with new meetings.
+  - [rationale] This would help us stay organized while discussing things that matter most.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that the Scribes will be reviewing dework article submissions in the absence of Kenichi.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to find a perfect emoji or add the keyword “Scribe” to each of the Scribes Discord names so they'll easily be identified anywhere on the SNET Discord server.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that Scribes would select a niche from the SNET ecosystem for providing tailored articles for the SNET medium publication.
+  - [rationale] Everybody agreed: this would help us distinguish the Scribes from the Scribblers.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to make the points systems more transparent so everyone would know their monthly performances and why they got a certain amount of rewards.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to draft an onboarding doc for new people to catch a glimpse of the writer's workgroup. [assignee] Kenichi [status] todo
+- [action] Kenichi to create a Notion page for documenting the WG progress, setting up automation, and fostering collaboration among the writers. [assignee] Kenichi [status] done
+
+#### Learning Points:
+- Notion as a platform to foster the writer's workgroup collaboration and for easy automation.
+
+#### Keywords/tags:
+- topics covered: Scribe, Points system, Miro Board, Notion, Dework, Q2 budget, participation, meeting agenda, Onboarding, medium
+- emotions: insightful, informative, interesting
