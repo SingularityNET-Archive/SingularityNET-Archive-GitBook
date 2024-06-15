@@ -2,6 +2,7 @@
 
 ## Wednesday 12th June 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -39,3 +40,62 @@
 #### Keywords/tags:
 - topics covered: ACP, processes, Blueprints , implementation, Info and vid rework , Budget , Objectives achieved so far , tom presentation
 - emotions: productive,  Collaborative, Businesslike., speedy
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, lord kizzy, André, Ayo, Effiom, Onize, Gorga Siagian, Clement Umoh
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Meeting video: [Link](https://youtu.be/vn8FNesC3Qs)
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?share_link_id=819033103692)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+
+#### Agenda item 1 - Knowledge Base onboarding feedback - [resolved]
+
+#### Discussion Points:
+- How to improve onboarding to Knowledge Base WG?
+- How people get onboarded to Knowledge Base WG?
+- What do new people notice about Knowledge Base WG?
+
+#### Decision Items:
+- We will recheck the form next month.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Reward all new members who gave feedback. [status] todo
+- [action] Create infographic [status] todo
+
+#### Agenda item 2 - Async process for organizing - [carry over]
+
+#### Discussion Points:
+- How to better distribute organizing workload between contributors?
+- When do we validate the role?
+
+#### Decision Items:
+- We notify contributors to stop, and we delete misguided documentation.
+  - [effect] affectsOnlyThisWorkgroup
+- Introducing a limit on how many items per week (currently 2) a person can organize and review.
+- There will be no changes in reward size; it continues to be 10$ per item (review + organizing)
+  - [effect] affectsOnlyThisWorkgroup
+- After 4 different items are reviewed by the QA Team, they can decide to give an Organizer role to the member.
+  - [effect] affectsOnlyThisWorkgroup
+- Along with the Organizer role will also come the Process Guild member role.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] QA team to review 3 items from the first patch that didn't go through the double review process. [status] todo
+- [action] In the next session, start drafting documentation for Onboarding for Async organizing activities. [status] todo
+
+#### Agenda item 3 - Prompt Engineer ourselves organizing results from LLM - [carry over]
+
+#### Discussion Points:
+- We didn't have enough time left to start this topic, so we skipped it.
+
+#### Decision Items:
+- Take this up after the Async Process Documentation has been drafted
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: Feedback Form, organizing, process, Administration, Roles, Rewards, Coordination, Miro Board, async, async working practices
