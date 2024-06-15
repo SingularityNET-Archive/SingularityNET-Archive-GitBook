@@ -74,6 +74,47 @@ The rest of the meeting with preominately talking about strategy and figuring ou
 #### Keywords/tags:
 - topics covered: ACP, processes, Blueprints, implementation, Group creation, Info and vid rework, Budget, Objectives, objactives achieved so far, achievement
 - emotions: productive,  Collaborative, Businesslike., speedy
+## Thursday 6th June 2024
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: Duke [facilitator], Onyeka  [documenter], Peter, Sucren, love, esewilliams, Kenichi, Ayodele, kateri, Billy, martinsoki, Gorga Siagian, Clement Umoh, daniel effiom, oep, Hamzat_iii, Oluwaseun Gbiri, Onize
+- Working Docs:
+  - [Skills Database form](https://forms.gle/KzwBdX9nb7LRu4mt6)
+
+#### Narrative:
+The meeting began with a welcome session from Ese Williams, 
+
+had an interactive session with all the members present in the meeting and we got to know their skills, occupation, their visions for Africa, nationality and also their expectation for the Guild. 
+
+Afterward we ran through the discussion items: the First was on "How to get more African countries to join the guild and participate in the program; Billy suggested an outreach to major African Universities in sister countries, Onize suggested a social media outreach to neighboring countries, Kenichi suggested a clearer reason for Onboarding of new members.
+
+Then Duke ran through the Guild ethics for members, there were also discussions on the guild's Q3 Budget and Duke noted that there will be an AMA session on the 28th of June and the topic will be AI and its Effect in Africa and also a community bounty by the end of the quarter. 
+
+Duke gave updates on the previous action item. 
+
+Clement spoke on the updates on "Research and partnerships with other AI and web 3D communities across Africa". 
+
+Finally AOB and conclusions
+
+
+#### Decision Items:
+- We decided to make the Guild meetings WEEKLY instead of Bi-Weekly.
+  - [rationale] we have a lot of discussions and Bi-weekly doesnt provide enough time to treat them
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Creation of Guild's official channels [Telegram, Zoom and Email].  [assignee] Guild Core team [due] 13 June 2024 [status] in progress
+- [action] Identify and touching base virtually with other AI and web 3D communities across Africa. [assignee] Clement Umoh [status] todo
+- [action] All members to fill the Skills Database form [assignee] all [due] 13 June 2024 [status] todo
+- [action] Sucren and LadyTempestt to structure an Onboarding process for the guild [assignee] Sucren, LadyTempestt [due] 13 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: African, Onboarding, Telegram, Ambassador guild, Artificial General Intelligence, AGI, BGI, Decentralization, Task Assignment, skills, skills database, outreach, universities, African universities, partnerships, web3 communities, AMA session, move from biweekly to weekly, meeting frequency, biweekly, weekly, ethics, Guild ethics, Q3 budget, social media, social media outreach
+- emotions: Friendly, funny, engaging new people
+
+
 ## Friday 7th June 2024
 
 ### Video Workgroup
