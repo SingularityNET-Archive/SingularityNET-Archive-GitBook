@@ -38,6 +38,7 @@ Ambassadors could have a presence at AI for Good and/or AGI and continue the fis
 ## Wednesday 8th May 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -150,6 +151,47 @@ Ambassadors could have a presence at AI for Good and/or AGI and continue the fis
 
 #### Keywords/tags:
 - topics covered: review, forward planning, Andamio updates, Reward automation, Rewards
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, Clement Umoh, osmium, duke peter, WaKa, GorgaSeagian, Kenichi, Photogee, SoundWaves, esewilliams, DS9
+- Purpose: Review Team Updates, Osmium Metaverse Build for Education, Gorga’s proposal for education and onboarding, Google Classroom update, Waka's "Teach with AI and About AI"
+- Working Docs:
+  - [Proposed Education Guild Projects](https://docs.google.com/document/d/1mlmw_h2rkfbr75nPyNKI_mXA7ZKOz8mhL1Raz9590i8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Review Team updates
+- Osmium Metaverse Build for Education,
+- Gorga’s proposal for education and onboarding
+- Google Classroom update,
+- Waka’s proposal, "Teach with AI and About AI"
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody
+- Then he highlighted the agenda for today’s meeting
+- Osmium shared his metaverse experience build on Universe for educational purposes
+- Everybody really liked the useful tool
+- Slate provided updates from vanessa’s side regarding quizzes update and guided everyone for the required adjustments
+- Then Gorga presented his proposal for collaboration
+- Slate guided that the proposal would be best fitting the writer’s workgroup as they can help in getting out quality articles
+- Then Slate gave a update regarding Google Classroom, that the quiz timer can be implemented and will be most probably completed by next week
+- Slate than gave the floor to Waka so that he can give a overview of the his proposal regarding “Teach with AI and About AI”
+
+#### Decision Items:
+- Reach out to Fetch and Ocean
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Slate to add timer to quizzes [assignee] Slate [due] 15 May 2024 [status] done
+- [action]  Reach out to Fetch and Ocean [assignee] WaKa [due] 15 May 2024 [status] done
+- [action]  Ese to give visual presentation of Microsoft Teams [assignee] esewilliams [due] 15 May 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: ACP, review, platform, Google Classroom, timer, quizzes, Universe, metaverse, Teach with AI , metaverse, Gorga's proposal
+- emotions: productive,  Collaborative, Businesslike., speedy 
 
 
 ## Thursday 9th May 2024
