@@ -180,6 +180,71 @@
 
 #### Action Items:
 - [action] Let's prompt engineer ourselves a result next session, where input is the item, and output is the the list and rationale where item belongs [status] todo
+## Thursday 30th May 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], duke peter [documenter], lord kizzy, duke peter, LadyTempestt, Cjfrankie, Ayo, Vanessa, SucrenSpice, kateri, Colleen, Photogee, Onize, Gorga Siagian, esewilliams, daniel effiom
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Onboarding Sessions survey](https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform)
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit)
+  - [Onboarding WG skills assessment / skills audit doc](https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing)
+  - [Onboarding Workgroup Treasury session video, April 18th, 2024](https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn)
+  - [Onboarding Slides voiceover video](https://youtu.be/ceOAl7ObJVU?si=3FN9EmfheGwlA1Tj)
+  - [Suggestions towards better onboarding processes](https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes from the last meeting and action items
+- Onboarding Journeys update 
+- Getting started doc/channel
+- Skills audit 
+- Video and text documentation of onboarding processes
+- Further discussion of feedback from 16th May Onboarding session. We covered: Can we use our skills audit doc to support onboarding - e.g. by identifying core skills that everyone needs in the ambassadors program overall? How do we bridge the translation barriers for new ambassadors in getting-started channel and onboarding? Should part of each onboarding meeting be a mini "onboarding Q&A"? Would it be more helpful to share our existing resources - e.g. the voiceover video of the onboarding slides? Do we need to reach out to leaders of workgroups to ask them to direct new members to the getting-started channel?
+
+#### Decision Items:
+- We agreed to discuss the Q2 survey properly after the form closes on 31st May 2024 - so next meeting, 6th June
+  - [rationale] Analysis is in progress
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to reach out to translators WG and LatAm for translating onboarding resources such as Getting Started
+  - [rationale] because we are aware there might be language barriers
+  - [effect] mayAffectOtherPeople
+- We agreed on “pinning”/sharing the onboarding video by Duke https://youtu.be/ceOAl7ObJVU?si=3FN9EmfheGwlA1Tj
+  - [rationale] because it's a useful resource that new people might not be aware of; and because more async/self-paced resources might help
+  - [effect] mayAffectOtherPeople
+- We agreed Duke will facilitate the next meeting on 6th June
+  - [rationale]  as Peter is on the roster but may not be free to do it.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Lord Kizzy to re-do the summary from the Onboarding session on 16th, and add to the meeting summary tool [assignee] lord kizzy [due] 30 May 2024 [status] done
+- [action] Vani to add minutes from 9th May to the summary tool. [assignee] Vanessa [due] 30 May 2024 [status] done
+- [action] Lord Kizzy to chase Hogan Tuso to ask if he is still available to give the May 28th Town Hall updates from our WG. (He was, and he did!) [assignee] lord kizzy [due] 26 April 2024 [status] done
+- [action] Everyone to add their skills to the skills audit doc, including new people who have not yet done so [assignee] all [due] 6 June 2024 [status] in progress
+- [action] Sucre to give the onboarding tag to Hogan Tuso. [assignee] SucrenSpice [due] 24 May 2024 [status] done
+- [action] LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June [assignee] LadyTempestt [due] 24 June 2024 [status] todo
+- [action] Onize to give Town Hall update for the WG on 25th June [assignee] Onize [due] 25 June 2024 [status] todo
+- [action] Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued [assignee] SucrenSpice [due] 6 June 2024 [status] todo
+- [action] Clement to add text to Getting Started doc about new WGs that started in Q2 (Africa guild, LatAm guild, AI Ethics, Moderators [assignee] Clement Umoh [due] 6 June 2024 [status] todo
+- [action] Everyone to add comments to the Suggestions Towards Better Onboarding Processes document which Ayo created. [assignee] all [due] 6 June 2024 [status] todo
+- [action] LadyTempestt to add details of one particular conversation to Ayo's suggestions towards better Onboarding Processes document. [assignee] LadyTempestt [due] 6 June 2024 [status] todo
+
+#### Learning Points:
+- We need to figure out how to direct people more reliably to the getting-started channel, as sometimes they are missing it
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Skills audit
+- Onboarding Sessions Survey
+- Suggestions towards better Onboarding Processes document
+
+#### Keywords/tags:
+- topics covered: skills audit, Getting Started, Translation, Town Hall update, mentorship, onboarding processes, new workgroups
+- emotions: interesting, interactive, expository, Friendly
+
+
 ## Friday 31st May 2024
 
 
