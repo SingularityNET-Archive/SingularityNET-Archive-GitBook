@@ -158,6 +158,73 @@
 - emotions: productive,  Collaborative, Businesslike., speedy 
 
 
+## Thursday 23rd May 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Clement Umoh [facilitator], LadyTempestt [documenter], Clement Umoh, LadyTempestt, cjfrankie, Ayo, Vanessa, SucrenSpice, lord kizzy, duke peter, kateri, Colleen, Photogee, Mikasa, Billy, Onize, Gorga Siagian, esewilliams, daniel effiom
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Onboarding Sessions survey](https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform)
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit)
+  - [Onboarding WG skills assessment / skills audit doc](https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing)
+  - [Onboarding Workgroup Treasury session video, April 18th, 2024](https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn)
+
+#### Town Hall Updates:
+For 28th May Town Hall:
+
+Give a recap of Onboarding session on 16th May - mention the Discord walkthrough
+Thank people for participation at the Treasury session (18th April) and share a link to the YouTube video https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn.
+Share the link to the Q2 Survey on Onboarding sessions and remind people it closes on Fri 31st May.
+
+
+
+
+
+#### In this meeting we discussed:
+- Minutes from the last meeting (9th May) and action items
+- Feedback from 16th May Onboarding session. The following points were raised (but not finalised): Should we have onboarding sessions at all? or should we focus on doing it more 1-2-1? There is budget in Q2 for Sucre to delegate some 1-2-1 onboarding engagement work, would that help? Should we do what the survey respondents seem to be suggesting, and have weekly sessions? We wouldn't have capacity. Should part of each onboarding meeting be a mini "onboarding Q&A"? Would it be more helpful to share our existing resources - e.g. the voiceover video of the onboarding slides? Was the reason that we didn't have attendees this time just that there had not recently been any big influx of new people?
+- Onboarding Journeys update 
+- Getting started doc/channel
+- Skills audit document 
+- Town Hall Update
+
+#### Decision Items:
+- We agreed to discuss the Q2 survey properly after the form closes on 31st May 2024.
+  - [rationale] Vanessa gave a quick update based on results so far, but there will be a proper analysis when all the submissions are in.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to have more discussions on how to improve our onboarding sessions at the next meeting.
+  - [rationale] Ideas have been raised in the Onboarding Session on 16th, and in this meeting we didn't have time to address them all fully
+  - [effect] mayAffectOtherPeople
+- We agreed to have someone else re-do the summary of the Onboarding session on 16th 
+  - [rationale] The existing one didn't quite capture everything, as Gorga had problems recording
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Lord Kizzy to re-do the summary from the Onboarding session on 16th, and add to the meeting summary tool [assignee] lord kizzy [due] 30 May 2024 [status] todo
+- [action] Vani to add minutes from 9th May to the summary tool. [assignee] Vanessa [due] 30 May 2024 [status] todo
+- [action] Lord Kizzy to chase Hogan Tuso to ask if he is still available to give the May 28th Town Hall updates from our WG. [assignee] lord kizzy [due] 26 April 2024 [status] todo
+- [action] Everyone to add comments to the Getting Started document and the context-setting doc on the forthcoming Naming decision [assignee] all [due] 30 May 2024 [status] todo
+- [action] Everyone to add their skills to the skills audit doc [assignee] all [due] 30 May 2024 [status] todo
+- [action] Sucre to give the onboarding tag to Hogan Tuso. [assignee] SucrenSpice [due] 24 May 2024 [status] todo
+
+#### Learning Points:
+- We need to explore ways to reach our target audience for Onboarding sessions.
+- We reminded people that “contributing to docs” is a paid task that we have budget for, so they will be compensated $10 for adding ideas and comments to a doc
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Skills audit
+- Onboarding Sessions Survey
+- Improving Onboarding Sessions
+
+#### Keywords/tags:
+- topics covered: survey , Onboarding sessions, Outreach, Discord, 1-2-1, 1-2-1 onboarding, skills, skills audit, documents, contributing to documents, Budget 
+- emotions: interesting, funny , long, insightful, busy
+
+
 ## Friday 24th May 2024
 
 
