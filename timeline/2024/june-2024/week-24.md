@@ -121,3 +121,38 @@
 #### Keywords/tags:
 - topics covered: social media management, Videomaking, Task Assignment, Zealy, budget, Q3 budget, town hall, training, test
 - emotions: Casual
+## Saturday 15th June 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], malik, kateri, martinosoki, oep, lord kizzy, CollyPride, Gorga Siagian
+- Purpose: Q3 Budget Discussion and Some in-game options
+- Working Docs:
+  - [Q3 Budget](https://docs.google.com/spreadsheets/d/1V3uSMWG-7e8P2fQpCa3ET0AE0aPhd58elvxI1iiMGqA/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Updates on the creation of workgroups 
+- In the Q3 budget discussion, various topics were covered including rewards for creating assets, creating new departments, and the number of assets each person can create.
+- A little light was shed on the voice system - Gamers can now communicate in-game.
+- Game presentation by Colly Pride 
+- Alternative platforms for creating models besides Roblox were identified; Slate indicated that Peter possesses land in Decentraland.
+- Gorga shared a website that offers premade templates to aid in asset creation.
+- Dialogue interface template presented by Slate - All other workgroup dialogue interfaces should adhere to this design, simply modifying the names of NPCs.
+
+#### Decision Items:
+- Each member can submit up to 5 assets. 
+- The data gathering task for upcoming Working Groups and Guilds will start in next quarter.
+  - [rationale] We already possess information on the 3 departments to be established this quarter, and the new guilds and workgroups will be well-established by the following quarter.
+- Starting next quarter, the task of summarizing meetings will be rotated among members.
+
+#### Action Items:
+- [action] Education Guild Creation [assignee] malik, hufiumer69 [status] todo
+- [action] Dialogue system and animation of video workgroup [assignee] lord kizzy, Gorga Siagian [status] todo
+- [action] RnD Guild Creation [assignee] CollyPride, oep [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Roblox, participation, metaverse, Budget Request
+- emotions: Friendly, Collaborative, engaging new people, Thoughtful 
+- games played: no game
