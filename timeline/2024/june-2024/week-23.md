@@ -246,6 +246,7 @@ The rest of the meeting with preominately talking about strategy and figuring ou
 
 ## Thursday 6th June 2024
 
+
 ### Africa Guild
 
 - Type of meeting: Weekly
@@ -283,6 +284,83 @@ Finally AOB and conclusions
 #### Keywords/tags:
 - topics covered: African, Onboarding, Telegram, Ambassador guild, Artificial General Intelligence, AGI, BGI, Decentralization, Task Assignment, skills, skills database, outreach, universities, African universities, partnerships, web3 communities, AMA session, move from biweekly to weekly, meeting frequency, biweekly, weekly, ethics, Guild ethics, Q3 budget, social media, social media outreach
 - emotions: Friendly, funny, engaging new people
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: duke peter [facilitator], LadyTempestt [documenter], duke peter, LadyTempestt, Ayo, Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, kateri, daniel effiom, Onize, Gorga Siagian, Photogee, Kenichi, martinsoki, Jenn, Guillermo
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Onboarding Sessions survey](https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform)
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit)
+  - [Onboarding WG skills assessment / skills audit doc](https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing)
+  - [Onboarding Workgroup Treasury session video, April 18th, 2024](https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn)
+  - [Onboarding Slides voiceover video](https://youtu.be/ceOAl7ObJVU?si=3FN9EmfheGwlA1Tj)
+  - [Suggestions towards better onboarding processes](https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing)
+  - [Onboarding WG Buddy System survey](https://forms.gle/BHQuj4UxNotcuuqs8)
+  - [Reinforcing Continuous Onboarding in Workgroups/Guilds:  Ideas and Potential Improvements](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes from the last meeting and action items
+- Onboarding Journeys update 
+- "Suggestions towards better onboarding processes" document
+- Onboarding session survey results
+- Getting started doc/channel 
+- Skills audit document 
+- Quarterly report
+- Q3 budget
+- Analysis of how Q2 Buddy system went
+- Guillermo and introduction to LatAm Guild and their onboarding.
+
+#### Decision Items:
+- We agreed Ayo will collate comments from his "suggestions" doc and bring it to our next meeting.
+  - [rationale] because most of us have now added comments, but they need organising
+  - [effect] affectsOnlyThisWorkgroup
+- We recognised that Onboarding Journey scripts have been delayed because it can be hard to add info about certain onboarding barriers without personally identifying anyone.
+  - [rationale] Particularly, we agreed to include information about barriers that are particularly faced by women; and a lot of this material is unspoken in the Program at large, and has only been discussed one to one. Given there are comparatively few women in the Program, raising these issues publicly can make individual women vulnerable.
+  - [effect] mayAffectOtherPeople
+- We agreed that LadyTempestt's evaluation form for thr Q2 "Buddy" mentorship system will go out to mentors and mentees, and she will collate responses.
+  - [rationale] to see how well the Buddyy system has been working, and whether we should continue to budget for it in Q3
+  - [effect] affectsOnlyThisWorkgroup
+- Guillermo shared some info on LatAm Guild's onboarding processes, and said he will be using ideas from our "Reinforcing Continuous Onboarding in Workgroups/Guilds:  Ideas and Potential Improvements" doc from late 2023
+  - [rationale] because the doc includes some valuable ideas on how WGs can support continuous onboarding.
+  - [effect] mayAffectOtherPeople
+- We noted that we need to start thinking about our Q3 budget
+  - [rationale] because deadline is soon
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Everyone to add their skills to the skills audit doc, including new people who have not yet done so [assignee] all [due] 6 June 2024 [status] done
+- [action] LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June [assignee] LadyTempestt [due] 24 June 2024 [status] in progress
+- [action] Onize to give Town Hall update for the WG on 25th June [assignee] Onize [due] 25 June 2024 [status] in progress
+- [action] Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued [assignee] SucrenSpice [due] 13 June 2024 [status] in progress
+- [action] Clement to add text to Getting Started doc about new WGs that started in Q2 (Africa guild, LatAm guild, AI Ethics, Moderators) [assignee] Clement Umoh [due] 6 June 2024 [status] done
+- [action] Everyone to add comments to the Suggestions Towards Better Onboarding Processes document which Ayo created. [assignee] all [due] 6 June 2024 [status] done
+- [action] LadyTempestt to add details of one particular conversation to Ayo's suggestions towards better Onboarding Processes document. [assignee] LadyTempestt [due] 6 June 2024 [status] done
+- [action] Vani Sucre, Love and Onize will work on finalising the onboarding journey scripts, including addressing women's issues. [assignee] Vanessa, Onize, LadyTempestt, SucrenSpice [due] 13 June 2024 [status] todo
+- [action] Clement to draft the Q2 report and bring it to the next meeting [assignee] Clement Umoh [due] 13 June 2024 [status] todo
+- [action] Sucre to assign a buddy to Martinsoki [assignee] SucrenSpice [due] 7 June 2024 [status] todo
+- [action] LadyTempestt to send out the buddy system evaluation form to mentors and mentees. [assignee] LadyTempestt [due] 13 June 2024 [status] in progress
+- [action] Vani to reach out to Peter to give Kateri the onboarding WG tag. [assignee] Vanessa, Peter [due] 7 June 2024 [status] todo
+- [action] Ayo to facilitate next meeting [assignee] Ayo [due] 13 June 2024 [status] todo
+- [action] Duke to mentor Ayo in facilitating the next meeting. [assignee] duke peter [due] 13 June 2024 [status] todo
+
+#### Learning Points:
+- We need to clear out old information in the getting-started document and update it before asking Tevo to update the getting started channel on discord.
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Skills audit
+- Onboarding Sessions Survey
+- Suggestions towards better Onboarding Processes document
+- Mentors and mentees "buddy system" survey
+
+#### Keywords/tags:
+- topics covered: skills audit, Getting Started, mentorship, onboarding processes, buddy, buddy system, women's issues, barriers, Q2 quarterly report, Quarterly Report
+- emotions: interesting, funny , long, long agenda
 
 
 ## Friday 7th June 2024
