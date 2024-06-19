@@ -1,3 +1,7 @@
+---
+description: Mon 10th Jun - Sun 16th Jun 2024
+---
+
 # Week 24
 
 ## Wednesday 12th June 2024
