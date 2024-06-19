@@ -1,3 +1,7 @@
+---
+description: Mon 3rd Jun - Sun 9th Jun 2024
+---
+
 # Week 23
 
 ## Monday 3rd June 2024
