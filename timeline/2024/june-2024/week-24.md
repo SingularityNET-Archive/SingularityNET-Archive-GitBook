@@ -4,6 +4,81 @@ description: Mon 10th Jun - Sun 16th Jun 2024
 
 # Week 24
 
+## Monday 10th June 2024
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: Vanessa [facilitator], LadyTempestt [documenter], Vanessa, LadyTempestt, LeeLoo, SucrenSpice, Ayo, Galorian (Sharon), duke peter, esewilliams, Onize, Clement Umoh, Gorga Siagian, hogantuso, Vasu, Guillermo
+- Purpose: To form initial conversations about the AI Ethics workgroup, overall purpose, and some initial strategy. First meeting of 2 (in order to cover a range of timezones) - the repeat meeting will be on Wednesday 12th June
+- Meeting video: [Link](No video)
+- Transcript: [Link](No transcript)
+- Working Docs:
+  - [Ambassador Program AI Ethics WG Q2 2024 Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [Starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+  - [AI ethics, safety, and risk taxonomy and literature](https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing)
+  - [AI Ethics WG folder ](https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing)
+  - [Strategy-drafting - express your interest spreadsheet (and - sheet 3 - draft Q3 budget)](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [Interview participant information sheet and informed consent form](https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing)
+  - [Global AI Ethics Budget Proposal (our original Q2 budget)](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/edit?usp=sharing)
+  - [Shared agenda for meetings on Mon 10th and Weds 12th June](https://docs.google.com/document/d/1s7UfdRsw2CuZ1FQ_cse73lEfu-Bc2gViEeAP8jpr5lk/edit?usp=sharing)
+
+#### Narrative:
+AI Ethics Strategy drafting: 
+we discussed whether it would be a better idea to have a mix of experts and non-experts to collaborate on drafting the 3 strategies we want to complete. We noted that we have no proof of people's self-rated skill/knowledge level - but we agreed that it's fine, in this instance, to trust people on what they say about themselves. We discussed having 2 teams for each strategy - one for "writing" (3 people) and one for "review/edit" (2 people), and we suggested people should only sign up for one thing, to ensure that the work is shared out fairly between people. Ayo suggested min/max "points" level for each task - 24 for writing team and 12 for edit team -  (based on people's 1 to 10 "how skilled are you" self-rating), to ensure we get a reasonable level of expertise. Given the number of people interested, we have under-budgeted for this initiative; but we agreed we could move a bit of budget from another budget-line which we are unlikely to fully use, e.g. "Communication management & community outreach". 
+
+Co-chair
+We discussed if having a co-chair (a channel of communication between the AI Ethics WG and the Foundation's Global Ethics Initiative) is a good idea. The AI Ethics WG idea did come from them. Some of us feel we should try it and if it's not a great idea then we can shut it down. We will see what people think about it at the repeat meeting for other timezones on Wednesday. We created a signup space for those who have already done Q2 work on this, in page 2 of https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing
+
+Workgroup membership:
+We agreed that we DO want some kind of membership and a Discord tag, but we agreed that we will raise this at Wednesday's meeting and see if people have ideas on how to decide who is a member. We mentioned that meeting attendance isn't necessarily the same as participation, you can be quite passive in a meeting. We were unsure how to measure contribution: MINS tokens were suggested but not everyone agreed.
+
+Q3 WG Budget: 
+We need to submit a budget by 19th June. We will create an extra sheet on the planning spreadsheet where everyone can put in ideas for what we should do in Q3, and the budget that would be needed. The link will be shared on Discord.
+
+Forum for Ethics discussion: 
+Is it a great idea? People agreed that we should do it and that it should be open to all - but it needs to be specifically for discussion on ethics issues, not for workgroup organizational stuff. Moderators would be able to help enforce this - but we are not sure who CAN be a moderator, as it would give you moderator rights for the entire SNET discord server. LeeLoo, Duke, Gorga, and Clement are interested in being a moderator.
+
+Future meeting:
+Should we meet again on the 24th and 26th of June for this quarter? We will see what people say about it on Wednesday and in Discord channel discussion.
+
+
+
+#### Decision Items:
+- Agreed on a mix of experts and non-experts to collaborate on drafting the 3 strategies
+  - [rationale] good if those with more expertise can supoort/mentor those with less
+  - [effect] affectsOnlyThisWorkgroup
+- 2 teams for each strategy - one for "writing" (3 people) and one for "review/edit" (2 people)
+  - [rationale] The roles are different - and doing it this way enables everyone interested to get involved while still keeping the teams fairly small and manageable
+  - [effect] affectsOnlyThisWorkgroup
+- People should only sign up for one thing.
+  - [rationale] to ensure that the work is shared out fairly between people
+  - [effect] affectsOnlyThisWorkgroup
+- We will reallocate some budget to strategy-drafting, from another budget-line which we are unlikely to fully use due to our late start, e.g. "Communication management & community outreach".
+  - [rationale] to support the higher-then-expected level of interest in this work
+  - [effect] affectsOnlyThisWorkgroup
+- The group should have a membership and a Discord tag
+  - [opposing] undecided what the criteria for membership should be
+  - [effect] affectsOnlyThisWorkgroup
+- We would like a separate forum for Ethics discussion, open to all
+  - [rationale] To separate out ethics discussions so they don't get lost in the organisational conversations in the WG's channel
+  - [opposing] Needs moderation (and whoever has moderation rights, would have it for the whole server)
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Create the Resources/ecosystem ethics/risk evaluation spreadsheet [assignee] Esther, LeeLoo [status] done
+- [action] Find out feasibility of Ambassador Program attending the 2 forthcoming AI events  [assignee] Haley, Esther [status] in progress
+- [action] Guillermo and Tevo to share results of experiment with Unanimous tool [assignee] Guillermo [status] done
+- [action] Request Info Merge for Current Regulations Worldwide from Janet [assignee] LeeLoo, Esther [status] todo
+- [action] Meet with Eco-system to aggregate information on what ethics policy or committees we have already [assignee] LeeLoo [status] in progress
+- [action] Vani to create a budget-drafting sheet and a co-chair signup sheet in https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing and share it on Discord [assignee] Vanessa [due] 14 June 2024 [status] in progress
+- [action] LeeLoo to ask Tevo about forum creation and moderation [assignee] LeeLoo [due] 14 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership
+- emotions: participatory, excited, forward planning
+
+
 ## Wednesday 12th June 2024
 
 
