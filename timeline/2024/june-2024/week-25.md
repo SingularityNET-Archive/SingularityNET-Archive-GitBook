@@ -298,6 +298,7 @@ There were suggestions to include
 - emotions: interesting, funny , speedy , Friendly, Well-attended, Network Issues
 ## Friday 21st June 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -326,3 +327,47 @@ There were suggestions to include
 #### Keywords/tags:
 - topics covered: social media management, Task Assignment, Budget 
 - emotions: Casual
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Slate, Gorga Siagian, kateri, Nengi, Ayo
+- Purpose: Overview of the new Scribbler onboarding form, implementing a new mechanism to track meeting attendance and time, addressing issues hovering around the WWG editing framework, and implementation of a point delegation system.
+- Working Docs:
+  - [WWG Editing Framework](https://drive.google.com/file/d/1kIE17nb2wwRHGxl8PYtXhMbhFZAeIDtk/view?usp=sharing )
+  - [Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+  - [WWG Onboarding Test](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone to the meeting, and then he highlighted the agenda items.
+
+The meeting kicked off as Kenichi surfed dework to check assigned tasks and tasks in progress, and then he asked the scribblers to share an update regarding their tasks - Devon, Mikasa, and Cjfrankie updated us with their respective tasks.
+
+In the meeting, we reviewed the “new Scribbler onboarding form.” Kenichi highlighted the importance of the form. He also stated that the form will help track new people coming to the WG and if they decide to become scribblers in the future. 
+
+Kenichi proposed the idea of tracking meeting matrices since read.ai doesn't track data such as attendance or the time people joined a meeting. Then he also emphasized  the importance of these data and how they will help in the WG in the future.
+
+Following that, he also proposed the idea of points delegations, where the scribblers and the scribes will be awarded an extra 10 points from the points system. These points can be delegated to other members of the workgroup to show love and support for their contributions towards your task(s), or whatever the case might be! 
+
+We also addressed and answered questions regarding the aspirants who took the WG test.
+
+Lady Tempestt proposed the idea of implementing a rotational meeting facilitation system in the WWG, and then Kenichi cleared the air by saying that the scribes could facilitate meetings in his absence.
+
+Discussion on dropping off inactive members with the scribbler tag; this discussion set the Thames on fire. As we fleshed out the tests of the aspiring writers, we desire to give room for new scribblers to join us, explore the world of AI, and also tell captivating stories through writing.
+
+
+
+#### Decision Items:
+- We decided to move the point delegation mechanism to the next quarter.
+  - [rationale] Because Q3 is almost over!
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that inactive members with the scribbler tag would be dropped off, and then they would be given the pupil tag; the scribbler tag can be reinstated until they reach the scribbler threshold again.
+  - [rationale] We want to create a opportunity window for aspirants to tell thir story through writing.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] The scribes to chase aspirants who took the WWG test and give them an update on their performance and possible ways to improve in their next try. [assignee] Cjfrankie , Mikasa [status] todo
+
+#### Keywords/tags:
+- topics covered: Editing Framework, Scribes , Scribblers, Points system, community page, Role document , read.ai, Zealy, pupil tag, Feedback Form, Points delegation , Governance, Notion
+- emotions: interesting, funny , interactive, speedy
