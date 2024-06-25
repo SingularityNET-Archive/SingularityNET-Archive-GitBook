@@ -46,6 +46,7 @@ The main discussions in this Town Hall were:
 
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -218,6 +219,12 @@ The main discussions in this Town Hall were:
 #### Keywords/tags:
 - topics covered: ACP, Google Classroom, review, Budget, Q2 2024 budget, Absence, Proposals
 - emotions: productive,  Collaborative, Businesslike., speedy 
+
+
+
+### Research and Development Guild
+
+No Summary Given 
 
 
 ## Thursday 21st March 2024
