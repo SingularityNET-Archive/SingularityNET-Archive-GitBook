@@ -6,6 +6,7 @@ description: 25th March 2024 to 31st March 2024
 
 ## Tuesday 26th March 2024
 
+
 ### Governance Workgroup
 
 * Type of meeting: Weekly
@@ -43,6 +44,46 @@ GOVERNANCE THINGIES
 
 * topics covered: Governance, AI tooling, Core Contributors, decisionmaking, Q1 budgets
 * emotions: Collaborative
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Guillermo, Judith, Rojo, Peter, Tevo, cjfrankie, Clement Umoh, duke peter, Franklynstein, hogantuso, SucrenSpice, hufiumer69 rebel, Iain, Nebula1224, lord kizzy, Slate, Headelf, Billy
+- Town Hall Number: 90
+
+#### Timestamped video:
+{% embed url="https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=0s) Introduction By Peter
+[01:57](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=117s) Mentions
+[08:40](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=520s) Archival Workgroup Updates
+[12:21](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=741s) Dework Pbl Workgroup Updates
+[14:00](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=840s) Treasury Guild Updates
+[15:23](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=923s) Knowledge-based Workgroup Updates
+[17:00](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=1020s) R&d Guild Updates
+[23:45](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=1425s) Onboarding Workgroup Updates
+[28:28](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=1708s) Marketing Guild Updates
+[32:55](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=1975s) Video Workgroup Updates
+[36:22](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=2182s) Writers Workgroup Updates
+[43:12](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=2592s) Gamers Guild Updates
+[50:25](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=3025s) Education Guild Updates
+[54:42](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=3282s) Governance Workgroup Updates
+[55:08](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=3308s) Open Call For Newcomers
+[56:25](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=3385s) Archival Workgroup Members Research Presentations.
+[01:08:40](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=4120s) Open Discussion
+[01:12:30](https://youtu.be/RQpyzOxYPRM?si=t1_PNHD--xSrvYEL\&t=4350s) Ending By Peter
+
+#### Town Hall Summary:
+This Town Hall comprises monthly updates from each WorkGroup and Guild.
+
+
+#### Keywords/tags:
+- topics covered: workgroup updates, Governance, Core Contributor, Q2 budget decision process
+- emotions: participatory, Friendly
+
 
 ## Wednesday 27th March 2024
 
