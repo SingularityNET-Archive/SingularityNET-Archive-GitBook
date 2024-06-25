@@ -296,3 +296,33 @@ There were suggestions to include
 #### Keywords/tags:
 - topics covered: skills audit, Getting Started, mentorship, onboarding processes, buddy system, Q2 quarterly report, Quarterly Report, Video Script, Onboarder's form
 - emotions: interesting, funny , speedy , Friendly, Well-attended, Network Issues
+## Friday 21st June 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], killy [documenter], lord kizzy, hogantuso, AndrewBen, Slate, kateri, osmium, oep, malik, devon, Photogee, Gavriel
+- Purpose: weekly updates /task assignment 
+#### Discussion Points:
+- More Updates on the zealy platform.  We discussed on how the zealy task claim will be allocated and how the claim will be shared between the writers and video workgroup
+- slate,as our social media manager gave weekly updates on our social. He uploaded 2 long videos and 3 short videos and we have good engagement 
+- we discussed on proposing 2000 points for the zealy platform 
+- mallik as the task manager gave updates from last week and this week
+- we discussed on how frequent should our videos be uploaded
+
+#### Decision Items:
+- We decided to reach out to rojo head of video work group due to an unresolved conclusion about two roles taking by the same person [liaison and social media manager ]
+  - [rationale] leaving the two roles to one person will be too much work load 
+
+#### Action Items:
+- [action] creation of our Q2 Budget proposal report [assignee] hogantuso, lordkizzy [status] done
+- [action] Task management  [assignee] Slate [status] todo
+- [action] social media manager  [status] todo
+- [action] Townhall summary  [assignee] AndrewBen [status] todo
+- [action] Townhall editor [assignee] killy [status] todo
+- [action] facilitator  [assignee] Zalfred [status] todo
+- [action] meeting summary  [assignee] lord kizzy [status] todo
+
+#### Keywords/tags:
+- topics covered: social media management, Task Assignment, Budget 
+- emotions: Casual
