@@ -6,6 +6,7 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 
 ## Monday 17th June 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -91,3 +92,47 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 
 #### Keywords/tags:
 - topics covered: Budget report, Guidelines, deadlines, Proposals, Quarter 3, Reports, process
+
+### Treasury Policy WG
+
+- Type of meeting: Weekly
+- Present: Tevo [facilitator], Tevo [documenter], Tevo, Effiom, Kenichi, lord kizzy, Vanessa, Ayo, Onize, Gorga Siagian, Kareem, malik, Olokoji
+- Purpose: Design and Organize Ambassador Program Treasury Rules
+- Miro board: [Link](https://miro.com/app/board/uXjVKL5-fNY=/)
+- Working Docs:
+  - [Treasury Guild Proposal](https://docs.google.com/document/d/19k06OQEXJe0nYSrVVRLw1t_3BXSnUcXwsmLV9Tp07C4/edit#heading=h.9t5jkakh8028)
+  - [Policy Template](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v)
+
+#### Agenda item 1 - Reviewing Treasury  Policy Template - [carry over]
+
+#### Discussion Points:
+- We spent more time ideating on the section, what are our current processes?
+- How should the policies be costed if there are more than 30 submissions?
+- Introduce limit for policies submitted monthly per person
+- How do we decide if policies are Valid?
+- How do we handle duplicate policies?
+
+#### Decision Items:
+- Let's use the Treasury Policy WG Retrospective session to capture insights
+  - [effect] affectsOnlyThisWorkgroup
+- Let's use the Treasury Policy WG Retrospective session to check on policy limits and process
+  - [effect] affectsOnlyThisWorkgroup
+- Increased the rewards for policy submission from 5$ to 10$
+  - [effect] affectsOnlyThisWorkgroup
+- Reducing the proposal goals of 30 policies down to 15 policies
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Create a list of guiding questions to help bring out WG insights [status] todo
+- [action] Include Resource allocation and rules below introductions [status] todo
+
+#### Agenda item 2 - Drafting Treasury Policy Submission Google Form - [carry over]
+
+#### Discussion Points:
+- What should be written in the descriptions?
+- What questions should be included?
+- Should wallet address or discord name be collected?
+
+#### Keywords/tags:
+- topics covered: Miro Board, Google Form, Treasury Policy, Minimum Requirements, Requirements, Guidelines, Quiet Session
+- emotions: bit quiet
