@@ -4,6 +4,44 @@ description: 18th March 2024 to 24th March 2024
 
 # Week 12
 
+## Tuesday 19th March 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Vanessa [documenter], Peter, Judith, Tevo, Vanessa, Clement Umoh, Curtis, esewilliams, Gorga Siagian, Iain, lord kizzy, Photogee, Will Tatz, Olokoji, Cjfrankie, osmium, Guillermo, Kenichi, ToneTech, hogantuso, Zalfred, Franklynstein
+- Town Hall Number: 89
+
+#### Timestamped video:
+{% embed url="https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=0s) Introduction By Peter
+[01:22](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=82s) Mentions
+[06:56](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=416s) Archive Workgroup Presentation
+[16:00](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=960s) Vani Demonstration (archiving Tool)
+[20:25](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=1225s) Q&a About The Archiving Tool
+[24:50](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=1490s) Ambassadors And Foundation (outreach)
+[40:00](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=2400s) Core Contributors Title
+[43:57](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=2637s) Collaboration With Other Entities For Outreach 
+[49:08](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=2948s) Clarity Of Objectives On Outreach And Marketing 
+[56:30](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=3390s) Zealy Campaign
+[1:03:30](https://youtu.be/EzUZ4o4wZtI?si=AsRzugpLhlblY9tt\&t=3810s) Ending By Peter
+
+#### Town Hall Summary:
+The main discussions in this Town Hall were:
+
+- the Core Contributor role
+- tips and tricks for using the Meeting Summary tool from Archives WorkGroup
+- change in direction for Marketing Guild to work more directly with the sNET Foundation
+
+
+#### Keywords/tags:
+- topics covered: core contributors, meeting summary tool, Documentation, Marketing, Ambassador Program marketing, Outreach, SingularityNET Foundation, Collaboration, Zealy, the Ambassador role, Ambassador role name, Tech Tuesdays, OpenCOG Hyperon, Supervisory Council, Q1 2024 budget, Core Contributor, LLM development
+- emotions: cheerful, engaged, participatory, enthusiastic
+
+
 ## Wednesday 20th March 2024
 
 
