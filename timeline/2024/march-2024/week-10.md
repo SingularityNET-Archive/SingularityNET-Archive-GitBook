@@ -51,6 +51,7 @@ Meeting was cancelled
 ## Wednesday 6th March 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -143,6 +144,12 @@ Meeting was cancelled
 #### Keywords/tags:
 - topics covered: ACP, infographic, Google Classroom, slide decks, review, Cogito, Budget, Q2 Budget, Hypercycle, slide decks, facilitation, quiz, $10, pay, rewards, fairness, 
 - emotions: productive,  Collaborative, Businesslike.
+
+
+
+### Research and Development Guild
+
+No Summary Given 
 
 
 ## Thursday 7th March 2024
