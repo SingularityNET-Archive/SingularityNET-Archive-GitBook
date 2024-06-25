@@ -138,6 +138,7 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 - emotions: bit quiet
 ## Wednesday 19th June 2024
 
+
 ### Dework PBL
 
 - Type of meeting: Biweekly
@@ -195,3 +196,34 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 #### Keywords/tags:
 - topics covered: Dework, Miro Board, Andamio, participation, contribution, participation vs contribution
 - emotions: Collaborative, repetitive
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], kateri, WaKa, GorgaSeagian, martinsoki, Photogee, WaKa, esewilliams, Clement Umoh, Kenichi, shuga, Peter
+- Purpose: - Budget Request Discussion - ACP blueprint walkthrough - Learn with AI 
+- Working Docs:
+  - [Proposed Education Guild Projects ](https://docs.google.com/document/d/1mlmw_h2rkfbr75nPyNKI_mXA7ZKOz8mhL1Raz9590i8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Budget Request Discussion
+- ACP blueprint walkthrough
+- Learn with AI 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then we went over the education guild budget request with Slate explaining each module and how its going to be carried out in the next quarter
+- There was quite some interesting conversation on AI for beginner and its relation to Learn with Ai 
+- osmium AI chatbot LLM and Waka's learn with AI to be included in the budget request 
+- Then at the end Slate went through the education guild blueprint once again explaining all the points 
+
+#### Decision Items:
+- Assign Osmium and Waka's project to budget request 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Added 2 new projects by osmium and waka  [assignee] Slate [due] 20 June 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: ACP, Blueprints , Budget 
+- emotions: productive,  Collaborative, Businesslike., speedy
