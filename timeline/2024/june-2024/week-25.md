@@ -227,3 +227,72 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 #### Keywords/tags:
 - topics covered: ACP, Blueprints , Budget 
 - emotions: productive,  Collaborative, Businesslike., speedy
+## Thursday 20th June 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: LadyTempestt [facilitator], lord kizzy [documenter], duke peter, Ayo, Vanessa, SucrenSpice, Peter, Clement Umoh, kateri, daniel effiom, Onize, Gorga Siagian, Kenichi, martinsoki, Jenn, Guillermo, ToneTech, Slate, Guilermo
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Onboarding Sessions survey](https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform)
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Suggestions towards better onboarding processes](https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing)
+  - [Onboarding WG Buddy System survey](https://forms.gle/BHQuj4UxNotcuuqs8)
+  - [Reinforcing Continuous Onboarding in Workgroups/Guilds:  Ideas and Potential Improvements](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit?usp=sharing)
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections for Q3 2024](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?gid=2014555984#gid=2014555984)
+  - [Onboarding WG Q2 quarterly report](https://docs.google.com/document/d/1x4HDcJxTpVQH7NuEcsYauStAbAUl61UOgZZav5HyGpU/edit)
+  - [  ONBOARDING WG C&S DETANGLE DOCUMENT](https://docs.google.com/spreadsheets/d/1EN21KSiQQc61aBHwL17ocCMixX6m-mA08wpr1bQF2zI/edit?gid=0#gid=0)
+
+#### Town Hall Updates:
+There were suggestions to include 
+- an overview onboarding survey analysis 
+- share the Q2 Budget link
+- share the some insights on the Onboarders' plan for Q3
+- highlight that we have done skills analysis and we are currently planning on doing a peer education on core skills 
+
+
+
+
+
+#### In this meeting we discussed:
+- Minutes from the last meeting and action items; we agreed to the minutes of last meeting.
+- Onboarding Journeys update: Onize said she hasn't had the time to edit the onboarding journey doc into a video script and she indicated that she would be done before the next meeting.
+- Getting Started channel
+- Onboarding session survey results
+- Skills Matrix document; Vani suggested that we could prioritise, 3 skills that lots of us want to learn, and that some of us could teach/share, and make further discussions once our budget gets approved. Love suggested that we should prioritize foundational skills like; Facilitations, Documentation & Community management. 
+- Q2 Quarterly report & Q3 Budget Proposal Doc
+- Q2 Buddy System survey
+- Town Hall Updates: There were suggestions to include an overview onboarding survey analysis and also share the Q2 Budget link, there was also a suggestion to share the some insights on the Onboarder,s plan for Q3. There was also a suggestion to highlight that we have done skills analysis and we are currently planning on doing a peer education on core skills
+
+#### Decision Items:
+- We decided to stick with the laid out Criteria’s [which are: You have the Core contributor role/tag, You have been a member of this Workgroup for at least 3 months and you have the Onboarding WG member tag, You have at least 15 task points on Dework or you have done at least 4 approved and audited tasks in the workgroup ( meeting attendance excluded)] for the Onboarder’s team selection at least for this first time 
+  - [rationale] We want to make sure that those members who take up that role must have a vast experience of the ambassador program
+  - [opposing] Ayo felt that eligible participants might be engulfed by Large ton of tasks and won't have the time
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed the Onboarders team will be decided by Sucre based on an application form (Here is the form: https://docs.google.com/forms/d/e/1FAIpQLSfOQr-BSMHjFjmSzia-t0AeHif_S4wmko2qzsxBLBp0_x1fHQ/viewform)
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that Duke is to Facilitate the next onboarding meeting if surce is unavailable to do that and Kateri is to document the next onboarding meeting
+  - [rationale] Love was of the opinion that Sucre might not be interested in facilitating
+  - [effect] affectsOnlyThisWorkgroup
+- We decide that Ayo is to train Kateri on Documentation
+  - [rationale] This is Kateri first time documenting
+
+#### Action Items:
+- [action] LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June [assignee] LadyTempestt [due] 27 June 2024 [status] in progress
+- [action] Onize to give Town Hall update for the WG on 25th June [assignee] Onize [due] 27 June 2024 [status] in progress
+- [action] Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued [assignee] SucrenSpice [due] 27 June 2024 [status] in progress
+- [action] LadyTempestt to prepare a report for the Buddy system [assignee] LadyTempestt [due] 27 June 2024 [status] in progress
+- [action] Vani to prepare another page in the matrix doc where everyone could give their 3 picks of skills that are "foundational" for the WG [assignee] Vanessa [due] 27 June 2024 [status] todo
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Skills Matrix report.
+- Onboarding Sessions Survey
+- Suggestions towards better Onboarding Processes document
+- Buddy System Report
+
+#### Keywords/tags:
+- topics covered: skills audit, Getting Started, mentorship, onboarding processes, buddy system, Q2 quarterly report, Quarterly Report, Video Script, Onboarder's form
+- emotions: interesting, funny , speedy , Friendly, Well-attended, Network Issues
