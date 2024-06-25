@@ -136,3 +136,62 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 #### Keywords/tags:
 - topics covered: Miro Board, Google Form, Treasury Policy, Minimum Requirements, Requirements, Guidelines, Quiet Session
 - emotions: bit quiet
+## Wednesday 19th June 2024
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], Tevo, Gorga Siagian, malik, Effiom, Ayo, Photogee, Mikasa
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Meeting video: [Link](https://youtu.be/Qvg3xkk9kwQ)
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764592434551050&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course Website](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+
+#### Agenda item 1 - Reward Automation and Calculations for Dework PBL Workgroup - [carry over]
+
+#### Discussion Points:
+- Looked at the list of values for Task labels on excel
+- How do we recognise participation vs contribution?
+- Categorised task labels associated with participation
+- Categorised task labels associated with contribution
+- Calculated the difference between AGIX and hours spent in respect to participation and contribution
+- Practicalised the reward sharing ratio among 3 WG members as an example
+
+#### Decision Items:
+- Task labels were sorted by either participation or contribution
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Continue figuring out the reward ratio for participation and contribution of WG members [status] todo
+
+#### Agenda item 2 - Course Website - [carry over]
+
+#### Discussion Points:
+- Creating our first task template
+- Creation of task using the template and addition of task tag
+- Ways to improve course content?
+- Changing task status and adding task points
+- Is approval triggered and required when subtask is changed to Done?
+- When you click SUBMIT WORK, then it asks for approval and moves task to done
+
+#### Decision Items:
+- Make each action statement a separate sentence and number them
+  - [effect] mayAffectOtherPeople
+- Taking this lesson should be a requirement for every Treasury Guild member
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] The template to be created in SLT 201:5 should be specified (i.e. task template) [assignee] Effiom [due] 26 June 2024 [status] done
+- [action] SLT 201:5 - Correct typo in step 4 (Example: Follwing, pastebale etc.) https://instance-dework-pbl.vercel.app/course/module/201/2015 [status] todo
+- [action] Itemise the action info for SLT 201:7 https://instance-dework-pbl.vercel.app/course/module/201/2017 [assignee] Effiom [due] 26 June 2024 [status] done
+- [action] SLT 201:7 - Update the wrong SubTask action info [assignee] Effiom [due] 26 June 2024 [status] done
+- [action] Itemise the action info for SLT 201:8 https://instance-dework-pbl.vercel.app/course/module/201/2018 [assignee] Effiom [due] 26 June 2024 [status] done
+- [action] Change SLT 201:9  action message [assignee] Effiom [due] 26 June 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Dework, Miro Board, Andamio, participation, contribution, participation vs contribution
+- emotions: Collaborative, repetitive
