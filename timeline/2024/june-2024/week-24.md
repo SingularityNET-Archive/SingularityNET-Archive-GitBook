@@ -162,6 +162,7 @@ The need was established for Initial documentation translated into Spanish to be
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -258,6 +259,96 @@ The need was established for Initial documentation translated into Spanish to be
 
 #### Keywords/tags:
 - topics covered: Feedback Form, organizing, process, Administration, Roles, Rewards, Coordination, Miro Board, async, async working practices
+
+
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: LeeLoo [facilitator], Ayo [documenter], LeeLoo, Ayo, Gorga Siagian, Jenn, Tevo, PeeGee, Duke, Guillermo, Kenichi, Clement Umoh
+- Purpose: To form initial conversations about the AI Ethics workgroup, overall purpose, and some initial strategy. First meeting of 2 (in order to cover a range of timezones) - the repeat meeting will be on Wednesday 12th June
+- Meeting video: [Link](No video)
+- Transcript: [Link](No transcript)
+- Working Docs:
+  - [Ambassador Program AI Ethics WG Q2 2024 Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [Starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+  - [AI ethics, safety, and risk taxonomy and literature](https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing)
+  - [AI Ethics WG folder ](https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing)
+  - [Strategy-drafting - express your interest spreadsheet (and - sheet 3 - draft Q3 budget)](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [Interview participant information sheet and informed consent form](https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing)
+  - [Global AI Ethics Budget Proposal (our original Q2 budget)](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/edit?usp=sharing)
+  - [Shared agenda for meetings on Mon 10th and Weds 12th June](https://docs.google.com/document/d/1s7UfdRsw2CuZ1FQ_cse73lEfu-Bc2gViEeAP8jpr5lk/edit?usp=sharing)
+  - [AI Ethics WG Meeting Notes, 10th June](https://docs.google.com/document/d/1Jj4gaA3tVEC9xhMbZ9Inn5PX2bVBOeIBc8XVPt3njXM/edit?usp=sharing)
+
+#### Narrative:
+AI Ethics Strategy drafting: 
+Leeloo introduced herself and got the meeting started with discussion on the Strategy-drafting tasks, making reference to key takeaways from the AI Ethics WG 10th June Meeting (see meeting notes).
+
+Tevo asked if there was a time/hour requirement for the Strategy-drafting tasks: none has been set yet. 
+
+The “Shadow-Mentoring” approach of the workgroup: it is the intent that less-experienced members of this workgroup are able to shadow more skilled people. LeeLoo referenced that there was already some considerable consent for this in the Monday meeting. Several thumbs-up to this regard with no dissenting leanings.
+
+Leeloo emphasized that there was room for anyone who wanted, to suggest additions or changes to the AI Ethics Workgroup stuff! spreadsheet in this meeting.
+
+Before the strategy-drafting teams start wirk, there will be an orientation meeting for them with the GEI team from the Foundation: date TBC
+
+There were also no different opinions to the selection points system suggested on Mon 10th by Ayo for those to work on the Strategy-drafting tasks.
+
+Gorga asked if the spreadsheet is definitive as to what roles anyone will play in the strategy drafting tasks. Leeloo explained that  it isn't.
+
+Co-chair role:
+Guillermo suggested there should be a contributions-based criteria for the selection. Leeloo responded that it was okay if Guillermo wanted to put his name in the AI Ethics Workgroup stuff!  because all the names got there on the basis of self-election. Leeloo outlined possible requirements and expectations of the co-chair. Duke and Clement added their names to the sheet, made their intentions known to be considered for the co-chair. There was some confusion here, since the signup sheet is actually to record who has done "co-cahir"-type work in quarter *two* of 2024 (April to June), but people are signing up to express interest for Quarter **three*.
+
+Workgroup Membership
+the meeting built on 10th June discussion. 
+Ayo suggested that meeting attendance could form a strong base for membership criteria. 
+
+LeeLoo added that there may be instances where people contribute extensively asynchronously without attending the formal meetings. Ayo agreed with the addendum that it therefore falls on everyone to come up with hybrid all-encompassing membership criteria, and how they will be measured and applied. 
+
+Clement suggested a tiered membership.
+
+Kenichi opined that core-membership should be based on technical contributions and to see if there could be more tiers than one. Core membership could be also goal orientated, which could solve both short term and long term concerns. Tags could also help. 
+
+Ayo suggested moving forward by adopting a simple two tier (first tier by intention, attendance and participation; second tier by proven, measured and accepted sync and or a-sync contributions). 
+
+Guillermo pointed out that tasks or expected contributions are already stated in AI Ethics Workgroup stuff!  Leeloo redirected that the excel sheet did only cover for the specifics of strategy drafting. 
+
+Q3 Budget
+The draft budget (sheet 3 of AI Ethics Workgroup stuff!) seemed to agree with everyone present in the meeting. Ayo suggested that it may be nice if the budget catered for something Leeloo later described as the "information and resource archive guide" - budget for a person or system that guarantees that everyone can be informed of all the ethics workgroup uncovers or documents as milestones or research are made.
+
+Private forum for Ethics discussion:
+Everyone agreed that we should be a forum for ethics discussion. After contributions from Clement, Kenichi, Leeloo and Ayo, the general consensus was that the forum will be open so everyone can follow the conversations therein, but only the 2-tier ethics workgroup member will be able to speak/chat in the forum. 
+
+Guillermo suggested that the discussion and consensus be subjected to further conversations in subsequent meetings.
+
+Next meeting
+Should we meet again on the 24th and 26th of June for this quarter? 24th was favoured.
+
+
+#### Decision Items:
+- We agreed on the 24th of June for the next meeting, 15:00 UTC
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed on a two-tiered workgroup membership, with the proviso that this has yet to be agreed by the rest of the group, who attended the earlier meeting on 10th June
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to adopt the “shadow-mentoring” protocol in the AI Ethics workgroup
+  - [rationale] to support people in the WG to learn new skills
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to have a Private forum for Ethics discussion and make it open to everyone to read but where only 2nd-level workgroup members can talk/chat/share/discuss; again with the proviso that this has yet to be agreed by the rest of the group.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Find out feasibility of Ambassador Program attending the 2 forthcoming AI events  [assignee] Haley, Esther [status] in progress
+- [action] Request Info Merge for Current Regulations Worldwide from Janet [assignee] LeeLoo, Esther [status] todo
+- [action] Meet with Eco-system to aggregate information on what ethics policy or committees we have already [assignee] LeeLoo [status] in progress
+- [action] Vani to create a budget-drafting sheet and a co-chair signup sheet in https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing and share it on Discord [assignee] Vanessa [due] 14 June 2024 [status] done
+- [action] LeeLoo to ask Tevo about forum creation and moderation [assignee] LeeLoo [due] 14 June 2024 [status] in progress
+- [action] Ayo to post meeting notes for this meeting in the Discord channel. [assignee] Ayo [due] 19 June 2024 [status] todo
+- [action] Guillermo to provide input to the Q2 report to align for Q3 objectives.  Note that Q2 report needs to be submitted by 19th June [assignee] Guillermo [due] 17 June 2024 [status] todo
+- [action] All to add suggestions to the Q3 budget proposal.  Note that Q3 budget needs to be submitted by 19th June [assignee] all [due] 17 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership, workgroup membership, co-chair, co-chair selection, role selection, date of next meeting
+- emotions: interesting, contributive, Collaborative, insightful, Brainstorm
 
 
 ## Friday 14th June 2024
