@@ -9,6 +9,7 @@ description: Mon 27th May - Sun 2nd Jun 2024
 
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -184,6 +185,84 @@ description: Mon 27th May - Sun 2nd Jun 2024
 
 #### Action Items:
 - [action] Let's prompt engineer ourselves a result next session, where input is the item, and output is the the list and rationale where item belongs [status] todo
+
+### LatAm Guild
+
+- Type of meeting: Biweekly
+- Present: Guillermo [facilitator], Ines [documenter], Guillermo, Ines, Natalia Gonzalez, Andrea Dekovic, Martin Rivero, Daniela Alves, Valentin Aliendro, Nicola Salvagni, Jean Carlos Aguilar, Ale Marin, Tomas Octavio
+- Purpose: Introduction of the Program
+- Meeting video: [Link](https://youtu.be/mp3Emr678Hk?si=AwS6JMgLuM8lluAK)
+- Working Docs:
+  - [Quiero ser parte del programa de @SNET_Latam Ambassadors / Quero fazer parte do programa @SNET_Latam Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLSc0GlWHDiGiSCc1-eM1M2kypdqrm7KQUvxb6j1C3uCtAIVQ1w/viewform?usp=sf_link)
+  - [TH#1 _ LATAM AMBASSADORS GUILD _ 280524](https://docs.google.com/presentation/d/1c8esdbhaD5t5nsWKvjEsKlSjP2idDH3eC9EtLa9_tnU/edit?usp=sharing)
+
+#### Agenda item 1 - Strategy Sub-Group - [carry over]
+
+#### Narrative:
+The first meeting for the regional expansion of the Ambassador program for the LATAM region was a small success, with 11 participants and a strong sense of community.
+After a short introduction and a small personal presentation of those present we start with the meeting agenda.
+
+In this introductory meeting, we share with the community the proposal voted and approved by the global community of ambassadors. We went through the objectives and strategy for this starting phase.
+
+
+The tools used by the community were presented, Discors, Dework and the Oracle archive
+
+
+
+
+#### Decision Items:
+- Beginning Onboarding evaluation and selection of members
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Evaluate the execution of workshops on the tools used by the community [assignee] Guillermo [due] 21 June 2024 [status] todo
+
+#### Agenda item 2 - Onboarding Sub-Group - [carry over]
+
+#### Narrative:
+The onboarding strategy was communicated to those present and the next steps to follow in the formation of the core contributors team for this initial stage were proposed, onboarding evaluation and selection.
+
+
+At the end of the meeting, the onboarding form for the LATAM regional expansion program was shared.
+
+
+
+#### Decision Items:
+- Beginning Onboarding evaluation and selection of members
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Edit Onboarding form and perform an update on two languages, Spanish and Portuguese [assignee] Guillermo [due] 23 June 2024 [status] todo
+
+#### Agenda item 3 - Marketing Sub-Group - [carry over]
+
+#### Narrative:
+Marketing efforts at the moment are based on generating documentation for meetings and calls, as the sub WG and assigned tasks are formed, the efforts will address other needs.
+
+
+#### Decision Items:
+- Beginning Onboarding evaluation and selection of members
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Agenda item 4 - Education Sub-Group - [carry over]
+
+#### Narrative:
+The need was established for Initial documentation translated into Spanish to begin educating members on the forms and methodologies of the program. 
+
+
+#### Decision Items:
+- We develop the titles by priority and agree on the translation work to be shared in the next meetings.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Selection of documents and translation  [assignee] Guilermo, Ines [due] 24 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration
+- emotions: Collaborative, Friendly, Thoughtful , funny , entertaining
+- other: All beginnings are challenging and full of responsibility, we hope to achieve the objectives
+
+
 ## Thursday 30th May 2024
 
 ### Onboarding Workgroup
