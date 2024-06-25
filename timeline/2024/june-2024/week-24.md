@@ -241,6 +241,7 @@ Should we meet again on the 24th and 26th of June for this quarter? We will see 
 
 ## Friday 14th June 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -261,6 +262,59 @@ Should we meet again on the 24th and 26th of June for this quarter? We will see 
 #### Keywords/tags:
 - topics covered: social media management, Videomaking, Task Assignment, Zealy, budget, Q3 budget, town hall, training, test
 - emotions: Casual
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, Mikasa, LadyTempestt, devon, Ines, Slate, Gorga Siagian, Ayo, Franklynstein, kateri
+- Purpose: Digging deep into Q3 projections and the future of WWG community page.
+- Working Docs:
+  - [WWG Marking Scheme Template](https://docs.google.com/spreadsheets/d/1VvZZQ-BxnGkbD47VrZCmV5RzPcnQ5RYp2ZJz2DHGCV0/edit?usp=sharing)
+  - [WWG Scribbler Marking Scheme](https://docs.google.com/document/d/11qmb5vMImmtLwnJvgT9EdQfWnDww56L0VuaCcT8OJcQ/edit?usp=sharing)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone to the meeting, he highlighted the meeting's agenda and then we went over the action items from the last meeting.
+
+Ines, tasked with managing the Twitter Spanish page, shared an update from the Twitter side of things! This led to a discussion on what logo would best fit the Spanish page. Following that, she also mentioned the need for a tweet sample from Mikasa that she could use as a template for writing content for the Spanish page.
+
+Discussion and digging deep into the Q3 budget and projections. Kenichi opened the floor for suggestions and ideas will be welcomed with open arms.
+
+Today's meeting also navigated the axis of our substack newsletter and how articles will be published in the future.
+
+We talked about our monthly newsletter; even though we aim to reach more people via email, we want individuals to choose whether they want to receive our emails so we don't clutter their inboxes.
+
+We discussed how the community page articles will be paid for - it was suggested that drafts will be rewarded based on word count and performance. Any article that performs well over time will be rewarded from the points system allocation.
+
+Lady Tempestt asks Kenichi about the Cogito articles from last year and the reward status, and then Kenichi says he'll reach out to Sandra.
+
+On the other hand, Ayo spoke about the WWG onboarding process - he suggested that the WG could have an automated, seamless and faster onboarding process rather than leveraging human power. 
+
+We addressed how many people can get onboarded in a quarter! Since Ines raised questions like (will there be work for new people who are joining the WWG newly?). Ines suggests that we do onboarding at the end of each quarter to help us prepare future budgets and allocation to reward all contributions without having a second thought.
+
+
+
+
+#### Decision Items:
+- We decided that 4 articles would be published on our community page every month - Thursdays to be precise.
+  - [rationale] To keep people engaged and to reach a wider audience.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that new articles would be published on the SNET’s ecosystem page every Wednesday. Topics will be ecosystem-based. AI, longevity, and whatnot! 
+  - [effect] affectsOnlyThisWorkgroup
+- Increase the number of outgoing articles in Q3 because there's a massive surge of interest in the WWG and we'd like to give everyone a chance to tell their story through writing.
+  - [rationale] We want to open an opportunity window for aspirants to tell their stories.
+  - [opposing] Will there be work for new intakes? However, do we have enough budget to incentivize new people?
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to chase Sandra from Cogito regarding the AI and finance articles that are currently in review. [assignee] Kenichi [status] in progress
+- [action] Kenichi to add the pupil tag implementation to the Q3 budget. [assignee] Kenichi [status] done
+- [action] Devon to accept the Zealy reviewer invitation sent by Kenichi.  [assignee] devon [status] done
+
+#### Keywords/tags:
+- topics covered: Substack newsletter, Monthly newsletter, Twitter, Triva, community page, pupil tag, Marking scheme & template , Peer review, Onboarding, Zealy, Notion, Q3 budget
+- emotions: interactive, lengthy, funny , Discursive
+
+
 ## Saturday 15th June 2024
 
 ### Gamers Guild
