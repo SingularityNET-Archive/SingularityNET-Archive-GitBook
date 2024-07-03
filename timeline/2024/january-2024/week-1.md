@@ -12,6 +12,26 @@ description: Mon 1st Jan - Sun 7th Jan 2024
 
 ## Thursday 4th January 2024
 
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt
+- Working Docs:
+  - [Customer-centric AI Solutions: article for Cogito by LadyTempestt](https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing)
+
+#### Narrative:
+The meeting started with a warm greeting from the Writer Workgroup Lead - Kenichi. He wished all the Scribblers a Happy New Year 🎊 and a fruitful year ahead.
+
+We discussed the article "Customer-centric AI Solutions" for Cogito by Lady Tempestt
+
+
+#### Keywords/tags:
+- topics covered: Cogito articles, Points system, BGI 2024 summit
+- emotions: calm, curious
+
+
 ## Friday 5th January 2024
 
 
