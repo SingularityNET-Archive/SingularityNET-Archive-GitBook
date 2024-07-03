@@ -100,6 +100,33 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 - emotions: productive,  Collaborative, Businesslike., speedy 
 
 
+## Friday 28th June 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], lord kizzy [documenter], hogantuso, Slate, kateri, malik, Advanceameyaw, osmium, killy, Zalfred, lord kizzy
+- Purpose: Weekly updates 
+#### Discussion Points:
+- Updates on TASK MANAGEMENT: Slate indicated that the Town Hall Edit hasn't been uploaded but the Town Hall Summary has been uploaded in our Socials 
+- Updates on Social Media Management: Malik indicated that he hasn't been granted access to our socials, so NO updates as regards to that
+- Discussions on concerns raised as regards to our Q2 Budget report and Q3 Budget: Lord_Kizzy went through the concerns raised by the community and highlighted the solutions given by him in the previous governance call
+- Discussions on the budget reduction: We tried to see where we could reduce some allocation on tasks to compensate for the budget general reduction (budget fitting); the majority of members felt the suggested 47% cut was too much and unsustainable in the long run for the guild. 
+
+#### Decision Items:
+- We all agreed to attend the next treasury call as regards to the Budget reduction
+  - [rationale] This call is gonna be crucial for the management of the guild
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Lord_Kizzy to edit the Q2 Budget and Q3 Budget Proposal [assignee] lord kizzy [due] 5 July 2024 [status] in progress
+- [action] Lord_Kizzy to reach out to Rojo as regards to the Q3 Budget reduction and try to see if  he could make the next treasury call [assignee] lord kizzy [due] 5 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Video Edit, Weekly updates, Budget Reduction, Budget , Town Hall Summary Edit, Budget fitting, Treasury Guild meeting, social media, social media access
+- emotions: Casual, speedy , productive, Organised, Thoughtful , frustrated
+
+
 ## Saturday 29th June 2024
 
 ### Gamers Guild
