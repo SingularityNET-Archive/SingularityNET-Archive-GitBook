@@ -139,6 +139,7 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 ## Wednesday 19th June 2024
 
 
+
 ### Dework PBL
 
 - Type of meeting: Biweekly
@@ -227,6 +228,60 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 #### Keywords/tags:
 - topics covered: ACP, Blueprints , Budget 
 - emotions: productive,  Collaborative, Businesslike., speedy
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], lord kizzy [documenter], WaKa, kateri, Vasu, martinsoki, Peter, Curtis, Kenichi, Ubiodee, CollyPride, Ubio, Oladepo Daniel, Rojo, Slate, Timmy, Samsung, Guillermo
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
+  - [Final Guilds requested Budget](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [Typeform link](https://fqmtepho6kd.typeform.com/to/uHsVjdS5)
+  - [Research & Development Guild Budget Proposals Sheet](https://docs.google.com/spreadsheets/d/1Cu2snGCH-9H4rviHFwcMD_qV-qRLjwFbO4eNjrWX6Hs/edit?usp=drive_link)
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary's Action Items
+- Updates status on Development to fill Repo
+- Reputation System using SoulBound Tokens  
+- Q2 budget concerns and R&D Guild Q3 Updated Budget 
+- Q3 Budget proposal discussions
+- New rules for proposal planning
+
+#### Discussion Points:
+- Updates status on Development to fill Repo: Rojo gave updates on the development status on the Social Media Automation and Web Contributions Dashboard; he said: "For the Web3 dashboard and social media dashboard, we're almost done with the MVP. Obviously, you can see the code from the repos on our common GitHub. I think once the MVP is ready, we can open-source the code. We're going through some testings for the UI. We have very minimal backend functionalities for now, just because there wasn't enough time to have a lot of the functionalities that we predicted. But still, there is something to be tested and something to be improved. I expect it to be open source in the next week and a half, depending on how fast I will get well. But it should be done very soon. After that, we will be doing some testing with other workgroup members. And I guess the reporting on that would be part of Q3, not Q2. So Q2 was mainly about getting an MVP out."   Ubio gave updates on his reasearch: "What we did was simply to convert responses we got from Q1 into Figma. In Q2, We converted the responses and the things we could derive from those response into a prototype design.  so that's what we did for Q2. Q3 for us is about now taking that design back to the community to engage and see what comes out of that."
+-  Presentation by Kenichi on a reputation system using SoulBound Tokens, here is the link to the document; https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit Rojo highlighted the similarities between this project and other web3 contributions projects and offered for a collaboration
+- There were discussions on R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concerns Response Document. there was an inclusion of more detailed deliverables
+- Discussion on Q3 Budget proposal, we had a brief Overview of the R&D Guild Budget for Q3 
+- Discussions on New rules for PROPOSAL planning; There was a document highlighting the new rules for budget planning to prevent similar issues encounter in the previous Quarters (https://docs.google.com/document/d/1iaU5LI1KmKmcCbIa5yI1iRmDiqnkpzWNmnrgeRhvgeo/edit?usp=sharing)
+
+#### Decision Items:
+- We decided that if, by the closing date of Q2, the teams involved in the development proposal doesn't present progress in the assigned repositories and their respective reports with details of the progress and status, the resources assigned to said proposals will not be disbursed and will be reevaluated.
+  - [rationale] This is to help build transparency between the Guild and the Community by providing deliverables
+  - [effect] mayAffectOtherPeople
+- We decided to include Kenichi in the Guild Q3 Budget after we conducted a vote
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that all new proposals would go through community voting from Q3
+  - [rationale] We want to encourage more initiatives from the community
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Guillermo to ideate to see how Vasu can collaborate with guild members on project [assignee] Guillermo [due] 26 June 2024 [status] in progress
+- [action] Colleen to draft out a proposal for her initiative on The Quest for AI Game Design [assignee] Colleen [due] 26 June 2024 [status] todo
+- [action] Ubio to add the link to the FIGMA to the GITHUB repo, and share a document highlighting the deliverables in screenshots [assignee] Ubiodee [due] 26 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, GitHub, loyalty system, Budget preparation, github board, contributors, Legacy project proposal
+- emotions: Collaborative, productive, Thoughtful, speedy, Welcoming, Friendly, straightforward, questioning
+
+
 ## Thursday 20th June 2024
 
 ### Onboarding Workgroup
