@@ -164,6 +164,7 @@ The need was established for Initial documentation translated into Spanish to be
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -402,6 +403,39 @@ Should we meet again on the 24th and 26th of June for this quarter? 24th was fav
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, deliverables, Budget Request, Q2 budget, loyalty system, Budget preparation, github board, contributors, Legacy project proposal, Disablities, Collaboration, Gamers Guild
 - emotions: Collaborative, productive, Thoughtful, speedy, Welcoming, Friendly, straightforward
+
+
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen, Vanessa [documenter], Vanessa, Stephen, André, lord kizzy, Peter, Onize, duke peter, Clement Umoh, Ekemini Samuel, Ayo, Gorga Siagian, Jenn, martinsoki
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Q2 budget](https://docs.google.com/spreadsheets/d/1d9j-IPA0wary0EdR8YIoKl1BF0mAtkV_dgTs0hSnzAs/edit?usp=sharing)
+  - [Draft AI ethics doc](https://docs.google.com/document/d/1MIItGDkPIBMA6x-_rvIaWvpRE_sKkkz9TdEhao_MVwM/edit?usp=sharing)
+  - [LLM development - Data loading and preprocessing](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Data_Loading_and_Preprocessing.ipynb)
+  - [LLM development - Vector store creation and similarity search](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Vector_Store_Creation.ipynb)
+  - [SNET Archive AI features (draft of possible features an AI tool might have)](https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing)
+  - [draft Q3 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [Meeting issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/168)
+
+#### Action Items:
+- [action] Duke to create a video walkthru of how to use the GitHub Board, based on Stephen's training session - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116   Still needs to be shared [assignee] duke peter [due] 26 June 2024 [status] in progress
+- [action] All to add comments to AI ethics doc async [assignee] all [due] 26 June 2024 [status] in progress
+- [action] Vanessa to start writing guide on how to make a doc community-owned - i.e. a process for how to work with a doc to avoid stuff like deleting it, deleting comments, etc - still writing [assignee] Vanessa [due] 26 June 2024 [status] in progress
+- [action] Sucre, Clement and Lord_Kizzy to pick 2 "best meeting summary" winners from early June summaries, which they will share at next meeting on 12th June - see this issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/152 - not yet complete due to shortage of good summaries that were not actually done by members of the judging team! Date shifted to 26th June [assignee] SucrenSpice, lord kizzy, Clement Umoh [due] 26 June 2024 [status] in progress
+- [action] Andre to draft a doc on Ubio's work, to help Ekemini and Ese create a presentation for TH See this issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/150 [assignee] André [due] 12 June 2024 [status] done
+- [action] Vanessa to sort out how we split up the work on the Backlog to hand it over to the rest of the team. Interested: Onyeka, Ayo, Clement, Onize, Jenn, Photogree, Gorga [assignee] Vanessa [due] 12 June 2024 [status] done
+- [action] Ekemini and Ese to liaise outside the meeting on a presentation on Ubio's work [assignee] Ekemini Samuel, esewilliams [due] 26 June 2024 [status] in progress
+- [action] Photogee has had to drop out of TH presentation about Tag Taxonomy, so this is now just Ese, Onyeka and Ekemini - to be looked at during next meeting [assignee] esewilliams, lord kizzy, Ekemini Samuel [due] 26 June 2024 [status] in progress
+- [action] Vanessa to start a draft quarterly report [assignee] Vanessa [due] 12 June 2024 [status] done
+- [action] Vanessa to DM Duke about his video walkthru of the project board - done, but no reply as yet [assignee] Vanessa [due] 12 June 2024 [status] done
+- [action] Vanessa or Sucre to post something in a public Discord channel - probably Ambassador-General - to share about the "Good Meeting Summaries" competition and that Tevo won this time [assignee] Vanessa, SucrenSpice [due] 12 June 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: document management, github board, AI ethics, Ethics, ethics of AGI, good meeting summaries, LLMs, LLM development, AI tooling, open source
+- emotions: Organised, inclusive
 
 
 ## Friday 14th June 2024
