@@ -7,6 +7,7 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 ## Wednesday 26th June 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -98,6 +99,74 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 #### Keywords/tags:
 - topics covered: ACP, Blueprints , Budget , infographic
 - emotions: productive,  Collaborative, Businesslike., speedy 
+
+
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen, CallyFromAuron [documenter], Stephen, André, Ekemini Samuel, Ayo, Peter, Gorga Siagian, Clement Umoh, daniel effiom, Kenichi, SucrenSpice, lord kizzy, CallyFromAuron, CollyPride, sakujennbornean, kateri
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Q2 budget](https://docs.google.com/spreadsheets/d/1d9j-IPA0wary0EdR8YIoKl1BF0mAtkV_dgTs0hSnzAs/edit?usp=sharing)
+  - [Draft AI ethics doc](https://docs.google.com/document/d/1MIItGDkPIBMA6x-_rvIaWvpRE_sKkkz9TdEhao_MVwM/edit?usp=sharing)
+  - [LLM development - Data loading and preprocessing](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Data_Loading_and_Preprocessing.ipynb)
+  - [LLM development - Vector store creation and similarity search](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Vector_Store_Creation.ipynb)
+  - [SNET Archive AI features (draft of possible features an AI tool might have)](https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing)
+  - [draft Q3 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [meeting issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/171)
+
+#### Decision Items:
+- Interesting discussion on how to record people's names in the Archives, which came out of the Tag Taxonomy work. We recognise that many people go by more than one name - but for clarity we decided that in future, "Discord name = Archives name". André will look at the feasibility of creating a controlled vocab dropdown based on info from Discord bits.
+  - [rationale] If people are in the Archives under only 1 name, an LLM will be better able to make sense of any qwuery about them. It's also better for privacy - some people might use a Discord pseudonym for privacy reasons 
+  - [effect] mayAffectOtherPeople
+- Our Q3 budget was approved, but there will be some budget-fitting needed. We agreed to make changes from the "one-off" tasks only as far as possible, and preserve the "regular tasks" budget; we also agreed that as far as possible we will move things to Q4 rather than not doing them at all. We discussed some possible cuts, but may need to raise this in our next meeting and discuss further, if the lowering percentage for budget fitting is increased.
+  - [rationale] We want to avoid cuts to core activities
+  - [effect] affectsOnlyThisWorkgroup
+- We looked at Ubio's recent work on testing around 30 LLM models with the Archives corpus material - but as his spreadsheet is in Excel format, we decided to ask him to convert it to a more widely readable format such as a Google Sheet
+  - [rationale] not everyone has access to Excel
+- André's docs management and tooling work: André has now created an interface to enable us to manually make an archival copy of a doc that has been submitted via the summary tool, and also to manually add docs that have not been added via the tool.  The interface captures doc content in markdown, and holds it in the Archives database. Vani and André need to go through it in near future
+  - [rationale] This enables us to capture, archivem, and open-source the documents that are submitted to the Archives, which may be held by different people in the program and may be vulnerable to accidental deletion
+  - [effect] mayAffectOtherPeople
+- The Q2 RAG process - Stephen is documenting it directly in an "LLM Development" section on the Archives GitBook  https://snet-ambassadors.gitbook.io/singularitynet-archive/development/llm-development - we agreed that longterm, this section might also accommodate some of Andre's and Ubio's work. In Q3, Stephen will also add "plain English" explanations of e.g. vector store creation, checking and safeguarding; and further Python code samples, that need to be reproducible.
+  - [rationale] "Plain English" explanations will be important for community engagement, to make the work accessible to others who might not have technical knowledge
+  - [effect] mayAffectOtherPeople
+- Work on our OpenSource paradigm - we discussed when to make the planned presentation, and whether it should be in a Town Hall, or a separate session with a trailer in TH? See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/164
+  - [rationale] The wish to engage more people with the issues around Open Source
+  - [effect] mayAffectOtherPeople
+- André's tool development work for June 2024 - basic maintenance, but no significant new features. But André has begun to collate issues that need to be addressed in the Q3 redesign of the Tool, and we agreed he will create a doc for this
+  - [rationale] so as not to lose any of the insights that come up via everyday use of the Tool
+  - [effect] mayAffectOtherPeople
+- On the work on the "pre-Archives WG" Backlog - we agreed to also add the Deepfunding Community Governance meetings, in addition to Town Halls
+  - [rationale] Because the community governance meetings are significant enough to be worth archiving; and, since it turns out there are not many Town Halls to add, the budget for this work could cover adding them.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed on a deadline of 3rd July for the backlog work
+  - [effect] affectsOnlyThisWorkgroup
+- RE the planned Town Hall reporting back on the Tag Taxonomy work, we agreed that it will be presented at next TH on 2nd July
+  - [effect] mayAffectOtherPeople
+- We noted that Governance WG will pay Ese to upload their backlog of summaries to the Tool
+  - [rationale] Gov WG has budget to cover this, and they have summaries written and ready to upload, but don't really have time to do it.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Duke to create a video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116   Still no word from Duke on it. If nothing by next meeting, we will reassign this [assignee] duke peter [due] 10 July 2024 [status] in progress
+- [action] All to add comments to AI ethics doc async: some have done so, but we'll reassess at next meeting [assignee] all [due] 10 July 2024 [status] in progress
+- [action] Vanessa to start writing guide on how to make a doc community-owned - i.e. a process for how to work with a doc to avoid stuff like deleting it, deleting comments, etc - still writing. Will bring draft to next meeting [assignee] Vanessa [due] 10 July 2024 [status] in progress
+- [action] Sucre, Clement and Lord_Kizzy thave selected 2 "best meeting summary" winners from late May/early June; results will be publicly shared on 2nd July after Town Hall. But due to low quality of summaries, there might not be a winner for next week - in which case, they will make a post to say what was missing from the summaries we have that meant they could not win. See this issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/152  After this, there will still be 2 more winners to be selected under Q2 budget before we move to the Q3 budget. [assignee] SucrenSpice, lord kizzy, Clement Umoh [due] 26 June 2024 [status] done
+- [action] Ekemini and Ese to liaise outside the meeting on Town Hall presentation on Ubio's work, and decide when to present. They can message André with any questions. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/150 [assignee] Ekemini Samuel, esewilliams, André [due] 10 July 2024 [status] in progress
+- [action]  Ese, Onyeka and Ekemini to work on presentation on tag taxonomy work https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/151 - in progress, and will be presented at TH on 2nd July [assignee] Vanessa [due] 2 July 2024 [status] in progress
+- [action] André to ask Ubio if he can convert his Excel spreadsheet testing different LLM models into a more viewable format [assignee] Andre [due] 10 July 2024 [status] todo
+- [action] Vani and André to meet to go thru André's docs management interfact [assignee] CallyFromAuron, André [due] 10 July 2024 [status] todo
+- [action] Stephen to tidy up the documentation of the Q2 RAG process, and close the issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/163 [assignee] Stephen [due] 10 July 2024 [status] in progress
+- [action] Stephen to decide how best to present the "Open-source paradigm" work, and bring decision to next Archives meeting on 10th July [assignee] Stephen [due] 10 July 2024 [status] todo
+- [action] André to create a doc to collate issues that need to be addressed in the Q3 redesign of the meeting summary tool [assignee] André [due] 10 July 2024 [status] todo
+- [action] Vani to post in the Discord chat for the backlog work that a) we have agreed to include the Deepfunding ommunity Governance meetings, and b) the deadline is 3rd July 2024 [assignee] CallyFromAuron [due] 28 June 2024 [status] todo
+- [action]  Onyeka will DM Peter to check there is space at TH for the Tag Taxonomy presentation on 2nd July [assignee] lord kizzy [due] 28 June 2024 [status] todo
+- [action] Vani to create issues on the GitHub Board for all the forthcoming Q3 work, in time for next meeting [assignee] CallyFromAuron [due] 10 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: document management, github board, AI ethics, Ethics, ethics of AGI, good meeting summaries, LLMs, LLM development, AI tooling, open source
+- emotions: Organised, inclusive
 
 
 ## Friday 28th June 2024
