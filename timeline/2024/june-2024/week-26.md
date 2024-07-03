@@ -6,6 +6,7 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 
 ## Wednesday 26th June 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -53,6 +54,50 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 #### Keywords/tags:
 - topics covered: Guilds, Budget, Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, GitHub, Budget preparation, contributors, Filling repo, Rewards
 - emotions: productive, Thoughtful, straightforward, questioning, lengthy, Discursive
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], WaKa, GorgaSeagian, WaKa, esewilliams, Clement Umoh, Kenichi, shuga, Peter, Slate, malik
+- Purpose: - Budget Concerns - Infographics - Recording Attendance - LLM - Resources from Education Guild 
+- Working Docs:
+  - [Education Info and Vids ](https://docs.google.com/spreadsheets/d/1LLTuBxAV4Q8nKuBdbh4unKRg10pKfOOm4_wEeVz3YxU/edit#gid=0)
+  - [Review Sheet for quizzes ](https://docs.google.com/spreadsheets/d/18OHO1HZ7gPRvlQhy9QHVijg_Nanv2z0T4bH3h2EETdU/edit?usp=sharing)
+  - [Budget Request Concerns ](https://docs.google.com/spreadsheets/d/1eTDWvqulA6J4oQuvwI4-Sk_p8Uiv-pZOxK-fQpxWyvY/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Budget Concerns 
+-  Infographics
+- Recording Attendance
+- Osmium LLM Update 
+- Resources from Education Guild 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- we discussed on budget request concerns and answered them one by one 
+- then we took answers from everybody regarding those concerns
+- Osmium shared insights from the LLM that he is building
+- Then Slate requested Osmium and Kenichi to highlight admin related tasks and Guild members related task for the project that they proposed in education guild
+- while answering the concerns we also went over all the resources that education guild has made up in quarter # 2
+- During concerns answering there was a concern of no onchain so - we also discussed on adding attendance task for tracking onchain contribution
+- There was also a discussion on Clement's Infographic regarding SNET
+
+#### Decision Items:
+- Update Clement's task 
+  - [effect] affectsOnlyThisWorkgroup
+- Update the budget request and report 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Update Clement task  [assignee] Slate [due] 26 June 2024 [status] done
+- [action] Update the quarterly report  [assignee] Slate [due] 27 June 2024 [status] done
+- [action] Update the blueprint  and create its task  [assignee] everyone assigned  [due] 27 June 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: ACP, Blueprints , Budget , infographic
+- emotions: productive,  Collaborative, Businesslike., speedy 
 
 
 ## Saturday 29th June 2024
