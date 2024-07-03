@@ -163,6 +163,7 @@ The need was established for Initial documentation translated into Spanish to be
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -349,6 +350,58 @@ Should we meet again on the 24th and 26th of June for this quarter? 24th was fav
 #### Keywords/tags:
 - topics covered: AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership, workgroup membership, co-chair, co-chair selection, role selection, date of next meeting
 - emotions: interesting, contributive, Collaborative, insightful, Brainstorm
+
+
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Guillermo [facilitator], lord kizzy [documenter], WaKa, kateri, Vasu, martinsoki, Peter, Curtis, Kenichi, Ubiodee, CollyPride, Ubio, Oladepo Daniel, Samsung, Guillermo, Olokoji, Boaz, Onize
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
+  - [Final Guilds requested Budget](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
+  - [Typeform link](https://fqmtepho6kd.typeform.com/to/uHsVjdS5)
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [Budget Proposal Template](https://docs.google.com/document/d/1iaU5LI1KmKmcCbIa5yI1iRmDiqnkpzWNmnrgeRhvgeo/edit?usp=sharing)
+  - [How To Improve The R&D Guild of the SNet Ambassadors Program by Ayo](https://docs.google.com/document/d/1ughN1IkBwgbrBch-3hsimoxacPSNrF6Z8C1OCTQQX8I/edit)
+
+#### Agenda Items:
+- Welcoming new members and Introduction.
+- Review of last meeting summary's Action Items
+- Updates status on Development
+-  Ayo: What to improve about the R&D Guild of the SNET Ambassador Program Document Draft
+- Discussions on Colleen's proposal, “Ethics Quest Game”
+- Q2 quarterly report & Q3 budget discussions
+- Discussions on new rules for proposal planning
+
+#### Discussion Points:
+- Updates status on Development to fill Repo: Duke gave updates on the Inclusivity Research.Sso far there are 3 people scheduled for interviews; once that is done, it can added to the repository. Ubio gave updates on his reasearch; he said: “What we did was simply to convert responses we got from Q1 into Figma on Q2. We converted the responses and the things we could derive from those responses into a prototype design. So that’s what we did for Q2. Q3 for us is about now taking that design back to the community to engage and see what comes out of that.”
+-  Ayo: What to improve about the R&D Guild of the SNET Ambassador Program Document Draft, ayo shared a draft on this, https://docs.google.com/document/d/1ughN1IkBwgbrBch-3hsimoxacPSNrF6Z8C1OCTQQX8I/edit
+- Colly gave a presentation on her “Ethics Quest Game”
+- Discussion on Q3 Budget proposal: we had a brief discussion on this and informed guild members of the deadline for submission of Q3 budget (19th June). WaKa suggested an extension on the deadline for Q3 proposal planning and Guillermo made more emphasis presenting deliverables for this Quarter
+
+#### Decision Items:
+- We decided that Colleen should draft out her presentation and share that to the Gamers' guild
+  - [rationale] We felt that the project is most suited for the Gamers' guild
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Guillermo to have a call with Ubio on providing assistance to the multilingual project by conecting them with Celeste’s team (Audio to text AI DF awarded project) [assignee] Guillermo [due] 12 June 2024 [status] done
+- [action] Colleen to draft out a proposal for her initiative on The Quest for AI Game Design [assignee] Colleen [due] 26 June 2024 [status] todo
+- [action] Guillermo and Lord_Kizzy to meet up and discuss Q3 budget preparation [assignee] lord kizzy, Guillermo [due] 12 June 2024 [status] done
+- [action]  WaKa & Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template. [assignee] WaKa, Rojo [due] 12 June 2024 [status] done
+- [action]  Guilermo to ideate to see how Vasu can collaborate with guild members on project [assignee] Guillermo [due] 19 June 2024 [status] in progress
+- [action] Ayo to draft out a report on how he could contribute to the Guild [assignee] Ayodele [due] 12 June 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, deliverables, Budget Request, Q2 budget, loyalty system, Budget preparation, github board, contributors, Legacy project proposal, Disablities, Collaboration, Gamers Guild
+- emotions: Collaborative, productive, Thoughtful, speedy, Welcoming, Friendly, straightforward
 
 
 ## Friday 14th June 2024
