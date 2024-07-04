@@ -164,6 +164,7 @@ description: Mon 1st Apr - Sun 7th Apr 2024
 
 ## Thursday 4th April 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -241,6 +242,56 @@ description: Mon 1st Apr - Sun 7th Apr 2024
 #### Action Items:
 - [action] Create a Q and A doc to address those questions as best we can [status] todo
 
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Vanessa [facilitator], Cjfrankie  [documenter], Vanessa, Cjfrankie, SucrenSpice, LadyTempestt, lord kizzy, duke peter, Kenichi, Clement Umoh, Gorga Siagian, Hamzat_iii, Photogee, Zibah, Olokoji
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Infographic for Treasury session](https://drive.google.com/drive/folders/1-cHQozsQGpYqEB7fsCilpVcXsfR8d8ZJ)
+  - [graphics for sharing survey reports](https://drive.google.com/drive/folders/1OMf-a5rHWZ7_13A_YKoh7BOeOuhB-6jN)
+  - [budget sheet Q2](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=sharing)
+  - [DRAFT: process for starting a Workgroup in the Ambassador program](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes from the last meeting and action items
+- Budget projections for Q2 2024
+- Making educational content for SNET  
+- Publicizing our research report via infographics
+- Idea of assigning someone to keep abreast of what WGs are doing, and signposting new members on Discord to an appropriate WG
+
+#### Decision Items:
+- 2 old members and 2 new members will facilitate the onboarding session scheduled for 16th May 2024.
+  - [rationale] to share the work out fairly, and to ensure that the new people are learning from established members
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to move forward with the new members buddy system, where new WG members are assuigned a "buddy" from among the established members to give them 1 to 1 support. Note that we will evaluate the system and how well it worked at the end of Q2.
+  - [rationale] Need to get started and see how well it works; and there are new people in need of a buddy, so the sooner we start, the better
+  - [effect] affectsOnlyThisWorkgroup
+- The need for assigning someone to keep abreast of what WGs are doing shouldn’t be a separate task. We agreed that it should be added to the budget as part of Sucre’s activities.  
+  - [rationale] Otherwise it could end up duplicating what Sucre already does
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Clement to facilitate our Town Hall update on 30th April 2024. [assignee] Clement Umoh [due] 30 April 2024 [status] todo
+- [action] Sucre to send the Q1 quarterly report to Peter [assignee] SucrenSpice [due] 11 April 2024 [status] todo
+- [action] Vani to chase Peter to take the doc “ DRAFT: process for starting a Workgroup in the Ambassador program,” to the governance WG. [assignee] CallyFromAuron [due] 9 April 2024 [status] todo
+- [action] Gorga to write up his proposal for making SNET educational content. [assignee] Gorga Siagian [due] 11 April 2024 [status] todo
+- [action] Lady Tempestt  and Duke to make minor changes to their infographics about the Treasury session on 18th April [assignee] LadyTempestt, duke peter [due] 11 April 2024 [status] todo
+
+#### Learning Points:
+- We should ensure we use brand colors/assets for making designs in the future.
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Making an infographic for the onboarding journeys
+
+#### Keywords/tags:
+- topics covered: buddy system, Q2 budget, Treasury session, Town Hall update, Q1 quarterly report
+- emotions: funny , Deliberative, insightful
 
 
 ## Friday 5th April 2024
