@@ -22,17 +22,19 @@ Our goal is to provide a collaborative platform for the SingularityNET-Archive c
 
 ## Documentation
 
-We hope our GitBooks can help you on your journey to explore and innovate with AIG.&#x20;
+We hope our GitBooks can help you on your journey to explore and innovate with AI.&#x20;
 
-### Ambassadors GitBook
+### Ambassador GitBook
 
-The SingularityNET Ambassadors GitBook documents what the Ambassador programme is and how to get involved. Follow the link below to discover more ...
+The SingularityNET Ambassador GitBook documents what the Ambassador Program is, how it works, and how to get involved. Follow the link below to discover more ...
 
 {% embed url="https://snet-ambassadors.gitbook.io/home/" %}
 
-### Archive GitBook
+### Archives GitBook
 
-This SingularityNET Archive GitBook (where you are currently located) aims to provide a history of the SingularityNET Ambassadors programme.
+This SingularityNET Archives GitBook (where you are currently located) provides a history of the SingularityNET Ambassador Program, by documenting the meetings of its WorkGroups and Guilds (the topic-based groups that members work in).
+
+Note that in meeting summaries, "**Discord name= Archive name**": that is, we record individual people's involvement in meetings using their Discord names as far as we can. So if you want to search or query the Archives about a particular person, it's best to use their Discord name.
 
 Thank you for visiting our GitBooks, and we look forward to your contributions!
 
