@@ -4,6 +4,50 @@ description: Mon 8th Apr - Sun 14th Apr 2024
 
 # Week 15
 
+## Tuesday 9th April 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], CallyFromAuron [documenter], Peter, Haley, Judith, Guillermo, Grace Rachmany, Billy, CollyPride, Clement Umoh, CallyFromAuron, 5oundwave5, WaKa, Mikasa, Zalfred, Photogee, Slate, hogantuso, oep, Jan Horlings, Olokoji, Carlos Sainz, Nebula1224, Iain, Philip, Curtis
+- Purpose: Workgroup progress and podcast updates
+- Town Hall Number: 92
+- Working Docs:
+  - [ASI token merger useful resources](https://docs.google.com/document/d/1HXkP6mo0jUJVFfpMSS82igfMgQQvS43QxnfL81_nBi8/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/zVEPsD-0ZGQ?feature=shared" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=0s) Intro
+[00:51](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=51s) Ambassador Program Overview
+[04:28](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=268s) Merger Discussion Start
+[14:55](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=895s) Kyc Discussion
+[20:45](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=1245s) Reputation Weighted Voting
+[23:26](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=1406s) Issues With One Token One Vote
+[37:06](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=2226s) Community Involvement In Decisions
+[57:19](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=3439s) Importance Of Open Debates
+[01:05:00](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=3900s) Centralized Vs Public Benefit
+[01:08:00](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=4080s) Role Of Centralization & Decentralization
+[01:13:00](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=4380s) Reputation System Blueprint
+[01:14:00](https://youtu.be/zVEPsD-0ZGQ?feature=shared\&t=4440s) Conclusion & Appreciation
+
+#### Town Hall Summary:
+Discussion of the token merger between AGIX, FET and Ocean
+Discussion of approaches to voting (KYC, one-person-one-vote, reputation-weighting, plutocracy aka 1-token-1-vote)
+Discussion of community involvement in decisions, who has power, who gets input.
+This was also one of the earliest suggestions of a quarterly report or spending report for the previous quarter being a requirement for Workgroups to submit a budget for the next quarter (2:01)
+
+https://www.superintelligence.io/
+
+
+#### Keywords/tags:
+- topics covered: Token merger, voting, plutocratic, one token one vote, voting reputation, reputation weight, KYC, fetch and ocean, Governance workgroup, Q2 budget decision process, Q2 budget, Q1 quarterly report, moderator workgroup, moderator, Telegram, Discord, Deep Funding Focus Group, Decision Making Process, community governance, community engagement, power, debate
+- emotions: interesting, engaging, critique, insight
+
+
 ## Wednesday 10th April 2024
 
 
