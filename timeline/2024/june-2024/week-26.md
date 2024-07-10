@@ -169,6 +169,61 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 - emotions: Organised, inclusive
 
 
+## Thursday 27th June 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Onize [facilitator], kateri [documenter], Onize, kateri, Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, LadyTempestt, Ayo, Gorga Siagian, Advanceameyaw, daniel effiom, godspower egete, Cjfrankie, Kenichi, Slate
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Suggestions towards better onboarding processes](https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing)
+  - [Onboarding WG Buddy System survey](https://forms.gle/BHQuj4UxNotcuuqs8)
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections for Q3 2024](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?gid=2014555984#gid=2014555984)
+  - [  ONBOARDING WG C&S DETANGLE DOCUMENT](https://docs.google.com/spreadsheets/d/1EN21KSiQQc61aBHwL17ocCMixX6m-mA08wpr1bQF2zI/edit?gid=0#gid=0)
+  - [Onboarding meeting Chat, 27th June 2024 - Gorga](https://docs.google.com/document/d/1fDoMj4ASJcmyvLKeqVyitF1A_ohnC1KIU0WooAONarU/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes from the last meeting and action items; we agreed to the minutes of last meeting.
+- Onboarding Journeys update: Onize suggested that we make it in a way that the person who is engaging the content sees the ecosystem as a place they get to meet to help with the problem they are experiencing. 
+- Skills Matrix: Vani wanted to know if everyone had added their thoughts on the document and said that the document is open till the end of the week for people that still want to put their thoughts down.
+- Q3 budget:Our Q3 budget got consent, but since the total requested across all WGs is higher than the total available, budget-fitting will need to be implemented. The Lower percentage is yet to be determined, but we will get less than we asked for.
+- Suggestions towards a better onboarding process.
+- Facilitation / Documentation Roster: There were some discussions around WHO the next facilitator and documenter was going to be and  Lord kizzy indicated that he was working on a roster and he would present it in the channel before the next meeting.   
+- Gorga said that he had been passed over in the assignment of tasks such as documenting due to xenophobia, prejudice and favouritism, and that the workgroup's practices were untransparent. People in the meeting addressed these issues in the Zoom chat - see doc attached.
+
+#### Decision Items:
+- We agreed to have Sucre work on editing the budget and present it at next week's meeting.
+  - [rationale] Because we are still waiting to know the lowering percentage for budget fitting, and we will definitely need to make cuts
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to keep the Onboarding WG Skillshare Matrix document open until the next meeting for members to add their input.
+  - [rationale] Because we are still waiting for members to fill it.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June [assignee] LadyTempestt [due] 27 June 2024 [status] done
+- [action] Onize to give Town Hall update for the WG on 25th June: Onize was unavailable and LadyTempestt gave the update [assignee] Onize, LadyTempestt [due] 27 June 2024 [status] done
+- [action] Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued [assignee] SucrenSpice [due] 27 June 2024 [status] done
+- [action] LadyTempestt to prepare a report for the Buddy system [assignee] LadyTempestt [due] 27 June 2024 [status] done
+- [action] Vani to prepare another page in the matrix doc where everyone could give their 3 picks of skills that are "foundational" for the WG [assignee] Vanessa [due] 27 June 2024 [status] done
+- [action] Onize to bring onboarding journey scripts to the next meeting.  [assignee] Onize [due] 4 July 2024 [status] in progress
+- [action] Lord Kizzy to prepare the facilitation and documentation roster for Q3 and present it in the WG channel.  [assignee] lord kizzy [due] 4 July 2024 [status] todo
+- [action] Sucre to present results on the selected team of Onboarders in the Onboarding WG channel. [assignee] SucrenSpice [due] 4 July 2024 [status] todo
+- [action] Sucre to work on editing the budget and present it to the next meeting. [assignee] SucrenSpice [due] 4 July 2024 [status] todo
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Skillshare matrix
+- Onboarders team
+- Q3 budget
+
+#### Keywords/tags:
+- topics covered: Getting Started, onboarding processes, buddy system, Quarterly Report, onboarders team, Facilitation, Documentation, roster, skills matrix, allegation, gorga, Budget , Q3 budget
+- emotions: interesting, misunderstood, argumentative
+
+
 ## Friday 28th June 2024
 
 ### Video Workgroup
