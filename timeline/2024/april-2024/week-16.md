@@ -263,6 +263,7 @@ discussion of decision-making tools and testing them
 - topics covered: organizing, review, Budget , Onboarding, Ambassador GitBook, Miro Board
 ## Thursday 18th April 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -323,6 +324,27 @@ discussion of decision-making tools and testing them
 #### Keywords/tags:
 - topics covered: Miro Board, procedures, Proposal, Cohort, On-Chain, Quarter, Governance, Budgets, Rewards, core contributors, consent decision making, Q2 budget
 - emotions: Discursive, inconclusive
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: LadyTempestt [facilitator], Gorga Siagian, lord kizzy, CallyFromAuron [documenter], LadyTempestt, André, SucrenSpice, CallyFromAuron, Gorga Siagian, lord kizzy, Peter, CollyPride, others unknown
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Media link: [Link](https://youtu.be/Um7Zv5F9TyA?feature=shared)
+- Working Docs:
+  - [Treasury Session slides](https://docs.google.com/presentation/d/1bDNeG1Aumo7LGhICK1-vx_UB4OkA-tboWYLjTm0C9mw/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Onboarding Workgroup's regular meeting was replaced this week by a session led by André Diamond from Treasury Guild, giving information on how payments are processed in the Snet Ambassador Program, how to identify your rewards and other treasury topics. The session was aimed at new people, to help them onboard by improving their understanding of how the Treasury system works. See https://youtu.be/Um7Zv5F9TyA?feature=shared
+
+#### To carry over for next meeting:
+- Next meeting we revert to our normal agenda, and pick up items from our last meeting on 11th April
+
+#### Keywords/tags:
+- topics covered: wallet, Treasury, treasury dashboard, payments, Token merger, yoroi, treasury guild operations, Zealy, Writers WorkGroup, Dework, AGIX, ASI token
+- emotions: interesting, participatory
+
+
 ## Friday 19th April 2024
 
 
