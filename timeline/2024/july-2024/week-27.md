@@ -45,3 +45,82 @@ Billy and Gavriel addressed concerns about the budget. Ayo clarified the distinc
 #### Keywords/tags:
 - topics covered: Budget , Strategy Guild, Documentation, contribution, Workshop, Tasks, management, Facilitation
 - emotions: Collaborative, decisive, progressive
+## Tuesday 2nd July 2024
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: Haley, iota_one, aetherblade [facilitator], CallyFromAuron [documenter], Haley, iota_one, aetherblade, CallyFromAuron, Clement Umoh, sakujennbornean, Gorga Siagian, CollyPride, guillermolucero
+- Purpose: Fortnightly Open Office meeting led by the Global Ethics Initiative (GEI). This meeting is not an AI Ethics WG meeting; but the 2 groups work in tandem, so the meetings are related
+- Meeting video: [Link](No video)
+- Transcript: [Link](No transcript)
+- Working Docs:
+  - [Ambassador Program AI Ethics WG Q2 2024 Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [Starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+  - [AI ethics, safety, and risk taxonomy and literature](https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing)
+  - [AI Ethics WG folder ](https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing)
+  - [Interview participant information sheet and informed consent form](https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing)
+
+#### Narrative:
+Safety and Ethics across sNET
+- Esther is sitting in on interviews with people in the ecosystem re safety and ethics issues
+- Matthew Newman (was on 1st Supervisory Council) is working on creating a structure for developing safety and ethics internally in sNET as a whole
+- LeeLoo is working on similar with the spinoffs
+
+How to gauge interest from Ambassador Program in attending AGI24?
+- Visa concerns will be stronger as it's in the US and it's soon.
+- Can offer a letter of invitation from Program chair, which might help people secure a visa.
+- Virtual engagement is possible too - GEI is planning a virtual Round Table on 7th August and a 6-month followup.
+- Hoping to have some of the roundtable discussions at AGI24 virtually too - would be great to have Ambassador program involved
+
+Naming competition
+- Want to announce the GEI's existence at AGI24 - hence, naming competition will launch soon.
+- If winner is inappropriate, how will we choose?
+- Planning to use Jokerace - but should there be a proxy vote system for those who don't wish to connect a wallet?
+- How is voting weight determined on Jokerace? Group members will test it. If it is plutocratic (i.e. 1 token 1 vote) we will not use.
+- How to publicise it on socials?
+- A 1-pager has been written to outline what the GEI is and ensure people understand what they are naming. Guillermo will transdlate to Spanish and Portuguese.
+
+
+Asia/Pacific Internet governance networks
+- Jenn is working with these - they have an initiative to learn about AI ethics. Can it be integrated with the GEI?
+- LeeLoo: education is a huge part of the GEI, but in the longer term. Current focus is on gathering the public's opinion. We can connect in a few months, when we move more towards education.
+
+Scope of GEI survey
+Clement: is it within sNET< or wider?
+Haley: It's for all voices, including those not in WEb3 groups.
+LeeLoo: I have a good grasp of marginalised communities that don't use much tech, and how to engage them.
+
+Licensing of materials collected from surveys and interviews
+ - Agree Creative Commons all the way!
+ - CC BY-NC sharealike preferred
+ - Do we licence material to individual interviewees? Always best to licence to a person, not an organisation, since organisations change; but this could be fiddly to manage and a problem if people do not want to be named.
+- To be discussed further
+ 
+
+
+
+
+#### Decision Items:
+- Naming competition will be launched in next week or two, with a 1-week window for people to sugggest names. Probably using Jokerace. $50 prize.
+  - [rationale] need to get new name in place ideally before AGI24
+  - [effect] mayAffectOtherPeople
+- We'll link up with Jenn's Asia-Pacific Internet Governance networks at some point in future months
+  - [rationale] because at the moment the focus for GEI is on collecting opinion, not education
+  - [effect] mayAffectOtherPeople
+- We'll return to the discussion on licencing and Creative Commons in a future meeting
+  - [rationale] need to determine WHO we should licence material from interviews to?
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Find out feasibility of Ambassador Program attending the 2 forthcoming AI events: still considering; will depend on budget. GEI has secured some funding from the Foundation for this (they have matched the AI Ethics WG's Q2 budget, c. $3,800) [assignee] Haley, Esther [due] 16 July 2024 [status] in progress
+- [action] Request Info Merge for Current Regulations Worldwide from Janet: done, and in LeeLoo's https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing doc [assignee] LeeLoo, Esther [due] 2 July 2024 [status] done
+- [action] Meet with Ecosystem to aggregate information on what ethics policy or committees we have already - big piece of work, and will be ongoing indefinitely - maybe assess progress at the end of the quarter [assignee] LeeLoo [due] 30 September 2024 [status] in progress
+- [action] Haley will write something on what Ambassador Program attendees at AGI24 need to achieve [assignee] Haley [due] 16 July 2024 [status] todo
+- [action] Guillermo will raise the iissue of Ambassador attendance at AGI24 at Ambassador TH [assignee] Guillermo [due] 9 July 2024 [status] todo
+- [action] Guillermo will translate the 1-pager about the GEI for the naming competition into Spanish and Portuguese [assignee] Guillermo [due] 16 July 2024 [status] todo
+- [action] Colleen, Esther, Haley and Clement to test Jokerace [assignee] CollyPride, Clement Umoh, Esther, Haley [due] 16 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: AI ethics, Global ethics initiative, AGI24, visa, Jokerace, naming competition, plutocracy, 1 token 1 vote, education, survey , survey scope, marginalised communities, inclusion, Creative Commons, licensing, Asia Pacific, Internet governance network, South East Asia, SE Asia, Translation, virtual participation, virtual round table
+- emotions: Businesslike., interesting, Organised, good humored
