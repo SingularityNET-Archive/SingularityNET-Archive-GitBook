@@ -4,6 +4,98 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 
 # Week 26
 
+## Monday 24th June 2024
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: CallyFromAuron [facilitator], Ayo, CallyFromAuron [documenter], aetherblade, Clement Umoh, duke peter, Peter, Effiom, PeeGee, SucrenSpice, Malik., Slate, CallyFromAuron, Ayo, LadyTempestt, CollyPride, Gorga Siagian, 5oundwave5, Asad Nadeem, hogantuso, osmium, Olokoji
+- Purpose: Fortnightly meeting of the AI Ethics WG.
+- Meeting video: [Link](No video)
+- Transcript: [Link](https://app.read.ai/analytics/meetings/01J15C2RV7JF1SDYTA7VKF91H1?utm_source=Share_CopyLink&section=notes)
+- Working Docs:
+  - [Ambassador Program AI Ethics WG Q2 2024 Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [Starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+  - [AI ethics, safety, and risk taxonomy and literature](https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing)
+  - [AI Ethics WG folder ](https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing)
+  - [Interview participant information sheet and informed consent form](https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing)
+  - [Meeting Agenda, 24th June 20024.](https://docs.google.com/document/d/1WQW1rxFLLgttNSPgsQYJQ5QFFJbjYutx4oBUK7v_3bc/edit#heading=h.d588fff1bjm4)
+  - [Global Ethics Initiative](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/edit?usp=sharing)
+  - [Quarterly Workgroup Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [AI Ethics Workgroup Stuff!](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [Selecting people for AI Ethics WorkGroup Q3 roles (cryptpad)](https://cryptpad.fr/pad/#/2/pad/view/QhThseH7IJssdKnZ6isg0QEaRVdpIwJRazuWTXepzO8/)
+  - [AI Ethics WG Quarter 2 payments and budget](https://docs.google.com/spreadsheets/d/1G9gvX5h3VQQTmOXRaM6y1dXOHVP2I1g_V2R4lOUtnDo/edit?usp=sharing)
+
+#### Narrative:
+Attendee Count: 19 unique individuals, 20 devices.
+
+Meeting Narrative:
+
+Membership Criteria: Vani referenced the previous meeting - people do want membership, and a 2 tier system has been suggested but not yet agreed, and [7:33] mentioned her impression that hierarchical membership structures appeal to some, but not all. LadyTempestt [9:20] agreed with keeping it simple, and starting by giving tag to people who have attend meetings. Aetherblade suggested in Chat that there's a difference between people who look and people who contribute. Vani suggested [9:47] instead of meeting attendance, use contribution/posting in Discord, since it's hard to find a meeting time that everyone can do, but Discord posting can be in own time. After mention of several options, consent (no objections) to giving tag to anyone who comments in the WG Discord, and reassess later if we find we need tiers. Soundwaves confirmed that adding the tag to those active in Discord can be automated using the ME6 bot that we already have [9:20].
+
+Strategy-drafting: [11:47] the 3 writers and 2 editors for each strategy have all confirmed (see AI Ethics Workgroup stuff! spreadsheet). There will be an orientation meeting with Esther and Haley for each team, to define scope and discuss content; then teams will self-organise. Completion dates: third week in July (Fri 19th) for writing and 2nd August 2024 for editing.
+
+Q2 Budget and Spend [22:08]: see "AI Ethics WG Quarter 2 payments and budget rec" spreadsheet. Vani explained how this doc takes the Q2 budget written by Peter, Esther and herself, and fits it to the work that's actually been done, including the strategy drafting work (with more money than originally planned); and Vani's own work in setting up the WG. No objections. BUT it was noted that Colleen did some co-ordinating work in Q2 that needs to be added.
+
+A Co-chair[26:33] Consensus is reached, the WG is to have a Co-chair who will work with the Global AI Ethics Initiative (GEI) team (Haley, Esther) and with LeeLoo as the other Co-Chair, but from the Foundation side.
+
+Selecting Co-ordination Roles for Q3 [29:58]: A Cryptpad document will be created so anyone/everyone can drop anonymous comments in favour (or otherwise) of the “contestants” for various posts including the Co-chair role, to help us decide. 
+Those interested: 
+Co-chair: Colleen, Clement, Duke, Vani.
+WG Reportbacks: Jenn
+Async work support: Love, Gorga, Malik, Slate.
+WG internal management: Kenichi, Sucre, Ayo.
+
+Q2 quarterly report, and Budget for Q3 [41:28]: Have been submitted, Members of the WG who are Core Contributors are reminded to submit consent forms for the WG budget and for other G and WG budgets.
+
+Forum for AI ethics discussions [42:12]: Peter will create the forum. Clement signified interest in moderator role, which will be rewarded from the contingency budget.
+
+When to meet [54:47]: Meeting time will move to 14:00 UTC, and next meeting is 8th July 2024.
+
+Meeting ends: 59:17.
+
+Note: this meeting summary significantly amended and tidied by Vani - issues such as lack of clarity in narrative section and some things incorrectly documented; not including things as decisions/action items; not using decision rationales
+
+
+#### Decision Items:
+- There will be a co-chair role
+  - [rationale] useful to have liaison with GEI
+  - [effect] affectsOnlyThisWorkgroup
+- Meeting time will stay on Mondays, fortnightly, but will move to one hour earlier (14:00 UTC) 
+  - [rationale] to suit timing needs of the people who are mainly attending
+  - [opposing] none
+  - [effect] affectsOnlyThisWorkgroup
+- We will have an open but tightly moderated forum for AI ethics discussion; and it will be placed outside of the Ambassador Program section of Discord
+  - [rationale] Moderation, to ensure all threads are specifically about AI ethics; placement of the Forum is so that it's seen by all, not just Ambassador program.
+  - [effect] mayAffectOtherPeople
+- Discord tag will be given to anyone who comments in the WG Discord; will try to automate it.
+  - [rationale] because it's a form of contribution, and might be better than basing it on meeting attendance , since it's hard to find a meeting time that everyone can do, but Discord posting can be in own time.
+  - [opposing] Some have said there might need to be a hierarchy of Discord membership tags, as there is a difference between those who look, and those who really participate. We agreed to rethink and add a hierarchy later if it feels needed.
+  - [effect] affectsOnlyThisWorkgroup
+- Strategy-drafting teams to consciously work async e.g. via shared docs
+  - [rationale] because people are in different time zones, and we have quite tight deadlines.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to the budget allocations for Q2 outlined in the "AI Ethics WG Quarter 2 payments and budget rec" spreadsheet
+  - [rationale] it rewards the work we are actually doing in Q2, and makes reasonable sense with the original budget
+  - [opposing] none
+  - [effect] affectsOnlyThisWorkgroup
+- Moderation of the Forum will be rewarded from our contingency budget for Q3
+  - [rationale] since we forgot to include a specific budget line for it in the Q3 budget
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Ayo to document and archive meeting summary for this meeting [assignee] Ayo [due] 28 June 2024 [status] done
+- [action] Peter to create a forum sapce for ethics discussions on Discord: done during the meeting itself [assignee] Peter [due] 24 June 2024 [status] done
+- [action] Vani to schedule future meetings for 14:00 UTC [assignee] CallyFromAuron [due] 8 July 2024 [status] in progress
+- [action] Vani to create a document for anonymous comments for WG members on assigning admin roes for Q3 [assignee] CallyFromAuron [due] 25 June 2024 [status] done
+- [action] Vani and LeeLoo to set up orientation meetings next week for the three strategy-drafting teams with Haley and Esther [assignee] CallyFromAuron, aetherblade [due] 5 July 2024 [status] todo
+- [action] Vani to add costing for Colleeen's Q2 work to "AI Ethics WG Quarter 2 payments and budget rec" spreadsheet  [assignee] CallyFromAuron [due] 1 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership, workgroup membership, co-chair, co-chair selection, role selection, date of next meeting, meeting time, Q2 budget, Q3 budget, Q2 quarterly report, Async, strategy, writing, editing, ME6 bot, membership criteria
+- emotions: interesting, contributive, Collaborative, insightful
+
+
 ## Wednesday 26th June 2024
 
 
