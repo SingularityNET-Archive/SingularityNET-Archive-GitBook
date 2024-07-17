@@ -4,6 +4,42 @@ description: Mon 22nd Apr - Sun 28th Apr 2024
 
 # Week 17
 
+## Tuesday 23rd April 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], PeterE, guillermolucero, jay05|judithW, 5oundwave5, Boaz, Clement Umoh, CollyPride, Grace Rachmany, Iain, Photogee, CallyFromAuron, WaKa, Billy, Duke, hogantuso, EstherG, PureRelativity(Curtis), Haley, lord kizzy, Elizabeth Cusma, Nebula1224
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 94
+- Working Docs:
+  - [ASI token merger useful resources](https://docs.google.com/document/d/1HXkP6mo0jUJVFfpMSS82igfMgQQvS43QxnfL81_nBi8/edit?usp=sharing)
+  - [token merger vision paper](https://434267010-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FE0eZgP8lxRNljW57Uw4H%2Fuploads%2FzuLTqcvU0P6PejPUONJG%2FArtificial%20Superintelligence%20(ASI)%20Alliance%20Vision%20Paper.pdf?alt=media&token=e794c589-d4ef-44d3-97c0-697b06956479)
+  - [Gov Sandbox Turn #1 - Testing Tools](https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=0s) Introduction
+[00:51](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=51s) Ambassador Program Overview 
+[01:16](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=76s) Mentions - Moderator Workgroup, Q2 Budget Deadlines, Core Contributors
+[03:30](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=210s) Latam Ambassador Guild
+[11:30](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=690s) Latam Ambassador Guild’s Goals And Objectives
+[28:30](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=1710s) Duke On The Creation Of An African Guild
+[32:40](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=1960s) Introduction To The Global Ai Ethics Initiative
+[38:50](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=2330s) Mechanism For Governance Funding
+[53:42](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=3222s) Elizabeth’s Introduction
+[01:01:11](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=3671s) Discussions On The Merger
+[01:04:00](https://youtu.be/WViXAvWbzdU?si=_X8DDBx6O0_9XMZo\&t=3840s) Conclusions
+
+#### Keywords/tags:
+- topics covered: AI ethics, GEI, Global AI Ethics Initiative, Token merger, Governance, funding, Supervisory Council, Decentralization Blueprint, Decentralisation Blueprint, LatAm, moderator workgroup, Q2 budget, deadlines, core contributors, regional expansion, Creative Commons, Elinor Ostrom, Ostrom, Decentralization, African guild
+- emotions: participatory, informative, Ambitious, forward-looking, new initiatives, enthusiastic
+
+
 ## Wednesday 24th April 2024
 
 
