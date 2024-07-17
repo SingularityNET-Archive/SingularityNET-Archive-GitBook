@@ -6,6 +6,7 @@ description: Mon 15th Apr - Sun 21st Apr 2024
 
 ## Tuesday 16th April 2024
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -51,6 +52,61 @@ Discussion of the forthcoming token merger, and how we might collaborate with Fe
 the new "community engagement group" from Marketing Guild requesting proposals for community engagement projects; questions about who is deciding and what are the criteria?
 
 discussion of decision-making tools and testing them
+
+
+
+
+#### Keywords/tags:
+- topics covered: Token merger, voting, fetch and ocean, community governance, Facilitation, facilitators collective, moderator workgroup, moderator, deep funding town hall, Decentralisation Blueprint, RFP, fetch, ocean, Supervisory Council, community contribution, paying for community contribution, payment, community engagement, deep funding round 4, contribution, open source, open source ethos, attribution, Consenz, testing tools, decision making software, Loomio, Ethelo
+- emotions: Discursive, participatory, critique, questioning, holding to account
+
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], CallyFromAuron [documenter], Peter, CollyPride, Judith, Nicola Salvagni, Stephen, Curtis, 5oundwave5, Photogee, WaKa, Robert Bedoya, esewilliams, Tevo, osmium, Godfather, Haley, Kenichi, Guillermo, Slate, CallyFromAuron, Gorga Siagian, hogantuso, oep, ToneTech, Will Tatz, Billy
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 93
+- Working Docs:
+  - [ASI token merger useful resources](https://docs.google.com/document/d/1HXkP6mo0jUJVFfpMSS82igfMgQQvS43QxnfL81_nBi8/edit?usp=sharing)
+  - [token merger vision paper](https://434267010-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FE0eZgP8lxRNljW57Uw4H%2Fuploads%2FzuLTqcvU0P6PejPUONJG%2FArtificial%20Superintelligence%20(ASI)%20Alliance%20Vision%20Paper.pdf?alt=media&token=e794c589-d4ef-44d3-97c0-697b06956479)
+  - [Gov Sandbox Turn #1 - Testing Tools](https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/w3s6AImUduE?feature=shared" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/w3s6AImUduE?feature=shared\&t=0s) Introduction And Mentions By Peter.
+[00:35](https://youtu.be/w3s6AImUduE?feature=shared\&t=35s) Discussions On Mentions
+[01:05](https://youtu.be/w3s6AImUduE?feature=shared\&t=65s) Details On The Ambassador Program 
+[01:40](https://youtu.be/w3s6AImUduE?feature=shared\&t=100s) Deep Funding Updates From Judith.
+[03:12](https://youtu.be/w3s6AImUduE?feature=shared\&t=192s) Supervisory Council Blueprint.
+[14:00](https://youtu.be/w3s6AImUduE?feature=shared\&t=840s) Discussion On Rewards For The Decentralization Blueprint 
+[27:35](https://youtu.be/w3s6AImUduE?feature=shared\&t=1655s) Moderation Wg Discussions.
+[28:20](https://youtu.be/w3s6AImUduE?feature=shared\&t=1700s) Facilitators Collective Presentation By Vanessa 
+[33:00](https://youtu.be/w3s6AImUduE?feature=shared\&t=1980s) Merger - Open Discussions
+[44:30](https://youtu.be/w3s6AImUduE?feature=shared\&t=2670s) Alliance Wide Government 
+[50:00](https://youtu.be/w3s6AImUduE?feature=shared\&t=3000s) Discussion On Decision Making And Decentralization 
+[53:30](https://youtu.be/w3s6AImUduE?feature=shared\&t=3210s) Grace On Governance Of The System 
+[01:03:00](https://youtu.be/w3s6AImUduE?feature=shared\&t=3780s) Centralization & Decentralization In Singularitynet
+
+#### Town Hall Summary:
+Deep Funding Town Hall will be doing a retrospective of Deepfunding Round 4
+
+Supervisory Council has budget to pay community members for their engagement with the Decentralization Blueprint; discussion of attribution for people's contributions, and open-source ethos; and discussion of how to decide how people will be paid.
+
+Mention of new Moderator workgroup, which will be proposed for Q2 2024
+
+Mention of the Facilitators' Collective and its self-paced training course for facilitators https://thefacilitatorscollective.wordpress.com/project-type/facilitation-course/
+
+Discussion of the forthcoming token merger, and how we might collaborate with Fetch and Ocean in terms of governance https://www.superintelligence.io/, and who initiated the merger (46:51)
+
+The new "community engagement group" from Marketing Guild requests proposals for community engagement projects; questions about who is deciding and what are the criteria?
+
+Discussion of decision-making tools and testing them
 
 
 
