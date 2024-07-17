@@ -100,6 +100,7 @@ Note: this meeting summary significantly amended and tidied by Vani - issues suc
 
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -259,6 +260,71 @@ Note: this meeting summary significantly amended and tidied by Vani - issues suc
 #### Keywords/tags:
 - topics covered: document management, github board, AI ethics, Ethics, ethics of AGI, good meeting summaries, LLMs, LLM development, AI tooling, open source
 - emotions: Organised, inclusive
+
+
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], Tevo, Gorga Siagian, Ayo, lord kizzy, Effiom, Kenichi, Peter, Onize, martinsoki, Advanceameyaw, Boaz
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Meeting video: [Link](https://youtu.be/8xcW-jhIAmw)
+- Miro board: [Link]( https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764593233252779&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+  - [Knowledge Base WG Infographics](https://drive.google.com/file/d/1S24dJki0gT7oZrDy96IfA5Tz8OkyHm9l/view)
+  - [Draft: Async Organising Process](https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62)
+
+#### Agenda item 1 - Review on Knowledge Base WG Infographics - [carry over]
+
+#### Discussion Points:
+- What is Knowledge Base WG purpose?
+- How do you get to be part of Knowledge Base WG?
+- What do we do in the workgroup?
+- How do we organize meeting information?
+- Would the infographic really aid with onboarding?
+
+#### Decision Items:
+- We will continue to use an Infographic as an onboarding tool for each meeting
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Remove the meeting notes section from the infographic [status] todo
+- [action] Include the Proposal link for more details in the infographic [status] todo
+- [action] List the roles and activities in the infographic [status] todo
+- [action] Re-word join the meeting section and make it short and concise in the infographic [status] todo
+- [action] Create other color versions for the infographic [status] todo
+
+#### Agenda item 2 - Async Organizing Administration and Onboarding Process - [carry over]
+
+#### Discussion Points:
+- The onboarding for Async organizing and reviewing activities in WG
+- How much experience do we expect from participants?
+- What does the process look like?
+- How do we conduct live reviews?
+- What are the rewards for organizing and reviewing?
+
+#### Decision Items:
+- We will continue developing the document before we continue reviewing and onboarding new organizers
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Continue drafting and reviewing next meeting [status] todo
+
+#### Agenda item 3 - Prepare and Create GPT that can be organized for the WG - [carry over]
+
+#### Discussion Points:
+- What is the GPT for?
+- What is GPT instructed to do?
+
+#### Decision Items:
+- Carryover testing and building GPT for the next meeting
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: Miro Board, GPT, Infographics, Async, Drafting document
+- emotions: Collaborative, bit quiet
 
 
 ## Thursday 27th June 2024
