@@ -438,6 +438,42 @@ Should we meet again on the 24th and 26th of June for this quarter? 24th was fav
 - emotions: Organised, inclusive
 
 
+## Thursday 13th June 2024
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: Duke [facilitator], love, Onize [documenter], Duke, Onize, Kenichi, Cjfrankie, Victor Maxwell, esewilliams, LadyTempestt, Ayo, SucrenSpice, guillermolucero, lord kizzy
+- Purpose: Strategy meeting to progress the goals of the Guild
+- Working Docs:
+  - [Africa Guild Q3 Budget](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307)
+  - [Pan African Research on best countries to penetrate and onboard with the African guild ](https://docs.google.com/document/d/1v7da6pucrdgEcLgo0quw3_j2p_UDBK-yfNu3pNbuI24/edit?usp=drive_link)
+  - [African Guild Meeting Agenda: 13th June, 2024](https://docs.google.com/document/d/1cOmXt4CsMQ6X3DRA3JiRR7oIMgbpSdROTVpZIIZC7kQ/edit?usp=sharing)
+  - [Skills Database form](https://forms.gle/KzwBdX9nb7LRu4mt6)
+
+#### Narrative:
+We discussed Action items from the last meeting;
+See African Guild Meeting Agenda: 13th June, 2024
+Discussion items:
+ - Meeting Schedule; Should it be Weekly or Bi-weekly?
+ - How do we get more African countries to join the guild and participate in the program? There is currently poor engagement on Discord and in the guild.
+ - Upcoming Quarterly Community bounty scheduled for End of the month (Details in next meeting).
+ - Clement gave updates on his market potential research for Africa Guild.
+ - AMA session update with Ese.
+
+
+#### Action Items:
+- [action]  Duke to get premium Zoom access from Peter [assignee] Duke [due] 20 July 2024 [status] in progress
+- [action] AMA team to finalise plans, goals and target audience  [assignee] Guild Core team [due] 20 July 2024 [status] in progress
+- [action] Wrapping up the budget before the 19th [assignee] Duke [due] 19 June 2024 [status] done
+- [action] Ayo to flesh out details on the guild before the next meeting  [assignee] Ayo [due] 27 June 2024 [status] done
+- [action] Everyone is to update the skills sheet with dework account details for rewards [assignee] everyone [due] 20 July 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: Strategy Guild, planning, membership, skills, Dework, Rewards, Q3 budget, AMA Session Updates, AMA, expansion, target audience, skills database
+- emotions: long, Collaborative
+
+
 ## Friday 14th June 2024
 
 
