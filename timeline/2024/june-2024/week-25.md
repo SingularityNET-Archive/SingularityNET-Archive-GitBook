@@ -284,6 +284,7 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 
 ## Thursday 20th June 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -351,6 +352,52 @@ There were suggestions to include
 #### Keywords/tags:
 - topics covered: skills audit, Getting Started, mentorship, onboarding processes, buddy system, Q2 quarterly report, Quarterly Report, Video Script, Onboarder's form
 - emotions: interesting, funny , speedy , Friendly, Well-attended, Network Issues
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: duke peter [facilitator], Ayo, Onize [documenter], esewilliams, Kenichi, Clement Umoh, Onize, kateri, Cjfrankie, SucrenSpice, PeterE, Ayo, LadyTempestt, hogantuso, guillermolucero, lord kizzy
+- Purpose: Getting more African countries into the Program and Guild
+- Working Docs:
+  - [Onboarding Structure](https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=drivesdk)
+  - [Pan African Research on best countries to penetrate and onboard with the African guild initiatives ](https://docs.google.com/document/d/1v7da6pucrdgEcLgo0quw3_j2p_UDBK-yfNu3pNbuI24/edit?usp=drive_link)
+  - [African Guild Q2 Report](https://docs.google.com/document/d/1E_X6A3CIcPd918EXH5jocNamNeLNQGySisKA4fnYs9A/edit#heading=h.ybfi2uikflvv)
+  - [African Ambassadors Guild Proposal Budget _ 230424 (Quarter 3 budget)](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?usp=sharing)
+
+#### Narrative:
+Introduction: Statutory greeting calls in the multiple languages spoken across Africa by Ese Williams.
+Follow-up on previous Action Items
+Work ongoing on the Onboarding process structure document; Sucre, Love.
+Skills Database: Several people yet to fill in the skill database
+sNET African Guild Research on expansion and penetration strategies into other African Countries under way; critical success expected before next meeting: Clement.
+Initiative and Contribution Framework Document suggested to be opened to the guild or at least to a team of contributors because of necessary scope.
+
+Getting more African countries into the Program and Guild: Suggestion towards strategy as a project by a select team to get more African countries onboard; feels like Nigeria is already at capacity in the Guild: Duke. Onyeka suggests a cross-country community approach while being mindful of the program’s budget. 
+
+Creative quarterly bounties: To be discussed further for ideation in the next meeting.
+Cross collaboration with AI Ethics WG: A SNET African Guild AI Ethics Expo, a collaborative event effort being accomplished alongside the AI Ethics workgroup.
+Town Hall Updates: Takers asked for who will do the townhall updates
+Onboarding Structure Update: Sucre urged people to make further contributions to the onboarding structure document.
+AMA Session Update: Ese reports that the AMA preparations are in the marketing phase and everything on queue.
+Q2 Report and Q3 Budget: Link shared so everyone can see, read and drop comments where they deem necessary. Duke sheds light on the circumstances of the report completion. Also budget approval is not automatic. All fingers advised to be crossed.
+AOB: Sucre wanted to understand why the Telegram group isn’t as active as before. Duke responded that it is difficult to discuss operational subjects on Telegram as there are people in the Telegram group who have yet to onboard to the Ambassador Program itself, which is a prerequisite to being a member. A concern was raised about why we are still using Google Meet and not Zoom. Resolved with an action item.
+Closing: All hands to be on deck for the furtherance of the objectives of the guild. Appreciation to everyone about how the AG call was free from tension that could have come from the Governance call.
+
+
+#### Decision Items:
+- We agreed the next meeting should happen on Zoom.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Ayo to reach out to Peter to make sure our meetings are on the Zoom Calendar on Discord. [assignee] Ayodele [due] 18 July 2024 [status] in progress
+- [action] Clement to onboard volunteers on his action item for African countries penetration strategies. [assignee] All Members [due] 18 July 2024 [status] in progress
+- [action] Identify and touch base virtually with other AI/Web3 communities across Africa  [assignee] All Members [due] 18 July 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: African, African guild, Marketing initiative, Collaboration, expansion, meeting venue, Q3 budget, GEI, Global AI Ethics Initiative
+- emotions: Collaborative, contributive, calm, chatty
+
+
 ## Friday 21st June 2024
 
 
