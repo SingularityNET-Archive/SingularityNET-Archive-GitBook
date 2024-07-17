@@ -124,3 +124,41 @@ Licensing of materials collected from surveys and interviews
 #### Keywords/tags:
 - topics covered: AI ethics, Global ethics initiative, AGI24, visa, Jokerace, naming competition, plutocracy, 1 token 1 vote, education, survey , survey scope, marginalised communities, inclusion, Creative Commons, licensing, Asia Pacific, Internet governance network, South East Asia, SE Asia, Translation, virtual participation, virtual round table
 - emotions: Businesslike., interesting, Organised, good humored
+## Friday 5th July 2024
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Ayo, Ines, Emmanuel Issac, Advanceameyaw
+- Purpose: Regular weekly meeting of the Writers' WorkGroup in the SingularutyNET Ambassador Program
+- Working Docs:
+  - [WWG Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+
+#### Narrative:
+The purpose of this meeting was to cite the WWG Q2 journey and how we can move forward progressively. The meeting also focused on the points system allocation from June and Zealy updates.
+
+The meeting started with Kenichi welcoming, and then he mentioned that we only had a few items to discuss on the agenda. He started by citing the WWG Q2 journey and how we can move forward progressively.
+
+Secondly, he mentioned the points system allocation from June and the reward balance in the Treasury. He was impressed with the performances from June, and he pointed out that whether we increase Q3 deliverables or not or our budget gets slashed, we can also visit the points system reserve to draw more pools. He also shed light on the Q3 budget concerns and the need for members to consent to the budget proposal after the meeting.
+
+Following a discussion with the points system, Kenichi shared his screen, and he showcased the publication matrix on Medium. In the month of June, 6 articles were published on the ecosystem page, which amassed 803 reads, amounting to 1.5k views. Owing to the fact that the SingulularityNET community page is still in its infancy, the page has also amassed over 133 views, 71+ reads, and 17 followers. Without hesitation, Advance Ameyaw suggested that we strive to increase the community page engagement and also attract new followers by implementing a system, where people can invite friends and get points. Kenichi appreciated his contribution and said that we already have a system that works, which is Zealy itself, and there is an invite-friend quest on the board!
+
+Progressively, we moved over to the Zealy side of things, and Kenichi announced that the current sprint is 10 days away from ending. Following that, we discussed the X Spanish page; Kenichi also mentioned that he'd love to know how Mikasa and Ines are tracking their activity hours — the need for tracking activity hours is essential because it is part of the concerns that were raised in Q2. He also added that the Scribes and Scribblers should try to attend the governance call whenever concerns like this are raised.
+
+Kenichi emphasized the need for having the “pupil tag,” while stating that we give the tag to people who attend our meetings.  Since our Dework channel is private, people with the pupil tag will be able to see our channel and follow up on discussions around the WWG. More so, Kenichi headed over to the “Scribbler Onboarding Form” to see how many people had filled out the form. We spotted a new response, and we would reach out! Momentarily, Mikasa asked Kenichi why we paused the “biweekly cohort session.” Kenichi cleared the air by saying that people preferred having their onboarding session during the meeting rather than editing documents, he also added that the WWG might reinstate the cohort session once again.
+
+As a matter of finality, Kenichi announced the launch of the new “Mindplex Series: Super AI.” Lastly, he stated that he will work on the first series while other Scribblers will write on the future series yet to come. 
+
+
+
+#### Decision Items:
+- Following a discussion with Zealy and the SNET community page, Kenichi decided that there should be a Spanish quest tailored to grow the X Spanish. 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to chase Mikasa and Inés to get updates on X management and how they track their hours. [assignee] Kenichi [due] 5 July 2024 [status] done
+- [action] Kenichi to chase the individual who filled out the Scribbler Onboarding Form to see whether he or she will be interested in taking the WWG test. [assignee] Kenichi [due] 12 July 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: Zealy, medium matrix, community page, zealy quest, points system, Q2 recap, mindplex.AI, Dework, Onboarding, Q3 proposal, WWG Test, consent, cohort session
+- emotions: speedy , calm, Welcoming, forward-thinking, Collaborative, progress-oriented
