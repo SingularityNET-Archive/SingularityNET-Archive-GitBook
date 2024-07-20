@@ -6,6 +6,7 @@ description: Mon 1st Jul - Sun 7th Jul 2024
 
 ## Monday 1st July 2024
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -45,6 +46,86 @@ Billy and Gavriel addressed concerns about the budget. Ayo clarified the distinc
 #### Keywords/tags:
 - topics covered: Budget , Strategy Guild, Documentation, contribution, Workshop, Tasks, management, Facilitation
 - emotions: Collaborative, decisive, progressive
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], Tevo, CallyFromAuron, Peter, osmium, Effiom, lord kizzy, Onize, kateri, malik, SucrenSpice, Advanceameyaw
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Meeting video: [Link](https://youtu.be/dmlm69zChBA)
+- Miro board: [Link]( https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764588331185840&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Quarterly Workgroup Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [Treasury Guild Proposal Q3 2024](https://docs.google.com/document/d/16EmdnI9KXEF0iTfzdtSamRupuM3PITxlcfxqo4JT1o0/edit#heading=h.9t5jkakh8028)
+  - [Treasury Guild Report for 2024 Q2 Proposal](https://docs.google.com/document/d/1gUfkeZCwtw28gmpRShStBgRsOBaj6kRnxaJ7Ih2zZag/edit#heading=h.1w2fce1nfvp0)
+
+#### Agenda item 1 - Review of Increase in Q3 Budget - [carry over]
+
+#### Discussion Points:
+- How would budget-fitting be managed?
+- The need to inform Guild/WG whose budget have been approved of a tentative lowering percent figure before budget-fitting is finalised
+- Possibilities of increasing the budget of the entire Ambassador Program
+- What should be the tentative lowering percent figure be?
+
+#### Decision Items:
+- Budget fitting will be applied to all Q2 budget request once all proposals are finalized
+  - [effect] mayAffectOtherPeople
+- The proposal budget can be reduced and increased after submission in each iteration
+  - [effect] mayAffectOtherPeople
+- If the budget is increased above 10% after first submission, a new consent round is needed
+  - [effect] mayAffectOtherPeople
+- Each Guild/WG manages their own budget and decides what to they don't do or where they lower funds
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Work on budget-fitting for Q3 [assignee] Tevo [due] 8 July 2024 [status] todo
+
+#### Agenda item 2 - Next Steps on finalising Q3 Budget - [carry over]
+
+#### Discussion Points:
+- Discuss on the new timelines for the final phase of Q3 proposals
+- Proposed dates for the final iteration
+- Would there be need for another iteration and consent round?
+- Potential retrospective look at Q3 budget process during Gov WG on 16th July
+
+#### Decision Items:
+- Another consent round might be needed if WG completely change their proposals
+  - [effect] mayAffectOtherPeople
+- Gov WG Review 9th July
+  - [effect] mayAffectOtherPeople
+- IF NEEDED: new Consent Forms on 10th July
+  - [effect] mayAffectOtherPeople
+- The proposed timeline for the consent round is 10th - 14th July 2024
+  - [effect] mayAffectOtherPeople
+- Final Treasury Guild Review 15th July
+  - [effect] affectsOnlyThisWorkgroup
+- Gov WG Retrospective on whole process on 16th July
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Prepare consent form for next round if required [assignee] Tevo [due] 9 July 2024 [status] todo
+
+#### Agenda item 3 - Summer Time - [resolved]
+
+#### Discussion Points:
+- Outlook of program activities during summer break
+- The effectiveness of having a vacation calendar?
+- Summer break might aid WG in managing their budget for Q3
+
+#### Decision Items:
+- Entire month of August off for Treasury Guild
+  - [effect] affectsOnlyThisWorkgroup
+- Guilds/WG to decide how they would navigate their activities during the summer break
+  - [effect] mayAffectOtherPeople
+- No significant decision to be made during the summer break
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: Budget fitting, Q3 budget, consent, Summer break, Lowering percent, management, Iteration
+- emotions: decisive, bit quiet, Collaborative
+
+
 ## Tuesday 2nd July 2024
 
 ### AI Ethics WG
