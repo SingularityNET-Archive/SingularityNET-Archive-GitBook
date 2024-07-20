@@ -82,3 +82,56 @@ Those working on Strategy drafting Teams (writing and editing groups) should ide
 #### Keywords/tags:
 - topics covered: workgroup tags, forum moderators,  Admin Roles, change meeting time, Budget cuts, AGI conference attendees, forum, visa, Q3 budget, AI Ethics conversations, learning resources, GitHub
 - emotions: friendly , informative, calm, engaging, Collaborative
+## Wednesday 10th July 2024
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Clement Umoh, kateri, osmium, WaKa, malik, Slate, Photogee, Kenichi, Mikasa, GorgaSeagian, sakujennbornean, Franklynstein
+- Purpose: - Tasks Update go through dework  - Review sheet post productions and rework showcase - Ai for beginners and Learn about Decentralized AI merge ?  - Clement's infographic showcase  - Gorga's proposal - Fetch and Ocean resources start off 
+#### In this meeting we discussed:
+- Tasks Update go through Dework 
+- Review sheet post productions and rework showcase
+- Ai for beginners and Learn about Decentralized AI merge ? 
+- Clement's infographic showcase 
+- Gorga's proposal 
+- Fetch and Ocean Task distribution 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Notified and discussed tasks assigned and the updates on the tasks on Dework 
+- Slate mentioned that it was decided in the previous meeting that Ese will be taking up the intiial document for Ai for Beginners
+- There was a discussion regarding merging of "AI for Beginners" and "Understanding Decentralized Ai" into one single project as "Ai for beginners"
+- SNET reworked infographic was discussed 
+- Kenichi was advised to bring up the initial document for his project "webinar series" 
+- Osmium said that we dont currently need any rework for Awakening Health video 
+- Osmium and Photogee will be discussing whether a rework of that video is needed or not 
+- Gorga shared his proposal of making a website wiki for SNET and Ambassador Program and everybody liked the idea 
+- Fetch and Ocean infographics are assigned and the work on it had started concluding from the discussion on it in todays meeting 
+- There was also a discussion for a landing page for ACP/ CCCP
+
+#### Decision Items:
+- Osmium and Waka to take up Fetch infographic 
+  - [rationale] Diverse knowledge regarding the project
+  - [opposing] Nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Malik and Gorga to take up Ocean Infographic 
+  - [rationale] Able to deliever fast and research properly 
+  - [opposing] nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Kenichi to be making initial document for his project under education "presentation series"
+  - [rationale] project is proposed by kenichi 
+  - [opposing] nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Merge "Understanding Decentralized AI" & "Ai for beginners "
+  - [rationale] Everybody agreed 
+  - [opposing] Nil 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Assign tasks for Fetch and Ocean infographic and Kenichi's initial document  [assignee] Slate [due] 11 July 2024 [status] done
+- [action] Find out the budget amount after cut and fit accordingly  [assignee] Slate [due] 17 July 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: fetch and ocean, task rework assignment, review team, Blueprint documents, Rework discussions, budget discussion, projects merger, Ai for Beginners, infographics, ACP, landing page, Wiki
+- emotions: productive, Collaborative, Businesslike.
