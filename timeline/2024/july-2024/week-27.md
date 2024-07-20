@@ -124,6 +124,43 @@ Licensing of materials collected from surveys and interviews
 #### Keywords/tags:
 - topics covered: AI ethics, Global ethics initiative, AGI24, visa, Jokerace, naming competition, plutocracy, 1 token 1 vote, education, survey , survey scope, marginalised communities, inclusion, Creative Commons, licensing, Asia Pacific, Internet governance network, South East Asia, SE Asia, Translation, virtual participation, virtual round table
 - emotions: Businesslike., interesting, Organised, good humored
+## Wednesday 3rd July 2024
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], esewilliams, Clement Umoh, Slate, sakujennbornean, martinsoki, oep, malik
+- Purpose: - Budget Cuts Distribution -Ese assignment of AI for beginner project - ACP Blueprint deadline - redistribution of tasks 
+- Working Docs:
+  - [Education Info and Vids ](https://docs.google.com/spreadsheets/d/1LLTuBxAV4Q8nKuBdbh4unKRg10pKfOOm4_wEeVz3YxU/edit#gid=0)
+  - [Review Sheet for quizzes ](https://docs.google.com/spreadsheets/d/18OHO1HZ7gPRvlQhy9QHVijg_Nanv2z0T4bH3h2EETdU/edit?usp=sharing)
+  - [Budget Request Concerns ](https://docs.google.com/spreadsheets/d/1eTDWvqulA6J4oQuvwI4-Sk_p8Uiv-pZOxK-fQpxWyvY/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Budget Cuts Distribution
+- Ese assignment of AI for beginner project 
+- ACP Blueprint deadline 
+- redistribution of tasks 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- we had a discussion on how to fit our budget with all the projects 
+- Ese to take up blueprint of Ai for beginners to highlight its objectives and tasks related to it 
+- Commenting of ACP blueprint will last till friday 
+- Task redistribution was done to active members for delayed tasks 
+- Clement said that he is sick and will soon be deleivering his info as he gets better
+
+#### Decision Items:
+- Ese task creation for blueprint 
+  - [effect] affectsOnlyThisWorkgroup
+- merge "Ai for beginners" and "understanding Decentralized Ai" docs
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: ACP, Blueprints , Budget , project assignment , AI for beginners
+- emotions: productive,  Collaborative, Businesslike., speedy 
+
+
 ## Friday 5th July 2024
 
 ### Writers Workgroup
