@@ -384,6 +384,7 @@ Note: this meeting summary significantly amended and tidied by Vani - issues suc
 
 ## Friday 28th June 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -407,6 +408,49 @@ Note: this meeting summary significantly amended and tidied by Vani - issues suc
 #### Keywords/tags:
 - topics covered: Video Edit, Weekly updates, Budget Reduction, Budget , Town Hall Summary Edit, Budget fitting, Treasury Guild meeting, social media, social media access
 - emotions: Casual, speedy , productive, Organised, Thoughtful , frustrated
+
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi, Cjfrankie  [facilitator], cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Slate, Ayo, Onize, Kareem, Pablos, Nebula1224, Advance Ameyaw, Ines, kateri
+- Purpose: Reflection on the WWG Q2 achievements, discuss the points system and how to increase transparency, and updates from Zealy and Notion side of things.
+- Other media: [Link](https://snetambassadorprogram.substack.com/)
+- Working Docs:
+  - [WWG Scribblers Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+  - [AI's Impact on Jobs and Workforce](https://medium.com/singularitynet-ambassador-community-page/ais-impact-on-jobs-and-workforce-ec1ecb41b530)
+
+#### Narrative:
+The meeting started with Cjfrankie welcoming everyone to the meeting, and then Advance Ameyaw introduced himself, highlighting his skills and interest in the writer's workgroup. Following that, Cjfrankie asked Lady Tempestt, and Devon to share updates on their task, which they did!
+
+Kenichi hops on the call and takes the wheel. As Q2 2024 concludes, the WWG reflects on our achievements in Q2. With screen sharing, Kenichi shares the community page progress — so far, four authors have published their articles, namely Ines, Devon, Cjfrankie, and Lady Tempestt.
+
+Progressively, Kenichi shared an update from the Zealy and Notion sides of things, highlighting our journey and the progress the workgroup has achieved in the last few months. We also talked about our substack and how to implement a comment session for people to voice their opinions as they read the monthly recap. Kenichi also pointed out that we have a French speaker in the person of Emmanuel Isaac — going forward, he will be managing the WG French page on X.
+
+Momentarily, Onize, who recently took the WWG, asked, “Can aspirants who didn't pass the WWG test still take on tasks?” This question was followed up with Kenichi’s reply, saying that the WG might implement the “taskforce mechanism.” The idea is to enable people without the Scribbler tag who possess certain skills like graphics, to be able to pick up tasks and earn rewards for their contributions.
+
+We reached our Q2 KPIs through collaborative efforts - see y'all next quarter!
+
+We had discussions centered around the points system and how to increase transparency  — Lady Tempestt, who emphasized making the system more transparent because many people in the community seem to have little knowledge about how it works. Kenichi shares the metrics, and what’s being measured, and how contributors earn the allocation. In view of the points system allocation and how to be more transparent, Lady Tempestt suggests that the WG could write a detailed document that highlights how the points are assigned and why people get a certain share.
+
+The meeting ended with Kenichi announcing the trivia session that would be held today, noting that everyone should get ready for a thrilling session. Everyone expressed their thoughts, and we talked about the current people leading the trivia and how they could make room for other people to win; we all laughed, and we called it a day! See y'all next quarter.
+
+
+
+#### Decision Items:
+- Having gone through the SNET ambassador’s substack, it's clear that we have published only one article — given the fact that the SNET ambassador program recaps go out once a quarter. We have decided that the monthly recap will go out every month moving forward.
+  - [rationale] Publishing the recaps on a monthly basis will bootstrap the substack engagement and it will open door for more acquisition.
+  - [effect] affectsOnlyThisWorkgroup
+- We are looking to add a comment section on the substack to allow readers to voice their thoughts after they digest the monthly recaps.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Learning Points:
+- With screen sharing, Kenichi showcases how the points system works. We learned about the metrics he tracks (meeting attendance, note-taking, article suggestions — to name a few!)
+
+#### Keywords/tags:
+- topics covered: Notion, Q2 report, Taskforce, medium, monthly substack, Zealy sprint, community page, points system, budget reserve
+- emotions: interesting, Discursive, lengthy, Welcoming, funny 
 
 
 ## Saturday 29th June 2024
