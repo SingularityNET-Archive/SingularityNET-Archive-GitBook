@@ -135,3 +135,55 @@ Those working on Strategy drafting Teams (writing and editing groups) should ide
 #### Keywords/tags:
 - topics covered: fetch and ocean, task rework assignment, review team, Blueprint documents, Rework discussions, budget discussion, projects merger, Ai for Beginners, infographics, ACP, landing page, Wiki
 - emotions: productive, Collaborative, Businesslike.
+## Saturday 13th July 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], martinosoki, oep, lord kizzy, Gorga Siagian, flyn, Photogee, rebel, scarecrow, hufiumer69, hotasiro
+- Purpose: The meeting focused on workgroup creation updates.
+- Media link: [Link](https://drive.google.com/drive/folders/1jH4jnpQ6Zx0R2wUw2xMk2yugICsTcThM?usp=sharing)
+- Working Docs:
+  - [Mentors Sheet](https://docs.google.com/spreadsheets/d/1RIXcGennBuz-wN6NKjAB2U1CyNgBll-To89y2ihIy6Q/edit?gid=0#gid=0)
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Malik presented the Education Guild department, suggesting the building should resemble a school or college. Each classroom would represent a spin-off project with corresponding infographics on the board. (Watch the education guild video in the drive folder link under the media section)
+- Scarecrow provided the Treasury Guild creation update. They have created 6 NPCs representing guild members, who were well-received. Creation of the building is ongoing. (Watch the Treasury guild video in the drive folder link under the media section)
+- Gorga provided an update on the creation of the Archives workgroup, stating that it is in the initial stages and will demonstrate progress at the upcoming meeting.
+- Rebel updated that the Dework PBL workgroup creation is in its initial phase. He showed NPCs representing guild members as anime characters. Members proposed they be depicted as humans for a more professional look.  (Watch the Dework PBL video in the drive folder link under the media section).
+- OEP announced that the progress of creating the R&D Guild department will be shown at the next meeting.
+- Slate emphasized the need to achieve the proposal goals by all means.
+- Slate inquired about the mentors' progress and found that Lord Kizzy, Gorga, and Slate have finished mentoring their assigned students, but Malik was unable to do so. (see the mentor sheet doc under the working docs section)
+- Slate answered Lord Kizzy's questions, demonstrating how to animate the prop, attach it to the NPCs, and set up the dialogue box. He also noted that we can use dialogue boxes from the toolbox as long as they are not copyrighted.
+- Lord Kizzy updated on video workgroup creation progress, showcasing NPCs animations and mentioning upcoming character and animation additions. (Watch the video workgroup video in the drive folder link under the media section)
+
+#### Decision Items:
+- Avoid using NPCs that look like anime characters.
+  - [rationale] for a professional look
+- Dialogue boxes used should not be copyrighted.
+  - [rationale] The game can be taken down by their use.
+- All the destined departments to be created in this quarter 
+  - [rationale] To ensure presentation in the quarterly report and avoid concerns about unfulfilled deliverables.
+
+#### Action Items:
+- [action] Department Creation - Education Guild [assignee] malik, hufiumer69 [due] 27 July 2024 [status] in progress
+- [action] Department Creation -  Treasury Guild [assignee] martinsoki, scare-crow [due] 27 July 2024 [status] in progress
+- [action] Department Creation - Archival Workgroup [assignee] GorgaSeagian, kateri [due] 27 July 2024 [status] in progress
+- [action] Department Creation - Dework PBL [assignee] rebel, Photogee [due] 27 July 2024 [status] in progress
+- [action] Department Creation - RnD Guild [assignee] oep, CollyPride [due] 27 July 2024 [status] in progress
+- [action] Animation & Dialogue System (Video Workgroup) [assignee] lord kizzy, GorgaSeagian [due] 27 July 2024 [status] in progress
+
+#### Game Rules:
+Last Man Standing - Battle Royale game - final survivor wins the game. 
+Players: Devon, Martinsoki, lord kizzy, photogee, hotasiro, rebel, hufiumer, flyn, scare crow, Gorga.
+
+
+
+#### Leaderboard:
+- 1st Hufiumer
+
+#### Keywords/tags:
+- topics covered: Roblox, metaverse, department creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation
+- emotions: Friendly, Collaborative, Deliberative, informative, focused on reporting
+- games played: Battle Royale
