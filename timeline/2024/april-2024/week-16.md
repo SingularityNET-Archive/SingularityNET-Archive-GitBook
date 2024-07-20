@@ -7,6 +7,7 @@ description: Mon 15th Apr - Sun 21st Apr 2024
 ## Tuesday 16th April 2024
 
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -114,6 +115,73 @@ Discussion of decision-making tools and testing them
 #### Keywords/tags:
 - topics covered: Token merger, voting, fetch and ocean, community governance, Facilitation, facilitators collective, moderator workgroup, moderator, deep funding town hall, Decentralisation Blueprint, RFP, fetch, ocean, Supervisory Council, community contribution, paying for community contribution, payment, community engagement, deep funding round 4, contribution, open source, open source ethos, attribution, Consenz, testing tools, decision making software, Loomio, Ethelo
 - emotions: Discursive, participatory, critique, questioning, holding to account
+
+
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], Felix, Photogee, CallyFromAuron, PeterE, osmium, guillermolucero, SucrenSpice, Duke
+- Purpose: Weekly GovWG Meeting
+- Working Docs:
+  - [Governance Sandbox - tool testing](https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing )
+  - [google form used for the Q1 budget - use as a model for the other decisions](https://docs.google.com/forms/d/e/1FAIpQLSeRPU26UXer7i0a5rNUo1njrZwnhjrOfFMcClGBYBVcfjQGyw/viewform  )
+
+#### Narrative:
+On “naming”,
+- How to frame it? This quarter, we are trialling consent decision-making processes, so we need a proposal. Should it be "change the name" or "don't change it"? Which one is used would probably affect the results, since generally people tend to agree with a proposal rather than argue against it.  Proposal is that it should be a 2 step process: “Change the name” but without specifying what to change it to, and then decide what the new name should be afterwards.
+- We need a context-setting doc to explain what decision is being made, and maybe collate some pros and cons that have been shared in the community already. These should be sourced (i.e. not our opinions, but things that have been said up to now, ideally with links). Onboarding WG can do this.
+- Citizen OS (the proposed decision making tool for this decision) seems quite intuitive, so altho Onboarding could also look at creating a video walkthru of it, this is probably not needed.
+- We didn’t agree how we will progress the naming decision, or who will share it with Core Contributors and when.
+
+On tooling,
+- We discussed using Citizen OS or Unanimous tool (both free and OS) for the Naming and Q2 Budget decisions, and agreed on Citizen OS
+- Unanimous could give us a demo: Week of 22nd April?
+- People could also use both of these tools in their workgroups - either for real decisions, or simulated ones
+- We didn’t decide whether we will try to use 1 account or everyone create their own.
+- We agreed that whenever a tool is used, the users should collect some feedback on how it went. - There was discussion of what the criteria should be to assess a tool - suggestions are being drafted in the doc Gov Sandbox Turn #1 - Testing Tools but we didn’t finalise it or decide how and where to share the criteria.
+- Concerns were raised on privacy/transparency - we don’t know who can see people's responses in Citizen OS and agreed we need to find out, and tell people, before we ask them to use the tool.
+
+On Q2 budget:
+- We agreed there should be individual decisions on each WG’s budget. There are 14 WGs in total, but not all of them will need to submit a budget request for Q2 due to rise in token price and/or budget elements from Q1 carrying over, so it will be fewer then 14 decisions.
+- There was discussion of whether we should set a deadline for all budgets to be submitted and only ask Core Contributors to decide once all the budgets are in, because then we can make informed assessment of the budget allocation overall; or whether it should be a rolling process to accommodate WGs who submit their budget late. We decided to set a deadline for Q2 budgets to be submitted, but didn’t agree on the date.
+- Briefly discussed what the criteria should be for making a decision on a budget, and what should be shared with Core Contributors about this; but didn’t make a decision on this. Carry over to next Governance meeting.
+- We started drafting in the Governance Sandbox:Tool Testing doc how the decision will be set up in Citizen OS. Agreed Guillermo will set it up but we didn’t agree a date - just some time in April.
+
+To be discussed further in a Treasury meeting:
+- whether budget approval should be related to the WG’s quarterly report for the previous quarter, and whether they have done what they said they would do?
+- what level of flexibility a WG should have to reassign their agreed budget in response to changing conditions. Not definitely agreed on?
+
+
+
+#### Discussion Points:
+- Naming decision
+- Q2 budget decision
+- Testing decision making tooling
+- Whether budget approval should depend on submission of a quarterly report for the previous quarter
+- Criteria for making a decision about a WG's budget.
+
+#### Decision Items:
+- On “naming”, the decision that core contributors will be asked to make is only about the name of the role, nothing else. 
+  - [rationale] We should not try to change anything except the name of the role at this point. We are currently meant to be trialling a specific approach (a flat structure based on “you either meet the criteria to be a core contributor, or you don’t”) for the whole of Q2; and we will need to complete that, and get some feedback and analysis of how it worked, before trying to test a different structure.
+  - [effect] mayAffectOtherPeople
+- We will use CitiZenOS for both the Ambassador Naming decision, annd the Q2 budget decision; and will run it as a consent process (i.e. asking for objections, and for what would need to change in order for an objector to give their consent)
+  - [rationale] As a way of trying out the tool; and to fit with our decision to trial consent decisionmaking throughout this Quarter
+  - [effect] mayAffectOtherPeople
+- We agreed to consent on each WG’s Q2 budget individually, in contrast to how it was done in Q1 where the consent process was for the budgets as a whole.
+  - [rationale] To allow people to differentiate between WGs whose budgets they approve, and those they don't.
+  - [opposing] Counter argument that WGs should be free to decide internally what they think is valuable, so the decision should just be on consenting to the overall total across all WGs; but this was a  minority view.
+  - [effect] mayAffectOtherPeople
+- We agreed there should be the same deadline for all WGs for Q2 budget submission, but we didn’t say what that date should be.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Onboarding will produce a doc to explain what the decision on naming is, and collate some pros and cons that have been shared in the community already. [assignee] Onboarding WG members [due] 23 April 2024 [status] todo
+- [action] Guillermo to set up the Q2 budget decision in CitizenOS [assignee] guillermolucero [due] 30 April 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: tooling, consent process, deadlines, Q2 budget, Naming, core contributors, Ambassadors, workgroups, simulated decisions, CitizenOS, criteria, what WGs value, values, Unanimous, budget flexibility
+- emotions: Good natured, Only a few of those present spoke, woolly, indecisive, Discursive, muddled
 
 
 ## Wednesday 17th April 2024
