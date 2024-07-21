@@ -6,6 +6,7 @@ description: Mon 6th May - Sun 12th May 2024
 
 ## Tuesday 7th May 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -37,6 +38,52 @@ Ambassadors could have a presence at AI for Good and/or AGI and continue the fis
 #### Keywords/tags:
 - topics covered: AI ethics, Global Ethics Initiative, policies, interviews, consent, events, marketplace, spinoffs, risk management
 - emotions: Casual, Collaborative
+
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], 5oundwave5, Clement Umoh, CollyPride, guillermolucero, Duke, Robert Bedoya, CallyFromAuron, WaKa, Billy, Will Tatz, Gorga Siagian, SucrenSpice, PureRelativity(Curtis), Tevo, oep, Slate, lord kizzy
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 96
+- Working Docs:
+  - [Ambassador Program Core Contributors (explanation)](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing)
+  - [Ambassador Program Core Contributors (spreadsheet)			](https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing)
+  - [Blueprint for Decentralization Living Document V1.1](https://docs.google.com/document/d/1wcEf9qJHvGh3FdLxXFzN5l0NHuESFLQAgoIJW8zKfKU/edit?usp=sharing)
+  - [Ambassador Program Budget Planner ](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Ambassador Tools](https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/edit?usp=sharing)
+  - [Decision Software Review Sheet (some of the work that Strategy Guild was doing)](https://docs.google.com/spreadsheets/d/1lpi6nrQpzI4_KklPLmy5pSiYGVbJVnu7NS3OwmNL7_0/edit?usp=sharing)
+  - [Grassroots Ethics of the SNET Ambassador Program ](https://docs.google.com/document/d/1DOO2TKNkLBKSFFa5jvgAHm30wjNpRj0uXiVz6YRtI9E/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:23](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=23s) Agenda 
+[01:17](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=77s) What The Ambassador Program Is
+[03:40](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=220s) Strategy Guild, Looking Back At What It Did, And Whether To Revive It
+[05:49](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=349s) Open Session (random Questions)
+[08:54](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=534s) Open Sourcing Our Stuff
+[36:41](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=2201s) Session On Q1
+[52:30](https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x\&t=3150s) Remarks/questions
+
+#### Town Hall Summary:
+Main topics this Town Hall include:
+
+- the idea of reviving Strategy Guild, the things it did in the past (including testing of decision-making tools), and brief opinions on why it faded. (Note from the meeting Chat - Ways to find out what a group has done in the past are their past budgets; their archived meeting summaries; and their Discord.)
+
+- In-depth discussion of open source ethos and culture. Open-source is more than just tools and licences; Open-source also is meant to prevent hidden changes or functionality; "open source" doesn't have to mean working for free, getting ripped off, etc; Open-source is a very specific culture, originally - but has it expnded beyond its original limits?; Do we need to pay more attention to open-source approaches in our work?; Archives' work on how to open-source our documents; idea of building our own open-source tooling, and only using 3rd-party tools temporarily; listing the tools we do use (and note this was done in the past - see "Grassroots Ethics of the SNET Ambassador Program", https://docs.google.com/document/d/1DOO2TKNkLBKSFFa5jvgAHm30wjNpRj0uXiVz6YRtI9E/edit?usp=sharing , which is an outline of tools used in the Program and the ethics behind them, created October 2023 by Incubation Guild; and "Ambassador Tools" https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/edit?usp=sharing , a list of tools used and how they are used in the Program. 
+
+- individual comments on Q1 budget
+
+
+
+#### Keywords/tags:
+- topics covered: open source, open source ethos, Quarter 1 2024, recap, Decentralization Blueprint, Supervisory Council, Q2 budget decision process, Q2 budget, Strategy Guild, tools, tool ethics
+- emotions: engaging, participatory, interesting, sense of community
 
 
 ## Wednesday 8th May 2024
