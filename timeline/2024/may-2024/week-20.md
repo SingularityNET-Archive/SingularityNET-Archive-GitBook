@@ -4,6 +4,36 @@ description: Mon 13th May - Sun 19th May 2024
 
 # Week 20
 
+## Tuesday 14th May 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: Tevo [facilitator], CallyFromAuron [documenter], Tevo, PeterE, jay05|judithW, CallyFromAuron, WaKa, PureRelativity(Curtis), Will Tatz, guillermolucero, CollyPride, Robert Bedoya, Zalfred, Effiom, Clement Umoh, esewilliams, Olokoji
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 97
+- Working Docs:
+  - [Ambassador Program Core Contributors (explanation)](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing)
+  - [Ambassador Program Core Contributors (spreadsheet)			](https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing)
+  - [Blueprint for Decentralization Living Document V1.1](https://docs.google.com/document/d/1wcEf9qJHvGh3FdLxXFzN5l0NHuESFLQAgoIJW8zKfKU/edit?usp=sharing)
+  - [Ambassador Program Budget Planner ](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+
+#### Town Hall Summary:
+This Town Hall was a retrospective on the Ambassador program over the past year, using (and trialling) the AI-powered Swarm tool from Unanimous https://unanimous.ai/swarm/ to vote on several questions on how things are going. These were the same questions we used in a similar Town Hall session a year ago. They were:
+- How well are our repetitions organised?
+- How predictable is our funding?
+- Do we gather often enough?
+- How well have we organised our reputation-building?
+- How clear are our set of principles and roadmaps to sustain growth?
+- Have we established a good environment to connect and share meaning?
+
+
+
+#### Keywords/tags:
+- topics covered: funding, Ambassador Program funding, reputation, principles, roadmaps, community, community governance, connect, meaning, gather, retrospective, Analysis, AI tooling
+- emotions: funny , entertaining, Thoughtful , repetitive, superficial, analytical
+
+
 ## Wednesday 15th May 2024
 
 ### Archives Workgroup
