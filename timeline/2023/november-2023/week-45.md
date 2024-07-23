@@ -1,8 +1,8 @@
 ---
-description: 30th October to 5th November 2023
+description: Mon 30th Oct - Sun 5th Nov 2023
 ---
-
-# Week 44
+      
+# Week 45
 
 {% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=39607712&pane=issue" %}
 
