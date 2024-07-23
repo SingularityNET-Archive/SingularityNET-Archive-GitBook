@@ -1,8 +1,8 @@
 ---
-description: Monday, 29th May to Friday, 2nd June 2023
+description: Mon 29th May - Sun 4th Jun 2023
 ---
-
-# Week 22
+      
+# Week 23
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1573702148" %}
 
