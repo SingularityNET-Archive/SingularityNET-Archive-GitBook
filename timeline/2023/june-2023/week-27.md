@@ -2,7 +2,7 @@
 description: 26th June to 2nd July 2023
 ---
 
-# Week 26
+# Week 27
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1600915559" %}
 
