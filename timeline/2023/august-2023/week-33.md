@@ -2,7 +2,7 @@
 description: 7th August to 13th August 2023
 ---
 
-# Week 32
+# Week 33
 
 {% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=35070391&pane=issue" %}
 
