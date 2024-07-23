@@ -2,7 +2,7 @@
 description: 24th July to 30th July 2023
 ---
 
-# Week 30
+# Week 31
 
 {% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=34268350&pane=issue" %}
 
