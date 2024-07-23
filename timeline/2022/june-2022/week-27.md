@@ -2,7 +2,7 @@
 description: Mon 27th Jun - Sun 3rd Jul 2022
 ---
 
-# Week 26
+# Week 27
 
 ## Thursday 23rd June 2022
 
