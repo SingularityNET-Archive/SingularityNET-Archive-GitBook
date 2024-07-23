@@ -1,8 +1,8 @@
 ---
-description: 30 January to 05 February 2023
+description: Mon 30th Jan - Sun 5th Feb 2023
 ---
-
-# Week 05
+      
+# Week 06
 
 ## Tuesday, 31st January 2023 <a href="#tuesday-24th-january-2023" id="tuesday-24th-january-2023"></a>
 
