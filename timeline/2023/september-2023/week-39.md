@@ -2,7 +2,7 @@
 description: 18th September to 24th September 2023
 ---
 
-# Week 38
+# Week 39
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/58" %}
 
