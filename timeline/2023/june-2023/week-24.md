@@ -2,7 +2,7 @@
 description: Monday 5th June to Friday 9th June 2023
 ---
 
-# Week 23
+# Week 24
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1580734931" %}
 
