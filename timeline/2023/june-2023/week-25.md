@@ -2,7 +2,7 @@
 description: 12th June to 18th June 2023
 ---
 
-# Week 24
+# Week 25
 
 {% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/26#issuecomment-1600915559" %}
 
