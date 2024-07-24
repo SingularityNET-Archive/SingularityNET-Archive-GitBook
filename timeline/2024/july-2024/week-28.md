@@ -84,6 +84,7 @@ Those working on Strategy drafting Teams (writing and editing groups) should ide
 - emotions: friendly , informative, calm, engaging, Collaborative
 ## Wednesday 10th July 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -135,6 +136,68 @@ Those working on Strategy drafting Teams (writing and editing groups) should ide
 #### Keywords/tags:
 - topics covered: fetch and ocean, task rework assignment, review team, Blueprint documents, Rework discussions, budget discussion, projects merger, Ai for Beginners, infographics, ACP, landing page, Wiki
 - emotions: productive, Collaborative, Businesslike.
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: André [facilitator], CallyFromAuron [documenter], André, CallyFromAuron, SucrenSpice, LadyTempestt, lord kizzy, Photogee, kateri, CollyPride, Effiom, Onize
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [Draft AI ethics doc](https://docs.google.com/document/d/1MIItGDkPIBMA6x-_rvIaWvpRE_sKkkz9TdEhao_MVwM/edit?usp=sharing)
+  - [SNET Archive AI features (draft of possible features an AI tool might have)](https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing)
+  - [Q3 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [How to make a document community owned](https://docs.google.com/document/d/1hQs4ocUhT6mrvgn-ZjTO7O2aVDm-KEsYIiPaAOQH1Gc/edit?usp=sharing)
+  - [Meeting issue ](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/178)
+  - [Docs management tool](https://snet-doc-manager.netlify.app/#)
+  - [New Summary Tool Features](https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing)
+
+#### Decision Items:
+- OpenSource paradigm presentation See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/164 - TBD next meeting (24th July) how the work will be presented
+  - [rationale] The wish to engage more people with the issues around Open Source culture and ethos
+  - [effect] mayAffectOtherPeople
+- Governance WG paying Ese to upload their backlog of summaries to the Tool: Vani has messaged Felix to ask him to create a Dework task for it
+  - [rationale] Gov WG has budget to cover this, and they have summaries written and ready to upload, so Dework task is needed since they manage their budget on Dework
+  - [effect] mayAffectOtherPeople
+- André demo'd the new Docs Management tool https://snet-doc-manager.netlify.app/#
+  - [rationale] explaining how we will manage and open-source docs submitted in meeting summaries
+- As planned, André has created a doc ("New Summary Tool Features") collating ideas for the redesign of the summary tool. People who work with the community on using the tool (e.g. Vani, Onyeka) to add any issues they hear about (especially because, due to budget fitting, we might not be able to afford to do as much organised community engagement around this as we would have liked).
+  - [rationale] To start organising ideas for changes and hearing from the community, without necessarily doing direct engagement work.
+  - [effect] affectsOnlyThisWorkgroup
+- RE video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116   Duke has reassigned it to Ayo, but we agreed there are a few issues with Ayo's first draft - may need an edit. We agreed Vani will DM Ayo.
+  - [rationale] Mainly that it is a bit generic, rather than focusing on how *we* in this WG use our GitHub board; and that the voiceover doesn't explain sufficiently what's being done
+  - [effect] mayAffectOtherPeople
+- The work on the Archives Backlog - some people have had to do more work than others for the same pay, as the month they were working on had more meetings to cover. After discussion both in the meeting and earlier in the Discord chat for the group who are working on it, we agreed to keep the money allocation as it is, even though it's not ideal and somewhat unfair; but for future tasks we'll bear this  kind of issue in mind and allocate it better from the start
+  - [rationale] Because working it out per meeting uploaded would be a disproportionate amount of work
+  - [opposing] There were suggestions to try and work it out differently, but people decided it was easiest to leave it as it is.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed that for the "Good Meeting Summaries" task in Q3, Sucre, Clement and Onyeka will continue as the judging team
+  - [rationale] For continuity, as they've just established how to run the competition smoothly. Maybe hand over next quarter if we continue with the competition in Q4.
+  - [effect] mayAffectOtherPeople
+- Holiday: We agreed that we will meet on 24th August as planned, but then will *not* meet in August (meeting dates would have been 7th and 21st Aug). So we return on 4th Sept.
+  - [rationale] Because several people are away for parts of August, so easiest approach is to take a break.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116  -  reassigned to Ayo [assignee] Ayo [due] 24 July 2024 [status] in progress
+- [action] All to add comments to AI ethics doc async: it will only stay open for comments 2 more weeks, and will be reassessed next meeting (24th July) [assignee] all [due] 24 July 2024 [status] in progress
+- [action] Vanessa to write guide on how to make a doc community-owned - draft is in the issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/148 and is open for comments to be discussed next meeting [assignee] Vanessa [due] 10 July 2024 [status] done
+- [action] Ekemini and Ese to liaise outside the meeting on Town Hall presentation on Ubio's work, and decide when to present. They can message André with any questions. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/150 [assignee] Ekemini Samuel, esewilliams, André [due] 10 July 2024 [status] in progress
+- [action]  Ese, Onyeka and Ekemini to work on presentation on tag taxonomy work https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/151 - was presented at TH on 2nd July [assignee] Vanessa [due] 2 July 2024 [status] done
+- [action] André to ask Ubio if he can convert his Excel spreadsheet testing different LLM models into a more viewable format [assignee] Andre [due] 10 July 2024 [status] done
+- [action] Vani and André to meet to go thru André's docs management interface [assignee] CallyFromAuron, André [due] 10 July 2024 [status] done
+- [action] Stephen to tidy up the documentation of the Q2 RAG process, and close the issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/163 [assignee] Stephen [due] 10 July 2024 [status] done
+- [action] Stephen to decide how best to present the "Open-source paradigm" work: postponed to meeting on 24th July as Stephen not present today [assignee] Stephen [QADAO] [due] 24 July 2024 [status] in progress
+- [action] André to create a doc to collate issues that need to be addressed in the Q3 redesign of the meeting summary tool [assignee] André [due] 10 July 2024 [status] done
+- [action] Vani to post in the Discord chat for the backlog work that a) we have agreed to include the Deepfunding Community Governance meetings, and b) the deadline is 3rd July 2024 [assignee] CallyFromAuron [due] 28 June 2024 [status] done
+- [action]  Onyeka will DM Peter to check there is space at TH for the Tag Taxonomy presentation on 2nd July [assignee] lord kizzy [due] 28 June 2024 [status] done
+- [action] Vani to create issues on the GitHub Board for all the forthcoming Q3 work, in time for meeti ng on 10th July - not done yet as we are still waiting for definite info on budget-lowering percentage. Postponed to 24th July [assignee] CallyFromAuron [due] 24 July 2024 [status] in progress
+- [action] Vani to DM Ayo about the GitHub Board walkthru video [assignee] CallyFromAuron [due] 24 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: document management, github board, AI ethics, Ethics, good meeting summaries, LLMs, LLM development, AI tooling, open source, fair pay, payment, GitHub video walkthrough, meeting summary tool redesign, holiday, town hall presentations
+- emotions: Organised, inclusive, participatory, problem-solving
+
+
 ## Saturday 13th July 2024
 
 ### Gamers Guild
