@@ -4,6 +4,67 @@ description: Mon 22nd Jul - Sun 28th Jul 2024
 
 # Week 30
 
+## Monday 22nd July 2024
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, Peter, Gorga, Yemi, Duke, Clement, Kenichi, Onyeka, Tone Tech, Martin Soki, Kateri Nick, Tuso
+- Purpose: Kickstarting the Strategy Guild Research and Workshop Project
+- Other media: [Link](https://app.read.ai/analytics/meetings/01J3DJPKNTCSDYZHMHQAGAQQRR?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Strategy Guild 22nd July Meeting Agenda](https://docs.google.com/document/d/1M4aJp_sklOj8veQh1khupOM-k9J9NPlWHxnMWvFZzbQ/edit?usp=sharing)
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Possible Survey Questions [Strategy Guild]](https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+  - [Strategy Guild Meeting Notes - 15th July](https://docs.google.com/document/d/15ZYkqE-PiO1K_psqpf0DDvO_QagiZWz53gUV8NjmVzw/edit#heading=h.6fyp3cl3ve7w)
+  - [STRATEGY GUILD - FINAL BUDGET - Open Access](https://docs.google.com/spreadsheets/d/1OsZMSEsrU4kKCQYu3OHvQJAhL79y9ReLe0dV6QLGRQM/edit?gid=0#gid=0)
+
+#### Narrative:
+Action Items Checkboxes from the last meeting
+Ayo led the discussion on the action items from the previous meeting.
+The focus was on the completion of the Guild working documents and the development of survey questions. 
+Only 3 people had filled out the working document at the time of the meeting.
+
+Onboard New Members/Core Member Roll Call
+This is a new segment introduced to acknowledge new core members, onboard first-timers, and explain how everyone can contribute and be a part of what is happening within the Guild. 
+
+Q3 for the Guild in Perspective
+The importance of the research and workshop for Q3 was highlighted.
+Research - Contributing to the survey questions is the first step in expressing interest in joining the research team.
+Workshop - Getting two or three representatives from each guild (Marketing, Video, and Writers WG) is the first action item.
+Ayo reinforced the Guild’s inclusive principle.
+
+Adoption of Tools
+The use of GitHub in the Guild will be explored and members should share their email addresses or reach out to Ayo in DM to be added to the group.
+
+Guild Leadership
+Leadership structure was discussed, with emphasis on decentralized leadership structure, and active member participation.
+
+Budget Update
+Our Q3 budget has been approved. A subsequent conversation on budget fitting will take place.
+
+
+#### Decision Items:
+- Extend an invitation to other WGs for next meeting
+  - [rationale] This is to reinforced the guild’s inclusive principle, and also kickstart the workshop project
+  - [effect] mayAffectOtherPeople
+- The meeting time remains unchanged
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Volunteers (i.e. Ayo, Tuso and Onyeka) will engage Writers WG, Video WG, and Marketing Guild respectively to ensure they have representation at the next meeting [status] todo
+- [action] Continue contribution to the Guild’s working document [status] todo
+- [action] Continue contribution to the possible survey questions document [status] todo
+- [action] Create a new sheet in working doc for interest in meeting facilitation [status] todo
+- [action] Core members should indicate interest in facilitating the new sheet in the working doc [status] todo
+- [action] Share previous meeting summaries and this meeting summary [assignee] Effiom [status] todo
+
+#### Keywords/tags:
+- topics covered: Q3 Objectives, Q3 budget, budget fitting, Core member, Guild Membership, survey, research, Q3 Report, tools, meeting time, participation, contribution, facilitation, leadership, decentralization, Video WG, Writers WG, Marketing Guild
+- emotions: Collaborative, interesting, insightful, fun
+
+
 ## Wednesday 24th July 2024
 
 ### Archives Workgroup
