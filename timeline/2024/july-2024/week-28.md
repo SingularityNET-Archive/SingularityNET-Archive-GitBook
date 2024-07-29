@@ -6,6 +6,7 @@ description: Mon 8th Jul - Sun 14th Jul 2024
 
 ## Monday 8th July 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -82,6 +83,51 @@ Those working on Strategy drafting Teams (writing and editing groups) should ide
 #### Keywords/tags:
 - topics covered: workgroup tags, forum moderators,  Admin Roles, change meeting time, Budget cuts, AGI conference attendees, forum, visa, Q3 budget, AI Ethics conversations, learning resources, GitHub
 - emotions: friendly , informative, calm, engaging, Collaborative
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Effiom [facilitator], Effiom [documenter], Ayo, Peter, Effiom, Kenichi, hogantuso
+- Purpose: Review of Strategy Guild Q3 Budget
+- Working Docs:
+  - [STRATEGY GUILD - UPDATED BUDGET](https://docs.google.com/spreadsheets/d/1a0eH1dvLENyvxpK9lQSAgByPa_GHNvZscs9YSmg5z5k/edit?gid=0#gid=0)
+  - [Strategy Guild Budget Concerns](https://docs.google.com/document/d/1e4s9TMi6zoi2RpGNIssNvppA1zTjpfsk-bnjqAfWfWc/edit#heading=h.u0khwamchrf7)
+  - [Strategy Guild Budget Context Document](https://docs.google.com/document/d/1PsUTzgHw-WnNMUDF3mR1uzYqjXVoAa9_yZkz8Q6w7WA/edit#heading=h.nkokrvxgqd5)
+  - [STRATEGY GUILD Q1 REPORT](https://docs.google.com/document/d/1oetSmzKPe0_7VdVUOniZDpBgELiIi68h_lZq2PTQHBI/edit#heading=h.ybfi2uikflvv)
+
+#### Narrative:
+The meeting began late as few minutes was given to allow for others to join the call. The team discussed on the outcome of the last conseting round and how best to proceed with the group's budget request.
+
+Ayo clarified the distinction between weekly meetings, research, and workshops in the budget.
+
+Discussion Points:
+1. How were concerns raised addressed?
+2. What areas of the budget should be updated?
+3. Lessons learnt from the 2nd iteration
+
+
+#### Decision Items:
+- Highlight how concerns were addressed in the new budget in a document
+  - [rationale] It would help better inform the consenting process
+  - [effect] affectsOnlyThisWorkgroup
+- The budget should be updated to reflect the discussions in today's meeting
+  - [effect] affectsOnlyThisWorkgroup
+- Resolution for concerns raised from last iteration should be added to a budget in a separate sheet
+  - [rationale] This would help better inform the consenting process especially for those who raised the concerns
+- Only the dollar figure should be submitted in the budget
+  - [rationale] AGIX price always change
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Add additional sheet for the resolved concerns raised in last iteration [assignee] Effiom [due] 9 July 2024 [status] done
+- [action] Work on updating the budget async [assignee] Ayo, Effiom [due] 9 July 2024 [status] done
+- [action] Re-upload the updated budget to the Ambassador Program budget planner [assignee] Ayo [due] 9 July 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Budget Request, concerns, resolutions, Quarterly Budget Calculator, Quarterly Report
+- emotions: Collaborative, decisive, productive, The meeting was quick and progressive
+
+
 ## Wednesday 10th July 2024
 
 
