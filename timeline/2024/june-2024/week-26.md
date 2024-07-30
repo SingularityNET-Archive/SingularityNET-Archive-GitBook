@@ -96,6 +96,82 @@ Note: this meeting summary significantly amended and tidied by Vani - issues suc
 - emotions: interesting, contributive, Collaborative, insightful
 
 
+## Tuesday 25th June 2024
+
+### LatAm Guild
+
+- Type of meeting: Biweekly
+- Present: Guillermo [facilitator], Ines [documenter], Ines, Caue [translator], Guillermo, Ines, Andrea Dekovic, Martin Rivero, Daniela Alves, Caue, Maria Carmo
+- Purpose: Operations of the Program / #3 Town Hall @SNET_Latam Ambassadors 'El Power Latino de SingularityNET
+- Meeting video: [Link](https://youtu.be/CYkuiJfZsCE?si=8uK_lAeTpO5dG1Pt)
+- Transcript: [Link](https://otter.ai/u/UafNGpTD-8AsmVMddZmAmgOkHLY?view=transcript)
+- Working Docs:
+  - [TH#3 _ LATAM AMBASSADORS GUILD _ 250624](https://docs.google.com/presentation/d/1YKnmpc21ykmh_Jeoqfu_bI5_WTq0CnzoLCg1GphOYtA/edit?usp=sharing)
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+
+#### Agenda item 1 - Strategy Sub-Group - [carry over]
+
+#### Narrative:
+At the third meeting for the regional expansion of the Ambassador program for the LATAM region, the conversation revolved around the importance of community-funded projects, inclusive communication strategies, and decentralization in achieving social impact. Speakers emphasized the need for a clear moment to launch projects, a solid plan, and inclusive communication. They also discussed the potential of blockchain in Latin America, the importance of creating a clear constitution and fair voting system, and the need for a diverse team to handle content creation and marketing. The overall theme was the importance of collaboration, teamwork, and ethical considerations in achieving success.
+
+
+
+#### Decision Items:
+- Onboarding evaluation and selection of members
+
+#### Action Items:
+- [action] Finalize selection of initial team and continue onboarding new members [assignee] Guillermo, Ines [due] 23 June 2024 [status] todo
+- [action] Compile budget and work proposals for next community report [assignee] Guillermo [due] 2 July 2024 [status] todo
+- [action] Review timelines and ensure deliverables are met [assignee] Guillermo, Ines [due] 9 July 2024 [status] todo
+- [action] Coordinate community events and achievement tracking [assignee] Guillermo [due] 9 July 2024 [status] todo
+- [action] Submit translated meeting summaries and group updates [assignee] Ines [due] 9 July 2024 [status] todo
+
+#### Agenda item 2 - Onboarding Sub-Group - [carry over]
+
+#### Narrative:
+The discussion revolved around the importance of communication and collaboration in fostering both personal and professional growth. Andrea, Caballero, and Martinez, representing Mexico, Argentina, and Brazil, delved into the promising potential of blockchain technology in the LATAM region. We shared our diverse experiences in product design and AI, reflecting on both its positive advancements and the challenges it presents. Additionally, we exchanged insights on organizing hackathons in Mexico, underscoring our commitment to promoting inclusivity within the tech industry. Inclusivity in AI development was a recurring theme, as we acknowledged its critical role in shaping ethical and effective AI solutions. We also highlighted Chico Labs' remarkable efforts in decentralized development and their fruitful collaborations with various African initiatives. We proposed creating a dedicated team of ambassadors to onboard individuals from Spanish-speaking and Portuguese-speaking regions, recognizing the importance of a strategic approach and strong community engagement in welcoming new members. Additionally, we discussed our intellectual commitment to our work and proposed a new party line to align our goals and values moving forward.
+
+
+
+#### Decision Items:
+- Beginning Onboarding evaluation and selection of members
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Follow up onboarding form, study and select candidates for final inteview [assignee] Guillermo, Ines, Caue [due] 2 July 2024 [status] todo
+
+#### Agenda item 3 - Marketing Sub-Group - [carry over]
+
+#### Narrative:
+We underscored the crucial importance of decentralized AI development in LATAM, stressing the need for community involvement and ethical considerations to ensure responsible progress. We emphasized the value of collaboration and the necessity of avoiding conflicts to build an efficient communication system that benefits everyone. Our collective effort is focused on enhancing communication among team members, recognizing that strong, clear communication is fundamental to our success and growth as a cohesive unit.
+
+
+#### Decision Items:
+- Beginning Onboarding evaluation and selection of members
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Communication Strategy Draft Q3 [assignee] Andrea Dekovic, Ines [due] 10 July 2024 [status] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+In our recent discussions, we focused on creating a comprehensive roadmap for decentralized operations, ensuring that our processes are efficient and adaptable. We proposed a detailed roadmap for inclusive onboarding, incorporating diverse perspectives to enrich our community. Our conversation also covered important logistical aspects such as budget, workload, and team dynamics, aiming to balance our resources effectively. We explored various notification and communication strategies to improve interactions with colleagues, recognizing our team's responsibility to provide clear documentation and transparent communication to support our collective goals.
+
+
+#### Decision Items:
+- We develop the titles by priority and agree on the translation work to be shared in the next meetings.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Finalize On boarding  [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation
+- emotions: Collaborative, Friendly, Thoughtful , funny , entertaining, challenging
+- other: Step by Step
+
+
 ## Wednesday 26th June 2024
 
 
