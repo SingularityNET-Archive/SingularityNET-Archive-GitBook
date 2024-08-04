@@ -6,6 +6,7 @@ description: Mon 8th Apr - Sun 14th Apr 2024
 
 ## Tuesday 9th April 2024
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -46,6 +47,57 @@ https://www.superintelligence.io/
 #### Keywords/tags:
 - topics covered: Token merger, voting, plutocratic, one token one vote, voting reputation, reputation weight, KYC, fetch and ocean, Governance workgroup, Q2 budget decision process, Q2 budget, Q1 quarterly report, moderator workgroup, moderator, Telegram, Discord, Deep Funding Focus Group, Decision Making Process, community governance, community engagement, power, debate
 - emotions: interesting, engaging, critique, insight
+
+
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Felix [documenter], Felix, CallyFromAuron, PeterE, guillermolucero, SucrenSpice
+- Purpose: Weekly GovWG Meeting
+- Working Docs:
+  - [SNET Ambassadors - The Naming Thing](https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing)
+  - [Q2 budget sheet](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945)
+
+#### Narrative:
+- Topic: Ambassadors Naming
+Issue: how do we name ambassadors/contributors
+blocker: time & people to solve it
+
+- Topic: Q2 budget
+Issue: submitting Q2 budget for Governance WG
+blocker: time & people to solve it; also need to create a budget calculator sheet for Q2
+
+- Topic: governance tools & know-how
+Issue: what are good tool use cases
+blocker: clear use cases and use of tools
+
+
+- Topic: uniFires & SNET
+issue: how to connect uniFires to SNET 
+Blocker: available time & people 
+
+
+
+#### Decision Items:
+- 1P1V & Governance momentum
+  - [effect] mayAffectOtherPeople
+- Peter mentioned the merge of SNET, Fetch & Ocean which will also enable collaborations with their respective Ambassdor programs, something to look and think about
+  - [effect] mayAffectOtherPeople
+- 1P1V is a major strategic objective of GovWG
+  - [effect] mayAffectOtherPeople
+- Peter mentioned the idea to set up a Moderators WG, enable resources for folks like Demonix (server admin)
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action]  create a document on Naming context https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing  - define process how to get reflection & insights from current contributors & Ambassadors (plan a retrospective on what worked & what didnt) [assignee] Felix [status] todo
+- [action] Ask treasury guild to set up Q2 budget sheet https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945 (copy Q1 sheet)  - Get all Guild/WG budgets   - Update and improve budget requirements - budget reports [assignee] Tevo [status] todo
+- [action]  Set up governance sandbox - reach out to contributors & ask if they can engage in tool testing  - license reports & documentation under opensource licences (e.g step by step guide) [assignee] all [status] todo
+- [action]  - Guillermo shows interest, reach out to some SNET folks and ask them to engage, establish a small group of SNET folks to engage at uniFires    - create a blog post on 1P1V with uniFires  - bring the topic up in SNET AMB TH [assignee] guillermolucero, all [status] todo
+
+#### Keywords/tags:
+- topics covered: Governance, Q2 budget, Naming, community governance, 1p1v, tool testing, Unifires, Polkadot, fetch and ocean, fetch, ocean, Token merger, one token one vote
+- emotions: Friendly, Collaborative, Conclusive
 
 
 ## Wednesday 10th April 2024
