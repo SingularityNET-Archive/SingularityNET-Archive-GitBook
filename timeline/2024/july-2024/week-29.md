@@ -212,6 +212,7 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 
 ## Wednesday 17th July 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -260,6 +261,58 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 #### Keywords/tags:
 - topics covered: task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion, projects merger, Dework Go through, Initial docs, Quiz deadlines, Resource sheet revamp, Ai for Beginners
 - emotions: productive, Collaborative, Businesslike.
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], lord kizzy [documenter], WaKa, Kenichi, Advanceameyaw, Dan Watkins, AJ, Mikasa, Clement Umoh, kateri, Ayo, YemiSolves, Peter
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! 
+- SHOWCASE FINISHED PROPOSAL
+- NEW OPERATIONS SYSTEM GOING FORWARD
+
+#### Discussion Points:
+- Welcoming of new members: AJ introduced himself to the Guild.
+- ACTION ITEMS MEETING: Lordkizzy went through the action items from the previous meeting summary 
+- SHOWCASE FINISHED PROPOSAL: We are trying to present deliverables on completed projects to the community. We weren't able to further discuss this because core members of respective projects weren't in attendance. 
+- Discussions on "Avoid overlapping between proposals with other Guilds and WorkGroups": We had already had discussions on this in our previous call and Kenichi highlighted the differences in a document (https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing) 
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS!; Waka refused to give the update status on the Entity connections project that he was working on. Other core members weren't present in the call
+- Discussions on "Proposals must not receive funding from Ambassador and DF": Waka expressed that those opinions weren't valid since there hasn't been a case of "double dipping" in the program. Clement highlighted that we should also be trying to prevent something like that from happening in the future and suggested that "if someone is bringing up the level of deep funding, it means there has to be working deliverables that, you know, you have to show for, that it was completed at the level of the ambassadors program. you're going to put up things that you intend to complete, building up from what you've completed, and then try to describe to us the reason for the extra requirements or the extra request for resources." Kenichi indicated that "the whole idea of this is that when you say you want to take a project, we don't know about it from them, definitely they can have their own process. But from the Ambassador Program, especially from the Research Guild, which this is concerned, while any of these projects are individual suggestions and individual proposals, it's still technically for the ambassador program. And in that regard, for the research, you should be the one pushing out the project to do saying, hey, we're building this in our guild, and we believe is a great project and we'd like extra funding. This is coming from the entire guild. Then that will give it much more credibility, which is what we should be looking for. So whenever it's highlighted, okay, where did this project start from, you should be able to say it started from ambassadors. I feel like we need that recognition too. It started from the ambassador program, went to deep funding, got funded, did great stuff."
+- Discussions on "Proposals must have a minimum of two people in charge" - There was a suggestion that a team should be decided based on the project complexity. Clement also suggested that if the individual is capable to deliver within the required timeframe then he or she can work on the project alone. Kenichi suggested that we focus more on milestone deliverables, so if an individual has been able to provide milestone deliverables and stops been active, then the guild should communicate with the individual depending on the severity of the project and see if it can be assigned to someone else. We decided to have a poll on it and majority suggested that two people should be a standard going forward.
+
+#### Decision Items:
+- We decided that projects could receive funds from both deepfunding and the ambassador program but only under some specific conditions (if the project gets funded first from Deepfunding, then there won't be any need for more funds to be requested but if the project gets funded from the ambassador program and there is need for more funds after presenting deliverables, then the R&D Guild will push the project to DeepFunding)
+  - [rationale] the Ambassador program may not provide the funds to completely sustain the development process of the project
+  - [effect] mayAffectOtherPeople
+- We decided that projects should have a minimum of 2 core members included in the proposals 
+  - [rationale] We decided to put this to a vote 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Guillermo to have a discussion with Rojo and Kenichi on similarities between their projects and to see if there is a possibility for collaboration  [assignee] Guillermo [due] 10 July 2024 [status] todo
+- [action] Clement to reach out to as to his project presentation [assignee] Clement Umoh [due] 24 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget, Tool Development, Proposal, AI tooling, Budget Request, Budget preparation, contributors, Operations, doubledipping, Deliverbles, Core team, Documentation, Presentation, DeepFunding
+- emotions: straightforward, questioning, Casual, lengthy, challenging
+- other: Kenichi suggested a process that should be implemented by the Guild: if someone working on a project has been able to provide deliverables and after a while stops work on the project, then the entire project should be on hold and no rewards distributed; but if the project is of high relevance to the guild then the guild should communicate with the individual that proposed the project and suggest going ahead with what they can and what they have. If the individual has any plans of coming back at any point in time and wishes to recontribute to the research and development guild, they will have to finish that project before they are allowed to take up a new one. Unless they claim that they have no interest anymore in the project and at that point in time. then that member shouldn't be given the opportunity to work on another project.
+
+
 ## Thursday 18th July 2024
 
 ### LatAm Guild
