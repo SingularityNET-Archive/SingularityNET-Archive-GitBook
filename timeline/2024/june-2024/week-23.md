@@ -115,6 +115,7 @@ description: Mon 3rd Jun - Sun 9th Jun 2024
 
 ## Tuesday 4th June 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -149,6 +150,39 @@ The rest of the meeting with preominately talking about strategy and figuring ou
 #### Keywords/tags:
 - topics covered: AI ethics, Global ethics initiative, strategy, drafting strategy documents, ambassador workgroup
 - emotions: Casual, Collaborative, a bit slow
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], CallyFromAuron [documenter], CallyFromAuron, PeterE, guillermolucero, SucrenSpice, Slate, Onize, Jenn, Gorga
+- Purpose: Weekly GovWG Meeting
+- Working Docs:
+  - [contains “what went well”, “what didn’t go well” and “suggestions”](https://miro.com/app/board/uXjVK_z6AbU=/?share_link_id=920409712610)
+
+#### Narrative:
+Things we need to agree/decide: to be discussed at TH?
+- If a WG does not submit a Q3 budget by 19th June, what will happen? They get the same amount as their Q2 budget, but no increase? or they get no budget? Or something else?
+- Do we want to ask all WGs to include an amount for contingency? Or “experiment”, or similar? Or should this be an overall amount across the Program?
+How detailed should a budget be? Do we need to give guidance on this? Feedback suggested that a) WGs do need to break their budgets down clearly enough that people know what they plan to spend, but b) there ideally needs to be scope for flexibility and responsiveness, so maybe it should not be overly specific. The intention matters more than the details? (e.g. you would say “we want to create resources to help onboard people” rather than “we will make 2 videos and 1 infographic with XYZ content)
+- Should a budget be linked to a quarterly report? How?
+- Should submitting a quarterly report be compulsory in order to have your budget approved? Should the quarterly report be submitted at the same time as submitting a budget, and/or actually linked and referred to in your budget sheet?  And - are there standards for what a quarterly report should be like? If it’s really perfunctory and not very informative, can it lead to a budget request being refused?
+- And (on the question of flexibility and responsiveness) - how closely does a WG need to stick to its proposed budget? Does it need to be exact, or just “within the spirit of...”?
+
+
+
+#### Discussion Points:
+- Biggest issue raised was the timing, and the need for WGs to get their budgets in a bit sooner.
+
+#### Action Items:
+- [action] We (Governance WG) will remind WGs that they need to be looking internally at their budgets **this week** (ideally by the 12th) [assignee] all [due] 12 June 2024 [status] todo
+- [action] The deadline for final submission of budgets to this spreadsheet is 19th June [assignee] all [due] 19 June 2024 [status] todo
+- [action] We need to put out a reminder - with a graphic with big red letters! - in the next couple of days. Guillermo and Vani to do: Guillermo will design a graphic - It will be posted in Core Contributor channel (and in Ambassador-General?), and everyone in core-contributors will be tagged. It will remind people to make sure their budgets are laid out so that any external links are clearly visible, and people can find the info you want them to see. [assignee] guillermolucero, CallyFromAuron [due] 7 June 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Governance, Meeting Summaries, Budget planning , Workflow , Ideas and Improvements,  Team collaboration , Governance GitBook, WG, Core Contributors , Budget deadlines,  Process improvement, Q2 quarterly report, deadlines, flexibility, responsiveness, compulsory quarterly report
+- emotions: focused, Urgency , Collaboration , problem-solving, Efficiency , Accountability
+
+
 ## Wednesday 5th June 2024
 
 
