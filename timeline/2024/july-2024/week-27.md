@@ -254,6 +254,7 @@ Licensing of materials collected from surveys and interviews
 - emotions: Businesslike., interesting, Organised, good humored
 ## Wednesday 3rd July 2024
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -287,6 +288,62 @@ Licensing of materials collected from surveys and interviews
 #### Keywords/tags:
 - topics covered: ACP, Blueprints , Budget , project assignment , AI for beginners
 - emotions: productive,  Collaborative, Businesslike., speedy 
+
+
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: Guillermo [facilitator], lord kizzy [documenter], WaKa, Kenichi, CollyPride, Duke, Advanceameyaw, Clement Umoh, Dan Watkins, PeterE, guillermolucero
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
+  - [Typeform link](https://fqmtepho6kd.typeform.com/to/uHsVjdS5)
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE Q3 BUDGET
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! 
+- R&D GUILD Q2 QUARTERLY REPORT / UPDATE PROPOSAL
+- CONCERNS
+- NEW OPERATIONS SYSTEM GOING FORWARD
+
+#### Discussion Points:
+- Welcoming of new members: Advanceameayew, Clement and Dan Watkins introduced themselves
+- Discussions on ASI Merger updates: Peter gave a few updates on the ASI token merger and highlighted that we are currently in the first phase of the transaction. He also indicated the increase in the number of scams that might occur due to the migration 
+- ACTION ITEMS MEETING: Lordkizzy went through the action items from the previous meeting summary 
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS!  Duke indicated that he has completed the research project on Inclusivity of people with Disabilities and it has been uploaded to the Repo. 
+- NEW OPERATIONS SYSTEM / R&D Guild Going Forward - Guillermo highlighted the structure of operations going forward to the team, he indicated some rules like: Proposals must contain a core team of at least two members, also Guild members can't be involved in more than one project at a time, Proposals must highlight a precise timeline and milestones. Guillermo also reflected on the previous decision, that "50% of tokens will be distributed once a project achieves 80% completion". 
+- Discussions on the overlapping concern presented by the community: "I do not understand the value of this project, should be further brought up in the General Ambassador Program, because I read it as the system we have already in place. Or if it's only related to the R and D guild then include that scope that is something you build for your own workgroup." Guillermo highlighted the similarities between Rojo's project on Web3 contribution dashboard and Kenichi's project on Loyalty system. Kenichi highlighted the difference between the Treasury dashboard and the loyalty system. Guillermo also requested that Kenichi writes a 1 page document addressing concerns about the overlapping proposals and collaboration with existing projects.
+
+#### Decision Items:
+- We decided that Duke was going to receive half of the initial budget allocation in Q2 Distributions and the remainder will be sent out in Q3 
+  - [rationale] The budget allocation was not well addressed by Treasury in Q2 but the Guild gave a go ahead to Duke on the project so the remaining payments will come from Q3 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Guilermo to ideate to see how Vasu can collaborate with guild members on project [assignee] Guillermo [due] 3 July 2024 [status] done
+- [action] Colleen to draft out a proposal for her initiative on The Quest for AI Game Design [assignee] Colleen [due] 3 July 2024 [status] in progress
+- [action] Guillermo to work on the R&D GUILD Q3 QUARTERLY REPORT / UPDATE PROPOSAL and present it to treasury [assignee] Guillermo [due] 3 July 2024 [status] done
+- [action] Kenichi to write a one page document addressing concerns about the overlapping proposals and collaboration with existing projects  [assignee] Kenichi [due] 10 July 2024 [status] todo
+- [action] Dan Watkins and advanceameayew to fill in the Onboarding Document and share that with the group  [assignee] Advanceameyaw, Dan Watkins [due] 10 July 2024 [status] todo
+- [action]  Guillermo to have a discussion with Rojo and Kenichi on similarities between their projects and to see if there is a possibility for collaboration  [assignee] Guillermo [due] 10 July 2024 [status] todo
+- [action] Guild to create a infographic to present the two completed projects to the community  [assignee] Guild [due] 10 July 2024 [status] todo
+- [action] Guillermo and Lord kizzy to prepare the first draft of operations of the R&D Guild going forward  [assignee] Guillermo, lord kizzy [due] 10 July 2024 [status] todo
+- [action] Duke to prepare a short text to share with the community on the Disabilities research project and to invite them to the document to make comments. [assignee] Duke [due] 10 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, Budget preparation, contributors, Rewards, Overlapping projects, Community Concerns, Operations, Disablities, Research, game design, operations system, proposal rules, Rules, inclusion, Token merger, scams, contribution dashboard, contribution, loyalty system
+- emotions: straightforward, questioning, speedy , Casual, Friendly
 
 
 ## Friday 5th July 2024
