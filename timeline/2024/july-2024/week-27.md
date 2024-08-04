@@ -7,6 +7,7 @@ description: Mon 1st Jul - Sun 7th Jul 2024
 ## Monday 1st July 2024
 
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -124,6 +125,52 @@ Billy and Gavriel addressed concerns about the budget. Ayo clarified the distinc
 #### Keywords/tags:
 - topics covered: Budget fitting, Q3 budget, consent, Summer break, Lowering percent, management, Iteration
 - emotions: decisive, bit quiet, Collaborative
+
+
+
+### Treasury Policy WG
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], Tevo, Effiom, Kenichi, Ayo, CallyFromAuron, SucrenSpice, DevonHardy, malik, Slate, osmium, PeterE
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Meeting video: [Link](https://youtu.be/Uq7EEt0PCiE)
+- Miro board: [Link](https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764593378838309&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Policy Template](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v)
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback](https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform)
+
+#### Agenda item 1 - Review of Submitted Treasury Policies - [carry over]
+
+#### Discussion Points:
+- Discussion on the proposed budget-fitting policy
+- List of policies: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?usp=sharing
+- The impact of budget-fitting on the activities of guilds/WGs in the program
+- Incentivise lowering budget for guilds and WG
+- Is funding of only core activities an ideal approach?
+- Should we have a maximum amount of a budget for core costs?
+- Should equal budget-fitting be considered?
+- Is the incentive of lowering budget and making sure only core activities are covered, good or bad?
+
+#### Action Items:
+- [action] Make report template public [assignee] Tevo [due] 8 July 2024 [status] todo
+- [action] Review of previous quarters to aid with budget-fitting for Guilds/WG [assignee] all [due] 15 July 2024 [status] todo
+
+#### Agenda item 2 - Minimum Requirement to submit Policy Feedback - [carry over]
+
+#### Discussion Points:
+- What counts as a Treasury policy?
+- How do we define scope in the creation of a Treasury policy?
+- Is anyone within the program allowed to submit a policy or just members of the WG?
+- Key questions to be asked in the feedback form?
+- How relevant is asking if policy is within scope? It seems obvious
+
+#### Action Items:
+- [action] Provide feedback on policies through feedback form: https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform [assignee] all [due] 15 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: WG Budget, Feedback Form, Budget fitting, scope, Core activities, Rules, Decentralization
 
 
 ## Tuesday 2nd July 2024
