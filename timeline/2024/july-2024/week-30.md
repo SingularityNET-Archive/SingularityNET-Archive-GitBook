@@ -111,6 +111,7 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 - emotions: Organised, new people present, short, focused
 ## Friday 26th July 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -150,3 +151,40 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format
 - emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy, decisive, Friendly
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Cjfrankie  [facilitator], Cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Ayo, Inés, Advanceameyaw, Nebula, Merryman, Eveline Trinité
+- Purpose: The purpose of this meeting is to cite and introduce the new Scribblers, check all the boxes for July and points system discussion.
+- Working Docs:
+  - [WWG Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+
+#### Narrative:
+KENICHI INTRO: Before the meeting commenced, Kenichi announced that the WWG had selected two new Scribblers and then the Scribes to chase them to get involved; he also mentioned that the Zealy sprint is up and running and the points system for July will be distributed next Tuesday.
+ 
+The meeting kicked off with Cjfrankie welcoming everyone, and then he welcomed and introduced Gorga as one of the newest Scribblers in the WG. Momentarily, Gorga unmutes his mic, and he appreciates everyone for their support and love.
+
+Following that, Mikasa expresses her concerns about the unpublished meeting summaries! July is wrapping up, and the Scribes need to deliver the “SNET Ambassador Program Recap.” Cjfrankie suggests we can get some of the summaries from the meeting tool by navigating down the site to download the PDF version.
+
+Today's meeting marked the presence of Eveline Trinité, who introduced herself and showcased her keen interest in the WG. After the introduction, Mikasa said that she would reach out to her to help her get involved in the WG. In a flash, Merryman also introduced himself, and he expressed interest in contributing to the WG.
+
+Cjfrankie also put AdvanceAmeyaw in the spotlight by asking him how he felt while taking the WG’s test, and he also hinted that the test was quite hard for him! Moved with enthusiasm, Advance asked a question “How does the WWG operate?” And if they also collaborate with the spinoffs. Cjfrankie cleared the air by highlighting the WWG's goals and mission. He also pointed out that the WG has worked with other spin-offs like “Cogito.” We have also written a couple of drafts for Cogito, and we have close contact with Sandra.
+
+MEETING AGENDA: Lady Tempestt emphasized the need for having a structured agenda for our weekly meeting to help us stay organized.
+
+Ayo, from the Strategy Guild, talked about the forthcoming workshop scheduled for the 29th. According to Ayo, the workshop needs 2-3 persons who would represent the WWG in the workshop, and then Mikasa, Cjfrankie, and Gorga expressed their interests.
+
+
+
+#### Decision Items:
+- We have decided that we will present a structured agenda during our meetings moving forward to help us stay organized.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Mikasa and Cjfrankie to chase the Scribblers to help them with answering questions and give more details into how the WG works. [assignee] Mikasa, Cjfrankie  [status] done
+- [action] Mikasa and Cjfrankie to chase the archival WG team regarding the missing meeting summaries in the gitbook. [assignee] Mikasa, Cjfrankie  [status] done
+
+#### Keywords/tags:
+- topics covered: Scribblers, Cogito, Workshop, Strategy Guild, Zealy, Points system, meeting agenda, Spinoffs, July Recap, Summay tool, Meeting summary
+- emotions: Welcoming, Collaborative, Businesslike., inquisitive, funny
