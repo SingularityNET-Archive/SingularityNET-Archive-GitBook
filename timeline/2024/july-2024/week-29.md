@@ -184,3 +184,50 @@ In our recent discussions, we focused on creating a workshop for github operatio
 - topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget, Roles, Collaboration, Translation, GitHub, Google Analytics, ADN, AGI-24, community, AI tooling, Tik-Tok, ethics, Charles Hoskinson, 
 - emotions: Collaborative, Friendly, Thoughtful , funny, entertaining, challenging
 - other: Step by Step
+## Friday 19th July 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], lord kizzy [documenter], hogantuso, Slate, malik, killy, Zalfred, lord kizzy, AndrewBen, kateri, RealMoyo, thisruti
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video Workgroup Budget Request Q3](https://docs.google.com/spreadsheets/d/1gkLF0ymOATPQu_jAWSL1u9QH6OcOIQEClF9ExL6RJQk/edit?gid=0#gid=0)
+  - [Video Workgroup Q2 Report.](https://docs.google.com/document/d/1r5BG6w-sdOEoda3sKwIRWtfLioCBGw5sof4tCrnIuac/edit#heading=h.1ooa0j1dxhvv)
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+
+#### Discussion Points:
+- Updates on task management: Slate shared some discussions he had with Vanessa on a wrongly uploaded Town Hall video that needed to be posted for archiving purposes; slate suggested that it should be posted as an unlisted video for archiving purposes rather than as a public video because the video is way back (2 years ago), majority of members felt the same way and also the created two tasks the usual Town Hall videos 
+- Updates on social media management: Malik mentioned that he conducted some research on a content planner to see how frequently our videos should be posted and he gave us an hypothesis of 2 shorts videos and 1 long video, during the week he had uploaded 2 shorts and 2 long videos including the Town Hall videos 
+- Updates on Zealy: Lordkizzy had a question for Devon on the updates so far on the previous Zealy sprint but Devon wasn't present in the meeting 
+- Discussion on updates from Rojo: Lordkizzy presented to the group the updates from Rojo. Rojo suggested the Quality Control Review team should be a random team of two members selected each week to review all the contents that go out within that week and provide a report by the end of the week; some members felt it was a good idea but would rather see it being implemented in the next quarter. There will be a poll to decide this.
+- Discussion on Budget: Lordkizzy presented the restructured budget as to the budget fitting, and explained the process going forward. There was a discussion on the workgroup keeping the some of the contingency budget for the review team initiatives for Quality Control, and we decided that we are going to have a poll in the video workgroup to have a decision going forward.
+- Discussion on Vacation: most of the Video WG members are not going for vacations.
+
+#### Decision Items:
+- we decided that we are going to have a poll in the video workgroup to have a decision on the budget going forward
+  - [rationale] We felt the discussion was taking a lot of time 
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that slate should post the wrongly uploaded Town Hall video as an unlisted video rather than to the public 
+  - [rationale] We felt the video raises confusion for our viewers since the video relates to events that took place 2 years ago.
+  - [effect] mayAffectOtherPeople
+- We decided to stick with Discord for our weekly meetings.
+  - [rationale] Members felt Discord is perfect for us
+  - [effect] affectsOnlyThisWorkgroup
+- We decided on a criterion for task assignments, which is for members to attend at least two meetings in a month to be eligible for task assignments
+  - [rationale] Members felt it would help for a better process and also increase participation in meetings 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Lordkizzy to have a discussion with Rojo on the changes and decisions made by the video WG and to get his feedback  [assignee] lord kizzy [due] 19 July 2024 [status] done
+- [action]  Workgroup members to ideate on possible human animation platforms  [assignee] All Members [due] 26 July 2024 [status] todo
+- [action] Task management was assigned to Malik for the month of August. [assignee] malik [due] 16 August 2024 [status] todo
+- [action] Social media management was assigned to Tuso for the month of August. [assignee] hogantuso [due] 16 August 2024 [status] todo
+- [action] Weekly Facilitation was assigned to Zalfred for the month of August. [assignee] Zalfred [due] 16 August 2024 [status] todo
+- [action] Documentation was assigned to Lordkizzy for the month of August. [assignee] lord kizzy [due] 16 August 2024 [status] todo
+- [action] Town Hall Summary edit was assigned to Andrew Ben for the month of August. [assignee] AndrewBen [due] 16 August 2024 [status] todo
+- [action] The Town Hall edit was assigned to Killy for the month of August. [assignee] killy [due] 16 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Weekly updates, Budget Reduction, Budget, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, meeting venue, old video, Archives
+- emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy, decisive, Friendly
