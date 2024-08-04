@@ -106,3 +106,81 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 #### Keywords/tags:
 - topics covered: task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion, projects merger, Dework Go through, Initial docs, Quiz deadlines, Resource sheet revamp, Ai for Beginners
 - emotions: productive, Collaborative, Businesslike.
+## Thursday 18th July 2024
+
+### LatAm Guild
+
+- Type of meeting: Biweekly
+- Present: Guillermo [facilitator], Ines [documenter], Ines, Caue [translator], Guillermo, Ines, Martin Rivero, Caue
+- Purpose: Core Team Strategy & Operations of the Program / #5 Town Hall @SNET_Latam Ambassadors 'El Power Latino de SingularityNET / #5 @SNET_Latam Ambassadors Town Hall: El Power Latino de SingularityNET
+- Meeting video: [Link](https://www.youtube.com/watch?v=P8xZKZmIVKQ&t=3s)
+- Transcript: [Link](https://otter.ai/u/qwYH_pH0AJkKWPmQJIh6xUpwH6w?view=transcript)
+- Working Docs:
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [ADN BsAs Acciones _  Spanish _ 190724](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit?usp=sharing)
+
+#### Agenda item 1 - Strategy Sub-Group - [carry over]
+
+#### Narrative:
+In the fifth meeting for the regional expansion of the Ambassadors program for the LATAM region, the conversation revolved around having a clear communication and community involvement. Speakers emphasized the need for a unified strategy and community input in decision-making. AI's potential to transform industries was highlighted, along with the importance of ethical considerations. 
+
+
+#### Decision Items:
+- Long term strategy for the LATAM Guild
+
+#### Action Items:
+- [action] Design and coordinate @SNET_Latam Community events for Q4 [assignee] Guillermo, Andrea Dekovic [due] 28 August 2024 [status] todo
+- [action] #Revisions on RoadMap Document [assignee] Martin Rivero, Guillermo, Ines, Caue, Andrea Dekovic [due] 25 July 2024 [status] todo
+
+#### Agenda item 2 - Onboarding Sub-Group - [carry over]
+
+#### Narrative:
+We discussed several key strategies. Caue will invite Thais to join our efforts for Brasil, recognizing her potential to contribute significantly. We emphasized the importance of involving people who have previously shown interest and taken concrete actions. Our outreach efforts will extend to universities in Brazil, aiming to engage students and academic communities. Ale and Tomi from Nerdconf, known for their strong communication skills, will be involved in a specific action tailored to leverage their strengths. Nicola will continue her community outreach initiatives, while Arcella will engage with her unique talent, the cello, to attract and connect with new members. Additionally, Nath will bring in participants through her association with CriptoCuriosas, broadening our reach and diversity.
+
+
+#### Decision Items:
+- Draft Onboarding Strategy Focus on Brasil and Colombia
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Invite Thais [assignee] Caue [due] 25 July 2024 [status] todo
+- [action] Draft design of specific actions for collaboration with members [assignee] Guillermo, Ines, Andrea Dekovic [due] 25 July 2024 [status] todo
+
+#### Agenda item 3 - Marketing Sub-Group - [carry over]
+
+#### Narrative:
+We discusses branding and communication strategies for for the ADN Event. We outlined several future action items to ensure its success. We will develop live interview questions to engage participants and create a dynamic atmosphere. To foster a sense of community, we'll design T-shirts and e-memorabilia for those who win tickets and attend the event wearing them. We plan to put together a round-up by making a recording for those who cannot attend in person, which will be uploaded to the platform. Additionally, we discussed the possibility of live streaming the event to reach a broader audience. Our goal is to have our Instagram and TikTok accounts ready, featuring the same content for both, with Caue appointed as the admin. We also prepared questions for Charles and emphasized the importance of direct onboarding to Telegram, mentioning Deep Funding and the Town Halls Calendar in Portuguese. We divided tasks, considering the number of people we want to join, whether many or few, and the importance of maintaining order, progress, and harmony among participants from various countries and between men and women.
+
+
+AGI-24 / Topic: AI-Human Collaboration. The nature of AGI in Politics, Social Sustainability, and the Common Good.
+
+In our discussions, we explored the themes of AI, ethics, and creativity for an upcoming roundtable event. We delved into the intersection of AI, creativity, and ethics, considering how these elements influence each other. There was a thoughtful debate on the use of AI in outreach and onboarding guests and participants for the event, weighing its benefits and potential ethical concerns. We emphasized the importance of thorough preparation for events and interviews, including strategies for handling difficult questions. To promote the event effectively, we discussed creating engaging content and developing a content media chronogram to ensure a consistent and compelling promotional campaign.
+
+
+#### Decision Items:
+- ADN event Action items July 31
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] SingularityNET T-Shirts for ADN [assignee] Guillermo [due] 25 July 2024 [status] todo
+- [action] Draft questionnaire for ADN  [assignee] Ines, Andrea Dekovic [due] 25 July 2024 [status] todo
+- [action] Create Tik-Tok Account [assignee] Ines [due] 22 July 2024 [status] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+In our recent discussions, we focused on creating a workshop for github operations.
+
+
+#### Decision Items:
+- Github WorkShop
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Github WorkShop [assignee] Caue, Guillermo [status] in progress
+
+#### Keywords/tags:
+- topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget, Roles, Collaboration, Translation, GitHub, Google Analytics, ADN, AGI-24, community, AI tooling, Tik-Tok, ethics, Charles Hoskinson, 
+- emotions: Collaborative, Friendly, Thoughtful , funny, entertaining, challenging
+- other: Step by Step
