@@ -6,6 +6,7 @@ description: Mon 13th May - Sun 19th May 2024
 
 ## Tuesday 14th May 2024
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -32,6 +33,81 @@ This Town Hall was a retrospective on the Ambassador program over the past year,
 #### Keywords/tags:
 - topics covered: funding, Ambassador Program funding, reputation, principles, roadmaps, community, community governance, connect, meaning, gather, retrospective, Analysis, AI tooling
 - emotions: funny , entertaining, Thoughtful , repetitive, superficial, analytical
+
+
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], CallyFromAuron [documenter], CallyFromAuron, PeterE, Ayo, LadyTempestt, osmium, Effiom
+- Purpose: Weekly GovWG Meeting
+- Media link: [Link](https://app.read.ai/analytics/meetings/01HTFHPDRBF06WT56R0XHK8CZR?utm_source=Share_CopyLink&section=transcript)
+- Working Docs:
+  - [Ambassador Program Core Contributors](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h)
+  - [Decision Software Review Sheet](https://docs.google.com/spreadsheets/d/1lpi6nrQpzI4_KklPLmy5pSiYGVbJVnu7NS3OwmNL7_0/edit?gid=0#gid=0)
+  - [Context setting for Core Contributor decision Q2 budgets](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+
+#### Narrative:
+What decision methodology should we use in Q3?
+We suggested we might want to try using some kind of tool
+We said it might depend on what the decisions are - see agenda item 5
+We suggested
+- some kind of onchain voting tool?
+- Citizen OS?
+We referred to Strategy Guild’s work on decision making tools (see Decision Software Review Sheet) and to the work the DF Circles have done on testing Citizen OS and Loomio
+We felt Loomio is too expensive
+We noted that CitizenOS doesn’t particularly support a consent process; but if we decide to try out a different decisionmaking method, it might be effective
+We discussed the idea of a consensus process - dedicating a meeting to a decision and trying to reach consensus - but we noted the problem of how to include people who cannot be present and who need to give opinions async
+We also discussed the idea of simple “thumbs-up” style voting e.g in Discord, but the question of whether for some decisions, there is a need for anonymity
+We discussed the idea of giving people an NFT to vote - but we noted this might be overcomplicating things. If we have the wallet address where we would send the NFT, then we could equally just have a whitelist without having the NFTs
+We discussed possibility of continuing to use Google Forms, but noted that it can be very gameable unless we ask for email addresses to be sure people are only completing the form once, and that they are Core Contributors.
+No decision made - need to carry this over to a future meeting
+
+What decisions do we think will be made in Q3?
+- Q3 budgets, obviously
+- Also, looks like we will need to decide how people get the Core Contributor role. At the moment, self-nomination is enough, but we felt there might be potential problems with that - we need to decide whether we want to have criteria, and if so, how strictly we want to enforce them.
+We agreed that we want to keep some element of “the human touch” in how we decide who is “in” - i.e. it shouldn’t be just rigidly done in terms of a set of criteria - but that how the “human touch” should work probably needs refining.
+We agreed that there might be more to say on this topic and it should be carried over to the next meeting on 28th May
+
+To carry over to next meeting:
+Naming decision (do we keep the name Core Contributor?)
+What decision making method should we use in Q3
+What decisions will we make in Q3
+(from previous meeting) retrospective on Q2’s governance experiments, and writing it up
+
+Next meeting, Tues 21st May, is the budget consent discussion
+Next ordinary meeting is Tues 28th May.
+
+
+
+
+#### Discussion Points:
+- updating core contributors’ Discord access
+- Q2 budget proposals meeting next week (Tues 21st) - need to publicise
+- the “naming” decision
+- what decision methodology do we think we should use in Q3?
+- and what decisions do we think will be made in Q3?
+
+#### Decision Items:
+- We agreed that this time we won’t add Stephen, because although he does meet the criteria, the system did not pick him up, and nobody actually nominated him. (This relates to the discussion in agenda about how we decide who gets the core contributor role)
+  - [effect] mayAffectOtherPeople
+- We will need to re-do the actual consent forms for the 2 WGs (Marketing and Writers) that haven’t got consent. 
+  - [rationale] Because for example with Writers, their proposed budget is different than it was - so what people have consented to the first time is a different budget. Also: altho Video did not get consent either, the objection was submitted after the deadline so we’re not counting it
+- We agreed the naming decision doesn’t feel urgent - it’s being done more as part of the experiment in decision making now. 
+  - [rationale] As long as we do it before the end of this quarter, it’s OK - we can decide in the meeting on 28th May. 
+  - [opposing] Will we use google forms again? Undecided
+  - [effect] mayAffectOtherPeople
+-  We agreed to include Billy in core contributors
+  - [rationale] he has self-nominated
+
+#### Action Items:
+- [action]  Peter to give new people in the list of Core Contributors the Core Contributor role, so they can post in the “Decision To Be Made” Discord channel, and remove the role from those not on list for Q2 [assignee] Peter [due] 17 May 2024 [status] todo
+- [action] Peter to ping all the core contribs about outstanding budget consents, and also put it in the “Decision to be made” Discord channel once he’s adjusted the membership rights in the channel (Note that we need to ping people because often, people have role-based notifications muted, so they won’t see it) [assignee] Peter [due] 17 May 2024 [status] todo
+- [action] Peter to re-do the consent forms for Marketing and Writers and share them when he pings the Core Contributors [assignee] Peter [due] 17 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Discord Access ,  Budget Proposals ,  Decision-Making , core contributors, Governance, governance experiments, useful documentation, consent, consent decision making, consent process, decision making software, tools, self-nomination, Google Form, Q2 budget, decision methodologies
+- emotions: Neutral  , Consideration  , Efficiency  , Transparency  , Openness
 
 
 ## Wednesday 15th May 2024
