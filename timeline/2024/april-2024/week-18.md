@@ -6,6 +6,7 @@ description: Mon 29th Apr - Sun 5th May 2024
 
 ## Tuesday 30th April 2024
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -47,3 +48,31 @@ The report from Archives WG at 28:44 includes information on the RAG retrieval p
 #### Keywords/tags:
 - topics covered: consent, consent decision making, Q2 budget, core contributors, Decision Making Process, Treasury, Archives WorkGroup, R&D guild, Education Guild, Knowledge Base Workgroup, Marketing Guild, Writers WorkGroup, moderator workgroup, onboarding workgroup, RAG retrieval process, AI searches, archives search, AI ethics, open source ethos, open source, Governance GitBook, Decentralization Blueprint, attribution, Creative Commons, Intellectual property
 - emotions: long
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Felix [documenter], Felix, CallyFromAuron, PeterE, guillermolucero, SucrenSpice
+- Purpose: Weekly GovWG Meeting
+- Working Docs:
+  - [Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit)
+
+#### Narrative:
+Item:  How to make decision-making purely contribution based?
+anyone can submit consent forms, but decoupled from contributors. We will only count contributor input as valid.
+Consent discussion meeting will be only for contributors
+
+Item: Updating Contributors list
+each decision/consent process we hold will trigger a new update on the contributors list
+Contribution gets recognised on a weekly basis by Treasury Guild
+
+Item: Name changing
+we start to prepare for decision making process on whether to change the term “Core Contributors” through a 2-phased approach
+Decision making process on if we want to change the name
+Decision making process to define new name
+Onboarding WG has started to draft the context setting document for the Naming decision
+
+
+#### Keywords/tags:
+- topics covered: Governance, Ambassadors, Naming, core contributors, onboarding workgroup, consent process
+- emotions: Collaborative, speedy , Thoughtful
