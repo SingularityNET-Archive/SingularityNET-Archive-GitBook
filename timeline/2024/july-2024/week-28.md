@@ -131,6 +131,7 @@ Discussion Points:
 ## Wednesday 10th July 2024
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -242,6 +243,54 @@ Discussion Points:
 #### Keywords/tags:
 - topics covered: document management, github board, AI ethics, Ethics, good meeting summaries, LLMs, LLM development, AI tooling, open source, fair pay, payment, GitHub video walkthrough, meeting summary tool redesign, holiday, town hall presentations
 - emotions: Organised, inclusive, participatory, problem-solving
+
+
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: lord kizzy, guillermolucero [facilitator], lord kizzy [documenter], WaKa, Kenichi, Advanceameyaw, Dan Watkins, AJ, Mikasa, guillermolucero, lord_kizzy
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE Q3 BUDGET
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! 
+- SHOWCASE FINISHED PROPOSAL
+- NEW OPERATIONS SYSTEM GOING FORWARD
+
+#### Discussion Points:
+- Welcoming of new members: AJ introduced himself to the Guild.
+- ACTION ITEMS MEETING: Lordkizzy went through the action items from the previous meeting summary 
+- SHOWCASE FINISHED PROPOSAL: We are trying to present deliverables on completed projects to the community. We weren't able to further discuss this because core members of respective projects weren't in attendance.
+- Q3 / Operations Objectives;  DESIGN NEW OPERATIONS SYSTEM: Guillermo presented the outline document (https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing) for operations going forward but Waka had some blockers as to the process and questioned the "Overlapping between proposals with other guilds" concern presented by the community and the proposed solution to it and also the "Proposals must not receive funding from Ambassador and DF". Lordkizzy explain further on the process at which this new system will be implemented and the benefits of the system.
+
+#### Action Items:
+- [action] Guilermo to ideate to see how Vasu can collaborate with guild members on project [assignee] Guillermo [due] 3 July 2024 [status] done
+- [action] Colleen to draft out a proposal for her initiative on The Quest for AI Game Design [assignee] Colleen [due] 3 July 2024 [status] done
+- [action] Kenichi to write a one page document addressing concerns about the overlapping proposals and collaboration with existing projects  [assignee] Kenichi [due] 10 July 2024 [status] done
+- [action] Dan Watkins and advanceameayew to fill in the Onboarding Document and share that with the group  [assignee] Advanceameyaw, Dan Watkins [due] 10 July 2024 [status] done
+- [action]  Guillermo to have a discussion with Rojo and Kenichi on similarities between their projects and to see if there is a possibility for collaboration  [assignee] Guillermo [due] 10 July 2024 [status] todo
+- [action] Guild to create a infographic to present the two completed projects to the community  [assignee] Guild [due] 10 July 2024 [status] todo
+- [action] Guillermo and Lord kizzy to prepare the first draft of operations of the R&D Guild going forward  [assignee] Guillermo, lord kizzy [due] 10 July 2024 [status] done
+- [action] Duke to prepare a short text to share with the community on the research project on disability inclusivity, and to invite them to the document to make comments,  [assignee] Duke [due] 10 July 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, Budget preparation, contributors, Rewards, Overlapping projects, Operations
+- emotions: straightforward, questioning, speedy , Casual
+- other: Waka proposed an increase in allocation for Kenichi's legacy system if there is going to be a collaboration with Rojo
 
 
 ## Thursday 11th July 2024
