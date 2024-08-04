@@ -346,6 +346,52 @@ Licensing of materials collected from surveys and interviews
 - emotions: straightforward, questioning, speedy , Casual, Friendly
 
 
+## Thursday 4th July 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], Cjfrankie  [documenter], kateri, SucrenSpice, lord kizzy, Clement Umoh, LadyTempestt, Ayo, Gorga Siagian, daniel effiom, Cjfrankie, Slate, Godspower Egete, Photogee, Martin Soki, callyfromauron, PeterE, sakujennbornean
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program.
+- Media link: [Link](https://www.when2meet.com/?25481973-mYvrG)
+- Working Docs:
+  - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
+  - [Onboarding WG Skillshare Matrix - June 2024](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit)
+  - [Onboarding Workgroup Meeting: 27th June, 2024.](https://docs.google.com/document/d/1GIvvQbvDwOVB9VfcwFc8YuzODYdgAWo47WjVBUHac7Y/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Agreeing to the minutes of the last meeting. We also agreed to add some neutral information regarding why the meeting was "argumentative"; the summary also lacks relevant tags. Kateri noted she didn't include them because she thought she wasn't meant to add them.
+- Action items from the last meeting.
+-  Quarter 3 Budget 
+- The new set of onboarders. 
+- The Buddy System Reports.
+-  Update on the onboarding Skillshare matrix. 
+- Suggestions towards better Onboarding processes.
+- The onboarding facilitation/documentation roster.
+
+#### Decision Items:
+- Following a discussion with the “onboarding WG facilitation/documentation roster,” we decided that we would have two people document meetings (an old member and a new member), and then we would make a comparison between the two summaries — this idea will help first-timers spot their mistakes and improve on their next try. The same goes for meeting facilitation.
+  - [rationale] Give people a chance to showcase and learn confidently those skills they're passionate about.
+  - [effect] affectsOnlyThisWorkgroup
+- In view of the Skillshare matrix document, we have spotted the skills that group members consider to be "core" skills, namely (report writing, documentation/note-taking, facilitation,  community engagement/co-production, understanding decentralized governance, and understanding the ecosystem). We decided to use the skillshare matrix to identify someone in the WG who has any of these skills so he or she would have a session with others to teach the skill(s) to them. However, this decision is also budget-dependent. If we have a good amount after the cut, we can pull this off.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Vanessa to chase Kateri for a one-on-one call to show how the summary tool works and how to do proper meeting documentation with it. [assignee] CallyFromAuron [due] 11 July 2024 [status] done
+- [action] Sucre to revamp the getting started document. [assignee] Sucre n Spice [due] 11 July 2024 [status] done
+- [action] Lady Tempestt to share the Buddy System Report document in the ambassador’s channel. [assignee] LadyTempestt [due] 11 July 2024 [status] done
+- [action] Gorga Siagian to fill out the Whentomeet form for the forthcoming onboarder orientation meeting. [assignee] Gorga Siagian [status] done
+- [action] Other WGs and guilds have used a Buddy System mechanism. Vanessa to find out where this information was mentioned, to share our report with them [assignee] Vanessa [due] 11 July 2024 [status] done
+
+#### To carry over for next meeting:
+-  Q3 budget — following a discussion with Q3 budget cut and knowing how to move forward with delivering the top selected skill sets from the Onboarding WG Skillshare Matrix.
+- “Onboarding journeys” update 
+
+#### Keywords/tags:
+- topics covered: Relevant tags, Q3 budget projections, onboarding processes, the onboarders, skills matrix,  buddy system reports
+- emotions: informative, productive, cheerful, Friendly, Collaborative, supportive
+
+
 ## Friday 5th July 2024
 
 
