@@ -6,6 +6,7 @@ description: Mon 22nd Jul - Sun 28th Jul 2024
 
 ## Monday 22nd July 2024
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -63,6 +64,72 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 #### Keywords/tags:
 - topics covered: Q3 Objectives, Q3 budget, budget fitting, Core member, Guild Membership, survey, research, Q3 Report, tools, meeting time, participation, contribution, facilitation, leadership, decentralization, Video WG, Writers WG, Marketing Guild
 - emotions: Collaborative, interesting, insightful, fun
+
+
+
+### Treasury Automation WG
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], effiom, advanceameyaw, malik, martinsoki, lord_kizzy, oluAyoola7D, tevo, osmium, Clement Umoh, YemiSolves, André, Gorga Siagian, PeterE
+- Purpose: We develop the Treasury System
+- Meeting video: [Link](https://youtu.be/RENONEarwWM)
+- Miro board: [Link]( https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764594643031247&cot=10)
+- Working Docs:
+  - [Server Side JSON Generator for Treasury](https://docs.google.com/document/d/18vPr6WIDKLNyFX1bGhIfvJjmU9mHe3C3Y1KtOjRFF9c/edit#heading=h.42iqwp85tmmb)
+  - [Treasury Guild Proposal Q3 2024](https://docs.google.com/document/d/16EmdnI9KXEF0iTfzdtSamRupuM3PITxlcfxqo4JT1o0/edit#heading=h.9t5jkakh8028)
+  - [Treasury System Documentation - Miro](https://miro.com/app/board/uXjVOiDYnHs=/)
+
+#### Agenda item 1 - Introduction to Workgroup and Project Proposal - [resolved]
+
+#### Discussion Points:
+- introduction video: https://youtu.be/RENONEarwWM
+
+#### Action Items:
+- [action] include Swarm Treasury System Miro Board link in the Relevant Links area [status] todo
+
+#### Agenda item 2 - Planning process for proposal deliverables - [resolved]
+
+#### Discussion Points:
+- Which Deliverables should we start from?
+- What can we build by the time we meet at the next session?
+
+#### Decision Items:
+- We start building solutions parallel to the documentation
+  - [effect] affectsOnlyThisWorkgroup
+- We update data mapping documentation after the solution is implemented
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Draft documentation for new process map [assignee] Effiom [status] todo
+- [action] Build API header to receive data [assignee] André [status] todo
+- [action] Build API body as JSON which includes multiple data tables required for bundle transaction [assignee] Tevo [status] todo
+
+#### Agenda item 3 - Other Treasury Updates - [carry over]
+
+#### Discussion Points:
+- Participation vs Contribution Tooling: The Recent update can be found in Dework PBL Summary https://www.youtube.com/watch?v=VMSKB79fkbg\
+- Treasury Manager can now be used to register new contacts and accounts by Zoom Export
+- Treasury Manager can now be used to assign participants to pre-configured meetings
+- The dashboard is updated with Q3 budgets
+
+#### Decision Items:
+- Participation vs Contribution Tooling, future updates will be shared in this WG
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Build solution to mass import Zoom meetings into Treasury System [assignee] Tevo [status] todo
+- [action] New overview columns for the dashboard, cumulative values and reallocations [assignee] André [status] todo
+
+#### Agenda item 4 - Treasury Service for NuNet - [carry over]
+
+#### Discussion Points:
+- What would it cost to set up a new treasury system?
+- How could we integrate NuNet Dework tasks into the SingularityNET Ambassador Treasury System?
+- Who is interested in coordinating the treasury operations?
+
+#### Keywords/tags:
+- topics covered: Treasury System, Miro Board, Automation, tooling, participation vs contribution, process, API, Backend, Documentation, json, projects, Nunet
+- emotions: insightful, reflective, decisive, bit quiet
 
 
 ## Wednesday 24th July 2024
