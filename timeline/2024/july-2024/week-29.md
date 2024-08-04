@@ -7,6 +7,7 @@ description: Mon 15th Jul - Sun 21st Jul 2024
 ## Monday 15th July 2024
 
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -140,6 +141,73 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 #### Keywords/tags:
 - topics covered: Miro Board, Rewards, Policy Creation, Policy, Timelines
 - emotions: informative, bit quiet
+
+
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], advanceameyaw, callyfromauron, effiom, Hogantuso, martinsoki, OluAyoola7D, peter, photogee, tevo
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Meeting video: [Link](https://youtu.be/_lzpvL2lj04)
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764594293444851&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [undefined]( https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/)
+  - [Context-setting for Core Contributor decision on Q3 budgets](https://docs.google.com/document/d/1zuE49nwVETFL7LbB7Q0uKkbMLCjzuKsmIYeneD0vHVk/)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [Proposal Reporting and Reviewing Guidelines](https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/edit?usp=sharing)
+
+#### Agenda item 1 - Review of Writers' WG Budget Proposal - [resolved]
+
+#### Discussion Points:
+- WWG Q3 Proposal: https://docs.google.com/document/d/1KjAjQlW5xl5m4Sq30yb4p1epW0O_2y2gljBL_QKSYrE/
+- Reviewing of concerns raised in WWG consent form
+- Discussion on the lack of effective reporting by the WG in capturing deliverables
+- If all expected changes are addressed, is that enough to pass the budget?
+- What changes are expected to be made?
+
+#### Decision Items:
+- Approve Writers' WG Budget Proposal
+  - [rationale] Those present agreed that the concerns raised have been addressed
+  - [effect] mayAffectOtherPeople
+- Concerns raised in consenting rounds will be carried over to future rounds to check for improvements
+  - [effect] mayAffectOtherPeople
+
+#### Agenda item 2 - General Overview/Feedback on Budget Request Process - [carry over]
+
+#### Discussion Points:
+- Report Template: https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/
+- Review Template: https://docs.google.com/document/d/1zuE49nwVETFL7LbB7Q0uKkbMLCjzuKsmIYeneD0vHVk/
+- How much power should "no consent" have?
+- Proposal reporting and consent templates for the program
+- How do we write reports?
+- Should we implement majority approval for proposals?
+- What is a reasonable quorum for proposals?
+- How to avoid popularity contest between core contributors?
+- Uncertain if people understand the value of iteration rounds
+
+#### Decision Items:
+- WGs should be advised to use report templates if their reporting style is unclear for many
+  - [effect] mayAffectOtherPeople
+
+#### Agenda item 3 - Review of Strategy Guild Consent Form Response - [resolved]
+
+#### Discussion Points:
+- Should strategy budget be passed?
+- What changes were made to the budget proposal?
+
+#### Decision Items:
+- Budget not passed till concerns have been read out in a meeting (will be done in Governance WG meeting on 16th July)
+  - [rationale] There was not enough time to do it in this meeting; but the person objecting wanted objections to be on the record
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Read and discuss concerns raised on Strategy Guild budget in 16.07.24 Governance WG session [assignee] all [due] 16 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: consent form, Reports, Iteration, templates, Budget , concerns, Strategy Guild, Writers WorkGroup, quorum, majority approval, majority, popularity, popularity contest, no-consent, Decision Making Process, understanding
+- emotions: Both progressive and a learning moment for decision making, Deliberative, retrospective, decisive, progressive, learning moment, enlightening
 
 
 ## Wednesday 17th July 2024
