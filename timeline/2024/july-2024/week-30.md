@@ -134,6 +134,7 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 
 ## Wednesday 24th July 2024
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -176,6 +177,54 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 #### Keywords/tags:
 - topics covered: github board, AI ethics, Ethics, good meeting summaries, open source, GitHub video walkthrough, meeting summary tool redesign, community engagement, summary backlog, archives backlog, Q3 issues, Governance workgroup, holiday
 - emotions: Organised, new people present, short, focused
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: guillermolucero [facilitator], lord kizzy [documenter], Kenichi, Advanceameyaw, AJ, Mikasa, Clement Umoh, PeterE, CollyPride, osmium
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! 
+- SHOWCASE FINISHED PROPOSAL
+- NEW OPERATIONS SYSTEM GOING FORWARD
+
+#### Discussion Points:
+- SHOWCASE FINISHED PROPOSAL: We are trying to present deliverables on completed projects to the community. We weren't able to further discuss this because core members of respective projects weren't in attendance 
+- LAST MEETING FOLLOW UP: FOLLOW UP DISCUSSIONS ON NEW OPERATIONS OBJECTIVES, DESIGN NEW OPERATIONS SYSTEM / R&D Guild Going Forward:   Guillermo highlighted the need for proper reporting and documentation and also the need for only core contributors to be able to present proposals; if an existing member that isn't yet a core contributor wants to present a proposal, they must have a core contributor on their team. We also believe that community voting gives us a precise scope on what the community needs and how it gets implemented, also it helps to avoid overlapping between proposals with other Guilds. 
+- Discussions on the voting system for proposals: we highlighted that Core Contributors will be allowed to VOTE due to their extensive knowledge of the ecosystem and its gonna be 1 person one vote, and a percentage quorum for proposals
+-  Skills Collaboration Database: The last part of the development of this project is going to be assigned to AJ for completion and AJ presented what he has worked on over the week and requested for assistance on the BackEnd development for the project.
+- Discussions on provision of incentives for contributions: Kenichi suggested an incentive for the first 3 members that participate in the Research survey form for Guilds and workgroups, and asked if they could be rewarded by the end of the month rather than quarterly. Lord kizzy requested for more time to discuss this internally and get Kenichi a feed back
+-  Voting Pools: Kenichi highlighted the need for this, so that proposals might align with a precise scope 
+- Vasu presented a project on "SingularityNet's ChatGPT " to the guild for testing and reviews
+
+#### Decision Items:
+- We decided that AJ was going to continue the "Skills Collaboration Database" previously done by Curtis 
+  - [rationale] This selection was done based on AJ's skills and also due to lack of communication with Curtis
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Guillermo to have a discussion with Rojo and kenichi on similarities between their projects and to see if there is a possibility for collaboration  [assignee] Guillermo [due] 10 July 2024 [status] done
+- [action] Clement to reach out to as to his's project presentation [assignee] Clement Umoh [due] 24 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, Voting process, skills database, skills, reporting, documentation, core contributors, overlapping, incentives, voting pools
+- emotions: Casual, Collaborative, speedy , Welcoming
+
+
 ## Friday 26th July 2024
 
 
