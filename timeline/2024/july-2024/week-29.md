@@ -186,6 +186,7 @@ In our recent discussions, we focused on creating a workshop for github operatio
 - other: Step by Step
 ## Friday 19th July 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -231,3 +232,35 @@ In our recent discussions, we focused on creating a workshop for github operatio
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, meeting venue, old video, Archives
 - emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy, decisive, Friendly
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, devon, Emmanuel Issac, Ruti, Nebula, Boluwatife Ajumobi, Nengi
+- Purpose: Discussion on the recently concluded Zealy Sprint and writing more drafts for the community page.
+- Working Docs:
+  - [WWG Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone to the meeting! We kicked things off from the Zealy side of things; thankfully, the Zealy sprint has ended, however, the random winners🏆 haven't been announced yet. Momentarily, Kenichi added that the next sprint should start immediately — July 22nd, to be precise. Kenichi also suggested that we should repeat some quests from last quarter; he also hinted that the last sprint had a low turnout rate and a decline in participation compared to other springs.
+
+Dework update: Cjfrankie and Devon shared updates on the current tasks assigned to them.
+
+Following that, Kenichi called the Scribblers' attention to the community page, and he added that the community page is out of draft. He also encouraged the Scribes to source more drafts. Kenichi added that he would dig into the inventory to source old, unpublished articles pending the time when new drafts will be ready! 
+
+From a bird’s-eye view, July looks like a transformative month for the WWG: we crossed our KPI of 200 followers on the ambassador Medium page, but we're not stopping there! We need more people to engage with our content.
+
+Peer Review: Following a discussion with the Writers' WG test submission, Kenichi still emphasized the need for using suggestion mode to edit drafts so that the writers can see what changes were made. Kenichi also commended Nengi for her test;  momentarily, he announced that Nengi is now officially a Scribbler and that he will get the Scribbler tag for her. He also encouraged the Scribes to keep sharing the WWG Scribbler Onboarding Form since we haven't reached our onboarding number for Q3.
+
+Following the revamped marketing guild, marketing wants to join forces with the writers' workgroup. To this effect, Kenichi proposed a giveaway or airdrop initiative where people with the highest Zealy points get rewarded.
+
+
+
+#### Action Items:
+- [action] Kenichi to announce the random Zealy sprint winners in the Zealy channel and also share the “New Zealy structure.”  [assignee] Kenichi [status] done
+- [action] Kenichi to chase Peter to assign the Scribbler Tag to Nengi. [assignee] Kenichi [status] done
+- [action] Mikasa to chase Nengi to provide more clarity on the WWG structure and also help her answer any questions she might want to ask. [assignee] Mikasa [status] done
+
+#### Keywords/tags:
+- topics covered: Zealy, Medium, community page, Drafts, Zealy sprint, winners, Onboarding, Dework, Tasks, Giveaway/airdrop
+- emotions: Welcoming, Collaborative, insightful, calm
