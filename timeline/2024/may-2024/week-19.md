@@ -7,6 +7,7 @@ description: Mon 6th May - Sun 12th May 2024
 ## Tuesday 7th May 2024
 
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -84,6 +85,46 @@ Main topics this Town Hall include:
 #### Keywords/tags:
 - topics covered: open source, open source ethos, Quarter 1 2024, recap, Decentralization Blueprint, Supervisory Council, Q2 budget decision process, Q2 budget, Strategy Guild, tools, tool ethics
 - emotions: engaging, participatory, interesting, sense of community
+
+
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Felix [documenter], Felix, CallyFromAuron, PeterE, guillermolucero, SucrenSpice
+- Purpose: Weekly GovWG Meeting
+- Working Docs:
+  - [SNET Ambassadors - The Naming Thing](https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing)
+  - [Q2 budget sheet](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945)
+  - [Gov Sandbox Turn #1 - Testing Tools](https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing)
+  - [Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program](https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing)
+  - [Context setting for Core Contributor decision Q2 budgets](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [Pol.is survey about the Q2 budget decisionmaking process](https://pol.is/8brrtdfttu)
+
+#### Narrative:
+Issues:
+Budget changement at Writers' WG causes some confusion. We will reach out to the Writers WG to ask for a re-submission and clarity on the current Q2 Budget proposal. We ideally get a updated Writers WG budget submitted by Monday, May 13th
+
+Issues:
+Not clear how to contact Core Contributors the best, so we set up a new channel ("Decision To Be Made") which will be publicly accessible, but with writing access only for the core contributors. We will announce important topics regarding decisions which need to be made at that channel.
+
+We didnt discuss:
+Item: Naming Decision
+
+
+
+
+#### Discussion Points:
+- Q2 Budget decision where are we, what next: Core contributors completed first 
+
+#### Action Items:
+- [action] Plan a consent session May 21st at 14.00 UTC, at the Governance Workgroup session. We will also try to get better in informing the Core Contributors and aim to increase participation.  [assignee] all [due] 21 May 2024 [status] todo
+- [action] Define format for a retrospective session on Q2 budget decisionmaking. We will use two parallel processes to gather feedback & insights on the Q2 Budget. First, we organise a Zoom session, supporting with a Miro board. Make the round and ask core contributors about: What worked well, didnt worked well & suggestions for improvements. We plan to host the retrospective session on June 11th at 14.00 UTC at the Governance WG. [assignee] all [due] 11 June 2024 [status] todo
+- [action] In addition we will use a pol.is to gather async & anonymous feedback. Note* We will have to enable some capacity to make sure to analyse and archive the outcomes from the retrospective... Coordinate closely with Archives WG* [assignee] all [due] 14 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Q2 Budget decision ,  Core contributor communication  , Retrospective planning ,  Budget change request  , Writer's Workgroup, Pol.is, Discord
+- emotions: positive, Neutral , Confusion
 
 
 ## Wednesday 8th May 2024
