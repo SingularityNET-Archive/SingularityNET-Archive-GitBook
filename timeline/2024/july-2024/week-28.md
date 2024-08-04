@@ -244,6 +244,70 @@ Discussion Points:
 - emotions: Organised, inclusive, participatory, problem-solving
 
 
+## Thursday 11th July 2024
+
+### LatAm Guild
+
+- Type of meeting: Biweekly
+- Present: Guillermo [facilitator], Ines [documenter], Ines, Caue [translator], Guillermo, Ines, Andrea Dekovic, Martin Rivero, Caue, lord_kizzy
+- Purpose: Core team Strategy & Operations of the Program / #4 Town Hall @SNET_Latam Ambassadors 'El Power Latino de SingularityNET
+- Meeting video: [Link](https://www.youtube.com/watch?v=P8xZKZmIVKQ&t=3s)
+- Transcript: [Link](https://otter.ai/u/IY-8zlCtvNF8OfUuJ1uuUKCJ3Ls?view=transcript)
+- Working Docs:
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [TH#4 _ LATAM AMBASSADORS GUILD _ 110724](https://docs.google.com/presentation/d/17GFID_MjPNgMG-yUK5ZsUA32M5JSUFiJ4DMtfuJWn3c/edit?usp=sharing)
+
+#### Agenda item 1 - Strategy Sub-Group - [carry over]
+
+#### Narrative:
+The speakers discussed the intersection of AI and governance, highlighting AI's potential to analyze data and help drafting strategies for sustainable development of the guild and the community. They also explored the importance of a reputation system, building a strong community, and building operations for decentralized communities. Speakers emphasized the need for a merit-based reputation system, task-based approach, and systematic approach to managing contributions and rewards. They also discussed the use of tokens for voting and decision-making in the context of SingularityNet's ambassadors program.
+
+
+
+#### Action Items:
+- [action] Governance Blueprint Design Draft [assignee] Guillermo, Ines, Martin Rivero, Caue, Andrea Dekovic [due] 8 August 2024 [status] in progress
+
+#### Agenda item 2 - Governance Sub-Group - [carry over]
+
+#### Narrative:
+
+
+In our discussions, we emphasized the critical importance of communication and collaboration in a remote work environment to ensure seamless interactions and productivity. We explored the potential of using AI for data analysis and intelligence, recognizing its value in making informed decisions. Facilitating documented work processes was highlighted as essential for maintaining clarity and consistency in our tasks. We also discussed the idea of using tokens or AGX to reward participants in on-chain governance, proposing a system where tokens could be used to vote on activities. Additionally, we addressed translation tasks and the associated rewards, aiming to create an inclusive and participatory framework for all team members.
+
+
+#### Action Items:
+- [action] Governance Token Design  [assignee] Guillermo, Caue, Martin Rivero [due] 24 July 2024 [status] todo
+
+#### Agenda item 3 - Marketing Sub-Group - [carry over]
+
+#### Narrative:
+In our recent discussions, we outlined the draft concepts for a communication strategy targeting the four LATAM countries where we will begin our actions: Argentina, Mexico, Colombia, and Brazil. We defined the channels to use and assigned tasks for our next meeting, where we will develop our short-term objectives, particularly focusing on the upcoming ADN Event in Buenos Aires on July 31. Additionally, we planned for the participation of @SNET_Latam in the AGI-24 Round tables scheduled for August 7, ensuring that we are well-prepared to contribute to these significant discussions.
+
+
+#### Action Items:
+- [action] Compile budget and communication actions proposals for ADN [assignee] Andrea Dekovic, Ines, Guillermo [due] 21 July 2024 [status] in progress
+- [action] Design Draft Proposal for topic of AGI-24 @SNET_Latam [assignee] Guillermo, Ines [status] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+In our discussions, we delved into the governance design for our global community, leading to an in-depth conversation on creating an inclusive and effective governance system. Guillermo explained the current governance framework, highlighting how contributions are rewarded and proposing a token-based system for community representation. We acknowledged the potential for power imbalances but focused on building a community where members are actively involved in decision-making through reputation systems and token incentives. Understanding the system's objectives and mechanisms was deemed crucial, and we emphasized that while newcomers are respected, tasks should be assigned based on merit. We also discussed using token-based systems to measure contributions and creativity within the ambassadors' global program, incentivizing new members through rewards for participation and engagement. Lastly, we outlined a plan to build a decentralized operations system using GitHub and Google Drive, ensuring transparency and collaboration.
+
+
+#### Decision Items:
+- GitHub and Google Drive WorkShop
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] GitHub WorkShop [assignee] Guillermo, Caue [due] 24 July 2024 [status] todo
+- [action] Operations System Drive Setup [assignee] Guillermo [due] 17 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget, Roles, Collaboration, Translation, GitHub, governance design, inclusive, assigning tasks, merit, Google Drive 
+- emotions: Collaborative, Friendly, Thoughtful , funny , entertaining, challenging
+- other: Step by Step
+
+
 ## Saturday 13th July 2024
 
 ### Gamers Guild
