@@ -308,6 +308,45 @@ In our discussions, we delved into the governance design for our global communit
 - other: Step by Step
 
 
+## Friday 12th July 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], lord kizzy [documenter], hogantuso, Slate, malik, killy, Zalfred, lord kizzy, Advanceameyaw
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video Workgroup Budget Request Q3](https://docs.google.com/spreadsheets/d/1gkLF0ymOATPQu_jAWSL1u9QH6OcOIQEClF9ExL6RJQk/edit?gid=0#gid=0)
+  - [Video Workgroup Q2 Report.](https://docs.google.com/document/d/1r5BG6w-sdOEoda3sKwIRWtfLioCBGw5sof4tCrnIuac/edit#heading=h.1ooa0j1dxhvv)
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+
+#### Discussion Points:
+- Updates on task management: Slate shared some issues with the Town Hall editing task and also the Town Hall Summary video: assignees didn't follow the guidelines and tasks were late. Slate had a call with the Social Media manager (Malik) on how to streamline the process for these tasks, and now all issues have been resolved and the video links have been added to the content sheet.
+- Updates on social media management: Malik mentioned that 3 long videos and 3 shorts (including the Town Hall videos) were posted within the week.
+- Updates on Zealy: Lordkizzy highlighted that he had separate calls with Kenichi and Devon within the week and reached an agreement with the Writers' WG in regard to the payment for the liaison role: Devon will be paid from the Writers' WG points system in Q3 but in Q4 there will be an allocation for the liaison role in the Video WG budget. Kenichi is going to study the next two sprints to get the exact figure for the payment, so that we won't be over-paying or under-paying anyone. Secondly, Lordkizzy indicated that Devon sent out 5 long videos and 5 shorts in the previous sprint to Kenichi but only 3 long videos were created as quests, so going forward Lordkizzy has made emphasis on Devon completing the training and getting editorial access to the Zealy platform.
+- Discussion on Operations going forward: Lord kizzy suggested that we include new columns in our content sheet for Tiktok and Instagram links and Zealy Quest creation. Lordkizzy highlighted that there is a need for more participation in meetings since that is the environment where most decisions are made, and going forward he will try to see if the Video WG could adopt the Treasury system for task assignments rather than assigning members that are not up to speed on the conversation and decisions made by the Video WG.
+- Discussion on Budget: Lordkizzy and slate indicated that some other work groups are yet to get consent and that we should wait for one more week before making decisions. 
+- Discussion on Quality Control: Malik suggested that we audit scripts before the video creation, zalfred suggested that we should rather make it a priority for members to give meaningful feedback while giving consent to videos. Malik also highlighted that the majority of members rarely consent to videos and asked how that can be improved. Lordkizzy suggested providing incentives ($5) to members for meaningful feedback on scripts and videos, that way we would get enough feedback on videos and ensure that the quality of videos is controlled. This will be implemented in Q4.
+- Discussion on Vacation: the Video WG is going to have further discussions on this in the next meeting.
+- Migration of Video WG calls to Zoom rather than Discord: Tuso was of the opinion that we should migrate to Zoom since majority of the Workgroups and Guilds are currently using Discord, some members still preferred Discord but we decided to continue the conversation in the next meeting. 
+
+#### Decision Items:
+- We decided to have further discussions on restructuring of the Q3 Budget in the next call 
+  - [rationale] We want to be sure of the exact figure for the budget cuts
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Lord_Kizzy to edit the Q2 Budget and Q3 Budget Proposal [assignee] lord kizzy [due] 5 July 2024 [status] done
+- [action] Lord_Kizzy to reach out to Rojo in regard to the Q3 Budget reduction and try to see if he could make the next Treasury call [assignee] lord kizzy [due] 5 July 2024 [status] done
+- [action] Lord kizzy to have a discussion with Devon and Kenichi on zealy operations rewards [assignee] lord kizzy [due] 12 July 2024 [status] done
+- [action] Zalfred and Lordkizzy to reach out to slate (as the Task manager) informing him on the decisions made in the meeting [assignee] Zalfred, lord kizzy [due] 12 July 2024 [status] done
+- [action] Lordkizzy to have a discussion with Rojo on the changes and decisions made by the video WG and to get his feedback  [assignee] lord kizzy [due] 19 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Weekly updates, Budget Reduction, Budget, Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production, Zoom, Discord, feedback, consent, incentives quality, quality control
+- emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy
+
+
 ## Saturday 13th July 2024
 
 ### Gamers Guild
