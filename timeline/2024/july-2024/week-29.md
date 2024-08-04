@@ -6,6 +6,7 @@ description: Mon 15th Jul - Sun 21st Jul 2024
 
 ## Monday 15th July 2024
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -54,6 +55,91 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 #### Keywords/tags:
 - topics covered: Guild membership, Q3 Objectives, Q3 Report, tools, meeting time, participation, contribution
 - emotions: interesting, Collaborative, fun
+
+
+
+### Treasury Policy WG
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], advanceameyaw, effiom, martinsoki, OluAyoola7D, peter, Quam, tevo saks, Yemi Solves
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764593379439090&cot=10)
+- Other media: [Link]( https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Policy Template](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v)
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback](https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform)
+  - [Responses for Budget-Fitting Policy](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g)
+
+#### Agenda item 1 - Reviewing Responses for Budget-Fitting Policy - [carry over]
+
+#### Discussion Points:
+- Response link: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g
+- Should the review be rewarded?
+- What should be done with the feedback?
+
+#### Decision Items:
+- Feedback that expects policy modifications can be addressed by creating new policy submissions
+  - [effect] affectsOnlyThisWorkgroup
+- Feedback won't be rewarded.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Check if there are more responses on policy in the next session [status] todo
+
+#### Agenda item 2 - Review of New Policy Feedback and its process - [carry over]
+
+#### Discussion Points:
+- Policy Submission link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk
+- There is a new New Policy submitted - Slow Start
+- Where would you like to go to find policies and give feedback?
+- Define policy execution timeline. How long should a policy take effect?
+- The involvement of core contributors in this process.
+
+#### Decision Items:
+- Core contributors should be notified to provide feedback
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Share new policy and ping people [status] todo
+- [action] Update form to include a new column for policy duration and experimentation timeline [status] todo
+
+#### Agenda item 3 - Policy WG Retrospective Planning - [carry over]
+
+#### Discussion Points:
+- Has policy Workgroup and its new policies had any impact?
+- Thoughts on the effect minimum policy requirements and incentives rules
+- How to get more people involved in the WG?
+- What are reserve policies?
+
+#### Action Items:
+- [action] Prepare for Retrospective Deep dive in next session [status] todo
+- [action] Move topic about Reserve questions to Treasury Guild [status] todo
+
+#### Agenda item 4 - What are our current processes for adopting policies? - [carry over]
+
+#### Discussion Points:
+- nsights are listed under Treasury Policy Template: https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M
+- 4 Insights were shared by people present in the meeting from Core Contributor, Strategy Guild and New member perspectives
+
+#### Action Items:
+- [action] Get more insights from other workgroups [status] todo
+
+#### Agenda item 5 - Drafting Process chart for Policy creation - [carry over]
+
+#### Discussion Points:
+- Should there be any deadlines?
+- When do we notify people considering the steps in the process?
+
+#### Decision Items:
+- Once a week check for submissions and notify members if new ones are submitted
+  - [effect] affectsOnlyThisWorkgroup
+- Include Policy discussion into the Treasury Guild agenda after two weeks has passed and only positive reviews for Policy
+  - [effect] mayAffectOtherPeople
+
+#### Keywords/tags:
+- topics covered: Miro Board, Rewards, Policy Creation, Policy, Timelines
+- emotions: informative, bit quiet
 
 
 ## Wednesday 17th July 2024
