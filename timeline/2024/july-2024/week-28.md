@@ -310,6 +310,7 @@ In our discussions, we delved into the governance design for our global communit
 
 ## Friday 12th July 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -345,6 +346,50 @@ In our discussions, we delved into the governance design for our global communit
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget, Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production, Zoom, Discord, feedback, consent, incentives quality, quality control
 - emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy
+
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Ayo, Emmanuel Issac, Slate, AJ, kateri
+- Purpose: Regular weekly meeting of the Writers' WorkGroup in the SingularutyNET Ambassador Program, discuss on timestamped video shorts collaboration with the video workgroup and thrilling discussion centered around Zealy.
+- Working Docs:
+  - [WWG Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone to the meeting: following that, Kenichi surfed the Dework board to see all the tasks' progress. Firstly, Emmanuel Isaac and Mikasa shared an update from the Twitter management side of things. Emmanuel said that he has submitted the KPI for Q3, and he has created a draft for the content calendar which will start rolling out next week.
+
+Secondly, Kenichi raised a discussion on the recent test taken by WWG aspirants — he also pointed out that the aspirants should enable suggestion mode to reflect the actual changes that they made. The aspirants should also open edit access and follow the exact instructions that were mentioned in the test. So far, three scribblers have reviewed the test done by Nengi and Gorga, while Kenichi will do the aggregate to show their total score, and if they reach the threshold, they will be welcomed to the WG.
+
+Kenichi also pointed out some slips from Slate's article “Medical Advisor Roundtable: Chronic Disease” and why he still needs to make changes to the document. Kenichi also emphasized the need for more Twitter threads, and he also pointed out that Twitter threads aren't exclusive to Mikasa; other scribblers can find interesting topics and then showcase them during meetings.
+
+We discussed “timestamped video shorts", and how we can embed them within our Medium articles to increase traction and engagement. Kenichi added that he will create a list of all the pending drafts and then give the video to WG. Devon asked, “What kind of videos?” Kenichi answered by saying that the shorts would be created from existing videos and would be no longer than 1 minute and 30 seconds. Lady Tempestt added that the scribblers should decide which part is the most captivating in a video, and then the video gets a timestamp. 
+
+We started a thrilling discussion centered around Zealy; thankfully, the current sprint is ending in a few days! Kenichi also shared insider tips on the sprinters' matrix;  the current sprint has 36+ participants. We also talked about restructuring the Zealy rewards. Here’s the breakdown: the top 5 get $30 each, the next 5 get $20 each, the next 10 get $10 each, and 10 random people will earn $10 each. This decision was made to incentivize more people for their participation and time.
+
+As a matter of finality, Ayo added that we should always give consent to new proposals to enable them to pass. He also spilled the beans by giving us insider tips from the Strategy Guild. The guild is looking forward to hosting a workshop that will involve the Writers' WG and video WG in their pipeline — more updates will be coming soon!
+
+
+#### Decision Items:
+- In view of Dework priority bars, we decided that moving forward, Scribblers should pay close attention to the priority bars: any tasks that exceed the submission date will be assigned to another available scribbler to avoid delay! 
+  - [rationale] This decision was made to prevent any delay that may disrupt the overall impact of the workgroup 
+  - [effect] affectsOnlyThisWorkgroup
+- We have decided to incorporate “video shorts” within Medium articles to increase traction and engagement.
+  - [rationale] To increase traction and engagement.
+  - [effect] mayAffectOtherPeople
+- We decided to tweak Zealy's reward structure! Before now, only a few people got a chuck of the reward, but now we want to split the $400 reward among 30 sprinters.
+  - [rationale] We want to spread the reward between 30 sprinters to incentivize their efforts and time.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Following a discussion on “shorts,” Kenichi will chase LordKizzy to brief him about our discussion and let him know to move forward. [assignee] Kenichi [status] in progress
+- [action] Kenichi to draft a reward structure for Zealy and then share it in the WWG channel. [assignee] Kenichi [status] done
+
+#### Keywords/tags:
+- topics covered: WWG Test, Twitter updates, Zealy sprint, priority bar, Strategy Guild, Workshop, sprinters, medium, shorts, Videos WG, timestamps, Translation, Dework
+- emotions: forward-thinking, Collaborative, productive, interesting
+- other: Introduction by AJ , Writers and Translation wg collabration, WWG Podcast
 
 
 ## Saturday 13th July 2024
