@@ -244,6 +244,7 @@ Licensing of materials collected from surveys and interviews
 
 ## Friday 5th July 2024
 
+
 ### Writers Workgroup
 
 - Type of meeting: Weekly
@@ -280,3 +281,38 @@ As a matter of finality, Kenichi announced the launch of the new “Mindplex Ser
 #### Keywords/tags:
 - topics covered: Zealy, medium matrix, community page, zealy quest, points system, Q2 recap, mindplex.AI, Dework, Onboarding, Q3 proposal, WWG Test, consent, cohort session
 - emotions: speedy , calm, Welcoming, forward-thinking, Collaborative, progress-oriented
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], lord kizzy [documenter], hogantuso, Slate, malik, osmium, killy, Zalfred, lord kizzy, oep, DevonHardy
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video Workgroup Budget Request Q3](https://docs.google.com/spreadsheets/d/1gkLF0ymOATPQu_jAWSL1u9QH6OcOIQEClF9ExL6RJQk/edit?gid=0#gid=0)
+  - [Video Workgroup Q2 Report.](https://docs.google.com/document/d/1r5BG6w-sdOEoda3sKwIRWtfLioCBGw5sof4tCrnIuac/edit#heading=h.1ooa0j1dxhvv)
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+
+#### Discussion Points:
+- Updates from the Task manager: we had multiple submissions by zalfred, OEP, killy, Lord kizzy (2 long videos and 2clips) which have been posted in the Video WG channel and reviewed by the group. Slate also asked if he could create a new task for Clips since the previous BGI clips task is outdated.
+- Updates from the Social Media manager: Malik highlighted that he had been granted access to our socials and he stated that 2 long videos (including the Town Hall video) and 3 shorts videos (including the Town Hall Summary)
+- Zealy updates: In the previous sprint, 3 videos were posted and new videos were prepared for the next sprint which is starting in 9 days. As regards the claims, Devon is yet to discuss with Kenichi. Devon suggested the Zealy payment could come from the Video WG rather than from the points system of the Writers' WG. Slate asked if there were two allocations for Zealy in the Video WG Budget and Lordkizzy stated that it was just one allocation and it was for the reward distribution for Zealy participation; the payment for the liaison was going to come from the Writers' WG.
+-  Discussion on Operations going forward: Lordkizzy laid out some essentials that needed to be implemented going forward. He highlighted the roles and responsibilities of each member and encouraged better submissions for tasks and video contents submissions. He also stated that links to posted videos on our socials should be provided in our content sheet.
+- Discussion on Q3 budget and Q2 community concerns: The major discussion was regarding the budget cuts to get our budget fitted. We all had discussions around how we could get the budget fitted; Slate suggested we reduce the amount per video, Malik suggested we take one video person rather than 2 people working on a video.
+
+#### Decision Items:
+- We decide to take a pause on video productions and task allocations till we have the exact figure for the cuts, and restructure our Budget based fitted amount 
+  - [rationale] Members felt we had a lot of videos that are yet to be uploaded (a total of 13 videos and 4 shorts) so we could keep uploading them while we wait 
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to have a frequency on how many videos are to be posted per week: the cap was 3 long videos and 2 shorts (including the weekly Town Hall videos)
+  - [rationale] This decision was made to have a structured process on how frequently we upload videos on our socials 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Lord_Kizzy to edit the Q2 Budget and Q3 Budget Proposal [assignee] lord kizzy [due] 5 July 2024 [status] done
+- [action] Lord_Kizzy to reach out to Rojo about the Q3 Budget reduction and try to see if  he could make the next Treasury call [assignee] lord kizzy [due] 5 July 2024 [status] done
+- [action] Lord kizzy to have a discussion with Devon and Kenichi on Zealy operations rewards [assignee] lord kizzy [due] 12 July 2024 [status] todo
+- [action] Zalfred and Lordkizzy to reach out to Slate (as the Task manager) informing him on the decisions made in the meeting [assignee] Zalfred, lord kizzy [due] 12 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Weekly updates, Budget Reduction, Budget, Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production
+- emotions: Casual, speedy , productive, Organised, Thoughtful, warm
