@@ -109,3 +109,44 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 #### Keywords/tags:
 - topics covered: github board, AI ethics, Ethics, good meeting summaries, open source, GitHub video walkthrough, meeting summary tool redesign, community engagement, summary backlog, archives backlog, Q3 issues, Governance workgroup, holiday
 - emotions: Organised, new people present, short, focused
+## Friday 26th July 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Zalfred [facilitator], lord kizzy [documenter], hogantuso, Slate, malik, killy, Zalfred, lord kizzy, AndrewBen, RealMoyo, Ayodele, Rojo, lilycupcake, osmium, DevonHardy, Advanceameyaw, oep
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video Workgroup Budget Request Q3](https://docs.google.com/spreadsheets/d/1gkLF0ymOATPQu_jAWSL1u9QH6OcOIQEClF9ExL6RJQk/edit?gid=0#gid=0)
+  - [Video Workgroup Q2 Report.](https://docs.google.com/document/d/1r5BG6w-sdOEoda3sKwIRWtfLioCBGw5sof4tCrnIuac/edit#heading=h.1ooa0j1dxhvv)
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+
+#### Discussion Points:
+- Updates on task management: Malik indicated that he had created the monthly recurrent tasks on Dework and there were 3 new applications which were all rejected after the review process. There was a short clip submitted by Rojo and Lily and it's an animated clip and they requested for $50 per person. The whole group took a look at the video and commended the work but the major concern was the compensation for the work. Lordkizzy made emphasis on the tight budget the video WG are currently working with for Q3 and says it will be outrageous to pay $50 per person ($100) for a clip when we have a budget of $20 each for 12 clips. Lily dropped in and mentioned that the entire video was created from scratch and we should consider it as a long video rather than a clip. Slate indicated that once we pay this out someone can perform similar task and be expecting the same pay which is not feasible for us, so Lordkizzy suggested we compensate their efforts with $30 each and we decided to put it to a poll since the conversation was taking a while. Malik also indicated that he had a discussion with Lordkizzy on the quality of our Town Hall videos 
+- Updates on social media management: Tuso indicated that there hasn't been activity from his side, and he had posted the Town Hall videos and two other videos would be posted before the end of the week
+- Updates on Zealy: Devon indicated that he had a conversation with Kenichi earlier in the week to present Videos to be created as quests on the Zealy platform which would be commencing next week. Lord kizzy indicated that he also had a conversation with Kenichi to see how Devon could get the editorial access to the Zealy platform but Kenichi highlighted in the discussion that Devon hasn't been active in the Zealy program so it's difficult to grant him the editorial access.
+- Discussion on Updates from Lordkizzy and Quality Control Blueprint: Lordkizzy indicated that the current format for our Town Hall Recording is wrong and should be corrected going forward, and he has sent out the correct format to Malik (Task Manager). He also spoke on the  Quality Control discussion from the previous meeting and how this could be implemented, group members shared their thoughts and opinions which will be reflected in the Quality Control Blueprint. 
+- Discussion on Budget: Lordkizzy presented the fitted budget to the workgroup and explained the process going forward.
+- Strategy Guild Workshop: Ayo suggested that three members should represent the Video WG in this workshop session on Mondays 17:00 UTC 
+
+#### Decision Items:
+- We decided to reward Rojo and Lilycupcake $30 each for their amazing video
+  - [rationale] We do not have the buget for $50 per person for a 60 secs video
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that Lordkizzy, Zalfred and Tuso are going to represent the Video WG for the Strategy Guild Workshop
+  - [rationale] These are the members that expressed interest
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Workgroup members to ideate on possible human animation platforms  [assignee] All Members [due] 26 July 2024 [status] todo
+- [action] Task management was assigned to Malik for the month of August. [assignee] malik [due] 16 August 2024 [status] in progress
+- [action] Social media management was assigned to Tuso for the month of August. [assignee] hogantuso [due] 16 August 2024 [status] in progress
+- [action] Weekly Facilitation was assigned to Zalfred for the month of August. [assignee] Zalfred [due] 16 August 2024 [status] in progress
+- [action] Documentation was assigned to Lordkizzy for the month of August. [assignee] lord kizzy [due] 16 August 2024 [status] in progress
+- [action] Town Hall Summary edit was assigned to Andrew Ben for the month of August. [assignee] AndrewBen [due] 16 August 2024 [status] in progress
+- [action] The Town Hall edit was assigned to Killy for the month of August. [assignee] killy [due] 16 August 2024 [status] in progress
+- [action] Lordkizzy to draft out the Quality control blueprint and present it the workgroup  [assignee] lord kizzy [due] 2 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format
+- emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy, decisive, Friendly
