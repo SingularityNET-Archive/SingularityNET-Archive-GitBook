@@ -295,6 +295,7 @@ Discussion Points:
 
 ## Thursday 11th July 2024
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -355,6 +356,64 @@ In our discussions, we delved into the governance design for our global communit
 - topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget, Roles, Collaboration, Translation, GitHub, governance design, inclusive, assigning tasks, merit, Google Drive 
 - emotions: Collaborative, Friendly, Thoughtful , funny , entertaining, challenging
 - other: Step by Step
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: CallyFromAuron [facilitator], lord kizzy [documenter], Onize, kateri, lord kizzy, Clement Umoh, LadyTempestt, daniel effiom, godspower egete, Kenichi, Yemi Solves, Duke, MartinSoki, Udoma Obu, Christian Egete, CallyFromAuron, PeterE, Sucre n Spice
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Getting Started Channel doc ](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Suggestions towards better onboarding processes](https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing)
+  - [Onboarding WG Buddy System survey](https://forms.gle/BHQuj4UxNotcuuqs8)
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections for Q3 2024](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?gid=2014555984#gid=2014555984)
+  - [Onboarding meeting Chat, 27th June 2024 - Gorga](https://docs.google.com/document/d/1fDoMj4ASJcmyvLKeqVyitF1A_ohnC1KIU0WooAONarU/edit?usp=sharing)
+  - [Onboarder's process](https://docs.google.com/document/d/1z6i9uZsImfdUtXn4Hi1CM-JiD-bHriz_DIy0DuKvkA0/edit?usp=drivesdk )
+
+#### In this meeting we discussed:
+- Minutes from the last meeting and action items; we agreed to the minutes of last meeting.
+- Onboarding Journeys update: Onize wasn't able to present the scripts in the meeting but there were also some discussions on the format we are going to use to if we are going to  publicize the scripts (a video or rather infographics). Sucre will look at the budget to see which is feasible.
+- Skills Matrix: Vani wanted to know what are two skills we will to select to organize mentorship for Q3 in the group
+- Q3 budget: Since the total requested across all WGs is higher than the total available, budget-fitting will need to be implemented. The lowering percentage is yet to be determined since some workgroup budgets are yet to be approved, but we will get less than we asked for. Sucre is to take a look at the budget to see how we could prioritize activities.
+- Onboarders Team: Sucre explained the entire process (There is going be a new Discord channel and also note that new people get a Discord tag which will be removed once they become a Core contributor. Also the FAQ will be updated once the ASI migration is completed. See ONBOARDING document
+- Facilitation / Documentation Roster: There were some discussions around who the next facilitator and documenter was going to be. From the roster is going to be Duke facilitating and Lady Tempestt documenting and they both indicated that they would be up for it.
+- Gorga alleged that he had been passed over in the assignment of tasks such as documenting due to xenophobia, prejudice and favouritism, and that the workgroup's practices were untransparent. People in the meeting addressed and refuted these allegations in the Zoom chat - see doc "Onboarding meeting Chat, 27th June 2024 - Gorga"
+- August Break: Vani highlighted that many members of the ambassador program were going on a summer break and wanted to know if we would continue having meetings, she also proposed we could use some of the August sessions for skills training sessions. Lordkizzy indicated that we should try to see if those interested in the training session would be available during this period. We decided to continue the conversation in the next meeting.
+- Discussions on Gorga's accusations and comments on the Workgroup: we decided to for Sucre to reach out to Gorga and see if he would be available for the next meeting and then make further discussions on this.
+
+#### Decision Items:
+- We agreed on Documentation as the first skill to organize mentorship for in Q3 and then GitHub Operations afterwards 
+  - [rationale] We had quite a large number for report writing but we noticed that no one has  said in the skills matrix doc that they are interested in learning the skill. Since we plan to have a mentorship session next month for documentation we could just make that the first skill to learn.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that Lady Tempestt will prepare and host the Mentorship session for Documentation, tho we are yet to set the date.
+  - [rationale] She is skilled in Documentation
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Onize to bring onboarding journey scripts to the next meeting.  [assignee] Onize [due] 18 July 2024 [status] in progress
+- [action] Lord Kizzy to prepare the facilitation and documentation roster for Q3 and present it in the WG channel.  [assignee] lord kizzy [due] 4 July 2024 [status] done
+- [action] Sucre to present results on the selected team of Onboarders in the Onboarding WG channel. [assignee] Sucre n Spice [due] 4 July 2024 [status] done
+- [action] Sucre to work on editing the budget and present it to the next meeting. [assignee] Sucre n Spice [due] 18 July 2024 [status] in progress
+- [action] Lady Tempestt to share the Buddy system report document in the Ambassador General channel. [assignee] LadyTempestt [due] 18 July 2024 [status] todo
+- [action] Vanessa to find out where the information on "Other WGs and guilds may want to implement a Buddy system mechanism" was mentioned [assignee] CallyFromAuron [due] 18 July 2024 [status] todo
+- [action] Sucre to meet with Tevo and Demonix to see how the Onboarders process could be implemented on Discord [assignee] Sucren [due] 18 July 2024 [status] todo
+- [action] Sucre to try see where funds will be gotten for the Onboarding Journeys video [assignee] Sucre n Spice [due] 18 July 2024 [status] todo
+- [action]  Sucre to reach out to Gorga and see if he will be available for the next meeting  [assignee] Sucre n Spice [due] 18 July 2024 [status] todo
+
+#### To carry over for next meeting:
+- Onboarding Journeys
+- Skillshare matrix and training session dates
+- Onboarders team
+- Q3 budget
+- Discussions on Gorga's allegations and comments on the Workgroup
+- Vacation 
+
+#### Keywords/tags:
+- topics covered: Getting Started, onboarding processes, buddy system, Quarterly Report, onboarders team, Facilitation, Documentation, skills matrix, allegation, gorga, Budget , Q3 budget, Onboarding Journey Scripts, Vacation
+- emotions: interesting, misunderstood, Casual, Well-attended
 
 
 ## Friday 12th July 2024
