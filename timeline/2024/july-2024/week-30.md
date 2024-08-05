@@ -225,6 +225,59 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 - emotions: Casual, Collaborative, speedy , Welcoming
 
 
+## Thursday 25th July 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: LadyTempestt [facilitator], lord kizzy [documenter], CallyFromAuron, Sucre n Spice, PeterE, lord kizzy, Clement Umoh, LadyTempestt, daniel effiom, Yemi Solves, Duke, MartinSoki, Slate, Ayo, Cjfrankie, Tuso., Gorga Siagian, Merryman, ToneTech, Samson Freeman
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections for Q3 2024](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?gid=2014555984#gid=2014555984)
+  - [Meeting agenda](https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?usp=sharing)
+  - [Gorga's allegations](https://docs.google.com/document/d/1MEcWxBLB_-thmsys7OIEBkxqAXW0zwoLo6uR-oDR6rY/edit)
+  - [BUDGET-FITTED Onboarding WG budget Q3 2024](https://docs.google.com/spreadsheets/d/1SCBv9Fi8MZLefKSs-ezzfVnIpDJfu6BqcT2uVU6glmk/edit?gid=2014555984#gid=2014555984)
+
+#### Town Hall Updates:
+- Mention that we have selected a set of Onboarders
+- Skillssharing - We are having a session on documentation on 15th Aug, led by LadyTempestt
+- Budget fitting? How we did the fitting (the amount we lost and what we are left with)?
+- New onboarding process. Channels are live
+
+
+
+#### In this meeting we discussed:
+- Minutes from the last meeting, 18th July
+- Action Items from 18th July meeting
+- Q3 budget update: We took a look at BUDGET-FITTED Onboarding WG budget Q3 2024, https://docs.google.com/spreadsheets/d/1SCBv9Fi8MZLefKSs-ezzfVnIpDJfu6BqcT2uVU6glmk/edit?usp=drivesdk
+-  Facilitating and documenting next week: Clement facilitating, and mentoring Colleen;  CJFrankie documenting and adding to Summary tool, and mentoring MartinSoki.
+-  Town Hall updates: Clement is to schedule a call with Gorga after the meeting to mentor him. There were suggestions on what could be added to the town hall updates: - Skillsshare update; We are having a session on 15th by LadyTempestt - Mention that we have selected a set of onboarders - Budget fitting, How we did the fitting (the amount we lost and what we are left with)? maybe not - New onboarding process. Channels are live
+- Skillshare matrix; -Session on “Documentation” on the 15th August - Tuso was assigned to timestamp and post the recording (budget is $30). Session on GitHub for project management - Vani suggested that we ask Colleen if she would be available to do it before we assign it to her or even set a date for the session. -We decided to extend the conversation on "What would be the 3rd training for this Quarter" to the next meeting since we weren't getting enough responses from the members in the call 
+- Assigning other work we budgeted for: We decided via an in-meeting vote that Ayo and Kateri will work on the research interview design. Research analysis will be done in Q4; Vani will either join the team or replace one of them, depending on budget. 
+
+#### Decision Items:
+- We decided via an in-meeting vote that Ayo and Kateri will work on the research design in Q3, and then, when we get to writing the Q4 budget, we'll decide what we want to allocate to the execution and analysis of the research, which will determine how many people work on those.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Clement to mentor Gorga to take on town hall updates on 30th July. [assignee] Clement Umoh [due] 30 July 2024 [status] in progress
+- [action] Sucre to drop the welcome message draft in the onboarders channel later today. [assignee] Sucre n Spice [due] 25 July 2024 [status] done
+- [action] LadyTempestt to chase Onize this week about posting the onboarding journey scripts in the onboarding WG channel and see what everyone thinks about it. [assignee] LadyTempestt [due] 18 July 2024 [status] done
+- [action] Vani is to ask Peter to give Martin Soki the onboarding WG tag. [assignee] Vanessa [due] 25 July 2024 [status] done
+- [action] CJ Frankie to meet Gorga and get a suitable time for us to meet and discuss his allegations against the WG [assignee] Cjfrankie  [due] 1 August 2024 [status] todo
+- [action] Vani to make a document on Gorga’s accusations so everyone can put in what he alleged at some point against the WG and its members. [assignee] Vanessa [due] 1 August 2024 [status] in progress
+- [action] Tuso to timestamp and post the recording for the forthcoming training session on “Documentation” [assignee] hogantuso [due] 22 August 2024 [status] todo
+
+#### To carry over for next meeting:
+- “Onboarding journeys” scripts (10 mins)  Onize has the scripts ready to show.  What format to use them in? and what funding is needed to make whatever-it-is?
+- Asking other WGs about the skills new members should have and can learn in their WG
+
+#### Keywords/tags:
+- topics covered: Budget, skills matrix, Research Work, Town Hall updates, assigning tasks
+- emotions: argumentative, long, Collaborative, Well-attended, interesting
+
+
 ## Friday 26th July 2024
 
 
