@@ -315,6 +315,7 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 
 ## Thursday 18th July 2024
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -391,6 +392,58 @@ In our recent discussions, we focused on creating a workshop for github operatio
 - topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget, Roles, Collaboration, Translation, GitHub, Google Analytics, ADN, AGI-24, community, AI tooling, Tik-Tok, ethics, Charles Hoskinson, 
 - emotions: Collaborative, Friendly, Thoughtful , funny, entertaining, challenging
 - other: Step by Step
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: CallyFromAuron [facilitator], LadyTempestt [documenter], lord kizzy, Clement Umoh, LadyTempestt, daniel effiom, Yemi Solves, Duke, MartinSoki, Slate, Photogee, Ayo, Cjfrankie, Tuso., Gorga Siagian, CallyFromAuron, Sucre n Spice, PeterE
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections for Q3 2024](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?gid=2014555984#gid=2014555984)
+  - [Meeting agenda](https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?usp=sharing)
+  - [Gorga's allegations](https://docs.google.com/document/d/1MEcWxBLB_-thmsys7OIEBkxqAXW0zwoLo6uR-oDR6rY/edit)
+
+#### In this meeting we discussed:
+- Minutes  from the last meeting 11th July
+- Action Items from last meeting, 11th July
+- Onboarders team
+- Q3 budget update: We took out some items to make it fit into the budget fitting for this quarter
+-  Facilitating and documenting next week
+-  Town Hall updates
+- Onboarding journeys Scripts; We will be taking out money for it from Q3 budget item "Async onboarding resources"
+- Holidays: Are we going on holiday next month or not? We will!😀
+- Skillsshare matrix; LadyTempestt will run the first session, on documentation next month (15th August)
+- AOB: Gorga’s allegations against the WG. 
+
+#### Decision Items:
+- We agreed to meet on 1st and 8th of August, and have a training session on documentation on 15th by LadyTempestt. We will have 23rd and 29th of August off.
+  - [rationale] We decided that a break is due for all of us!
+  - [effect] affectsOnlyThisWorkgroup
+- We will be taking out money for onboarding journey scripts from the Q3 budget item "Async onboarding resources".
+  - [rationale] Nothing might be left from Q1 (the original budget for it) to use.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed to ask a Bahasa Indonesia speaker to translate when we are meeting to address Gorga’s allegations this month or next.
+  - [rationale] This is to avoid possible miscommunication
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Clement to mentor Gorga to take on town hall updates on 30th July. [assignee] Clement Umoh [due] 30 July 2024 [status] todo
+- [action] Sucre to drop the welcome message draft in the onboarders channel later today. [assignee] Sucre n Spice [due] 25 July 2024 [status] in progress
+- [action] LadyTempestt to chase Onize this week about posting the onboarding journey scripts in the onboarding WG channel and see what everyone thinks about it. [assignee] LadyTempestt [due] 18 July 2024 [status] done
+- [action] Vani is to ask Peter to give Martin Soki the onboarding WG tag. [assignee] CallyFromAuron [due] 25 July 2024 [status] in progress
+- [action] CJ Frankie to meet Gorga and get a suitable time for us to meet and discuss his allegations against the WG [assignee] Cjfrankie  [due] 25 July 2024 [status] todo
+- [action] Vani to make a document to gather all Gorga’s allegations together, so they are all in one place. [assignee] CallyFromAuron [status] in progress
+
+#### To carry over for next meeting:
+- “Onboarding journeys” scripts (10 mins)  Onize has the scripts ready to show.  What format to use them in? and what funding is needed to make whatever-it-is?
+- Town Hall updates (5 mins) It’s Town Hall updates on Tues 30th. Can we assign who will do it and who will mentor; and can they come back next week with what they plan to cover? Gorga, Clement
+
+#### Keywords/tags:
+- topics covered: TH Update , Budget , skills matrix, Gorga's Allegations, holidays, training , Discord, onboarders team
+- emotions: argumentative, long, Collaborative 
+
+
 ## Friday 19th July 2024
 
 
