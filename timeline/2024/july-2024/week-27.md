@@ -255,6 +255,7 @@ Licensing of materials collected from surveys and interviews
 ## Wednesday 3rd July 2024
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -344,6 +345,64 @@ Licensing of materials collected from surveys and interviews
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, Budget preparation, contributors, Rewards, Overlapping projects, Community Concerns, Operations, Disablities, Research, game design, operations system, proposal rules, Rules, inclusion, Token merger, scams, contribution dashboard, contribution, loyalty system
 - emotions: straightforward, questioning, speedy , Casual, Friendly
+
+
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Tevo [documenter], Advanceameyaw, decentralrenegade, Effiom, Gorga Siagian, lord kizzy, malik, martinosoki, Tevo
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764593588699107&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [Dework PBL Q1 Proposal](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj)
+  - [Miro Board](https://miro.com/app/board/uXjVM7pbrUg=/)
+  - [Dework PBL Course Website](https://instance-dework-pbl.vercel.app/course/module/102/1021)
+
+#### Agenda item 1 - Reviewed PBL course edits based on previous session feedback - [resolved]
+
+#### Discussion Points:
+- Going over general changes
+- Skimming through all BBK activities for reviewing
+
+#### Decision Items:
+- We have concluded 3rd iteration of the Dework PBL Course and it is fit for async use
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Continue to hold space in regular bi-weekly sessions for onboarding and asking people to if they need help [status] todo
+
+#### Agenda item 2 - Participation Reward Calculation Tools and Dashboard Designs - [carry over]
+
+#### Discussion Points:
+- Reviewed dashboard designs for reviewing labels, members and time allocated to contribution type
+- We made different scenarios and raised thoughts on how different reward weights can affect participation reward
+- How could other workgroups benefit from these tools?
+
+#### Decision Items:
+- The Tools for algorithm design will be built into the Treasury Manager.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Connect design with functions to request the expected data into the dashboards [assignee] Tevo [status] todo
+- [action] Create base algorithms and functions to combine different inputs into expected results [assignee] Tevo [status] todo
+
+#### Agenda item 3 - Next Steps - [carry over]
+
+#### Discussion Points:
+- What should be our next collective activity?
+- How should we approach creating a Quarterly Report?
+
+#### Decision Items:
+- Continue building out the Reward Calculation Tooling as it will be adopted by Knowledge Base WG, Treasury Guild and Treasury Policy WG.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Draft framework for Q2 Proposal and fill with Dework PBL Q2 relevant links [assignee] Effiom [status] todo
+
+#### Keywords/tags:
+- topics covered: PBL, Dework, Miro Board, Lessons, Google Form, Andamio, Q3 quarterly report, contribution, reward weights, rewards, contribution type, Treasury Manager, reward calculation
 
 
 ## Thursday 4th July 2024
