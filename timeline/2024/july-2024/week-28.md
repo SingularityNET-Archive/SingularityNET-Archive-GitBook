@@ -132,6 +132,7 @@ Discussion Points:
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -291,6 +292,116 @@ Discussion Points:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, Budget preparation, contributors, Rewards, Overlapping projects, Operations
 - emotions: straightforward, questioning, speedy , Casual
 - other: Waka proposed an increase in allocation for Kenichi's legacy system if there is going to be a collaboration with Rojo
+
+
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], effiom, kateri, lord_kizzy, malik, OluAyoola7D, onize, tevo
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Meeting video: [Link](https://youtu.be/r9kmOolT1Yg)
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594345433326&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Knowledge Base WG Infographics](https://drive.google.com/file/d/1S24dJki0gT7oZrDy96IfA5Tz8OkyHm9l/view)
+  - [Async Organising Process](https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62)
+  - [Knowledge Base WG Onboarding Feedback (Responses)](https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/edit?resourcekey=&gid=1012113575#gid=1012113575)
+
+#### Agenda item 1 - Knowledge Base Onboarding and Feedback - [carry over]
+
+#### Discussion Points:
+- Should the new feedback be rewarded? https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/edit?resourcekey=&gid=1012113575#gid=1012113575
+- Should we reward for the same people who submitted multiple feedback but its different insight?
+- Has any update been done on the infographic?
+
+#### Decision Items:
+- New feedback will be rewarded
+  - [effect] mayAffectOtherPeople
+- We won't reward multiple feedback submissions from same person
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Create feedback Reward tasks [assignee] Tevo [status] todo
+- [action] Work on other color scheme for infographic [assignee] Onize [status] todo
+- [action] Update several infographic sections [assignee] Onize [status] todo
+
+#### Agenda item 2 - Review Async Organizing Process Document - [carry over]
+
+#### Discussion Points:
+- Google Doc: https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.1qoyee83j7c0 
+- The strategy we use to Organise 
+- How much experience do we expect from participants?
+- Steps to Async Process
+- Live Review Process
+- Rewards
+- Limits
+
+#### Agenda item 3 - Review Administration and Dework Tasks - [resolved]
+
+#### Discussion Points:
+- Currently Administration process is emerging and is related to Miro Board updates like color changes and Dework Updates to recognize rewards.
+- How do we identify items on the board for rewards?
+- Who should get double rewards from organizing?
+- How do we address organizers who were part of the legacy system?
+
+#### Decision Items:
+- Double Ayo Organizing Rewards
+  - [effect] affectsOnlyThisWorkgroup
+- Double Lord Kizzy Organizing Rewards
+
+#### Action Items:
+- [action] Continue operational administration tasks to update status of items and associated rewards [assignee] Tevo [status] todo
+
+#### Agenda item 4 - Reviewing Item Ambassador Program Analysis - Miro Board - [carry over]
+
+#### Discussion Points:
+- Asset link: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14
+- It caused confusion about what part of the Miro Board should have been looked at.
+
+#### Decision Items:
+- We removed the Item from Category Global Strategy under the section What is the Ambassador program?
+  - [effect] affectsOnlyThisWorkgroup
+- We removed the item from the Identification Process under the section How do we identify new projects?
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Continue Reviewing the "Ambassador Program Analysis - Miro Board" Item in the next session [status] todo
+
+#### Agenda item 5 - Analyze Live Review Process - [carry over]
+
+#### Discussion Points:
+- What are the best practices for resolving conflicts?
+- How do you organize different assets and what do you look for?
+- More tags strengthen what has been organized or reviewed
+- Should the new emerging processes be added to the WG process doc?
+
+#### Decision Items:
+- Invite people to add a Tag with their name to Items which locations they agree on
+  - [effect] affectsOnlyThisWorkgroup
+- We clean the Organizing Resources window and add a new process to resolve conflict after a live review
+  - [effect] affectsOnlyThisWorkgroup
+- We will try to manage cleaning with different teal colored sticky to move items to meeting summary by other organisers in the live meeting 
+  - [effect] affectsOnlyThisWorkgroup
+- We test new ideas before start documenting new changes
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Add extra context on how to review assets on the Miro board [status] todo
+
+#### Agenda item 6 - Workgroup Planning - Summer Break - [carry over]
+
+#### Discussion Points:
+- Should meetings be held during the summer break?
+- Activities of the WG going forward
+
+#### Decision Items:
+- Ayo can help facilitate August Calls
+- Tevo takes break on 21.08
+
+#### Keywords/tags:
+- topics covered: Onboarding, organizing, reviewing, conflicts, Rewards, Task Management, Summer break, workgroup,, newbie
+- emotions: Collaborative, decisive, lively
 
 
 ## Thursday 11th July 2024
