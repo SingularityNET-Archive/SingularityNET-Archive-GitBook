@@ -135,6 +135,7 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 ## Wednesday 24th July 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -223,6 +224,51 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, Voting process, skills database, skills, reporting, documentation, core contributors, overlapping, incentives, voting pools
 - emotions: Casual, Collaborative, speedy , Welcoming
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, osmium, AndrewBen, Photogee, Ayo, kateri, GorgaSeagian, Kenichi, malik, Yemi Solves, esewilliams, Clement Umoh
+- Purpose: - Dework Go through tasks - Clement's Video - Ai for beginners comments discussion by Ese - Gorga and Malik presentation on OCEAN infographic 
+- Working Docs:
+  - [Ai For Beginners](https://docs.google.com/document/d/1k41rkHr21lrskZnhPx9JRpxCfhYFIHcMe4hch2ToXyE/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Dework Go through tasks
+- Clement's Video
+- Ai for beginners comments discussion by Ese 
+- Gorga and Malik's presentation on OCEAN infographic 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Notified and discussed tasks assigned and the updates on the tasks on Dework 
+- We went through the "Ai for beginners" document and discusssed its comments 
+- Had a discussion on what type of video format should be used 
+- Videos script should be there or not discussion 
+- SEO discussion 
+- At the end Ese said to set up a Notion page for starting things off and for setting up a proper background 
+- Then we went over Gorga and Malik's infographic on OCEAN Protocol; some minor adjustments were suggested by Osmium 
+- Then we went over Clement's video; suggestion were given on video improvement 
+
+#### Decision Items:
+- Ese to set up a Notion page with Osmium 
+  - [rationale] Best suited for the job, Ese having experience with Notion 
+  - [opposing] Nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Clement for adjustment in his video 
+  - [rationale] Task assigned to him 
+  - [opposing] nil 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Take sample websites from the applicants [assignee] Slate [due] 24 July 2024 [status] done
+- [action] Notion set up task for Ese and osmium  [assignee] esewilliams, osmium [due] 25 July 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: review team, Dework Go through, Dework, Initial docs, Notion, Ai for beginners, video adjustments 
+- emotions: productive,  Collaborative, Businesslike.
 
 
 ## Thursday 25th July 2024
