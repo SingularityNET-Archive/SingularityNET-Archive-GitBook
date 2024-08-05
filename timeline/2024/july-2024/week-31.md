@@ -6,6 +6,7 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 
 ## Wednesday 31st July 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -50,3 +51,59 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 #### Keywords/tags:
 - topics covered: Guilds , Tool Development, AI tooling, contributors, Operations, Core team, Presentation, Voting process, deliverables, open source, disability, disability research, Collaboration, skills database, skills
 - emotions: Casual, Collaborative, speedy , Welcoming
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Clement Umoh, esewilliams, GorgaSeagian, kateri, malik, Slate, Kenichi, Photogee, Yemi Solves, Onize
+- Purpose: - Dework Go through tasks - Deepfunding infographic - Clement's video after adjustments - OCEAN infographic after adjustments - Projects alignment with Google Classroom -  Next meeting for Notion Setup -  Meeting time increase poll - Rework task on SIngularityDAO 
+- Working Docs:
+  - [Ai For Beginners](https://docs.google.com/document/d/1k41rkHr21lrskZnhPx9JRpxCfhYFIHcMe4hch2ToXyE/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Dework Go-through tasks 
+- Quizzes Review sheet go-through 
+- Clement's video after adjustments 
+- Projects alignment with Google Classroom 
+- Next meeting for Notion Setup
+- Meeting time increase poll
+- Rework task on SingularityDAO
+- Deepfunding infographic 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- discussed tasks assigned and the updates on the tasks on Dework 
+- Osmium gave updates regarding tasks reviews for quizzes and informed about reviews of some tasks 
+- There was a discussion on deepfunding infographic and its quiz, as most sources should be from the infographic and the video 
+- Then we discussed about CCCP, and everybody agreed that the completed projects should be put on the google classroom platform
+- Gorga and Osmium as uploaders and Slate as coordinator for that task was decided 
+- There was also a discussion that the next meeting should be on "Notion page overview for 'Ai for beginners' project"  
+- Osmium suggested that the next meeting time should be increased by about 30 minutes to cover all projects; everybody agreed to have a poll on that specific thing 
+- Reworking the task on SingularityDAO was assigned to Clement, because the current one is outdated 
+
+#### Decision Items:
+- Ese and Osmium to present in next meeting on "Ai for beginners"
+  - [rationale] Both assigned 
+  - [opposing] Nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Clement to do SingularityDAO infographic rework 
+  - [rationale] Task assigned to him 
+  - [opposing] nil 
+  - [effect] affectsOnlyThisWorkgroup
+- OCEAN infographic approved 
+  - [rationale] everybody gave a green signal
+  - [opposing] nil 
+- have a poll for increase of meeting time 
+  - [rationale] Osmium suggested that the meeting should be longer to cover all topics 
+  - [opposing] nil 
+
+#### Action Items:
+- [action] Set up poll for increase meeting time  [assignee] Slate [due] 31 July 2024 [status] done
+- [action] Assign google classroom setup to Gorga, Osmium and Slate as coordinator  [assignee] Slate [due] 29 July 2024 [status] in progress
+- [action] audit approved tasks  [assignee] Slate [due] 31 July 2024 [status] done
+- [action] Kenichi to present his "presentation series" project in next meeting  [assignee] Kenichi [status] in progress
+- [action] Osmium and Ese to prepare for next meeting presentation for "Ai for beginners" [assignee] esewilliams, osmium [due] 7 August 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: review team, Dework Go through, Dework, Initial docs, Notion, Ai for beginners, video adjustments , representation, meeting time, task presentation, Google Classroom, SingularityDAO, Deep Funding
+- emotions: productive,  Collaborative, Businesslike.
