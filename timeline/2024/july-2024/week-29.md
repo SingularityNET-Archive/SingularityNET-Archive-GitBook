@@ -213,6 +213,7 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 ## Wednesday 17th July 2024
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -311,6 +312,79 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 - topics covered: Guilds , Budget, Tool Development, Proposal, AI tooling, Budget Request, Budget preparation, contributors, Operations, doubledipping, Deliverbles, Core team, Documentation, Presentation, DeepFunding
 - emotions: straightforward, questioning, Casual, lengthy, challenging
 - other: Kenichi suggested a process that should be implemented by the Guild: if someone working on a project has been able to provide deliverables and after a while stops work on the project, then the entire project should be on hold and no rewards distributed; but if the project is of high relevance to the guild then the guild should communicate with the individual that proposed the project and suggest going ahead with what they can and what they have. If the individual has any plans of coming back at any point in time and wishes to recontribute to the research and development guild, they will have to finish that project before they are allowed to take up a new one. Unless they claim that they have no interest anymore in the project and at that point in time. then that member shouldn't be given the opportunity to work on another project.
+
+
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom, Tevo [documenter], Clement Umoh, effiom, gorga, lord_kizzy, malik434, oluAyoola7D, tevo saks, Yemi Solves
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Meeting video: [Link](https://youtu.be/AQprY740Ubg)
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764594674466854&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [VIDEO - Tooling to compare Participation vs Contribution](https://www.youtube.com/watch?v=VMSKB79fkbg)
+  - [Dework PBL Quarter 2 2024 Report](https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM)
+
+#### Agenda item 1 - Participation vs contribution Tooling - [carry over]
+
+#### Discussion Points:
+- Current Status video: https://www.youtube.com/watch?v=VMSKB79fkbg
+- How should we construct the algorithm to be fair and incentivize expected behavior?
+- What are the expected behaviors if we reward participation based on task labels?
+- Should we consider the contribution amount?
+- Should we consider the contribution ratio compared to other contributors?
+
+#### Decision Items:
+- Find a way to establish a minimum AGIX for participating
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Implement a few discussed algorithm ideas and create automation to Simulate Results [status] todo
+
+#### Agenda item 2 - Dework PBL Quarter 2 2024 Report - [resolved]
+
+#### Discussion Points:
+- Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM
+- Review of Dework PBL WG Report Draft
+
+#### Action Items:
+- [action] Format Dework PBL WG Report draft into Process Guild Report [status] todo
+- [action] Continue updating Dework PBL WG with relevant documentation and details [status] todo
+
+#### Agenda item 3 - Dework PBL Workgroup Planning - [resolved]
+
+#### Discussion Points:
+- How do manage August sessions?
+- All the Workgroup expected assets are completed or canceled, what should we do next?
+- Budgeting for Dework PBL course support and meeting facilitation
+
+#### Decision Items:
+- Maintain biweekly space to make sure everyone who needs help with Dework PBL Course can get live support
+  - [effect] mayAffectOtherPeople
+- Dework PBL Course support will be budgeted from the Process Guild
+
+#### Action Items:
+- [action] Facilitate 14.08 and 28.08 Dework PBL Sessions - Effiom and Malik [status] todo
+
+#### Agenda item 4 - Student-named spaces causing clutter in Treasury Operation Export table - [resolved]
+
+#### Discussion Points:
+- How do we manage student-created Dework tasks and spaces?
+- How are student learnings recognized?
+
+#### Decision Items:
+- We delete student Dework Space after course completion. It's still verifiable because recognition is on-chain
+
+#### Action Items:
+- [action] Update the Treasury Operators Dashboard of those who have completed the Dework PBL Course [status] todo
+- [action] Automate Treasury Operator Dashboard recognizing the people who have completed the Dework PBL Course [status] todo
+- [action] Delete Student Dework Spaces who have completed Dework PBL Course [status] todo
+
+#### Keywords/tags:
+- topics covered: PBL, Miro Board, Dework, Lessons, Andamio, Treasury, contribution, participation, Rewards
+- emotions: Friendly, Collaborative, decisive, Both progressive and a learning moment for decision making
 
 
 ## Thursday 18th July 2024
