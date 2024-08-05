@@ -357,3 +357,52 @@ Ayo, from the Strategy Guild, talked about the forthcoming workshop scheduled fo
 #### Keywords/tags:
 - topics covered: Scribblers, Cogito, Workshop, Strategy Guild, Zealy, Points system, meeting agenda, Spinoffs, July Recap, Summay tool, Meeting summary
 - emotions: Welcoming, Collaborative, Businesslike., inquisitive, funny
+## Saturday 27th July 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], martinosoki, oep, lord kizzy, Gorga Siagian, flyn, Photogee, rebel, hufiumer69, hotasiro, Merryman, kateri, Eve
+- Purpose: The meeting focused on workgroup creation updates.
+- Media link: [Link](https://drive.google.com/drive/folders/1bVNVjeBWXvslzk9P1qeCjmUStHOHnmCy?usp=sharing)
+- Working Docs:
+  - [Mentors Sheet](https://docs.google.com/spreadsheets/d/1RIXcGennBuz-wN6NKjAB2U1CyNgBll-To89y2ihIy6Q/edit?gid=0#gid=0)
+
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Malik updated us on the education guild department, highlighting the welcoming reception area and the questions that can be asked to the NPC in the reception, which is slate. He also presented a hologram themed around twin protocol and a hall displaying infographics about spin-offs. (Watch the education guild video in the drive folder link under the media section)
+- Martinsoki updated on the Treasury guild's progress, showcasing the guild building and its outdoor swimming pool, as well as the NPCs. He mentioned facing challenges in editing the department due to communication issues with his partner and are still in progress.  (Watch the Treasury guild video in the drive folder link under the media section)
+- Gorga updated on the archives workgroup's formation, showcasing the NPCs and noting that the building's interior is still under construction. Members noted similarities to the video workgroup building, but Gorga asserted it was different, and Slate remarked that the building shouldn’t be too tall, as VR requires specific height constraints. (Watch the Archives Workgroup video in the drive folder link under the media section)
+- Photogee updated us on the Dework PBL creation. They've replaced the anime NPCs with standard ones but didn't provide names, as the information document from Slate only listed one member, Tevo. They haven't started animating the characters due to health issues. He showcased the building and the playground behind it, demonstrated a device for teleporting to the upper floor, and expressed his desire to create a workstation. Malik thought the chairs were floating because the second floor was transparent.  (Watch the DeworkPBL video in the drive folder link under the media section)
+- Gorga showcased his segment of the video WG creation, highlighting NPC animations and dialogues. One NPC was turned to face the wall, but Slate suggested turning him around to face the entering players, which was implemented. Slate also recommended that dialogue pop-ups should only appear during interactions and proposed adding more animations for the NPCs.
+- Lord Kizzy presented his segment of the video WG creation, featuring various NPC animations and dialogues. He demonstrated the dialogue system with the Rojo NPC. Devon recommended breaking Rojo's lengthy responses into smaller segments for clarity.
+- OEP and CollyPride did not demonstrate their progress in department creation.
+- It was discussed whether we needed a holiday, and the majority of members responded affirmatively.
+
+#### Decision Items:
+- Building should not be too big
+  - [rationale]  VR requires specific height constraints.
+- The next meeting is canceled due to the holiday.
+  - [rationale] To give the Department creators sufficient time to complete their work.
+
+#### Action Items:
+- [action] Department Creation - Education Guild [assignee] malik, hufiumer69 [due] 24 August 2024 [status] in progress
+- [action] Department Creation -  Treasury Guild [assignee] martinsoki, scare-crow [due] 24 August 2024 [status] in progress
+- [action] Department Creation - Archives Workgroup [assignee] GorgaSeagian, kateri [due] 24 August 2024 [status] in progress
+- [action] Department Creation - Dework PBL [assignee] rebel, Photogee [due] 24 August 2024 [status] in progress
+- [action] Department Creation - RnD Guild [assignee] oep, CollyPride [due] 24 August 2024 [status] in progress
+- [action] Animation & Dialogue System (Video Workgroup) [assignee] lord kizzy, GorgaSeagian [due] 24 August 2024 [status] in progress
+
+#### Game Rules:
+Squid Game - the first to navigate the obstacles and reach the end wins.
+
+players: Martinsoki, hufiumer, lord kizzy, hotasiro, eve, kateri, rebel, photogee, oep, gorga, flyn, merryman, Devon.
+
+
+#### Leaderboard:
+- 1st Devon
+
+#### Keywords/tags:
+- topics covered: Roblox, metaverse, department creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation, holiday
+- emotions: Friendly, Collaborative, Deliberative, informative, focused on reporting
+- games played: SquidGame
