@@ -7,6 +7,7 @@ description: Mon 22nd Jul - Sun 28th Jul 2024
 ## Monday 22nd July 2024
 
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -130,6 +131,86 @@ Our Q3 budget has been approved. A subsequent conversation on budget fitting wil
 #### Keywords/tags:
 - topics covered: Treasury System, Miro Board, Automation, tooling, participation vs contribution, process, API, Backend, Documentation, json, projects, Nunet
 - emotions: insightful, reflective, decisive, bit quiet
+
+
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: CallyFromAuron [facilitator], CallyFromAuron [documenter], CallyFromAuron, PeterE, YemiSolves, Duke, LadyTempestt, esewilliams, Stephen [QADAO], Clement Umoh, Sucre n Spice, sakujennbornean, CollyPride, Ayo, advanceameyaw, Effiom, EstherG, kateri
+- Purpose: Regular meeting of the AI Ethics WG
+- Working Docs:
+  - [Ambassador Program AI Ethics WG Q2 2024 Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [AI ethics, safety, and risk taxonomy and literature](https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing)
+  - [Interview participant information sheet and informed consent form](https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing)
+  - [AI Ethics Workgroup TAG Username List](https://docs.google.com/document/d/1w66IDx9W2-43lhL0R59NC2xADgJfa4ZtB6sP_d0ZFuo/edit?usp=sharing)
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics GitHub board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [Global Ethics Initiative starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+  - [Reportback for GEI (July 16, 2024)](https://docs.google.com/document/d/1IEYSnw4P4MUSn5vOT03VzauCl1tGlE7xgkEF-_Ra9Ac/)
+
+#### Narrative:
+Sucre was delayed so Vani facilitated. Worked thru the GitHub board, beginning with "in progress" items.
+
+The 3 strategy drafts (research strategy, ethics strategy, knowledge management strategy) are written, and are now handed over to their respective editing teams, with a deadline of 2nd August.
+
+Discussion on how to pay the strategy-writing teams. They each have a total of $300, originally planned as $100 per person - but what is fair when not everyone in each team took part? Should someone be docked money for adding their input a couple of (weekend) days late? If people didn't contribute anything, or contributed less,  to their group's doc, what should they be paid, if anything? How should we approach things if someone was ill? etc. Some discussion on the importance of deadlines vs the importance of a degree of flexibility; the need for communicating any blockers to the rest of your team; and the difficulties and rewards of asynchronous working in small teams. 
+
+The Knowledge Management team's decision was made very rapidly in the meeting itself; the Ethics strategy team have had some prior discussion and are not all agreed, but they may prefer to leave it as it is and avoid a dispute; the Research strategy team seem to be agreed.
+
+We ran through the work that has been done by the WG admin roles (Jen''s reportback to the GEI; internal WG management; WG async support, co-chair, and co-chair mentor). See GitHub Board for details.
+
+LadyTempestt as async work support raised the point that it can be hard sometimes to "be in the middle" and not to intervene.
+
+Discussed what Clement's fee should be for AI Ethics Forum moderation.
+
+Discussed how to fund documenting the GEI meetings as well as our WG meetings.
+
+Agreed to pay Colleen for the small amount of co-ordination work she did in Q2.
+
+Discussed open tasks in the Q3 budget - "AI Ethics conversations" and "Interviewing".
+
+Noted that our Q3 budget line for "Producing educational resources" will have to be moved to Q4 due to budget-fitting. Also noted that Education WG is making some video learning resources on AI this quarter, so if we do decide to do this in Q4 we will need to be aware of what Education WG has produced, and be sure not to duplicate.
+
+Discussed possible tasks for AGI-24 conference, August 13th-16th; and for the pre-event on 7th August. To be funded via the match-funding of this WG's Q2 budget that Esther secured from the Foundation. We noted that nobody from the WG is now going to Seattle in person due to high flight prices, so we will focus on virtual activities - fishbowl interviews; a virtual chillout room; etc. Noted that due to short timescale, we need people who don't need training or support to do these tasks; and noted the need for people to be honest about their skills.
+
+
+
+
+#### Decision Items:
+- We agreed that each strategy writing team will decide between themselves how to distribute their $300. The WG Admin team are available to adjudicate if requested, but won't do so otherwise. Teams will post in the relevant GitHub Issue to say how they have decided to distribute their money and why, so that it's public.
+  - [rationale] Decentralised approach, and allows each group to base their decision on their own specific circumstances and their context
+  - [opposing] No objections; but slight concern on whether those who are more self-effacing would lose out if they are not able to advocate strongly for themselves
+  - [effect] affectsOnlyThisWorkgroup
+- Learning point that we are not yet that good at working async in small teams - but it's something we might need to keep trying to improve on
+  - [rationale] because we are in such a wide range of time zones, we can't easily meet, so async work is important
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed that for now, only the strategy-editing teams will edit the 3 strategy docs. They will be open for contributions from everyone later.
+  - [rationale] To maintain clarity.
+  - [effect] affectsOnlyThisWorkgroup
+- Clemenrt will keep a note of any moderation work he does in the AI Ethics forum; but he is also being paid to be "on call" even if he doesn't actually do any moderating. We will look at Moderators WG to work out what is a fair amount to pay
+  - [rationale] because at the moment, we have only said that this will come from our contingency budget; we haven't definitely agreed how much.
+  - [effect] affectsOnlyThisWorkgroup
+- We agreed that Jenn will document the GEI meetings every other Tuesday, and this will be funded from our Q2 budget.  Vani has checked with André (Treasury Guild) if this would be feasible, and it would.
+  - [rationale] Because it would be useful to have the GEI meetings documented, and because we forgot to budget for this in our Q3 budget - but we do still have an underspend in Q2.
+  - [effect] affectsOnlyThisWorkgroup
+- Agreed to reward Colleen $15 retrospectively, from the Q2 budget, for the small amount of co-ordination work she did in Q2 - see https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/33
+  - [rationale] because we agreed several meetings ago that anyone who had done any Q2 co-ordination work should be paid. Colleen was the only person apart from Vani who had.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Moderators of AI Ethics Forum - Clement, and others TBC if needed. Roles might need to be assigned - Peter? [assignee] Clement Umoh, Peter [due] 14 July 2024 [status] done
+- [action] Vani to create recurring meeting invite at 1400 UTC fortnightly on Mondays - Peter to add to Ambassadors Calendar [assignee] CallyFromAuron, Peter [due] 14 July 2024 [status] done
+- [action] Create Discord DM goups for strategy writing and editing groups and invite LadyTempestt as well [assignee] all [due] 9 July 2024 [status] done
+- [action] all to add ideas to "AI Ethics Workgroup Stuff" spreadsheet for "AI conversations" work, to be discussed next meeting [assignee] all [due] 22 July 2024 [status] done
+- [action] all to add GitHub names to AI Ethics WG tag and username list, or DM to Vani or Sucre, asap - some people still need to do this [assignee] all [due] 5 August 2024 [status] in progress
+- [action] Clement to consult Peter and the Moderators WG to work out what is a fair amount to pay for his moderation of the AI Ethics forum. Aim to get a definite amount in the issue on the board by the end of the quarter.  [assignee] Clement Umoh [due] 19 August 2024 [status] todo
+- [action] Eevryone to add their ideas in the "AI Ethics Stuff!" google sheet for the "AI Ethics conversations" and the "Interviewing" tasks that we have budget for in this quarter, and we'll discuss next meeting. [assignee] all [due] 5 August 2024 [status] todo
+- [action] Vani to add signup sheets for open tasks - "AI conversations", "Interviewing" and tasks at AGI-24 conference [assignee] CallyFromAuron [due] 26 July 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: drafting strategy documents, strategy, money, share, moderation, async, async working practices, AI ethics forum, forum, forum moderators, fair pay, AGI-24, virtual round table, virtual conference, honesty, honesty about skills, skills, strategy documents, editing, interviewing, interview, fishbowl interviews, anthropomorphism, Indigenous protocol, indigenous, Rewards
+- emotions: brisk, one speaker, good humoured, full of information
 
 
 ## Wednesday 24th July 2024
