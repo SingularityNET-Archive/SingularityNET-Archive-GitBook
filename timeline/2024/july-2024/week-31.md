@@ -4,6 +4,73 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 
 # Week 31
 
+## Monday 29th July 2024
+
+### Treasury Policy WG
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom, Tevo [documenter], advanceameyaw, effiom, martinsoki, OluAyoola7D, peter, Quam, tevo saks, Yemi Solves
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764593379439090&cot=10)
+- Other media: [Link]( https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Policy Template](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v)
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback](https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform)
+  - [Responses for Budget-Fitting Policy](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g)
+
+#### Agenda item 1 - Reviewing responses on policies submitted, and its next steps - [carry over]
+
+#### Discussion Points:
+- Response link: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g
+- Check and review policy responses
+- What is the proper way to publish submitted policies?
+- At what point in the process should a quorum be required?
+- What should be the proper quorum to move a policy forward?
+- How to proceed in a situation if we have no idea how to decide, and we don't reach quorum?
+
+#### Decision Items:
+- No quorum needed in voting phase for policy selection
+  - [effect] affectsOnlyThisWorkgroup
+- The quorum is made of the people who share their review on policy
+  - [effect] affectsOnlyThisWorkgroup
+- The policy is selected for Treasury Guild review if more than 80% of policy feedback is positive
+  - [effect] mayAffectOtherPeople
+- The policy is ratified if more than 50% of core contributors who take part in deciding on the policy consent to the policy.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Include quorum into the Policy Templates https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M [status] todo
+
+#### Agenda item 2 - Policies WG and its retrospective on process - [carry over]
+
+#### Discussion Points:
+- Why did you get involved?
+- WG intends to develop a critical function for the entire program
+- WG meetings have been constructive and progresses very quickly
+- What didn't go well?
+- We don't have clarity on why other Core Contributors don't join these sessions or take part in policy creation
+- Unclear if lack of attention to policy development is a good thing (no changes needed) or a bad thing (we are improvement suggestions poorly)
+- How hard or easy is it for you to create a policy?
+- Submitting policies is a direct result of observing, and requires listening skills
+- Feel like we have extensive and clear guidelines to make policy creation simpler
+- Has the policy feedback that we have gathered in Policy WG been useful?
+- Currently not enough data, but with current responses its been useful for submitter
+- Has the Policy Workgroup and its new policies had any impact?
+- Currently no impact, but its great to increase awareness
+
+#### Agenda item 3 - Review New Policy Submissions - [carry over]
+
+#### Discussion Points:
+- Policy submission link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/
+- No new policy was submitted
+
+#### Decision Items:
+- We continue to keep the Policy Submission form open and move over to async submissions and reviews
+  - [effect] mayAffectOtherPeople
+
+
+
 ## Wednesday 31st July 2024
 
 
