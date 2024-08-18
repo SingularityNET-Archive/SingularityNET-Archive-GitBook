@@ -7,6 +7,7 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 ## Monday 29th July 2024
 
 
+
 ### Treasury Policy WG
 
 - Type of meeting: Biweekly
@@ -160,6 +161,75 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 
 #### Keywords/tags:
 - topics covered: dashboard, forms, insights, consent, reserve, Budget, wallet, reallocation, reserves, token merger, ASI, MINS, Influence tokens, Q4 budget, consent process, consent dashboard, buffer, 10% buffer
+
+
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, Peter, Gorga, Yemi, Clement, Kenichi, Onyeka, Tone Tech, Kateri Nick, Tuso, Mikasa, Cjfrankie, Tevo, Zalfred, Photogee, Merryman, Nick, Onize, Trever Torp, Yedija
+- Purpose: Strategy Guild Workshop Ideation Session
+- Other media: [Link](https://app.read.ai/analytics/meetings/01J3ZKCSAHRRRN1YTKXWXBVX1W?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Possible Survey Questions [Strategy Guild]](https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+  - [Strategy Guild 29th July Meeting Agenda](https://docs.google.com/document/d/1Cdgp9cEge1VzBsSXQ7sP-Bi7n0XRvc1qr0hxqXQYfbE/edit?pli=1#heading=h.shxqnobd9709)
+  - [The Strategy Guild Workshop Documenter Role](https://docs.google.com/document/d/1zipayvQp21VAt58sjJAjjJqYTdFlwI15Dq03UgPzapQ/edit)
+  - [Strategy Guild Meeting Notes - 22nd July 2024](https://docs.google.com/document/d/15OjzqUjRpBrvK6g19tMwW6Pp9S7iz5gkFmjxDDV61Qc/edit#heading=h.6fyp3cl3ve7w)
+  - [Strategy Guild  Workshop Ideation Session Questions Framework](https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/edit)
+  - [Workshop Ideation Session Notes: Strategy Guild 29th July 2024](https://docs.google.com/document/d/1Qz2WiEmTZYOEPhOVdYl_VY_U_YmdHXap_AehXLqycko/edit#heading=h.6fyp3cl3ve7w)
+
+#### Narrative:
+Action Items Checkboxes from the last meeting - 
+Ayo led the discussion on the action items from the previous meeting.
+
+1.Volunteers (i.e. Ayo, Tuso, and Onyeka) will engage Writers, Video, and Marketing WG respectively to ensure they have representation at the next meeting
+2.Everyone to contribute to the Strategy Guild Working Document
+3.Everyone to contribute to the Possible Survey Questions [Strategy Guild]
+4.Effiom to create a new sheet in working doc for interest in meeting facilitation
+5.Core members should indicate interest in facilitating the new sheet in the working doc
+6.Effiom to share previous meeting summaries and this meeting summary
+
+
+Onboard New Members/Core Member Roll Call - 
+Tuso and Effiom were welcomed officially as new core members of the Strategy guild.
+Ayo explained how everyone can become a member, and also contribute and be a part of what is happening within the guild.
+
+
+Selection of the Workshop Documenter - 
+Yemi Solves was selected as the Workshop Documenter and Onyeka agreed to mentor him for this role.
+
+
+The Outbound WGs/Gs Workshop Ideation Session - 
+The Workshop coordinator and documenter shared the agenda and notes for this session below.
+
+Strategy Guild  Workshop Ideation Session: https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/
+Workshop Ideation Session Notes: Strategy Guild 29th July 2024: https://docs.google.com/document/d/1Qz2WiEmTZYOEPhOVdYl_VY_U_YmdHXap_AehXLqycko/edit#heading=h.6fyp3cl3ve7w
+
+
+A.O.B - 
+Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions
+
+
+
+#### Decision Items:
+- The next meeting will be about improvements and execution
+  - [effect] mayAffectOtherPeople
+- Participants from other WGs are to join the next sessions
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Everyone to contribute to the Strategy Guild Working Document [status] todo
+- [action] Everyone to contribute to the Possible Survey Questions [Strategy Guild] Document [status] todo
+- [action] Core members should indicate interest in facilitating the new sheet in the working doc [status] todo
+- [action] Effiom to share previous meeting summaries and this meeting summary [assignee] Effiom [status] todo
+- [action] YemiSolves to document and share the Workshop Session [assignee] Yemi Solves [status] todo
+- [action] Onyeka to mentor Yemi Solves [assignee] lord kizzy [status] todo
+
+#### Keywords/tags:
+- topics covered: Guild Membership, Workshop Ideation, Core Membership, survey, participation, contribution
+- emotions: Brainstorm, planning, new ideas, Ideating, interesting, Collaborative
 
 
 ## Wednesday 31st July 2024
