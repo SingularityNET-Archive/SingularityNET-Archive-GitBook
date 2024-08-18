@@ -6,6 +6,7 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 
 ## Monday 29th July 2024
 
+
 ### Treasury Policy WG
 
 - Type of meeting: Biweekly
@@ -69,6 +70,96 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 - We continue to keep the Policy Submission form open and move over to async submissions and reviews
   - [effect] mayAffectOtherPeople
 
+
+
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], advanceameyaw, callyfromauron, effiom, Hogantuso, martinsoki, OluAyoola7D, peter, photogee, tevo
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Meeting video: [Link](https://youtu.be/_lzpvL2lj04)
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764594293444851&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [undefined]( https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/)
+  - [Context-setting for Core Contributor decision on Q3 budgets](https://docs.google.com/document/d/1zuE49nwVETFL7LbB7Q0uKkbMLCjzuKsmIYeneD0vHVk/)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [Proposal Reporting and Reviewing Guidelines](https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/edit?usp=sharing)
+
+#### Agenda item 1 - Review of Q3 Consent Dashboard and Iteration Process - [carry over]
+
+#### Discussion Points:
+- How did we progress from Quarter 2 to Quarter 3?
+- What insights can we get from these dashboards?
+- Mitigating the instance of duplicate submissions by people
+- What information would we like to add?
+- Did the Quarter 3 budget proposal timeline and consent rounds duration have any impact on participation?
+- Participation of core contributors in consenting rounds
+- Do we maintain the consenting rounds as it is?
+- Are there particular insights we want to see in the dashboard next quarter?
+
+#### Decision Items:
+- Allow editing responses, but enable only 1 submission per person
+  - [effect] affectsOnlyThisWorkgroup
+- Move all consent decision making into a single form
+  - [effect] affectsOnlyThisWorkgroup
+- Publicize the concerns about any proposals that do not pass iteration
+  - [effect] mayAffectOtherPeople
+- There are no concerns with core contributors consenting to only their WG's proposal
+  - [effect] affectsOnlyThisWorkgroup
+- We maintain the consent rounds and dashboard but add comparative analysis across quarters
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Agenda item 2 - Ambassador Program Reserves - [carry over]
+
+#### Discussion Points:
+- Do we know where the funds are coming from?
+- How do we know how much reserves we have left?
+- Do we know the wallet address?
+- How public should be the SingularityNET Foundation Wallets?
+- How does the token merger affect reserves?
+- The process from SC Wallet to intermediary SC wallet to Treasury for distribution
+- Ambassador Program gets to request a % from the 1.5% in SC Wallet
+- The 10% price change buffer from reserves
+- Currently, there is no deadline for when WGs' carried-over budgets should be used
+- A percentage to allow go over budget, overspending and use of reserves
+
+#### Decision Items:
+- We don't know exactly how much reserves we have because of all the entities involved
+  - [effect] affectsOnlyThisWorkgroup
+- Related to token merger, ASI tokens are already pre-minted but locked
+  - [effect] affectsOnlyThisWorkgroup
+- It was agreed previously to roll over unused WG budgets for each quarter
+  - [effect] mayAffectOtherPeople
+
+#### Agenda item 3 - Consent Recognition - [carry over]
+
+#### Discussion Points:
+- Does MINS tokens make sense?
+- Influence Tokens with ticker [INF]
+- Do we want to request Token Design from Marketing Guild?
+- There was no feedback or interest about token thinking outside this call idea
+
+#### Agenda item 4 - Treasury Guild Administration - [carry over]
+
+#### Discussion Points:
+- Next steps for Treasury Guild
+
+#### Decision Items:
+- No Treasury Guild meeting till September 2024
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Start drafting Treasury Guild Q4 proposal after break [status] todo
+
+#### Agenda item 5 - Treasury Guild Dashboard Columns - [carry over]
+
+#### Discussion Points:
+- How do we reconstruct history, if at all?
+
+#### Keywords/tags:
+- topics covered: dashboard, forms, insights, consent, reserve, Budget, wallet, reallocation, reserves, token merger, ASI, MINS, Influence tokens, Q4 budget, consent process, consent dashboard, buffer, 10% buffer
 
 
 ## Wednesday 31st July 2024
