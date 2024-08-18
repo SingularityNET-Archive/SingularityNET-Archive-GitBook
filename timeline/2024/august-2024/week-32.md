@@ -4,6 +4,57 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 
 # Week 32
 
+## Wednesday 7th August 2024
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], lord kizzy [documenter], Kenichi, AJ, Peter, Rojo, osmium, Yemi Solves, barnabas, Onize, Seun Tunde, WaKa
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [R&D Guild Q2 budget Concern Response](https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response](https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! 
+- SHOWCASE FINISHED PROPOSAL
+- NEW OPERATIONS SYSTEM GOING FORWARD
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting
+- UPDATE STATUS ON DEVELOPMENT: Advanceameyaw gave the updates on Collaboration Skill Database; they are currently preparing a one-pager document highlighting the scope of the project and they are currently focused on the skills form and database.
+- UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation of MixPost and reference that the presentation wasn't for the premium version, he also highlighted that he will request a release of funding for the licensing and also the maintenance and hosting. 
+- NEW OPERATIONS SYSTEM GOING FORWARD and VOTING PROCESS; Lordkizzy shared the new operations system and we had open discussion on the voting process. Clement suggested that issue of people having more votes representation for larger proposals should be very stated. For example, How are we defining large proposals? Are we defining in terms of deliverables or in terms of funding ask? Secondly we need to  be more definitive of the exact percentage we're talking about. Are we demanding for 60% of entire core contributors' votes?
+- Voting pools: we had more discussions on the voting pools, there was a suggestion of having two pools, the Ideation pool and Development pool, also anothere suggestion for a demo pool for now
+- Kenichi spoke on rewarding unfinished projects without deliverables and asked some questions on the Collaboration Skills Database and reference that the guild should be strict while distributing funds without proper documentation and reports
+- Kenichi gave a presentation on the User Flow for Reputation System and Website Integration and lordkizzy gave a suggestion on how the Collaboration Skills Database could be intergrated into the legacy system
+
+#### Decision Items:
+- We have decided to proceed with the transition from the development of the Social Media Automation tool to an Open source platform called MixPost
+  - [rationale] the platform has some advanced features that would take months of development to reach that level 
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action]  Guillermo and Lord kizzy to have a discussion with Rojo and kenichi on similarities between their projects and to see if there is a possibility for collaboration  [assignee] Guillermo, lord kizzy [due] 7 August 2024 [status] done
+- [action] Clement to reach out to Duke to create an infographic to project presentation on discord [assignee] Clement Umoh [due] 7 August 2024 [status] done
+- [action] Kenichi to present a graphical presentaion in the next call to share the updates on the Legacy project [assignee] Kenichi [due] 7 August 2024 [status] done
+- [action] Rojo to present an initial report on Social Media Automation [assignee] Rojo [due] 14 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, Voting process, pools, MixPost, Social Media Automation, skills database, pools, reputation
+- emotions: Casual, Collaborative, speedy, Welcoming
+
+
 ## Friday 9th August 2024
 
 ### Video Workgroup
