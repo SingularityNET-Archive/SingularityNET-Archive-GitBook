@@ -4,6 +4,69 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 
 # Week 31
 
+## Thursday 1st August 2024
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Clement Umoh [facilitator], Cjfrankie  [documenter], CallyFromAuron, Sucre n Spice, PeterE, lord kizzy, Clement Umoh, LadyTempestt, Effiom, YemiSolves, Duke, MartinSoki, Ayo, Cjfrankie, Gorga Siagian, Merryman, Eric Davies, AdavanceAmeyaw, CollyPride, Kateri, Onize
+- Purpose: Weekly meeting featuring discussions on August projections, and how to onboard people to the Ambassador program.
+- Working Docs:
+  - [Onboarding Journey Script by Rejoice -- Sample 1](https://docs.google.com/document/d/13AO_46FarBVOpzklI1WD5HfzEkS-Jt1dugm6TRG8K2c/edit)
+  - [Onboarding Workgroup Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Scripts Draft 2](https://docs.google.com/document/d/146NsS-e3S0yReVwoTTNDCbNYWSKoNOz7VtE2atGPX9o/edit)
+
+#### Town Hall Updates:
+1. Clement and Gorga Siagian gave an update on Ambassador Town Hall Updates; they talked about the skills matrix where members of the group made inputs on the skills they already have and would also want to learn. 
+
+2. As a follow up to the skills matrix, they talked about the documentation training session scheduled for 15th August to be led by LadyTempestt, and how the decision to run this session was informed by the skills matrix, and the skills the WG members want to learn.
+
+3. Additionally, they talked about the new set of onboarders who are tasked with the responsibility of onboarding new people into the Program, and how their work is going.
+
+
+
+#### In this meeting we discussed:
+- Agreeing to the minutes of the last meeting.
+- Action items from the last meeting. 
+- Facilitation and Documentation Roster.
+- Facilitating and Documenting next time. 
+- Town Hall updates.
+- Skillshare Matrix.
+- Assigned Tasks.
+- Onboarding Journey scripts.
+
+#### Decision Items:
+- After many comments from the WG members, we agreed that the meeting facilitators should meet with their mentees before the meeting to know the sections each of them will take. The same goes for documentation: the main documenter and the mentee will take the meeting notes and compare them after the meeting to spot some mistakes and possible ways to improve on their next try.
+  - [rationale] From the facilitation side of things, we seek to have a well-organized change of hands between the facilitator and the mentee. The same goes for meeting facilitation; we seek to groom the mentee by allowing them to take notes as well to help them do better on their next try.
+  - [effect] affectsOnlyThisWorkgroup
+- In view of the recent events, the facilitation and documentation roster will be edited to fit the forthcoming summer holidays.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided that Timmy should attend two consecutive meetings preceding his meeting documentation scheduled for 26th Sept 2024; otherwise, someone else will be assigned to it.
+  - [rationale] Timmy has been away for a while now, so he has to attend two meetings to prove he is still interested!
+  - [effect] affectsOnlyThisWorkgroup
+- We have assigned people to approach other workgroups/guilds about the skills new members can use and can learn in their WG, namely: LatAm guild (CJfrankie), AI Ethics (LadyTempestt), African guild (Kateri), Marketing guild (Photogee), Writers' WG (Gorga), and Strategy guild (LordKizzy); so we decided that these people will work on this project throughout August and then bring the results on 5th September 2024.
+  - [effect] affectsOnlyThisWorkgroup
+- For the onboarding journeys, we have decided that an Open Governance call (immediatelky after Onboarding WG on Thursdays) will be the best place to discuss these journeys, and each member of the WG should read and comment before the next meeting scheduled for 5th September 2024. On that day, we will also discuss What we should do with the journey scripts (video or infographics?), how to work with it moving forward, and how to use it in a meeting.
+  - [rationale] There's still a lot of things to be cleared out.
+  - [effect] mayAffectOtherPeople
+- We agreed to meet on the 1st and 8th of August and then have Lady Tempestt host a documentation session on the 15th; and take the 22nd and 29th of August off.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Gorga Siagian to chase Cjfrankie to decide on a date for the discussion of his allegations against the workgroup. [assignee] Gorga Siagian [due] 8 August 2024 [status] todo
+- [action] Cj Frankie to add the meeting summary note for July the 4th to the meeting summary tool. [assignee] Cjfrankie  [due] 8 August 2024 [status] done
+- [action] Sucre to edit the facilitation and documentation document to fit the summer holidays. [assignee] Sucren [status] todo
+- [action] Colleen to decide on a suitable date for the “GitHub project management” training in September.  [assignee] collene [status] in progress
+- [action] Following a discussion with the “training in September,” Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance. [assignee] Vanessa [due] 8 August 2024 [status] done
+
+#### To carry over for next meeting:
+- “Onboarding Journeys” scripts — the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members.
+
+#### Keywords/tags:
+- topics covered: Town hall updates, onboarding journeys, GitHub project management training, skillshare matrix, Decentralization,  open governance, meeting facilitation, Documentation, mentorship,
+- emotions: informative, insightful, Collaborative, supportive,  forward-looking
+
+
 ## Friday 2nd August 2024
 
 
