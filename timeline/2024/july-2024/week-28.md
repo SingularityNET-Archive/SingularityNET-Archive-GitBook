@@ -407,6 +407,7 @@ Discussion Points:
 ## Thursday 11th July 2024
 
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -525,6 +526,55 @@ In our discussions, we delved into the governance design for our global communit
 #### Keywords/tags:
 - topics covered: Getting Started, onboarding processes, buddy system, Quarterly Report, onboarders team, Facilitation, Documentation, skills matrix, allegation, gorga, Budget , Q3 budget, Onboarding Journey Scripts, Vacation
 - emotions: interesting, misunderstood, Casual, Well-attended
+
+
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: Duke [facilitator], esewilliams [documenter], Sucre n Spice, esewilliams, Isaac, Duke, Ayo, Photogee, AdvanceAmeyaw, Isaac Daniel
+- Purpose: Identify and touch base virtually with other AI/Web3 communities across Africa 
+- Working Docs:
+  - [Africa Guild Q3 Budget](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307)
+  - [WG Agenda](https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit#heading=h.bni3waqetleu ))
+
+
+General Summary:
+
+Clement Umoh raised concerns about the recurring scheduling conflicts and suggested finding a permanent solution to avoid wasting time. Duke proposed two options to address scheduling conflicts: complaining to Governance WG or changing the meeting time. These were put to a vote, with the group ultimately deciding to move the meeting to 5 p.m. on Thursdays.
+
+The group discussed plans for the AI Ethics Expo in Nigeria, a collaboration between the AI Ethics Work Group and the African Guild. The event is projected for August or September, with a focus on securing a suitable venue and speakers, and a budget split between the two groups. It will be the group's first outreach initiative. Ese Williams questioned the roles of the four participants for the Expo, leading to a discussion on the implementation of proposed ideas and the need for volunteers to assist with the event. The conversation also addressed the selection process, potential locations for the event, and the possibility of covering travel expenses for participants.
+
+The importance of the members' collective initiative was highlighted for generating ideas to drive the guild forward. The initiative aims to fund ideas from guild members to contribute to the guild's growth and achievement of KPIs.
+
+Duke addressed the need to revise budgets due to pending budget approvals for Strategy, Marketing, and Writers. Budget cuts are expected; careful spending will be important this quarter, as the current budget lacks contingency provisions. The discussion also touched on the majority of the budget being allocated to recurring operational work.
+
+Duke asked for feedback on the African Guild's progress, with Clement Umoh and Ese Williams expressing positive feedback and Ese suggesting improvements in organization and time management. Duke sought opinions on the pace of progress and the need for better coordination, and mentioned the possibility of giveaways for consistent meeting attendance. 
+
+Ese Williams expressed confusion about the AAG token and its legitimacy, prompting Clement Umoh to caution against engaging with it. 
+
+The discussion also included updates on uploading past meeting summaries and the need to ideate on strategies to increase African participation in the guild.
+
+The meeting concluded with plans for future meetings and a reminder to communicate any scheduling conflicts.
+
+
+
+#### Decision Items:
+- Should the meeting time be moved to a different day?
+  - [effect] affectsOnlyThisWorkgroup
+- What is the feedback on the progress of the African Guild?
+
+#### Action Items:
+- [action] Members will indicate their interest and specify the particular roles they are willing to take on for managing the volunteer workforce from the SingularityNet community. [assignee] All Members [status] in progress
+- [action] Duke Peter will revise the budget based on feedback from the Treasury [assignee] Duke [status] in progress
+- [action] Clement would go over his research work in the next meeting [assignee] Clement Umoh [status] todo
+- [action] Ese Williams would an update on the marketing guild initiatives members [assignee] esewilliams [status] in progress
+- [action] Duke Peter will provide updates on the African Guild AI Ethics Expo [assignee] Duke [status] todo
+- [action] Duke Peter will coordinate with Peter to move the meeting time by an hour [assignee] Duke [status] todo
+
+#### Keywords/tags:
+- topics covered: African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates, change meeting time, documentation, meeting time, AI Ethics expo, progress, meeting summaries, Governance WG, members' collective, AAG token, 
+- emotions: Friendly, funny, cool, speedy, Thoughtful 
 
 
 ## Friday 12th July 2024
