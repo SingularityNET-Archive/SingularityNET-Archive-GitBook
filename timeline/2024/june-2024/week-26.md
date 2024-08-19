@@ -405,6 +405,7 @@ In our recent discussions, we focused on creating a comprehensive roadmap for de
 
 ## Thursday 27th June 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -456,6 +457,61 @@ In our recent discussions, we focused on creating a comprehensive roadmap for de
 #### Keywords/tags:
 - topics covered: Getting Started, onboarding processes, buddy system, Quarterly Report, onboarders team, Facilitation, Documentation, roster, skills matrix, allegation, gorga, Budget , Q3 budget
 - emotions: interesting, misunderstood, argumentative
+
+
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: esewilliams [facilitator], LadyTempestt [documenter], Peter, Sucren, esewilliams, Kenichi, Ayodele, Clement Umoh, Isaac, 5oundwave5, LadyTempestt, Fani, Sama, martinsoki, Onize, Onyeka, Emmanuel, kateri
+- Purpose: Research on best African countries to spread the guild
+- Other media: [Link](https://www.wada.org/)
+- Working Docs:
+  - [Doc 2](https://docs.google.com/forms/d/1ICRk-4ycBZ7LZkbVVnISnlQKhB-7K73kL4wHu0EL91I/edit)
+  - [African Guild Meeting Agenda: 15th August, 2024](https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing)
+  - [SingularityNET Africa AMA Registration](https://docs.google.com/forms/d/1ICRk-4ycBZ7LZkbVVnISnlQKhB-7K73kL4wHu0EL91I/edit)
+
+#### Narrative:
+The meeting started with Ese greeting everyone in all the African languages. 
+
+Action items from the last meeting:
+
+Identify and touch base virtually with other AI/Web3 communities across Africa 
+https://www.wada.org/
+https://www.wims.io/
+African Leadership University (ALE) Rwanda
+
+Sucre and Love to create an onboarding structure for new members (everyone is free to participate) - *Completed*
+Everyone to contribute to Skill Database Form (completed and paid out).
+Clement to conduct research on best countries to spread and penetration strategies (Phase 1 completed). Clement says he will start rolling out phase two soon and share it in the next meeting 
+Ayo to create Initiative and Contribution Framework Document.
+Townhall Updates by Tuso 25th
+Ese and Ayo gave updates on the AMA session; Onize is working on the banner and graphics for it. Ayo says we should try and bring in other African countries members to join in the session through a marketing strategy. 
+
+Budget fitting: we got consent but we need to discuss how to cut down costs in our budget because of limited AGIX during our next meeting.
+
+Discussion item: How do we get more African countries to join the guild and participate in the program? 
+a) Onize suggested doing a survey or research on what will get people from different countries involved. She also suggested reaching out to open-ended communities with enough people from different African countries by asking them to fill out a survey form on if they would like to get involved with the SNET ambassador community or SNET in general.  
+b) Fani from Rwanda suggested giving out merchandise to AI-based students to introduce SingularityNET to them.
+c) Kenichi suggested offering people we are reaching out to something tangible like a contribution framework on how we work to get them interested.  
+d) Boaz said that physical workshops work best in the Democratic Republic of Congo.  
+e) Sama Lesky said that in the Cameroon context, we can partner with organizations that organize tech competitions and boot camps. 
+f) Emmanuel(advanceameyaw) from Ghana suggested virtual workshops and meetups based on Blockchain and AI, like SingularityNET, the vision, what they seek to achieve, the benefits of having a decentralized AI marketplace.
+
+We discussed whether we should have a cap on the number of ambassadors we want in the African guild from each African country including Nigeria, and think about incentivizing people to bring in members from other African countries outside Nigeria within budget.
+
+
+#### Decision Items:
+- We agreed to have our first AMA session tomorrow (28th June) by 5pm UTC.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Clement to conduct research on best countries to spread and penetration strategies - he is to bring an update on phase 2 to our next meeting. [assignee] Clement Umoh [due] 4 July 2024 [status] done
+- [action] Ayo to share the document on Initiative and Contribution Framework Document on Discord for everyone to add comments to it. [assignee] Ayodele [due] 11 July 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: African, African guild, AMA Session Updates, membership, membership cap, engaging other African countries, virtual events, physical events, DRC, Ghana, Cameroon, Rwanda, merchandise, student, Partnership, contribution framework, contribution, survey , Budget fitting, skills database, Wada, Wims
+- emotions: funny , contributive
 
 
 ## Friday 28th June 2024
