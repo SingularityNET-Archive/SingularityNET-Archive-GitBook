@@ -217,6 +217,7 @@ Discussed possible tasks for AGI-24 conference, August 13th-16th; and for the pr
 
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -350,6 +351,58 @@ Discussed possible tasks for AGI-24 conference, August 13th-16th; and for the pr
 #### Keywords/tags:
 - topics covered: review team, Dework Go through, Dework, Initial docs, Notion, Ai for beginners, video adjustments 
 - emotions: productive,  Collaborative, Businesslike.
+
+
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], effiom, lord_kizzy, tevo, YemiSolves, Gorga Siagian
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594943442339&cot=10)
+- Other media: [Link]( https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Async Organising Process](https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62)
+  - [Ambassador Program Analysis (Miro Board) ](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14)
+  - [Process Guild Q2 Report](https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/)
+
+#### Agenda item 1 - Configuration and testing of ChatGPT model - [carry over]
+
+#### Discussion Points:
+- Continue improving ChatGPT model with guiding material and organizing structure
+- Are the results from the LLM what we expected?
+- Surprisingly good results and insights that are useable
+- Does the insight from the test gives us better understanding of the next steps in training GPT?
+
+#### Decision Items:
+- We will take GPT model into use if we continue to organize new items
+  - [rationale] From the test done, the results were good and the insights are useable
+
+#### Action Items:
+- [action] Create an Excel file to feed our history and add our historic data of how we organize items to GPT to learn from [assignee] Tevo [status] todo
+
+#### Agenda item 2 - Reviewing Item - Ambassador Program Analysis (Miro Board)  - [resolved]
+
+#### Discussion Points:
+- Asset link: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14
+- What is the difference between identification and resolution of conflicts?
+
+#### Decision Items:
+- We kept the Item in Category Behavioral Patterns under the section 'How do we resolve conflicts and tensions?'
+  - [rationale] The item falls under that category and the section
+
+#### Agenda item 3 - Q2 Proposal Report - [carry over]
+
+#### Discussion Points:
+- Q2 Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/
+- Shared current progress made of the Q2 Proposal Report
+
+#### Action Items:
+- [action] Draft Knowledge Based section of Q2 Report [assignee] Effiom [status] todo
+
+#### Keywords/tags:
+- topics covered: LLM development, ChatGPT, Testing, Results, Insights, review, Conflicts, Q2 quarterly report
+- emotions: educational, insightful, Collaborative
 
 
 ## Thursday 25th July 2024
