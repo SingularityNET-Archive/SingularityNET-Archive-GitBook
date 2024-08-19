@@ -407,6 +407,7 @@ Licensing of materials collected from surveys and interviews
 
 ## Thursday 4th July 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -449,6 +450,62 @@ Licensing of materials collected from surveys and interviews
 #### Keywords/tags:
 - topics covered: Relevant tags, Q3 budget projections, onboarding processes, the onboarders, skills matrix,  buddy system reports
 - emotions: informative, productive, cheerful, Friendly, Collaborative, supportive
+
+
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: Clement Umoh [facilitator], Advanceameyaw [documenter], PeterE, Sucre n Spice, esewilliams, Kenichi, Ayo, Clement Umoh, Isaac
+- Purpose: Identify and touch base virtually with other AI/Web3 communities across Africa 
+- Working Docs:
+  - [Africa Guild Q3 Budget](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307)
+  - [Pan African Research on best countries to penetrate and onboard with the African guild ](https://docs.google.com/document/d/1v7da6pucrdgEcLgo0quw3_j2p_UDBK-yfNu3pNbuI24/edit?usp=drive_link)
+
+#### Narrative:
+The meeting started with Clement greeting everyone, whilst Ese was not around to greet in all languages, Emmanuel (advanceameyaw) was on the spotlight to greet in his but had background noise challenges.
+Action items from the last meeting:
+Identify and touch base virtually with other AI/Web3 communities across Africa 
+https://www.wada.org/
+https://www.wims.io/
+African Leadership University (ALE) Rwanda
+Sucre and Love to create an onboarding structure for new members (everyone is free to participate) - *Completed*
+Clement to conduct research on best countries to spread and penetration strategies (Phase 1 completed) Clement apologized for delays in the second phase of the project due to health issues. He plans to integrate recommendations from the last meeting summary and aims to complete this by the next meeting.
+
+Ayo to create Initiative and Contribution Framework Document.
+Ayo emphasized that while the document framework has been established, the focus now shifts from creation to active contribution. Given its comprehensive nature involving multiple sections, Ayo stressed that completing it shouldn't fall solely on one person but should be a collective effort. He highlighted the importance of avoiding redundancy within the document, noting specific sections like onboarding influenced by Sucre n Spice's work and strategy linked to other aspects. Ayo underscored the need for initiative and widespread contribution, proposing a timeline dedicated to collaborative contributions to finalize the document efficiently.
+
+Discussion item: How do we get more African countries to join the guild and participate in the program? (takeaways from suggestions made in last meeting - surveys, merchandise, virtual meets, physical workshops, etc).
+
+Clement recapped the last meeting's takeaways, including conducting surveys and collaborating with other institutions to promote the guild and SingularityNet initiative. He requested input on potential partner organizations and announced that he will create a document for these recommendations in the second phase of research. Clement also reminded the guild to contribute resources to support individual projects that align with the guild's objectives.
+
+Marketing Initiatives for the Guild
+Ayo and Clement discussed marketing initiatives for the Guild, including incentivizing quality people to join and creating a template for sourcing individuals from other African countries. Ayo proposed forming a four-person team to work on clear-cut marketing initiatives. So the team comes with a series of marketing initiatives for the next meeting that we all can discuss.
+
+Bounty to upload our past meeting summaries
+Clement  suggested uploading past meeting summaries to a summary tool developed by the Archives workgroup and proposed offering a bounty for volunteers interested in this task. Ayo and Isaac volunteered to do that.
+
+AMA Session Update
+We reviewed the successful AMA session, which engaged five countries, with active participation from Kenya, Cameroon, and Ghana, and established contact with Rwanda.
+Ayo highlighted the need for a larger budget due to the extensive effort involved, with team members dedicating over seven hours each. Contributions from Ese, Clement, Onize and Ayo were praised. Clement emphasized customizing innovations to fit African needs, such as developing an African-specific language model. Overall, the session achieved its goals of outreach and meaningful AI discussions for Africa.
+
+Q3 Budget Updates
+Clement noted that recent token prices are unfavorable, necessitating budget adjustments. Sucre suggested postponing final Q3 budget decisions until the treasury clarifies the percentage cut on July 10th, which is expected to be between 23% and 30%. While waiting, Sucre recommended identifying items to potentially reduce. Clement agreed to keep the Q3 budget pending, and Ayo concurred, especially since many guild members were absent. Clement emphasized that swift consent from the first batch of guilds shows strong support for core initiatives, allowing for a focused and strategic budgeting approach essential for solidifying the African guild's structure.
+
+
+#### Decision Items:
+- We agreed to postpone the Q3 Budget for discussion after treasury clarifies the percentage cut.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Ayo to put a link to the framework document  on the Discord channel (time frame should be included.) [assignee] Ayo [due] 20 July 2024 [status] in progress
+- [action] Everyone to contribute to the framework document. [assignee] All Members [status] in progress
+- [action] A session on Africa Guild Marketing Initiative. [assignee] All Members [status] todo
+- [action] Ayo and Isaac to upload our past meetings  summaries in the summary tool. [assignee] Ayodele, Isaac [due] 18 July 2024 [status] in progress
+
+#### Keywords/tags:
+- topics covered: African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates, budget fitting, Kenya, Cameroon, Ghana, Rwanda, contribution framework, meeting summaries, language, 
+- emotions: Friendly, funny , cool
 
 
 ## Friday 5th July 2024
