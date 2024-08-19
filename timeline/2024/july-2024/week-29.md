@@ -390,6 +390,7 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 ## Thursday 18th July 2024
 
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -516,6 +517,52 @@ In our recent discussions, we focused on creating a workshop for github operatio
 #### Keywords/tags:
 - topics covered: TH Update , Budget , skills matrix, Gorga's Allegations, holidays, training , Discord, onboarders team
 - emotions: argumentative, long, Collaborative 
+
+
+
+### Africa Guild
+
+- Type of meeting: Weekly
+- Present: Clement Umoh [facilitator], esewilliams [documenter], Clement Umoh, LadyTempestt, esewilliams, Udonma Obu, Clement Umoh, AdvanceAmeyaw
+- Purpose: Identify and touch base virtually with other AI/Web3 communities across Africa 
+- Working Docs:
+  - [Africa Guild Q3 Budget](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307)
+
+#### Narrative:
+
+Research Strategy and Regulatory Environments
+The meeting began with Clement discussing the research strategy for the African guild propagation, focusing on regulatory environments in Nigeria, Cameroon, and Rwanda. He emphasized the need for contributions and partnerships, highlighted the challenges and opportunities in each country's regulatory landscape, and shared personal experiences with regulatory challenges in Nigeria. He outlined potential engagement strategies and partnerships with tech companies and academic institutions in the target countries.
+
+Marketing Initiatives and Onboarding Process
+The team discussed modifying strategies for the marketing section, and LadyTempestt raised concerns about the marketing initiative channel and meeting scheduling. Ese Williams explained the process of scheduling and justified the approach taken. The marketing section focused on the initial formation of a four-person group and the potential expansion of the team.  Udoma Obu expressed interest in the marketing initiative.
+Clement and Ese addressed the onboarding process, noting that many new members are unfamiliar with the platform and have not completed the necessary steps. Ese outlined a plan for a marketing initiative to collaborate with new members from other parts of Africa and expand efforts in various locations, including translating materials into native languages.
+
+AI Ethics Expo
+Clement led a detailed discussion on the AI Ethics Expo, covering the event's physical location in Nigeria, the roles of participants in content creation, documentation, media, and monitoring & evaluation, and the idea of project pitching as part of the event's content. Clement addressed the need to subsidize transportation for physical meeting attendees. The team also discussed the need for concrete updates on progress in the next meeting and the potential for wider participation in the event.
+
+Budget
+Clement confirmed the budget lowering percentage at 23% and expressed hope for no further reductions in the future.
+
+Time change and Zoom access
+Ese Williams took responsibility for reminding Peter about the time change updates and making a general announcement. There was a discussion about access issues with Zoom, and tasks were assigned for onboarding new members onto the platform; LadyTempestt was tasked to help with onboarding and reaching out to new members.
+
+
+
+#### Decision Items:
+- What are the updates on the SNET African Guild and AI Ethics Expo?
+- What is the budget and the proposed dates for upcoming events?
+
+#### Action Items:
+- [action] Clement will verify if the members have made submissions for the research [status] todo
+- [action] Clement will reach out to Duke for updates on roles for the  AI Ethics Expo [status] todo
+- [action]  Ese Williams will follow up with Peter for updates on the time change and make a general announcement on the channel [status] todo
+- [action] Clement will put out a notification on the channel about the change in time and reach out to Duke and Peter to make the updates on the official calendar. [status] todo
+- [action]  LadyTempestt will onboard new members from different parts of Africa into Discord and assist with their wallets and work integration. [status] todo
+- [action] Clement will share contacts of new members with LadyTempestt for onboarding [status] todo
+
+#### Keywords/tags:
+- topics covered: Meeting, Guilds, Blockchain, Research, Event, Initiatives, Marketing, AI ethics, community engagement, Zoom, meeting time, budget, Q3 budget, AI Ethics Expo, Nigeria, Rwanda, Cameroon, onboarding, languages, regulations, regulatory environment, Partnership, scheduling
+- emotions: Friendly, Casual, Collaborative, interesting, accountability
 
 
 ## Friday 19th July 2024
