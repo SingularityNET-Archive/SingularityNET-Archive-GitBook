@@ -235,6 +235,7 @@ Ayo expressed gratitude to the participants and provided an overview of the plan
 ## Wednesday 31st July 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -335,3 +336,64 @@ Ayo expressed gratitude to the participants and provided an overview of the plan
 #### Keywords/tags:
 - topics covered: review team, Dework Go through, Dework, Initial docs, Notion, Ai for beginners, video adjustments , representation, meeting time, task presentation, Google Classroom, SingularityDAO, Deep Funding
 - emotions: productive,  Collaborative, Businesslike.
+
+### Dework PBL
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], effiom, gorga, lord_kizzy, malik434, merryman, oluAyoola7D, photogee, tevo, Yemi
+- Purpose: This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- Miro board: [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764594009805680&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- Working Docs:
+  - [VIDEO - Tooling to compare Participation vs Contribution](https://www.youtube.com/watch?v=VMSKB79fkbg)
+  - [Dework PBL Quarter 2 2024 Report](https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM)
+
+#### Agenda item 1 - Updates on Participation vs Contribution Tooling - [resolved]
+
+#### Discussion Points:
+- Now you can make select members to create the group of people who are in meeting 
+- New parameter columns created for total AGIX contribution amount and selected contribution percent
+- Finished Source Data table which can now show all different contribution types
+- We used Knowledge Base WG to demonstrate updates
+
+#### Action Items:
+- [action] Test tooling in use to for workgroups - September [assignee] Tevo [status] todo
+
+#### Agenda item 2 - Constructing the algorithm and the next steps for Implementation - [carry over]
+
+#### Discussion Points:
+- How do we construct the algorithm to be fair and incentivize expected behavior?
+- How do we use AGIX ratio?
+
+#### Decision Items:
+- We use levels of differences in ratio to create rewarding weight 
+  - [effect] mayAffectOtherPeople
+- Final rewards per meeting will have a cap on total cost, hourly rate per person and personal limits
+  - [effect] mayAffectOtherPeople
+- Total Weighted Rewards will be fitted to total cost
+  - [effect] mayAffectOtherPeople
+- Final Rewards over personal limits will not be redistributed
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Implement algorithms to simulate results [assignee] Tevo [status] todo
+
+#### Agenda item 3 - Future Session Facilitation - [resolved]
+
+#### Discussion Points:
+- Future session facilitation
+- How to access zoom call while Tevo is on break?
+
+#### Decision Items:
+- If meeting is cancelled still do the meeting summary if applicable
+  - [rationale] Based on previously cancelled meeting, summary was done where applicable
+  - [effect] affectsOnlyThisWorkgroup
+- Ensure to open call for at least 15mins before closing call if no one attends
+  - [rationale] Some Treasury Operators taking call might join call for assistance and 15mins is enough time to accomodate latecomers
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Tevo to make sure zoom calls can be opened with phone, in case we need to open any Dework PBL Session [status] todo
+
+#### Keywords/tags:
+- topics covered: Dework, Miro Board, tooling, implementation, Facilitation, holidays
