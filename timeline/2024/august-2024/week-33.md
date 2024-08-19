@@ -6,6 +6,7 @@ description: Mon 12th Aug - Sun 18th Aug 2024
 
 ## Wednesday 14th August 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -49,6 +50,55 @@ description: Mon 12th Aug - Sun 18th Aug 2024
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, pools, MixPost, Social Media Automation, Rewards, skills database
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful 
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Kenichi, Billy, Clement Umoh, esewilliams, malik, osmium, Mikasa, Yemi Solves, lord kizzy, kateri, King David, martinsoki, Merryman, Photogee, thisruti, WaKa, Slate, Gorga Siagian
+- Purpose: - Overview of the overall progress with the Core Contributor Certification Program  - Slate Automation Setup for Core Contributor Certification Program  - Quizzes Distribution - Malik NFT for Certification - Kenichi's Presentation Series Project 
+#### In this meeting we discussed:
+- Overview of the overall progress with the Core Contributor Certification Program
+- Slate: Automation setup for Core Contributor Certification Program  
+-  Quizzes Distribution 
+- Malik NFT for Certification
+-  Kenichi's Presentation Series Project
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then Slate explained the overall progress with the "CCCP" , in which he mentioned that we have complete all the 17 spin off project infographics and their videos 
+- Then he moved over to the quizzes progress in which he showcased that out 17 quizzes, 12 have been reviewed and paid out while 5 are in progress whose completion is necessary for the CCCP to go live 
+- Then he showcased the automation he set up for the certification program. it was mentioned that since we are going to be having 17 classrooms, one for each spin-off project, each classroom will have three things: an infographic, a video and the quiz for that spin-off project 
+- Inititally 1 classroom code is going to be shared with every core contributor, and in order to receive the next classroom code the core contributor will have to pass the quiz for that specific classroom. If they are not able to pass in one attempt, the journey for the certification will come to an end and that core contributor will have to wait till the next batch of the certification program.
+- In case of passing the quiz , the automation will come in place and take it from there and will automatically evaluate if you have passed the quiz or not. If you have, you will receive an email to your given email address, which will give you the classroom code for the next  classroom, and so on until you reach the end of  certification program and complete all 17 spin off projects.
+- In order for everything to be transparent, a "Dashboard Sheet " will also be shared with everybody which will automatically fetch all the data from all the classrooms and display everyone's results and how much progress they have made.
+- Then Slate advised Malik to start the creation of the NFTs for certification. 
+- Slate also prepared a small test for testing the automation, in which 3 forms were given to everybody and each form was completely automated. The automations were perfectly tested and finalized.
+- Then Slate distributed some quizzes to the meeting participants 
+- Then Kenichi gave a presentation for the project he proposed which is "Presentation Series", everybody really liked the presentation.
+- The automation also received a lot of positive remarks and everybody is looking forward to the final product.
+
+#### Decision Items:
+- 70% will be the passing score for each quiz 
+  - [rationale] most of the group agreed
+  - [opposing] Nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Test the automation
+  - [rationale] nil
+  - [opposing] nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Gorga and Osmium to shift all the quizzes from Google docs to Google forms 
+  - [rationale] nil 
+  - [opposing] nil 
+
+#### Action Items:
+- [action] Work on completing the automation [assignee] Slate [due] 21 August 2024 [status] done
+- [action] task assignment for NFT to Malik  [assignee] Slate [due] 14 August 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Automation , Presentation, Testing, Task Assignment, passing criteria 
+- emotions: productive,  Collaborative, Businesslike.
 
 
 ## Friday 16th August 2024
