@@ -6,6 +6,7 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 
 ## Wednesday 7th August 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -53,6 +54,109 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, Voting process, pools, MixPost, Social Media Automation, skills database, pools, reputation
 - emotions: Casual, Collaborative, speedy, Welcoming
+
+
+
+### Knowledge Base Workgroup
+
+- Type of meeting: Biweekly
+- Present: lord kizzy [facilitator], Effiom [documenter], effiom, lord_kizzy, advanceameyaw, hamzat, Photogee, Gorga Siagian, YemiSolves
+- Purpose: Aggregating Ambassador Program assets and relevant information under GitBook
+- Miro board: [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594944356009&cot=14)
+- Other media: [Link]( https://app.dework.xyz/singularitynet-ambas/process-guild)
+- Working Docs:
+  - [Async Organising Process](https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62)
+  - [Writers Workgroup Async Resource Collections](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14)
+  - [Knowledge Base WG Onboarding Feedback (Responses)](https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/edit?resourcekey#gid=1012113575)
+  - [Knowledge Base WG Infographic](https://drive.google.com/file/d/1S24dJki0gT7oZrDy96IfA5Tz8OkyHm9l/view)
+  - [Scribbler Onboarding Form (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform)
+
+#### Agenda item 1 - Knowledge Base WG Onboarding and Feedback Form - [carry over]
+
+#### Discussion Points:
+- A new member joined the meeting
+- Used the infographic to onboard new member
+- There was no new feedback to be reviewed
+
+#### Decision Items:
+- Check feedback form again in next meeting or by next month
+  - [rationale] The check should be monthly as the feedback is usually valuable to the WG
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Publicise the feedback form again by sharing it [status] todo
+
+#### Agenda item 2 - Writers WG Items to be added to Gitbook - [resolved]
+
+#### Discussion Points:
+- Writers WG Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14
+- 11 writers WG items to be selected for Gitbook
+- What is a valid item for Gitbook?
+- Are meeting notes valid assets to be organised for Gitbook?
+
+#### Decision Items:
+- Meeting notes are already archived on Archives Gitbook, hence they should not be organised again 
+  - [rationale] Meetings notes are not valid items to be organised
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- 6 Writers' WG items were selected as valid assets for Ambassador Gitbook
+  - [rationale] These items were agreed on by WG members
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- 4 Writers' WG items were not selected as valid Gitbook assets
+  - [rationale] These items were agreed on by WG members
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Move the 6 items to Miro board Kanban to be organised async [status] todo
+
+#### Agenda item 3 - Reviewing Item - Scribbler Onboarding Form (Google Form) - [resolved]
+
+#### Discussion Points:
+- Asset link: https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform
+- Live review of organised Writers' WG asset
+
+#### Decision Items:
+- We removed item from 'How do we manage financial resources' under Executive functions 
+  - [rationale] When somebody asks how do you manage Ambassador Program Resources, handing them this form will not do much
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- Item was removed from 'How do we evaluate Ambassador Program' under Evaluation Criteria
+  - [rationale] The scribblers onboarding form doesn't show how we evaluate the entire ambassador program
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- We removed item from 'How do we identify issues and challenges' under Identification Process
+  - [rationale] This form is only related to one WG not the entire ambassador program
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Item to be moved here https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764595177345598&cot=10 [assignee] lord kizzy, Effiom [due] 8 August 2024 [status] done
+
+#### Agenda item 4 - Workgroup Planning - Next Session - [resolved]
+
+#### Discussion Points:
+- Next session is on 21.08.24
+- Facilitation and documentation of the next session
+
+#### Decision Items:
+- Ayo to facilitate next session and Effiom as backup if he is unavailable
+  - [rationale] Ayo had indicated interest to facilitate
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- Gorga to document next session
+  - [rationale] Gorga indicated interest and it was agreed
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Notify both the facilitator and documenter ahead of the next meeting [assignee] Effiom [due] 20 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Ambassador GitBook, Miro Board, Onboarding, Feedback Form, feedback, Writers WorkGroup, Items, Facilitation, Documentation
+- emotions: Collaborative, interesting, Deliberative, fun
 
 
 ## Thursday 8th August 2024
