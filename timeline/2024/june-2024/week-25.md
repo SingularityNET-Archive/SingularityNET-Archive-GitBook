@@ -353,7 +353,7 @@ There were suggestions to include
 - topics covered: skills audit, Getting Started, mentorship, onboarding processes, buddy system, Q2 quarterly report, Quarterly Report, Video Script, Onboarder's form
 - emotions: interesting, funny , speedy , Friendly, Well-attended, Network Issues
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: duke peter [facilitator], Ayo, Onize [documenter], esewilliams, Kenichi, Clement Umoh, Onize, kateri, Cjfrankie, SucrenSpice, PeterE, Ayo, LadyTempestt, hogantuso, guillermolucero, lord kizzy
