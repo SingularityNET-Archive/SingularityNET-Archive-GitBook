@@ -520,7 +520,7 @@ In our recent discussions, we focused on creating a workshop for github operatio
 
 
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: Clement Umoh [facilitator], esewilliams [documenter], Clement Umoh, LadyTempestt, esewilliams, Udonma Obu, Clement Umoh, AdvanceAmeyaw
