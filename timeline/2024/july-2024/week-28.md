@@ -529,7 +529,7 @@ In our discussions, we delved into the governance design for our global communit
 
 
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: Duke [facilitator], esewilliams [documenter], Sucre n Spice, esewilliams, Isaac, Duke, Ayo, Photogee, AdvanceAmeyaw, Isaac Daniel
