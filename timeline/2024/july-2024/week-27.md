@@ -453,7 +453,7 @@ Licensing of materials collected from surveys and interviews
 
 
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: Clement Umoh [facilitator], Advanceameyaw [documenter], PeterE, Sucre n Spice, esewilliams, Kenichi, Ayo, Clement Umoh, Isaac
