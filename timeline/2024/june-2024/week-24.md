@@ -440,7 +440,7 @@ Should we meet again on the 24th and 26th of June for this quarter? 24th was fav
 
 ## Thursday 13th June 2024
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: Duke [facilitator], love, Onize [documenter], Duke, Onize, Kenichi, Cjfrankie, Victor Maxwell, esewilliams, LadyTempestt, Ayo, SucrenSpice, guillermolucero, lord kizzy
