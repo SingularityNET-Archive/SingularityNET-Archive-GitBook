@@ -460,7 +460,7 @@ In our recent discussions, we focused on creating a comprehensive roadmap for de
 
 
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: esewilliams [facilitator], LadyTempestt [documenter], Peter, Sucren, esewilliams, Kenichi, Ayodele, Clement Umoh, Isaac, 5oundwave5, LadyTempestt, Fani, Sama, martinsoki, Onize, Onyeka, Emmanuel, kateri
