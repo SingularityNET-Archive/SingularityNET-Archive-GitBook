@@ -285,7 +285,7 @@ How detailed should a budget be? Do we need to give guidance on this? Feedback s
 ## Thursday 6th June 2024
 
 
-### Africa Guild
+### African Guild
 
 - Type of meeting: Weekly
 - Present: Duke [facilitator], Onyeka  [documenter], Peter, Sucren, love, esewilliams, Kenichi, Ayodele, kateri, Billy, martinsoki, Gorga Siagian, Clement Umoh, daniel effiom, oep, Hamzat_iii, Oluwaseun Gbiri, Onize
