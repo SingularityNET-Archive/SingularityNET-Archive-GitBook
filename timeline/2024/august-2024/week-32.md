@@ -4,6 +4,55 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 
 # Week 32
 
+## Tuesday 6th August 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], PeterE, CallyFromAuron, guillermolucero, onize, esewilliams, barnabas, CollyPride, Effiom, hogantuso, Iain, Clement Umoh, kateri, aetherblade, Advanceameyaw, lord_kizzy, Zalfred, Eric Davies
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 109
+- Working Docs:
+  - [Ubio's AI Search Tooling for Archives WG](https://docs.google.com/presentation/d/1flCXW61HRlAxSu45t3dbqLpEHqHRcxn1OIlk376NEX8/edit?usp=sharing)
+  - [Indigenous Protocol and Artificial Intelligence position paper](https://spectrum.library.concordia.ca/id/eprint/986506/7/Indigenous_Protocol_and_AI_2020.pdf)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=0s) Intro
+[00:38](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=38s)  Agenda
+[01:08](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=68s)  What Is The Ambassador Program?
+[01:46](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=106s) Mentions - Wg Sync Call This Thursday; Metta Study Group
+[03:04](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=184s)  Agi-24 Pre-event Roundtable, 7th August
+[05:49](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=349s)  Adn24 Recap From Guillermo And Latam Guild
+[14:43](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=883s)  Archives Wg - Research Into Ai Tooling For Archives And Recordkeeping 
+[26:20](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=1580s)  Questions On Archives Wg's Presentation
+[34:16](https://youtu.be/_DRM4wrCtr4?si=h9FRYl5qdaYzw_5e\&t=2056s)  Possible Deadlines And Process For Q4 Budget Decision Process
+
+#### Town Hall Summary:
+Mentions this week included:
+ - there will be a Workgroup Sync call this Thurs - a new-ish initiative where workgroup and guild leads get together to discuss issues of common concern. The last one was not well-attended, so hoping for fuller representation from WGs this time
+ - MetTa study group on Fridays - a new initiative for those who want to learn more about Metta. Also noted today's Technical Tuesday was about how Metta allows scaling for OpenCog Hyperon - see https://www.youtube.com/live/DqadfpXj3rE?si=lnJ6w9jXLaarJZUD
+
+Mention of the AGI-24 pre-event: a roundtable discussion with Ben Goertzel, David Wood, Gabriel Axel Montes, Elizabeth Shaw, Anneloes Smitsman (see https://www.youtube.com/live/CS_M3GQY9Vk?si=ZEbSL0FPhHQc-TRE), followed by breakout rooms led by members of LatAm Guild and AI Ethics WorkGroup, covering topics including anthropomorphisation in AI, Indigenous cultures' approach to AI (see position paper, https://spectrum.library.concordia.ca/id/eprint/986506/7/Indigenous_Protocol_and_AI_2020.pdf) and 
+
+LatAm Guild gave a heartfelt presentation about their presence at the recent ADN event in Buenos Aires and the importance and value of the LatAm Guild's growth, and Argentina as the centre of an important event - see blog post https://singularitynet-latam.medium.com/presencia-de-la-comunidad-latina-de-singularitynet-en-el-evento-adn-en-buenos-aires-e4bc960bfdfd
+
+Archives WG gave a presentation about the research they have been doing into AI tooling for archives and recordkeeping, including sentiment analysis and whether AI can apply human-generated tags, followed by some inyteresting questions - see slides https://docs.google.com/presentation/d/1flCXW61HRlAxSu45t3dbqLpEHqHRcxn1OIlk376NEX8/edit?usp=sharing
+
+Mention of the initial discussions on the Q4 budgets decisionmaking process, and the start of discussing deadlines and schedule for Q4 budget submission; to be discussed in next Open Governance call this Thursday.
+
+
+
+
+#### Keywords/tags:
+- topics covered: ADN24, events, Metta, Technical Tuesdays, Workgroup sync call, LatAm, LLMs, Archives WorkGroup, recordkeeping, research, sentiment analysis, tagging, virtual round table, Ben Goetzel, David Wood, Elizabeth Shaw, Anneloes Smitsman, The Gabriel Axel Montes interview episode
+- emotions: in-depth, cordial, interested, emotional, heartfelt, pride
+
+
 ## Wednesday 7th August 2024
 
 
