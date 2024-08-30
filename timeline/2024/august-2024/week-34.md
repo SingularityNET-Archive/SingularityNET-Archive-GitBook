@@ -78,3 +78,46 @@ We agreed this idea needs to go out to all WG leads - who are all core contribut
 #### Keywords/tags:
 - topics covered: consent process, Q4 2024 budgets, Q3 2024 quarterly reports, consent forms, core contributors, deadlines, publicity, community engagement, timeline, Budget , Quarterly Report, minimal budget, late submission
 - emotions: Friendly, decisive, focused
+## Wednesday 21st August 2024
+
+### Research and Development Guild
+
+- Type of meeting: Weekly
+- Present: lordkizzy [facilitator], lord kizzy [documenter], AJ, Advanceameyaw, Clement Umoh, lord kizzy, Seun Tunde, Ubiodee, Yemi Solves
+- Purpose: R&D Updates and Discussions 
+- Working Docs:
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT 
+- NEW OPERATIONS SYSTEM GOING FORWARD: R&D Proposal Template
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting
+- UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameyaw gave the updates on the Collaboration Skill Database; they presented the work done so far visually, and requested feedback on whether it would be suitable to add existing data to the database. Lordkizzy made some clarity on the scope of the project and suggested that the existing data gets differentiated from the new data. AJ and Advanceameyaw requested two more weeks from the inital deadline for development and testing.
+- R&D Guild Proposal Template: Lord kizzy presented the final draft of the proposal template to the group for feedback. Here is the document: https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit He also highlighted the timeline for this process: New proposal submission applications, August 27th - September 3rd. Review process, September 4th - 10th. Community voting, September 11th - 18th
+
+#### Decision Items:
+- We have decided to proceed with the transition from the development of the Social Media Automation tool to an Open Source platform called MixPost
+  - [rationale] a poll was conducted to approve this decision and a final report will be presented at the end of the Quarter.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Guillermo to disburse funds to Duke (the final part of his project's allocation) and Rojo (for Licenscing and hosting) [assignee] Guillermo [due] 21 August 2024 [status] done
+- [action] Guillermo and Lord kizzy to present the final draft for the new Operations System [assignee] Guillermo, lord kizzy [due] 21 August 2024 [status] done
+- [action] Lordkizzy to meet up with Duke as regards to the presentation of the Ideation Project on Impact of Lingual Differences [assignee] lord kizzy [due] 28 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, skills database, Database, lingual differences, language, MixPost, timeline, proposal, proposal template, voting, community voting, social media automation, 
+- emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful, Organised
