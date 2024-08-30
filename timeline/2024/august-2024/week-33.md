@@ -4,6 +4,62 @@ description: Mon 12th Aug - Sun 18th Aug 2024
 
 # Week 33
 
+## Tuesday 13th August 2024
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], PeterE, Effiom, hogantuso, CollyPride, Will Tatz, Sucre n Spice, osmium, Billy, Zalfred, Cjfrankie
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 110
+
+#### Timestamped video:
+{% embed url="https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=0s) Intro 
+[00:11](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=11s) Agenda
+[01:24](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=84s) What Is The Ambassador Program?
+[01:58](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=118s) Mentions
+[02:02](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=122s) Agi-24 Conference Currently Live; Livestream Presentations Plus Chillout Room Run By Ai Ethics Workgroup.
+[02:28](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=148s) Budget Constraints Due To Fall In Token Price - Opengov Wg
+[03:58](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=238s) Onboarding Wg - Training Session On Documentation Skills
+[05:25](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=325s) Open Round 
+[05:44](https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA\&t=344s) Quick Temperature Check On Budget Consent Process
+
+#### Town Hall Summary:
+Today's Town Hall was short, since attendance was low due to it being August and many people being on holiday, and overlap with the AGI-24 virtual conference.
+
+Mentions this week included:
+- AGI-24 conference opened today (13th-16th Aug 2024) https://agi-conf.org/2024/, with livestream presentations each day plus a chillout room/watch party run by the Ambassador Program's AI Ethics Workgroup
+
+Possible budget constraint implications of the recent fall in token price - will be further discussd in Open Goverance WG on Thurs
+
+Forthcoming training session from Onboarding WG on 15th August, on documentation skills
+
+Timeline has been established in today's Governance WG call for the Q4 budget decision process:
+
+- Budgets and Q3 reports submitted:  Monday 9th Sept 23:59 UTC
+- Deadline for first consent form: Thurs 12th September, 23:59 UTC
+- Individual forms are shared for any WGs that have a "don't consent" Fri 13th Sept
+- Deadline for core contributors to submit these: Monday 16th Sept, 23:59 UTC
+- First discussion meeting: Tues 17th Sept in the Governance WG call.
+- WGs with outstanding concerns after this meeting have till Sunday 22nd Sept, 23:59 UTC to amend and resubmit their budgets
+- Last round of consent forms go out  Mon 23rd Sept
+- Deadline for core contributors to submit forms Weds 25th Sept, 23:59 UTC
+- Final discussion meeting: Thurs 26th September in the Open Governance meeting
+
+
+
+
+
+
+#### Keywords/tags:
+- topics covered: AGI-24, conference, chillout, chill room, AI Ethics WG, Budget , Documentation, training, Onboarding WG, token price, budget constraints, consent process, Q4 budget decision
+- emotions: relaxed, brief, short, friendly 
+
+
 ## Wednesday 14th August 2024
 
 
