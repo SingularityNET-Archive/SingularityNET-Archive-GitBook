@@ -4,6 +4,68 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 
 # Week 32
 
+## Monday 5th August 2024
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: CallyFromAuron [facilitator], Colleen, sakujennbornean [documenter], CallyFromAuron, PeterE, Clement Umoh, Yemi Solves, LadyTempestt, SucrenSpice, barnabas, Ayo, sakujennbornean, GorgaSeagian, malik, Effiom, aetherblade, CollyPride, esewilliams, osmium, guillermolucero
+- Purpose: Regular Meeting of the AI Ethics WG
+- Meeting video: [Link](No video)
+- Transcript: [Link](No transcript)
+- Working Docs:
+  - [Ambassador Program AI Ethics WG Q2 2024 Budget proposal](https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/)
+  - [Starter document](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/)
+  - [AI ethics, safety, and risk taxonomy and literature](https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing)
+  - [AI Ethics WG folder ](https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing)
+  - [Interview participant information sheet and informed consent form](https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing)
+  - [AI Ethics Workgroup TAG Username List](https://docs.google.com/document/d/1w66IDx9W2-43lhL0R59NC2xADgJfa4ZtB6sP_d0ZFuo/edit?usp=sharing)
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics GitHub board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+
+#### Narrative:
+We worked through the GitHub project board, starting with "In progress" items, then "To do"
+
+Quick discussion of GitHub management, and how we process Issues where several people are paid different amounts (for now, might need to create separate issue for each person to dovetail with Treasury system)
+
+Some issues remain about payment for the strategy-writing tasks, and how the money should be divided between each group; there have been comments outside of meetings about fairness. This raises wider questions for us as a WG on what is fair re: money and pay, and is part of our governance as a WG. (Examples: what happens if someone cannot do a task for reasons beyond their control, such as illness? What if someone drops out of a task? Or if work is done late? What if there's a team, and one person does more work than the others - and how do we determine what is "more work" - is it about time, capability, or something else?) So we agreed to discuss in general terms in our next meeting.
+
+Quick discussion about reportbacks from WG to GEI meetings: Jenn is happy to just share her written reportback rather than actually talking to it in the GEI meeting.
+
+AGI-24: roles are all assigned, and Vani will share info on meeting links, more exact role descriptions, templates for documentwers, etc in the next few days. There will also be a training session with Esther for interviewers. Thanks to all who signed up.
+
+AI Ethics Conversations - not many people have signed up with an idea yet; and 2 of the suggested ideas are actually being covered at the AGI-24 pre-event instead. So requesting more ideas from members.
+
+Confirmed that the "Creating learning resources" budget line has been pushed to Q4, if at all - and noted that Education Guild is already doing some similar work this quarter; there may be scope for collaboration. Vani asked if WGs who are working on learning resources could add a note to the relevant issue on our board, so when we plan for Q4 we know what's been done and don't tread on toes.
+
+On plans for Q3 interviewing: we discussed wide range of good ideas from members; but we're over budget so members are asked to cut down their totals to a max of $200. Confirmed that we want to interview a range of people, from AI professionals to people with no prior knowledge of AI; and importance of covering a range of demographics. Discussed idea of interviewing teenagers - there are additional ethics issues involved, but it should be possible. Also confirmed that we can do more interviewing in Q4.
+
+
+
+
+#### Decision Items:
+- Agreed to use part of our next meeting (19th Aug) to discuss principles around money, work and payments
+  - [rationale] there have been some disagreements around payments for strategy-writing tasks; it is a subject we need to address and possibly should have addressed earlier
+  - [effect] affectsOnlyThisWorkgroup
+- Issue #26 (Producing learning resources)  to be moved to Q4
+  - [rationale] Budget-fitting. Also noted that Education WG is creating (video) learning resources on AI Ethics this quarter, so if we do work on this in Q4 we should keep aware of what they have done so we don't overlap.
+  - [effect] mayAffectOtherPeople
+- Signups for roles at AGI-24 and the pre-event on 7th August have now closed. 
+  - [rationale] All the roles are filled
+  - [effect] affectsOnlyThisWorkgroup
+- Costs for the Q3 interviewing "mini-projects" to be capped at $200 each. People who have proposed a set of interviews should edit their budgets to fit
+  - [rationale] we are c. $1,000 over budget for the work overall
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Vani and Sucre to check with André on how to manage payment of issues where different people are paid different amounts [assignee] Sucre n Spice, CallyFromAuron [due] 12 August 2024 [status] todo
+- [action] Vani to check with GEI about the issue of interviewing teenagers [assignee] CallyFromAuron [due] 19 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Meeting Summaries, Payment Divisions, github board, interviewing, AGI-24, Education material, Budget , Budget fitting, GEI
+- emotions: Friendly, Collaborative, funny, Thoughtful 
+
+
 ## Tuesday 6th August 2024
 
 
