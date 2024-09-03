@@ -4,6 +4,79 @@ description: Mon 19th Aug - Sun 25th Aug 2024
 
 # Week 34
 
+## Monday 19th August 2024
+
+### AI Ethics WG
+
+- Type of meeting: Biweekly
+- Present: CallyFromAuron, Sucre n Spice [facilitator], Onize, CallyFromAuron [documenter], CallyFromAuron, Clement Umoh, Yemi Solves, LadyTempestt, barnabas, Ayo, GorgaSeagian, malik, Effiom, Advance Ameyaw, Onize, Seun Tunde, aetherblade, guillermolucero, PeeGee, Duke, CollyPride, Sucre n Spice
+- Purpose: Regular Meeting of the AI Ethics WG/Money Issues
+- Meeting video: [Link](No video)
+- Transcript: [Link](No transcript)
+- Working Docs:
+  - [AI Ethics WG: money questions](https://docs.google.com/document/d/1NqHFvD26-_ncHUnwu4ecbEyejtQbdP-W4p6CxtCfLg8/edit?usp=sharing)
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics GitHub project board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+
+#### Narrative:
+The first part of the meeting was a discussion of money and pay, prompted by issues that have arisen in the WG so far. We were aiming to come to agreement on fairness and accountability, and establish general principles on e.g. late work, illness, non-contribution, etc, and how to distribute rewards/payments in those situations. We acknowledged the need to be flexible and understanding, but also recognised the risk of people taking advantage of too much flexibility, especially around deadlines. We also recognised the importance of people communicating if they won't be able to meet a deadline; and the importance of establishing, at the start of a particular task, exactly how it will be assessed and paid.
+
+Some decisions were made, but further discussion is needed on some issues, so the group agreed to continue to discuss async in the shared doc "Money questions", and to try to reach agreement on outstanding issues at its next meeting.
+
+The group then worked through the issues on the GitHub board.
+
+There is still some disagreement on how the strategy-writing tasks (now in "Done" on the board) should be paid to fairly reflect people's contributions. It was agreed that the Admin team will step in to try to facilitate reaching agreement.
+
+Due to pressure of time in the meeting, we agreed that for the "In progress" tasks, people will update Issues that are assigned to them as needed, rather than going through the whole board in this meeting.
+
+We looked at the "To do" task of interviewing people about their attitudes to AI ethics, and noted that members' proposed interviews add up to around $1,000 over budget. Despite posts in the WG Discord channel asking people to lower their totals, nobody has; so we agreed that the Admin team will amend the suggestions, and post a redraft in Discord for people to agree to or not.
+We also agreed that training will take place in the first week of September, when everyone is likely to be back from holidays.
+We also noted that we want to do further interviewing in Q4 2024, so we will include a budget line for interviews in Q4, and people can propose anything that was over budget for Q3 in the next quarter.
+
+We noted that the "AI conversations" budget line we had in the Q3 budget has to be cut, to fit the budget to the current low AGIX price; but again, we will aim to include it as a budget element in Q4.
+
+
+
+#### Decision Items:
+- For task deadlines, we should avoid Fridays and weekends
+  - [rationale] because there is a natural "grace period" over the weekend - it's pointless to have a deadline on  a Friday, since no work is likely to be done over the weekend, so might as well make it midnight on Sunday
+  - [effect] affectsOnlyThisWorkgroup
+- If someone does no work at all on a task, they should not be paid, even if it's due to illness.
+  - [rationale] The group agreed on a principle of "no work, no pay" in such cases.
+  - [opposing] There was some mention of the idea of sick pay, but we felt that the Ambassador program probably cannot support it at this stage; and we noted that even though it's a cornerstone of some people's cultures, it's alien to others.
+  - [effect] affectsOnlyThisWorkgroup
+- If someone doesn't do a task assigned to them, we should aim to hear from them before making a decision such as reassigning the task - but we shouldn't wait indefinitely
+  - [rationale] 48 hours after the deadline was suggested as a waiting time, though it was recognised that it might depend on the urgency of the task
+  - [effect] affectsOnlyThisWorkgroup
+- If someone doesn't take part in a shared task that was assigned to them, their share of the money for it should be split between those who did do the work, rather than going back into the overall pot
+  - [rationale] Working on the principle that if someone drops out, that means more work for the rest of the team, which should be recompensed
+  - [opposing] There was a suggestion that sometimes working alone is easier, not harder - but it was agreed that it's not *less* work, just work that some people may find easier. It should still be paid.
+  - [effect] affectsOnlyThisWorkgroup
+- However, we might need to give more thought to *why* a task is being shared, and be less eager to share tasks out between people unnecessarily. NOTE: this was something of a "lightbulb moment" in the conversation
+  - [rationale] It might not always need to be, and sharing it might be more about an attempt to give everyone a role, than because the task truly needs input from more than one person.
+  - [effect] affectsOnlyThisWorkgroup
+- On the reason for sharing tasks - we recognised there's a difference between a collaborative task (everyone does a bit of the same thing) and a compound task (each person does a different thing), and it may be important to define which one it is
+  - [rationale] If it's collaborative it’s harder to assess contribution, and we might need to evaluate whether it really needs to be split between sevaral people - but if each team member is doing a different thing, it’s easier to see if Person A has or hasn’t done the part that’s assigned to them
+  - [effect] affectsOnlyThisWorkgroup
+- It's helpful to establish the principles around payment at the start of a task: what work is expected, what's the deadline, how will it be assessed, what will happen if expectations are not met, how will unused funds be dealt with
+  - [rationale] for clarity and fairness, and to try to avoid arguments later; and because different tasks are different, so there might not be a “blanket” approach that can be used across the board
+  - [effect] affectsOnlyThisWorkgroup
+- We will comment async on outstanding questions in the "AI Ethics WG: money questions" doc, and return to the discussion in a future meeting
+  - [rationale] because we didn't get through all the issues mentioned in the doc
+  - [effect] affectsOnlyThisWorkgroup
+- The WG admin team (Colleen, Sucre, Love and Vani) will step in to facilitate strategy-writing teams to reach agreement on distributing pay for the strategy writing tasks
+  - [rationale] as it has become clear that there is some dissatisfaction with the current distributions 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Everyone to continue to comment async in the Money Issues doc, and discuss again in a future meeting [assignee] All Members [due] 16 September 2024 [status] todo
+- [action] Admin team (Love,. Sucre, Colleen, Vani) will amend the costings for proposed Q3 interviewing to bring it within budget, and will post a suggestion in Discord for poeple to agree or disagree [assignee] CallyFromAuron, Sucre n Spice, LadyTempestt, CollyPride [due] 26 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: deadlines, Tasks, Task Assignment, flexibility, policies, Asynchronous follow-up, drafting strategy documents, strategy documents, interviewing, AGI-24, training, Budget , capability, async, money, payment, pay, fairness, fair
+- emotions: Pragmatism, Frustration, Collaboration, ideas, uncertainty, confusion, insights
+
+
 ## Tuesday 20th August 2024
 
 ### Governance Workgroup
