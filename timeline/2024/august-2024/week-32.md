@@ -274,6 +274,7 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 
 ## Thursday 8th August 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -326,6 +327,51 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 #### Keywords/tags:
 - topics covered: TH Update , Budget, Session, Onboarding Journey Scripts, Workgroup closure, allegation, Town Hall updates, infographic, budget cuts
 - emotions: Collaborative, tense, argumentative, funny 
+
+
+
+### WG Sync Call
+
+- Type of meeting: Monthly
+- Present: PeterE [facilitator], lord kizzy [documenter], CallyFromAuron, Slate, Andre, Sucre n Spice, malik, kateri, Onize, LadyTempestt, Gorga Siagian, Nebula, Photogee, Ayo, Yemi Solves, guillermolucero, MartinSoki, Clement Umoh
+- Purpose: Use of reserves to cover budget deficiencies
+- Working Docs:
+  - [Workgroup Syncing call: Rolling Agenda ](https://docs.google.com/document/d/1Mdxr2DT9LOi_-7ZS7oIC69ilY67oGqReVhvOuNwUgYQ/edit)
+
+#### Agenda Items:
+- Facilitation and Documentation of WG Syncing call
+- Budget Deficiencies due to devaluation of AGIX
+- Facilitating and documenting next 3 Town Halls after the 13th of August
+
+#### Discussion:
+-Facilitation and Documentation of WG Syncing call: 
+Peter suggested a rotation model for facilitation and documentation. He asked members if they were interested in facilitating this call; Onize offered to facilitate the next one, but nobody present felt ready to do this one, so Peter continued facilitating it.
+
+
+-Budget deficiencies due to devaluation of AGIX: 
+Slate highlighted that the budget-fitting cuts (24.8%) and the recent token price devaluation sums up to almost a 50% cut to workgroups' original Q3 budgets, which is not feasible for workgroups to operate. There was a suggestion for some workgroups to shift to bi-weekly sessions rather than weekly, but some members felt that the allocation for meeting facilitation and documentation is a small portion of their budget allocation and reducing meeting sessions doesn’t make significant changes. Peter indicated that there is provision for up to 10% to cover token price depreciation; but for anything more than that, while there is a program-wide reserve obtained from leftover budgets from workgroups, in the current system there is no sustainable way of maintaining the reserves if we are taking from it. Lordkizzy highlighted that workgroups' Quarterly report on deliverables will be hugely affected by the budget deficiencies, as they will be unlikely to be able to deliver all that they planned to do. Vanessa suggested that for Q4, WGs may need to decide whether to prioritise keeping the WG running, or doing project-based work (and that decision will vary from WG to WG). She also suggested WGs could each select 1 item that they really want to do but can no longer afford, and ask for it to be funded from reserves.
+
+
+-Facilitating and documenting next 3 Town Halls after the 13th: 
+Peter indicated that he won’t be available for the 3 Town Halls (20th, 27th, 3rd of next month). 3 members volunteered (Onize, Guillermo,, Clement). Peter highlighted that he would create a full open process by posting it on the Ambassadors General Discord channel for everyone to volunteer and then we will decide from there.
+
+
+
+#### Decision Items:
+- We decided that Lordkizzy would document the session and Onize will facilitate the next session. 
+  - [rationale] Peter facilitated this call since there wasn't anyone interest in doing so 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Onize to facilitate the next WG Syncing Call on 9th September.  [assignee] Onize [due] 5 September 2024 [status] todo
+- [action] All WGs/Guilds to try to prioritize activities and make cuts within their budget. [assignee] All WGs/Guilds [due] 5 September 2024 [status] todo
+
+#### To carry over for next meeting:
+- Budget Deficiencies: Due to Devaluation of AGIX
+
+#### Keywords/tags:
+- topics covered: Budget deficiencies, Budget cuts, Facilitation, Documentation, Town Hall session
+- emotions: Well-attended, Casual, Organised, insightful
 
 
 ## Friday 9th August 2024
