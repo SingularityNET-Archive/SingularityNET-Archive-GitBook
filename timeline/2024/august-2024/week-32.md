@@ -330,6 +330,7 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 
 ## Friday 9th August 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -369,3 +370,68 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format
 - emotions: Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy, decisive, Friendly
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Cjfrankie  [facilitator], Gorga Siagian, CallyFromAuron [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Advanceameyaw, Merryman, Eveline Trinite, Nengi, Inésgav, WaKa, Emmanuel Isaac, Eric Davies, Nebula1224
+- Purpose: Weekly meeting of the writers workgroup 
+- Working Docs:
+  - [WWG Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+  - [SNET WWG-TEST](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit)
+
+#### Narrative:
+Agenda items:
+1) Updates on ongoing projects
+2) WWG Test results
+3) Zealy board
+4) Q3 Report and Q4 Budget
+5) Governance Call
+6) Points system
+
+1) Updates on ongoing projects:
+Slate has replied to Kenichi's message and said he will complete his work regarding the “Harnessing AI & Blockchain" AMA.
+
+2) WWG test results
+Kenichi said that there are four tests that have been reviewed. He also noticed that a new test had been submitted and asked other Scribes to review it. Kenichi recommends that the three participants who have taken the test should retake it. He will send this information to the reviewers (scribes) so they can contact the participants.
+
+2) Zealy board
+Kenichi added video workgroup quests to the Zealy board, and discussed the backlog of older quests.
+
+Kenichi has created a channel for Zealy reviewers and the channel is up and running
+
+Several assignments are awaiting review from Devon, who responded that he will review them today. Apart from that, Kenichi explained that now Zealy tasks carry out this process on a weekly basis, meaning that every weekend there are new tasks that will be done or released for review. Devon will send more quests on the Zealy board today.
+
+Regarding the old quest backlog, Kenichi let some tasks from the previous sprint remain intending to maintain a balance between old participants and new. The main goal is to engage newcomers, so he wants to ensure that frequent participants don't always have an edge over new participants.
+
+4) Q3 Report and Q4 Budget
+On the Q3 report: Kenichi reported that there are now more than 220 Medium subscribers; the aim is more than 300 before the end of the quarter. If we achieve this target, it will exceed WWG members' own expectations for this quarter. WWG members have two months left to reach that goal.
+Kenichi admitted that content publication was a little slow, which is understandable because WWG's budget was only approved at the end of July. However, it is currently trying to catch up, and in August, there will be a lot of content published.
+Regarding Twitter/X followers, Kenichi reports that the SNET Ambassador Twitter has more than 1,200 followers, and continues to grow.
+On onboarding, WWG has successfully onboarded two new writers and plans to add several more before the end of the quarter. Kenichi also mentioned that the group needs to discuss whether to open the onboarding process for the fourth quarter (Q4) or not.
+
+5) Governance calls
+Attendance at Governance calls, and the importance of representation in Town Halls, were emphasized, alongside updates on the Cogito collaboration project.
+
+6) Points system
+We agreed to do a delegation process, where scribblers will signpost other scribblers to attend the point system distribution calls with Kenichi and a scribe, to get a glimpse of how the rewards are distributed every month.
+
+
+
+#### Decision Items:
+- Following old Zealy tasks backlog, Kenichi let some tasks from the previous sprint remain 
+  - [rationale] To maintain a balance between old participants and new.
+  - [effect] affectsOnlyThisWorkgroup
+- On the points system, we agreed to do a delegation process where scribblers will signpost other scribblers to attend the point system distribution calls with Kenichi and a scribe 
+  - [rationale] So they can get a glimpse of how the rewards are distributed every month.
+
+#### Action Items:
+- [action] Slate to complete his work on the “Harnessing AI & Blockchain" AMA. [assignee] Slate [due] 16 August 2024 [status] in progress
+- [action] Kenichi to provide updates on publications and metrics for Q3 report and prepare initial Q3 report document for comments by next Friday. [assignee] Kenichi [due] 16 August 2024 [status] todo
+- [action] Kenichi to conduct final review of the fourth test submission [assignee] Kenichi [due] 16 August 2024 [status] todo
+- [action] Kenichi to start an initial document on how to split workgroup reporting tasks [assignee] Kenichi [due] 16 August 2024 [status] todo
+- [action] CJFrankie to reach out to Sandra for Cogito project updates. [assignee] Cjfrankie  [due] 16 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Zealy, Points system, Task updates , Onboarding, WWG Test, Twitter, sprinters, Governance, Q3 Updates, tools, Townhall, Cogito, medium, Q3 2024 report, Q4 2024 budget
+- emotions: Collaborative, informative, insightful, forward-thinking
