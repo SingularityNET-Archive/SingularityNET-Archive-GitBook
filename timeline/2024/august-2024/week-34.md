@@ -194,3 +194,47 @@ We agreed this idea needs to go out to all WG leads - who are all core contribut
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, skills database, Database, lingual differences, language, MixPost, timeline, proposal, proposal template, voting, community voting, social media automation, 
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful, Organised
+## Friday 23rd August 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Hogantuso [documenter], hogantuso, malik, killy, Zalfred, lord kizzy, King Daniel, oep, AndrewBen, Slate, Advanceameyaw, SubZero, Gorga Siagian
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video Workgroup Budget Request Q3](https://docs.google.com/spreadsheets/d/1gkLF0ymOATPQu_jAWSL1u9QH6OcOIQEClF9ExL6RJQk/edit?gid=0#gid=0)
+  - [Video Workgroup Q2 Report.](https://docs.google.com/document/d/1r5BG6w-sdOEoda3sKwIRWtfLioCBGw5sof4tCrnIuac/edit#heading=h.1ooa0j1dxhvv)
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+  - [Quality Control Blueprint](https://docs.google.com/document/d/1j-IvVfleiXHRZoduxcMxi7pQwon15qcY2vN9p_waXyU/edit#heading=h.z6fzop9orwn7)
+  - [Zealy Updates](https://docs.google.com/spreadsheets/d/1suSzs5UM063hz2GHlmJsysba8XeX7S9MEgEmoT5tkqE/edit?usp=sharing)
+
+#### Discussion Points:
+- Updates on task management: Zalfred gave the update for task management for the week: he had created two tasks within the week and there was a delay in the editing of the town hall videos since the recording was uploaded late 
+- Updates from Social Media Management: OEP gave the updates for the week, he indicated that he received the access to our socials accounts a bit late
+- Updates from Lordkizzy: Lordkizzy gave the updates from the governance call. He suggested that the workgroup requests the 10% contingency from Treasury due to the budget deficiencies but some members suggested that we should wait till we really need it. He also spoke on members not doing the task efficiently and requested an improvement going forward. 
+- Updates on Zealy: Devon presented the report on the current sprint and we all ideated on how to improve the engagements going forward. We also set out KPIs for the next sprint (25 quests a month rationally shared across all social media platforms). Lord kizzy also suggested that we increase our focus more on engagements by using a 2-screenshot submission method.
+- Updates from the review team: Lordkizzy indicated that 3 short videos are currently being reviewed by the review team, and feedback has been sent to the editors
+- There was a presentation by Gamers Guild on the Video WG Department Creation by Lordkizzy and Gorga, which was approved by the workgroup members and got some positive feedback.
+
+#### Decision Items:
+- We decided to close applications for new members joining the WG.
+  - [rationale] The video WG had a poll on this and majority of the members were in favour of closing applications
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action]  Workgroup members to ideate on possible human animation platforms  [assignee] All Members [due] 6 September 2024 [status] in progress
+- [action] The Town Hall summary edit was assigned to Killy for the month  [assignee] killy [due] 13 September 2024 [status] in progress
+- [action] The Town Hall edit was assigned to AndrewBen for the month [assignee] AndrewBen [due] 13 September 2024 [status] todo
+- [action] Task management was assigned to Zalfred for the month [assignee] Zalfred [due] 13 September 2024 [status] in progress
+- [action] Social media management was assigned to OEP for the month [assignee] oep [due] 13 September 2024 [status] todo
+- [action] Weekly Facilitation was assigned to Slate for the month [assignee] Slate [due] 13 September 2024 [status] in progress
+- [action] Documentation was assigned to Tuso for the month [assignee] hogantuso [due] 13 September 2024 [status] in progress
+- [action] Lordkizzy to make futher enquires on the presented animation platforms [assignee] lord kizzy [due] 30 August 2024 [status] in progress
+- [action] Lordkizzy and Malik are the reviewers for the month [assignee] lord kizzy, Malik. [due] 13 September 2024 [status] in progress
+- [action] LordKizzy to have a call with Kenichi to discuss the editoral access and KPIs for the Zealy platform [assignee] lord kizzy [due] 30 August 2024 [status] todo
+- [action] Lord kizzy to have a call with malik to revamp the engagement sheet [assignee] lord kizzy [due] 30 August 2024 [status] todo
+- [action] Lordkizzy and Rojo to present the Q4 Budget proposal and Q3 Budget report [assignee] lord kizzy, Rojo [due] 30 August 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, sprint, Rewards, Video production, Town Hall, Town Hall videos, Task Assignment, Contingency, Tasks format, Zealy KPIs, review team, Gamers Guild, Roblox 
+- emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, decisive, Friendly
