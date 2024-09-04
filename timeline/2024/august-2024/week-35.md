@@ -50,3 +50,39 @@ description: Mon 26th Aug - Sun 1st Sep 2024
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, Documentation, voting, skills database, access
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly
+## Friday 30th August 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Hogantuso [documenter], malik, killy, Zalfred, lord kizzy, oep, Slate, SubZero, LadyTempestt, Hogantuso, osmium
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+  - [Zealy Updates](https://docs.google.com/spreadsheets/d/1suSzs5UM063hz2GHlmJsysba8XeX7S9MEgEmoT5tkqE/edit?usp=sharing)
+  - [Video Workgroup Q3 Report.](https://docs.google.com/document/d/1yT7ZK2VTlAbvPcizkMAsCgS-2sJ_TZ-IcDtgxrgZr7Y/edit#heading=h.jadhio64tftq)
+
+#### Discussion Points:
+- Updates from Social Media Management: OEP gave the updates for the week, and indicated that we made three long videos posts: the SNET ECOSYSTEM UPDATE, DWORK PBL and AI QUANTUME and more engagement for the Zealy and letting us know we need more short videos for the YT shorts. He also mentioned plans on how to post during the week and to drop the schedule.
+- Updates on Task management: Zalfred gave the update for Task management for the week, as he has created tasks within the week been able to assign tasks to Rojo on the ecosystem update; also training and documentations / operational call between lord kizzy and Rojo; also malik reaching out to him for auditing the task. 
+- Updates from Lordkizzy: Lordkizzy gave a brief insight on the review team in order to make it easy for posting. He also presented the quarterly report for Q3, and the Q4 Budget proposal, and spoke on the new operations system currently been ideated by Rojo.
+- Updates on Zealy: Devon presented the report on the current development from the Zealy and mentioned that he has got the editorial role, We all ideated on how to manage payment for the next sprint 
+- Updates from the Zealy discussion: Lordkizzy indicated that there might be a need for a second reviewer but we have not yet concluded on that as there's no budget allocation yet for it.
+- Discussed the review on the KPI sheet on the content.
+- We also discussed the video animation, and the payment plan for the video work group looking through various video animation platforms as we are all yet to decide on the tool in use. 
+
+#### Decision Items:
+- We decided that we upload content in the workgroup chat if there be any review, then the team would check out review before approval.
+  - [rationale] this would aid better communications
+  - [effect] affectsOnlyThisWorkgroup
+- Devon to receive payment from the video work group, not the writers, for last sprint
+  - [rationale] the payments would come from the writers WG point system
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Rojo is drafting out a new operation system in order to get tasks adequately done by members. [assignee] Rojo [due] 6 September 2024 [status] in progress
+- [action] members should reach out to our social links and engage with our contents [assignee] All Members [due] 6 September 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contingency, Tasks format, Zealy KPIs, review team 
+- emotions: Casual, productive, Organised, Thoughtful, warm, decisive, Friendly, interactive
