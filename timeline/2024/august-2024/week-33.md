@@ -159,6 +159,7 @@ Timeline has been established in today's Governance WG call for the Q4 budget de
 
 ## Friday 16th August 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -204,3 +205,60 @@ Timeline has been established in today's Governance WG call for the Q4 budget de
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format, new members, closing workgroup, animation, governance, governance WG, governance calls, WG sync calls
 - emotions: Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy, decisive, Friendly
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Advanceameyaw, Nebula, Merryman, King David, AJ, Emmanuel Isaac, Nengi, Darah-mola, Evelyn Robert, Nebula1224
+- Purpose: Weekly meeting of the writers workgroup 
+- Other media: [Link](https://x.com/LadyTraderRa/status/1823904196367970731)
+- Working Docs:
+  - [WWG Scribbler Onboarding Form](https://forms.gle/yLzrMbtUjjhcgWUj9)
+
+#### Narrative:
+Agenda:
+- Q3 quarterly report
+- MixPost tool; and WWG alliance with the R&D guild and Video WG
+- Substack newsletter
+- Cogito
+- Open Gov call, budgets, WG reserves, Treasury
+- WWG test applicants
+- Zealy
+
+The meeting kicked off with Kenichi welcoming everyone to the meeting. We started by checking the action items from the last meeting, which led to a lengthy discussion. First off, our discussion was centered around the Q3 quarterly report and what we're going to present in the Q3 report document. 
+
+Kenichi shared more insider tips on the MIXPost tool from the R&D guild! He highlighted how this tool will be beneficial to the WWG, especially for social media scheduling. He mentioned that the R&D guild will take care of the maintenance and licensing for three months. After this period, the video WG and WWG will take full responsibility. Lastly, Kenichi added that the project is still in its infancy, so he'd develop a close connection with Rojo to stay in the loop so the WWG would get the most out of the tool.
+
+We also talked about how the Writers' workgroup could publish the monthly Substack newsletter a bit sooner; in recent times, the WG has been faced with some delays. Kenichi proposed the idea of signposting scribblers to WGs and guilds which they do not often attend, to capture actual facts about the meeting. He also added that he would create a column in the points system sheet to track these activities.
+
+Following that, Cjfrankie shared an update on his discussion with Sandra regarding the articles the scribblers wrote for Cogito a little while ago. Sanda did mention that she'd reach out to Kenichi afterward to discuss the payments. Momentarily, with screen sharing, Kenichi shed light on how the WG could tap into Cogito for more article deals. He proposed the idea of making Twitter threads 🧵.
+
+We switched gears to discuss the conversation around the OpenGov call held on August 15th. Lady Tempestt set the Thames on fire with conversations about digging into the WWG reserves. The discussion also featured talks around multisig wallets and the WWG allocation status. 
+
+We had a discussion on the tests taken by the aspirants — Kenichi mentioned that the result sheets would be announced in the next meeting. 
+
+From the Zealy side of things, Kenichi announced that July’s sprint will be ending in a few days; in light of this, he spoke about a 48-hour marathon, which involves adding quests on the board to enable the sprinters to boost their chances of topping the chart. Following the earlier discussion on the AGIX token price, Kenichi stated that the Writers' WG might reach out to the Marketing Guild to pull in some funds to back up the next Zealy sprint. 
+
+
+
+#### Decision Items:
+- Due to the AGIX depreciation, we have agreed to cut down on tasks and move some drafts to Q4.
+  - [effect] affectsOnlyThisWorkgroup
+- Following a discussion on AGIX price, we decided that we would onboard only two extra scribblers this quarter! On the other hand, we decided that the other aspirants who took the test might get the scribbler tag, but no contribution until Q4.
+  - [rationale] AGIX is dropping. So, the budget might not be enough to reward members for their contributions.
+  - [effect] affectsOnlyThisWorkgroup
+- We have agreed that moving forward we will focus more on high-priority tasks for the SNET ecosystem page while the community page gets updated with content more often because the page is still in its infancy. 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Kenichi to chase Peter to get more clarity on the WWG Treasury Allocation Status. [assignee] Kenichi [due] 23 August 2024 [status] done
+- [action] Kenichi to add more Zealy quests on the board to enable sprinters to boost their chances before the sprint ends. [assignee] Kenichi [due] 18 August 2024 [status] done
+- [action] Kenichi to create a column in the points system sheet to track WGs and guild meeting reports. [assignee] Kenichi [due] 23 August 2024 [status] done
+- [action] Cjfrankie to announce the 48-hour Zealy marathon on the channel. [assignee] Cjfrankie  [due] 18 August 2024 [status] done
+
+#### Learning Points:
+- Multisig — a crypto wallet that requires two or more signatures to confirm and send a transaction.
+
+#### Keywords/tags:
+- topics covered: Zealy, medium, Cogito, AGIX, Twitter threads, Points system, WWG Test, Governance, MIXPOST, Treasury, Reserve, R&D guild, Marketing Guild, Video WG, Marathon, multisig, mutisig wallet, AGIX price, token price, 
+- emotions: funny , Deliberative, insightful, informative
