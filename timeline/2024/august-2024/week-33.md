@@ -4,6 +4,83 @@ description: Mon 12th Aug - Sun 18th Aug 2024
 
 # Week 33
 
+## Monday 12th August 2024
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, PeterE, Gorgasiagian, YemiSolves, LordKizzy, Kateri Nick, Hogantuso, Mikasa, Cjfrankie, Photogee, Merryman, Billy, Ese Williams, King David, AJ
+- Purpose: Strategy Guild Workshop Day Three - Solution Framework Session Two
+- Other media: [Link](https://app.read.ai/analytics/meetings/01J53MYQSR3B3GXMG4R3NA6HXD?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Strategy Guild Meeting Notes - 5th August 2024](https://docs.google.com/document/d/1a4S9jdv7BqNCk7QcB3-oE8CHygJR72abXYXJbpggOis/edit#heading=h.6fyp3cl3ve7w)
+  - [Strategy Guild 12th August Session Agenda](https://docs.google.com/document/d/173h19fPORvau785j3KPEUB7hhwumG9KXOEO9-74TEmE/edit#heading=h.shxqnobd9709)
+  - [Ideation Workshop Session Report](https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0)
+  - [Strategy Guild Workshop Day Three Solution Framework Session Two](https://docs.google.com/document/d/1gjkhZX0sQpa7SBL4uY0ZTjawdCS90YOvgLFzg4-fINA/edit)
+  - [Notes: Strategy Guild Workshop Day Three Solution Framework Session Two](https://docs.google.com/document/d/1WinQlmlKoJY_P6DQ81QulCgpQcb70VrywjJeboY0jKE/edit)
+  - [Possible Survey Questions [Strategy Guild]](https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit)
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+
+#### Narrative:
+INTRODUCTION - Ayo delivered a welcome address. He stated that this meeting was the 3rd session of the workshop, being that we already had the Ideation session which was the 1st session, and the last meeting was the 2nd session. He highlighted that the next session would be the close-out session and it would be focused on report analysis, adoption, and adaptation.
+
+
+ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:
+
+1. Everyone to contribute to the Strategy Guild Working Document [OPEN]
+
+2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]
+
+3. Effiom to share previous meeting summaries and this meeting summary [DONE]
+
+4. YemiSolves to document and share the Workshop Session [DONE]
+
+5. Adopt Last Meeting Notes - 05.08.2024 [DONE]
+
+6. Effiom to verify the 5 people who have already met the requirements for the Core member tag [DONE]
+
+
+ONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, 3 new people (i.e. Photogee, Kenichi, and Cjfrankie) have indicated an interest in becoming core members of the Strategy Guild.
+
+Having met all the requirements, Kenichi was welcomed as a core member of the Strategy Guild. The document on how to become a core member of this guild is the Strategy Guild Membership docx
+
+
+STRATEGY GUILD Q3 RESEARCH - Effiom shared updates on the Strategy Guild research and the positive collaborative nature of this survey.
+
+
+THE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE TWO - The Workshop documenter will share the notes for this session. See reference to notes below:
+
+* Strategy Guild Workshop Day Three Solution Framework Session Two docx
+
+* Notes: Strategy Guild Workshop Day Three Solution Framework Session Two docx
+
+
+A.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions
+
+
+#### Decision Items:
+- The next meeting will be focused on report analysis, adoption, and adaptation.
+  - [rationale] This is based on the outline for the Strategy Guild workshop
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- Participants from other WGs are to join the next sessions
+  - [rationale] Representatives from Video WG, Writers WG and Marketing Guild are required for the Workshop and were duly notified
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Continue contribution to the Guild’s working document [status] todo
+- [action] Core members should indicate interest in facilitating the new sheet in the working doc [status] todo
+- [action] YemiSolves to document and share notes of the Workshop Session [assignee] YemiSolves [due] 16 August 2024 [status] done
+- [action] Effiom to draft and make meeting notes available [assignee] Effiom [due] 19 August 2024 [status] done
+- [action] YemiSolves to create and share a sheet for Guilds/WGs rep to add other contributions to aid the report and analysis of the workshop [assignee] YemiSolves [due] 16 August 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guild Membership, Workshop Ideation, Core Membership, Research, survey, participation, contribution, Video WG, Marketing Guild, Writers WG
+- emotions: Brainstorm, planning, Ideating, interesting, Collaborative
+
+
 ## Tuesday 13th August 2024
 
 ### Ambassador Town Hall
