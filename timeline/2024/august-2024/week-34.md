@@ -6,6 +6,7 @@ description: Mon 19th Aug - Sun 25th Aug 2024
 
 ## Monday 19th August 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -75,6 +76,102 @@ We noted that the "AI conversations" budget line we had in the Q3 budget has to 
 #### Keywords/tags:
 - topics covered: deadlines, Tasks, Task Assignment, flexibility, policies, Asynchronous follow-up, drafting strategy documents, strategy documents, interviewing, AGI-24, training, Budget , capability, async, money, payment, pay, fairness, fair
 - emotions: Pragmatism, Frustration, Collaboration, ideas, uncertainty, confusion, insights
+
+
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, Gorgasiagian, YemiSolves, LordKizzy, HoganTuso, Cjfrankie, Photogee, Merryman, Billy, Kenichi, SubZero
+- Purpose: Strategy Guild Workshop Day Four - Solution Adoption Session
+- Other media: [Link](https://app.read.ai/analytics/meetings/01J53MYQSR3B3GXMG4R3NA6HXD?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Strategy Guild Meeting Notes - 12th August 2024](https://docs.google.com/document/d/1LIO5AZIY86p7iFQYNUoSQ57qnwp3EDgYPvTmdNSxdxs/edit#heading=h.6fyp3cl3ve7w)
+  - [Strategy Guild Meeting Notes - 19th August 2024](https://docs.google.com/document/d/1ZpiMlAUHPtIt8PGFK4xwb56NWYv4i5u0VmGeK9blR5Q/edit)
+  - [Strategy Guild 19th August Session Agenda](https://docs.google.com/document/d/1vJzabpbpsFIhHpiPBDyNv4ILO7bUlC4Sn3A1CSIRSQk/edit)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Strategy Workshop Sessions (Report and Analysis)](https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0)
+  - [Strategy Guild  Workshop Ideation Session Questions Framework](https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/edit)
+  - [Workshop Ideation Session Notes: Strategy Guild 29th July 2024](https://docs.google.com/document/d/1Qz2WiEmTZYOEPhOVdYl_VY_U_YmdHXap_AehXLqycko/edit#heading=h.6fyp3cl3ve7w)
+  - [Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One](https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit)
+  - [Notes: Strategy Guild Workshop Day Three Solution Framework Session Two](https://docs.google.com/document/d/1WinQlmlKoJY_P6DQ81QulCgpQcb70VrywjJeboY0jKE/edit)
+  - [Strategy Guild Workshop Day Four Solution Adoption Session](https://docs.google.com/document/d/1PwLP-zhdjkRJNzqfxftwKvTlcHY06kQMmn05BBFzTrw/edit)
+
+#### Narrative:
+INTRODUCTION - The purpose of this meeting is on the final session of the Strategy Guild Q3 workshop and will be focused on report analysis, adoption, and adaptation.
+
+
+ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:
+
+1. Everyone to contribute to the Strategy Guild Working Document [OPEN]
+
+2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]
+
+3. Effiom to share previous meeting summaries and this meeting summary [DONE]
+
+4. YemiSolves to document and share the Workshop Session [DONE]
+
+5. Adopt last Meeting Notes - 12.08.2024 [DONE]
+
+6. YemiSolves to create and share a sheet for Guilds/WGs rep to add other contributions to aid the report and analysis of the workshop [DONE]
+
+
+ONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Two intending members (Photogee and Cjfrankie) were encouraged to keep attending meetings as they have met all but one of the requirements to become Core Members of the Strategy Guild
+
+Ayo highlighted the importance of active involvement in the Strategy Guild and that people can still show interest in facilitating the working document.
+
+
+THE OUTBOUND WGs/Gs WORKSHOP SOLUTION ADOPTION SESSION - The session focused on discussing how these solutions could be best deployed and adopted by the different WGs, with various representatives providing insights and perspectives on the proposed strategies.
+
+Highlights and takeaways from the Solution Adoption session:
+
+1. In-WG/Guild Solutions discussion: Guilds/WGs representatives were advised to take a few minutes to share the solutions from the workshop at their respective meetings. Also, Adoption should be easier, hence the reason for proper representation of WGs during the 4 days of the workshop
+
+2. Solutions for improving social media engagement and visibility: In a bid to speed up the Substack publication, Writers' WG decided to assign Scribblers to various Guilds/WGs meetings within the program.
+* Premium tool subscription and the importance of keyword research, drawing insights from the “AI Cryptography” article by Mikasa. 
+* The social media MIXpost automation solution which is in the testing phase at R&D Guild will be used by Video and Writers WGs.
+* Content Calendar optimization based on the algorithm suggestions on the best time for social media posts.
+
+3. Solutions roles/tasks and budgeting: Guilds/WGs will decide on this and the Strategy Guild would follow up on the feedback.
+
+4. Solutions Feedback System for the Strategy Guild: Feedback Template and Form (Open/Monthly/Quarterly), and Tracking Sheet.
+
+5. Solutions Audit and Improvement Process/Plan for the Strategy Guild
+
+6. Guilds/WGs have autonomy on whether to adopt these solutions. However, a feedback system will be created to assess the impact of the workshop.
+
+
+A.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions.
+
+
+#### Decision Items:
+- Participants are to share the solutions from the workshop at their respective meetings
+  - [rationale] Video WG, Writers WG and Marketing Guild representatives who were part of the workshop proposed these solutions
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- Continue the conversation on the Strategy Guild Workshop adoption, impact, and feedback system
+  - [rationale] A retrospective look at the outcome of the workshop is important as it would be captured in the Q3 deliverables of the Guild and it would inform on the next steps for Q4
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- The proposed solution for the X channel in the SNET Discord should be discussed in the Marketing Guild
+  - [rationale] This is part of the feedback that representatives from Marketing Guild are to take back to their meetings
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- There is no individual ownership of the solutions proposed and discussed during this workshop
+  - [rationale] The workshop was a collaborative effort, hence the reason for proper representation of WGs during the 4 days of the workshop
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Continue contribution to the Guild’s working document [status] todo
+- [action] Core members should indicate interest in facilitating the new sheet in the working doc [status] todo
+- [action] Effiom to prepare and make meeting notes available [assignee] Effiom [due] 26 August 2024 [status] done
+- [action] Workshop Documenter YemiSolves to prepare the Final Workshop Report [assignee] YemiSolves [due] 26 August 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guild Membership, Workshop Ideation, Core Membership, Adoption, Solutions, Feedback Loops, Social Media Automation, Feedback system, content calendar, Keyword Research
+- emotions: Brainstorm, Collaborative, insightful, funny, planning, new ideas, interesting, interactive
 
 
 ## Tuesday 20th August 2024
