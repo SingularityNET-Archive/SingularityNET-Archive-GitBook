@@ -6,6 +6,7 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 
 ## Monday 5th August 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -64,6 +65,104 @@ On plans for Q3 interviewing: we discussed wide range of good ideas from members
 #### Keywords/tags:
 - topics covered: Meeting Summaries, Payment Divisions, github board, interviewing, AGI-24, Education material, Budget , Budget fitting, GEI
 - emotions: Friendly, Collaborative, funny, Thoughtful 
+
+
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, Peter, Gorga, Yemi, Clement, Kenichi, Onyeka, Kateri Nick, Tuso, Mikasa, Cjfrankie, Tevo, Zalfred, Photogee, Merryman, Billy, Ese Williams, martinsoki, Vasu, Aguboss, King David
+- Purpose: Strategy Guild Workshop Day Two - Solution Framework Session One
+- Other media: [Link](https://app.read.ai/analytics/meetings/01J4HM6C1FQS90ACHVRJ4Y1X3V?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Possible Survey Questions [Strategy Guild]](https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+  - [Strategy Guild 5th August Session Agenda](https://docs.google.com/document/d/1vWGBp2qI75-aFT5KTpDh2mcifxjYYcnOwhqSzaMu8m8/edit)
+  - [Strategy Guild Meeting Notes - 29th July 2024](https://docs.google.com/document/d/1GhsrimDSiQRtmyb_Ije1jWJ6q1GXtJ4ofGDnBQPtpeg/edit#heading=h.6fyp3cl3ve7w)
+  - [Strategy Guild Workshop Day Two Solution Framework Session One](https://docs.google.com/document/d/1TAP-LkM7nxBQPnPwrU3WT_0MXkTouE0ZQ8DwE9pLaGc/edit)
+  - [Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One](https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit)
+  - [Ideation Workshop Session Report](https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0)
+
+#### Narrative:
+ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:
+
+1. Everyone to contribute to the Strategy Guild Working Document [OPEN]
+
+2. Everyone to contribute to the Possible Survey Questions [DONE]
+
+3. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]
+
+4. Effiom to share previous meeting summaries and this meeting summary [DONE]
+
+5. YemiSolves to document and share the Workshop Session [DONE]
+
+6. Onyeka to mentor YemiSolves [DONE]
+
+7. Adopt last Meeting Notes [DONE]
+
+
+ONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - 2 new people (i.e. Yedi and MartinSoki) have indicated an interest in becoming core members of the Strategy Guild since the last meeting; however, they haven’t met the requirements.
+
+Ayo explained how everyone can become a member, and also contribute and be a part of what is happening within the guild.
+
+
+STRATEGY GUILD CORE TAG (VERIFICATION AND ASSIGNING) - There is a need for verification of those who have met the requirements and are eligible for the Strategy Guild core member tag. 
+Currently, 5 people have met the requirement (i.e. Ayo, Gorga, Effiom, Tuso, and Lord Kizzy). Their other Guild and WG tags need to be verified.
+
+Ayo highlighted that this is meant to be an async process and should be managed by someone. Effiom was nominated to take up this role and he accepted.
+Other points raised during this discussion:
+* Should there be tags for intending members of the guild who are yet to meet all the requirements to become Core members?
+
+* Which of the requirements should be relaxed for this category?
+
+
+STRATEGY GUILD Q3 RESEARCH - The document is closed, no more contributions. The next phase is discussions on the execution.
+
+
+THE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE ONE - The Workshop documenter will share the notes for this session. See reference to notes below:
+
+* Strategy Guild Workshop Day Two Solution Framework Session One docx
+
+* Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One docx
+
+
+A.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions
+
+
+
+#### Decision Items:
+- The Strategy Guild Core Membership tag verification and assignment process to be managed by Effiom
+  - [rationale] This is an important aspect of the Guild membership process, hence the need to have a verification process for all intending members
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- Intending members of the Guild can get another tag, but to be a Core member of Strategy Guild you have to meet all the requirements
+  - [rationale] There is a need for tag differentiation because some of the requirements to be a Core member of the Strategy Guild don't solely depend on the intending member, for instance the core contributor requirement.
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- The survey question for the Research has been closed; from next section we will start talking about execution
+  - [rationale] The document has been open for over a month, and in the last week no contribution was made. Also, there is need to start the research
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- The next meeting will be about improvements and execution
+  - [rationale] This based on the workshop schedule
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- Participants from other WGs are to join the next sessions
+  - [rationale] This was communicated to participants before the start of the workshop
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Continue contribution to the Guild’s working document [status] todo
+- [action] Core members should indicate interest in facilitating the new sheet in the working doc [status] todo
+- [action] Effiom to verify the 5 people that have already met the requirements for the Core member tag [assignee] Effiom [status] todo
+- [action] YemiSolves to document and share notes of the workshop session [assignee] YemiSolves [status] todo
+- [action] Effiom to draft and make meeting notes available [assignee] Effiom [status] todo
+
+#### Keywords/tags:
+- topics covered: Guild Membership, Workshop, Ideas and Improvements, ideas, improvements, Core Membership, survey, Research, participation, contribution
+- emotions: Brainstorm, planning, ideating, interesting, Collaborative 
 
 
 ## Tuesday 6th August 2024
