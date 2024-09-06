@@ -124,3 +124,59 @@ description: Mon 26th Aug - Sun 1st Sep 2024
 #### Keywords/tags:
 - topics covered: Rewards, Budget, Q4 budget, Q3 budget, Q3 quarterly report, Roles, survey, Marketing, Marketing Guild, Foundation, SingularityNet Foundation, content engagement, uncompleted tasks, Discord, Contributor Spotlight
 - emotions: Collaborative, warm, Thoughtful
+## Saturday 31st August 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], Gorga Siagian, Photogee, hotasiro, martinsoki, kateri, malik, Merryman, CollyPride, SubZero
+- Purpose: The meeting focused on budget allocation for various tasks.
+- Working Docs:
+  - [Budget Request for Q4(Gamers Guild)](https://docs.google.com/spreadsheets/d/1ZNbHXepnCglgrX_4HhGemwdD521KTPocuQaPJUTZRLI/edit?gid=0#gid=0)
+  - [Sophiaverse Collaboration Document](https://docs.google.com/document/d/1n21IBNuY7l5sSq65Au0NM1Zaoco1x6ScCPMKk-Gbcl0/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate discussed the meeting agenda.
+
+- The budget, including some new tasks (Retrospective Guidance and Support for WG Creators; Collaboration with Sophiaverse Testing; Deep dive into platforms such as Decentraland & Sandbox; Main Game Aspect Development; Map Creation of VR) was then discussed. 
+- Retrospective Guidance and Support for WG Creators - Unlike mentoring, which offers one-time guidance, this task focuses on rewarding those who assist workgroup creators in developing specific elements, such as creating a designated room in the building for them.
+- Collaboration with Sophiaverse Testing - This task focuses on integrating the Sophiaverse dialogue system into the Roblox platform, testing the dialogue system, and having each member create a report on their findings.
+- Deep dive into platforms like Decentraland and Sandbox to assess their suitability for VR creation. Participants will test these platforms and compile a report, as Slate noted their similarities to Roblox.
+- Main Game Aspect Development - This task focuses on rewarding the enhancements made to the main VR Game other than WG creations like the cafeteria, gym, and similar features.
+- Map Creation of VR - Slate introduced a small city VR map which will include the Ambassador program university. The players will spawn in the city and will be guided to the university. To develop this city, two WG creators will be selected based on their performance to aid Slate in modeling this city.
+
+- Slate discussed asset creation, noting that members can create up to 8 assets each month. He also highlighted the two assets created by Gorga that were approved by the members.
+
+- Slate showcased the quarterly report by Lord Kizzy
+
+- Slate explained the dialogue system Doc that Berick shared. The system uses a JSON file structure to manage dialogue layers, reply information, and choices. Slate mentioned that while Roblox lacks certain features like emotion systems available in other game engines (e.g. Unity), the system still supports essential dialogue elements like choices and flowchart design. Slate noted that some advanced features, like history tracking and valence settings, are not supported in Roblox but are available in other engines.
+- Slate mentioned the potential benefits, including recognition, financial rewards, and increased budgets for contributors who will test the dialogue system effectively.
+
+- Slate also demonstrated the health system within Roblox, detailing how health can deplete and be restored through various means.
+- He also showed the working tutorials for each separate deliverable on YouTube.
+
+#### Decision Items:
+- Quarter 4 Budget got finalized 
+  - [rationale] as it was the final meeting before the budget submission.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Department Creation - Education Guild [assignee] malik, hufiumer69 [due] 14 September 2024 [status] in progress
+- [action] Department Creation -  Treasury Guild [assignee] martinsoki, scare-crow [due] 14 September 2024 [status] in progress
+- [action] Department Creation - Archives Workgroup [assignee] GorgaSeagian, kateri [due] 14 September 2024 [status] in progress
+- [action] Department Creation - Dework PBL [assignee] rebel, Photogee [due] 14 September 2024 [status] in progress
+- [action] Department Creation - R&D Guild [assignee] oep, CollyPride [due] 14 September 2024 [status] in progress
+
+#### Game Rules:
+Capture the Flag: The first team to capture three flags wins.
+Red Team: devon, hotasiro, 
+Blue Team: Sub zero, zaif malik, 
+
+
+#### Leaderboard:
+- 1st Red Team
+
+#### Keywords/tags:
+- topics covered: Roblox, metaverse, department creation, work updates, Collaboration, mentorship, Dialogue Systems, Animation, sophiaverse, Q4 2024 Budget, Q3 2024 report
+- emotions: Friendly, Collaborative, Deliberative, informative
+- games played: capture the flag
