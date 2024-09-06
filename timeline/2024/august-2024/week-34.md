@@ -293,6 +293,7 @@ We agreed this idea needs to go out to all WG leads - who are all core contribut
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful, Organised
 ## Friday 23rd August 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -335,3 +336,34 @@ We agreed this idea needs to go out to all WG leads - who are all core contribut
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, sprint, Rewards, Video production, Town Hall, Town Hall videos, Task Assignment, Contingency, Tasks format, Zealy KPIs, review team, Gamers Guild, Roblox 
 - emotions: Casual, productive, Organised, Thoughtful, warm, new ideas, decisive, Friendly
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Photogee [documenter], Ayo, Photogee, Aguboss, Cjfrankie, Eric Davies, esewilliams, GorgaSeagian, Hamzat_iii, Kareem, Kateri, Olokoji, Malik., lord kizzy, SubZero, Yemi Solves
+- Purpose: Marketing Guild weekly meeting.
+- Working Docs:
+  - [Meeting Agenda](https://docs.google.com/document/d/1_tovnVyLwhwjW_Zvp9Zn0ZqkQ-IUcTymgsZ3D93uEjs/edit#heading=h.shxqnobd9709)
+  - [Roles and Responsibility](https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing)
+  - [Q3 Marketing Guild Budget](https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing)
+  - [Roles and Responsibility Doc.](https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a)
+  - [Notion Decision](https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit)
+  - [Taskforce Roles and Responsibility](https://docs.google.com/spreadsheets/d/1OnTnImKP--NK9Gf7FJPQKOpKm2cexVRIAcsMEaOBpvI/edit?usp=sharing)
+
+#### Discussion Points:
+- There is going to be a monthly assessment that entails the proof of work of all core members and also taskforce.
+
+#### Decision Items:
+- Notion payment decision is yet to be reached due to some members’ difference in opinion.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Members should fill out the form for the Notion payment decision. [status] in progress
+- [action] Lord Kizzy to draft the Q3 quarterly report [status] done
+- [action] Kenichi to add Photogee to the comms channel. [status] done
+- [action] Lord Kizzy to create a taskforce interest document. [assignee] lordkizzy [status] done
+- [action] Photogee to reach out to all marketing guild core teams for monthly report. [assignee] Photogee [status] done
+
+#### Keywords/tags:
+- topics covered: Tool Development, Rewards, Role Proposal Requirements, workgroup updates, Q3 quarterly report, Notion, task force, proof of work
+- emotions: Friendly, Casual, Collaborative, contributive, warm, exploratory
