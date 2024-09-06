@@ -219,6 +219,7 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 ## Wednesday 7th August 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -369,6 +370,46 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 #### Keywords/tags:
 - topics covered: Ambassador GitBook, Miro Board, Onboarding, Feedback Form, feedback, Writers WorkGroup, Items, Facilitation, Documentation
 - emotions: Collaborative, interesting, Deliberative, fun
+
+
+
+### Education Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Slate [documenter], Slate, malik, osmium, esewilliams, kateri, Billy, Clement Umoh, GorgaSeagian, lord kizzy, Photogee, Merryman
+- Purpose: - Updates regarding quiz reviewing by Slate - Budget Update by Slate - Ese and Osmium Presentation on "Ai for Beginners" 
+#### In this meeting we discussed:
+- Updates regarding quiz reviewing by Slate
+- Budget update by Slate
+- Ese and Osmium, presentation on "Ai for Beginners" 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Slate discussed the shortcoming from the reviews regarding the quizzes and updated Osmium regarding it 
+- An update regarding the leftover budget was given to the group, that only approx $2,100 is left for education guild for this quarter 
+- Then the room was given to osmium and Ese to present the Notion page they set up for "Ai for Beginners"
+- There was discussion regarding course structure, teams, and video structure 
+- Slate conveyed that the project is proposed to be taken as an ideation in this Quarter, to set up a proper baseline for further proceeding with it .
+- osmium and Ese will make adjustments to the Notion page and present it in the next meeting 
+- Slate discussed that only one person is needed for Google Classroom setup.
+
+#### Decision Items:
+- keep both "centralised Ai" and "decentralised Ai" as part of the course
+  - [rationale] most of the group agreed
+  - [opposing] Nil 
+  - [effect] affectsOnlyThisWorkgroup
+- Distributing the video in sections of 2-5 min 
+  - [rationale] Suggested by majority of the group 
+  - [opposing] nil 
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Update the Notion page  [assignee] esewilliams, osmium [due] 14 August 2024 [status] in progress
+- [action] Assign NuNet quiz to Osmium  [assignee] Slate [due] 7 August 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Budget , Presentation, Ai for beginners, Rewards, ideation, Nunet, quizzes, Notion, video, centralised AI, decentralised AI, Course structure
+- emotions: productive,  Collaborative, businesslike
 
 
 ## Thursday 8th August 2024
