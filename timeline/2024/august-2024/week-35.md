@@ -52,6 +52,7 @@ description: Mon 26th Aug - Sun 1st Sep 2024
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly
 ## Friday 30th August 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -86,3 +87,40 @@ description: Mon 26th Aug - Sun 1st Sep 2024
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contingency, Tasks format, Zealy KPIs, review team 
 - emotions: Casual, productive, Organised, Thoughtful, warm, decisive, Friendly, interactive
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Eric Davies [documenter], Ayo, Eric Davies, Photogee, gorgasiagian, esewilliams, Advanceameyaw, Aguboss, kateri, Olokoji, Cjfrankie, Kareem, hamzat, malik, SubZero, lord kizzy
+- Purpose: Marketing Guild weekly meeting
+- Working Docs:
+  - [Meeting Agenda](https://docs.google.com/document/d/1_tovnVyLwhwjW_Zvp9Zn0ZqkQ-IUcTymgsZ3D93uEjs/edit#heading=h.shxqnobd9709)
+  - [Marketing Survey](https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing)
+  - [Roles and responsibility sheet](https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing)
+  - [Marketing Guild Global Outreach document](https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing)
+  - [Q3 Marketing Guild Budget](https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [Notion Decision](https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit?usp=sharing)
+  - [Governance Document Ideation](https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1)
+
+#### Discussion Points:
+- Progress with the Foundation: Updates on follow-ups and the content engagement campaign.
+- Communications Department: Submission of the monthly report on activities and outcomes.
+
+#### Decision Items:
+- Rewards for members who fail to complete their tasks for a consecutive amount of time will be re-evaluated and allocated to the members who stand in for them.
+  - [effect] affectsOnlyThisWorkgroup
+- Budget management was passed to the operations team with the anticipation of a potential budget cut for the marketing guild proposal.
+  - [effect] affectsOnlyThisWorkgroup
+- Drafting a community survey for this quarter has been decided.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Lord kizzy to work on Q3 Marketing Guild quarterly report [assignee] lord kizzy [status] in progress
+- [action] Ese to work on content engagement campaign [assignee] esewilliams [status] in progress
+- [action] CJ Frankie is tasked with preparing documentation on the number of people we have on the SingularityNet Discord and the ratio of those who are active. [assignee] Cjfrankie  [status] in progress
+- [action] Aguboss is to work on the Contributor Spotlight for last week from Onboarding WG, Archives WG for the next session, and WG and Guilds Spotlight for the month. [assignee] Aguboss [status] in progress
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget, Q4 budget, Q3 budget, Q3 quarterly report, Roles, survey, Marketing, Marketing Guild, Foundation, SingularityNet Foundation, content engagement, uncompleted tasks, Discord, Contributor Spotlight
+- emotions: Collaborative, warm, Thoughtful
