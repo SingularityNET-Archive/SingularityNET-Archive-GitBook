@@ -4,6 +4,76 @@ description: Mon 20th May - Sun 26th May 2024
 
 # Week 21
 
+## Tuesday 21st May 2024
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], Duke, Kenichi, lordkizzy, Ayo, Felix, guillermolucero, Effiom, PeterE, CallyFromAuron, Stephen [QADAO], Sucre n Spice
+- Purpose: Weekly GovWG Meeting. This meeting focused on objections to Writers' WG's Q2 budget.
+- Media link: [Link](https://app.read.ai/analytics/meetings/01HYDQ846FYREVCXV6PJ7818JY?utm_source=Share_CopyLink&section=transcript)
+- Working Docs:
+  - [WWG (Writers' WorkGroup) Q1 Report](https://docs.google.com/document/d/1mmwuXvgzN2c9Stat8UBvL2Zy4spZrmzKhpAlSYaQ14A/edit?usp=sharing)
+  - [WWG Q2 Proposal](https://docs.google.com/document/d/1rLNtM-hkxjPg31L9x1wtsPHuxdIg5jZ3sJhj05T3HK0/edit?usp=sharing)
+  - [Q2 Writers Workgroup Budget Proposals Sheet](https://docs.google.com/spreadsheets/d/1uD_yi7UyZNaNIsGUnEQ3gqXGUdzS0GNWLmtF5dbTEvM/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+
+#### Narrative:
+We noted that the objections raised in round 1 of consent process to Marketing Guild’s budget have been resolved, so Marketing is now approved.
+
+Objections in Consent Round 1 to Writers’ WG were because their budget was not submitted in time. But it has now been updated, and there have been further objections in this consent round. The objections are shown in the budget calculator sheet; they include asking for:
+- detailed budget breakdown, including hours spent on tasks
+- clearer deliverables
+- tracking of past achievements, including more detail on outputs - e.g. number of posts, conversion rate to followers on social platforms, email signups
+- reasons for increased budget, plus the overall size of the increase (50% higher than Q1)
+
+1. and 2. The meeting accepted that there *is* a detailed budget breakdown and info on deliverables, including hourly rates; altho the link to it wasn’t obvious and had been missed by some people. (learning point for the group: make the link a bit more obvious next time.)
+
+3. Info on past achievements is in the group’s Q1 report. The meeting noted that Zealy’s free plan has limitations on analytics, but it can track number of participants and number of quests claimed, and these have been included in the Q1 report. On article views on Substack and Medium, the meeting noted the difference between views and actual reads: Kenichi said the number of reads was not in the report, but shared his screen to show read numbers - due to export limitations, detailed analytics are only shared during WG meetings. (Learning point:for all workgroups, try and include your achievements in your budget somehow.)
+
+4. The budget increase is for 
+- mainly, the points system (which rewards various tasks and supports onboarding new scribes)
+- new social media (Twitter in Pidgin, French, and Spanish)
+- Zealy (supporting Zealy Sprints, which were previously biweekly but are now monthly at $450 per sprint, with rewards for top contributors and random participants). 
+No other items saw an increase.
+
+Questions were raised on creation of additional Twitter accounts - is there collaboration with Translation workgroup, LatAm or African Guild, rather than expanding the budget? Kenichi said he plans to talk to Inés about Spanish translations, and engage native Spanish and French speakers for Twitter channels.
+
+The meeting noted Video WG’s social media budget is lower; but Writers’ WG’s social media has wider responsibilities.
+
+Discussion of centralised approach and distribution of responsibilities in WWG: the budget was not submitted in time because Kenichi was ill and nobody else could do it. Kenichi said there are efforts to improve: Scribe role can now manage tasks like budget submission.
+
+Discussion of the points system: several people felt it is untransparent, and that it pushes the WG’s budget up. Kenichi acknowledged that it is untransparent, but assured that it is designed fairly; he also argued it improves engagement and scalability, with rewards scaling based on participation and a fixed budget cap.
+
+R&D Guild members raised concerns about governance consistency: similar issues re R&D’s budget have been handled differently from Writers’ issues. (Specifically, one R&D Guild project was accidentally omitted from R&D’s total budget; it was added before the deadline, but the total on the budget spreadsheet was accidentally not updated, so if people were looking at the total rather than at R&D’s budget, they might have been consenting to the wrong total - and the decision was made in a previous meeting to remove the late-added project from R&D’s budget). There was a suggestion that the Experiments pool could be used to address the extra R&D proposal.
+
+
+
+
+
+#### Discussion Points:
+- Marketing WG's Q2 budget was approved
+- Discussion of objections to Writers' WG Q2 budget
+- Discussion of WWG's points system and reward structure
+- Discussion of error which led to omission of one of R&D Guild's project from the budget total
+
+#### Decision Items:
+- Marketing Q2 budget is now approved.
+  - [rationale] Objections have all been addressed
+  - [effect] mayAffectOtherPeople
+- Kenichi will share a written response addressing all raised objections.
+  - [rationale] Objections to the Writers' WG budget are not resolved; people who are not in this meeting might need to see a full response addressing all the points.
+
+#### Action Items:
+- [action] Kenichi will share the scribe and scribbler requirement documents, and the WG entry tests, with the Governance workgroup for review and feedback. [assignee] Kenichi [due] 22 May 2024 [status] todo
+- [action] Kenichi will share info on today's discussion in the Writers Workgroup Discord today to get more comments on the first draft of the budget, and will work towards making it better and fairer for everyone. [assignee] Kenichi [due] 21 May 2024 [status] todo
+- [action] Kenichi to provide a written response addressing all objections listed to their budget proposal.  [assignee] Kenichi [due] 23 May 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Points system, Scribe role, Scribblers, Zealy, medium, Substack, Writers WorkGroup, Marketing Guild, consent process, Q2 budget, Translation, Twitter/X, Twitter, Pidgin, French, Spanish, LatAm, African guild, R&D guild, social media, social media management, Governance, transparency
+- emotions: Frustration ,  Impatience,  Optimism ,  Confidence , Collaboration, engagement, Cautious Optimism , Uncertainty,  Satisfaction , Desire for Clarity , Openness, concern, determinatiion, skeptical, open
+
+
 ## Wednesday 22nd May 2024
 
 
