@@ -237,6 +237,7 @@ Timeline has been established in today's Governance WG call for the Q4 budget de
 ## Friday 16th August 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -339,3 +340,40 @@ From the Zealy side of things, Kenichi announced that July’s sprint will be en
 #### Keywords/tags:
 - topics covered: Zealy, medium, Cogito, AGIX, Twitter threads, Points system, WWG Test, Governance, MIXPOST, Treasury, Reserve, R&D guild, Marketing Guild, Video WG, Marathon, multisig, mutisig wallet, AGIX price, token price, 
 - emotions: funny , Deliberative, insightful, informative
+
+### Marketing Guild
+
+- Type of meeting: Weekly
+- Present: lord kizzy [facilitator], Photogee [documenter], Ayo, Photogee, Cjfrankie, Eric Davies, esewilliams, GorgaSeagian, Kareem, Kateri, Olokoji, lord kizzy, SubZero, Yemi Solves
+- Purpose: Marketing Guild weekly meeting.
+- Working Docs:
+  - [Meeting Agenda](https://docs.google.com/document/d/1oZJZXc8OvPigbMA0F5tlmN1VBTAi_70FceMkUQtLmLc/edit)
+  - [SNET marketing survey](https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing)
+  - [MG global outreach](https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing)
+  - [MG Q3 budget](https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing)
+  - [Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [Governance Documentation Ideation](https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1)
+  - [MG Roles and Responsibilities KPI document](https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a)
+
+#### Discussion Points:
+- There is going to be a monthly assessment that entails the proof of work of all core members and also taskforce.
+- Allocation for FIGMA has also been made and is ready for payment.
+- 'Roles and responsibilities of members' document has been updated and has more clarification.
+- For the sake of working effectively in a ‘singular’ and not divided pattern, decisions being made in the marketing guild should not be made public and outside the guild henceforth.
+
+#### Decision Items:
+- 'Community-driven initiatives' will be moved to next quarter due to the fall in AGIX price
+  - [rationale] Fall in AGIX price
+  - [effect] affectsOnlyThisWorkgroup
+- Zealy cross-collabs has also been moved from Q3 to Q4.
+  - [effect] affectsOnlyThisWorkgroup
+- Allocation has been made for taskforce members in all sections of the marketing guild (ops, comms, design, analytics) that do their work ‘adequately’.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] A structure for the Rejuve cross-collab is to be made by Kenichi. [assignee] Kenichi [status] in progress
+- [action] Photogee to reach out to core team members on tasks assigned to them. [assignee] Photogee [status] done
+
+#### Keywords/tags:
+- topics covered: Tool Development, Rewards, Role Proposal Requirements, workgroup updates
+- emotions: Friendly, Casual, Collaborative, contributive, warm, exploratory
