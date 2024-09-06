@@ -377,3 +377,79 @@ From the Zealy side of things, Kenichi announced that July’s sprint will be en
 #### Keywords/tags:
 - topics covered: Tool Development, Rewards, Role Proposal Requirements, workgroup updates
 - emotions: Friendly, Casual, Collaborative, contributive, warm, exploratory
+## Saturday 17th August 2024
+
+### Gamers Guild
+
+- Type of meeting: Biweekly
+- Present: Slate [facilitator], devon [documenter], lord kizzy, Gorga Siagian, Photogee, rebel, hotasiro, Berick, Tevo, Bles, martinsoki, kateri, malik, Merryman
+- Purpose: The meeting focused on budget problems, Sophiaverse collaboration, and the creation of video workgroup building.
+- Media link: [Link](https://drive.google.com/file/d/1wPHHQIWjWzilwjWLWtAMTjcnPQqs4YZ9/view?usp=sharing)
+- Working Docs:
+  - [Gamers Guild Q3 Budget](https://docs.google.com/spreadsheets/d/1V3uSMWG-7e8P2fQpCa3ET0AE0aPhd58elvxI1iiMGqA/edit?gid=0#gid=0)
+
+#### Narrative:
+The meeting commenced with Slate extending a warm welcome to all attendees. With everyone settled, Slate introduced an exciting new collaboration with Sophiaverse, where the focus would be on testing an advanced dialogue system within Roblox. The goal was to enhance NPC (non-player character) interactions using cutting-edge AI technology. Slate mentioned that a representative from Sophiaverse, Berick, would soon join the meeting to explain the details of the dialogue system.
+
+The discussion then shifted to the pressing issue of the ongoing low AGIX token price, which is expected to impact the payment structure. After a brief deliberation, the group decided to halt payments for game preparation tasks and refrain from assigning new mentors. Additionally, payments for asset creation will be delayed until the AGIX token price stabilizes.
+
+Following this, Lord Kizzy took the stage to present the completed Video Workgroup building. In his presentation, Lord Kizzy provided a comprehensive overview of the building. Upon entering the video workgroup, players are greeted by Killy, an NPC who welcomes new members and encourages them to have fun. Inside, players can find details about ongoing meetings, which are held every Friday at 16 UTC. Devon, another NPC, operates the display, while Malik and CryptoFly NPCs participate in the meeting, and Slate NPC is seen recording the session. Rojo NPC, as the workgroup lead, is seen facilitating the meetings. Players can interact with him through a proximity prompt to ask questions about joining the video workgroup. Rojo introduces himself and engages players in conversation, providing information on how to join the workgroup. Another NPC, representing Cardano Class, welcomes members and provides information about tasks for senior members, including roles like task manager, social media manager, and meeting facilitator. Judith NPC is seen documenting the session. Players can also visit the workstation area, where they are greeted by LilyCupcake NPC. OEP NPC is busy working on a video, while in the Task Manager's Office, players meet Lord Kizzy's NPC, who is creating tasks for group members. The office also features a mini TV and refreshment center. In the Social Media Manager's office, players can view YouTube awards and meet Osmium NPC, who is editing social media content. The presentation was well received by the members.(Watch the workgroup video via the link in the media section for better understanding.)
+
+Slate then showcased a new feature called the Rolling Camera for Workgroups. This feature automatically directs the camera to the required NPC when a player enters a workgroup building, enhancing the immersive experience.
+
+The group then moved on to assigning the Q3 quarterly report task, which was given to Lord Kizzy.
+
+With the formalities out of the way, the meeting transitioned into a gaming session, featuring the game "Capture the Flag." During the game, Berick, the representative from Sophiaverse, joined the session. He encouraged the group to continue enjoying the game while he made preparations for his presentation on the dialogue system. The group had a great time playing the game.
+
+Once the game concluded, Berick delivered his presentation on the advanced dialogue system. He introduced a system designed to enhance narrative-driven interactions in Roblox by integrating a Large Language Model (LLM) to role-play characters. This system generates automatic prompts based on contextual information, such as available dialogue options and scripted dialogue. It then sends these prompts to the LLM, which processes them and returns responses, allowing characters to engage in unique, dynamic conversations each time, rather than relying solely on pre-scripted dialogue.
+
+Berick highlighted several key features and functions of the system:
+
+Dynamic dialogue generation: The system can take scripted lines (e.g., "Welcome to the Gamers Guild. What would you like to know?") and enhance them with additional context or flair, making each interaction slightly different and more engaging.
+
+Contextual awareness: The system integrates contextual data, like the state of the game or events (e.g., an enemy attacking), into the prompt, ensuring that the character’s responses are relevant to the current situation.
+
+Response handling: When a player asks a question (e.g., "I want to make games like this"), the system fetches the relevant scripted response, processes it through the LLM, and provides a personalized reply. The system is designed to guide conversations back to the game’s narrative if players go off-topic, ensuring a coherent and immersive experience.
+
+Dialogue tree integration: While the system is primarily built around a dialogue tree structure, it can also incorporate other types of contextual data, such as ongoing or past discussions, allowing for intelligent off-topic chitchat while eventually steering the conversation back to the main narrative.
+
+Character-specific knowledge: Each character in the game can have its own data container, meaning that they are knowledgeable only about specific areas relevant to their role. For example, a treasury manager would refer players to someone else for onboarding information, maintaining a realistic and immersive character interaction.
+
+Looking ahead, Berick emphasized the importance of testing the system to identify and resolve potential issues, such as handling off-topic responses or preventing the LLM from generating irrelevant content. The ultimate goal is to create smarter, context-aware NPCs in Roblox that deliver more engaging and dynamic dialogues while adhering to the game’s narrative structure.
+
+Slate concluded the meeting by thanking all participants for their contributions. Overall, it was a productive and engaging session.
+
+
+
+#### Discussion Points:
+- Low AGIX token price was discussed 
+- We had a discussion on advance dialogue system presented by sophiaverse representative
+- Lordkizzy presented the video workgroup building and NPC animations, which were well received.
+
+#### Decision Items:
+- The group decided to suspend payments for game preparation tasks and not assign new mentors. Payments for asset creation will also be postponed until the AGIX token price stabilizes.
+  - [rationale] To cope with the ongoing low AGIX price
+- Lord Kizzy will create the Q3 quarterly report.
+  - [rationale] He has relevant experience in creating quarterly reports.
+
+#### Action Items:
+- [action] Department Creation - Education Guild [assignee] malik, hufiumer69 [due] 31 August 2024 [status] in progress
+- [action] Department Creation -  Treasury Guild [assignee] martinsoki, scare-crow [due] 31 August 2024 [status] in progress
+- [action] Department Creation - Archives Workgroup [assignee] GorgaSeagian, kateri [due] 31 August 2024 [status] in progress
+- [action] Department Creation - Dework PBL [assignee] rebel, Photogee [due] 31 August 2024 [status] in progress
+- [action] Department Creation - R&D Guild [assignee] oep, CollyPride [due] 31 August 2024 [status] in progress
+- [action] Q3 quarterly report creation [assignee] lord kizzy [due] 14 September 2024 [status] todo
+
+#### Game Rules:
+Capture the Flag: The first team to capture three flags wins.
+Red Team: Devon, Berick, Blesian Rusak, Kateri, Lord kizzy, Zaif Malik
+Blue Team: Hotasiro, Greatnessone4, martinsoki, Merryman, photogee
+
+
+#### Leaderboard:
+- 1st Red Team
+
+#### Keywords/tags:
+- topics covered: Roblox, metaverse, department creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation, sophiaverse, Q3 2024 report, token price, AGIX, LLM
+- emotions: Friendly, Collaborative, Deliberative, informative, focused on reporting
+- games played: capture the flag
