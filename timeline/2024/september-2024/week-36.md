@@ -54,6 +54,7 @@ description: Mon 2nd Sep - Sun 8th Sep 2024
 - emotions: insightful, reflective, decisive
 ## Wednesday 4th September 2024
 
+
 ### Knowledge Base Workgroup
 
 - Type of meeting: Biweekly
@@ -136,3 +137,51 @@ description: Mon 2nd Sep - Sun 8th Sep 2024
 #### Keywords/tags:
 - topics covered: Ambassador GitBook, Miro Board, Quarterly Report, Budget , Q4 2024 budget, Q3 2024 quarterly report, GitBook, ChatGPT, participation, Rewards, rewarding model
 - emotions: contributive, insightful, quiet
+
+### Archives Workgroup
+
+- Type of meeting: Biweekly
+- Present: André [facilitator], CallyFromAuron [documenter], André, CallyFromAuron
+- Purpose: Regular fortnightly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- Meeting video: [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- Working Docs:
+  - [SNET Archive AI features (draft of possible features an AI tool might have)](https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing)
+  - [How to make a document community owned](https://docs.google.com/document/d/1hQs4ocUhT6mrvgn-ZjTO7O2aVDm-KEsYIiPaAOQH1Gc/edit?usp=sharing)
+  - [Docs management tool](https://snet-doc-manager.netlify.app/#)
+  - [New Summary Tool Features](https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing)
+  - [Meeting issue ](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/198)
+  - [draft Q3 quarterly report](https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing)
+
+#### Decision Items:
+- Summary tool redesign: See issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/181 - André and Vanessa to meet to discuss priorities
+  - [rationale] Because want to focus initially on things that will have the biggest effect on ease of use of the tool
+  - [effect] mayAffectOtherPeople
+- PDF export function in the Summary tool is broken again - André has decided to replace it with export to Google Doc
+  - [rationale] This is a feature that people have requested too - it makes it easier to share a draft meeting summary with other memebers of your WG and get their comments. This will also obviate the need for more complex tooling to allow people to comment within the tool itself, which was a suggested new feature at one point.
+  - [effect] mayAffectOtherPeople
+- We went through the Q4 budget, and were sad to acknowledge that a lot of the work we would like to do, we cannot afford, so it has had to be cancelled for the coming Quarter.
+  - [rationale] due to token price drop in August, we had to move some core work to Q4, leaving not enough for routine but less valuable tasks
+  - [opposing] some people felt understandably unhappy that their tasks have had to be cut.
+  - [effect] affectsOnlyThisWorkgroup
+- We also acknowledged in the Q3 quarterly report (https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing) the problems raised by an increasing uncritical reliance on Read.ai summaries. We noted that the problem is that superficially, Read.ai summaries can seem fine; and it is only when one reads with attention and with some knowledge of the Program that it becomes clear that they do not make any sense. We suggested that documentation for WGs such as Treasury and Governance, which are about the Program as a whole rather then the internal activities of a WG, should no longer be seen as an entry-level task, since they require considerable understanding of the program to document well.
+  - [rationale] This has been a big issue this quarter, and has slowed down the meeting summary process since many summaries have needed to be extensively corrected or redone.
+  - [opposing] We recognised that it is ironic that we are an AI ecosystem and yet one of our stumbling-blocks is an AI tool - but we noted that the problem is people trying to use Read.ai's documentation *uncritically*, or without skilled and knowledgeable human intervention. We also noted that it may actually be an *ethical* issue to understand the limitations of any AI tool, and not to expect it to work beyond its limitations.
+  - [effect] mayAffectOtherPeople
+- We noted how many corrections core members of this WG are needing to make to summaries at the moment; and that there is a need for ongoing training for new documenters. Onboarding WG recently (15th August) delivered some training on documentation; perhaps other WGs can take this on within their own WG to some extent.
+  - [rationale] Training is needed not only to learn how to document a meeting, but also to understand the limitations of Read.ai summaries, and the ethical issues raised by using AI tools.
+- We agreed that anyone who does need to do extensive corrections to a summary should add their name to the "Documenter" field alongside that of the original documenter
+  - [rationale] as a way of noting that correction has been done
+  - [effect] mayAffectOtherPeople
+- We agreed that we need to find ways to raise the issues around read.ai summaries, perhaps in a WG Sync call. Suggestion that perhaps we need a Reviewers' Circle to review summaries; or a Documenters' circle to avoid poor summaries in the first place
+  - [rationale] Because over-reliance on Read.ai is an issue that affects the documentation of several WGs, and perhaps could be addressed at Program level
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116  - no response yet from Ayo. Vani will DM him. [assignee] CallyFromAuron [due] 4 September 2024 [status] in progress
+- [action] Stephen was to decide how best to present the "Open-source paradigm" work at this meeting, but he's not present. TBD next meeting. [assignee] Stephen [QADAO] [due] 18 September 2024 [status] in progress
+- [action] Vani to submit the budget and quarterly report by Monday [assignee] CallyFromAuron [due] 9 September 2024 [status] todo
+- [action] Sucre to finish updating Ambassador gitbook to reflect changes to the Onboarding process by the end of the Quarter [assignee] Sucre n Spice [due] 30 September 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Q4 2024 budget, q3 2024 report, Town Hall, Ubio, open source ethos, read.ai, Ethics, training, documentation training, Budget cuts, GitHub video walkthrough, Core activities, Outreach, education, community engagement, Google Docs, google doc export, Correcting errors in meeting summaries, tool redesign
+- emotions: despondent, disheartening, Discursive, Thoughtful , budget request problems , limited, restricted
