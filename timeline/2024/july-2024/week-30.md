@@ -407,6 +407,7 @@ Discussed possible tasks for AGI-24 conference, August 13th-16th; and for the pr
 
 ## Thursday 25th July 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -456,6 +457,48 @@ Discussed possible tasks for AGI-24 conference, August 13th-16th; and for the pr
 #### Keywords/tags:
 - topics covered: Budget, skills matrix, Research Work, Town Hall updates, assigning tasks
 - emotions: argumentative, long, Collaborative, Well-attended, interesting
+
+
+
+### African Guild
+
+- Type of meeting: Weekly
+- Present: Duke Peter [facilitator], Advanceameyaw [documenter], Duke Peter, Ese Williams, Ayo, Kenichi, Nebula, Yemi Solves, Kateri, Photogee, Bassey Udom, Effiom, Martin Soki, Sucre n Spice, Eveline Trinite, Advanceameyaw, lord kizzy, Clement Umoh, Tuso
+- Purpose: Identify and touch base virtually with other AI/Web3 communities across Africa 
+- Working Docs:
+  - [Africa Guild Q3 Budget](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307)
+
+#### Narrative:
+The meeting started with our general welcoming greeting to recognize our diversity.
+Duke Peter emphasized the importance of reviewing our meeting summary notes to ensure accuracy, noting that members can be rewarded for each comment on a mistake or missing details.
+
+Ayo addressed the lack of contributions to the Initiative and Contribution Framework document, despite the availability of templates and guidelines. To resolve this, he proposed forming a small team with a two-week deadline to ensure the framework's timely completion. He explained that this document is critical for the African Guild's mission to democratize AI in Africa, serving as a blueprint for organizing initiatives and ensuring the guild's efforts are aligned with its long-term goals.
+
+Nebula, a new member, introduced himself and expressed a need for guidance on AI and SingularityNet. Duke welcomed him and suggested he work with Ayo on the Initiative and Contribution Framework document, highlighting the importance of mentorship for new members. 
+
+Clement updated the group on ongoing discussions about merchandise with the African Leadership University, and the importance of community input on research documents. Ayo proposed forming a team with Yemi and Nebula to work together on research and documentation, ensuring that new members are integrated and contributing effectively to the guild’s activities.
+
+Duke Peter proposed the creation of a document review circle to ensure that the guild's documents are thoroughly reviewed before submission to the ambassador program. This team would consist of qualified members who would work with document creators to make necessary modifications, thus maintaining high standards. Additionally, he raised concerns about the potential use of the guild's documents outside the SingularityNet ecosystem, with Ese Williams advising against such usage due to sensitive information and copyright issues. Duke suggested that the guild might consider a Creative Commons license and proposed the creation of a GitHub repository to solidify the African Guild’s work and ensure proper credit is given.
+
+AI Ethics Expo update: Duke provided updates on the planning for the SNET African Guild and AI Ethics Expo, emphasizing the importance of selecting an appropriate location in Nigeria, with Lagos and Abuja as potential options. The event will involve a team handling content curation, documentation, media, and event evaluation, with virtual participation from key figures in the GEI (Global AI Ethics Initiative).
+
+Q3 Budget update: Duke Peter announced a reduction in the Q3 budget by $2,000 to meet quarterly requirements, affecting areas such as facilitation, meeting summaries, and AMA sessions. The budget now stands at $6,680 USD. Despite these cuts, Duke encouraged members to continue proposing initiatives and projects through the Members Collective document, emphasizing that funding is still available for initiatives that contribute to the guild’s growth.
+
+African Guild Survey and Soulbound Token Project: Kenichi introduced a survey related to the African Guild’s responsibilities, offering incentives for participation, including early access to a new website and involvement in a loyalty system. The project involves creating a website for the ambassador program featuring a Soulbound token, a non-transferable NFT used for claiming badges and building a reputation system.
+
+AOB:
+Tag for Members: A tag for African Guild members will be created to better identify and engage contributors in the region.
+
+
+
+#### Action Items:
+- [action] Ayo to schedule a call with Yemi and Nebula on Discord to discuss forming a team on the collaborative framework document and put them through what is required for their research and documentations. [assignee] Ayo [status] todo
+- [action] Clement to update at Town Hall for Tuesday, 30th of July. [assignee] Clement Umoh [status] todo
+- [action] Kenichi to create a tag for African Guild members [assignee] Kenichi [status] todo
+
+#### Keywords/tags:
+- topics covered: African Guild Survey, Q3 Budget, AI Ethics Expo, Budget cuts, Soulbound tokens, reputation, loyalty system, GEI, tag, membership, documents, document review, review, new member, merchandise
+- emotions: Exciting, Collaborative, inclusive, fun
 
 
 ## Friday 26th July 2024
