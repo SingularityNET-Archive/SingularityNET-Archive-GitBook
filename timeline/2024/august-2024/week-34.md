@@ -291,6 +291,43 @@ We agreed this idea needs to go out to all WG leads - who are all core contribut
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, skills database, Database, lingual differences, language, MixPost, timeline, proposal, proposal template, voting, community voting, social media automation, 
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful, Organised
+## Thursday 22nd August 2024
+
+### African Guild
+
+- Type of meeting: Weekly
+- Present: Duke [facilitator], Kateri [documenter], Clement Umoh, Advanceameyaw, Cjfrankie, SucrenSpice, Yemi Solves, Eric Davies, Martin Soki, Photogee, Duke, Kateri, lord kizzy, LadyTempestt, daniel effiom, Tert, Ngala Daryl, Judith Soulamite
+- Purpose: The African Guild weekly meeting and progress updates.
+- Working Docs:
+  - [2024-08-15 14.09.50 Onboarding Workgroup](https://drive.google.com/drive/folders/1THKlYv0zA0IFGHmAXG7YoaVKxDHMdMgn?usp=sharing)
+
+#### Narrative:
+The meeting started with Duke welcoming everyone, then he shared the meeting agenda. Duke, Lady Tempestt, Yemi Solves, Lord Kizzy, Emmanuel, Ngala, and Tert extended their greetings in their native languages.
+
+The minutes of the last meeting were agreed.
+
+AI Ethics EXPO: Duke mentioned that during the last AI Ethics WG meeting, we presented our update and to furthermore reach out to the prospective speakers we expect from them. He stated that we are to produce two speakers (Ubio Obu, who is part of the Ambassador program and is an AI and blockchain expert, and John Obidi, who is not in the program but is one of our partners for our Deep Funding proposal (he is the founder of Head Start Africa which is one of our industry partners for our Deep Funding proposal that has been funded). Duke also stated that we are expecting to have Leeloo Rose (speaking on AI Ethics) and either Haley Lowy or Esther Galfalvi (speaking on AI Governance) from the GEI (Global AI Ethics Initiative).
+
+Budget reduction for Q3: Due to the token merger and the drastic drop in AGIX, we need to reduce our budget. Duke proposed the idea of taking a break to save funds, while Kateri suggested updating our weekly meetings to a biweekly schedule. Lady Tempestt recommended pushing some items from this quarter to the next, and Lord Kizzy echoed Kateri's suggestion but proposed biweekly meetings only for this quarter. Duke initiated the WG budget discussion, but due to time constraints, he recommended scheduling another call focused entirely on budgeting.
+
+Do we need a core contributor role/tag? Duke clarified what a core contributor role/tag was, he explained that any person who is a core contributor in the Guild will more naturally have a higher stake in the affairs of the African Guild. He went ahead and said it could be a core contributor role or just any other role within the Guild that we can use. Lady Tempestt said that we need to firstly describe the role in order for us to get the right tags for the role. Duke further clarified that he values people who are more active in terms of presence and contribution.
+
+Documentation circle and operation: Clement presented the documentation roster and explained it. He further clarified that the names listed are not fixed and will be updated regularly. Several suggestions were made regarding the core team, review team, and documentation circle.
+
+
+
+#### Decision Items:
+- We decided to make our meeting Biweekly.
+  - [effect] affectsOnlyThisWorkgroup
+- We decided to merge the review circle and focus group as part of the responsibilities of the core team.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: AI Ethics EXPO, Q3 budget, Documentation Roster, Treasury, Core team, review team, tags, core contributor, roles, budget cuts
+- emotions: informative, insightful, long
+- other: We congratulated Duke on his wedding.
+
+
 ## Friday 23rd August 2024
 
 
