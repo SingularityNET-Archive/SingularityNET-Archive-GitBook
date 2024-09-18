@@ -234,6 +234,46 @@ Timeline has been established in today's Governance WG call for the Q4 budget de
 - emotions: productive,  Collaborative, Businesslike.
 
 
+## Thursday 15th August 2024
+
+### African Guild
+
+- Type of meeting: Weekly
+- Present: Clement Umoh [facilitator], Cjfrankie  [documenter], Clement Umoh, Advanceameyaw, Duke, Cjfrankie, SucrenSpice, kateri, Yemi Solves, Eric Davies, Ayo, Martin Soki, Isaac Daniel, Photogee
+- Purpose: The African Guild weekly meeting and progress updates.
+- Working Docs:
+  - [The African Guild Framework and Initiatives Super Document](https://docs.google.com/document/d/1BttursD5aCwzqEUgJzkh6eb2YGnCHqnfwkxKFkYPgoo/edit)
+  - [2024-08-15 14.09.50 Onboarding Workgroup](https://drive.google.com/drive/folders/1THKlYv0zA0IFGHmAXG7YoaVKxDHMdMgn?usp=sharing)
+
+#### Narrative:
+The meeting started with Clement welcoming everyone, and highlighting the meeting agenda. Advance, Kateri, and Yemi extended their greetings in their native languages.
+
+After the action items from the last meeting, the meeting started strongly with the Initiative and Contribution Framework document. Ayo stated that the document is ready and that people only need to put in valuable comments and feedback.
+
+GitHub migration: Clement asked whether the old tasks from Dework should be migrated to Github or it should only be the new tasks. Everyone was of the opinion that we should migrate all the old tasks, too, for the sake of accountability. Sucre also added that the entire program hasn't fully recognized GitHub, therefore the GitHub board will showcase the projects that were completed and marked as done. More so, the new tasks will still be created and assigned via Dework for the weekly payouts.
+
+AI Ethics EXPO: Clements shed more light on the forthcoming in-person event in Nigeria. This African Guild and AI Ethics Alliance event will take place in September; however, the date of this event will be announced as we move further along! He added that there would be streaming platforms available to enable community members to catch a glimpse of the event from the comfort of their homes.
+
+Clement talked about the Q3 budget reduction and the price of AGIX; momentarily, he cited a discussion from a recent Treasury meeting where workgroups were asked to consider moving minor tasks to Q4 whilst giving more hand to major projects within their workgroup.
+
+Kateri raised a question about the African Guild documentation roster, and swiftly, Clement cleared the air by saying that the core team would get it done before the week runs out!  
+
+
+#### Decision Items:
+- In view of the AGIX token drop, we have agreed to focus primarily on key projects this quarter while rolling over minor tasks to quarter 4.
+  - [effect] affectsOnlyThisWorkgroup
+- We have decided that Sucre should update the GitHub board with old tasks from Dework and then upload the latest entries.
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Sucre to share the recently concluded documentation session slides and the session recordings in the African Guild channel. [assignee] Sucren [status] done
+- [action] Clement and the African Guild core team to make a documentation roster for the guild before the next meeting. [assignee] Clement Umoh [due] 22 August 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: GitHub, AI Ethics EXPO, Q3 budget, Documentation Roster, Treasury,  Event, Tasks, Dework, Quarter 4
+- emotions: short, informative, calm, insightful
+
+
 ## Friday 16th August 2024
 
 
