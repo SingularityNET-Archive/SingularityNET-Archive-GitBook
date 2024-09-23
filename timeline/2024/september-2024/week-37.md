@@ -4,6 +4,69 @@ description: Mon 9th Sep - Sun 15th Sep 2024
 
 # Week 37
 
+## Monday 9th September 2024
+
+### Treasury Policy WG
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom, Tevo [documenter], Tevo, Effiom, Peter
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Miro board: [Link](https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764593379439090&cot=10)
+- Other media: [Link]( https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Policy Template](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v)
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback](https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform)
+  - [Responses for Budget-Fitting Policy](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g)
+  - [Ratification Form](https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform)
+  - [Policy Publicity Messages](https://docs.google.com/document/d/1Mln0dvt62ESzRPUIRdnL77UsbETwwUeykKTUV3SuYaQ/edit#heading=h.83jkznc9gpfg)
+
+#### Agenda item 1 - Welcome, Workgroup Updates, and Meeting Agenda - [carry over]
+
+#### Discussion Points:
+- How best to report activities of the WG in Quarter 4?
+
+#### Decision Items:
+- Today's meeting is the last session of Policy WG
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Policy Operations to be carried over to the Treasury Guild [status] todo
+- [action] The ratification deliverable is planned for the end of the month; the final update will be in the Q4 Report [status] todo
+
+#### Agenda item 2 - Drafting of Policy Ratification Google Form - [carry over]
+
+#### Discussion Points:
+- How best to draft the form?
+- What should be the content of the form?
+- The ratification quorum decision was made in the last WG meeting.
+
+#### Decision Items:
+- The Treasury Guild agreed to move the policy "Slow Start" to the final stage
+  - [effect] mayAffectOtherPeople
+- Based on how the form was drafted, every new policy would require a new form during ratification
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Share the Policy Ratification form in the decision-making channel in Discord [status] todo
+
+#### Agenda item 3 - Review New Policy submission - sentiment metrics - [carry over]
+
+#### Discussion Points:
+- Understanding the rule activation dependencies
+- Implementation End time deliberation
+
+#### Decision Items:
+- The current version of the policy is not acceptable
+
+#### Action Items:
+- [action] Include policy related topics (i.e. new policy submission and status of old policies) in next Treasury Guild agenda [status] todo
+- [action] Draft a publication message about new policies [assignee] Tevo [due] 16 September 2024 [status] todo
+
+#### Keywords/tags:
+- topics covered: Miro Board, Treasury Policy, Ratification, Sentiment
+
+
 ## Friday 13th September 2024
 
 ### Video Workgroup
