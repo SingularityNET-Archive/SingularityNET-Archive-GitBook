@@ -7,6 +7,7 @@ description: Mon 2nd Sep - Sun 8th Sep 2024
 ## Monday 2nd September 2024
 
 
+
 ### Treasury Automation WG
 
 - Type of meeting: Monthly
@@ -139,6 +140,122 @@ Q4 budget:
 #### Keywords/tags:
 - topics covered: review q2 task completion, Roles, compensation, interviews, training session, Budget , Q3 quarterly report, Nigeria event, Q4 budget draft, Collaboration
 - emotions: Collaboration, ideas, insights
+
+
+
+### Treasury Guild
+
+- Type of meeting: Biweekly
+- Present: Tevo [facilitator], Effiom [documenter], callyfromauron, effiom, gorga1103, tevo
+- Purpose: Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- Meeting video: [Link]( https://youtu.be/k7jzP5ZqIdE)
+- Miro board: [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764597506440113&cot=10)
+- Other media: [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- Working Docs:
+  - [Ambassador Tools](https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/)
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Ambassador Account Permissions - Access List](https://docs.google.com/spreadsheets/d/1BBKJnSWwiGRgtq88wufm49EyDMZN1vyEc8lzqG6qmIA/edit?gid=0#gid=0)
+  - [Concerns over permission sharing [GOOGLE FORM]](https://docs.google.com/forms/d/e/1FAIpQLSezM4WCsidZw_6gLMa7hk17LWkWTj3p47zyHMNVuO0I4ZHpqQ/viewform)
+  - [Treasury Guild Quarterly Report - Q3 2024](https://docs.google.com/document/d/1acxnPRihpShLFF4visFPrkr32U_Eizge9HBdOon4qiQ/edit#heading=h.1w2fce1nfvp0)
+  - [Treasury Guild Proposal Q4 2024](https://docs.google.com/document/d/169g5QOg0AY1bRQ_28hWrzl5U93Bv_j-_V9ABsc4wFiw/edit#heading=h.9t5jkakh8028)
+
+#### Agenda item 1 - Ambassador Account Permissions - [resolved]
+
+#### Discussion Points:
+- How many and which tools are tied to the Ambassador account? 
+- Ambassador Tools: https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/
+- Who decides, and how do we decide, account permission changes?
+- How do we update Ambassador account permissions?
+- What is the quorum required to grant a person access?
+
+#### Decision Items:
+- The headers for the google sheet for requesting access were agreed on
+  - [rationale] This was decided based on the relevant information the person requesting needs to provide, like Discord name, position, tools they use (Zoom, Google Drive etc), comments, is the account accessible etc.
+  - [opposing] None
+- We agreed to keep the process simple, hence no need for quorum
+  - [rationale] Deciding on a quorum can be a stretch and would definitely make the process longer
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- There should be a degree of anonymity in the decision-making process, in case people have reservations about the people requesting access. Hence, the feedback form should be created under Swarm account.
+  - [rationale] It is expected that whoever is requesting is a Core Contributor and might have access to view the feedback. For these reasons, there is a need for anonymity and to achieve this the form would be created from an account outside SNET
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- Permission Granted (in 3 working days)
+  - [rationale] This number of days is ideal for the process
+  - [opposing] None
+
+#### Action Items:
+- [action] Create a Google Sheet list of those who should have access - 06.09.2024 [assignee] Effiom [due] 6 September 2024 [status] done
+- [action] Create a form under Swarm account to collect anonymous information [assignee] Tevo [due] 6 September 2024 [status] done
+
+#### Agenda item 2 - Coordinate Treasury Guild Q3 Report and Q4 Proposal - [carry over]
+
+#### Discussion Points:
+- How best to capture the deliverables of the quarter in the report, since it will be shared before end of Q3?
+- Do we update the report later, at the end of the quarter? 
+- Planning ahead for budget fitting; the preferred approach
+
+#### Decision Items:
+- In quarterly reports we highlight things that are not yet completed
+  - [rationale] Because the quarterly is being prepared before the end of the quarter
+  - [opposing] None
+- Adjust dates in Q4 Report to include the Q3 final date and Q4 Report creation date
+  - [rationale] It would better represent the reporting cycle, as quarterly reports are usually prepared before the end of the quarter
+  - [opposing] None
+- In Q4 report we have a section to address Q3 proposal deliverables that was not completed in Q3 report
+  - [rationale] This would allow us to capture all our deliverables accurately
+  - [opposing] None
+-  We reduce the number of Treasury Guild meetings when we get budget fitting
+  - [rationale] It made sense to adjust the meeting schedule to accommodate budget fitting
+  - [opposing] None
+- Propose to create a tool to calculate Core Contributor List that provide different outputs for updating and sharing public lists under Treasury Automation WG
+  - [rationale] This is an automation and since Automation WG is getting a different budget from Treasury Guild, It made sense to move it
+  - [opposing] None
+
+#### Action Items:
+- [action] Draft and share the Q4 proposal [assignee] Tevo [status] todo
+- [action] Draft Q3 proposal Report after Tevo has created and shared template [status] todo
+
+#### Agenda item 3 - Review the newly selected policy - Slow Start - [resolved]
+
+#### Discussion Points:
+- Policy list link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/ 
+- The current treasury policy template
+- Should we move to ratify this policy?
+
+#### Decision Items:
+- The policy should be moved to ratification
+  - [rationale] The policy meets the requirement to be moved to ratification
+  - [opposing] None
+- Next week in Policy WG further review and possibly assign last action items to help see this through
+  - [rationale] Policy WG has an upcoming meeting on 09.09.2024
+  - [opposing] None
+
+#### Action Items:
+- [action] Add to agenda of Treasury Policy WG session on 09.09.2024 [status] todo
+
+#### Agenda item 4 - Consent Recognition - [resolved]
+
+#### Discussion Points:
+- Bare minimum Recognition Influence
+- Is there a need for any additional tokenomics? 
+- Tokens with tickers (INF)
+- Should we include label to represent Decision Making?
+
+#### Decision Items:
+- We don't include MINS as it is hard to assess
+  - [rationale] Hard to assess and overhead to request or track
+  - [opposing] None
+- Include Auditing and Decision labels to represent decision making
+  - [rationale] For better representation
+  - [opposing] None
+
+#### Action Items:
+- [action] Mint INF Tokens for consent recognition [status] todo
+
+#### Keywords/tags:
+- topics covered: Miro Board, Q3 Report, Q4 Proposal, Consent Recognition, Ambassador Account, Permissions, Access, Treasury Policy, Swarm account, privacy, confidentiality, MINS, Slow Start, deliverables, reporting, quorum, access
+- emotions: interactive, decisive, interesting
 
 
 ## Wednesday 4th September 2024
