@@ -4,6 +4,48 @@ description: Mon 9th Sep - Sun 15th Sep 2024
 
 # Week 37
 
+## Friday 13th September 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Hogantuso [documenter], malik, killy, Zalfred, lord kizzy, Slate, SubZero, osmium, AndrewBen, oep, Hogantuso, Cjfrankie
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+  - [Zealy Updates](https://docs.google.com/spreadsheets/d/1suSzs5UM063hz2GHlmJsysba8XeX7S9MEgEmoT5tkqE/edit?usp=sharing)
+  - [Video Workgroup Q3 Report.](https://docs.google.com/document/d/1yT7ZK2VTlAbvPcizkMAsCgS-2sJ_TZ-IcDtgxrgZr7Y/edit#heading=h.jadhio64tftq)
+
+#### Discussion Points:
+- UPDATE from the task manager, ZALFRED. He created tasks for the approved topics for video creation for this quarter. He also updated the KPI sheet with the video links ready for uploading, and had an operational call with MALIK and LORD KIZZY on the smooth communication with the review team.
+- UPDATE from the social media manager, OEP: 4 long videos have been uploaded to all social media platforms and are having a good number of engagements so far. He also mentioned the challenges he's facing due to delay. 
+- UPDATE from Zealy by DEVON: he mentioned that he'll be sending out more tasks from Monday as the sprint comes to an end.
+- Reviewing and discussions on the last Governance workgroup meeting by LORD KIZZY, presenting the questions and challenges discussed about the video workgroup pertaining to the numbers of videos created, budget fitting, and approval for Q4 budject proposal.
+- Presentation on navigating the new tool for social media by ROJO: he gave a comprehensive explanation on how to navigate the tool to post seamlessly on various platforms. He suggested to introduce LINKEDIN AND MASTODON as part of the new social platform added to the role. 
+
+#### Decision Items:
+- We are adopting MASTODON as a new social platform for the video workgroup.
+- Collective operational call on the challenges that workgroup members are facing in order to perform their tasks properly
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] We decided that Devon will keep the Zealy role for one more month, while we experiment on the time impact of the social media automation tool on the Social Media Management role
+ [assignee] devon [status] todo
+- [action] ROJO will take up the social media manager role. The allocation hasn't been decided since we said we are going to experiment this month and decide after that.
+ [assignee] Rojo [status] todo
+- [action] All members to join the next Governance meeting. [assignee] All Members [status] todo
+- [action] Task manager role for the month of September  [assignee] hogantuso [status] todo
+- [action] Facilitator for the month of September  [assignee] Slate [status] todo
+- [action] Town hall edit for the month of September  [assignee] AndrewBen [status] todo
+- [action] Town hall summary for the month of September  [assignee] killy [status] todo
+- [action] Meeting summary for the month of September  [assignee] oep [status] todo
+- [action] Review team for the month of September  [assignee] Zalfred, lord kizzy [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget fitting, Zealy, Zealy quest, Zealy Updates, Collaboration, Roles, mentorship, governance WG, budget fitting, Mastodon, LinkedIn
+- emotions: Organised, informative, interactive, productive
+
+
 ## Saturday 14th September 2024
 
 ### Gamers Guild
