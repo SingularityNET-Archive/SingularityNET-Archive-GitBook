@@ -274,3 +274,31 @@ Q4 budget:
 #### Keywords/tags:
 - topics covered: Q4 2024 budget, q3 2024 report, Town Hall, Ubio, open source ethos, read.ai, Ethics, training, documentation training, Budget cuts, GitHub video walkthrough, Core activities, Outreach, education, community engagement, Google Docs, google doc export, Correcting errors in meeting summaries, tool redesign
 - emotions: despondent, disheartening, Discursive, Thoughtful , budget request problems , limited, restricted
+## Saturday 7th September 2024
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- Present: Slate [facilitator], Hogantuso [documenter], malik, killy, Zalfred, lord kizzy, Slate, SubZero, osmium, AndrewBen, oep, Hogantuso
+- Purpose: Weekly updates 
+- Working Docs:
+  - [Video WG Content Sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120)
+  - [Zealy Updates](https://docs.google.com/spreadsheets/d/1suSzs5UM063hz2GHlmJsysba8XeX7S9MEgEmoT5tkqE/edit?usp=sharing)
+  - [Video Workgroup Q3 Report.](https://docs.google.com/document/d/1yT7ZK2VTlAbvPcizkMAsCgS-2sJ_TZ-IcDtgxrgZr7Y/edit#heading=h.jadhio64tftq)
+
+#### Discussion Points:
+- UPDATE from the task manager by ZALFRED: he listed the various tasks created during the week: budget fitting discussions, operational calls by MALIK and LORD KIZZY, updating for KPI sheet from LORDKIZZY, two clips from LORD KIZZY, two clips from SUB ZERO, and a clip from ANDREWBEN. He also added MALIK as a co-assignee to work with OSIMUM on the narrow AI video; and created a task for an operational call for LORDKIZZY, MALIK and ZALFRED for a more efffective communication line between the editors, task manager and review team in smoothing the process and navigation around the sheet. Call with ROJO and LORD KIZZY for their concluded operational calls on the monthly analytics on the budget review and Zealy task allocation; and gave updates on the uploaded Town Halls TH 111, 112, 113 as uploaded on the KPI sheet.
+- UPDATE on Zealy by DEVON: He submitted a total of 10 videos for the monthly Zealy, and gave updates on the issues he was having with the KPI sheet including suggesting ideas in order to make it easy to access with different socials and columns, as there should be a task for every social media post. 
+- Reviewing the KPI sheet with LORD KIZZY explaining the new sheet and the process of task creation, and giving feedback on the social media role as a permanent role due to the new tool which is yet to be implemented.
+
+#### Decision Items:
+- We are not including the animation in the next quarter, for budget reduction 
+
+#### Action Items:
+- [action] Devon to reach out to Kenichi on the delay in posting from Zealy for the next monthly. [assignee] devon [status] todo
+- [action] LORD KIZZY to give DEVON access to the KPI sheet for effective posting [assignee] lord kizzy [status] todo
+- [action] SLATE to send in five (5) topics for voting  [assignee] Slate [status] todo
+
+#### Keywords/tags:
+- topics covered: Rewards, Budget fitting, Zealy, Zealy quest, Zealy Updates, Town Hall, Narrow AI, analytics, review, task creation, social media, Collaboration, communication, KPIs, animation
+- emotions: Organised, informative, interactive, inconclusive
