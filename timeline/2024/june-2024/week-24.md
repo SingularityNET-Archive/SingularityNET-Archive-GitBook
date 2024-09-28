@@ -440,6 +440,7 @@ Should we meet again on the 24th and 26th of June for this quarter? 24th was fav
 
 ## Thursday 13th June 2024
 
+
 ### African Guild
 
 - Type of meeting: Weekly
@@ -472,6 +473,62 @@ Discussion items:
 #### Keywords/tags:
 - topics covered: Strategy Guild, planning, membership, skills, Dework, Rewards, Q3 budget, AMA Session Updates, AMA, expansion, target audience, skills database
 - emotions: long, Collaborative
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Onize, CallyFromAuron [documenter], Ayo, Onize, CallyFromAuron, Duke, Sucre n Spice, PeterE, lord kizzy, Clement Umoh, Kateri Nick, Effiom, LadyTempestt, Gorga Siagian, Photogee, Kenichi, guillermolucero, daniel oladele, Timmy, Gavriel Shaw, Cjfrankie
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Working Docs:
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [ONBOARDING WG C&S DETANGLE DOCUMENT](https://docs.google.com/spreadsheets/d/1EN21KSiQQc61aBHwL17ocCMixX6m-mA08wpr1bQF2zI/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit)
+  - [Onboarding WG quarterly report Q2 2024](https://docs.google.com/document/d/1x4HDcJxTpVQH7NuEcsYauStAbAUl61UOgZZav5HyGpU/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Business:
+We agreed the minutes of the last meeting, and went through Action items from the last meeting
+
+
+- Onboarding Journeys update: Vani has drafted the script and handed it over to Onize to edit and add anything else.
+
+- Skillshare matrix: we encouraged WG members to add to their skillsets if they have missed anything off; and pick out which skills they think are "foundational skills" both for the whole community, and for this WG.
+- Q3 budget: regular and one-off tasks, mentorship and contingency budgets.
+- Research project for Q3
+- Revamping the Getting Started channel in Discord
+- Q2 Quarterly report update from Clement
+- The onboarding focus group
+
+#### Decision Items:
+- We agreed to set up a team of Onboarders who will do 1 on 1 introductions with newbies. We will work out the criteria for interested WG members to become a part of this team. Suggested: Need to be a Core Contributor with a certain amount of time (how long is TBD) in the program.
+  - [rationale] to check individually that new people have all the info they need to thrive in the program.
+  - [effect] mayAffectOtherPeople
+- We will brainstorm urgently on the budgets for some tasks in the Q3 budget; regular and one-off
+  - [rationale] We particularly need to look at the budget for mentorship; and whether we need a budget line for "contingency".
+  - [effect] affectsOnlyThisWorkgroup
+- We decided we will include a budget line for a research project in our Q3 budget; and, if funded, we will decide then exactly what it will be. We want to research using 1-2-1 or small focus groups rather than a survey.
+  - [rationale] Because there were several suggestions for what the research should cover, and we hadn't time to discuss properly in this meeting.
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Onize to edit the onboarding journeys scripts and flesh them out as a script. [assignee] Onize [due] 20 June 2024 [status] todo
+- [action] Everyone to consider the foundational skills in the skillshare matrix sheet [assignee] All Members  [due] 20 June 2024 [status] todo
+- [action] Everyone to review the Q2 report draft done by Clement. [assignee] All Members [due] 20 June 2024 [status] todo
+- [action] Sucre to work on a complete redraft of the information in the Getting Started document when everyone is done adding comments. [assignee] Sucre n Spice [due] 20 June 2024 [status] todo
+- [action] Everyone to look into the ONBOARDING WG C&S DETANGLE DOCUMENT and identify any suggestions that have already been worked into the Q3 budget [assignee] All Members [due] 20 June 2024 [status] todo
+- [action] Sucre to add Gorga to the facilitation rotation list for Q3
+ [assignee] Sucre n Spice [due] 1 July 2024 [status] todo
+
+#### To carry over for next meeting:
+- skillshare matrix
+- Q3 budget
+- Q2 quarterly report
+
+#### Keywords/tags:
+- topics covered: skills matrix, q2 2024 report, q3 2024 budget, mentorship, foundational skills, 1-2-1 onboarding
+- emotions: informative, funny , long, Collaborative
 
 
 ## Friday 14th June 2024
