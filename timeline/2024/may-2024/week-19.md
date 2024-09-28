@@ -288,6 +288,7 @@ Item: Naming Decision
 
 ## Thursday 9th May 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -367,6 +368,47 @@ Suggested topics include:
 #### Keywords/tags:
 - topics covered: context-setting docs, renaming Ambassadors, survey , Onboarding sessions, Documentation, Meeting Summaries, Roblox, Gamers Guild, Town Hall update, Knowledge base, Twitter/X, publicity, Facilitation, facilitators collective, learning resources
 - emotions: informative, interesting
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Weekly
+- Present: jay05|judithW [facilitator], CallyFromAuron [documenter], jay05|judithW, Jan Horlings, Juan Pablo Barea, S. B. van Houten, 5oundwave5, Ayo, Clement Umoh, Robert Bedoya, XyrisKenn, Udai Solanki, Billy, Sucre n Spice, MayorDefi, Ubiodee, Daniel, Kings Ghedosa, PureRelativity(Curtis), Digital Ark's Fathom Notetaker, Musonda Bemba, Omni Ark
+- Purpose: DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+- Town Hall Number: 33
+
+#### Timestamped video:
+{% embed url="https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ" %}
+
+[00:03](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=3s) Intro
+[03:05](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=185s) Round 4 Funding Targets And Marketing Proposals
+[08:14](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=494s) Plan To Have Regional Town Halls And Community Website For Coordination
+[10:50](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=650s) New Rfp Process And Limitations For Town Hall Proposals.
+[16:24](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=984s) Building A Community Aligned With Singularity Net's Mission
+[18:47](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=1127s) Feedback On Platform Notifications And Improvements
+[23:08](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=1388s) Feedback Without Replicating Full Discussion
+[25:39](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=1539s) Clarifying Milestones And Funding Usage For Grants.
+[30:13](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=1813s) Positive Feedback On Singularity Network Community
+[32:27](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=1947s) Introduction To Trivia Segment
+[36:59](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=2219s) Setting Up For Trivia Game Night
+[39:15](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=2355s) Contest Winners And Future Trivia Plans
+[44:21](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=2661s) Trivia Game Night Begins With A Countdown
+[47:13](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=2833s) Round Four Funding Amount And Trivia Game Results
+[52:42](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=3162s) Discussion On Past Funding Rounds And Current Player Rankings.
+[55:21](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=3321s) The New Proposal Submission Portal For Testing Was Launched By Deep Funding.
+[1:00:47](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=3647s) Discussion On Technical Issues During Gameplay
+[1:02:56](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=3776s) Trivia Game Results And Questions Discussed
+[1:08:19](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=4099s) Deep Funding Round Four Key Points
+[1:11:09](https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ\&t=4269s) Deep Funding Town Hall Q+a Session Highlights
+
+#### Town Hall Summary:
+This Town Hall was mainly a Q&A about the current Deep Funding round 4; followed by a trivia quiz.
+
+
+#### Keywords/tags:
+- topics covered: regional expansion, regional town halls, community website, deep funding website, Marketing, marketing proposals, targets, RFP, alignment, singularitynet mission, Deepfunding proposal platform, proposal platform, milestones, community, game, trivia
+- emotions: informative, good humoured, self-congratulatory, fun, interesting, surprising
 
 
 ## Friday 10th May 2024
