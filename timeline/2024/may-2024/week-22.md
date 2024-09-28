@@ -4,6 +4,13 @@ description: Mon 27th May - Sun 2nd Jun 2024
 
 # Week 22
 
+## Monday 27th May 2024
+
+### Strategy Guild
+
+No Summary Given 
+
+
 ## Tuesday 28th May 2024
 
 
