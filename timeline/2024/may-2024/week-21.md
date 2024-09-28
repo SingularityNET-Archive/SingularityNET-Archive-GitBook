@@ -6,6 +6,7 @@ description: Mon 20th May - Sun 26th May 2024
 
 ## Tuesday 21st May 2024
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly
@@ -72,6 +73,12 @@ R&D Guild members raised concerns about governance consistency: similar issues r
 #### Keywords/tags:
 - topics covered: Points system, Scribe role, Scribblers, Zealy, medium, Substack, Writers WorkGroup, Marketing Guild, consent process, Q2 budget, Translation, Twitter/X, Twitter, Pidgin, French, Spanish, LatAm, African guild, R&D guild, social media, social media management, Governance, transparency
 - emotions: Frustration ,  Impatience,  Optimism ,  Confidence , Collaboration, engagement, Cautious Optimism , Uncertainty,  Satisfaction , Desire for Clarity , Openness, concern, determinatiion, skeptical, open
+
+
+
+### AI Ethics WG (GEI Open Office)
+
+No Summary Given 
 
 
 ## Wednesday 22nd May 2024
