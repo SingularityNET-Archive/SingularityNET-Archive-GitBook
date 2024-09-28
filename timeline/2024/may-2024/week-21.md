@@ -4,6 +4,13 @@ description: Mon 20th May - Sun 26th May 2024
 
 # Week 21
 
+## Monday 20th May 2024
+
+### Strategy Guild
+
+No Summary Given 
+
+
 ## Tuesday 21st May 2024
 
 
