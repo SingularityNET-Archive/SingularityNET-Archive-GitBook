@@ -411,6 +411,7 @@ Next ordinary meeting is Tues 28th May.
 
 ## Friday 17th May 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -437,6 +438,12 @@ Next ordinary meeting is Tues 28th May.
 #### Keywords/tags:
 - topics covered: social media management, new people, videomaking, engagement, models, fund allocation
 - emotions: Friendly, Casual, positive, speedy
+
+### Writers Workgroup
+
+No Summary Given 
+
+
 ## Saturday 18th May 2024
 
 ### Gamers Guild
