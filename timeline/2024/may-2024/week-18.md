@@ -167,6 +167,7 @@ description: Mon 29th Apr - Sun 5th May 2024
 ## Thursday 2nd May 2024
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -286,6 +287,21 @@ Hogan Tuso will give the Onboarding WG update on Tues 28th May, Clement Umoh to 
 #### Keywords/tags:
 - topics covered: context-setting docs, renaming Ambassadors, Q2 budget decision process, survey , Onboarding sessions, infographic, Education Guild, onboarding journeys, Soulbound tokens, loyalty system, Proposals, contribution, tracking contribution
 - emotions: informative, short, unusual, off-schedule
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Weekly
+- Present: jay05|judithW [facilitator], CallyFromAuron [documenter], jay05|judithW, Emotu, Juan Pablo Barea, Nicola Salvagni, tom (Aprendo), Mihai Bărbulescu, ines gavina, Jan Horlings, XyrisKenn, Ale Marin, Duke, logan, Clement Umoh, 5oundwave5, Sucre n Spice, Diego G, Boaz, jerry king, Mikasa, Ese Williams, Ubiodee, MayorDefi, Kenichi, oep, samuel chukwu, Tomas Octavio, read.ai meeting notes, fireflies notetaker Mercy, Kings Ghedosa, edet ekpenyong
+- Purpose: DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+#### Town Hall Summary:
+This Town Hall was a session where personal questions were asked of some of the main participants in DeepFunding, as a "get-to-know-you" exercise.
+
+
+#### Keywords/tags:
+- topics covered: community, community engagement, questions, turn-taking, projects, education, Africa, AGI
+- emotions: personal, participatory, long, ice breaker, game, individuals, people, ideals
 
 
 ## Friday 3rd May 2024
