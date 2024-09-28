@@ -165,6 +165,7 @@ description: Mon 1st Apr - Sun 7th Apr 2024
 ## Thursday 4th April 2024
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -292,6 +293,52 @@ description: Mon 1st Apr - Sun 7th Apr 2024
 #### Keywords/tags:
 - topics covered: buddy system, Q2 budget, Treasury session, Town Hall update, Q1 quarterly report
 - emotions: funny , Deliberative, insightful
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Jan Horlings, Judith [facilitator], CallyFromAuron [documenter], Jan Horlings, Judith, Juan Pablo Barea, CallyFromAuron, Mauro Andreoli, Steve, Duke, Franklynstein, Rafael Presa, zk, Clement Umoh, esewilliams, soubhir, guillermolucero, read.ai meeting notes, WaKa, Ubiodee, PeterE, LadyTempestt, Mario Casiraghi, Headelf, killy, Jon Grove, electronige, Ana Paula Pereira, Photogee, Alex, Loic
+- Purpose: Discussion of Deep Funding Round 4 Pools and DF Branding Manual and Guidelines
+
+#### Timestamped video:
+{% embed url="https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ" %}
+
+DeepFunding Town Hall is a fortnightly meeting led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+
+[00:03](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=3s) Intro And Discussion On The Upcoming Token Merger Of Singularitynet, Fetch Ai, And Ocean Protocol.
+[04:06](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=246s) Asi Token Merge Impact On Treasury And Deep Funding's Scope
+[09:38](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=578s) Engaging With Ocean And Fetch For Joint Proposals
+[12:37](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=757s) Discussion On Potential Delay In Starting Deep Funding Round Four
+[18:05](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=1085s) Discussion About Potential Downsides To The Token Merger And Pricing Impact.
+[20:21](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=1221s) Conservative Approach In Awards Led To Valuable Saved Tokens For Future Beneficial Use
+[25:15](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=1515s) Deep Funding's Intention To Become More Decentralized
+[27:47](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=1667s) Discussion On Shared Or Co-funded Pools And Rfps
+[32:44](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=1964s) Deep Funding And Deep Funding Treasury Will Remain Separate.
+[35:13](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=2113s) Merger Will Bring Asi To Cardano And Ethereum With Enhanced Utility.
+[40:02](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=2402s) Proposal Related To Ai Services Integration With Ocean's Predictor Framework
+[42:24](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=2544s) Discussion On The Necessity Of Storing Data On-chain
+[47:16](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=2836s) Openness To Partnership With Organizations For Decentralized Ai
+[49:41](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=2981s) Accelerated Minting For Decentralized Computing Power.
+[54:49](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=3289s) Migration To Asi And Bridges Between Blockchains
+[57:16](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=3436s) Minting Asi Tokens For The Same Value With Less Hassle
+[1:02:16](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=3736s) Timing Is Right For Building Potential Partnerships
+[1:04:33](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=3873s) Discussion On The Name Of The New Alliance
+[1:09:32](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=4172s) Migration Contract May Take Some Time
+[1:12:03](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=4323s) Discussion On Time Differences And Meeting Scheduling
+[1:16:54](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=4614s) Introducing Rfp Proposals For Funding
+[1:19:28](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=4768s) Consider Using Rfps For High-value Proposals
+[1:24:01](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=5041s) Optimizing Platform Performance And Migration To New Service Provider
+[1:26:32](https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ\&t=5192s) Using Ai To Create A World Model For Predicting Weather Globally
+
+#### Town Hall Summary:
+This TH was primarily an AMA with the DeepFunding team about the ASI token merger; it also touched on how the merger might affect plans for DeepFunding Round 4, RFPs, and partnerships.
+
+
+#### Keywords/tags:
+- topics covered: deep funding round 4, RFP, ASI token, Token merger, ocean, fetch, AMA, Partnership, Treasury, Decentralization, Decentralisation, shared pools, shared RFPs, onchain data, DF platform, weather
+- emotions: informative, participatory, questioning
 
 
 ## Friday 5th April 2024
