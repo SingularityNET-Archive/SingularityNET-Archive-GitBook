@@ -470,6 +470,7 @@ You can view all the pitches on the following YouTube playlist https://www.youtu
 ## Friday 31st May 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -544,3 +545,7 @@ Cjfrankie shared some article topics for the Scribblers.
 #### Keywords/tags:
 - topics covered: Scribe channel, Q2 KPI, Q3 budget, Twitter management, Onboarding, Zealy, Medium, Native speakers, Spanish
 - emotions: Welcoming, Friendly, interactive, Discursive
+
+### Marketing Guild
+
+No Summary Given
