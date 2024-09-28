@@ -236,6 +236,7 @@ Timeline has been established in today's Governance WG call for the Q4 budget de
 
 ## Thursday 15th August 2024
 
+
 ### African Guild
 
 - Type of meeting: Weekly
@@ -272,6 +273,40 @@ Kateri raised a question about the African Guild documentation roster, and swift
 #### Keywords/tags:
 - topics covered: GitHub, AI Ethics EXPO, Q3 budget, Documentation Roster, Treasury,  Event, Tasks, Dework, Quarter 4
 - emotions: short, informative, calm, insightful
+
+
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly
+- Present: LadyTempestt [facilitator], hogantuso, CallyFromAuron [documenter], LadyTempestt, CallyFromAuron, Eric Davies, Photogee, CollyPride, Sucre n Spice, Gorga Siagian, hogantuso, Onize, Cjfrankie, Advanceameyaw, Merryman, others unknown
+- Purpose: Weekly meeting discussing how to onboard people to the Ambassador program
+- Media link: [Link](https://youtu.be/sTRa37Hslts)
+- Working Docs:
+  - [Documentation training slides](https://docs.google.com/presentation/d/1faPY5FMAudhqx_P4ismUrqCTuYySq8oADt7O--oE8JQ/edit?usp=sharing )
+
+#### In this meeting we discussed:
+- This week, our regular meeting was replaced by a training session on documentation skills, led by LadyTempestt.
+
+#### Learning Points:
+- We cannot rely on unmediated AI summaries - so how CAN we make use of AI tools, and what CAN they do?
+ 
+- Do documenters need to be present at a meeting to document well? Probably yes - especially because you can ask questions if anything is unclear - although it is possible to do it from a recording. 
+
+- How can we distinguish between a suggestion, and a decision? Often it's the facilitator who signals that an actual decision needs to be made
+
+- A good facilitator can support good documentation, e.g. by signalling when a decision is being made; noting when there is an action item to be done and making sure it's assigned; calling out the names of who is present; making it clear when the meeting moves to the next item on the agenda; etc
+
+- What exactly is an action item? It's something that is assigned to a particular person to do, ideally with a due date.
+
+- Should a documenter attribute comments to individuals or not? It might depend on the type of meeting. Attribution recognises what someone contributes, and makes sure people are heard. It might be less important in more routine, "businesslike" meetings, and more important in more discursive or ideas-orientated meetings.
+
+- Good documentation captures the interactive, fluid, non-static nature of most meetings, and the fact that people's thoughts develop and change during it.
+- To document well, you probably need to know the Program and the ecosystem quite well - it is probably not an entry-level task. It's good to attend 2 or 3 meetings of a workgroup before you try to document it.
+
+#### Keywords/tags:
+- topics covered: useful documentation, Documentation, action items, decisions, tracking decisions, sources , what is a meeting, conciseness, accuracy, decision rationales, AI tooling, ai tooling problems, limitations of AI, limitations of AI for documentation, read.ai, read.ai limitations, Ethics, speaker identification, subjectivity, dynamic conversations, attribution
+- emotions: warm, Discursive, informative
 
 
 ## Friday 16th August 2024
