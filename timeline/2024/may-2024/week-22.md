@@ -380,6 +380,7 @@ You can view all the pitches on the following YouTube playlist https://www.youtu
 
 ## Thursday 30th May 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -441,6 +442,29 @@ You can view all the pitches on the following YouTube playlist https://www.youtu
 #### Keywords/tags:
 - topics covered: skills audit, Getting Started, Translation, Town Hall update, mentorship, onboarding processes, new workgroups
 - emotions: interesting, interactive, expository, Friendly
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Weekly
+- Present: none [facilitator], CallyFromAuron [documenter], others unknown
+- Purpose: DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+#### Town Hall Summary:
+In the last week of May 2024, Deepfunding Town Hall organised 3 "Spotlight Day" events, where proposers in Deep Funding Round 4 could present their proposals with a 3-minute video pitch.
+
+These events took place on:
+- Mon 27th May
+- Weds 29th May
+- Thurs 30th May.
+
+You can view all the pitches on the following YouTube playlist https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp
+
+
+
+#### Keywords/tags:
+- topics covered: deep funding round 4, DeepFunding, money, Proposals, proposers, pitch, Marketing
+- emotions: informative, varied, money-led
 
 
 ## Friday 31st May 2024
