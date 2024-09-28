@@ -14,6 +14,7 @@ No Summary Given
 ## Tuesday 21st May 2024
 
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly
@@ -86,6 +87,39 @@ R&D Guild members raised concerns about governance consistency: similar issues r
 ### AI Ethics WG (GEI Open Office)
 
 No Summary Given 
+
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: jay05|judithW [facilitator], CallyFromAuron [documenter], jay05|judithW, Billy, Olokoji, CollyPride, WaKa, Duke, Clement Umoh, Will Tatz, Temiloluwa Hamzat, Ese Williams, Sucre n Spice, oep, Effiom, hogantuso, Tevo, Kenichi, Gorga Siagian, Zalfred, osaborme Ehiz, osmium
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Town Hall Number: 98
+
+#### Timestamped video:
+{% embed url="https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[0:32](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=32s) Agenda
+[1:29](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=89s) Interest In Marketing Lead 
+[1:54](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=114s) What Is Expected Of A Marketing Lead
+[7:31](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=451s) How Do We Appoint/select The New Marketing Guild Lead? Could It Be Anyone? Do They Need A Marketing Background? Should They Submit A Cv? Should There Be A Vote?
+[10:33](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=633s) How Would You Present Your Skill Set? Should We Prioritise Education Or Experience? Should We Ask Applicants What Kpis Or Deliverables They Would Want The Guild To Achieve?
+[14:47](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=887s) How Would Everyone Vote On A Proposal?
+[57:27](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=3447s) Analyzing The Marketing Guild
+[1:18:59](https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0\&t=4739s) Conclusion
+
+#### Town Hall Summary:
+This Town Hall was mainly focused on discussion of how to select a new lead for Marketing Guild, following Judith's resignation.
+
+
+
+
+#### Keywords/tags:
+- topics covered: Marketing Guild, guild lead, lead, marketing task force, community engagement, voting
+- emotions: long, in depth
 
 
 ## Wednesday 22nd May 2024
