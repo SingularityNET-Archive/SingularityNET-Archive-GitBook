@@ -6,6 +6,7 @@ description: Mon 27th May - Sun 2nd Jun 2024
 
 ## Tuesday 28th May 2024
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -81,6 +82,61 @@ The need was established for Initial documentation translated into Spanish to be
 - topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration
 - emotions: Collaborative, Friendly, Thoughtful , funny , entertaining
 - other: All beginnings are challenging and full of responsibility, we hope to achieve the objectives
+
+
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: PeterE [facilitator], CallyFromAuron [documenter], PeterE, Tevo, WaKa, CallyFromAuron, Clement Umoh, hogantuso, guillermolucero, Will Tatz, Felix, Mikasa, Zalfred, Ese Williams, Onize, aetherblade, Boaz, Effiom, Haley Lowy, Ayo, Nefertiti Strong, Kenichi, Holly Rankin, Nicola Salvagni, lord kizzy
+- Purpose: Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- Working Docs:
+  - [Global Ethics Initiative ](https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/edit?usp=sharing)
+  - [Ambassador DF proposals](https://docs.google.com/spreadsheets/d/1jrOKJK2BrrS4Z5vLNyQqTxgJpt85ny0YsQ2kCuzPCog/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=0s) Introduction By Peter
+[01:10](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=70s) Deep Funding Round 4
+[02:17](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=137s) Beyondthecode.ai
+[16:32](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=992s) Workgroup Updates
+[17:08](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1028s) Knowledge Base Wg
+[18:35](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1115s) Dework Pbl Wg
+[19:35](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1175s) Treasury Guild
+[22:05](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1325s) Archives Wg
+[27:49](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1669s) Educational Wg
+[30:01](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1801s) R&d Guild
+[33:08](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=1988s) Latam Guild
+[38:25](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=2305s) Onboarding Wg
+[40:46](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=2446s) Marketing Guild, And The Issue Of Guild Leadership And How To Select Guild Leaders
+[44:20](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=2660s) Writers Wg
+[50:31](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=3031s) Video Wg
+[53:26](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=3206s) Strategy Guild
+[54:40](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=3280s) Governance Wg
+[57:16](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=3436s) Ai Ethics Wg
+[1:00:27](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=3627s) Open Discussion - Should We Start Recognising Participation In Town Halls Again? We Used To, But Now Do Not.
+[1:12:00](https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH\&t=4320s) Waka's List Of Deep Funding R4 Proposals That Are From People In The Ambassador Program
+
+#### Town Hall Summary:
+Today's Town Hall consisted mainly of the regular monthly updates from each WorkGroup. 
+
+There was also a presentation from https://www.beyondthecode.ai, an immersive documentary series about Ben Goertzel and AGI.
+
+There was also a discussion on whether we should start recognising participation in Town Halls again? We used to, but now do not. Main points raised:
+- Could Video WG's summaries of TH include listing who is present? 
+- Can we use a Dework template for it? We used to do so - but around Town Hall #49 the template was changed
+- How do we handle it if anyone present at TH does not have a Dework account?  Can we ask them async to create one, and thus support the onboarding process?
+- It is best to have one person responsible for capturing TH attendees via Read.ai, Zoom signups, etc - ideally someone who knows the community and will recognise people's Discord names
+- Should we try to catch up on the THs where we did not capture attendance? It would be a lot of manual work. Or should we just say that we used to do it, it was a useful experiment and we learnt from it, and look now at how we can improve the process so we can start afresh?
+
+
+#### Keywords/tags:
+- topics covered: workgroups, monthly updates, beyondthecode.ai, documentary, deep funding round 4, RAG retrieval process, Knowledge base, ambassador system design, dework PBL, students, Treasury, Treasury Policy, Q3 2024 proposals, Q2 2024 report, LLMs, open source, document management, archival dissociation, ethics strategy for Archives, GitHub, good meeting summaries, google doc header, doc header, spinoffs, fetch, ocean, quizzes, videos, Infographics, learn with AI, certification, R&D guild, transparency, budget concerns, prototypes, Q2 2024 budget, disability, disability research, LatAm, new members, Argentina, Colombia, Brazil, regional expansion, Translation, Decentralization Blueprint, global ethics document, treasury training session, Onboarding survey, Marketing guild lead, guild leadership, Medium publications, Trivia sessions, trivia topics, Zealy, pupil tag, Pidgin, Spanish, Twitter/X, Notion, Writers WorkGroup, video WG, Strategy Guild, strategy guild revival, Q1 budget allocation, Q2 budget, retrospective, budget retrospective, governance experiments, Core Contributor, renaming Ambassadors, decentralized decision making, Governance workgroup, AI ethics, research, GEI, Global AI Ethics Initiative, town hall participation, Dework, template, people without Dework account, deepfunding R4
+- emotions: informative, detailed, friendly 
 
 
 ## Wednesday 29th May 2024
