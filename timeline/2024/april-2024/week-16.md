@@ -388,6 +388,7 @@ To be discussed further in a Treasury meeting:
 ## Thursday 18th April 2024
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -467,6 +468,54 @@ To be discussed further in a Treasury meeting:
 #### Keywords/tags:
 - topics covered: wallet, Treasury, treasury dashboard, payments, Token merger, yoroi, treasury guild operations, Zealy, Writers WorkGroup, Dework, AGIX, ASI token
 - emotions: interesting, participatory
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: Rafael Presa [facilitator], CallyFromAuron [documenter], Jan Horlings, jay05|judithW, Rafael Presa, Ubiodee, Tommy Frey, others unknown
+- Purpose: DeepFunding Town Hall is a fortnightly meeting led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+
+#### Timestamped video:
+{% embed url="https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC" %}
+
+[00:00](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=0s) Start
+[00:11](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=11s) Decentralization Of Artificial Intelligence For Web 3.0
+[03:13](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=193s) Successful Round With New Features And Improvements
+[09:20](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=560s) Platform Opening On April 22 For Account Creation And Proposal Submission
+[12:10](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=730s) Community Involvement And Expert Reviews During Proposal Process
+[18:08](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=1088s) Introduction To New Funding Pools
+[20:55](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=1255s) Proposals Must Align With Singularitynet Mission And Abide By General Requirements For The Decentralized Ai Marketplace.
+[26:09](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=1569s) Be Open To Funding Guidelines And Follow Mandatory Fields For Eligibility
+[28:41](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=1721s) Review Period Guidelines And Expectations
+[33:45](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=2025s) Rules Of Eligibility Are Clear
+[36:21](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=2181s) Proposal Submission Timing Optimization
+[40:45](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=2445s) Encouraging Decentralization And Community Participation
+[43:10](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=2590s) Discussing The Integration Of Ai Projects With Singularity Net
+[48:02](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=2882s) Discussion On Creating New Projects And Using The Miscellaneous Pool
+[50:17](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=3017s) Deep Funding Pools Provide Financial Support For Project Development.
+[55:43](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=3343s) Introduction Of The Miscellaneous Pool To Promote Community Creativity
+[58:14](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=3494s) Proposal And Voting Without Guard Rails As An Experiment
+[1:03:16](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=3796s) Creating An Rfp Advisory Board For Rfp Selection Process And Budget Allocation.
+[1:05:41](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=3941s) Importance Of Rfp Specification And Limiting The Number Of Rfps
+[1:10:17](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=4217s) Community Driven Rfp And Transition To Organic Rfp Process
+[1:12:36](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=4356s) Rfps And Pools Discussion
+[1:18:27](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=4707s) Contributors Rewarded With Logo Merchandise And Potential Expert Review Group Invitation.
+[1:21:27](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=4887s) Opportunity For Agix Reward And Expert Review Groups Participation
+[1:26:08](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=5168s) Different Funding Mechanisms Have Varying Financial Requirements
+[1:28:30](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=5310s) Setting Budget And Balancing Requirements In Rfps
+[1:33:19](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=5599s) Difference Between Rfps Based On Idea Focus And Detailed Specifications
+[1:36:04](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=5764s) Community-driven Proposal Submission And Award Process
+[1:41:10](https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC\&t=6070s) Appreciation For Community Participation
+
+#### Town Hall Summary:
+This Town Hall was mainly an outline of the timeline and rules for Deep Funding Round 4.
+
+
+#### Keywords/tags:
+- topics covered: decentralized AI, Web3, deep funding round 4, Deepfunding proposal platform, expert reviews, community, funding pools, AI marketplace, Proposal eligibility, review, Proposals, Miscellaneous, Miscellaneous pool, creativity, voting, testing voting behaviours, RFP, RFP advisory board, Community RFPs, timeline, Deepfunding Round 4 timeline, RFP design pool, knowledge graph
+- emotions: monologue, long, detailed
 
 
 ## Friday 19th April 2024
