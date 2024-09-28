@@ -200,6 +200,7 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 
 ## Thursday 25th April 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -264,6 +265,51 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: context-setting docs, Q2 budget decision process, survey , Onboarding sessions, Education Guild, onboarding journeys, Proposals, Discord, Discord walkthrough, privacy, Education material, Video upload, Treasury
 - emotions: informative, concerning, tense
+
+
+
+### Deep Funding Town Hall
+
+- Type of meeting: Biweekly
+- Present: jay05|judithW, Rafael Presa [facilitator], CallyFromAuron [documenter], jay05|judithW, Clement Umoh, Rafael Presa, Kenric Nelson, Juan Pablo Barea, XyrisKenn, Boaz, Billy, ben, PureRelativity(Curtis), Duke, 5oundwave5, Ale Marin, Jan Horlings, Haley Lowy, WaKa, Sucre n Spice, Daniel, Robert Bedoya, oep, Headelf, others unknown
+- Purpose: DeepFunding Town Hall is a fortnightly meeting led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.
+- Town Hall Number: 31
+
+#### Timestamped video:
+{% embed url="https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx" %}
+
+[00:03](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=3s) Intro
+[02:56](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=176s) Understanding The Funding Proposal Process
+[08:57](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=537s) Understanding Funding Allocation Based On Available Budget
+[12:06](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=726s) Platform Evolving For Better Connections
+[17:54](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=1074s) New Project Funding Details
+[20:26](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=1226s) Craft Concise And Detailed Descriptions For Your Project.
+[25:40](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=1540s) Key Factors For Increasing Chances Of Funding
+[28:13](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=1693s) Opportunity For Revenue Sharing With Deep Funding Program
+[33:50](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=2030s) Payment Upon Completion Of Milestones
+[36:31](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=2191s) Understanding Project Descriptions And Ideation Is Key To Increase Chances Of Funding.
+[41:26](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=2486s) Building Alignment With Sponsors Is Crucial For Funding Success.
+[43:42](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=2622s) Importance Of Demonstrating Past Work And Project Roles
+[48:29](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=2909s) Significant Growth In Sales And Projects With Deep Funding
+[51:07](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=3067s) Networking Is Crucial For Successful Funding.
+[56:02](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=3362s) Utilizing Previous Experience And Partnerships In Singularity Net Proposal
+[57:58](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=3478s) Diverse Experience In Ai Development And Funding Process
+[1:01:57](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=3717s) Showing A Personal Connection To The Project Is Most Successful For Getting Funded.
+[1:03:54](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=3834s) Different Proposals Focused On Varied Areas For Better Community Appeal
+[1:08:12](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=4092s) Build Connections Through Teamwork And Discord
+[1:10:27](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=4227s) Visibility And Trust Are Crucial For Funding Success
+[1:15:19](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=4519s) Understanding The Two Levels Of Proposal Reviews
+[1:17:45](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=4665s) Quality Assessment By Community Experts
+[1:22:37](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=4957s) Deep Funding Requires Alignment With Singularity Net's Mission And Vision
+[1:25:05](https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx\&t=5105s) Deep Funding Aims To Create A Community Of Builders
+
+#### Town Hall Summary:
+This Town Hall was mainly a discussion of the proposal submission process, and how to maximise your chances of getting funded in Deep Funding round 4
+
+
+#### Keywords/tags:
+- topics covered: proposal submission, deep funding round 4, Budget , Deepfunding proposal platform, revenue sharing, AI marketplace, milestones, networking, personal connection, Discord, visibility, trust, alignment, mission and vision, Singularitynet mission, Rewards
+- emotions: monologue, in depth, detailed, step by step
 
 
 ## Friday 26th April 2024
