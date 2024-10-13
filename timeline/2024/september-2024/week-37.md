@@ -6,6 +6,7 @@ description: Mon 9th Sep - Sun 15th Sep 2024
 
 ## Monday 9th September 2024
 
+
 ### Treasury Policy WG
 
 - Type of meeting: Biweekly
@@ -65,6 +66,99 @@ description: Mon 9th Sep - Sun 15th Sep 2024
 
 #### Keywords/tags:
 - topics covered: Miro Board, Treasury Policy, Ratification, Sentiment
+
+
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, Gorga, Ese Williams, Yemi Solves, Guillermo, King David, Kateri, Hogantuso, Photogee, Vasu, Billy
+- Purpose: Regular meeting of Strategy Guild.
+- Working Docs:
+  - [Strategy Guild Meeting Notes - 2nd September 2024](https://docs.google.com/document/d/1HdLjxBLdx5_M46HtLjgoqcpJQu1OSn2L7Z9VVK-pwoI/edit#heading=h.6fyp3cl3ve7w)
+  - [Strategy Guild 9th September Meeting Agenda](https://docs.google.com/document/d/1Q-1XBPEI9D2K3DGvTMWp8_Vuj69T8xFIGpms9fYfDyk/edit)
+  - [Strategy Guild Meeting Notes - 9th September 2024](https://docs.google.com/document/d/1-cYP1zBwqZzTv05wz2BTM79ziCIhZEEJ9jELivVIupU/edit#heading=h.6fyp3cl3ve7w)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Report: Strategy Guild Workshop Q3 2024](https://docs.google.com/document/d/1s5NjLoXFrUtlMmLtoabYWAHEyPnT7C535A9edSmTFcw/edit#heading=h.rrkpida8lqgw)
+  - [Strategy Workshop Sessions (Report and Analysis)](https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0)
+  - [Strategy Guild Q4 Budget Draft](https://docs.google.com/spreadsheets/d/1fs4p6fR13u0OEPiDSmd8Q3iSW-M-UjUN2ho0AHUOKM8/edit?gid=0#gid=0)
+
+#### Narrative:
+INTRODUCTION - The purpose of this meeting is to discuss the draft Strategy Guild Q3 Report and Q4 Budget proposal
+
+
+ACTION ITEMS CHECKBOXES FROM THE LAST MEETING -  Ayo led this. Items DONE were closed and others were left OPEN:
+
+1. Continue contribution to the Guild’s working document [OPEN]
+
+2. Gorga to create a poll in Discord for other people to vote on the preferred meeting schedule for the guild [DONE]
+
+3. Effiom to draft and share last meeting summary [DONE]
+
+4. Yemi to follow up with other Gs/WGs representatives who are yet to fill out the form [DONE]
+
+5. Continue working on the Strategy Guild Q3 Report and Q4 Budget proposal async [DONE]
+
+6. Adopt Last Meeting Notes - 02.09.2024 [DONE]
+
+
+
+ONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, Photogee met all the core membership requirements but no new person indicated interest in the document.
+
+Ayo advised those who have indicated interest in becoming members of the Guild but are yet to meet all the requirements, to ensure to update their records as they meet the pending requirements.
+
+
+
+GORGA ALLEGATIONS ON PARTICIPATION OPPORTUNITIES IN THE GUILD - Gorga highlighted his concerns which were mostly about the Q4 budget:
+* The Q4 budget doesn’t completely explain how tasks will be carried out
+
+* Q3 wasn’t transparent citing the example of the availability of the meeting notes which were meant to be made available in Discord before the meeting but are only shared in the meetings
+
+* Hopes that in Q4 other members will get to prepare meeting agendas, facilitate meetings, and also create meeting notes
+
+Ayo responded to these claims, citing that:
+
+* The Guild restarted its operations in Q3, and just like other Guilds in which Gorga is a member, he got to contribute in the following quarter and not the first quarter he joined
+
+* Members who were contributing majorly were those that understood the Q3 budget and were present during the approval process, hence it was easier for them to take part in the activities this quarter
+
+* He stated that members were asked to indicate facilitation interest in the working doc, and a roster was being worked on ahead of Q4 using that list
+
+* Gorga contributed to the research and was rewarded as a representative of the WWG during the Q3 workshop
+
+
+
+THE DRAFT Q3 REPORT AND Q4 BUDGET DISCUSSIONS - The Guild’s meeting has been updated to capture the new Bi-weekly schedule. The workshop initiative will continue based on the success of the Q3 workshop. 
+
+
+A.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions.
+
+
+#### Decision Items:
+- Facilitation interest has been suspended, and a roster will be created ahead of Q4
+  - [rationale] This would allow for time to create the roster for Q4
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- The Guild’s meeting would be Bi-weekly going forward, and weekly when workshops are ongoing
+  - [rationale] This was the result from the poll in Discord
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- Continue discussions on the Strategy Guild Q3 Report and Q4 Budget proposal async
+  - [rationale] Since meetings are now Bi-weekly, we would need to have discussions based on the outcome of the consent process
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Continue contribution to the Guild’s working document [status] todo
+- [action] Intending members to update their records in the working document as they meet the Core membership requirements [status] todo
+- [action] Proper documentation of Gorga’s allegation for further discussions [status] todo
+- [action] Effiom to draft and make meeting notes available [status] todo
+- [action] Submit the Strategy Guild Q3 Report and Q4 Budget before the deadline [status] todo
+
+#### Keywords/tags:
+- topics covered: Guild Membership, Workshop, Core Membership, Q3 Report, Feedback Systems, Q4 Proposal and Budget, Meeting Schedule, Allegations, Facilitation, Documentation
+- emotions: inclusive, decisive, Collaborative, fun, interesting
 
 
 ## Friday 13th September 2024
