@@ -415,6 +415,7 @@ Finally AOB and conclusions
 - emotions: interesting, funny , long, long agenda
 ## Friday 7th June 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -437,3 +438,7 @@ Finally AOB and conclusions
 #### Keywords/tags:
 - topics covered: social media management, Task Assignment, Zealy, Liaison, Video Edit, Weekly updates
 - emotions: Casual, speedy , productive, Organised
+
+### Writers Workgroup
+
+No Summary Given
