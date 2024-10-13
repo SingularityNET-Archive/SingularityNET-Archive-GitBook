@@ -6,6 +6,7 @@ description: Mon 10th Jun - Sun 16th Jun 2024
 
 ## Monday 10th June 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -77,6 +78,12 @@ Should we meet again on the 24th and 26th of June for this quarter? We will see 
 #### Keywords/tags:
 - topics covered: AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership
 - emotions: participatory, excited, forward planning
+
+
+
+### Strategy Guild
+
+No Summary Given 
 
 
 ## Tuesday 11th June 2024
