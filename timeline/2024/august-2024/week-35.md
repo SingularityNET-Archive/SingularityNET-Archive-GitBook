@@ -4,6 +4,97 @@ description: Mon 26th Aug - Sun 1st Sep 2024
 
 # Week 35
 
+## Monday 26th August 2024
+
+### Strategy Guild
+
+- Type of meeting: Weekly
+- Present: Ayo [facilitator], Effiom [documenter], Ayo, Effiom, Gorga, Yemi, Photogee, Merryman, Billy, Tuso, Ese Williams, Mikasa, Eric Davies
+- Purpose: Strategy Guild Workshop Feedback Session
+- Other media: [Link](https://app.read.ai/analytics/meetings/01J67QNEZ1761QSRGVA0T2DAZ3?utm_source=Share_CopyLink)
+- Working Docs:
+  - [Strategy Guild Meeting Notes - 19th August 2024](https://docs.google.com/document/d/1ZpiMlAUHPtIt8PGFK4xwb56NWYv4i5u0VmGeK9blR5Q/edit)
+  - [Strategy Guild 26th August Session Agenda](https://docs.google.com/document/d/1vIlcZRzozh6NOb25JtLo5mH7g-4YPMXVj5w5JTcLEYE/edit#heading=h.shxqnobd9709)
+  - [Strategy Guild Meeting Notes - 26th August 2024](https://docs.google.com/document/d/1u-HgM64X4Bj_A8zwd41EKd6e_QXELriB5zwJ3JBpkKo/edit)
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing)
+  - [Strategy Guild Membership](https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit)
+  - [Report: Strategy Guild Workshop Q3 2024](https://docs.google.com/document/d/1s5NjLoXFrUtlMmLtoabYWAHEyPnT7C535A9edSmTFcw/edit#heading=h.rrkpida8lqgw)
+  - [Strategy Workshop Sessions (Report and Analysis)](https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0)
+  - [Strategy Guild  Workshop Ideation Session Questions Framework](https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/edit)
+  - [Workshop Ideation Session Notes: Strategy Guild 29th July 2024](https://docs.google.com/document/d/1Qz2WiEmTZYOEPhOVdYl_VY_U_YmdHXap_AehXLqycko/edit#heading=h.6fyp3cl3ve7w)
+  - [Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One](https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit)
+  - [Notes: Strategy Guild Workshop Day Three Solution Framework Session Two](https://docs.google.com/document/d/1WinQlmlKoJY_P6DQ81QulCgpQcb70VrywjJeboY0jKE/edit)
+  - [Strategy Guild Workshop Day Four Solutions Adoption Framework](https://docs.google.com/document/d/1PwLP-zhdjkRJNzqfxftwKvTlcHY06kQMmn05BBFzTrw/edit)
+  - [FEEDBACK SURVEY FORM (WORKSHOP SESSIONS)](https://forms.gle/26PQLtzKGqGb7FNNA)
+
+#### Narrative:
+INTRODUCTION - The purpose of this meeting is on the Strategy Guild Workshop Feedback, the Rest of Q3, the Q3 Report, and the Q4 Budget.
+
+
+ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:
+
+1. Everyone to contribute to the Strategy Guild Working Document [OPEN]
+
+2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]
+
+3. Effiom to draft and share last meeting summary [DONE]
+
+4. YemiSolves to share the final report of the Workshop Sessions [DONE]
+
+5. Adopt Last Meeting Notes - 19.08.2024 [DONE]
+
+
+ONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, 3 new people (Merryman, Mikasa, and Ese) have indicated an interest in becoming core members of the Strategy Guild.
+
+Having met all the requirements, Cjfrankie was welcomed as a core member of the Strategy Guild.
+
+
+THE STRATEGY GUILD WORKSHOP GENERAL DISCUSSION AND FEEDBACK - Participants shared feedback on the Strategy Guild Workshop.
+
+Feedback from Gs/WGs Representatives
+* Feedback from participants is to be shared via form feedback:https://forms.gle/26PQLtzKGqGb7FNNA
+
+
+STRATEGY GUILD WORKSHOP REPORT PRESENTATION [YEMI SOLVES] - The Workshop documenter shared insights from the workshop sessions which are captured in the report.
+
+* Report: Strategy Guild Workshop Q3 2024: https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/
+
+
+DISCUSSIONS ABOUT THE NEXT STRATEGY GUILD WORKSHOP - This would be properly discussed when drafting the Strategy Guild Quarter 4 proposal. Feedback from representatives would greatly inform this discussion.
+
+
+REST OF Q3, Q3 REPORT AND BUDGET DISCUSSIONS - Due to time constraints, this agenda item was moved to the next meeting.
+
+
+A.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions.
+
+
+#### Decision Items:
+- Participants are to share the solutions from the workshop at their respective meetings 
+  - [rationale] Video WG, Writers WG and Marketing Guild representatives who were part of the workshop proposed these solutions
+  - [opposing] None
+  - [effect] mayAffectOtherPeople
+- Q3 Report and Q4 budget discussions moved to 02.09.2024 agenda 
+  - [rationale] Due to time constraints, this agenda item was moved to the next meeting
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+- Continue the conversation on the Strategy Guild Workshop adoption, impact, and Feedback system
+  - [rationale] This conversation should be async preferably
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Continue contribution to the Guild’s working document [status] todo
+- [action] Core members should indicate interest in facilitating the new sheet in the working doc [status] todo
+- [action] Draft and make meeting notes available [assignee] Effiom [due] 2 September 2024 [status] done
+- [action] Add Q3 Report and Q4 budget discussions to the 02.09.2024 agenda [assignee] Ayo [due] 2 September 2024 [status] done
+- [action] Create and share feedback form with Gs/WGs representatives [assignee] Yemi Solves [due] 27 August 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Guild Membership, Workshop Feedback, Core membership, Q3 Report, Feedback Form, Workshop Report, Q4 Proposal and Budget, Feedback System
+- emotions: inclusive, funny , interesting, interactive
+
+
 ## Wednesday 28th August 2024
 
 ### Research and Development Guild
