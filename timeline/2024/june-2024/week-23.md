@@ -193,6 +193,7 @@ How detailed should a budget be? Do we need to give guidance on this? Feedback s
 ## Wednesday 5th June 2024
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -287,6 +288,12 @@ How detailed should a budget be? Do we need to give guidance on this? Feedback s
 #### Keywords/tags:
 - topics covered: Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, agenda creation, GitHub, Workshop, loyalty system, Budget preparation, github board, Disablities
 - emotions: Collaborative, productive, Thoughtful , speedy , Welcoming, Friendly, straightforward
+
+
+
+### Dework PBL
+
+No Summary Given 
 
 
 ## Thursday 6th June 2024
