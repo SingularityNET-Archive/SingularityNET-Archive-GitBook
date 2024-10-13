@@ -7,6 +7,7 @@ description: Mon 3rd Jun - Sun 9th Jun 2024
 ## Monday 3rd June 2024
 
 
+
 ### Treasury Policy WG
 
 - Type of meeting: Weekly
@@ -111,6 +112,12 @@ description: Mon 3rd Jun - Sun 9th Jun 2024
 #### Keywords/tags:
 - topics covered: Miro Board, Onboarding, Reporting, accountability, processes
 - emotions: muddled
+
+
+
+### Strategy Guild
+
+No Summary Given 
 
 
 ## Tuesday 4th June 2024
