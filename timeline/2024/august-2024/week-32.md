@@ -487,6 +487,7 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 ## Thursday 8th August 2024
 
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -584,6 +585,78 @@ Peter indicated that he won’t be available for the 3 Town Halls (20th, 27th, 3
 #### Keywords/tags:
 - topics covered: Budget deficiencies, Budget cuts, Facilitation, Documentation, Town Hall session
 - emotions: Well-attended, Casual, Organised, insightful
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines [**translator**], Guillermo, Ines, Rous, Thiago, Martin Rivero
+- **Purpose:** Alliance Strategy between SingularityNET LATAM & MetaPool /  Operations Updates 
+- **Transcript:** [Link](https://otter.ai/u/iQLp71EjAjorLfwG4PneMYQSERo?view=transcript)
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+  - [Near Protocol](https://x.com/NEARProtocol)
+  - [Near Foundation](https://near.foundation/about/)
+
+#### Agenda item 1 - Agenda Item 1 - Multichain Governance and AI in Web3 - [carry over]
+
+#### Narrative:
+Rous introduced the idea of creating a podcast series in Spanish and Portuguese, focusing on Space-AI governance, multichain governance, and public goods. The proposal included live streaming the series to increase reach and engagement with the audience, while considering workshops, hackathons, or events for further community involvement.
+Thiago discussed the collaboration potential with platforms like Polygon, Solana, and BrazilianCare. There was also emphasis on how MetaPool can contribute through Near Foundation's governance structure. The team explored using Near Foundation's resources to support SingularityNET’s involvement in Near governance, particularly in Brazil.
+
+
+#### Decision Items:
+- Multichain Governance and AI in Web3
+
+#### Action Items:
+- [**action**] Start preparing documentation for the X Spaces [**assignee**] Ines, Guillermo [**due**] 14 August 2024 [**status**] todo
+- [**action**] Contact ParaBuilders Brazil for collaboration [**assignee**] Thiago, ines ganina [**due**] 14 August 2024 [**status**] todo
+
+#### Agenda item 2 -  Communication Strategies - [carry over]
+
+#### Narrative:
+Marketing and Partnerships. Thiago highlighted marketing opportunities, suggesting that SingularityNET could benefit from MetaPool’s presence in Near's governance structure and that MetaPool could assist in growing SingularityNET’s footprint in Brazil. The conversation focused on leveraging partnerships to extend the reach of SingularityNET into Brazil's Web3 ecosystem. Additionally, the idea of a MetaPool Ambassador Program to support the expansion of SingularityNET in the Latin American region was introduced.
+
+
+#### Decision Items:
+- Analyze opportunity to make alliances with MetaPool to create a SingularityNET LATAM DAO
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 3 - Marketing and Social Media Strategies - [carry over]
+
+#### Narrative:
+The team conducted 10 interviews during the ADN event, engaging participants, speakers, and guests. The focus shifted towards post-production and video editing of the interviews. The idea of creating a data blog to share the ADN videos was proposed, and members discussed how to use project management tools to manage tasks for the R&D Guild and Ambassadors. Post produce #FastTalks videos from ADN interviews.
+
+
+#### Decision Items:
+- ADN event post event zction items
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Work on video editing from ADN [**assignee**] Guillermo, Andrea Dekovic [**due**] 8 August 2024 [**status**] done
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Create Dework taks and issues for budget disbursement by the end of month. Track task and deliverables from guild members. Complete operational framework on guild Drive for transparent tracking of tasks and results. 
+
+
+#### Decision Items:
+- Track task and deliverables from guild members
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Final revisions on system for tracking task and deliverables from guild members [**assignee**] Guillermo [**due**] 18 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Roles, Collaboration, Translation, GitHub, ADN, agi-24, Tasks, deliverables, treasury guild operations, transparency 
+- **emotions:** Collaborative, entertaining, challenging, creative, efficient, operations
+- **other:** 
 
 
 ## Friday 9th August 2024
