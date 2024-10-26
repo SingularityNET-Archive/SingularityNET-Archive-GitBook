@@ -331,6 +331,7 @@ Documentation circle and operation: Clement presented the documentation roster a
 ## Friday 23rd August 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -404,3 +405,39 @@ Documentation circle and operation: Clement presented the documentation roster a
 #### Keywords/tags:
 - topics covered: Tool Development, Rewards, Role Proposal Requirements, workgroup updates, Q3 quarterly report, Notion, task force, proof of work
 - emotions: Friendly, Casual, Collaborative, contributive, warm, exploratory
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Cjfrankie  [**facilitator**], LadyTempestt [**documenter**], Kenichi, Mikasa, cjfrankie, LadyTempestt, Gorga Siagian, Advanceameyaw, King David, Emmanuel Isaac, Evelyn Robert, Nebula1224, AJ, merryman, inesgav, Nengi
+- **Purpose:** Weekly meeting of the writers workgroup.
+- **Working Docs:**
+  - [WWG Meeting Agenda: August 23, 2024](https://docs.google.com/document/d/1YZKuvKDKKPwqKWONwJMTubxd9XHS97HxADSFYHJ0dsQ/edit)
+
+#### Narrative:
+The meeting kicked off with Kenichi welcoming everyone to the meeting, which was facilitated by CJ Frankie. We started by checking the action items from the last meeting. Kenichi shared updates on the Zealy sprint: the current sprint has ended and the next one will start by next week. CJ Frankie raised security issues with duplicated and banned accounts on Zealy. 
+
+CJ Frankie and Mikasa apologized for the delay in reviewing Zealy quests from the last sprint.
+
+Town Hall Updates on 27th Aug will cover: ✅Scribblers signposting to WGs they are not familiar with to aid monthly substack. ✅ Zealy sprints update.
+
+Test results: Eve passed, and there are no concluded results on other pupils.
+
+SEO and Keyword Research: Should we make use of it to enhance our articles' reach? There are free and paid tools available. CJ Frankie suggested using keyword research on what is currently trending.  MerryMan suggested incorporating words or media people search for into our articles and internal linking. Ines suggested we define what SEO is all about, and try different ways of writing articles such as “how to" articles or articles with shorter lengths. Gorga said that with trending articles we have to make topics to educate and make people curious, such as education on how AI works in science and math and related to tutorial topics about AI.
+
+
+
+#### Decision Items:
+- We agreed to have Scribblers and Scribes aggregate the WWG tests whenever there is one and give results without having to wait for Kenichi to do so.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Gorga to give Town Hall updates on 27th August 2024 [**assignee**] GorgaSeagian [**due**] 27 August 2024 [**status**] done
+- [**action**] Kenichi to give us an update on the WG’s Q3 report and Q4 budget proposal next week.
+ [**assignee**] Kenichi [**due**] 30 August 2024 [**status**] done
+- [**action**] CJ Frankie to share monthly town hall updates in the WG’s channel today. [**assignee**] Cjfrankie  [**due**] 27 August 2024 [**status**] done
+- [**action**] Kenichi to share the document on the signposting of scribblers/scribes to WGs and Guilds in the channel for everyone to check out. [**assignee**] Kenichi [**due**] 30 August 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Workshop, TH Update, Zealy, WWG Test, SEO, Keywords research
+- **emotions:** contributive, calm, insightful
