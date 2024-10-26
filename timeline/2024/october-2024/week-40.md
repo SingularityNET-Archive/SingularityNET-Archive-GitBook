@@ -6,6 +6,7 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 
 ## Wednesday 2nd October 2024
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -44,6 +45,59 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 #### Keywords/tags:
 - topics covered: meeting frequency, monthly meetings, Q4 budget, async, async working, summary tool redesign, Tool Development, meeting summary tool, good meeting summaries, Ambassador GitBook, open source ethos, open source, Town Hall, Town Hall presentation, GitHub video walkthrough, github board, Marketing WG, Governance workgroup
 - emotions: short, focused, simple, new people present
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], lord kizzy [**documenter**], AJ, Advanceameyaw, lord kizzy, osmium, CollyPride, SubZero, malik, TheFreysDeFi, Slate, Shuling Ding, Billy, Kenichi, guillermolucero
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+  - [Retrospective and Learnings from Q4 R&D New Operations Systems](https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- R&D New Operations System Retrospective
+- Collective decision Guild Members on the Entity connections
+- Proposal voting results
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.
+- UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database: AJ highlighted that they had completed the issues of hosting and it's all good from their end. Due to some difficulties in presentation, Guild members have asked to team to create a walkthrough video for the townhall presentation.
+- UPDATE STATUS ON DEVELOPMENT: Legacy system: kenichi noted that he needed to have a call with his team on the first iteration, making sure the UI/UX of the platform is ready, so that work can commence on the backend. Their plan is to get the Soul Bound Tokens modeled and optimize their first NFT. 
+- Proposal voting results: We had a total of 29 votes (3 votes came after the deadline). We will go through them to ensure voters were core contributors, and present the proposals that pass the voting quorum and will be funded for this Quarter. Once all is sorted out, the marketing guild will help push out the results on our socials.
+- Discussions on R&D New Operations System Retrospective: Guillermo presented the R&D New Operations System Retrospective document that will be used to gather feedback from the community to group, and in the next call, we can have an interactive session where members can provide feedback on the system. Here is the Doc: https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing
+
+- Discussion on the Collective decision for Guild Members on the Entity connections: Guillermo indicated that a call was held to review the milestone deliverables on the project so far and noted that only 15-20% of the entire project deliverable has been submitted in the repository. He is going to present a report on the call, so that members can take a collective decision.
+
+#### Decision Items:
+- We decided to approve the 3 votes that came in after the deadline
+  - [**rationale**] members felt they should be included since they don't have any significant impact to the results of the votes
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Duke to give the presentation of the Ideation Project on Impact of Lingual Differences [**assignee**] Duke [**due**] 8 October 2024 [**status**] in progress
+- [**action**] AJ, Emmanuel and kenichi to provide a video showing the final deliverables on the skill database proposal [**assignee**] AJ, Emmanuel(advanceameyaw), Kenichi [**due**] 8 October 2024 [**status**] todo
+- [**action**] AJ, ameyaw, kenichi to give a 3-minute presentation for the final deliverables on CSDB and Legacy system at Townhall [**assignee**] AJ, Advanceameyaw, Kenichi [**due**] 8 October 2024 [**status**] todo
+- [**action**] Guillermo to present a report on the discussion on the review of the Entity connections [**assignee**] Guillermo [**due**] 8 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, Marketing initiative
+- **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
+
+
 ## Thursday 3rd October 2024
 
 ### Governance Workgroup
