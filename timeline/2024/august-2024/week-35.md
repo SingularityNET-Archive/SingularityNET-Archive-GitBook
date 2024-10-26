@@ -220,6 +220,92 @@ Members discuss and explore options for collaboration systems over voting system
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, Documentation, voting, skills database, access
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly
+## Thursday 29th August 2024
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Sergio [**documenter**], Ines [**translator**], Guillermo, Martin Rivero, Sergio, Clement Umoh
+- **Purpose:** Adjustment of operations for September, the final month of Q3
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+  - [Near Protocol](https://x.com/NEARProtocol)
+  - [Near Foundation](https://near.foundation/about/)
+  - [ingularityNET LATAM Social Media Handles GitHub Document](https://github.com/singularitynet-latam-ambassador/outreach/blob/main/social-media/Ambassadors_SocialMediaHandles.md)
+  - [Superintelligence Alliance Doc](https://docs.superintelligence.io/artificial-superintelligence-alliance)
+  - [@SNET_Latam + MetaPool Latam](https://docs.google.com/document/d/1lHU_9iuzzDdUNuBW2jU73DZ0-jpbm4JlRQ5huVY7Bjg/edit)
+
+#### Agenda item 1 - Agenda Item 1 - Operations Q3 - [carry over]
+
+#### Narrative:
+The team discussed the need to optimize task development, including documentation and role assignments, to ensure timely progress and the achievement of Q3 objectives. Community members showing interest and participating in activities will be considered when assigning roles to avoid delays. Starting today, Sergio will assist with meeting summaries.
+
+
+#### Action Items:
+- [**action**] Prepare for the first live stream on September 4 [**assignee**] Ines [**due**] 26 August 2024 [**status**] in progress
+- [**action**] Continue designing the decentralized governance topics for discussion [**assignee**] Guillermo, Ines, Martin Rivero [**due**] 25 August 2024 [**status**] done
+- [**action**] Follow up on Martín's missing tokens [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] done
+- [**action**] Prepare content for the live space with MetaPool, regardless of their final decision [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] cancelled
+- [**action**] Divide tasks for members of the workgroups Q3/Q4 [**assignee**] Guillermo, ines ganina [**status**] todo
+
+#### Agenda item 2 - Marketing Strategic Communications - [carry over]
+
+#### Narrative:
+The team finalized plans for the upcoming X-Space on September 4th. Although the initial idea stemmed from discussions with MetaPool, this first space will be developed solely by SingularityNET. X-Spaces will occur monthly, with additional biweekly spaces when relevant news or events arise to update the ecosystem.
+First X-Space re schedule on September 12th, 21:00 UTC | 18:00 Arg. Topic: Governance and Global Ethics: "Governance and decision-making systems in relation to AI developments and advances".
+
+
+#### Decision Items:
+- Host monthly X-Spaces with biweekly updates as needed
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Replicate and translate content across channels [**assignee**] Ines [**due**] 25 August 2024 [**status**] in progress
+- [**action**] Manage the Twitter account in Portuguese, publishing content on Tuesdays and Thursdays [**due**] 28 August 2024 [**status**] todo
+- [**action**] Finalize the name for the monthly Space X event [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] done
+- [**action**] Develop Program for X space Sept 12 Governance and Global Ethics: "Governance and decision-making systems in relation to AI developments and advances" [**assignee**] Guillermo, Ines [**due**] 9 September 2024 [**status**] todo
+
+#### Agenda item 3 - Planning Future Spaces and Events - [carry over]
+
+#### Narrative:
+The team reviewed the topics and schedule for the upcoming live streams and events. Each topic will focus on decentralized AI governance and related themes:
+First X-Space on September 12th, 21:00 UTC | 18:00 Arg. Topic: Governance and Global Ethics: "Governance and decision-making systems in relation to AI developments and advances"
+Second X-Space on October 26, 21:00 UTC | 18:00 Arg. Topic: Impact of AI on Biotechnology
+OpenCog Hyperon / Artificial Intelligence (Date TBD - Ines)
+They also discussed the importance of spreading SingularityNET compute decentralization globally and revisited the idea of creating collaboration and consensus systems instead of traditional voting systems.
+
+
+#### Action Items:
+- [**action**] Invite participants for the first live stream space on September 4 [**assignee**] Ines, Martin Rivero [**due**] 21 August 2024 [**status**] in progress
+- [**action**] Write a blog post about the growth event and Ambassador role [**assignee**] Martin Rivero [**due**] 25 August 2024 [**status**] in progress
+- [**action**] Create FAQ section for the @SNET_Latam Community page [**assignee**] Martin Rivero, Guillermo [**due**] 1 September 2024 [**status**] in progress
+- [**action**] Prepare content for upcoming spaces on AI governance and biotechnology [**assignee**] Martin Rivero [**due**] 28 August 2024 [**status**] in progress
+- [**action**] Create call2action material for the X-Space call [**assignee**] Guillermo [**due**] 9 September 2024 [**status**] todo
+
+#### Agenda item 4 - Governance Sub-Group - [carry over]
+
+#### Narrative:
+The team reviewed pending decisions related to governance, particularly the development of a token within the Cardano ecosystem. Martín has been exploring different platforms for this, but a final decision has not yet been made.
+
+
+#### Decision Items:
+- Continue evaluating platforms for token development and finalize the decision at the next meeting
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Explore options for collaboration systems over voting systems [**assignee**] Martin Rivero, Guillermo [**due**] 28 August 2024 [**status**] in progress
+- [**action**] Schedule a governance meeting for September 10th to finalize the platform selection for token development [**assignee**] Guillermo, Ines [**due**] 9 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Content Calendar, Educational Content, Q4 Roadmap, treasury guild operations, X-Spaces, Token Development, Governance, AI ethics, Live Stream, Team Work, Multi-language Communication, Platform Evaluation
+- **emotions:** Collaborative, Strategic, Task-focused
+- **other:** 
+
+
 ## Friday 30th August 2024
 
 
