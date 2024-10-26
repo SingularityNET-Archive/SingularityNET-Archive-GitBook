@@ -83,6 +83,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 
 ## Tuesday 13th August 2024
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -135,6 +136,85 @@ Timeline has been established in today's Governance WG call for the Q4 budget de
 #### Keywords/tags:
 - topics covered: AGI-24, conference, chillout, chill room, AI Ethics WG, Budget , Documentation, training, Onboarding WG, token price, budget constraints, consent process, Q4 budget decision
 - emotions: relaxed, brief, short, friendly 
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines [**translator**], Guillermo, Ines, Martin Rivero, Caue
+- **Purpose:** Alliance Strategy between SingularityNET LATAM & MetaPool /  Operations Updates 
+- **Transcript:** [Link](https://otter.ai/u/iQLp71EjAjorLfwG4PneMYQSERo?view=transcript)
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+  - [Near Protocol](https://x.com/NEARProtocol)
+  - [Near Foundation](https://near.foundation/about/)
+  - [ingularityNET LATAM Social Media Handles GitHub Document](https://github.com/singularitynet-latam-ambassador/outreach/blob/main/social-media/Ambassadors_SocialMediaHandles.md)
+
+#### Agenda item 1 - Agenda Item 1 - Review of Tasks and Workshop Progress - [carry over]
+
+#### Narrative:
+Guillermo and Caue reviewed tasks completed in May and June, including translations and workshop activities. The discussion centered around the importance of rewarding participation in meetings with a minimum of $10 USD, and assigning tasks afterward via DeWork. They also reviewed the operations document, ensuring tasks and values assigned to Guild members were clearly traced and validated. Opeartions and budget allocation and disbursement for guild members. Review of operations system and track files. 
+
+
+#### Decision Items:
+- Opeartions and budget allocation and disbursement for guild members
+
+#### Action Items:
+- [**action**] Start preparing documentation for the X Spaces [**assignee**] Ines, Guillermo [**due**] 14 August 2024 [**status**] done
+- [**action**] Contact ParaBuilders Brazil for collaboration [**assignee**] Thiago, ines ganina [**due**] 14 August 2024 [**status**] done
+- [**action**] Final revision of tasks and deliverables and assets disbursement  [**assignee**] Guillermo, Martin Rivero [**due**] 19 September 2024 [**status**] todo
+
+#### Agenda item 2 -  Communication Strategies - [carry over]
+
+#### Narrative:
+Inés contributed translations for articles, which were discussed for publication across platforms, with no ethical concerns raised. Additional translations of Twitter, LinkedIn posts, and articles will be transferred to TikTok by Caue, though it was noted that videos have excessive noise, requiring improvement.
+
+
+#### Decision Items:
+- Decisions TBD on media preferences and focus
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Final revision on material en deployment of media actions [**assignee**] Ines, Guillermo [**due**] 15 September 2024 [**status**] todo
+
+#### Agenda item 3 - Marketing and Social Media Strategies - [carry over]
+
+#### Narrative:
+Caue proposed unifying the handles for Instagram, TikTok, and Twitter, with the Twitter account renamed to “SingularityNET LATAM Community.” Martín shared his experience from the Aleph Growth event, where he presented SingularityNET and Deep Funding, and reviewed his involvement in the ADN event.
+
+
+#### Decision Items:
+- ADN event post event zction items
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Blog for AGI-24 & translations of the summary Andrea wrote [**assignee**] Guillermo, Ines [**due**] 8 August 2024 [**status**] done
+- [**action**] Create a list of articles for Caue to translate and publish [**assignee**] Ines [**due**] 16 September 2024 [**status**] todo
+- [**action**] Upload 3 videos of the ADN event to TikTok [**assignee**] Caue [**due**] 15 September 2024 [**status**] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Members showcase deliverables and follow up Next month improvement work on GitHub. Guillermo shared operational framework for guilds followup on google account.
+
+
+#### Decision Items:
+- Track task and deliverables from guild members
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Final revisions on system for tracking task and deliverables from guild members [**assignee**] Guillermo [**due**] 18 September 2024 [**status**] in progress
+- [**action**] Creating tasks on DeWork for Guild members [**assignee**] Guillermo [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Roles, Collaboration, Translation, GitHub, Tasks, deliverables, transparency , ADN-Event, Decentralized Science, Workshops, Rewards, Social Media Strategy
+- **emotions:** Collaborative, challenging, creative, Friendly, productive, Reflective, Task-focused, efficient
+- **other:**
 
 
 ## Wednesday 14th August 2024
