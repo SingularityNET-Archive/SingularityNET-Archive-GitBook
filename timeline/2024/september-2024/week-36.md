@@ -391,6 +391,49 @@ Q4 budget:
 #### Keywords/tags:
 - topics covered: Q4 2024 budget, q3 2024 report, Town Hall, Ubio, open source ethos, read.ai, Ethics, training, documentation training, Budget cuts, GitHub video walkthrough, Core activities, Outreach, education, community engagement, Google Docs, google doc export, Correcting errors in meeting summaries, tool redesign
 - emotions: despondent, disheartening, Discursive, Thoughtful , budget request problems , limited, restricted
+## Friday 6th September 2024
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Advanceameyaw, Nebula, King David, Emmanuel Isaac, Nengi, Inesgav
+- **Purpose:** Weekly meeting of the writers' workgroup, focused on the Q4 budget discussion.
+- **Working Docs:**
+  - [DRAFT: WWG Q3 Report ](https://docs.google.com/document/d/1cqzXDc73Fx1eZdQlEA8lj9YBag-h6Zj9Si9bI18hQLY/edit)
+  - [DRAFT: Budget Proposals Sheet: Q4 Writers Workgroup ](https://docs.google.com/spreadsheets/d/1LDOqqcp3bQFgQFdzn2hgZsBl47WMBX0HJ4_DJzOVyIw/edit)
+
+#### Narrative:
+The meeting started with Kenichi welcoming everyone, and then he highlighted the meeting agenda; we ticked off the action items for the last meeting, and the meeting kicked off properly.
+
+Momentarily, with screen sharing, we began to tackle the Q4 budget draft. Although there is a significant decrease in the amount, WG members (Lady Tempestt and Devon) shared their concerns and thoughts on some of the deliverables. The meeting featured a discussion on Gorga’s initiative, which aims to expand the reach of SingularityNET in Indonesia through X (formerly Twitter). Many were of the opinion that we should implement the idea in Q1 2025 given the fact that AGIX is dropping and with a concern about the Q4 allocation not being able to sustain the WG. Following that, Lady Tempestt suggested that Kenichi give Gorga a KPI tracking matrix for the proposed initiative. Inés supported Gorga’s idea, and she suggested that the French X page could be suspended to give Gorga a chance. As a matter of finality, Kenichi added that the French page could still be functional regardless; he also said that we could still go forward with the Indonesian page as it might perform better than we expected.
+
+Kenichi spoke about the August points system allocation, highlighting that the payout was pretty low due to the AGIX price decline.
+
+Kenichi also talked about the “We Are Reading" Series by Inés. He expresses his love for the previously published series. He added that he’d glance through Inés’s latest submission while having Mikasa make a thread for it.
+
+
+
+#### Decision Items:
+- Due to the AGIX token decline, we have decided that the WWG onboarding window will be closed after September 2024 until further notice.
+
+  - [**rationale**] We wouldn't like the fact of having people around without engaging them with tasks.
+  - [**effect**] affectsOnlyThisWorkgroup
+- One of our biggest visions of the WWG is to begin a podcast series; however, we have decided to push the idea to the marketing guild, and we’re looking forward to having 4 episodes in Q4.
+
+  - [**rationale**] Everybody agreed because the WWG Q4 budget won't be able to handle the podcast.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Following a discussion on AGIX token price, Kenichi decided that the SingularityNET ecosystem page should get more attention moving forward to keep readers engaged. Following that, he also pointed out that some tasks will be uploaded on Dework without any reward until Q4 kicks in.
+  - [**rationale**] Since the community page has more interactions, we should focus on the ecosystem page moving forward so the page won't be left out.
+
+#### Action Items:
+- [**action**] Kenichi to give Eve the Scribbler tag. [**assignee**] Kenichi [**due**] 13 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Marketing Guild, X/Twitter, Indonesian X page, French X page, podcasts, AGIX, Zealy, LatAm, community page, Twitter threads, WWG Test, social media, Points system, Q3 report, Q4 budget
+- **emotions:** interactive, insightful, informative, speedy 
+- **other:**
+
+
 ## Saturday 7th September 2024
 
 ### Video Workgroup
