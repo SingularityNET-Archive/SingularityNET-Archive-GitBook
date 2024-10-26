@@ -257,6 +257,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 
 ## Friday 13th September 2024
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -295,6 +296,39 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 #### Keywords/tags:
 - topics covered: Rewards, Budget fitting, Zealy, Zealy quest, Zealy Updates, Collaboration, Roles, mentorship, governance WG, budget fitting, Mastodon, LinkedIn
 - emotions: Organised, informative, interactive, productive
+
+
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Photogee, esewilliams, Advanceameyaw, Cjfrankie, Kareem, hamzat, malik, lord kizzy, Mikasa, Kenichi
+- **Purpose:** Marketing Guild weekly meeting
+#### Discussion Points:
+- Q3 Report: CJ Frankie has completed the Q3 report.
+- Community Initiative: Graphics team have successfully developed an initial design for our community initiative.
+- Q4 Budget: Q4 budget has been submitted by Lord kizzy
+- Q4 Budget: General position of our budget within the ecosystem
+- Governance Structure: Discussion on the need for a better governance structure for the Ambassador Program as a whole.
+
+
+#### Decision Items:
+- Marketing guild will propose improvements to the governance structure (ambassador program improvement proposal).
+  - [**effect**] mayAffectOtherPeople
+- All ideas will be presented to the workgroup before the proposal is sent out
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Kenichi to begin adding everyone to the materials for the Notion migration. [**assignee**] Kenichi [**status**] in progress
+- [**action**] Ayo to put together his thoughts in the form of a proposal for the governance system. [**assignee**] Ayo [**status**] in progress
+- [**action**] All members should fine-tune their thoughts and submit to Kenichi on the proposal for the governance system.
+
+ [**assignee**] All Members, Kenichi [**status**] in progress
+- [**action**] Kenichi to coordinate people to work on the review structure for committee proposals. [**assignee**] Kenichi [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Governance, Ambassador Program marketing, Q4 2024 budget, Notion, Proposal
+- **emotions:** Thoughtful, engaging, Deliberative, differing opinions, good to hear differing opinions
 
 
 ## Saturday 14th September 2024
