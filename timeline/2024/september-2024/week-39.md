@@ -239,6 +239,83 @@ Collective decision Guild Members on the Entity connections
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
 
 
+## Thursday 26th September 2024
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CollyPride [**facilitator**], CallyFromAuron [**documenter**], LadyTempestt, CallyFromAuron, SucrenSpice, kateri, Clement Umoh, lord kizzy, Tuso., CollyPride, TheFreysDeFi, PeterE, Duke
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Working Docs:**
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Q4 Budget proposal](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Onboarding WG Objection Summary](https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Business:
+- We gave the standard reminder for new people to add their skills to the skillshare matrix
+- We agreed the minutes of the last meeting
+- We checked action items from the last meeting
+- We checked facilitation and documentation next meeting
+- Town Hall Updates - we confirmed that Tuso delivered them on the 24th as planned
+- Onboarding Journeys
+- Q4 Budget
+- Github Project Management Training
+- Gorga’s apology
+
+#### Decision Items:
+- Facilitation next meeting: We reassigned Jenn's facilitation role to LadyTempestt
+
+
+  - [**rationale**] because Jenn has not been around much lately; and because she was not present today, so missed the chance to be mentored as a facilitator.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We approved the graphics for the Onboarding Journeys. We decided we will propose a session to share them with the rest of the community on Thurs Oct 10th, at the Open Gov session. This will be led by Duke and ideally Onize as the writer of the scripts, if she is free; with CJFrankie supporting if he's able to be there.
+  - [**rationale**] We agreed some time ago that we want to share the journeys with the wider community in an Open Gov call - looking at the infographics and discussing the barriers we identified and how the community might work to overcome them.
+  - [**opposing**] none, although CJFrankie is unsure whether he'll be free to attend.
+  - [**effect**] mayAffectOtherPeople
+- Budget - we noted that Onboarding WG has passed the consent process, with no objections. However, as budget fitting of around 20% will still be needed, we agreed:
+1) we will move to meeting fortnightly (this will save approx $450 in itself, plus another $350-ish on Dework and Miro work)
+2) we may move part of the research project on "onboarding to decentralisation" to Q1 2025
+3) we may decide to lose or reduce the budget line for contribution to documents
+4) the Focus Group will meet to finalise these issues and will bring a proposal for a fitted budget to the next meeting on 3rd Oct.
+  - [**rationale**] Because the lowering percentage is likely to be around 21%, so we will need to lose around $1,200 from our budget
+  - [**opposing**] no objections, but some concerns raised about postponing the research project any further, since it has already been postponed from Q3 to Q4
+  - [**effect**] affectsOnlyThisWorkgroup
+- GitHub Training session was confirmed for Mon 7th Oct, and is on the Calendar already. There have been some small changes made to the publicity for the session; and the title has been changed from  "GitHub Project Management" to "Project Board Demo".
+Also a Zoom link has been added to the publicity blurb that will be posted.
+  - [**rationale**] Marketing had inflated it to something more extensive than it will actually be (it's not a complete guide to project management), so it has been toned down a bit to avoid giving a false impression.
+  - [**effect**] mayAffectOtherPeople
+- In last week's meeting on Gorga’s allegations against the WG, Gorga agreed to apologise in writing in the WG Discord channel channel, after which we will give our agreed response in writing (i.e. that if he makes any further unfounded allegations, he will be suspended from the WG for a period and will be ineligible for paid tasks). Gorga has not done this yet. We agreed that we would still like him to do so; but that if he does not do so by next week, we will still issue our agreed response in writing
+
+  - [**rationale**] For clarity and transparency.
+
+#### Action Items:
+- [**action**] Next week's facilitator: LadyTempestt. Documenter: Kateri
+ [**assignee**] LadyTempestt, kateri [**due**] 3 October 2024 [**status**] todo
+- [**action**] Tuso will give Onboarding WG town hall updates on the 24th of September.
+ [**assignee**] Tuso. [**due**] 24 September 2024 [**status**] done
+- [**action**] Vani add clarification to the quarterly report about the onboarding work group's purpose;  the purpose of closing the work group; the fact that we ARE tracking numbers of people onboarded and the time it takes; and why we find it valuable to use our shadow-mentorship approach to sharing tasks such as documentation. See https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing  [**assignee**] CallyFromAuron [**due**] 26 September 2024 [**status**] done
+- [**action**] Vani to send the documentation session video to Tevo, and Tevo to upload it to YouTube - see https://youtu.be/sTRa37Hslts [**assignee**] CallyFromAuron, Tevo [**due**] 26 September 2024 [**status**] done
+- [**action**] Peter to add GitHub Project Management Training to the Ambassador account Zoom calendar
+ [**assignee**] Peter [**due**] 26 September 2024 [**status**] done
+- [**action**] Lord Kizzy to coordinate with marketing guild team to create graphics and publicize the GitHub training event on 7th Oct
+ [**assignee**] lord kizzy [**due**] 7 October 2024 [**status**] done
+- [**action**] Photogee to timestamp the recording of the Github Board training session on 7th Oct [**assignee**] Photogee [**due**] 10 October 2024 [**status**] todo
+- [**action**] Vani to contact Onize to ask if she will help lead the session on the Onboarding Journeys on 10th October [**assignee**] callyfromauron [**due**] 30 September 2024 [**status**] todo
+- [**action**] Onyeka to rework the Q4 roster to reflect our decision to meet fortnightly in Q4 [**assignee**] lord kizzy [**due**] 3 October 2024 [**status**] todo
+- [**action**] Colleen to approach Gorga and ask him to post his written apology by the end of the month [**assignee**] CollyPride [**due**] 30 September 2024 [**status**] todo
+- [**action**] Focus Group to do budget-fitting for Q4 budget [**assignee**] Sucre n Spice, LadyTempestt, CallyFromAuron [**due**] 3 October 2024 [**status**] todo
+
+#### To carry over for next meeting:
+- Budget fitting
+- Q4 roster
+- Gorga's apology
+
+#### Keywords/tags:
+- **topics covered:** TH Update, Onboarding Journey Scripts, skills matrix, Onboarding WG Objection Summary, Q4 2024 budget, Q3 2024 quarterly report, GitHub training, GitHub, github board, Budget fitting, apology, allegations, Focus Group, research, Marketing WG, fortnightly, biweekly, meeting dates
+- **emotions:** small, low attendance, chatty, Friendly, analytical
+
+
 ## Friday 27th September 2024
 
 ### Writers Workgroup
