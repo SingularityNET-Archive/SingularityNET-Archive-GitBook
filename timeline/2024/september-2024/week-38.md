@@ -4,6 +4,140 @@ description: Mon 16th Sep - Sun 22nd Sep 2024
 
 # Week 38
 
+## Monday 16th September 2024
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom [**documenter**], effiom, gorga1103, Lady Tempestt, peter, tevo, Yemi Solves
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Meeting video:** [Link](https://youtu.be/UQ3b9IaziAY)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764599759826821&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback (Responses)](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/)
+  - [Some possible approaches to budget fitting](https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/)
+  - [Q4 Consent (Responses)](https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/)
+  - [Ratify Treasury Policy - Slow Start](https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform)
+  - [Context setting for Core Contributor decision on Q4 budgets](https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit#heading=h.miolh5lubdj1)
+
+#### Agenda item 1 - Welcome and Agenda - [resolved]
+
+#### Discussion Points:
+- Overview of the meeting agenda
+- The highlight of the last session of Treasury Policy WG
+- Which agenda items should be recorded?
+
+#### Decision Items:
+- Start recording session after Treasury policy discussions
+  - [**rationale**] This is to ensure the recording focused on discussions aligned with the purpose of the Treasury Guild session
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 2 - Policy Operations - [carry over]
+
+#### Discussion Points:
+- Policy Submission: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/
+- Are there new Policy submissions?
+- Policy feedback: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/
+- Have there been any feedback or enactment for new policies?
+- Updating the color code in the Policy submission sheet and Policy feedback sheet
+
+#### Decision Items:
+- New policies submitted are shared in the Treasury Guild channel and policies moved to ratification are shared in Decision Making channel on Discord
+  - [**rationale**] Message of policies moved to ratification could lead to decision-making
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Provide feedback on existing policies to progress our rule-making [**status**] todo
+- [**action**] Announce the last submitted Policy again [**status**] todo
+
+#### Agenda item 3 - Review Policy results in ratification and plan next steps - [resolved]
+
+#### Discussion Points:
+- How is the new Policy Ratification doing?
+- 2 people submitted consent
+- Should we give it more time?
+- What is the expected quorum?
+- What is the action plan for implementing this if ratified?
+
+#### Decision Items:
+- Everyone can participate but only core contributors count towards ratification and validation results
+  - [**rationale**] Ratification of policies is a decision-making process
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- 10% of core contributors are needed for a quorum. 4 people out of 6 thought 10% was a good number
+  - [**rationale**] It's hard to get over 20% of core contributors to participate in decision-making processes like budget consenting and this would probably be the case here too
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Publish ratification and decision posts in the Ambassador General Discord channel [**status**] todo
+
+#### Agenda item 4 - Review Q4 budgets in general - [carry over]
+
+#### Discussion Points:
+- Should we ask Guilds and WGs to reduce their budget instead of trying to get consent for the ones submitted?
+- Are we learning from previous iterations?
+- How many core contributors have participated so far?
+- Where and How are Invalid objections decided?
+- How does Abstain affect the validation?
+- Budgeting based on Categories of activities done within the Ambassador Program
+- What is mission Critical and How do we define Mission Critical?
+- NEW IDEA - Emergent Categories with Emergent Budget Precents
+
+#### Decision Items:
+- If you Object without a valid rationale, this will be removed from the final calculations
+  - [**rationale**] How a valid reason for objection should be structured was defined in the context setting doc for Q4 
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Take out abstain from percentage calculations
+  - [**rationale**] Abstaining is there to know how many people viewed the form and proposals
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- The majority percentage calculation for iteration 3 only counts from the total consented and objected
+  - [**rationale**] Abstain is not part of the percentage of who decides as it is more of an acknowledgement
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Include new invalid response examples to upcoming context setting doc [**status**] todo
+
+#### Agenda item 5 - Open Topics - General Cost Cutting Discussion - [carry over]
+
+#### Discussion Points:
+- Possible approaches to budget fitting: https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/
+- Should we expect Every WG and Guild to make a new budget sheet that fits to the actual budget-fitting?
+- Q4 Consent (Responses): https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/
+- Where and how do we cut the budget for the Treasury Guild?
+
+#### Decision Items:
+- 2 weeks is not enough to force people to provide new fitted budget
+  - [**rationale**] Based on the timeline of the Q4 budget consent process
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- The budget fitting approach is a good exercise to plan for next quarter
+  - [**rationale**] Most guilds and WGs are already thinking in that direction while preparing their budget
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Regularly review the cost and value of services like the Swarm Treasury Guild to ensure they align with the program's financial goals
+  - [**rationale**] A review of these costs has become a necessity
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Review Treasury Guild Proposal Feedback [**status**] todo
+- [**action**] Budget-fitting for Treasury Guild ahead of Q4 [**status**] todo
+- [**action**] Create a new policy about budget-fitting requirements [**status**] todo
+- [**action**] Miro Board, Policy Submission, Ratification, Budget, Consent, Valid objections, Abstain, Mission critical, Feedback, Quarter 4 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Policy Submission, Ratification, Budget , consent, Valid objections, abstain, Mission Critical, feedback, Quarter 4
+- **emotions:** educational, interactive, interesting, Brainstorm
+
+
 ## Wednesday 18th September 2024
 
 ### Archives Workgroup
