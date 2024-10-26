@@ -221,6 +221,7 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 
 ## Friday 4th October 2024
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -270,3 +271,27 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 #### Keywords/tags:
 - **topics covered:** Rewards, Budget fitting, Zealy Updates, automation tool, Budget cuts, process for shorts
 - **emotions:** informative, interactive, productive, Thoughtful
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** lord kizzy [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Ese Williams, Photogee, Kenichi, Advanceameyaw, Kareem, Cjfrankie, kateri, Mikasa, Moitlheki, lord kizzy, GorgaSiagian, PeterE, Osmium, Effiom, AshleyDawn, guillermolucero
+- **Purpose:** Marketing Guild weekly meeting
+
+#### Discussion Points:
+- Budget: No budget fitting was needed from Kizzy's side as all team members are currently underpaid, and we still have reserves, which will hopefully make up for the cuts
+- Podcast Update: Kenichi presented the forthcoming podcast initiative, showcasing its potential and the plan to leverage Zealy for engagement. He highlighted that intriguing quests submitted by Ese will be added to the board to enhance the initiative's content.
+
+It was noted that the WWG monthly Zealy campaign is on hold, and the new Zealy initiative will be managed by the Marketing Guild.
+
+There will be performance comparisons between the WWG Zealy sprints and the new initiative proposed by Ese, using these results to improve future activities.
+
+
+
+#### Decision Items:
+- The team decided to replace Zealy with the community initiative for now, with the Marketing Guild funding all Zealy activities.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Budget proposal, podcasts, Graphics, Budget fitting, tooling, Zealy, community engagement
+- **emotions:** short, Collaborative, calm, Thoughtful
