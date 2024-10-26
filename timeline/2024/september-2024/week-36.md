@@ -261,6 +261,7 @@ Q4 budget:
 ## Wednesday 4th September 2024
 
 
+
 ### Knowledge Base Workgroup
 
 - Type of meeting: Biweekly
@@ -391,6 +392,62 @@ Q4 budget:
 #### Keywords/tags:
 - topics covered: Q4 2024 budget, q3 2024 report, Town Hall, Ubio, open source ethos, read.ai, Ethics, training, documentation training, Budget cuts, GitHub video walkthrough, Core activities, Outreach, education, community engagement, Google Docs, google doc export, Correcting errors in meeting summaries, tool redesign
 - emotions: despondent, disheartening, Discursive, Thoughtful , budget request problems , limited, restricted
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], lord kizzy [**documenter**], AJ, Advanceameyaw, Clement Umoh, lord kizzy, Yemi Solves, guillermolucero, Nengi, osmium, CollyPride, Kenichi, barnabas, $rojokaboti
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Follow Up > New Operations System Deployment:  Announcements and Follow Up actions, Draft and Set Voting System for Community to select Q4 new proposals, Discuss further upgrades and Challenges
+- Kenichi on NDA for the Legacy project.
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting
+- Guillermo gave an introduction to the new members on the updates from the guild so far.
+- UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameyaw gave updates on the Collaboration Skill Database: the fields have been updated, the expectation is to deliver the tool for testing before Friday, the expectation is to host the database with Rojo's project 
+- UPDATE STATUS ON DEVELOPMENT: Rojo gave updates on the social media automation tool: he notified that he had struggled to get the license due to card issues and hopefully he will get it done before Friday; more expectation on the reporting and documentation.
+- UPDATE STATUS ON DEVELOPMENT: Rojo gave updates on Web 3 Contributions Dashboard: he gave a presentation on the project. He highlighted that a change in username caused an error but hopefully that will be fixed, and he highlighted some features of the tool.
+-  New Operations System Deployment: Guillermo gave a brief summary on the new system and some suggestions were made for the voting process; we went through the eligibility review for new proposals submissions. 
+- Presentation on new proposal:  Research on Ambassador Participation in AI Discussions and Blockchain Preferences within the SingularityNET Ecosystem. Barnabas gave a presentation on the cross-chain interaction between SingularityNet and Cardano; there were many questions on the scope of the project, and the benefits of the project to the Ambassador program. Barnabas will work on the scope of the project and present it in the next meeting.
+- Presentation on new proposal: Contributors' Portal Integrations. Rojo on the continuation of the Web 3 Contributions Dashboard: the project will be called a Web 3 portal, they plan to add new features like the archives Wg having documentation access to the portal, hosting of web app and so much features. They hope to solve the information retrieval process
+- Presentation on new proposal: Legacy 0.1 Milestone 2; Kenichi on the continuation of the Legacy system. There were questions on why the proposal template wasn't used and why there is a change in the proposal; Kenichi highlighted that he couldn't understand the template and he had to submit due to time constraints, and going forward the focus is the design and architecture of the system.
+- Presentation on new proposal: Consensus Dashboard for Quarterly Reports and Budgets; Guillermo presented the proposal for Consensus dashboard for Quarterly budget and voting. The scope of the project aims to streamline the process of creating, reviewing, and finalizing quarterly reports and budget proposals for WorkGroups (WGs) and Guilds within the SingularityNET Ambassador Program. This project will span two quarters, with the first focused on research and ideation to define requirements and design, and the second on development and implementation.
+- Discussions on an NDA for the Legacy project:  kenichi highlighted the need for protecting the code and documentation of the project, and the members agreed to this. 
+- Integration of the ambassador program and deep funding: kenichi presented an initiative on creating a pool in deep funding for ambassador program. Further discussions will be made on this in the next WG syncing call.
+
+#### Decision Items:
+-  We agree to have an NDA for the SBD token project 
+  - [**rationale**] This was done to protect the data and coding 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Lordkizzy to meet up with Duke on the presentation of the Ideation Project on Impact of Lingual Differences [**assignee**] lord kizzy [**due**] 11 September 2024 [**status**] in progress
+- [**action**] kenichi to present the Skeletal framework for the Legacy system. [**assignee**] Kenichi [**due**] 11 September 2024 [**status**] todo
+- [**action**] Team members to update the Repository with a documentation of the progress so far  [**assignee**] AJ, Advanceameyaw, Kenichi, Rojo, WaKa [**due**] 11 September 2024 [**status**] todo
+- [**action**] Guillermo to disburse funds to Rojo for completion of the Web 3 Contributions Dashboard project  [**assignee**] Guillermo [**due**] 11 September 2024 [**status**] todo
+- [**action**] Kenichi and Guillermo to have a call to discuss the report on the deliverable for Q1 milestone on legacy  [**assignee**] Guillermo, Kenichi [**due**] 11 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, Documentation, voting, skills database, NDA, DeepFunding
+- **emotions:** Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly, lengthy, forward-looking
+
+
 ## Friday 6th September 2024
 
 ### Writers Workgroup
