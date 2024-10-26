@@ -6,6 +6,7 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 
 ## Monday 30th September 2024
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -95,3 +96,68 @@ Include bityl metric in Quarter 4 Report [**assignee**] Tevo [**due**] 14 Octobe
 #### Keywords/tags:
 - **topics covered:** Miro Board, Policy Submission, Ratification, Budget, consent, feedback, Quarter 4, Budget fitting, voting, bitly links, policies for budget
 - **emotions:** educational, interactive, interesting, Brainstorm
+
+### LatAm Guild
+
+- **Type of meeting:** One-off event
+- **Present:** Guillermo [**facilitator**], Guillermo [**documenter**], Guillermo, Martin Rivero, Sergio, Rob Intriago, André de Carvalho
+- **Purpose:** Operations for ASI X Solana Copa America AI Track / SNET_Latam Ambassadors Guild and @SIngularityNET  Strategy Alliance Task Force collaboration for the ASI X Solana Copa America AI Track initiative 
+- **Working Docs:**
+  - [ASI X Solana Copa America AI Track](https://drive.google.com/file/d/14CqJzcSaMxj_C4q1X93INio_w7aEWxXy/view?usp=drive_link)
+  - [André de Carvalho CV_2024 ](https://drive.google.com/file/d/14UCwVKrwazp65YIRCgqbkLNIPEpM6MmN/view?usp=drive_link)
+  - [HackPack - AI Track at Solana Copa America Hackathon Building Cross-Chain AI Agents with Fetch.ai and Solana](https://fetch.ai/events/hackathons/solana-hackathon/hackpack)
+  - [https://www.copasolana.com/](https://www.copasolana.com/)
+  - [Opening remarks Guidelines _ ASI X Solana Copa America AI Track  _ 300924](https://docs.google.com/document/d/1FaxN4ptbVAadpBTV6gPwNgylmEP9LY9_bQfj5WcON1k/edit?usp=sharing)
+
+#### Agenda item 1 - Operations ASI X Solana Copa America AI Track initiative. - [carry over]
+
+#### Narrative:
+On September 12th, the SingularityNET Strategic Alliances team requested support from the SNET_LatAm team for the ASI X Solana Copa America AI Track initiative. 'Building Cross-Chain AI Agents with Fetch.ai and Solana'
+
+This hackathon aims to challenge participants to leverage Fetch.ai agent tech and Solana’s blockchain to build applications that automate complex workflows and interactions in decentralized systems. We have outlined three levels of problem complexity—easy, medium, and complex—each presenting its own challenge.
+
+
+In this follow-up meeting, the SNET_LatAm Ambassadors team met with the Strategic Alliances team to finalize the operational strategy for introduction WorkShop for the ASI -fetch.ai- solana-hackathon, which will take effect on Tuesday, October 1st. 
+
+The LatAm team will provide support through communication channels and human resources to assist the Fetch technical team. Their responsibilities will include moderating discussions, serving as intermediaries for participants in Spanish and Portuguese, clarifying questions, and facilitating the exchange of ideas during the virtual Copa America Hackathon.
+
+It was agreed during the meeting that the LatAm team would help with the introduction in Portuguese in charge of Andre and Daniela, supporting Rob and Sergey, who will handle the introductions in English and Spanish. Following the introduction, the team will participate in the first workshop of the event.
+
+Additionally, the LatAm team will document each intervention and action, establish a methodology for tracking action items, and create a form to collect participant inquiries, which will help streamline a funnel of questions and answers.
+
+The amount to be given to the winners will be established and shared by Rob to the ASAP team in order to incorporate it into the communication and the call to action.
+
+At 18:00 UTC RoOb shared a text with the opening remarks for the Workshop. <<Link on top>>
+
+The tentative schedule for Tuesday, October 1st, is as follows:
+
+10:00 AM BRT (UTC-3:00): Opening remarks with Sana Wajid and Alex Blagirev
+10:30 AM BRT (UTC-3:00): "Built on Fetch.ai" session with Abhi
+11:00 AM BRT (UTC-3:00): AI Agents Workshop with Abhi
+The remaining event schedule can be accessed via the hackpack: Hackathon Hackpack.
+
+
+#### Decision Items:
+- SNET_Latam Ambassadors Guild and @SIngularityNET Collaboration for the ASI X Solana Copa America AI Track initiative Operations and Suggestions 
+
+#### Action Items:
+- [**action**] WorkShop Summary, following the LatAm Guild summary template Sergio will participate in the meeting, activating his read .ai and taking complementary notes to make a complete summary with action items and follow up items [**assignee**] Sergio [**due**] 30 September 2024 [**status**] in progress
+- [**action**] Continue designing the decentralized governance topics for discussion [**assignee**] Guillermo, Ines, Martin Rivero [**due**] 25 August 2024 [**status**] todo
+- [**action**] Follow Notes and Participant Questionnaire form [**assignee**] Guillermo, Sergio, Martin Rivero [**due**] 30 September 2024 [**status**] todo
+- [**action**] Follow channel "innovation-lab" in Fetch Discord [**assignee**] Guillermo, Martin Rivero, Sergio [**due**] 30 September 2024 [**status**] todo
+- [**action**] Prices award in $. The amount to be given to the winners will be established and shared by Rob to the ASAP [**assignee**] Rob Intriago [**due**] 30 September 2024 [**status**] todo
+- [**action**] Send first thingtuesday Oct 1, pervious to WorkShop link for online space [**assignee**] Rob Intriago, Guillermo [**due**] 29 September 2024 [**status**] todo
+
+#### Agenda item 2 - Marketing Strategic Communications - [carry over]
+
+#### Narrative:
+The LatAm team will be supporting the communication efforts and call 2 action for participation and event monitoring. Reinforcement of actions, encourage the LatAm community to participate in the event.
+
+
+#### Action Items:
+- [**action**] Send communication and promotional elements of Solana and ASI to translate and amplify the arrival and potential participation [**assignee**] Rob Intriago, Guillermo [**due**] 30 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Educational Content, Participant Questionnaire, content calendar, Prices , Rewards, Copa Solana , Fetch Ai, Teamwork
+- **emotions:** Collaborative, Strategic, Task-focused
+- **other:**
