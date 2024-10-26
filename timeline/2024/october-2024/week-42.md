@@ -68,3 +68,25 @@ We agreed that people will try to come a bit prepared for the first discussion (
 #### Keywords/tags:
 - **topics covered:** Decision Making Process, consent decision making, consensus decision making, advisory decision making, Focus Group, cap, numbers cap, retrospective, capability, decentralised, decentralised community, Core Contributor, conflict resolution, bullying, listening, communication skills, non-directive listening
 - **emotions:** engaging, participatory, well organised, funny , decisive
+## Friday 18th October 2024
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** oep [**facilitator**], Hogantuso [**documenter**], malik, lord kizzy, SubZero, Rojo, lilycupcake, AndrewBen, Zalfred, Hogantuso
+- **Purpose:** Regular weekly meeting of the Video WG. This meeting focused on task updates, automation tool, and budget cuts.
+- **Working Docs:**
+  - [Video Workgroup Budget request Q4](https://docs.google.com/spreadsheets/d/1m3H2V7GPw5XGwpvtB5lizEHwHQTZOCe-_tqDCKysrJU/edit?gid=0#gid=0)
+
+#### Discussion Points:
+- Zalfred provided updates on the task manager role: informing the house that there was not much work done as the role was given three days ago and had engaged in an operational call as the essence is to help the new review members get acquainted with a smooth process as a team, emphasizing communication between the task manager the review team and the video editors; and as he is picking up from where the previous task manager stopped.
+- Lord Kizzy shared the screen and gave a breakdown explanation of the content calendar for the entire ambassador program, sharing the goals and guidelines to get submissions from other guilds and workgroups, making sure they align with the guidelines before being posted or scheduled. We are yet to get information/schedules to complete the calendar from other workgroups. 
+Kizzy did make mention of the weekly recaps on articles and videos going out at the end of every week and looking at opening a channel, having two representatives from each workgroup to track submissions from the workgroup knowing the current status of the workgroup post. having the workgroup social media marketers from the video, writers, and marketing workgroup present giving their ideas and coming up with this information.
+Kizzy also gave an update informing the workgroup on the animation team for the month and how we will go about the subscription process.
+
+#### Action Items:
+- [**action**] Create a pool for members interested in creating animation for the video workgroup to get assigned. [**assignee**] oep [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** social media management, participation, Collaboration, pool, animation, content calendar, writers WG, marketing guild
+- **emotions:** informative, productive, Collaborative, new ideas
