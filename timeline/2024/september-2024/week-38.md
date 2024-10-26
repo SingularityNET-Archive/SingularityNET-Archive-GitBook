@@ -49,3 +49,37 @@ Some changes have already been made: the interface is more mobile-friendly; ther
 #### Keywords/tags:
 - topics covered: open source, open source ethos, meeting summary tool, API key, Tag taxonomy, community owned, meeting summary tool redesign, Town Hall presentation, Presentation, tags
 - emotions: Organised, cheerful, short
+## Friday 20th September 2024
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Isaac, AJ, Evelyn Robert, Eric Davies
+- **Purpose:** Weekly meeting of the writers' workgroup.
+- **Working Docs:**
+  - [WWG Q1 Proposal](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit)
+
+#### Narrative:
+Kenichi welcomed everyone to the meeting. Cjfrankie pointed out that he had completed the Q4 proposed draft for the Substack newsletter. Kenichi began to share his screen, and we glanced through Cjfrankie’s draft, and he shared more clarity and possible ways we could improve it.
+
+Secondly, Kenichi added that he’d be doing some research to find some articles for the board; he mentioned that this article would mark the completion of our Q3 KPI of 45 publications. Momentarily, he mentioned that the Zealy is 7 days away from completion; he then urged the scribblers to give their suggestions and ideas towards Zealy.
+
+We also had a conversation about the Friday trivia game. It is very clear that the same set of people are always winning; it’s okay if they’re playing the game fairly! Kenichi shared his vision of purchasing a paid version of the Quizcord bot, which allows for private trivia; we could also check for people who aren’t playing the game fairly. By doing this, people won’t lose interest in the trivia.
+
+Lastly, we went over the Q4 budget concerns that were raised by the objectors. Some of the concerns were that the budget was too high. We talked about how budget reduction could slow down processes in the WG. From the Zealy and Twitter side of things, we’ve been able to achieve some remarkable feats. Some of the core elements in the WG still run on a free plan, e.g. Zealy, which limits the WG’s workspace and gives us no access to analytics.
+
+
+
+#### Decision Items:
+- Following a discussion on the Quizcord bot, we have decided to try out the bot by getting a paid plan, which goes for $9 per quarter.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cjfrankie to chase Gorga and Ines to add their drafts to the community page. [**assignee**] Cjfrankie  [**due**] 27 September 2024 [**status**] done
+- [**action**] Kenichi to chase AJ and Kareem concerning their test documents and have them sent to the scribes for peer review.
+ [**assignee**] Kenichi [**due**] 27 September 2024 [**status**] done
+- [**action**] Kenichi to add some tasks to the board after conducting his research! [**assignee**] Kenichi [**due**] 27 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Quizcord bot, Peer-review, Zealy, Twitter, Triva, Q4 2024 budget, Q2 2024 KPI
+- **emotions:** insightful, Discursive, speedy, calm
