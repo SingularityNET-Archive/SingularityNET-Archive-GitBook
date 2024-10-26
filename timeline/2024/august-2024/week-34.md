@@ -330,6 +330,7 @@ Members discuss task management and assigments for next week and September, draf
 
 ## Wednesday 21st August 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -371,6 +372,87 @@ Members discuss task management and assigments for next week and September, draf
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, skills database, Database, lingual differences, language, MixPost, timeline, proposal, proposal template, voting, community voting, social media automation, 
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful, Organised
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Gorga Siagian [**facilitator**], Effiom [**documenter**], advanceameyaw, effiom, Martin Soki, Yemi Solves, GorgaSeagian
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594944505096&cot=14)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Async Organising Process](https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62)
+  - [Knowledge Base WG Infographic](https://drive.google.com/file/d/1S24dJki0gT7oZrDy96IfA5Tz8OkyHm9l/view)
+  - [Strategy Guild Items](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14)
+  - [WG current approach to organizing and reviewing items](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764585638363574&cot=10)
+  - [Copy of SingularityNet Ambassador Program Code of Conduct Copy v2 9/6/23 edited](https://docs.google.com/document/d/1_r_ODS-hgFfsvneZiysAZTCfMcwoK6mVsbuasJVW9aw/edit?usp=sharing)
+  - [Grassroots Ethics of the SNET Ambassador Program](https://docs.google.com/document/d/1DOO2TKNkLBKSFFa5jvgAHm30wjNpRj0uXiVz6YRtI9E/edit?usp=sharing)
+  - [CONFLICT RESOLUTION FOR SINGULARITY NET AMBASSADORS](https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing)
+  - [Copy of Roles/levels in the Ambassador Program v0.1](https://docs.google.com/document/d/1Oln1yjkWodXs9DbcQB55UKkhj3qYsC70OsON2HVvliM/edit?usp=sharing)
+
+#### Agenda item 1 - Introductions, Onboarding, and WG Updates - [resolved]
+
+#### Discussion Points:
+- Onboarding using infographic
+- Update on WG activities
+- Highlights of 21.08.2024 meeting agenda
+
+#### Agenda item 2 - Reviewing Strategy Guild Items for GitBook - [resolved]
+
+#### Discussion Points:
+- Strategy Guild Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14
+- 7 Strategy Guild items to be selected for Gitbook
+- The new vs the old Strategy Guild
+- Are these items from the old or new Strategy Guild?
+- Where can we find the correct link to an item?
+
+#### Decision Items:
+- ADD "Copy of SingularityNet Ambassador Program Code of Conduct Copy v2 9/6/23 edited - Google Doc" to Gitbook
+  - [**rationale**] This item was considered a valuable asset for Gitbook
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- ADD "Grassroots Ethics of the SNET Ambassador Program - Google Doc" to Gitbook
+  - [**rationale**] This item was considered a valuable asset for Gitbook
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- ADD "CONFLICT RESOLUTION FOR SINGULARITY NET AMBASSADORS - Google Doc" to Gitbook
+  - [**rationale**] This item was considered a valuable asset for Gitbook
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+-  "Roles/levels in the Ambassador Program v0.1" is valid for Gitbook but the asset link is broken
+  - [**rationale**] A valid item to be considered if valid link is made available. NOTE: link has been found by the archivist and added in Working Docs
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- 3 Strategy Guild items were not selected as Gitbook assets
+  - [**rationale**] These items were not considered as valuable assets for Gitbook
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Don't add new items till we have reviewed and created a new onboarding session for async tasks
+  - [**rationale**] A new onboarding process for async organising is currently being worked on
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Find and update the correct link for "Roles/levels in the Ambassador Program v0.1 - Google Doc" [**assignee**] Tevo [**status**] done
+
+#### Agenda item 3 - Current approach to organizing and reviewing items - [resolved]
+
+#### Discussion Points:
+- WG Resource Planning Process
+- Overview of Organizing Items Miro Board
+- How to become an organizer in Knowledge Base WG
+
+#### Decision Items:
+- We did not select a Strategy Guild item to organize collectively in meeting
+  - [**rationale**] We could not find a Strategy Guild item on the Organizing Resources board
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Ambassador GitBook, Miro Board, Strategy Guild, Valid Items, Onboarding, assets, code of conduct, grassroots ethics, conflict resolution, roles and levels, old Strategy Guild, new Strategy Guild
+- **emotions:** Educative, informative, Collaborative, interesting
+
+
 ## Thursday 22nd August 2024
 
 ### African Guild
