@@ -57,6 +57,7 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 ## Thursday 17th October 2024
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -119,6 +120,70 @@ We agreed that people will try to come a bit prepared for the first discussion (
 #### Keywords/tags:
 - **topics covered:** Decision Making Process, consent decision making, consensus decision making, advisory decision making, Focus Group, cap, numbers cap, retrospective, capability, decentralised, decentralised community, Core Contributor, conflict resolution, bullying, listening, communication skills, non-directive listening
 - **emotions:** engaging, participatory, well organised, funny , decisive
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Duke Peter [**facilitator**], MartinSoki, CallyFromAuron  [**documenter**], LadyTempestt, CallyFromAuron, lord kizzy, CollyPride, Duke Peter, AshleyDawn, OluAyoola7D, Kateri, MartinSoki, Olamide, Onize, Peter, Hogantuso, Cjfrankie, SucrenSpice, Eric Davies
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Working Docs:**
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Q4 Budget proposal](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Onboarding WG Objection Summary](https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing)
+  - [Adjusted Q4 budget proposal ](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [RESEARCH TOPIC: HOW PEOPLE “ONBOARD TO DECENTRALIZATION: EXPERIENCES AND INSIGHTS] (https://docs.google.com/document/d/14erz8t4HKPtql7BB9dK6bKLZ-2KFxay76YWrqgmBfRI/edit?usp=sharing)
+
+#### Town Hall Updates:
+The October update will cover:
+- Recap of Github training session, and share Colleen's slides
+- Announce the shift to Biweekly meetings 
+- Announce the two upcoming skills training sessions (M&E; decentralized governance)
+- Re-share the Onboarding journeys infographics, plus a doc where people can add their own input on barriers they have faced
+
+
+#### In this meeting we discussed:
+- Minutes of the last meeting: We agreed the minutes of the last meeting
+- Skillshare matrix: The regular reminder was made for new people to input their skills into the skillshare matrix document.
+- Action items from the last meeting: We went through the action items for the last meeting
+- Facilitation/documentation next meeting: Colleen to facilitate the next meeting (31st Oct) and Photogee to document and add to the summary tool.
+- Town hall update: Duke to give the townhall updates at the end of the month
+- Onboarding Journeys: Onize agreed to publicize the infographics created by Duke, Love and Cjfrankie in the ambassador-general Discord channel and other relevant channels. She will also create a survey for people to give info on their own onboarding experiences (see https://forms.gle/VcQVJAoXtYa1ukB77)
+-  Skillshare matrix: LadyTempestt noted that the Skillshare Matrix might be somewhat redundant now, as the workgroup is currently closed, so all existing members have already added to it, and any new people would be adding their skills without being able to get paid tasks in which to use them. Vani suggested we could get further use out of the skillshare matrix by sharing it with the rest of the Program, perhaps in collaboration with R&D's collaboration skills database project - we might be able to add useful input on classifying and better representing non-tech skills, as we've done quite a lot of work on that in our skillshare matrix, and the R&D approach has tended to prioritise tech skills. Then LordKizzy spoke on R&D's Collaboration Skills Database project and its possible collaborations with the Onboarding workgroup. He suggested gathering skills of members through the R&D Guild project rather than having two initiatives that serve the same purpose. We agreed to discuss further next meeting.
+- Onboarding to decentralization research project: Ayo shared a planning doc created by him and Kateri (see https://docs.google.com/document/d/14erz8t4HKPtql7BB9dK6bKLZ-2KFxay76YWrqgmBfRI/edit?usp=sharing) to outline possible questions, and we discussed. Couple of suggestions were made for minor changes, but generally, the group approved it. Ayo and Kateri will come back next meeting to outline a research strategy or approach.
+
+
+#### Decision Items:
+- It was decided during the meeting that the recording of the GitHub training should not be timestamped or shared
+  - [**rationale**] Colleen was absent and Vani had to step in to host the session without adequate preparation, so it might not be that useful; also, LordKizzy has already produced a GitHub walkthru video for Archives WG - see https://youtu.be/abaUWUBOU28?si=PyR0CRq9CLC2e3Na
+
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- Onize suggested promoting the onboarding journeys by visiting various workgroup meetings and sharing them, and by creating a form for people to submit their own experiences (see https://forms.gle/VcQVJAoXtYa1ukB77). We decided against sharing information about onboarding challenges on public platforms such as X, since it could be perceived as negative; so we agreed to keep it internal only.
+
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Duke to check the ambassador calendar and put in the respective dates for our meetings and the skill share session. [**assignee**] Duke Peter [**due**] 31 October 2024 [**status**] todo
+- [**action**] Duke to facilitate next meeting and MartinSoki to document  [**assignee**] Duke Peter, MartinSoki  [**due**] 17 October 2024 [**status**] done
+- [**action**] Duke to give the next Town hall update  [**assignee**] Duke Peter [**due**] 29 October 2024 [**status**] todo
+- [**action**] Onize and Duke to share the onboarding Journey with the community on governance call [**assignee**] Onize, Duke Peter [**due**] 10 October 2024 [**status**] done
+- [**action**] Vani to add Onboarding Journey on the agenda for governance call  [**assignee**] CallyFromAuron [**due**] 10 October 2024 [**status**] done
+- [**action**] Ayo and kateri to present a draft of the research project next meeting.  [**assignee**] oluAyoola7D, Kateri [**due**] 17 October 2024 [**status**] done
+- [**action**] Onize to lead Monitoring and Evaluation session on the 24th November. [**assignee**] Onize [**due**] 24 November 2024 [**status**] todo
+- [**action**] Vani to lead Decentralized governance on 5th December. [**assignee**] CallyFromAuron [**due**] 5 December 2024 [**status**] todo
+- [**action**] Colleen to facilitate the next meeting and Photogee to document.  [**assignee**] Colleen, Photogee [**due**] 31 October 2024 [**status**] todo
+- [**action**] Vani to follow up on Colleen, and Ayo to follow up on Photogee on their availability. [**assignee**] CallyFromAuron, Ayo [**due**] 24 October 2024 [**status**] todo
+- [**action**] Onize to share the onboarding journey graphics in the ambassador general channel and create a document for feedback on challenges faced.
+ [**assignee**] Onize [**due**] 31 October 2024 [**status**] done 
+
+#### To carry over for next meeting:
+- Townhall update, Research project, Q4 budget proposal, Skillshare matrix.
+
+#### Keywords/tags:
+- **topics covered:** TH Update, Onboarding Journey Scripts, skills matrix, research, decentralisation, decentralization, Collaboration Skills Database, R&D Guild, collaboration, non-tech skills, classifying skills 
+- **emotions:** Friendly, Collaborative, speedy 
+
+
 ## Friday 18th October 2024
 
 ### Video Workgroup
