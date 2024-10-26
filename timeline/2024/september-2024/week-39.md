@@ -74,3 +74,40 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - [action] Members are to update their records in the working document as they meet the Core membership requirements [status] todo
 - [action] The committee to investigate Gorga’s allegations of Ayo and Effiom [assignee] Tuso., Cjfrankie  [due] 7 October 2024 [status] todo
 - [action] Draft and make meeting notes available [assignee] effiom [due] 7 October 2024 [status] done
+## Friday 27th September 2024
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Issac, Ines, Mikasa, AJ
+- **Purpose:** Weekly meeting of the writers' workgroup, centered on the Q4 proposed budget.
+- **Working Docs:**
+  - [WWG Q1 Proposal](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit)
+
+#### Narrative:
+Kenichi started the meeting as he normally would; he welcomed everyone, and then he highlighted the meeting agenda. 
+He started by asking the scribes if the published drafts on the community page had been edited. Cjfrankie answered that Gorga submitted his draft a few hours before the meeting, so the review will be done over the weekend. Kenichi also urged Ines to submit the Overcoming Nursing Challenge document to the community page. Moving forward, he shed light on the MIX POST social media tool; he hinted that Video WG is already using it and it’s time for the WWG to explore the tool. A lot of conversations happened in the Zoom Chat — Ines Gavina, Lady Tempestt, and Gorga took to the chat to talk about exploring more social platforms like Reddit, Quora, and LinkedIn, to expand our reach as a community. Gorga also showed interest in writing an article about the token event in Singapore featuring Jasmine from Rejuve.
+
+Budget Update: We tackled the budget discussion together. Following a discussion in the OpenGov call on 26th September, it is clear that our budget only needs a slight edit to have it pass. According to the Treasury, we only have to make a 20% cut, and to this effect, we glanced through the budget sheet to see the areas we can adjust. Additionally, Kenichi mentioned that moving forward, we will be focusing more on ecosystem-related articles and Twitter threads while the community page takes a break since we have published quite some articles over the last couple of months. Kenichi talked about reducing Zealy allocation, and how WWG and Video WG are joining forces toward making Zealy a success. To keep Zealy fully functional, Video WG will send some allocation while we keep running Zealy three times in a quarter. Ines suggested that we take our Spanish page management from the WWG budget and have it led by the LatAm guild. Interestingly, we have reallocation funding coming into the WWG account; however, Kenichi is still in close contact with Tevo, and he will share more detailed information as we move further along. Kenichi stated that due to the low token price, Zealy is on hold till further notice and the Friday trivia game will become biweekly.
+
+
+
+#### Decision Items:
+- We decided that the Zealy allocation will come from both the WWG and the Video WG to save cost, and we’re also looking forward to moving it to the marketing guild.
+
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to change the Friday trivia game from weekly to biweekly, due to budget constraints.
+  - [**rationale**] Due to the token price and budget fitting, we might not be able to fund the trivia if it keeps running on a weekly basis. Rather, a bi-weekly schedule will save us some money.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The scribes to edit the latest drafts submitted to the community page.
+
+ [**assignee**] Cjfrankie  [**due**] 4 October 2024 [**status**] done
+- [**action**] Gorga to share the Rejuve token 2049 event topic idea in the writers' Discord  channel.
+ [**assignee**] Gorga Siagian [**due**] 4 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Q4 budget, Marketing Guild, Twitter threads, Triva, community page, Zealy, video WG
+- **emotions:** quiet, Discursive, calm
