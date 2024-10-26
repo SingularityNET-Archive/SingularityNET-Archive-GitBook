@@ -233,6 +233,67 @@ Some changes have already been made: the interface is more mobile-friendly; ther
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
 
 
+## Thursday 19th September 2024
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** LadyTempestt [**facilitator**], Gorga Siagian, CallyFromAuron [**documenter**], LadyTempestt, Gorga Siagian, CallyFromAuron, SucrenSpice, kateri, Clement Umoh, lord kizzy, Mikasa, Eric Davies, SubZero, Photogee, Tuso., Tevo, Effiom, CollyPride, PeterE, TheFreysDeFi
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program.
+- **Working Docs:**
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Q4 Budget proposal](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Onboarding WG Objection Summary](https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing)
+  - [Gorga’s allegations against the Ambassador Program and the Onboarding WG](https://docs.google.com/document/d/140EUeShYZ_fKjErEoIT4PUFmeFfYI7o6goSf9Tj8WpE/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Agreeing the minutes of the last meeting. 
+- Skillshare matrix.
+-  Action items from the last meeting.
+- Facilitation and documentation next time.
+- Town Hall Updates
+- Onboarding Journeys. 
+- Q4 Budget Draft and Objections from the community. 
+- Workgroup closure
+- Gorga’s allegations.
+
+#### Decision Items:
+- WG Closure:  The WG is temporarily closed to new members, and this was queried in some of the feedback we got in the consent process for our Q4 budget. A line will be added to the Q3 quarterly report to explain the reasons for closure.
+
+  - [**rationale**] Mainly to manage budget constraints, to focus on integrating existing members effectively, and to avoid overloading the WG with inactive members when there are not enough tasks to go round. 
+  - [**effect**] mayAffectOtherPeople
+- Other Q4 budget objections: We agreed that objections to our Q4 budget seem to be mainly due to misreadings of our Q3 quarterly report (for example, raising concerns about unspent Q3 budget, when Q3 was not over at the time we wrote the report, so naturally there was budget remaining; misunderstandings of the purpose of the WG and thinking that meetings are onboarding sessions; etc). We noted that in order to be valid, an objection should be about things that would cause harm to the Program, which most of the objections we received are not. Nevertheless we agreed to add a few lines to the Q3 report on each of the issues raised. See Onboarding WG objections summary https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing 
+
+  - [**rationale**] Although some of the concerns raised do not appear to be valid, it is easy enough to answer them, so we might as well do so. 
+  - [**effect**] mayAffectOtherPeople
+- Following a meeting earlier today (19th Sept) about Gorga’s allegations against the WG, it was agreed that Gorga will apologise through the WG Discord channel in writing and verbally through the WG meeting. If Gorga makes any further unfounded and untrue allegations, about individuals, or the Onboarding WG as a whole, or any other WG, or the Program as a whole, he will be sanctioned with a temporary suspension from the group for a period of time to be determined, and he will not be eligible to apply for paid assignments. 
+The various allegations are listed here https://docs.google.com/document/d/140EUeShYZ_fKjErEoIT4PUFmeFfYI7o6goSf9Tj8WpE/edit?usp=sharing
+  - [**effect**] affectsOnlyThisWorkgroup
+- For the forthcoming GitHub project management training on 7th Oct, we agreed to coordinate with the Marketing Guild through Lord_kizzy to publicise the event; and for Photogee to create timestamps of the video recording for publication. 
+
+
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Duke to showcase the onboarding journey infographics in the next meeting. 
+ [**assignee**] Duke [**due**] 26 September 2024 [**status**] todo
+- [**action**] Colleen will facilitate next week's meeting, and Onize will document, and will mentor Jenn.
+ [**assignee**] CollyPride, Onize, sakujennbornean [**due**] 26 September 2024 [**status**] todo
+- [**action**] Tuso will give Onboarding WG's town hall updates on the 24th of September.
+ [**assignee**] Tuso. [**due**] 24 September 2024 [**status**] todo
+- [**action**] Vani will add clarification to the Q3 quarterly report about the issues covered in the Objections Summary https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing [**assignee**] CallyFromAuron [**due**] 23 September 2024 [**status**] todo
+- [**action**] Vani will send the video of our documentation training session to Tevo, who will add it to YouTube [**assignee**] CallyFromAuron, Tevo [**due**] 26 September 2024 [**status**] in progress
+- [**action**] Peter to add GitHub Project Management Training to the calendar
+ [**assignee**] PeterE [**due**] 26 September 2024 [**status**] in progress
+- [**action**] Kateri to grant access for members to add comments to the q3 Quarterly report and to also make the necessary corrections to the report  [**assignee**] kateri [**due**] 26 September 2024 [**status**] todo
+- [**action**] Onyeka to coordinate with marketing guild team to create graphics and publicize the GitHub training event. Photogee to timestamp the recording
+ [**assignee**] lord kizzy, Photogee [**due**] 7 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** TH Update , Budget , Onboarding Journey Scripts, skills matrix, q4 2024 budget, q3 2024 quarterly report, consent process, objections, budget objections, GitHub training, training, Marketing Guild
+- **emotions:** Discursive, forward-thinking, insightful, Friendly
+
+
 ## Friday 20th September 2024
 
 ### Writers Workgroup
