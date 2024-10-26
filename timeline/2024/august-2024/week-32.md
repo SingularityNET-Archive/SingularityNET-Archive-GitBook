@@ -7,6 +7,7 @@ description: Mon 5th Aug - Sun 11th Aug 2024
 ## Monday 5th August 2024
 
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -163,6 +164,77 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 #### Keywords/tags:
 - topics covered: Guild Membership, Workshop, Ideas and Improvements, ideas, improvements, Core Membership, survey, Research, participation, contribution
 - emotions: Brainstorm, planning, ideating, interesting, Collaborative 
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines, Caue [**translator**], Guillermo, Ines, Martin Rivero, Caue, Andrea Dekovic
+- **Purpose:** GitHub Workshop for LATAM Guild operations
+- **Transcript:** [Link](https://otter.ai/u/iQLp71EjAjorLfwG4PneMYQSERo?view=transcript)
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+
+#### Agenda item 1 - Agenda Item 1 - WG Operaciones WorkShop Github #1 - [carry over]
+
+#### Narrative:
+Caue led a hands-on workshop designed to help guild members familiarize themselves with GitHub's project management features. Participants worked in real-time, creating issues, describing project management tasks, and populating the @SNET_Latam Operations repositories. The workshop materials focused on the system that will guide LATAM Guild operations moving forward into Q4. Members collaborated on task assignment, issue creation, and optimizing content management for Spanish and Portuguese audiences. Members work on learning how to Create a new To-Do task and assign it to a member. Convert discussion into issues on GitHub, write and comment on issies.  
+
+
+#### Decision Items:
+- How guilds will operate moving forward. GitHub Workshop for LATAM Guild operations
+
+#### Action Items:
+- [**action**] Share information on the upcoming event in the Telegram group [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] done
+- [**action**] #Revisions on RoadMap Document [**assignee**] Martin Rivero, Guillermo, Ines, Caue, Andrea Dekovic [**due**] 25 July 2024 [**status**] done
+- [**action**] Recommend joining the Telegram group for continuous updates [**assignee**] Martin Rivero [**due**] 24 July 2024 [**status**] todo
+- [**action**] Look into live streaming on Instagram and TikTok [**assignee**] Caue [**due**] 24 July 2024 [**status**] done
+
+#### Agenda item 2 -  Communication Strategies - [carry over]
+
+#### Narrative:
+The team finalized their messaging and communication strategies for the upcoming month. They focused on topics such as Metta, OpenCog Hyperon, and Ben Goertzel's book, The Consciousness Explosion. Discussions also covered creating educational materials that promote SingularityNET’s vision.
+
+
+#### Decision Items:
+- Education developement
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create educational materials and blogs [**assignee**] Ines [**due**] 7 August 2024 [**status**] todo
+
+#### Agenda item 3 - Marketing and Social Media Strategies - [carry over]
+
+#### Narrative:
+The team conducted 10 interviews during the ADN event, engaging participants, speakers, and guests. The focus shifted towards post-production and video editing of the interviews. The idea of creating a data blog to share the ADN videos was proposed, and members discussed how to use project management tools to manage tasks for the R&D Guild and Ambassadors. Post produce #FastTalks videos from ADN interviews.
+
+
+#### Decision Items:
+- ADN event post event zction items
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Work on video editing from ADN [**assignee**] Guillermo, Andrea Dekovic [**due**] 8 August 2024 [**status**] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Follow up on github workshope action item, members discuss briefly about their personal experiences while executing tasks 
+
+
+#### Decision Items:
+- Github operations folllow up
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation, GitHub, ADN, agi-24
+- **emotions:** Collaborative, entertaining, challenging, growth, socialmedia
+- **other:** moving forward
 
 
 ## Tuesday 6th August 2024
