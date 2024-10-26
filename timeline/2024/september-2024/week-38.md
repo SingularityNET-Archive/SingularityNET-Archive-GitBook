@@ -141,6 +141,7 @@ description: Mon 16th Sep - Sun 22nd Sep 2024
 ## Wednesday 18th September 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -231,6 +232,93 @@ Some changes have already been made: the interface is more mobile-friendly; ther
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, soulbound token, operations system, collaboration skills database
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
+
+
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom [**documenter**], Tevo, advanceameyaw, LadyTempestt, lord_kizzy, Effiom, Eric Davies
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link]( https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764599763537315&cot=10)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG Onboarding Feedback (Responses)](https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/)
+  - [How we used Participation Reward Tooling on 18.09.2024](https://www.youtube.com/watch?v=C4a2ndoAuGc)
+  - [Context: What is the Participation Tool](https://youtu.be/VMSKB79fkbg)
+  - [Q4 Consent Proposal List (Responses)](https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/edit?gid=433258913#gid=433258913)
+
+#### Agenda item 1 - Knowledge Base Onboarding and Feedback - [resolved]
+
+#### Discussion Points:
+- Response Link: https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/
+
+- Did we learn something new from the responses?
+- 2 new responses were submitted
+- Does the feedback move a needle for the WG?
+- Did we get improvements?
+- One member learned about us from WIMS
+- In general, our score is improving on the WG purpose
+
+#### Decision Items:
+- The 1st new feedback won't be rewarded
+  - [**rationale**] We didn't learn anything new from this feedback, it was generic in a way
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- The 2nd feedback will be rewarded
+  - [**rationale**] We learned that this member learned about us from WIMS which was new insight for the WG
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 2 - Assign Rewards for previous meetings using Participation Reward Tooling - [resolved]
+
+#### Discussion Points:
+- How we used Participation Reward Tooling today: https://www.youtube.com/watch?v=C4a2ndoAuGc
+- Context what is the Participation Tool: https://youtu.be/VMSKB79fkbg
+- Check if the fitted reward amount in the prior meeting is fair
+- How do we address the reduced rewards left over from this process?
+- Can the purpose of the tool be modeled differently for each guild and WG?
+- Reward Modeler can use already collected data and analytics to define contribution type for their WG and Guild based on the label names
+- Explaining some of the parameters used in the Tool
+- What does reward import or task creation look like?
+- How do we define task label contribution type?
+- How do Guilds and WGs define their own contribution type?
+- We have been rewarding facilitation with Dework Tasks until now
+
+#### Decision Items:
+- More members of the WG need to contribute as this would address the rewards wastage concerns
+  - [**rationale**] The main purpose of this tooling is to incentivize contributions, and as more members contribute the allocated rewards won't waste
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Remove operations in the task label for meeting participation. This will unlock labels to be recognized as contributions to future tasks
+  - [**rationale**] This will unlock labels to be recognized as contributions to future tasks
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Create a task for Automation WG - Create a guiding document on how the rewards are calculated. [**status**] todo
+- [**action**] Create a task for Automation WG - Create a meeting selector button to further automate the Tool. [**status**] todo
+
+#### Agenda item 3 - Review Q4 Proposal Status - [resolved]
+
+#### Discussion Points:
+- Q4 consent responses: https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/
+- Review the 2 concerns raised by objectors in Iteration 2
+- The best way to capture our impact in reports
+- Some of the concerns do not make sense, such as "unclear how it adds value to the program." In Poprosal, it's clearly written.
+
+#### Decision Items:
+- We changed budget details and split GitBook budget items into three smaller differences.
+  - [**rationale**] To address one of the concerns raised by an objector
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create a feedback form to ask people how they find the Knowledge Base WG organized assets [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador GitBook, Miro Board, feedback, Rewards, Q4 proposal, concerns, Operations, task labels
+- **emotions:** educational, funny, interactive, interesting, bit quiet, insightful
 
 
 ## Thursday 19th September 2024
