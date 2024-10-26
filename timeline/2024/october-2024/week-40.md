@@ -7,6 +7,7 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 ## Wednesday 2nd October 2024
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -96,6 +97,119 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, Marketing initiative
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
+
+
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom [**documenter**], advanceameyaw, effiom, Evelyn Robert, LadyTempestt, lord_kizzy, osmium, PeterE, tevo
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Meeting video:** [Link](https://youtu.be/jlHcTBzeJ0Y)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601684347582&cot=10)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG Proposal Q4 2024](https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/)
+  - [Knowledge Base WG - Introduction to Knowledge Base WG](https://www.youtube.com/watch?v=jlHcTBzeJ0Y)
+  - [KBWG Schedule on Miro](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+  - [Knowledge Base WG Miro Board and Activities](https://www.youtube.com/watch?v=ml_kDw09omQ)
+  - [Managing Meeting Summaries Guide](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/)
+
+#### Agenda item 1 - Introduction to Knowledge Base WG - [resolved]
+
+#### Discussion Points:
+- Onboarding video: https://www.youtube.com/watch?v=jlHcTBzeJ0Y
+- Walkthrough of the Q4 Proposal
+- KBWG Q4 Proposal: https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/
+
+#### Action Items:
+- [**action**] Proposal link and other relevant links to be shared in the description on YouTube [**assignee**] Tevo [**due**] 3 October 2024 [**status**] done
+
+#### Agenda item 2 - Meetings Schedule for Knowledge Base WG - [carry over]
+
+#### Discussion Points:
+- 
+KBWG Schedule: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10
+
+- What are the main topics for meetings?
+- How do we address Budget Fitting?
+
+#### Decision Items:
+- Reduce bi-weekly meetings by one
+  - [**rationale**] For budget-fitting, we would have 5 instead of 6 meetings this quarter
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- Using the same link started with Treasury Guild
+  - [**rationale**] We agreed that the link can still be used.
+  - [**opposing**] None
+- Setting up requirements to start using GPT is a main topic for the next meeting
+  - [**rationale**] This is one of the key deliverables for Q4, hence, starting the implementation early is the way to go.
+  - [**opposing**] None
+
+#### Action Items:
+- [**action**] Invite people to schedule time for Knowledge Base WG [**assignee**] Tevo [**due**] 7 October 2024 [**status**] in progress
+
+#### Agenda item 3 - Collect and Format Items - [resolved]
+
+#### Discussion Points:
+- KBWG Miro Board and Activities: https://www.youtube.com/watch?v=ml_kDw09omQ
+
+- Determining a cut-off date for asset collection for proper tracking
+- Extra Initial Formatting
+- How do we collect items? Process explanation
+
+#### Decision Items:
+- Add a new deadline until where we don't have to dig into the history
+  - [**rationale**] We agreed this would inform those collecting these items on which period to focus on 
+  - [**opposing**] None
+- The process of collecting might drastically change with the use of new processes
+  - [**rationale**] The WG is modifying several processes this quarter from async onboarding to the creation of our gitbook
+  - [**opposing**] None
+- Members can create dework tasks on done work themselves
+  - [**rationale**] Since our we have fewer meetings this quarter, this would promote async work better.
+  - [**opposing**] None
+
+#### Action Items:
+- [**action**] Combine formatting, analyzing, and collecting tasks into one template in Dework [**assignee**] Tevo [**due**] 4 October 2024 [**status**] done
+- [**action**] Remove WGs without any unique assets left and Fit New WGs in the frame [**status**] todo
+- [**action**] Clean Away everything that is not valid (pink color) [**status**] todo
+
+#### Agenda item 4 - Knowledge Base WG Miro Board Updates - [resolved]
+
+#### Discussion Points:
+- The relevance and impact of bitly link
+- Assigning Deliverables to Schedule
+
+#### Decision Items:
+- Change Proposal Bitly Link
+  - [**rationale**] We agreed that this would be a metric to look at by the end of the quarter, hence the need to change the link
+  - [**opposing**] None
+
+#### Action Items:
+- [**action**] Updated Relevant Links and Workgroup Roles Area [**assignee**] Tevo [**due**] 4 October 2024 [**status**] done
+- [**action**] Created Snapshot of results (Archive) [**status**] todo
+
+#### Agenda item 5 - Meeting Summary - 02.10.2024 - [resolved]
+
+#### Discussion Points:
+- Meeting Summaries Guide: https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/
+- Selecting process for meeting summarizer and reviewer
+
+#### Decision Items:
+- Deadline to draft the meeting summary is 07.10.2024 and the final meeting note should be available by 09.10.2024
+  - [**rationale**] So people get the chance to see tasks assigned to them and also it would be exactly one week after the last meeting.
+  - [**opposing**] None
+- In case of a tie. If you have done meeting summary before, then task rotation starts based who has done the least
+  - [**rationale**] This would allow and foster participation and contribution among members of the WG 
+  - [**opposing**] None
+
+#### Action Items:
+- [**action**] Effiom to draft meeting summary and Advanceameyaw to review [**assignee**] Effiom, advanceameyaw [**due**] 9 October 2024 [**status**] done
+- [**action**] Find a random picker tool to select people for contribution [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, collect and format, items, updates, Meeting Summaries, scheduler, assigning, Dework, Budget fitting
+- **emotions:** Collaborative, fun, interesting
 
 
 ## Thursday 3rd October 2024
