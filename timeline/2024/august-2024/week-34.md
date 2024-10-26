@@ -176,6 +176,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 
 ## Tuesday 20th August 2024
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly
@@ -248,6 +249,85 @@ We agreed this idea needs to go out to all WG leads - who are all core contribut
 #### Keywords/tags:
 - topics covered: consent process, Q4 2024 budgets, Q3 2024 quarterly reports, consent forms, core contributors, deadlines, publicity, community engagement, timeline, Budget , Quarterly Report, minimal budget, late submission
 - emotions: Friendly, decisive, focused
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines [**translator**], Guillermo, Ines, Martin Rivero, Rous, Thiago
+- **Purpose:** To strategize communication, governance, and education plans for the upcoming AI and decentralized governance live streams and discuss collaborations with MetaPool and Algorand.
+- **Meeting video:** [Link](https://drive.google.com/file/d/1JX3vg3qh441M9o5BfPxlO4kfpymGdVuz/view?usp=drive_web)
+- **Transcript:** [Link](https://drive.google.com/file/d/1awvy8dUiaojyqTfGL9x3jBynMzFe63As/view?usp=drive_web)
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+  - [Near Protocol](https://x.com/NEARProtocol)
+  - [Near Foundation](https://near.foundation/about/)
+  - [ingularityNET LATAM Social Media Handles GitHub Document](https://github.com/singularitynet-latam-ambassador/outreach/blob/main/social-media/Ambassadors_SocialMediaHandles.md)
+  - [Superintelligence Alliance Doc](https://docs.superintelligence.io/artificial-superintelligence-alliance)
+  - [@SNET_Latam + MetaPool Latam](https://docs.google.com/document/d/1lHU_9iuzzDdUNuBW2jU73DZ0-jpbm4JlRQ5huVY7Bjg/edit)
+
+#### Agenda item 1 - Agenda Item 1 - AI in Governance and Live Stream Planning - [carry over]
+
+#### Narrative:
+The team discussed finalizing the date for the first live stream on AI in governance, scheduled for September 4, 18:00-19:00 UTC. The stream will cover topics like decentralizing AI nodes on blockchain through projects like HyperCycle and OpenCog Hyperon. They also discussed governance and decision-making systems, including quadratic voting, reputation systems, and decentralized AI ethics.
+There were additional conversations about hosting an event in Argentina, possibly in partnership with Solana, set for August 29, focusing on relaxed talks, open presentations, and networking opportunities.
+
+
+#### Decision Items:
+-  Discuss bringing SingularityNET to Near governance
+
+#### Action Items:
+- [**action**] Guillermo to explore DAO participation and the benefits for MetaPool and SingularityNET [**assignee**] Guillermo, Martin Rivero [**due**] 19 August 2024 [**status**] in progress
+- [**action**] Identify if SingularityNET LATAM can access Near Foundation funds through grants or another channel [**assignee**] Guillermo, Martin Rivero [**due**] 18 August 2024 [**status**] in progress
+- [**action**] Prepare for the first live stream on September 4 [**assignee**] Ines [**due**] 26 August 2024 [**status**] todo
+- [**action**] Plan the Argentina event with Solana on August 29 [**assignee**] Guillermo [**due**] 25 August 2024 [**status**] todo
+- [**action**] Continue designing the decentralized governance topics for discussion [**assignee**] Guillermo, Ines, Martin Rivero [**due**] 25 August 2024 [**status**] todo
+
+#### Agenda item 2 - Strategic Communications and MetaPool Collaboration - [carry over]
+
+#### Narrative:
+Rous presented MetaPool and its decentralized finance opportunities for collaboration. Martín emphasized the importance of not dividing communication channels by language, as it could weaken engagement. Instead, the team agreed to translate and segment content by day, ensuring broader reach. Algorand was mentioned as a potential partner for collaborations moving forward.
+Members discuss how to maintain engagement by keeping multi-language content on the same platform
+
+
+
+#### Action Items:
+- [**action**] Analyze Allocation for message replication on community channels [**assignee**] Guillermo, Ines [**due**] 19 August 2024 [**status**] done
+- [**action**] Organize the event in Brazil with MetaPool, María, and Dani [**assignee**] Ines [**due**] 19 August 2024 [**status**] done
+- [**action**] Replicate and translate content across channels [**assignee**] Ines [**due**] 25 August 2024 [**status**] todo
+
+#### Agenda item 3 - Educational Content Creation - [carry over]
+
+#### Narrative:
+Martín was tasked with writing a blog about a growth event and his role as a SingularityNET Ambassador, describing his experience and observations. The team also discussed generating more educational content for the SingularityNET LATAM Community, particularly FAQs and general crypto information.
+
+
+#### Action Items:
+- [**action**] Invite participants for the first live stream space on September 4 [**assignee**] Ines, Martin Rivero [**due**] 21 August 2024 [**status**] in progress
+- [**action**] Create publications and infographics for the live stream [**assignee**] Guillermo [**due**] 26 August 2024 [**status**] done
+- [**action**] Write a blog post about the growth event and Ambassador role [**assignee**] Martin Rivero [**due**] 25 August 2024 [**status**] todo
+- [**action**] Create FAQ section for the @SNET_Latam Community page [**assignee**] Martin Rivero, Guillermo [**due**] 1 September 2024 [**status**] todo
+- [**action**] Complete pending crypto information segment [**assignee**] Ines [**status**] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Members discuss task management and assigments for next week and September, draft schedule and potentinal actions. TBD
+
+
+#### Action Items:
+- [**action**] Creating tasks on DeWork for Guild members [**assignee**] Guillermo [**due**] 26 August 2024 [**status**] done
+- [**action**] Operations tasks on regards of  live stream plans [**assignee**] Guillernmo, Martin Rivero [**due**] 26 August 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Budget, Roles, Schedule, Content Calendar, Long Term Vision, Educational Content, Strategic Communications, Live Stream, Team Work, Multi-language Communication
+- **emotions:** Collaborative, Reflective, Task-focused, Team Work, engaging, Strategic
+- **other:** 
+
+
 ## Wednesday 21st August 2024
 
 ### Research and Development Guild
