@@ -505,6 +505,7 @@ Q4 budget:
 
 ## Friday 6th September 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -544,6 +545,61 @@ Kenichi also talked about the “We Are Reading" Series by Inés. He expresses h
 - **topics covered:** Marketing Guild, X/Twitter, Indonesian X page, French X page, podcasts, AGIX, Zealy, LatAm, community page, Twitter threads, WWG Test, social media, Points system, Q3 report, Q4 budget
 - **emotions:** interactive, insightful, informative, speedy 
 - **other:**
+
+
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Photogee, GorgaSiagian, esewilliams, Advanceameyaw, kateri, Cjfrankie, Kareem, hamzat, malik, lord kizzy, Mikasa, Kenichi, inesgav
+- **Purpose:** Marketing Guild weekly meeting
+- **Working Docs:**
+  - [Marketing Guild 30th August Meeting Summary](https://docs.google.com/document/d/1sDXACTpzjNsA9mDkr_Rm1Wf_Xmwy8CR7pX0bDj8dYJY/edit#heading=h.ek336vall7d6)
+  - [Marketing Guild 6th September Meeting Agenda](https://docs.google.com/document/d/1VPlesoyUHWvha7tGtDu984dkKujQbcyNwRMwNYBh7dQ/edit#heading=h.shxqnobd9709)
+  - [Marketing Survey on FAQs for SingularityNET, Its Ecosystem, and the Ambassador Program](https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing)
+  - [Marketing Guild: Global Outreach](https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing)
+  - [https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+  - [RE-KPIs Version: Roles and Responsibilities ](https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a)
+  - [Notion Decision](https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit?usp=sharing)
+  - [Guild Notion Board](https://www.notion.so/Guild-Roadmap-377d5e9c01da4d2499fb73661c9d77e1)
+  - [Governance Document Ideation: Marketing Guild](https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1)
+  - [Roles and Responsibilities ](https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing)
+
+#### Discussion Points:
+- Q3 report: Lord Kizzy reported that the Q3 quarterly report is still in progress, awaiting input from team members. They have been discussing this for about two weeks, with an initial draft ready but incomplete.
+- Documentation: Lord Kizzy reminded documenters to add meeting summaries to the meeting summary tool, and export it to a google doc for comments.
+- Document archive: Photogee emphasized the need for a central document archive where guild members can upload their completed tasks, making it easier to compile the final report.
+- Community Spotlight: The Community Spotlight is focusing on the African Guild. They are seeking new communities aligned with SingularityNET values for cross-collaboration with the Zealy Program.
+- Q4 budget proposal: Lord Kizzy reviewed the Q4 budget proposal in detail, with Ayo raising concerns about the AGIX downprice situation and its impact on the Marketing Guild.
+- Mikasa made mention of the  issue of not having access to the SNET ambassadors' Twitter to facilitate community engagement.
+- Gorga reported completing his weekly design schedule.
+- Task force members: Malik asked how the new set of task force members could be added to the comms channel.
+- Mikasa announced that the second community spotlight would be going out.
+- Podcast Episodes: Kenichi proposed four new podcast episode ideas
+- We discussed the Zealot initiative by Ese
+
+#### Decision Items:
+- It was decided that the Q3 report must be finalized immediately to meet the deadline and avoid losing special initiative funding.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Members must clearly communicate availability and task completion status to prevent future issues with task assignments.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Due to payment issues with our old Notion account, even after resolving the debt, we have successfully exported our data to Markdown format on a personal account to prevent data loss. As a result, we have decided to create a new Notion account for project management.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Kenichi’s proposed four podcast episodes should be included in the Q4 budget.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to collaborate with Zealy to refine the structure of the Zealot initiative, given its alignment with Zealy's existing efforts.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Communications to provide all remaining information for the Q3 report by Sunday and ensure it is publicized in the channel. [**assignee**] Cjfrankie  [**status**] in progress
+- [**action**] The Graphics team is to finalize and provide the necessary graphics for community initiatives by next week. [**assignee**] Graphics Team [**status**] in progress
+- [**action**] All members need to review the Q4 budget proposal and provide feedback before the final submission deadline. [**assignee**] All Members [**status**] in progress
+- [**action**] Cjfrankie is to update the marketing Q3 report on communications with the onboarders. [**assignee**] cjfrankie  [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Marketing, community engagement, Archiving, Zealy, Q4 2024 Budget, Q3 2024 quarterly report, Notion, Documentation, Onboarding
+- **emotions:** Collaborative, calm, engaging
 
 
 ## Saturday 7th September 2024
