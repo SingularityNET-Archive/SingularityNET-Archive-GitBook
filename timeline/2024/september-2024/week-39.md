@@ -183,6 +183,62 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - **topics covered:** Miro Board, Development, tooling, Updates, Swarm Dework, JSON Generator, Backlogs, Budget fitting
 
 
+## Wednesday 25th September 2024
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** lord kizzy [**facilitator**], lord kizzy [**documenter**], AJ, Advanceameyaw, lord kizzy, osmium, CollyPride, SubZero, malik, TheFreysDeFi, barnabas
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+  - [Retrospective and Learnings from Q4 R&D New Operations Systems](https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- R&D New Operations System Retrospective
+
+- 
+Collective decision Guild Members on the Entity connections
+- Follow Up > New Operations System Deployment.
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction.
+- UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database: AJ and Advanceameyew gave updates on the hosting of the database: the teams have decided to host the database locally and they have made updates to the fields. Now the final testing is ongoing and results  will be provide by this Friday, 27th Sept.
+- Discussion on Discord marketing bot: Subzero opened discussions on the developments of a Discord bot and channel that will amplify our Tweets on Discord for engagement. Lordkizzy suggested that a proposal could be created for the initiative and it could be presented to marketing guild as a community initiative, since the R&D Application process is temporary closed for now.
+-  New Operations System Deployment: Lordkizzy announced that the voting system is live and he invited members to vote on the projects they wish to move forward on in Q4. He also spoke on getting feedback from the community for the system and areas for improvements.
+- Discussions on R&D New Operations System Retrospective: Lordkizzy presented the R&D New Operations System Retrospective document that will be used to gather feedback from the community to the group. In the next call, we can have an interactive session where members can provide feedback on the system. Here is the Doc: https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing
+
+- Discussion on the Collective decision for Guild Members on the Entity connections: Lordkizzy indicated that a call was held to review the milestone deliverables on the project so far and noted that only 15-20% of the entire project deliverable has been submitted in the repository. Further discussions will be made on this going forward.
+
+#### Decision Items:
+- We decided to extend the discussion on the Entity Connections progress.
+  - [**rationale**] We had a small house and we felt it's best to make decisions with a larger house.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Duke to give the presentation of the Ideation Project on Impact of Lingual Differences [**assignee**] Duke [**due**] 1 October 2024 [**status**] in progress
+- [**action**] AJ and Emmanuel will provide final updates on the skill database proposal [**assignee**] AJ, Emmanuel(advanceameyaw) [**due**] 1 October 2024 [**status**] todo
+- [**action**] AJ, ameyaw, kenichi to give a 3-minute presentation for the final deliverables on CSDB and Legacy system at Townhall [**assignee**] AJ, Advanceameyaw, Kenichi [**due**] 1 October 2024 [**status**] todo
+- [**action**] Lordkizzy to create a group to discuss the review of the entity connections [**assignee**] lord kizzy [**due**] 25 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, Marketing initiative, retrospective
+- **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
+
+
 ## Friday 27th September 2024
 
 ### Writers Workgroup
