@@ -207,6 +207,54 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - **emotions:** Casual, speedy , Welcoming, Thoughtful , Friendly, lengthy, argumentative
 
 
+## Thursday 12th September 2024
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Duke Peter [**facilitator**], Cjfrankie  [**documenter**], LadyTempestt, CallyFromAuron, Eric Davies, Sucre n Spice, Gorga Siagian, Onize, Cjfrankie, PG, PeterE, Colleen, Ayo, lordkizzy, Mikasa, guillermolucero, hogantuso, Ade-williams, Mostlfa Lotfy, kateri, daniel effiom
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Working Docs:**
+  - [Onboarding WG Skillshare Matrix](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Agreeing the minutes of the last meeting. 
+- Skillshare matrix.
+- Action items from the last meeting.
+- Facilitation and documentation next time.
+- Onboarding Journeys. 
+- Q4 Budget Draft. 
+- Workgroup Closure: We talked about having a threshold or cap for the number of new people we can onboard into the workgroup.
+- Contributors to edit documents in Q4.
+- Gorga’s Allegations.
+
+
+#### Decision Items:
+- WG Closure: We already have enough contributors in the WG, and the proposed budget for Q4 2024 wouldn’t cover more WG activities to give tasks for new people; plus, there is a concern that the total Ambassador program budget for Q4 is high, so significant budget-fitting will be needed. In light of such, we have decided to temporarily close the WG and consider re-opening at the end of Q1 2025. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that for the budget-line on document editing, two people will be assigned to edit each document we create in Q4. We will aim to select one person who has done similar work before (e.g. report writing), and use the Skillshare Matrix to select another individual who has shown interest in working with the topic of the document.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided that Colleen will lead the “GitHub Project Management Training" session on Mon 7th October 2024 by 13:00 UTC.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Following a discussion about Gorga’s allegations against the WG, we have decided to meet on Thurs 19th September 2024 by 11 AM UTC to discuss the issues. Several people (Peter, Tuso, Duke, Kateri, Vani, Onize, Love, LordKizzy and CJFrankie) confirmed their availability.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Duke and Cjfrankie to showcase the onboarding journey infographics in the next meeting. 
+
+ [**assignee**] Cjfrankie, Duke [**due**] 19 September 2024 [**status**] done
+
+#### To carry over for next meeting:
+- “Q4 Budget Draft.” Come the next meeting, we will look deep into the budget to see how it can be fitted.
+
+#### Keywords/tags:
+- **topics covered:** Skillshare Matrix, onboarding journeys, Q4 2024 budget, q3 2024 budget fitting, budget fitting, Workgroup closure, Contributors to edit docs, Gorga’s allegations
+- **emotions:** informative, Discursive, forward-thinking,  insightful, Friendly
+
+
 ## Friday 13th September 2024
 
 ### Video Workgroup
