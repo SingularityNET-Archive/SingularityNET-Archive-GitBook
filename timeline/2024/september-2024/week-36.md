@@ -448,6 +448,61 @@ Q4 budget:
 - **emotions:** Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly, lengthy, forward-looking
 
 
+## Thursday 5th September 2024
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], LadyTempestt [**documenter**], Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, LadyTempestt, daniel effiom, MartinSoki, Ayo, Cjfrankie, Gorga Siagian, Eric, Photogee, Kateri
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Working Docs:**
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Meeting agenda](https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?usp=sharing)
+  - [BUDGET-FITTED Onboarding WG budget Q3 2024](https://docs.google.com/spreadsheets/d/1SCBv9Fi8MZLefKSs-ezzfVnIpDJfu6BqcT2uVU6glmk/edit?gid=2014555984#gid=2014555984)
+  - [Onboarding Journey Scripts 1](https://docs.google.com/document/d/13AO_46FarBVOpzklI1WD5HfzEkS-Jt1dugm6TRG8K2c/edit?usp=sharing)
+  - [Onboarding Journey Scripts 2](https://docs.google.com/document/d/146NsS-e3S0yReVwoTTNDCbNYWSKoNOz7VtE2atGPX9o/edit?usp=sharing)
+
+#### Town Hall Updates:
+1. Update on how the Onboarders team are doing with new members.
+
+2. The documentation session will take place on 15th August. There will be a recording and slides of this session made available to everyone.
+
+
+
+#### In this meeting we discussed:
+- Minutes from the last meeting
+- Action items from the last meeting 
+- Facilitation/Documentation roster 
+- TownHall Updates
+- Onboarding Journeys Scripts - no decisions on what to do with them yet as it is budget-dependent
+- SkillShare Matrix
+- Temporarily closing the WG
+- Documentation Session on 15th
+- AOB (Gorga’s allegations)
+
+#### Decision Items:
+- We agreed to have the focus group decide what needs to be cut out of our budget before doing more items on our Q3 budget proposal.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to add Eric Davies as one more member, and then close our WG till next year. So from now till next year we will not give people tags or tasks.
+  - [**rationale**] It will be unfair to leave him hanging till next year if we open up our WG as he is 1 meeting away from being a member
+- We agreed that the Onboarding journey scripts finetuned by Onize and Vani are great and should be used!
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Gorga is to reach out to CJ Frankie to fix a date to sort out his allegations against the WG. [**assignee**] Gorga Siagian [**due**] 5 September 2024 [**status**] todo
+- [**action**] Sucre to edit the Onboarding WG facilitation/documentation roster to reflect our current plan. [**assignee**] Sucre n Spice [**due**] 5 September 2024 [**status**] todo
+- [**action**] CJ Frankie will give Onboarding WG town hall updates on the 27th of August. [**assignee**] Cjfrankie  [**due**] 27 August 2024 [**status**] todo
+- [**action**] Gorga will mentor CJ Frankie in giving TH updates for the month of August. [**assignee**] Gorga Siagian [**due**] 27 August 2024 [**status**] todo
+- [**action**] Lord Kizzy to reach out to Timmy and find out if he's interested in being mentored as a documenter by shadowing Lord Kizzy at our next meeting.  [**assignee**] lord kizzy [**due**] 12 September 2024 [**status**] todo
+
+#### Learning Points:
+- What should we do next year with new members who have been attending our meetings this year without the tags since the WG is currently closed?
+
+#### Keywords/tags:
+- **topics covered:** TH Update , Budget , Session, Onboarding Journey Scripts, Workgroup closure
+- **emotions:** Collaborative, tense, argumentative, funny 
+
+
 ## Friday 6th September 2024
 
 ### Writers Workgroup
