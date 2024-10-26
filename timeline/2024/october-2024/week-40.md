@@ -100,6 +100,7 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 
 ## Thursday 3rd October 2024
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly
@@ -157,6 +158,67 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 #### Keywords/tags:
 - topics covered: Decision Making Process, consent decision making, consensus decision making, advisory decision making, Proposal, Q3 budget tasks, Focus Group, Onboarding WG, cap, numbers cap, retrospective, onboarding journeys, ocean, X spaces, Ocean ambassador program, capability, Rewards, decentralised, decentralised community
 - emotions: long, engaging, participatory, exploratory, new people present
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** LadyTempestt [**facilitator**], Kateri [**documenter**], LadyTempestt, CallyFromAuron, Clement Umoh, lord kizzy, CollyPride, Duke Peter, AshleyDawn, OluAyoola7D, Daniel Effiom, Kateri, MartinSoki, Olamide, Onize, Photogee, Timmy, SubZero, osmium, Saint_David
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Working Docs:**
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Q4 Budget proposal](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Onboarding WG Objection Summary](https://docs.google.com/document/d/1dfpDaS8rNmsDbHAZipDG3XQ5BEfMmlRblq_328jbOhM/edit?usp=sharing)
+  - [Adjusted Q4 budget proposal ](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Minutes of the last meeting: We agreed the minutes of the last meeting
+- Skillshare matrix: The regular reminder was given for new people to input their skills into the skillshare matrix document.
+- Action items from the last meeting.
+- Facilitation/documentation next meeting: Duke is facilitating with MartinSoki documenting and adding to the summary tool.
+- Town hall update: Duke will give the townhall update for October.
+- Onboarding Journey: Onize agreed to lead the Onboarding Journey session alongside Duke.
+- Q4 Budget: The focus group has finalised the budget fitting. Meetings will now take place  biweekly; .
+- Skillshare sessions: We agreed to have 2 sessions this Quarter after all - Understanding decentralised Governance, & Monitoring and Evaluation.
+- Inactive members: We need to look at removing the Onboarding tag from people who are no longer active. Also to note that since the workgroup is closed, it is not possible to get the tag back if taken from. Duke asked "how large we want the ambassador program to be overall?" Due to wider issues with budget concerns. A suggestion was made to raise this in the Open Governance meeting because it is a general concern. 
+
+
+
+#### Decision Items:
+- Q4 Budget: We decided to move the analysis of the research project on "onboarding to decentralization" to Q1 2025.
+
+  - [**rationale**] Budget fitting
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- Skillshare session: We decided to have both of the proposed sessions this quarter. Understanding decentralized governance on 5th December 2024, led by Vani, & Monitoring and Evaluation on 21st November 2024, led by Onize.
+  - [**rationale**] Because we have a bit of surplus after our budget fitting 
+  - [**effect**] mayAffectOtherPeople
+- Inactive members: We agreed that the inactive members' "Onboarding WG" tags will be removed, but Martinsoki will retain his even though he has been somewhat inactive, because he has a documentation task assigned to him next meeting.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to contact Onize to ask if she will help lead the session on the Onboarding journeys on 3rd October  [**assignee**] CallyFromAuron [**due**] 3 October 2024 [**status**] done
+- [**action**] Colleen to approach Gorga and ask him to post hos written apology by the end of the month [**assignee**] CollyPride [**due**] 30 September 2024 [**status**] done
+- [**action**] The focus group is to finalise budget for Q4 budget  [**assignee**] SucrenSpice, LadyTempestt, CallyFromAuron [**due**] 3 October 2024 [**status**] done
+- [**action**] LordKizzy to rework the Q4 roster to reflect our decision to meet fortnightly in this quarter.
+ [**assignee**] lord kizzy [**due**] 3 October 2024 [**status**] done
+- [**action**] Duke to check the ambassador calendar and put in the respective dates for our meetings and the skill share session. [**assignee**] Duke Peter [**due**] 17 October 2024 [**status**] todo
+- [**action**] Duke to facilitate next meeting and MartinSoki to document  [**assignee**] Duke Peter, MartinSoki  [**due**] 17 October 2024 [**status**] todo
+- [**action**] Duke to give Town hall update  [**assignee**] Duke Peter [**due**] 29 October 2024 [**status**] todo
+- [**action**] Onize and Duke to share facilitation of the Onboarding Journey session with the community on governance call [**assignee**] Onize, Duke Peter [**due**] 10 October 2024 [**status**] todo
+- [**action**] Vani to add Onboarding Journeys on the agenda for governance call  [**assignee**] CallyFromAuron [**due**] 10 October 2024 [**status**] todo
+- [**action**] Ayo and kateri to present a draft of the research project next meeting.  [**assignee**] oluAyoola7D, Kateri [**due**] 17 October 2024 [**status**] todo
+- [**action**] Onize to lead Monitoring and Evaluation session on the 24th November. [**assignee**] Onize [**due**] 24 November 2024 [**status**] todo
+- [**action**] Vani to lead Decentralized governance on 5th December. [**assignee**] CallyFromAuron [**due**] 5 December 2024 [**status**] todo
+- [**action**] Members are to go through the Q4 budget proposal to raise any objections or add comments [**assignee**] Onboarding WG members [**due**] 17 October 2024 [**status**] todo
+
+#### To carry over for next meeting:
+- Townhall update, Research project, Q4 budget proposal.
+
+#### Keywords/tags:
+- **topics covered:** TH Update, Onboarding Journey Scripts, skills matrix, Q4 2024 budget, Budget fitting, Focus Group, research, Marketing WG, biweekly, fortnightly, meeting dates, Inactive members, Skillshare session, decentralisation, monitoring and evaluation, M&E 
+- **emotions:** Friendly, Full house, Collaborative, Casual
+
+
 ## Friday 4th October 2024
 
 ### Video Workgroup
