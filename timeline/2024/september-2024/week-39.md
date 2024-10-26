@@ -6,6 +6,7 @@ description: Mon 23rd Sep - Sun 29th Sep 2024
 
 ## Monday 23rd September 2024
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -74,6 +75,114 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - [action] Members are to update their records in the working document as they meet the Core membership requirements [status] todo
 - [action] The committee to investigate Gorga’s allegations of Ayo and Effiom [assignee] Tuso., Cjfrankie  [due] 7 October 2024 [status] todo
 - [action] Draft and make meeting notes available [assignee] effiom [due] 7 October 2024 [status] done
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Effiom [**documenter**], andre, effiom, onize, tevo
+- **Purpose:** We develop the Treasury System
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764599407266626&cot=14)
+- **Other media:** [Link](https://app.read.ai/analytics/meetings/01J8F6PEVJPFZN9812JWPHDHYW?utm_source=Share_CopyLink&section=transcript)
+- **Working Docs:**
+  - [Treasury Automation WG 23.09.24 Development Updates](https://www.youtu.be/2xuSGF2KuNg)
+  - [Treasury Automation WG Q4 Budget](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/)
+
+#### Agenda item 1 - Month of September Development Updates - [resolved]
+
+#### Discussion Points:
+- 23.09.24 Development Updates: https://www.youtu.be/2xuSGF2KuNg
+- Updates are being tracked on Swarm Dework
+- No new updates were made to the documentation
+
+#### Decision Items:
+- The JSON generator still remains the main priority for development
+  - [**rationale**] This is the main project in the Q3 proposal, hence why it is top priority
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Next month, include the snapshot of previous month updates that were not shared [**status**] todo
+- [**action**] Test API calls for getting the hash of recognition IDs to ensure it works as intended [**status**] todo
+
+#### Agenda item 2 - Related updates to the Treasury System and Next Steps - [carry over]
+
+#### Discussion Points:
+- Backlog Updates
+- Participation vs contribution tooling updates
+- Treasury Support - Transaction reversal
+- Improvements on handling of Duplicate proof
+- The effect of the updates done by Mesh
+- Adopting this template for project management: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764598084062992&cot=10
+- Should we have a better way to track Backlogs and recognize priority?
+
+#### Decision Items:
+- For now, we will manually create a mechanism to filter based on new metadata standard, because there might be some infrastructure change in the near future
+  - [**rationale**] There might be infrastructure change
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Creation of the JSONs for dashboard updates will be manual because the Treasury incident rarely happens
+  - [**rationale**] The treasury incident of 17.09.2024 rarely happens so the JSON creation can be manual for now
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Create New Metadata Standard that redacts/filters/nullifies on-chain Recognition Metadata Standard [**assignee**] Tevo [**status**] todo
+- [**action**] Add calculation of INF token distribution for previous cycles to Treasury Guild action item [**status**] todo
+- [**action**] Updates to Treasury dashboard to filter out faulty transactions [**assignee**] André [**status**] todo
+- [**action**] Create a guiding document on how the rewards are calculated for participation reward tooling [**status**] todo
+
+#### Agenda item 3 - Treasury Automation WG Q4 Proposal and Budget fitting - [resolved]
+
+#### Discussion Points:
+- Treasury Automation WG Budget: https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/
+- What is the plan for Budget fitting for Treasury Automation WG?
+
+#### Decision Items:
+- In Q4, we would focus on pulling first for API wallet address and task updates
+  - [**rationale**] Based on priority, pulling is first and then posting can be done later
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- We are taking out Import GitHub API and Tasks to Treasury Manager task for Q4
+  - [**rationale**] GitHub PBL budget hasn't yet been approved and even if it gets approved, this might not be top priority for them in Q4
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- We are taking out creation of tool to automate generating Core Contributor lists
+  - [**rationale**] The current manually process can still be used for now
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Update the Q4 budget to reflect these decisions [**status**] todo
+
+#### Agenda item 4 - Open Topics - [resolved]
+
+#### Discussion Points:
+- How can others track more real time what updates happen?
+- Would a monthly update on Discord be enough?
+- How to address the updates that happen after meeting and before next month?
+- When should we reward ourselves for the Q3 proposal?
+
+#### Decision Items:
+- The best template for sharing updates in between meetings would be that we don't have to change information
+  - [**rationale**] Because we won't have to change the information and the message would be a reference
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- Updates should be posted in discord Bi-weekly
+  - [**rationale**] Since the WG meetings are Monthly, Bi-weekly is ideal. That way members get updates twice before the next meeting
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- Effiom to create the meeting summary and Andre to review
+  - [**rationale**] This was the outcome of the voting system on Miro used during the meeting
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create a template message that reminds the last Summary and links to it. Then Shares live tasks (Swarm Dework Board) and roadmap to see future plans [**assignee**] effiom [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Development, tooling, Updates, Swarm Dework, JSON Generator, Backlogs, Budget fitting
+
+
 ## Friday 27th September 2024
 
 ### Writers Workgroup
