@@ -103,3 +103,54 @@ We noted that the Marketing Guild meeting summary of 16th August, which said "Fo
 #### Keywords/tags:
 - topics covered: Decision Making Process, consent decision making, consensus decision making, advisory decision making, Proposal, Q3 budget tasks, Focus Group, Onboarding WG, cap, numbers cap, retrospective, onboarding journeys, ocean, X spaces, Ocean ambassador program, capability, Rewards, decentralised, decentralised community
 - emotions: long, engaging, participatory, exploratory, new people present
+## Friday 4th October 2024
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], malik, lord kizzy, Slate, SubZero, osmium, Cjfrankie, Rojo, lilycupcake, AJ, TheFreysDeFi
+- **Purpose:** Regular meeting of the Video WG. This meeting focused on task updates, automation tool, and budget cuts.
+- **Working Docs:**
+  - [Video Workgroup Budget request Q4](https://docs.google.com/spreadsheets/d/1m3H2V7GPw5XGwpvtB5lizEHwHQTZOCe-_tqDCKysrJU/edit?gid=0#gid=0)
+
+#### Discussion Points:
+- Rojo provided updates on our social media role: the usual schedule is being followed, i.e. short videos are posted every Tuesday and Saturday at 11:00 UTC, while long videos are shared on Monday or Friday at 17:00 UTC. He confirmed that all videos from last month have been uploaded. Rojo also hosted an X space with the Ocean Protocol ambassador program, which received positive feedback. He is currently fine-tuning the automation tool, which is experiencing backend issues with long video posts being done manually. Rojo acknowledged that he forgot to grant senior members access to the automation tool; senior members should ask him for a login. Additionally, he is engaging with commenters. He mentioned that he is manually posting on Instagram due to API issues, as Meta isn't providing access.
+
+- Rojo mentioned that he is developing a feature called "mixpost" for the automation tool, which allows creators to post directly without sharing a drive link. Kizzy inquired how voting for videos would work; Rojo explained that users can comment on the video on mixpost before it is uploaded to social platforms. He also noted that he is encountering some issues with this feature, which he hopes to resolve soon.
+
+- Devon provided updates on Zealy, noting that he asked Kenichi about the next sprint. Kenichi replied that it won't be happening soon and that Zealy is now under the marketing guild, rather than the video or writers workgroup.
+
+- Lord_Kizzy explained that Zealy's structure is changing, with the next sprint focusing on outreach rather than videos and articles, as having two Zealys within one community indicates a lack of communication. They will experiment with a tiered structure and compare its effectiveness to the previous approach. Rojo noted that while Zealy is improving metrics, it serves more for itself than for the video workgroup. He suggested hosting live streams, like X spaces, to increase participation, potentially featuring a meme or video creation competition with rewards for the top three using the Zealy platform. Kizzy affirmed that this new Zealy approach aims to achieve similar goals.
+
+- Rojo suggested that since Zealy is ending, we should allocate those funds to live X spaces and giveaways for meme or video competitions. Kizzy countered that we still owe $225 to Writers WG, and that the previous sprint should be covered by the video workgroup. The remaining budget could then help offset cuts instead of being used for giveaways and X spaces.
+
+- With task manager not present, Slate went through all the pending tasks on the dework board. Rojo stated that he created the August monthly updates video and contacted the task manager to set up a task for it, but after two days, he hadn't seen a response. He suggested having a backup in case he is unavailable. Kizzy agreed to create a task for it, emphasizing that urgent videos can't be delayed.
+
+- Devon mentioned that the new videos feature unique intros and asked if we should use a single unified intro for all videos. Rojo suggested that we can maintain consistency in color and textures, the animations can differ.
+- Lilycupcake inquired about the criteria for posting shorts. Kizzy explained that they simply create a short and request the task manager to create a task for it. Kizzy also proposed a budget of $20 for clips and $30 for shorts created from scratch, which everyone agreed on. The discussion then shifted to the process for creating short clips, specifically whether there should be an open task for direct submissions or if there should be a vote on clip topics before creating them. Slate will create a poll in the channel for this purpose.
+
+- Kizzy presented the budget, noting a 17.47% overall cut, amounting to $1,651. To accommodate this, a 10% reduction was applied to every recurring task except quality control, with the remainder covered by the Zealy and contingency budgets. We then discussed how much to reduce the budget for the social media role. Members noted that we lack sufficient data to assess the impact of the new automation tool, and only after evaluating its effectiveness can we make a decision. Additionally, the allocation for social media isn't fixed; it's likely to be less utilized than originally planned, allowing savings to be redirected to other tasks.
+- Rojo proposed adding a budget for hosting weekly x spaces to increase engagement.
+
+#### Decision Items:
+- The colors and textures of video intros should remain consistent.
+  - [**rationale**] to maintain a unified approach through a common theme in videos
+- we decided to reward $30 for shorts created from scratch.
+  - [**rationale**] as they differ from clips that are part of a long video.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Zealy allocation will be completely cut.
+  - [**rationale**] As Zealy is now part of marketing guild, and to accommodate budget cuts.
+
+#### Action Items:
+- [**action**] Task manager role for the month of september  [**assignee**] hogantuso [**status**] todo
+- [**action**] Facilitator for the month of september  [**assignee**] Slate [**status**] todo
+- [**action**] Town hall edit for the month of september  [**assignee**] AndrewBen [**status**] todo
+- [**action**] Town hall summary for the month of september  [**assignee**] killy [**status**] todo
+- [**action**] Meeting summary for the month of september  [**assignee**] oep [**status**] todo
+- [**action**] Review team for the month of september  [**assignee**] Zalfred, lord kizzy [**status**] todo
+- [**action**] create a task for Monthly Updates-August video [**assignee**] lord kizzy [**due**] 4 October 2024 [**status**] todo
+- [**action**] Create a poll whether there should be an open task for direct submissions of clips or if there should be a vote on clip topics before creating them. [**assignee**] Slate [**due**] 4 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Rewards, Budget fitting, Zealy Updates, automation tool, Budget cuts, process for shorts
+- **emotions:** informative, interactive, productive, Thoughtful
