@@ -318,6 +318,7 @@ Also a Zoom link has been added to the publicity blurb that will be posted.
 
 ## Friday 27th September 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -353,3 +354,40 @@ Budget Update: We tackled the budget discussion together. Following a discussion
 #### Keywords/tags:
 - **topics covered:** Q4 budget, Marketing Guild, Twitter threads, Triva, community page, Zealy, video WG
 - **emotions:** quiet, Discursive, calm
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Ese Williams, TheFreysDeFi, Olokoji, Photogee, Kenichi, Advanceameyaw, Kareem, Cjfrankie, kateri, Mikasa, Moitlheki, lord kizzy, Aguda
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Meeting Summary - Marketing Guild - 20 September 2024](https://docs.google.com/document/d/1FroLuL0GPiIWiSNUJiP9ph_PvvROVzse8Zov-rsUbeg/edit#heading=h.1qqhjio0eyo2)
+  - [Marketing Guild 27th September Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [Marketing Guild: Global Outreach](https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing)
+  - [Marketing Survey on FAQs for SingularityNET, Its Ecosystem, and the Ambassador Program](https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing)
+  - [RE-KPIs Version: Roles and Responsibilities](https://docs.google.com/document/d/1rMxZA9qhTBXF7AhilNPQ_93-UdYhW5JEDAXGjtVn5nY/edit#heading=h.qt25uhu2cl6a)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469)
+
+#### Discussion Points:
+- Notion Setup Completion: The Notion workspace has been successfully set up.
+- Documentation Aesthetics: Kenichi suggested improvements to the aesthetics of the documentation, noting that the current layout could be enhanced.
+- Budget Approval: The proposed budget for Q4 has been officially approved.
+- Ecosystem Navigation Chatbot: Kevin proposed the idea of introducing a chatbot to help new users navigate the ecosystem more seamlessly, improving accessibility and user experience.
+- Ideation Document Status: Ese mentioned that the Ideation document is not yet ready for review.
+- SingularityNET Promotion: Kareem Thomas shared ideas on promoting SingularityNET by organizing a mascot event
+- Onboarders' Feedback: CJ gave positive feedback regarding the onboarding of new members, highlighting their smooth integration into the team.
+- Content and Engagement Update: Mikasa noted that there has been a lot of content and announcements recently, which have garnered significant engagement from the community.
+- Scheduling tools: kateri recommended Later for social media Automation
+- Kenichi mentioned that Singularity new ambassador Mascot initiative was fair enough
+
+#### Action Items:
+- [**action**] Ese to present the Ideation document once it is ready. [**assignee**] Ese Williams [**status**] in progress
+- [**action**] Ese to update the necessary document so that Zealot can get started on their tasks. [**assignee**] Ese Williams [**status**] in progress
+- [**action**] Kareem Thomas to provide a detailed document outlining strategies for promoting SingularityNET in a fun and engaging way. [**assignee**] Kareem [**status**] in progress
+- [**action**] All members to submit their activities on Tally form
+ [**assignee**] All Members [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Onboarding, Documentation, Ambassador Program marketing, Zealot, mascot, chatbot, Notion, Q4 2024 budget,  
+- **emotions:** Friendly, warm, ideas, progressive
