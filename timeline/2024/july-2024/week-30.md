@@ -213,6 +213,84 @@ Discussed possible tasks for AGI-24 conference, August 13th-16th; and for the pr
 - emotions: brisk, one speaker, good humoured, full of information
 
 
+## Tuesday 23rd July 2024
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines, Caue [**translator**], Guillermo, Ines, Martin Rivero, Caue, Andrea Dekovic
+- **Purpose:**  Preproduction for ADN Buenos Aires & AGI-24 RoundTable
+- **Transcript:** [Link](https://otter.ai/u/fff0AhGcoWDVnCuINQ2nMeYxst4?view=transcript)
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+
+#### Agenda item 1 - Agenda Item 1 - WG Comunicación ADN / RoundTable #1 - [carry over]
+
+#### Narrative:
+The conversation revolved around AI, IoT, and personal growth. Emphasized AI and Iot's potential to enhance home security and comfort. Raised concerns about their impact on the Latin American community, particularly around regulation and oversight. There was a broader discussion on the importance of personal growth, professional development, and financial education, with focusing on cryptocurrency investments and the need for professional advice. Discussed about filling out and submit the application forms and create forum posts in the Spanish section for both events to motivate engagement and onboarding.
+
+
+
+#### Decision Items:
+- RoundTable #1 Program and invitations
+
+#### Action Items:
+- [**action**] Share information on the upcoming event in the Telegram group [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] todo
+- [**action**] #Revisions on RoadMap Document [**assignee**] Martin Rivero, Guillermo, Ines, Caue, Andrea Dekovic [**due**] 25 July 2024 [**status**] in progress
+- [**action**] Recommend joining the Telegram group for continuous updates [**assignee**] Martin Rivero [**due**] 24 July 2024 [**status**] todo
+- [**action**] Look into live streaming on Instagram and TikTok [**assignee**] Caue [**due**] 24 July 2024 [**status**] in progress
+
+#### Agenda item 2 - Communication Strategies - [carry over]
+
+#### Narrative:
+Discussions about IoT market trends and communication strategies continued. members touched on AI-generated content, privacy concerns in telemedicine, and energy conservation strategies. Members discussed Latin American politics and blockchain technology as ways to empower local communities.
+
+
+#### Decision Items:
+- Draft Onboarding Strategy Focus on Brasil and Colombia
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Invite Thais [**assignee**] Caue [**due**] 25 July 2024 [**status**] done
+- [**action**] Draft design of specific actions for collaboration with members [**assignee**] Guillermo, Ines, Andrea Dekovic [**due**] 25 July 2024 [**status**] done
+
+#### Agenda item 3 - Marketing and Social Media Strategies - [carry over]
+
+#### Narrative:
+The team discussed communication strategies for marketing the upcoming ADN event and rondtable, including leveraging social media platforms like Telegram, Instagram, and TikTok to boost community engagement. There was debate around balancing the quality and quantity of participant interactions across these platforms.
+
+
+#### Decision Items:
+- ADN event Action items July 31
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] SingularityNET T-Shirts for ADN [**assignee**] Guillermo [**due**] 25 July 2024 [**status**] in progress
+- [**action**] Draft questionnaire for ADN  [**assignee**] Ines, Andrea Dekovic [**due**] 25 July 2024 [**status**] in progress
+- [**action**] Create Tik-Tok Account [**assignee**] Ines [**due**] 22 July 2024 [**status**] done
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Members discussed content of upcoming workshop for github operations and project management.
+
+
+#### Decision Items:
+- Github WorkShop
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Github WorkShop [**assignee**] Caue, Guillermo [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation, GitHub, Google Analytics, ADN, agi-24
+- **emotions:** Collaborative, Friendly, Thoughtful , entertaining, challenging, growth, socialmedia
+- **other:** Step by Step, moving forward, scalability 
+
+
 ## Wednesday 24th July 2024
 
 
