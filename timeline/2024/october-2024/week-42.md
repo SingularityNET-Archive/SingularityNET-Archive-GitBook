@@ -187,6 +187,7 @@ The October update will cover:
 ## Friday 18th October 2024
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -289,3 +290,76 @@ The conversation also touched on understanding budget requirements, particularly
 #### Keywords/tags:
 - **topics covered:** Proposal, community engagement, Facilitation, content calendar, conference, UNILAG, spotlight, budget, marketing survey, podcast, town hall update, Zealot, mascot 
 - **emotions:** Collaborative, Thoughtful, productive, Friendly
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Tevo, Effiom [**documenter**], Advanceameyaw, Effiom, Evelyn, LadyTempestt, Tevo
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Meeting video:** [Link](https://youtu.be/mPduh-UUTjI)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764602024314902&cot=10)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG Proposal Q4 2024](https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/)
+  - [Knowledge Base WG - Introduction to Knowledge Base WG](https://www.youtube.com/watch?v=jlHcTBzeJ0Y)
+  - [KBWG Schedule on Miro](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+  - [Knowledge Base WG Miro Board and Activities](https://www.youtube.com/watch?v=ml_kDw09omQ)
+  - [Managing Meeting Summaries Guide](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/)
+
+#### Agenda item 1 - Workgroup Project Management - [carry over]
+
+#### Discussion Points:
+- How do we record contributions?
+- How do I know what I am contributing towards?
+- Task Name from Budget Sheet corresponds with Dework Task Template https://docs.google.com/spreadsheets/d/1oHaNJHd3kH2eCUOThlIQ_9wVjYePTZMYolXSErm3o-o/
+- Should we use next session to review and audit October Dework Tasks?
+- How do we handle quick Administration tasks in this quarter?
+
+#### Decision Items:
+- We use Dework in Q4
+  - [**effect**] affectsOnlyThisWorkgroup
+- We use GitHub for the course rewards
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will attempt to handle multiple smaller action items in breakout rooms after we have the GitBook
+  - [**effect**] affectsOnlyThisWorkgroup
+- In sessions we don't update Dework tasks, but have an overview audited and reviewed tasks
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo creates meeting summary and Effiom reviews and publishes it [**assignee**] Tevo, Effiom [**status**] todo
+
+#### Discussion Points:
+- How does the collected data have an effect on GPT? 
+- https://chatgpt.com/g/g-5ynQ4fAv6-ambassador-program-knowledge-base-wg-ai-organiser
+- Didn't work as expected; no sign of using or even reading our reasoning. Starts doing even more mistakes when additional commands given to try to use our csv data
+- Might need to create another GPT that tries to compare and validate suggested responses with existing rationale
+- Updating the google sheet template to capture the format data presented in GPT
+- How do we use GPT?
+- Do we continue using Miro Board to visualize our final results?
+
+#### Decision Items:
+- We don't create another GPT to improve quality. Right now, our focus is to get good enough results on GitBook for others to see
+  - [**effect**] mayAffectOtherPeople
+- We continue using same "Organizing Resources" Miro Board; however, we created new sticky for GPT results
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Provide item name and analysis/description and copy the results from GPT to Google Sheet Template
+https://docs.google.com/spreadsheets/d/1ykSOOcXzv_fXQg53HBm54ibc_KtUou13g0JYPbvpEp8/
+Then Copy template to Organised Resources page as last row, then clear template (but leave the questions) [**assignee**] everyone [**status**] todo
+
+#### Agenda item 3 - Create a flowchart about asset movement from source to GitBook - [resolved]
+
+#### Discussion Points:
+- Where are assets coming from?
+- Who is collecting assets?
+- How do we store assets?
+- How do we organise assets?
+- How do we share assets?
+
+#### Decision Items:
+- We won't create request templates - currently we have enough items to work with
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:** flowchart, Miro Board, GPT, Dework, Project Management
