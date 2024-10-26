@@ -186,6 +186,7 @@ The October update will cover:
 
 ## Friday 18th October 2024
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -206,3 +207,85 @@ Kizzy also gave an update informing the workgroup on the animation team for the 
 #### Keywords/tags:
 - **topics covered:** social media management, participation, Collaboration, pool, animation, content calendar, writers WG, marketing guild
 - **emotions:** informative, productive, Collaborative, new ideas
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Ese Williams, Photogee, Kenichi, Kareem, Cjfrankie, lord kizzy, malik, GorgaSiagian, AshleyDawn, Temioluwa, Aguboss, Daniel Effiom, Olokoji
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiatives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Podcast Ideation](https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit)
+  - [Marketing Guild Meeting Agenda Document](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?tab=t.0)
+ - [Should there be restrictions/a cap on joining the Ambassador Program?] (https://cryptpad.fr/pad/#/2/pad/view/ipJrKwnNkw59JlxfG3H4gzcL1qtL0lU5lstf-88XIaI/embed/)
+
+#### Discussion Points:
+- Unified Content Calendar: Kizzy mentioned that a single content calendar has been created, including a schedule for videos and the Marketing Guild, allowing us to know in advance what content will be published. We are still awaiting information from the Writers' Workgroup to add additional content to the calendar.
+
+- Did You Know” Content: The "Did You Know" content has been revamped and is in progress, by Ese.
+
+- Community Initiatives:Ese reported that only a few submissions have been received, which has been communicated to Photogee. Ayo suggested reporting to Kizzy, Kenichi, or Ayo.
+
+- Mascot Initiative: Kareem mentioned that the mascot initiative, ending on October 20, 2024, has so far received only 9 submissions, possibly due to the required skills for participation, though we are still hoping for more entries.
+
+- Zealot Campaign: Kenichi mentioned encountering challenges that have hindered progress on the Zealot campaign.
+
+- Podcast Campaign: Kenichi has made progress with the podcast campaign, including drafting an invitation letter, setting details for episode one, creating a list of discussion points, and preparing questions.
+There is a need to source questions from the community for the podcast.
+The team also needs to decide whether to switch producers for each episode or stick to one producer for all four episodes.
+Writers need to be assigned to start researching questions and gathering community input on the topics for each guest in the episodes.
+
+- Blockchain Event in Unilag: Kenichi presented an upcoming Web3 event at the University of Lagos (Unilag) on November 15, 2024. It would be a good opportunity for people in the SingularityNET community to attend for networking and promotional purposes.
+
+- Governance Setting Document: Ayo shared a link from Governance WG for team members to drop their thoughts on governance settings via CryptPad, ensuring anonymity for feedback. See https://cryptpad.fr/pad/#/2/pad/view/ipJrKwnNkw59JlxfG3H4gzcL1qtL0lU5lstf-88XIaI/embed/
+
+- Feedback from Writers' Workgroup: CJFrankie reported that the Writers' Workgroup meetings have been running smoothly, with no issues outside of the expected ethics. The meeting summaries have accurately captured the discussions.
+
+- Marketing Guild Weekly Meeting Facilitator: Ayo suggested shuffling the meeting facilitator for the Marketing Guild meetings, as the current setup is becoming monotonous.
+
+- Ops breakout
+Budget Concerns: The proposed budget does not seem feasible or sustainable, and proposing a higher budget doesn't appear realistic.
+
+Mascot Initiative: The mascot initiative involves a one-time payment of $200.
+
+Zealot Initiative: The Zealot initiative will run for 30 days, after which its impact will be compared to previous Zealy initiatives to determine the most feasible approach moving forward.
+
+Podcast Initiative: It was suggested to separate the budget requests for the podcast initiative. Although a podcast channel had been set up previously, it never went live.
+
+Marketing Survey: The marketing survey is now ready.
+
+- Comms Breakout
+Initiative Updates:
+General updates were shared on ongoing initiatives, including progress on spotlight contributor and working group projects.
+
+Conference Involvement:
+The team agreed on participating in an upcoming conference at Unilag, with an estimated attendance of 3,000. This presents a valuable opportunity, but specific details still need to be finalized.
+
+Booth and Marketing:
+Consideration was given to securing a booth at the event, though there is a need for clarity on the marketing budget, including sponsorship packages and branded merchandise.
+
+Tangible Data and Conversion:
+Discussions focused on how to convert event participants into tangible data (e.g. creating a group chat), with an emphasis on defining the purpose and value of this conversion.
+
+Budget Considerations:
+The conversation also touched on understanding budget requirements, particularly for sponsorship and other associated expenses.
+
+#### Decision Items:
+- We agreed to review the progress updates on each initiative and announce the community engagement initiative, including the submission deadline, in the town hall update presentation.
+  - [**rationale**] This ensures transparency on the ongoing projects and provides members with a clear timeline for their submissions.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that the organization will participate in the Web3 conference at the University of Lagos (UNILAG), Nigeria.
+  - [**rationale**] This decision leverages the opportunity for networking and promotion, with an expected 3,000 attendees. 
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Photogee: To compile useful links and documents for tracking progress on various initiatives. [**assignee**] Photogee [**status**] in progress
+- [**action**] Mikasa: To provide updates on social media requests. [**assignee**] Mikasa [**status**] in progress
+- [**action**] Kenichi: To share a document where team members can indicate interest in roles for the podcast initiative. [**assignee**] Kenichi [**status**] in progress
+- [**action**] Kizzy: To have a discussion with Mikasa regarding the unified content calendar before rolling it out to all teams and workgroups next week. [**assignee**] lord kizzy [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Proposal, community engagement, Facilitation, content calendar, conference, UNILAG, spotlight, budget, marketing survey, podcast, town hall update, Zealot, mascot 
+- **emotions:** Collaborative, Thoughtful, productive, Friendly
