@@ -317,6 +317,7 @@ Members showcase deliverables and follow up Next month improvement work on GitHu
 ## Thursday 15th August 2024
 
 
+
 ### African Guild
 
 - Type of meeting: Weekly
@@ -387,6 +388,83 @@ Kateri raised a question about the African Guild documentation roster, and swift
 #### Keywords/tags:
 - topics covered: useful documentation, Documentation, action items, decisions, tracking decisions, sources , what is a meeting, conciseness, accuracy, decision rationales, AI tooling, ai tooling problems, limitations of AI, limitations of AI for documentation, read.ai, read.ai limitations, Ethics, speaker identification, subjectivity, dynamic conversations, attribution
 - emotions: warm, Discursive, informative
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** One-off event
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines [**translator**], Guillermo, Ines, Martin Rivero, Rous, Thiago
+- **Purpose:** 2nd Discuss bringing SingularityNET to Near governance, marketing strategy with MetaPool & Near, and planning future events and live streams
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+  - [Near Protocol](https://x.com/NEARProtocol)
+  - [Near Foundation](https://near.foundation/about/)
+  - [ingularityNET LATAM Social Media Handles GitHub Document](https://github.com/singularitynet-latam-ambassador/outreach/blob/main/social-media/Ambassadors_SocialMediaHandles.md)
+  - [Superintelligence Alliance Doc](https://docs.superintelligence.io/artificial-superintelligence-alliance)
+
+#### Agenda item 1 - Agenda Item 1 - Possibilities Bringing SingularityNET to Near Governance - [carry over]
+
+#### Narrative:
+Metapool team presented the scenario and the team discussed the possibility of bringing SingularityNET into the Near governance structure. Thiago was asked to provide insight into the first concrete steps for this process, including access to Near funds through DAO participation. Guillermo shared current SingularityNET projects with Thiago for consideration in the exchange.
+
+
+#### Decision Items:
+-  Discuss bringing SingularityNET to Near governance
+
+#### Action Items:
+- [**action**] Start preparing documentation for the X Spaces [**assignee**] Ines, Guillermo [**due**] 14 August 2024 [**status**] done
+- [**action**] Contact ParaBuilders Brazil for collaboration [**assignee**] Thiago, ines ganina [**due**] 14 August 2024 [**status**] done
+- [**action**] Final revision of tasks and deliverables and assets disbursement  [**assignee**] Guillermo, Martin Rivero [**due**] 19 September 2024 [**status**] done
+- [**action**] Guillermo to explore DAO participation and the benefits for MetaPool and SingularityNET [**assignee**] Guillermo, Martin Rivero [**due**] 19 August 2024 [**status**] todo
+- [**action**] Identify if SingularityNET LATAM can access Near Foundation funds through grants or another channel [**assignee**] Guillermo, Martin Rivero [**due**] 18 August 2024 [**status**] todo
+
+#### Agenda item 2 -  Communication Strategies - Marketing with MetaPool & Near - [carry over]
+
+#### Narrative:
+There was a need to call for Brazil-focused workshops once a month, though no budget is currently allocated for this. The team proposed allocating $50 to replicate the message on community channels such as #ParaBuilders. There was also a suggestion to utilize SingularityNET Foundation funds to hold an event in Brazil, with Thiago joining the alliance with MetaPool for planning.
+
+
+#### Action Items:
+- [**action**] Final revision on material en deployment of media actions [**assignee**] Ines, Guillermo [**due**] 15 September 2024 [**status**] done
+- [**action**] Analyze Allocation for message replication on community channels [**assignee**] Guillermo, Ines [**due**] 19 August 2024 [**status**] todo
+- [**action**] Organize the event in Brazil with MetaPool, María, and Dani [**assignee**] Ines [**due**] 19 August 2024 [**status**] todo
+
+#### Agenda item 3 - Marketing and Social Media Strategies - [carry over]
+
+#### Narrative:
+Live Streaming & Governance Systems. Plans were made for live streaming AI governance discussions on X, LinkedIn, and YouTube, with options to host these either once a month or every 15 days. The topics would cover updates on AI, decentralized AI governance, and community news, with the first live stream scheduled for September 4. Members Discussed live stream frequency: every 15 days or monthly. Include a variety of topics and news updates. TBD
+
+
+#### Action Items:
+- [**action**] Create a list of articles for Caue to translate and publis [**assignee**] Ines [**due**] 16 September 2024 [**status**] done
+- [**action**] Upload 3 videos of the ADN event to TikTok [**assignee**] Caue [**due**] 15 September 2024 [**status**] done
+- [**action**] Invite participants for the first live stream space on September 4 [**assignee**] Ines, Martin Rivero [**due**] 21 August 2024 [**status**] todo
+- [**action**] Create publications and infographics for the live stream [**assignee**] Guillermo [**due**] 26 August 2024 [**status**] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Operations discussion on regards of marketing and content topics. How to execute plalns and live streams. Task assignments and deliverables.
+
+
+#### Decision Items:
+- Track task and deliverables from guild members
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Final revisions on system for tracking task and deliverables from guild members [**assignee**] Guillermo [**due**] 18 September 2024 [**status**] done
+- [**action**] Creating tasks on DeWork for Guild members [**assignee**] Guillermo [**due**] 26 August 2024 [**status**] todo
+- [**action**] Operations tasks on regards of  live stream plans [**assignee**] Guillernmo, Martin Rivero [**due**] 26 August 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Live Streams, Budget, Roles, content calendar, Schedule, Social Media Strategy, Accountability, Strengths, Team Work
+- **emotions:** Collaborative, creative, Friendly, productive, Reflective, Task-focused, Team Work
+- **other:** 
 
 
 ## Friday 16th August 2024
