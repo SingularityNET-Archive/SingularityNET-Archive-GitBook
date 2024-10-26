@@ -144,6 +144,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 ## Friday 30th August 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -215,6 +216,50 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 #### Keywords/tags:
 - topics covered: Rewards, Budget, Q4 budget, Q3 budget, Q3 quarterly report, Roles, survey, Marketing, Marketing Guild, Foundation, SingularityNet Foundation, content engagement, uncompleted tasks, Discord, Contributor Spotlight
 - emotions: Collaborative, warm, Thoughtful
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Cjfrankie  [**facilitator**], Ines [**documenter**], Kenichi, cjfrankie, LadyTempestt, devon, Gorga Siagian, Advanceameyaw, Nebula, King David, Emmanuel Issac, Evelyn Robert, Merryman, Kareem, Ines
+- **Purpose:** Weekly meeting of the writers workgroup.
+- **Working Docs:**
+  - [DRAFT: WWG Q3 Report ](https://docs.google.com/document/d/1cqzXDc73Fx1eZdQlEA8lj9YBag-h6Zj9Si9bI18hQLY/edit?usp=sharing)
+
+#### Narrative:
+The meeting kicked off with Guillermo Lucero opening the call; he welcomed everyone and then left the meeting. A couple of minutes later, Kenichi arrived and joined the conversation, which was facilitated by CJ Frankie. We started by checking the action items from the last meeting.
+
+After CJ Frankie, Lady Tempestt, and Inés Gaviña commented on the importance of creating a team-based Q3 budget and improving our proposal submission for next quarter, Kenichi shared the Q3 budget draft in the Writers WG Discord channel; see link here WWG Q3 Report: DRAFT: WWG Q3 Report. https://docs.google.com/document/d/1cqzXDc73Fx1eZdQlEA8lj9YBag-h6Zj9Si9bI18hQLY/edit?usp=sharing
+
+Kenichi highlighted that the whole Ambassador Program is dealing with budget constraints due to token depreciation, and stated that we wouldn’t be able to add much to the budget. He also shared that the proposal was still incomplete and in a draft state and that every WG member could comment and share their insights and ideas for it.   
+
+Lady Tempestt insisted on the importance of sharing the budget-writing process as Kenichi cannot have eyes on everything, and how he could share numbers and metrics so that different WG members could help him write reports. On the other hand, Kenichi expressed the impossibility of sharing certain ambassadors' accounts with everybody and that writing the budget proposal requires technical information that can only be found on the Ambassador Zealy and Substack. 
+
+Lady Tempestt shared her interest in hosting the SEO workshop and stated that we wouldn’t need too much budget to do it, with 100 or 200 USD would be enough. Kenichi believed that as we are a writers' group we should be focusing on writing and discussing topics and subjects. Kenichi suggested that maybe the Marketing Guild was interested in hosting such a workshop, although he warned about how the Marketing Guild is still starting to organize itself and is not able to amplify our articles yet. 
+
+Lady Tempestt also shared her concern on how we are not publishing How-to articles. Kenichi answered that the WG was always flexible and open to new ideas as with Inés’s We Are Reading series. Kenichi suggested Lady Tempestt bring her ideas into the Discord and share them with the WG.
+ 
+Kenichi also shared his concern regarding the new Zealy sprint, and his reflections and ideas on how to avoid the continuous bot intervention. He said that the backbone of the Zealy Quest is to onboard new members to the Ambassador Program and with the multiplication of fake accounts and members joining again and again the dynamic is not working. He shared the idea of reducing the points in each quest and reducing the points on the onboarding task to avoid bots and fake accounts. Inés Gaviña asked Kenichi if the LATAM Guild could share quests with the Global Zealy Sprint and Kenichi said that would be a fantastic idea. 
+
+Kenichi commented he found some inconsistencies within the reviews of the Writers WG tests, he felt that sometimes reviewers are afraid to put low numbers in the test and he suggested we shouldn't be afraid to put low numbers on tests that are not up to the level of the Ambassador Program. 
+
+
+Updates:
+Although still facing low engagement, the Spanish and French X accounts are finally activating themselves and starting to create content. 
+
+Feedback on Eric Davies's not-approved test; writers shared with him the importance of proper research and thorough reading of the test objectives.
+
+
+
+#### Action Items:
+- [**action**] Inés Gaviña to submit the AI Nurse article on Dework [**assignee**] ines ganina [**due**] 2 September 2024 [**status**] done
+- [**action**] Point system distribution call: Lady Tempestt to attend, to help Kenichi track the distribution of the Points System. 
+ [**assignee**] LadyTempestt [**due**] 3 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Points system, Peer-review, Q3 Report , WWG Test, SEO Workshop, Q4 Budget Proposal
+- **emotions:** respectful, proactive, cooperative
+
+
 ## Saturday 31st August 2024
 
 ### Gamers Guild
