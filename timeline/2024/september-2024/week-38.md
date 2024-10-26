@@ -140,6 +140,7 @@ description: Mon 16th Sep - Sun 22nd Sep 2024
 
 ## Wednesday 18th September 2024
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -183,6 +184,55 @@ Some changes have already been made: the interface is more mobile-friendly; ther
 #### Keywords/tags:
 - topics covered: open source, open source ethos, meeting summary tool, API key, Tag taxonomy, community owned, meeting summary tool redesign, Town Hall presentation, Presentation, tags
 - emotions: Organised, cheerful, short
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], lord kizzy [**documenter**], AJ, Advanceameyaw, Clement Umoh, lord kizzy, guillermolucero, osmium, CollyPride, Kenichi, Mikasa
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Follow Up > New Operations System Deployment:  Announcements and Follow-up actions, Draft and Set Voting System for Community to select Q4 new proposals, Discuss further upgrades and Challenges
+- Kenichi on NDA for the Legacy project.
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting
+- UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database; AJ and Advanceameyew gave the updates on the hosting of the database. The teams haven't yet had a call with Rojo to further discuss this. Advance suggested a beta test within the week before hosting with rojo. AJ noted that the Google sign-in isn't working for now, but the Discord and GitHub sign-ins are good to go.
+- UPDATE STATUS ON DEVELOPMENT: Legacy: Kenichi gave the updates, he noted that the backend is done and once that is done, the database will be hosted. He gave a presentation of the legacy website and its features. The SBD (soul-bound token) documentation is ready and uploaded on the GitHub board.
+-  New Operations System Deployment: Guillermo announced that the voting system is live and will be up for two weeks. He also spoke on getting feedback from the community for the system and areas of improvements.
+
+#### Decision Items:
+- We decided on the members that will review the Entity Connections progress so far (Colleen, advanceameyew, kenichi, lordkizzy)
+  - [**rationale**] The guild needs to review the project to know the next steps to take
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Duke to give the presentation of the Ideation Project on Impact of Lingual Differences [**assignee**] Duke [**due**] 25 September 2024 [**status**] in progress
+- [**action**] kenichi to present the skeletal framework for the Legacy system. [**assignee**] Kenichi [**due**] 25 September 2024 [**status**] done
+- [**action**] AJ and Emmanuel will provide final updates on the skills database proposal [**assignee**] AJ, Emmanuel(advanceameyaw) [**due**] 25 September 2024 [**status**] todo
+- [**action**] AJ, ameyaw, kenichi to give a 3-minute presentation for the final deliverables on CSDB and Legacy system at Townhall [**assignee**] AJ, Advanceameyaw, Kenichi [**due**] 24 September 2024 [**status**] todo
+- [**action**] Lordkizzy to create a group to discuss the review of the entity connections [**assignee**] lord kizzy [**due**] 25 September 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, soulbound token, operations system, collaboration skills database
+- **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
+
+
 ## Friday 20th September 2024
 
 ### Writers Workgroup
