@@ -161,6 +161,52 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - emotions: inclusive, decisive, Collaborative, fun, interesting
 
 
+## Wednesday 11th September 2024
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], lord kizzy [**documenter**], AJ, Advanceameyaw, Clement Umoh, lord kizzy, Yemi Solves, guillermolucero, osmium, CollyPride, Kenichi, PeterE, TheFreysDeFi, Kareem, WaKa, Duke, Karen, Apple
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Follow Up > New Operations System Deployment:  Announcements and Follow Up actions, Draft and Set Voting System for Community to select Q4 new proposals, Discuss further upgrades and Challenges
+- Kenichi on NDA for the Legacy project.
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections; There were no updates from Waka on this project.
+- Discussions on Guild Approach and Operating System: Waka presented his concerns on the new operation system and they were addressed by the guild
+-  New Operations System Deployment: Guillermo gave an update on the voting process and Rojo is currently drafting out the voting system
+- Discussions on an NDA for the Legacy project:  kenichi presented the NON-DISCLOSURE AGREEMENT doc to the group and he has added the deliverables for Q1 milestone to the project repository. Here is the doc: https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit
+
+#### Action Items:
+- [**action**] Lordkizzy to meet up with Duke as regards to the presentation of the Ideation Project on Impact of Lingual Differences [**assignee**] lord kizzy [**due**] 11 September 2024 [**status**] done
+- [**action**] kenichi to present the Skeletal framework for the Legacy system. [**assignee**] Kenichi [**due**] 11 September 2024 [**status**] todo
+- [**action**] Team members to update the Repository with a documentation of the progress so far  [**assignee**] AJ, Advanceameyaw, Kenichi, Rojo, WaKa [**due**] 11 September 2024 [**status**] done
+- [**action**] Guillermo to disburse funds to Rojo for completion of the Web 3 Contributions Dashboard project  [**assignee**] Guillermo [**due**] 11 September 2024 [**status**] done
+- [**action**] Kenichi and Guillermo to have a call to discuss the report on the deliverable for Q1 milestone on legacy  [**assignee**] Guillermo, Kenichi [**due**] 11 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, NDA, Operations, Contributions Dashboard,  Impact of Lingual Differences, operations system, 
+- **emotions:** Casual, speedy , Welcoming, Thoughtful , Friendly, lengthy, argumentative
+
+
 ## Friday 13th September 2024
 
 ### Video Workgroup
