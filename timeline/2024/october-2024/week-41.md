@@ -118,3 +118,47 @@ https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXX
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, Operations, Entity Connections, Retrospective, skills database, Q3 2024 report
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative
+## Friday 11th October 2024
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Ese Williams, Photogee, Kenichi, Kareem, Cjfrankie, lord kizzy, Mapula, malik, jaymeon, kateri, Advanceameyaw, GorgaSiagian, AshleyDawn, Mikasa, Temioluwa, Moitlheki
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Guild 11th October Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?tab=t.0)
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Podcast Ideation](https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit)
+
+#### Discussion Points:
+- Welcoming New Members: Brief introduction and welcome to new members joining the team.
+
+- Podcast Progress: There has been no update from Kenichi on the podcast, as the focus remains on the mascot initiative; no decision has been made regarding the format (video or audio), and the draft invitation to speakers is still pending.
+- Zealot initiative: Ese mentioned that the zealot initiative is ready for a test run and upcoming launch.
+- Mascot campaign: Ese confirmed that the mascot campaign has officially been launched.
+- Community initiatives: Ese confirmed that people have started submitting their initiatives for review.
+- Unified Content Calendar: Kizzy proposed a unified content calendar, allowing other guilds to request the marketing guild's support for post creation and event promotion if there is.
+- Brand Guidelines and Content Management: Kareem discussed the importance of other guilds, like the R&D guild, strictly following brand guidelines, pointing out a recent issue with non-compliance.
+- Brand Guidelines and Content Management (cont'd): Kizzy added that the same issue occurred with the Education guild and suggested the unified content calendar, along with marketing's review, would help prevent these problems in the future.
+- Unified Content Calendar Publicity: Kenichi emphasized that once the unified content calendar is finalized, it should be publicized and integrated into the Notion board for better coordination across guilds.
+
+#### Decision Items:
+- Poll vote on podcast format: We agreed to hold a poll to decide between an audio or video format for the podcast. The poll resulted in video winning the vote. 
+  - [**rationale**] To engage the audience with more dynamic and visual content, which could increase reach and interaction. This decision affects the marketing team, speakers, and production crew, as they will need to adjust their planning and resources to produce video content.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Brand guidelines adherence: It was agreed that any content to be published must strictly follow the brand guidelines
+  - [**rationale**] This decision was driven by the need to maintain a consistent and professional brand image across all communications and platforms. It primarily affects all guilds creating content, ensuring they align with the set standards, and it holds the marketing team accountable for reviewing and approving content before publication.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Lord kizzy is tasked with speaking to the video workgroup today to discuss how we can unify these contents into a single calendar. [**assignee**] lord kizzy [**status**] in progress
+- [**action**] Mikasa is tasked with revamping the "Did You Know" content to make it more engaging and interactive [**assignee**] Mikasa [**status**] in progress
+- [**action**] Mikasa is tasked with drafting a social media post request form, which will include fields for the workgroup name, a link to the content, and an explanation of the objectives. The form must go through the proper ratification process before being implemented. [**assignee**] Mikasa [**status**] in progress
+- [**action**] Ese to share submitted community initiatives proposals with the review committee so they can be reviewed 
+ [**assignee**] Ese Williams [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** planning, review, content calendar, brand guidelines, community initiatives proposals, social media post request, social media, podcast, podcast format, video
+- **emotions:** Thoughtful, Well-attended, engagement, forward-thinking, engaging new people
