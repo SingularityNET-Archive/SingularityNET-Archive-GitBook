@@ -95,6 +95,85 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - emotions: inclusive, funny , interesting, interactive
 
 
+## Tuesday 27th August 2024
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Guillermo [**facilitator**], Ines [**documenter**], Ines [**translator**], Guillermo, Ines, Martin Rivero, Caue
+- **Purpose:** Address token distribution issues, MetaPool partnership status, and coordination of decentralized AI governance content for upcoming live events.
+- **Working Docs:**
+  - [Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724](https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing)
+  - [BGI Collective Roundtables _  Spanish _ 110724](https://docs.google.com/document/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit?usp=sharing)
+  - [Evento ADN BsAs Acciones ](https://docs.google.com/document/d/1scjx_y4k3CrERG8fLqxOUIDE3OJDMvaZ8gM_JpbSRyo/edit#heading=h.ws1sxwb0jsxg)
+  - [Mesas Redondas Colectivas AGI-24](https://docs.google.com/document/u/0/d/1sIC9etKfe1IRrKN5RS6lFLeS4eiAiFKoS5BwO1NFaH8/edit)
+  - [LATAM Guild GitHub](https://github.com/singularitynet-latam-ambassador)
+  - [Near Protocol](https://x.com/NEARProtocol)
+  - [Near Foundation](https://near.foundation/about/)
+  - [ingularityNET LATAM Social Media Handles GitHub Document](https://github.com/singularitynet-latam-ambassador/outreach/blob/main/social-media/Ambassadors_SocialMediaHandles.md)
+  - [Superintelligence Alliance Doc](https://docs.superintelligence.io/artificial-superintelligence-alliance)
+  - [@SNET_Latam + MetaPool Latam](https://docs.google.com/document/d/1lHU_9iuzzDdUNuBW2jU73DZ0-jpbm4JlRQ5huVY7Bjg/edit)
+
+#### Agenda item 1 - Agenda Item 1 - Token Distribution and MetaPool Collaboration - [carry over]
+
+#### Narrative:
+Martín raised concerns about not receiving his tokens while on vacation in Europe, even though Caue received his. There was no response from Andre regarding this issue. The team also discussed the status of the live collaboration with MetaPool, which is still undecided. Despite this, the decision was made to prepare the space and content in advance, with Rous confirming that MetaPool had yet to make a final decision.
+
+
+#### Action Items:
+- [**action**] Guillermo to explore DAO participation and the benefits for MetaPool and SingularityNET [**assignee**] Guillermo, Martin Rivero [**due**] 19 August 2024 [**status**] done
+- [**action**] Identify if SingularityNET LATAM can access Near Foundation funds through grants or another channel [**assignee**] Guillermo, Martin Rivero [**due**] 18 August 2024 [**status**] done
+- [**action**] Prepare for the first live stream on September 4 [**assignee**] Ines [**due**] 26 August 2024 [**status**] in progress
+- [**action**] Plan the Argentina event with Solana on August 29 [**assignee**] Guillermo [**due**] 25 August 2024 [**status**] cancelled
+- [**action**] Continue designing the decentralized governance topics for discussion [**assignee**] Guillermo, Ines, Martin Rivero [**due**] 25 August 2024 [**status**] done
+- [**action**] Follow up on Martín's missing tokens [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] todo
+- [**action**] Prepare content for the live space with MetaPool, regardless of their final decision [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] todo
+
+#### Agenda item 2 - Strategic Communications - [carry over]
+
+#### Narrative:
+ Twitter Account and Portuguese Content Strategy. Caue was tasked with managing the Twitter account in Portuguese. The team agreed to publish the same content as the previous day on Tuesdays and Thursdays in Portuguese. They also discussed hosting a Space X (audio-only event) once a month and brainstormed potential names for the space.
+
+
+#### Action Items:
+- [**action**] Replicate and translate content across channels [**assignee**] Ines [**due**] 25 August 2024 [**status**] in progress
+- [**action**] Manage the Twitter account in Portuguese, publishing content on Tuesdays and Thursdays [**due**] 28 August 2024 [**status**] todo
+- [**action**] Finalize the name for the monthly Space X event [**assignee**] Guillermo [**due**] 28 August 2024 [**status**] todo
+
+#### Agenda item 3 - Planning Future Spaces and Events - [carry over]
+
+#### Narrative:
+The team reviewed the topics and schedule for the upcoming live streams and events. Each topic will focus on decentralized AI governance and related themes:
+Decentralized AI Governance (4/9/2024 - Guillermo)
+Biotechnology & Rejuve-AI (2/10/2024 - Martín & Ines)
+OpenCog Hyperon / Artificial Intelligence (6/11/2024 - Ines)
+They also discussed the importance of spreading SingularityNET compute decentralization globally and revisited the idea of creating collaboration and consensus systems instead of traditional voting systems.
+
+
+
+#### Action Items:
+- [**action**] Invite participants for the first live stream space on September 4 [**assignee**] Ines, Martin Rivero [**due**] 21 August 2024 [**status**] in progress
+- [**action**] Write a blog post about the growth event and Ambassador role [**assignee**] Martin Rivero [**due**] 25 August 2024 [**status**] todo
+- [**action**] Create FAQ section for the @SNET_Latam Community page [**assignee**] Martin Rivero, Guillermo [**due**] 1 September 2024 [**status**] in progress
+- [**action**] Complete pending crypto information segment [**assignee**] Ines, Guillermo [**status**] done
+- [**action**] Prepare content for upcoming spaces on AI governance and biotechnology [**assignee**] Martin Rivero [**due**] 28 August 2024 [**status**] todo
+
+#### Agenda item 4 - Operations Sub-Group - [carry over]
+
+#### Narrative:
+Members discuss and explore options for collaboration systems over voting systems. 
+
+
+#### Action Items:
+- [**action**] Operations tasks with regards to live stream plans [**assignee**] Guillernmo, Martin Rivero [**due**] 26 August 2024 [**status**] done
+- [**action**] Explore options for collaboration systems over voting systems [**assignee**] Martin Rivero, Guillermo [**due**] 28 August 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Roles, Content Calendar, Educational Content, Live Stream, Team Work, Multi-language Communication, Event Planning, Decentralization
+- **emotions:** Collaborative, Team Work, Strategic, problem-solving
+- **other:** 
+
+
 ## Wednesday 28th August 2024
 
 ### Research and Development Guild
