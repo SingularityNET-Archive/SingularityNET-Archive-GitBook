@@ -4,6 +4,45 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 # Week 42
 
+## Monday 14th October 2024
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], AndrewBen [**documenter**], Advanceameyaw, AndrewBen, Effiom, Evelyn, GorgaSeagian, kateri, LadyTempestt, Malik., MartinSoki, SubZero, Tevo, Valola, AshleyDawn
+- **Purpose:**  We are creating a PBL course on Andamio about GitHub features and use cases to manage 
+
+
+- **Meeting video:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764603174894132&cot=10)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764603174894132&cot=10)
+- **Other media:** [Link]( https://youtu.be/6-x1rHLmzBI)
+- **Working Docs:**
+  - [Proposal Fitting ](https://docs.google.com/document/d/1oWc-IvXb5Lw9UQwUd06O9I8VLjGva6k2ljo4q7Y9JNc/edit?tab=t.0#heading=h.l832kyptxzsj)
+
+#### Agenda item 1 - Orientation on Miro Board  - [resolved]
+
+#### Discussion Points:
+- Discussions on how to use the Miro Board and how to navigate by looking at the meeting templates and project stages, creating educational content syncing, and referencing documentation.
+
+
+
+#### Agenda item 2 - Proposal Fitting  - [carry over]
+
+#### Discussion Points:
+- Explaining the processes through the proposal fitting sheet and how important every role is in encouraging members to show interest in various tasks, kick-starting the workgroup and going through the budget planning.
+
+#### Action Items:
+- [**action**] Create Dework template for tasks [**assignee**] Tevo [**due**] 18 November 2024 [**status**] todo
+- [**action**] Coordinate with Andamio team to know which version of Andamio we should use [**assignee**] Tevo [**due**] 18 November 2024 [**status**] todo
+- [**action**]  Publish the summary and review [**assignee**] LadyTempestt [**due**] 21 October 2024 [**status**] todo
+- [**action**] Create Meeting Summary  [**assignee**] AndrewBen [**due**] 21 October 2024 [**status**] todo
+- [**action**] Prepare next session [**assignee**] Tevo [**due**] 18 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Budget fitting, Tool Development, Reward Data, Andamio, Andamio version 2
+- **emotions:** Organised, progress-oriented, informative, progressive, decisive, learning moment
+
+
 ## Wednesday 16th October 2024
 
 ### Research and Development Guild
