@@ -331,6 +331,7 @@ Members discuss task management and assigments for next week and September, draf
 ## Wednesday 21st August 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -451,6 +452,52 @@ Members discuss task management and assigments for next week and September, draf
 #### Keywords/tags:
 - **topics covered:** Ambassador GitBook, Miro Board, Strategy Guild, Valid Items, Onboarding, assets, code of conduct, grassroots ethics, conflict resolution, roles and levels, old Strategy Guild, new Strategy Guild
 - **emotions:** Educative, informative, Collaborative, interesting
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], kateri, osmium, malik, Slate, GorgaSiagian, Clement Umoh, King David, Billy, Yemi Solves, Merryman, WaKa, esewilliams, martinsoki
+- **Purpose:** Regular meeting of Education Guild. This meeting covered: CCCP Quizzes Update  - Malik's NFT Presentation for Certification Program - Quarterly Report Assignment - Slate Budget Request Template - Ese's presentation on Ai for beginners 
+- **Working Docs:**
+  - [Budget Request for Q4 Education Guild](https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing)
+ - [AI for Beginners Project Blueprint] (https://docs.google.com/document/d/1k41rkHr21lrskZnhPx9JRpxCfhYFIHcMe4hch2ToXyE/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- CCCP Quizzes Update
+- Malik's NFT Presentation for Certification Program
+- Quarterly Report Assignment 
+- Slate Budget Request Template
+- Ese's presentation on Ai for beginners 
+- Osmium chatbot UI 
+
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then Slate shared that all the quizzes for CCCP have finally been completed and all of the last quizzes are in review 
+- Then Malik shared the NFT he created for the certification program , and everybody really liked it 
+- Slate discussed and shared the budget request template for all projects to add on to their task, so they can be carried out effectively in the next quarter 
+- Osmium showcased the UI he created for the chatbot he is developing 
+- Ese presented the updated blueprint for AI for Beginners. There were some discussions regarding the timing of the videos which is going to be around 2-5 min 
+- WaKa shared some insights from the past to the present of video making and how they improved 
+- Slate assigned quarterly report creation to clement and yemisolves, and ended the meeting 
+
+#### Decision Items:
+- 5 min long videos for Ai for beginners which may vary 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Quarterly report and Budget Request Reporting till next week 
+  - [**rationale**] nil
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Gorga and Osmium to shift all the quizzes from Google docs to Google forms 
+  - [**rationale**] nil 
+  - [**opposing**] nil 
+
+#### Keywords/tags:
+- **topics covered:** Presentation, Task Assignment, CCCP, video length
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 22nd August 2024
