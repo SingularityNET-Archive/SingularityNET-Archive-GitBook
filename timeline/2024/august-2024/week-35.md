@@ -176,6 +176,7 @@ Members discuss and explore options for collaboration systems over voting system
 
 ## Wednesday 28th August 2024
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -220,6 +221,104 @@ Members discuss and explore options for collaboration systems over voting system
 #### Keywords/tags:
 - topics covered: Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, Documentation, voting, skills database, access
 - emotions: Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly
+
+### Dework PBL
+
+- **Type of meeting:** Biweekly
+- **Present:** malik [**facilitator**], effiom [**documenter**], Celiwe, effiom, Ekom, eric davies, Gorga Siagian, lord_kizzy, malik, Mapula, Prefina, Slate, SubZero, tevo
+- **Purpose:** This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- **Meeting video:** [Link](https://youtu.be/40hQ8_XT0i0)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764595751219742&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- **Working Docs:**
+  - [Dework PBL Quarter 2 2024 Report](https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM)
+  - [Dework PBL Course content](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+  - [Process Guild Quarterly Report - Q2 2024](https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/)
+  - [Process Guild Quarterly Report - Q3 2024](https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/)
+
+#### Agenda item 1 - WG Introduction and New Members onboarding - [resolved]
+
+#### Discussion Points:
+- Introduction and overview of Dework PBL course
+- 2 new members (Ekom and SubZero) introduce themselves
+- Importance of Dework in task management within the Ambassador program
+- Treasury operators are required to take the course
+- The future of Dework PBL WG
+
+#### Action Items:
+- [**action**] New members to explore course content and share feedback if any [**status**] todo
+
+#### Agenda item 2 - Review Process Guild Quarter 2 Report - [resolved]
+
+#### Discussion Points:
+- Q2 Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/
+- Was the document previously reviewed?
+- Any other adjustment to be made to the report?
+
+#### Decision Items:
+- Q2 Report draft was updated during 17.07.2024 meeting, and final review was done async
+  - [**effect**] affectsOnlyThisWorkgroup
+- It was agreed that the review process for the report has been done
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Q2 Report to be submitted with Q3 report [**status**] todo
+
+#### Agenda item 3 - Reviewing Quarter 3 Report for Process Guild and Dework PBL - [resolved]
+
+#### Discussion Points:
+- Process Guild Q3 Report: https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/
+- Explanation of the Guild's view in Treasury Guild Dashboard
+- How can other Gs/WGs opt in to use the Zoom import feature?
+- Concerns with adding Miro links in report; people can delete information
+- What is a notable decision?
+
+#### Decision Items:
+- Before submitting a report, we will get feedback from WGs currently using Zoom export feature 
+  - [**effect**] mayAffectOtherPeople
+- Mention the availability of this feature during Governance call to get other WGs/Gs to participate
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] At the end of Q3, update the dashboard to capture the reallocation of funds from Process Guild to Dework PBL and Knowledge Base WG (KBWG) [**status**] todo
+- [**action**] Add metrics on how many Zoom imports were done [**status**] todo
+
+#### Agenda item 4 - Dework PBL WG Q4 Budget discussion - [carry over]
+
+#### Discussion Points:
+- Suggestions on Q4 deliverables
+- Should we group suggestions based on similarities or keep them separate?
+- How do we select Q4 deliverables from the suggestions?
+- Should we share only Dework report or wait to review KBWG report before submission?
+- Which Discord channel should the poll be created in?
+- More information about ACP (Ambassador Certification Program)
+- Exploring LMS platforms other than Andamio to develop PBL course content
+
+#### Decision Items:
+- We cannot focus on all the suggestions in Q4, we need to streamline using a poll
+  - [**effect**] affectsOnlyThisWorkgroup
+- Keep suggestions separate to enable use get feedback for each from the community
+  - [**effect**] affectsOnlyThisWorkgroup
+- Create poll in Dework PBL channel about proposals we are willing to do, and invite Core contributors to choose which idea they prefer
+  - [**effect**] mayAffectOtherPeople
+- We will wait for community feedback before we start drafting proposal to help us choose a focus direction
+  - [**effect**] mayAffectOtherPeople
+- Proposed meeting to review draft on 04.09.2024, time for call would be communicated
+  - [**effect**] affectsOnlyThisWorkgroup
+- On 05.09.2024 we will finalize Process Guild Q3 Report and Q4 proposal
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Draft proposal based on poll feedback by 02.09.2024 [**assignee**] Tevo [**status**] done
+- [**action**] Improve on drafted proposal async [**status**] todo
+- [**action**] Schedule call for live review of proposal on 04.09.2024 [**assignee**] Tevo [**status**] done
+- [**action**] Create poll with the suggestions for Q4 deliverables in Dework PBL discord channel and invite Core contributors [**assignee**] Tevo [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Dework, dework PBL, Miro Board, Lessons, Andamio, feedback, poll, zoom import, Q3 2024 Quarterly Report, Q4 2024 budget proposal, Q2 2024 quarterly report
+- **emotions:** decisive, interactive, planning, Collaborative, interesting
+
+
 ## Thursday 29th August 2024
 
 ### LatAm Guild
