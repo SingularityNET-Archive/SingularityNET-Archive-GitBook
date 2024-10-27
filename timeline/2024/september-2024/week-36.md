@@ -262,6 +262,7 @@ Q4 budget:
 
 
 
+
 ### Knowledge Base Workgroup
 
 - Type of meeting: Biweekly
@@ -446,6 +447,51 @@ Q4 budget:
 #### Keywords/tags:
 - **topics covered:** Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, Documentation, voting, skills database, NDA, DeepFunding
 - **emotions:** Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly, lengthy, forward-looking
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Slate, osmium, WaKa, esewilliams, Tevo, GorgaSiagian, Ayo, Clement Umoh, DevonHardy, Photogee, Effiom, SubZero, Zalfred, sergiobenar
+- **Purpose:** - Regular meeting of Education Guild. This meeting covered: Education Guild Budget Request Discussion - Dework PBL Budget Request Discussion - Education Quarterly Report Discussion 
+- **Working Docs:**
+  - [Budget Request Q4 Education Guild](https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing)
+  - [Q3 - Education Guild - Quarterly Report](https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- Education Guild Budget Request Discussion
+- Dework PBL Budget Request Discussion
+- Education Quarterly Report Discussion 
+
+#### Discussion Points:
+- Slate greeted everyone, then started off the meeting by discussing the projects that education guild is taking forward to next quarter. These are: CCCP Automation, Ai for Beginners, CCCP Website, Webinar Series 
+- After going through each project there was a discussion regarding the webinar series and through multiple suggestions and ideation we were able to set up a proper process to move forward with the project 
+- Then after finalising the education guild budget request, tevo presented his dework pbl wg budget request 
+- WaKa had some concerns regarding the dework pbl budget request which were discussed and some were also made part of the budget request 
+- Then at the end of the meeting we took a look at the Q3 quarterly report for the education guild, made by clement and yemi solves; some adjustments were requested and presented by Slate 
+
+#### Decision Items:
+- Budget request agreed by everybody 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Webinar series to be included and be part of the request 
+  - [**rationale**] nil
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Put the website setup in consideration and go with the figma file first, also look for currently existing apps which can do it 
+  - [**rationale**] Most of the group agreed 
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] audit most of the completed tasks  [**assignee**] Slate [**due**] 31 August 2024 [**status**] done
+- [**action**] Review and finalize the quarterly report  [**assignee**] Slate, osmium [**due**] 7 September 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Presentation, CCCP, Budget Request, dework pbl request, Quarterly Report, ideation
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 5th September 2024
