@@ -391,3 +391,42 @@ Budget Update: We tackled the budget discussion together. Following a discussion
 #### Keywords/tags:
 - **topics covered:** Onboarding, Documentation, Ambassador Program marketing, Zealot, mascot, chatbot, Notion, Q4 2024 budget,  
 - **emotions:** Friendly, warm, ideas, progressive
+## Saturday 28th September 2024
+
+### Gamers Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], Gorga Siagian, hotasiro, martinsoki, malik, CollyPride, SubZero, hufiumer69, rebel, TheFreysDeFi, scarecrow, kateri
+- **Purpose:** Regular meeting of Gamers' Guild. This meeting centered around participants showcasing their progress and discussing improvements for their workgroup models.
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Slate began by noting that the Gamers' Guild budget was approved in the initial iterations, highlighting that the quarterly report was well-prepared and met everyone's expectations. He congratulated all the members of the guild.
+- Next, workgroup updates were presented, and Kateri showcased the Archives Workgroup model. It featured an impressive design that conveyed the ambiance of a library. Suggestions included enhancing the detailing and slightly increasing the length of the upper floor.
+- CollyPride presented the R&D Guild model, which required significant revisions as it resembled the Video Workgroup's building. Slate agreed to help help the creators in revamping it.
+- Photogee presented the Dework PBL Workgroup model, which featured an attractive design with a helipad on top. Inside, there were images of Dework displayed on the walls. Slate suggested arranging the pictures more orderly and recommended adding additional elements related to Dework PBL. He noted that the colors and textures should reflect the Dework aesthetic, but overall, it was a commendable model.
+- Martin presented the Treasury Guild, starting with an exterior view of the building, which featured "Treasury Guild" prominently displayed along with a dollar sign above. Inside, there was a depiction of the treasury dashboard and a counter where members were conducting transactions. A vault, guarded by security personnel, was also included, along with a newly added treasury meeting room. Suggestions were made for improvements, indicating that many additional elements could enhance the building.
+- Finally, Malik showcased the Education Guild building, which featured impressive interior design and a futuristic aesthetic, including a hologram representing a digital twin. The walls displayed infographics and NFTs. The main suggestion was to reduce the building's size, to which Malik responded that the Education Guild has many upcoming projects, and that space could be utilized to represent them.
+- Slate then announced the workgroup creators who will assist him in developing the VR map. The two modelers are Gorga and Kateri who created the Archives Workgroup. He also mentioned that he will soon select two additional workgroup creators as the quarter begins, noting that everyone now understands how to build on Roblox.
+- Slate also mentioned that he is exploring ways to incorporate the Sophiaverse dialogue system into the game.
+
+#### Decision Items:
+- Kateri and Gorga will assist Slate in making the VR map
+  - [**rationale**] This is due to their good development skills.
+- Treasury guild and archives workgroup models were finalized 
+  - [**rationale**] They are mostly complete. 
+
+#### Action Items:
+- [**action**] Animation & Dialogue System - Education Guild [**assignee**] malik, hufiumer69 [**due**] 12 October 2024 [**status**] in progress
+- [**action**] Animation and dialogue system - Treasury Guild [**assignee**] martinsoki, scare-crow [**due**] 12 October 2024 [**status**] in progress
+- [**action**] Animation and dialogue - Archives Workgroup [**assignee**] GorgaSeagian, kateri [**due**] 12 October 2024 [**status**] in progress
+- [**action**] Department Creation - Dework PBL [**assignee**] rebel, Photogee [**due**] 12 October 2024 [**status**] in progress
+- [**action**] Department Creation - R&D Guild [**assignee**] oep, CollyPride [**due**] 12 October 2024 [**status**] in progress
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox, metaverse, department creation, work updates, mentorship, Animation, Map creation, dialogue, VR map
+- **emotions:** Friendly, Collaborative, informative, Building, contributive
+- **games played:** no game
