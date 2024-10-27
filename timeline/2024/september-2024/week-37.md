@@ -163,6 +163,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 
 ## Wednesday 11th September 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -205,6 +206,43 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, NDA, Operations, Contributions Dashboard,  Impact of Lingual Differences, operations system, 
 - **emotions:** Casual, speedy , Welcoming, Thoughtful , Friendly, lengthy, argumentative
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], osmium, WaKa, Clement Umoh, Merryman, GorgaSiagian, DevonHardy, malik, esewilliams, Kenichi, lord kizzy
+- **Purpose:** - Regular meeting of Education Guild. This meeting covered: Quiz Automation Time Addition demo - Presentation Series 
+- **Working Docs:**
+  - [Budget Request Q4](https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing)
+  - [Quarterly Report Q3](https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- Quiz Automation Time Addition demo
+- Presentation Series 
+
+#### Discussion Points:
+- Slate greeted everyone, then started off the meeting by discussing the projects that education guild is taking forward to next quarter 
+- Slate gave a demo of the time addition to the quizzes. There was also a discussion on how much time should be allotted to each quiz, and multiple suggestions were given by educators 
+- Kenichi presented the "presentation series" project. Multiple modules were discussed. Slate mentioned that this project was left out of the budget because the budget for it was not presented during the finalizing of the Guild's Q4 budget request 
+
+#### Decision Items:
+- Start of the poll with the time allotment for each quiz 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Slate to start the work on Google Classrooms 
+  - [**rationale**] nil
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Add the remaining quizzes to the quiz makers sheet  [**assignee**] Slate [**due**] 13 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Presentation, CCCP, Q4 2024 Budget Request, Q3 2024 Quarterly Report, ideation
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 12th September 2024
