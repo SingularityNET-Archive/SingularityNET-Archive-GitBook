@@ -43,3 +43,37 @@ description: Mon 21st Oct - Sun 27th Oct 2024
 #### Keywords/tags:
 - **topics covered:** Q4 budget, roster, Facilitation, Documentation, Q4 propsals
 - **emotions:** Casual, inclusive, fun, Collaborative, decisive
+## Wednesday 23rd October 2024
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AndrewBen, AshleyDawn, Clement Umoh, Effiom, esewilliams, GorgaSeagian, lord kizzy, malik, martinsoki, SubZero, Zalfred, hogantuso
+- **Purpose:** Regular meeting of Education Guild. This meeting covered: Project Based Updates
+- **Working Docs:**
+  - [Ai for Beginners Team](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+-   Ai For Beginners 
+-   Certification Program
+-  Education Guild Website Wiki / CCCP Integration 
+
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- Updates from different projects, and discussion
+- Ai For Beginners: Scripts are coming in, 90% complete. Minor editing required to pass the scripts to the community for  review
+
+-  Certification Program: Marketing going well; one announcement made today. Core Contributors were tagged. We will make an announcement in upcoming townhalls and workgroup meetings. 
+
+- Education Guild Website Wiki / CCCP Integration: Design template is being worked on by Gorga and Franklyn and is about 70% complete. Gorga presented his design in Canva; Slate pointed out some stuff and gave suggestions 
+
+-   Workshop / Webinar Series: Osmium ill, he will be joining in soon 
+
+#### Action Items:
+- [**action**] Slate to update the Ai for Beginners arrangement document  [**assignee**] Slate [**due**] 31 October 2024 [**status**] in progress
+- [**action**] Updates from Ai for Beginners  [**assignee**] esewilliams [**due**] 30 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, announcement, publicity, Core Contributors, Town Hall, scripts,Wiki, Wiki design template, project updates
+- **emotions:** productive, Collaborative, Businesslike.
