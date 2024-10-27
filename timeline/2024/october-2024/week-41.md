@@ -73,6 +73,7 @@ A.O.B - Ayo expressed gratitude to the participants.
 ## Wednesday 9th October 2024
 
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -184,6 +185,48 @@ The LatAm team will be supporting the communication efforts and call 2 action fo
 - **topics covered:** Educational Content, Participant Questionnaire, content calendar, Prices , Rewards, Copa Solana , Fetch Ai, teamwork
 - **emotions:** Collaborative, Strategic, Task-focused
 - **other:** 
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], osmium, AshleyDawn, Billy, Clement Umoh, Effiom, esewilliams, GorgaSiagian, kateri, lord kizzy, malik, martinsoki, Zalfred
+- **Purpose:** Regular meeting of Education Guild. This meeting covered: Ai for Beginners Discussions - Ai for Beginners Complete Video for Module 1 - Certification Program Start Date/Demonstration - Webinar Series Discussion - Wiki Website Update 
+- **Working Docs:**
+  - [Ai for Beginners Team](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Ai for Beginners Discussions
+- Ai for Beginners Complete Video for Module 1
+- Certification Program Start Date/Demonstration
+- Webinar Series Discussion
+- Wiki Website Update
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- Slate asked for confirmation regarding the Ai for Beginners Video - it was supposed to be a demo video but then was shifted to being a course original video. Osmium clarified stuff and showcased the module 1 video, which got approved. 
+- Slate asked that proper documentation should be published for the Ai For Beginners team structure and the procedure should be properly documented  
+- Slate showcased the certification program dashboard. We will launch it on Friday and the certification program channel will be opened to core contributors  
+- Kizzy had multiple questions regarding this, which were clarified by Slate 
+- Webinar series project: talks with Governance WG are ongoing and soon osmium will provide the initial document regarding it to which process to follow upon it 
+- Ese notified that we should start the marketing for the certification program and green light was given to this. Slate suggested the publicity could be done through a flyer; Malik expressed interest in making one, and was given the task.  
+- Gorga said he will soon provide the initial Wiki website design to the group, probably by next week 
+
+#### Decision Items:
+- Ai for Beginners demo video should be considered as module 1 video and replaced with its funding amount 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Start the certification program on Friday 11th Oct [**assignee**] Slate [**due**] 11 October 2024 [**status**] in progress
+- [**action**] Make the announcement for CCCP [**assignee**] esewilliams [**due**] 11 October 2024 [**status**] in progress
+- [**action**] Create the flyer for the Certification program  [**assignee**] malik [**due**] 11 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Presentation, CCCP, dashboard, ideation, Reward automation, CCCP launch, publicity, flyer, Wiki, webinar series, Ai for Beginners, Video WG, Governance WG
+- **emotions:** productive, Collaborative, Businesslike.
 
 
 ## Friday 11th October 2024
