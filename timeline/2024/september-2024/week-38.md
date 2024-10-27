@@ -142,6 +142,7 @@ description: Mon 16th Sep - Sun 22nd Sep 2024
 
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -319,6 +320,46 @@ Some changes have already been made: the interface is more mobile-friendly; ther
 #### Keywords/tags:
 - **topics covered:** Ambassador GitBook, Miro Board, feedback, Rewards, Q4 proposal, concerns, Operations, task labels
 - **emotions:** educational, funny, interactive, interesting, bit quiet, insightful
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], osmium, esewilliams, Billy, GorgaSiagian, Kenichi, Malik., Photogee, SubZero, TheFreysDeFi, kateri
+- **Purpose:** Regular meeting of Education Guild. This meeting covered: Budget Request and leftover budget presentation - Budget request concerns discussion 
+- **Working Docs:**
+  - [Budget Request Q4](https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing)
+  - [Quarterly Report Q3](https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- Minimal Budget Request Submitted 
+- Classrooms for 17 spin-off projects completed 
+- Automation setup announcement 
+- AI For Beginners and Video WG members 
+- AI for Beginners Demo startup video 
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- Slate let everybody know that education guild's budget request has been submitted for consent and that education guild will be requesting minimal budget as discussed previously 
+- Slate notified everybody that the classrooms for the 17 spin-off projects have been created and are ready to be put into action. We are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform so we can start the testing for the automation 
+- Then it was discussed that Video WG members can assist the education guild when we put the AI for Beginners project to action. Slate reminded Ese to reach out to the Video WG regarding this, and to discuss this potential assistance 
+- At the end Osmium showcased his demo video for the AI for Beginners project, which will  set up the baseline for the quality for the rest of the videos 
+
+#### Decision Items:
+- Use Video WG members' assistance for the Ai for Beginners project 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Start the integration for the quizzes  [**assignee**] Slate [**due**] 2 October 2024 [**status**] in progress
+- [**action**] Start the automation setup  [**assignee**] Slate [**due**] 2 October 2024 [**status**] in progress
+- [**action**] Reach out to video wg  [**assignee**] esewilliams [**due**] 25 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Presentation, CCCP, q4 2024 Budget, minimal budget, Quarterly Report, ideation, Video WG< Ai for Beginners, spin offs, Google Classroom, quizzes
+- **emotions:** productive, Collaborative, Businesslike.
 
 
 ## Thursday 19th September 2024
