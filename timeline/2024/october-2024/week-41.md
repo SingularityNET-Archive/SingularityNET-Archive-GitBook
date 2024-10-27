@@ -229,6 +229,37 @@ The LatAm team will be supporting the communication efforts and call 2 action fo
 - **emotions:** productive, Collaborative, Businesslike.
 
 
+## Thursday 10th October 2024
+
+### AI Sandbox
+
+- **Type of meeting:** Weekly
+- **Present:** lord kizzy, osmium [**facilitator**], lord kizzy [**documenter**], CallyFromAuron, lord kizzy, Yemi Solves, osmium, Onize, guillermolucero, Malik., PeterE, Effiom, Valola, LadyTempestt, SubZero, Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, Ayo, Slate, Gorga Siagian, Boaz, Hogantuso, Apple, Kareem
+- **Purpose:** Explanation of the Blueprint and Roadmap for AI Sandbox and Think tank
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Welcoming and Introduction of new members: members were welcomed into the call and we were able to gather some suggestions from some of the members, such as: education on MeTTa, use of knowledge graphs, and so on.
+- EXPLANATION OF THE BLUEPRINT FOR AI SANDBOX/THINK TANK: Vasu went through the blueprint in detail. Here is the blueprint: https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing
+- Q&A Session: there were some questions from members, including "the schedule of our calls"- Lordkizzy answered that we are going to have the sessions alternately, so AI Sandbox one week, then Think Tank the next week.
+there was another question on the similarities between AI sandbox/think tank and the R&D guild; lordkizzy explained the difference between them.
+
+#### Decision Items:
+- The sessions will alternate: AI sandbox one week, then Think Tank the next week.
+  - [**rationale**] it gives enough time for members to interact efficiently
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Lord kizzy and osmium to create a presentation template for exhibitions in Sandbox sessions [**assignee**] lord kizzy, osmium [**due**] 17 October 2024 [**status**] todo
+- [**action**] Peter to sort out the Zoom account settings for future meetings.
+ [**assignee**] Peter [**due**] 17 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Experimentation, Exhibitions, Knowledge Graphs, MeTTa, Brain Fog, meeting schedule, Zoom permissions, Zoom, 
+- **emotions:** Friendly, Collaborative, speedy, progressive, Welcoming
+
+
 ## Friday 11th October 2024
 
 ### Marketing Guild
