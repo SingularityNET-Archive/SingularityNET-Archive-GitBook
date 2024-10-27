@@ -45,6 +45,7 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 ## Wednesday 16th October 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -92,6 +93,47 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, Operations, Metta, contributor dashboard
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Slate, AndrewBen, AshleyDawn, Clement Umoh, Eric Davies, esewilliams, Franklynstein, GorgaSiagian, kateri, Kenichi, Lex, lord kizzy, malik, martinsoki, osmium, Photogee, SubZero, Zalfred, hogantuso
+- **Purpose:** Regular meeting of Education Guild. This meeting covered: Updates from CCCP- Ai for Beginners Discussions-Wiki Website Updates- Webinar Series Updates- Updates from Kenichi regarding presentation series 
+- **Working Docs:**
+  - [Ai for Beginners Team](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Updates from CCCP
+- Ai for Beginners Discussions
+- Wiki Website Updates
+- Webinar Series Updates
+- Updates from Kenichi regarding presentation series 
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- Slate gave some updates from the certification program: multiple core contributors are taking part in the certification program and many have already started. He also mentioned that Onize was able to complete most of the classroom and she has progressed to the classroom#15 but unfortunately she wasnt able to progress any further than that 
+- Ese gave updates on the outreach of the certification program: socials have already posted about it, and regular updates will also be given through ambassador general Discord channel 
+- Several video creators were selected for Ai for Beginners and assigned the modules. There was also a need for a scriptwriter, but since there were too many people in the meeting it will be selected asynchrounously 
+- Franklyn and Gorga gave updates from the Wiki website creation: they will be presenting it in the upcoming meetings. 
+- Osmium still needs some time to progress with the webinar series, and had no updates
+- Kenichi is already working on the first module of the presentation series, and will be using that as a reference for the rest of the presentations. The project will start in Q1 of 2025
+- The meeting wrapped up with good participation count 
+
+#### Decision Items:
+- Module creators selected 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Slate to update the Ai for Beginners arrangement document  [**assignee**] Slate [**due**] 19 October 2024 [**status**] in progress
+- [**action**] Make the announcement for CCCP [**assignee**] esewilliams [**due**] 16 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, core contributors, announcement, publicity, outreach, social media, Discord, Ai for Beginners, video, video creators, scriptwriter, Wiki, presentation series, project updates
+- **emotions:** productive, Collaborative, Businesslike.
 
 
 ## Thursday 17th October 2024
