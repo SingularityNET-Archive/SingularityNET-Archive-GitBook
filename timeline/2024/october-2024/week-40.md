@@ -8,6 +8,7 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -210,6 +211,49 @@ KBWG Schedule: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=34587646016
 #### Keywords/tags:
 - **topics covered:** Miro Board, collect and format, items, updates, Meeting Summaries, scheduler, assigning, Dework, Budget fitting
 - **emotions:** Collaborative, fun, interesting
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], osmium, Clement Umoh, GorgaSiagian, esewilliams, kateri, lord kizzy, malik, SubZero, Billy, Kareem
+- **Purpose:** Regular meeting of Education Guild. This meeting covered: Certification Program Discussions - Ai for Beginners Discussion - Updates from the Website - Webinar Series 
+#### In this meeting we discussed:
+- Certification Program Discussions
+- Ai for Beginners Discussion 
+- Updates from the Website
+- Webinar Series 
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- Then Slate went over the certification program updates. The automation is almost complete and the only thing that's left is a single classroom and dashboard setup. We are going to have one week of testing everything, then we are going to set up a seperate channel for the certification program. Afterwards the announcement for the CCCP will be starting, hopefully from the next week. 
+- Ai for Beginners project: there is progress going on; video wg was reached out to for this purpose and the transcripts will be reviewed internally by the project lead and one other education guild member. Slate and Billy requested to document the process so it can be made transparent to everybody 
+- Osmium mentioned that he has been in talks with the governance wg for the webinar series and will soon have updates from there as well 
+- Gorga mentioned that the wiki website design is being worked on and will soon be presented to the group 
+
+#### Decision Items:
+- Ai for Beginners Process
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Document each change 
+  - [**rationale**] nil
+  - [**opposing**] nil
+  - [**effect**] affectsOnlyThisWorkgroup
+- Rewards for the certification program to be put to vote 
+  - [**rationale**] mostly agreed
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Test the CCCP Automation with osmium and Gorga  [**assignee**] Slate, osmium, GorgaSiagian [**due**] 9 October 2024 [**status**] in progress
+- [**action**] Complete the dashboard   [**assignee**] Slate [**due**] 9 October 2024 [**status**] in progress
+- [**action**] Document the changes for Ai for Beginners  [**assignee**] esewilliams, osmium [**due**] 9 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Presentation, CCCP, Budget Request, Quarterly Report, ideation, Reward automation, CCCP dashboard, dashboard, testing, Ai for Beginners, documentation, Wiki, Video WG, Governance WG
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 3rd October 2024
