@@ -230,3 +230,80 @@ The LatAm team will be supporting the communication efforts and call 2 action fo
 #### Keywords/tags:
 - **topics covered:** planning, review, content calendar, brand guidelines, community initiatives proposals, social media post request, social media, podcast, podcast format, video
 - **emotions:** Thoughtful, Well-attended, engagement, forward-thinking, engaging new people
+## Saturday 12th October 2024
+
+### Gamers Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], hotasiro, martinsoki, malik, rebel, scarecrow, kateri, Eric Davies, AshleyDawn
+- **Purpose:** Regular meeting of Gamers' Guild. This meeting centered around WG creators showcasing their progress and discussing improvements for their workgroup models and plugins tutorials
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Scarecrow showcased the updated Treasury Guild building model on Roblox.
+The building features:
+Vibrant design with the Treasury Guild logo.
+Guarded entrance with two guards.
+Main entrance area with a board displaying meeting times.
+A Miro board representing treasury and ambassador wallet details.
+A waiting area enhanced with a TV, fans, and other lively elements.
+Cash counter managed by NPCs representing treasury members.
+Staff-only areas including an ATM and a highly secured meeting room.
+File handling area with added security cameras and amenities.
+A vault storing AGIX, monitored by NPCs.
+Slate praised the model for its realistic bank-like vibe and the excellent additions.
+
+- Slate provided feedback on the building model for Dework/Github PBL, created by PhotoGee and Rebel.
+Key points of feedback:
+The "Meeting Room" label is floating and should be repositioned.
+Non-functional lighting fixtures need attention.
+Implementation of a futuristic door model for consistency across departments.
+Color schemes and materials do not match the intended design.
+Decals should be updated to reflect Dework or GitHub PBL content instead of generic or unrelated images.
+Oversized chairs need scaling down to fit character proportions.
+Anchoring issues causing objects such as tables to detach.
+Empty areas should be filled with relevant content, possibly incorporating GitHub PBL materials.
+Lord Kizzy suggested updating references from Dework PBL to GitHub PBL due to the course evolution.
+Discussion on designating floors for Dework PBL and GitHub PBL respectively.
+
+- Tutorial on Roblox Model Selection Tools and Plugins:
+Slate conducted a tutorial on using the Negate and Union functions to create precise spaces, such as doorways in walls.
+Demonstrating how to create holes in walls that match door dimensions exactly.
+Introduction to essential plugins:
+ResizeAlign: For precise resizing and alignment of parts.
+Archimedes: To create circular or spiral designs.
+Scene Tools: For adding animations such as spinning parts.
+Part to Terrain: Converting parts into terrain materials e.g. water.
+Slate emphasized the importance of anchoring objects and proper lighting for night visibility.
+Lord Kizzy recommended recording the tutorial for future reference.
+Slate agreed and began recording for later distribution.
+- Slate inquired if any gamer guild members were not working on a workgroup, to which Lord Kizzy and Devon expressed interest.
+- Slate skipped other model updates to allow creators ample time to complete and showcase their work and because the process can be time-consuming.
+
+#### Decision Items:
+- Slate will record and upload the tutorials on using Roblox tools and plugins to a shared platform
+  - [**rationale**] to allow creators to revisit the tutorial for improved understanding
+- splitting floors of building between Dework PBL and GitHub PBL.
+
+  - [**rationale**] Because the course has now transitioned to GitHub PBL.
+- Ensure that all workgroup models are properly lit
+  - [**rationale**] for nighttime visibility.
+
+#### Action Items:
+- [**action**] Animation & Dialogue System - Education Guild [**assignee**] malik, hufiumer69 [**due**] 26 October 2024 [**status**] in progress
+- [**action**] Animation and dialogue system - Treasury Guild [**assignee**] martinsoki, scare-crow [**due**] 26 October 2024 [**status**] in progress
+- [**action**] Animation and dialogue - Archives Workgroup [**assignee**] GorgaSeagian, kateri [**due**] 26 October 2024 [**status**] in progress
+- [**action**] Department Creation - Dework PBL [**assignee**] rebel, Photogee [**due**] 26 October 2024 [**status**] in progress
+- [**action**] Department Creation - R&D Guild [**assignee**] oep, CollyPride [**due**] 26 October 2024 [**status**] in progress
+
+#### Game Rules:
+Racing game: the first to finish three laps wins.
+participants: malik, martinsoki, lord kizzy, devon, scarecrow, rebel
+
+
+#### Leaderboard:
+- 1st Devon
+
+#### Keywords/tags:
+- **topics covered:** Roblox, metaverse, department creation, work updates, Map creation, plugins, anchoring objects, lighting, tutorial
+- **emotions:** Friendly, Collaborative, informative, Building, contributive
+- **games played:** Racing Game
