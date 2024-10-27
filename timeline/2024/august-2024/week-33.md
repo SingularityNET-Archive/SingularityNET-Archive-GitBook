@@ -220,6 +220,7 @@ Members showcase deliverables and follow up Next month improvement work on GitHu
 ## Wednesday 14th August 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -312,6 +313,104 @@ Members showcase deliverables and follow up Next month improvement work on GitHu
 #### Keywords/tags:
 - topics covered: Automation , Presentation, Testing, Task Assignment, passing criteria 
 - emotions: productive,  Collaborative, Businesslike.
+
+
+
+### Dework PBL
+
+- **Type of meeting:** Biweekly
+- **Present:** Effiom [**facilitator**], Gorga Siagian [**documenter**], effiom, Gorga Siagian, malik434, Eric Davies, lord_kizzy, Bernard, Celiwe Ngwenya, Onize, Jason Kaleb
+- **Purpose:** This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild
+- **Miro board:** [Link](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764595751219679&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
+- **Working Docs:**
+  - [Dework PBL Quarter 2 2024 Report](https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM)
+  - [Dework PBL Course content](https://instance-dework-pbl.vercel.app/course/module/101/overview)
+
+#### Agenda item 1 - WG Introductions and Onboarding - [resolved]
+
+#### Discussion Points:
+- Overview of the Dework PBL WG
+- Welcoming the 3 new students that joined the call
+- Introductions from new students
+- How to get started with the Dework PBL course
+- Agenda for today's meeting
+
+#### Agenda item 2 - Dework PBL Course Feedback from Treasury Operations - [carry over]
+
+#### Discussion Points:
+- Course content: https://instance-dework-pbl.vercel.app/course/module/101/overview
+- Treasury Operators faced challenges in taking the course - e.g. Onize reported confusion about signing in, and whether it was a requirement to take the course. 
+- Understanding action items was a challenge - action items were unclear in some course modules
+-  Discussion of the course outline
+-  We noted the effectiveness of the async support provided by Tevo
+
+#### Decision Items:
+- Based on feedback, there is still a need to give ongoing support to Dework PBL students 
+  - [**rationale**] Dework PBL students still require live and async support
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 3 - Dework PBL Q4 Repositioning Discussion - [carry over]
+
+#### Discussion Points:
+- Explanation of WG's current purpose and repositioning plans
+- Review of Q2 deliverables and Q3 proposal
+- What should Dework PBL Workgroup be doing in Q4? Suggestions from meeting participants on Q4 Deliverables (see below)
+
+#### Agenda item 4 - Suggestions on Q4 deliverables - [carry over]
+
+#### Discussion Points:
+- Train SNET ambassador members on how to use Github for project management
+- Collaborate with Education Guild on ACP project
+- Create PBL course content on Task Management on Github
+- Repurpose WG for tracking in Treasury - Treasury Management PBL
+- Repurpose the tool and educate other Gs/WGs on the purpose of the tool
+- Collaborate with another platform other than Andamio to develop Github PBL course content
+
+#### Decision Items:
+- Dework can still serve as a repository for task assignment
+  - [**rationale**] This is currently integrated to the Treasury Manager tool
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Get more info on possible collaborations within the program
+  - [**rationale**] There are potential deliverables for Q4 based on these collaborations
+  - [**effect**] mayAffectOtherPeople
+
+#### Agenda item 5 - Workgroup Administration - [resolved]
+
+#### Discussion Points:
+- Discussion on exporting participation data from Zoom
+- Challenges for WGs who are not using Zoom for meetings - should all G/WGs be required to move their meetings to Zoom?
+- Who has access to open Zoom calls?
+- Meeting Facilitation on 28.08.2024
+
+#### Decision Items:
+- Add explanation of participation vs contribution algorithm to next call's agenda 
+  - [**rationale**] This was requested by members of the WG
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- New changes to when someone completes the Dework PBL course
+  - [**rationale**] For better distinction
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Change Discord role "Dework PBL Student" to "Graduated Dework BBK"
+  - [**rationale**] For better distinction
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Decided on the facilitator and documenter for next meeting (Makik facilitating; Effiom documenting)
+  - [**rationale**] Tevo is on break and we would need a facilitator to the next meeting
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Malik to facilitate next meeting. Effiom to document [**due**] 28 August 2024 [**status**] todo
+- [**action**] Effiom to coordinate with Tevo or Andre to open the Zoom call for the next meeting  [**assignee**] Effiom [**due**] 28 August 2024 [**status**] done
+- [**action**] Gorga will try to draft meeting summary for 14.08.2024 [**assignee**] Gorga Siagian [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Dework, dework PBL, GitHub, tools, Zoom Calls, Zoom Meeting, deliverables, task assignment, Q4 2024 Deliverables, Suggestions, zoom, participation data, access to open Zoom, collaboration, Treasury Guild, Education Guild
+- **emotions:** Fun, interesting, interactive, Collaborative, planning
 
 
 ## Thursday 15th August 2024
