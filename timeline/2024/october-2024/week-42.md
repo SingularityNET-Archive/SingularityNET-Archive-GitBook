@@ -4,7 +4,6 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 # Week 42
 
-
 ## Wednesday 16th October 2024
 
 
@@ -99,6 +98,7 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 
 ## Thursday 17th October 2024
+
 
 
 ### Governance Workgroup
@@ -225,6 +225,42 @@ The October update will cover:
 #### Keywords/tags:
 - **topics covered:** TH Update, Onboarding Journey Scripts, skills matrix, research, decentralisation, decentralization, Collaboration Skills Database, R&D Guild, collaboration, non-tech skills, classifying skills 
 - **emotions:** Friendly, Collaborative, speedy 
+
+
+
+### AI Sandbox
+
+- **Type of meeting:** Weekly
+- **Present:** lord kizzy [**facilitator**], Kateri [**documenter**], lord kizzy, Onize, PeterE, Effiom, Advanceameyaw, Clement Umoh, Kateri, Ayo, MartinSoki, TheFreysDeFi
+- **Purpose:** Template for AI Sandbox exhibition 
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Welcoming and Introduction of new members
+- Explanation of the ai sandbox: Lord kizzy stated that Sandbox is where we come up with tools exhibition and project showcases, and highlight AI tools and the applications, their use cases, their problem statements. It will be an interactive space where everyone can chip in their thoughts and opinions and we will get to explore. We will learn how to use these tools and see their practical applications.
+- AI sandbox template: The first segment of the meeting focused on exhibition of AI tools. Tools are showcased using a structured slide presentation, providing a comprehensive understanding of their functionality and application.
+It was noted that in this first session that we expect to see an overview of the tool sets (detailed description) and their use cases, the architectural and technological stack (library or expository of the framework of the AI model, or a visual or graphical representation of the architecture through using either a flowchart diagram or a pie chart). People can either present the tool using a live demonstration, or create a video walkthrough on how the tool is used.
+
+- Documentation and presentation guidelines for AI Sandbox and think tank: once you have a tool that you want to present, you should create a slideshow and follow the format provided; then send the link to the tools leads for correction and editing. Once it is all good, you will be allowed to present in a next meeting. In the slideshow the first slide should show the tool name, next is the architecture and technological stack (this is going to contain 2 pages; the first a library link or repository and the second geographical representation of the architecture); next is the demonstration, outcome reports/ results and impact and finally the thank you page.
+
+#### Decision Items:
+- We are going to have the sessions simultaneously, so AI sandbox a week, then Think Tank the next week.
+  - [**rationale**] it gives enough time for members to interact efficiently
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to have only two AI toolset exhibition 
+- We decided that any member who is meant to present or to make a presentation on the next call should create a slideshow 
+
+#### Action Items:
+- [**action**] Lord kizzy and osmium to create a presentation template for exhibitions in sandbox sessions [**assignee**] lord kizzy, osmium [**due**] 24 October 2024 [**status**] todo
+- [**action**] Peter to sort out the Zoom account settings for future meetings.
+ [**assignee**] Peter [**due**] 24 October 2024 [**status**] todo
+- [**action**] Members who want to document should indicate  [**assignee**] All Members [**due**] 24 October 2024 [**status**] todo
+- [**action**] Lord kizzy to create a repository for the next call where members could submit polls documentation for the AI tools. [**assignee**] lord kizzy [**due**] 24 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Experimentation, Exhibitions, AI tooling
+- **emotions:** Collaborative, speedy, progressive, Welcoming, interesting
 
 
 ## Friday 18th October 2024
