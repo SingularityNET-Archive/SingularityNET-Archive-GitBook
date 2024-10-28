@@ -126,6 +126,62 @@ Tasks "to do":
 - **emotions:** timely, Deliberative, Brief
 
 
+## Tuesday 8th October 2024
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** EstherG [**facilitator**], onize [**documenter**], Clement Umoh, Duke, aetherblade, Onize, CallyFromAuron, Advance Ameyaw, barnabas, Haley Lowy, Ashley Coventry, EstherG
+- **Purpose:** Fortnightly Open Office meeting led by BeGIN (formerly the Global Ethics Initiative or GEI).
+- **Transcript:** [Link](No transcript)
+- **Working Docs:**
+  - [BEGINEthical Project Update](https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view?usp=sharing)
+
+#### Narrative:
+Discussion Points:
+Duke initiated the meeting by sharing his thoughts on decentralization and its contrast with his country's oligarchy system. 
+
+Recap of the BeGIN initiative’s aims and the role of the AI Ethics WG in supporting this.
+Esther began by giving a recap of the BeGIN (Beneficial General Intelligence Nexus for EthicalAI), she mentioned the initiative started cause there’s hardly any voicing out of views on the ethics surrounding AI.  
+She discussed the aim of gathering human values on safety and ethics and providing ways for people to contribute resources towards safe and ethical AI.
+It has two phases: the creation of an AI chatbot and knowledge graphing; and a DAO resource-sharing system, which means people can contribute resources to the ecosystem and carefully distribute or set up systems to distribute the resources fairly. 
+
+At present, we are in phase 0 of manual data collection. This is a crucial role of the AI Ethics Working Group (WG) within BeGIN. The collected data will serve as the foundation for constructing an information structure for the knowledge graph and subsequently developing the chatbot. 
+
+Esther also spoke of the idea of "magic wand" -style questions: "What kind of AI tools would you want to develop if you had unlimited money?" This can create data for how people want to see AI and its resources used. She also spoke of the need to prioritise highly diverse data: so not just SNET ambassadors or people who know about AI, but also elderly people, young people, and even those who know zero about AI.
+
+This phase 0 is so important and the interviews are such great reference points of data and will guide the chatbot to work for the users. She also noted that if any interviewee would like to be further involved in the process after their interview, they can state this on the consent form and there will be pathways for them to get further involved.
+
+Phase 1 will be building the AI chatbot that exudes human values and ethics when interacted with.
+
+And Phase 2 is the resource sharing system: resources such as time/volunteering, data, currency, crypto, computing resources. She spoke about how complex this phase will be because a system needs to be implemented of how time will be shared and how currency will be shared fairly. 
+
+She also explained roughly how the DAO resource sharing will work: how this will be specifically about how AI resources will be shared, how the resources are governed and how they are fairly distributed. An evidence-based resource sharing will give structure to the DAO. The data coming in from the population about ethics can help us structure the operational side of the DAO.
+
+She discussed the definition of a knowledge graph and what it entails. The knowledge graph will organize the interview data, and use the transcripts to code them into categories such as geographical locations and concepts linking them, which will help track patterns in the data. 
+
+She went on to explain what KG are for: They are used first to represent knowledge and they are designed to grow and change based on the data collected from the interviews. They also help provide a way for LLMs and machines to interpret knowledge. She emphasized its usefulness in policymaking, science, and decision-making.
+
+Onize asked about how testing for bias in the data would work and how the data would be handled. Esther addressed this by speaking of how that has been in consideration in the project and a team of data analysts will be set up to work on it.
+
+Vani raised the need to collect demographic data to support analysis, and Esther highlighted its importance in the interviews. They discussed what data to prioritise and how to keep it concise, but no clear decision was made. It was agreed that further discussion is needed to finalise the approach and how to phrase things: for example, should we ask people about their "identity", or might that not always be understood? Colleen suggested asking  "Do you identify with any particular group of people?" and it was agreed this might be an effective way to put it in interviews.
+
+We confirmed that when interviewers submit their audio files, they should use the agreed file naming convention: the file should be named with the interview's reference number and the date. This is so that interview audio files remain clearly associated with the relevant consent form, and also means that if an interviewee gets in touch to say they wish to withdraw, we can easily find their interview to delete it.
+
+Leeloo announced the BGI Bookclub which would bring people together and inspire knowledge sharing. Mweetings will be biweekly beginning from October 16, and it will be open for the ecosystem to be a part of.
+
+The meeting praised Duke and African Guild for their recent successful "AI Ethics Expo" event. African Guild hopes to organize similar future events, based on positive attendee feedback. They plan to maintain the current event scale rather than expand to larger formats. It was agreed to discuss funding and potential Foundation involvement in more detail at the next BeGIN Open Office.
+
+
+#### Action Items:
+- [**action**] Finding a way to collect demographic data and data on sensitive cases such as class, gender, and groups will help build the ethical framework for the KG and impact interviewers. However, it was not decided who would follow up on this, and a clear assignee and timeline would be confirmed in future discussions. [**due**] 8 October 2024 [**status**] todo
+- [**action**] LeeLoo to include the book club details in the Ambassador Program calendar for people to participate. [**assignee**] LeeLoo [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ethics, chatbot, research,DAO, Knowledge Grapgh, Knowledge Graph, Interview, Data analysis, Human values, Inclusive, Demographic data, interviewing, survey, African guild, Bookclub
+- **emotions:** insightful, Welcoming, progressive, Collaborative
+
+
 ## Wednesday 9th October 2024
 
 
