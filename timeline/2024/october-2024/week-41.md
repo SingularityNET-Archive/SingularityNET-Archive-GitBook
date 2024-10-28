@@ -6,6 +6,7 @@ description: Mon 7th Oct - Sun 13th Oct 2024
 
 ## Monday 7th October 2024
 
+
 ### Strategy Guild
 
 - Type of meeting: Biweekly
@@ -70,6 +71,61 @@ A.O.B - Ayo expressed gratitude to the participants.
 #### Keywords/tags:
 - topics covered: Workshop, Task Assignment, Budget fitting
 - emotions: Casual, Organised
+
+### AI Ethics WG
+
+- **Type of meeting:** Biweekly
+- **Present:** CallyFromAuron [**facilitator**], Duke, CallyFromAuron, Onize [**documenter**], LadyTempestt, Clement Umoh, Duke, Ese Williams, aetherblade, Onize, CallyFromAuron, AdvanceAmeyaw, Kenichi, kateri, valola, PG, AshleyDawn, Osmium, TheFreysDeFi
+- **Purpose:** Regular meeting of the AI Ethics WG
+- **Meeting video:** [Link](https://drive.google.com/drive/folders/1HuEI-xirmijTFJ61DhnEAo9759VqDi8N)
+- **Transcript:** [Link](No transcript)
+- **Working Docs:**
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics GitHub project board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+
+#### Narrative:
+We began by going over the projects board on GitHub, beginning with the tasks "in-progress".
+
+-  Most people still have their Q3 interview tasks in "to-do" - they were reminded to move them to "in progress" once they start interviewing. We noted that Q3 interviews will be costed under Q3 budget although we are aware that some will not be finished until way into Q4. There’s a soft deadline in place of 14th November; but we’ll set final *final* deadlines with people individually and async. 
+- Payment for the work people did at AGI-24: The Foundation has said that people may invoice individually in fiat if they are able to; so we are now waiting for information on exactly what an invoice needs to include and how it should be formatted. However, since not everyone is legally able to invoice, we are still pursuing a solution which will enable payments to be processed via the Ambassador Program's treasury system, although there are obvious difficulties given that the Ambassador Program has no official legal status, so it is difficult for the Foundation to process payment.
+- Documenting GEI sessions: Jenn has not finished these yet, and hasn't responded to messages. We *could* reassign the task if there are Read.ai recordings available; but perhaps not a priority - we discussed whether we could let it go.
+
+Tasks "to do":
+- Co-chair mentee: Duke and Clement have expressed interest in the role in the past; they have agreed between them that Clement will take it for Q4 2024.
+- Q4 interviewing: Issues have now been created on the board for Q4 interviews, but most people have not begun yet. Questions and updates can be raised in the Interviewers group chat on Discord.
+- Survey-sharing: 6 people indicated interest in survey sharing: PG, Kenichi, Valola, Clement, Onize and Ashley. 
+- Survey-sharing payment: The budget for this work is $30 each for 6 people, but how much sharing of the AI Ethics survey should one do for $30? We agreed that payment will be based on evidence that the survey has been shared, rather than on recording how many actual responses are garnered, since it's out of people's control how many replies they get, and because confidentiality and data-protection issues will arise if we try to keep evidence of who the respondents are. So as long as WG members can show they have done the work of sharing the survey and giving the information, that is enough. We also agreed that, for Q4 at least, surveys should be shared online even for personal contacts (so for instance, if you are sharing it to friends and family, you should email it to them rather than just telling them about it, to make it more possible to evidence that you did it).  Several suggestions were made for approaches to sharing - for example, in relevant threads on Reddit; via Twitter; and Kenichi mentioned sharing it at a conference he will be attending  this November in Lagos.
+ 
+
+#### Decision Items:
+- We agreed that if, by the WG meeting on 4th November, a lot of people have not yet completed their interviews, we will see if there is a need to set up a meeting to figure out the blockers and find a solution to moving forward. 
+
+  - [**rationale**] People might be feeling anxious over preparations or might need further support
+  - [**effect**] affectsOnlyThisWorkgroup
+- As soon as Vani gets info on how an invoice to the Foundation needs to look, she will open individual issues on the board to get the AGI-24 conference tasks ready for pay.
+
+  - [**rationale**] The task is overdue for pay
+  - [**effect**] affectsOnlyThisWorkgroup
+- LadyTempestt, as async work manager, will talk to interviewers individually to set 'final final' deadlines for Q3 interviews
+  - [**rationale**] Interviewers' individual circumstances might vary, so we need to set individual deadlines
+  - [**effect**] affectsOnlyThisWorkgroup
+- Duke is handing over the co-chair mentee task to Clement
+  - [**effect**] affectsOnlyThisWorkgroup
+- Anyone interested in Q4 interviews who has not yet added their name and the details of who they want to interview to the list in the WG Google sheet, should do so as soon as possible.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Colleen will document the next meeting on 4th November, and LadyTempestt will take the 2nd of December.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to contact Jenn re: documention of GEI meetings. [**assignee**] CallyFromAuron [**due**] 4 November 2024 [**status**] todo
+- [**action**] LeeLoo to check whether any Read.ai recordings of GEI sessions are available [**assignee**] aetherblade [**due**] 4 November 2024 [**status**] todo
+- [**action**] Admin team to deliberate on how the survey-sharing task should be paid [**assignee**] CallyFromAuron, SucrenSpice, LadyTempestt [**due**] 4 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget, Interviews, deadlines, Documentation, survey-sharing, Q4 2024 budget, budget-fitting, AGI-24, payment processing, sNET Foundation, Q4 admin roles,  data protection, 
+- **emotions:** timely, Deliberative, Brief
+
+
 ## Wednesday 9th October 2024
 
 
