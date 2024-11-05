@@ -21,6 +21,8 @@ If you need more advanced JSON parsing capabilities, you may want to consider us
 
 ### Sample code for loading JSON files into Langchain <a href="#sample-code-for-loading-json-files-into-langchain" id="sample-code-for-loading-json-files-into-langchain"></a>
 
+Typically a strucured text source will be used such as JSON.&#x20;
 
+An example of how to load JSON files into Langcahin may be found at this location -
 
 {% embed url="https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/JSON_Loader.ipynb" %}
