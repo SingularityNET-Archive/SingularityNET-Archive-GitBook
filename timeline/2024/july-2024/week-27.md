@@ -408,6 +408,7 @@ Licensing of materials collected from surveys and interviews
 ## Thursday 4th July 2024
 
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -506,6 +507,61 @@ Clement noted that recent token prices are unfavorable, necessitating budget adj
 #### Keywords/tags:
 - topics covered: African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates, budget fitting, Kenya, Cameroon, Ghana, Rwanda, contribution framework, meeting summaries, language, 
 - emotions: Friendly, funny , cool
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Felix [**facilitator**], OluAyoola7D, CallyFromAuron [**documenter**], OluAyoola7D, CallyFromAuron, Tevo, Kenichi, lordkizzy, Slate, Clement Umoh, Kareem, kateri, martinsoki, SucrenSpice, Effiom, Guillermo
+- **Purpose:** Open GovWG Meeting
+- **Working Docs:**
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+
+#### Narrative:
+Highlights: 
+The effects of budget cuts on workgroups and guilds. The need for long sustainability in projects across WGs and Gs. Workgroups and Guilds have evolved over time.
+
+WorkGroups Budget Consents: Felix list-mentioned the workgroups that have achieved budget approval consensus based off the last meeting. This includes R&D, Latam, Education.
+
+Pending: Strategy, Marketing, Writers, Video. The concerns raised on Video WG were resolved, so it was agreed that they have now passed. 
+RE Writers WorkGroup, Kenichi said no new changes had been made to the budget total, as the concern that was raised didn’t speak to their final adjusted budget.
+RE Strategy, they have redrafted their budget and cut it from $13,000 to $8,000. Vani called for ethical governance. Felix and Ayo agreed that it was not ethical to respond to old concerns based on new budget requests.  
+
+After discussion, we noted that we believe the concerns raised on Strategy, Writers and Marketing have either been addressed by the WGs making changes to their budgets, or are not relevant/are addressing something that has already been resolved; so we agreed to run a new round of consent to check if Core Contributors agree it's all resolved. Closing date for submission of forms will be Mon 8th July 2024, with final discussion in the Governance call on Tues 9th July.
+ 
+About the Consent process itself: we noted that participation in the 2nd iteration was low (at most, 6 Core Contributors submitted forms). "Consent fatigue" due to repeated consent rounds? or do people not fully understand the process/not know that they have to complete a form again? 
+Do we need a quorum?
+
+We had the idea of setting up some sort of standard header for proposals, outlining abit what consent means, also letting people know they need to read the proposals before stating yes/no consent
+
+Felix and Ayo said the process should be more efficient: it may be more productive if WorkGroups can simply highlight concerns and responses to concerns. We suggested that WGs should document clearly in their budgets what changes they have made to address concerns raised.
+
+We raised the issue of anonymity - Vani believes consent forms should stay anonymous, to ensure people feel free to raise concerns.
+
+
+#### Discussion Points:
+- The Effects of Budget Cuts
+- Workgroup Budgets Pending Approval
+- A new round of consent on adjusted budgets
+
+#### Decision Items:
+- Budgets for Marketing, Strategy and Writers will go through a new round of consent, to close on July 08, 2024.
+  - [**effect**] mayAffectOtherPeople
+- All WGs and Gs should address, and document in their budget spreadsheets, how they have resolved any concerns raised on their budgets during the consent process
+  - [**effect**] mayAffectOtherPeople
+- We should work on improving engagement in the consent process.
+  - [**rationale**] because the numbers of core contributors taking part, especially in later consent rounds, is quite low, and drops off a lot from the numbers taking part in the first round.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] All Workgroups to address any outstanding and new concerns and prepare responses for the next governance workgroup session. [**assignee**] all [**due**] 11 July 2024 [**status**] done
+- [**action**] Treasury Guild will set up new consent forms for all proposals. [**assignee**] Tevo [**due**] 7 July 2024 [**status**] done
+- [**action**] Vani will draft a message to be DM'd to core contributors with the new consent forms. [**assignee**] CallyFromAuron [**due**] 7 July 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** deadlines, community engagement, Budget , Quarterly Report, Strategy Guild, Marketing Guild, Q2 2024 quarterly reports, q3 2024 budgets, quorum, anonymity, Writers WorkGroup, video WG, core contributors, governance participation, Budget cuts, consent decision making, consent process, participation
+- **emotions:** Constructive, inquisitorial, Collaborative
 
 
 ## Friday 5th July 2024
