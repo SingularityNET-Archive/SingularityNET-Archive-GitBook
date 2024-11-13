@@ -128,6 +128,99 @@ Discussion Points:
 - emotions: Collaborative, decisive, productive, The meeting was quick and progressive
 
 
+## Tuesday 9th July 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Peter [**facilitator**], OluAyoola7D, CallyFromAuron [**documenter**], CallyFromAuron, Tevo, Kenichi, lordkizzy, kateri, martinsoki, SucrenSpice, Effiom, Mikasa, Gorga Siagian, Ayo, guillermolucero, LadyTempestt, sakujennbornean, Duke
+- **Purpose:** Weekly GovWG Meeting
+- **Working Docs:**
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Strategy Guild Budget Concerns](https://docs.google.com/document/d/1e4s9TMi6zoi2RpGNIssNvppA1zTjpfsk-bnjqAfWfWc/edit?usp=sharing)
+  - [Adjusted WWG Q2 report](https://docs.google.com/document/d/19l5s5gFStCg5DCB0hbisjGLdTy-RHzhVFN8GinKnlj4/edit?usp=sharing)
+
+#### Narrative:
+We noted that we had planned to send out a 2nd round of consent forms already, but due to some miscommunication, they have not been sent out yet, which changes the proposed overall timeline. 
+
+About Writers WG and Marketing Guild, Kenichi explained that concerns raised in the last round of consent were about things that needed explanations rather than changes, so no new changes have been made to Writers' budget; so does it still need to go through another round of consent? 
+
+For Marketing, an outstanding objection (about the points system) was acknowledged by the objector as actually intended for Writers' WG, so Marketing seems to be resolved. Peter checked whether one of the other objections (that Marketing's budget had increased fourfold) was accurate - it wasn't.
+
+Vani raised the issue of the low participation in the latest consent round (4 responses out of 53 core contributors) - is this level of response valid? Several people said we never agreed on a quorum, so we can't impose one now for this Quarter, but we should prioritise agreeing one for next time.
+
+Reasons for low participation: Vani suggested perhaps people didn't realise there was another round - so if we do a 3rd round, we need to publicise it better.  Kenichi said people seem to drop out of the consent process once their own WG has passed - so now that there's only a few WGs left, most people are no longer participating. We need to educate Core Contributors better on the process. 
+
+Some comments from the latest consent forms were accidentally not transferred to the Budget Planner spreadsheet. We noted that in future there should be a double check that all comments have been copied over.
+
+Peter added one comment from the consent forms which had been accidentally omitted - about Marketing Guild and whether all the work in the Marketing budget had been adequately costed. Kenichi addressed it, and it was resolved, so it was agreed that Marketing Guild's budget has now passed.
+
+But we noted there may still be some concerns in the consent forms for Strategy Guild that have not been transferred to the Budget Planner, or covered in the doc that Strategy Guild created to address the concerns raised about them. (https://docs.google.com/document/d/1e4s9TMi6zoi2RpGNIssNvppA1zTjpfsk-bnjqAfWfWc/edit?usp=sharing)
+
+We noted that there have been significant changes to Strategy Guild’s budget since the last round of consent (a drop from $13k to $8k). In Strategy Guild's doc, concerns fall into 4 categories: 1) Budget amounts 2) The validity of what Strategy Guild aims to do 3) Deliverables 4) Miscellaneous/other. Ayo talked through the doc, and noted that some of the concerns are about the old Strategy Guild's backlog, and should perhaps be addressed by Treasury Guild and/or or Governance WG; and that the only concerns raised that have not been addressed in the doc are the ones which are not about the Q3 budget or Q2 quarterly report, but which speak to decentralisation and whether Strategy Guild should exist at all. 
+
+Tevo questioned whether some of the functions that Strategy Guild wants to do are already being done in other places such as Town Hall, Governance WG, and the WG Sync call; and whether replying to concerns via a "comments" doc like this is really addressing the issues holistically, or whether a new report should be drafted that takes account of and incorporates concerns.
+
+Ayo addressed the question of overlap between different workgroups, and argued that it is often valid - groups might superficially appear to be overlapping, but are actually doing different things (he cited the examples of Onboarding WG vs the onboarding efforts that are carried out by different WGs individually; and the difference between Archives WG and Knowledge Base WG.) He noted that the way that the Program works is not to have one group tasked with doing everything around a particular category of work, but to have some types of work spread across several WGs who address them in different ways; and argued that this is valid. He said objections to Strategy Guild were based on a misunderstanding that the guild is attempting to strategise internally for individual WGs, when it's not.
+
+However, Vani noted that while it's true that different WGs should be free to do things in their own ways even if they look superficially like overlap, the objections to Strategy Guild were not really about this. They were not  saying that Strategy Guild is attempting to strategise for individual WGs; they were questioning Strategy Guild's attempts to strategise for the program as a whole, as opposed to this being done by a coalition of all the WGs together.
+
+We also noted that although Stragegy Guild has discussed and addressed objections, this doesn't meant they are actually resolved, if the objectors haven't yet withdrawn their objections. So given that what Strategy is presenting now is significantly different from what people consented/unconsented to last time, several people felt there should be a new round of consent.
+
+Tevo suggested an ultra-low-budget, step-by-step approach for Strategy Guild, building up to a bigger budget next Quarter if trust is built up. He pointed out that when the Ambassador Program started, people did what Strategy Guild are proposing to do, but with much less money; and that given there are objections from several people, the guild might be missing something.
+
+Guillermo raised a query on the $6,790 that is still in Strategy Guild's reserves from previous quarters; Ayo said that we should ask Treasury if Strategy Guild can use it, which would lower the amount they need to ask for in this Quarter's budget. Guillermo also noted some issues that have been raised (some people think Strategy Guild didn't work in its previous iteration; that strategy might be something we should all work on together; and that others have done similar kinds of research work for much less money). Ayo said that people are only objecting because they don't yet understand what Strategy Guild wants to do; and that the past iteration of Strategy Guild shouldn't be  raised as an objection on this budget.
+
+Peter summed up that there are clearly questions around the relevance and need for Strategy Guild; whether some of its budget items are needed; and whether it's aiming to do things that are actually just the Core Contributor role; so to minimise risk, he feels Strategy Guild should start with a much smaller budget, and see what happens.
+
+Although it was almost the end of the meeting and people were beginning to leave, Tevo quickly created a Zoom poll to ask what would be an appropriate level for Strategy Guild's budget; 3 people (who cannot have been Peter, Tevo, or Vani, who had already left) voted, and all said "under 3,000 AGIX". So this suggests it's not just one or two people who have concerns.
+
+Ayo said that Strategy Guild could amend its budget in response to comments by tomorrow; and then a new consent form can go out. But after he left the call, Tevo and Peter said that perhaps this is not the best way to address the issues, and it should instead be discussed in the Open Governance meeting on Thurs. So there was no definite agreement on next steps; it will be decided async.
+
+Kenichi noted that Writers WG reduced its budget last week (and the changes have not yet been discussed), and hasn't made any further changes since. So rather than another consent form, the changes should be discussed to confirm whether they address the concerns raised. Tevo pointed out that the issues for Writers were also about their quarterly reporting, not just their budget; and there was some discussion of Writers' doc addressing the concerns raised.
+
+There was a concern raised in general terms about how long it takes for an objector to read through the answers and additional docs, and whether people can find the info that addresses their concerns.
+
+So the final decision was to discuss Strategy Guild further in Thursday's Open Governsance call; and to create an send out a new consent form for Writers' WG
+
+
+
+
+#### Discussion Points:
+- Set-up of consent forms
+- Workgroup budgets that are still pending approval (Marketing, Writers, Strategy)
+- Low participation in consent rounds, the need for better awareness/publicity, possibility of a quorum
+
+#### Decision Items:
+- Marketing Guild's budget has passed
+  - [**rationale**] the concerns raised in the last consent round have been addressed, and the objectors have said they are satisfied.
+  - [**effect**] mayAffectOtherPeople
+- Further discussion will be had, particularly of Strategy Guild, on the Open Governance Call on Thurs July 11, 2024.
+  - [**effect**] mayAffectOtherPeople
+- Writers Workgroup and possibly Strategy Guild (if not resolved on Thurs 11th) will go through a new round of consent, to close on July 15, 2024.
+  - [**effect**] mayAffectOtherPeople
+- We will look at the idea of agreeing a quorum for participation in the consent process next quarter
+  - [**rationale**] because participation in the latest consent round has been low.
+  - [**effect**] mayAffectOtherPeople
+- We will try to improve Core Contributors' understanding of the process, and their awareness of the need to participate beyond just the first round.
+  - [**rationale**] because participation seems to drop off after the first round of consent.
+  - [**effect**] mayAffectOtherPeople
+- In future Quarters, there should be a double check that all comments have been copied over from the consent form to the busdget planner spreadsheet
+  - [**rationale**] because some were missed this time, which means they do not get addressed.
+  - [**effect**] mayAffectOtherPeople
+- In future, we may need to address how easy /hard it is for an objector to see how their objection has been addressed, and see if the consent process or the publicity can be adjusted to make it clearer.
+  - [**rationale**] Because sometimes, the material where a concern is addressed can be buried in a long doc and might be hard to find.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Strategy Guild will amend its budget  [**assignee**] Ayo [**due**] 10 July 2024 [**status**] todo
+- [**action**] Treasury Guild will prepare new consent forms for Writers WG and Strategy Guild [**assignee**] Tevo [**due**] 14 July 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** deadlines, community engagement, Budget , Quarterly Report, Strategy Guild, Marketing Guild, Quorum, Core Contributor, Budget Approvals, Decentralization, q2 2024 quarterly report, q3 2024 budget, consent decision making, consent process, consent form, Overlapping projects, work overlap, validity of strategy guild, validity
+- **emotions:** critical, analytical, chatty, shouty, aggressive in parts, inconclusive
+
+
 ## Wednesday 10th July 2024
 
 
