@@ -496,6 +496,7 @@ Q4 budget:
 
 ## Thursday 5th September 2024
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Weekly
@@ -547,6 +548,75 @@ Q4 budget:
 #### Keywords/tags:
 - **topics covered:** TH Update , Budget , Session, Onboarding Journey Scripts, Workgroup closure
 - **emotions:** Collaborative, tense, argumentative, funny 
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], CollyPride, CallyFromAuron [**documenter**], guillermolucero, CallyFromAuron, Olokoji, Advanceameyaw, lord_kizzy, LadyTempestt, Effiom, esewilliams, Onize, CollyPride, hogantuso, CJFrankie, Timmy, photogee, Tevo
+- **Purpose:** Weekly Open Governance meeting
+- **Media link:** [Link](https://app.read.ai/analytics/meetings/01J717PBQN3EJFH1APZP1KYT85?utm_source=Share_CopyLink&section=transcript)
+- **Working Docs:**
+  - [Context setting for Core Contributor decision on Q4 budgets](https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Q3 2024 - Governance WG quarterly report](https://docs.google.com/document/d/1uwNCrj2T7VCFgggTnyGQHpCBjhFb-9nm2dtPG5i6IRA/edit?usp=sharing)
+  - [GovWG Budgets _ 030924](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
+  - [Draft initial consent form Q4](https://forms.gle/scAjRQKTpgyn9kih8)
+  - [Context setting for Core Contributor decision on Q4 budgets](https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit?usp=sharing)
+
+#### Narrative:
+Should people who subbed for Peter E as facilitator for Town Hall during his absence (PhotoGee, Guillermo and Ese) be paid via Gov WG budget? We agreed yes. And how much? We agreed on $20. Vani will add tasks to Dework.
+
+Guillermo has created a timeline infographic RE: budget submission deadlines. He and Vani will proofread it after this meeting, then start sending it out. Meanwhile, Ese has been sharing the infographic reminding WGs of budget submission date.
+
+Finalising Governance WG's own Q3 report and Q4 budget: Guillermo has drafted the budget, and shared it in the Governance Discord channel a few days ago. So far, no comments. We set a final deadline for comments/edits of Sat 7th Sept;  but essentially, we signed it off. Clement has drafted the quarterly report - same arrangement, we basically signed it off in this meeting, but final comments or changes are possible until the end of Sat 7th.
+
+Q4 consent process: when to calculate new Core Contributors list and run the opt-in process? It needs to be done by Monday 9th, as the consent process begins then. We agreed for Tevo to do it (and he noted that he is aiming to automate it for next time). We also noted that being a Core Contributor is supposed to be an "opt-in" thing - so someone, probably Peter, will need to ping people and invite them to opt in. We noted that doing this on Monday is cutting things fine in terms of the timeline, but there is no alternative for now.
+ 
+Vani had created a draft initial consent form (i.e. just a list of all the WGs and "consent/object/abstain") a while ago and posted in Governance Discord channel. (The purpose of having this initial form, with no rationales required, is to make it quicker and simpler for people to participate in a first round, and "weed out" the WGs whose budgets everyone consents to - last quarter this was around half of all WGs - so that the next round only focuses on the groups for which there are objections.) We tweaked the introduction to the form, which was too long, and might be offputting for people. The form now needs to be moved to the Ambassador Gmail account before it is sent out.
+
+We discussed how far the consent forms are really anonymous (see "decisions" below)
+
+We discusssed what "Abstain" means, particularly in the final consent round, when WGs need to get at least 80% consent. (see "decisions" below)
+
+We re-discussed and confirmed what will happen if budgets are submitted late i.e. after deadline of Mon 9th Sept. (see "decisions" below); although we did not finalise the exact process for how the "small operational budget" will be decided on; we agreed to discuss it later if it actually happens.  Tevo suggested that those who do not want to make the effort to submit a budget request by the deadline probably do not need funds, but the "new ideas" budget of 2% can be accessed by anyone who really needs money.
+
+We discussed whether we want to move to a different decision-making method, other than the consent process we are currently using. We noted that Consent was only ever adopted as an experiment, so we can change; and we noted that the consent process has become quite consuming, with most of Governance WG's time being given over to it. We mentioned alternatives including Consensus; weighted voting; sortative or aleatory processes (such as a jury);  Consultative; or creating collective funding proposals rather than individual WG proposals. Objections were raised to voting as a process, because it doesn't give room for discussions, reasons, objections, and doesn't work to increase community engagement. There was interest in Consensus and Consultative processes; and some comments in favour of continuing to explore Consent processes because it encourages listening, ideas, and iterating, despite problems with having too many iterations in the process. It was also mentioned that R&D guild plan to build a dashboard to make the consent process run smoother.
+
+We briefly revisited the discussion on "Increasing participant numbers, with a non-increasing programme budget" which has been covered several times. We felt it may still need discussing again - and particularly, the question of whether we should be training people, or just giving tasks to those who already know how, and looking at capability. We noted that the issue was initially raised when token price had recently dropped dramatically; but now it has recovered a bit, do we see things differently?
+
+
+#### Decision Items:
+- Facilitating Town Hall in Peter's absence will be paid from Governance WG budget; and at a rate of $20
+  - [**rationale**] There isn't any other WG that it could reasonably come from; Governance will probably have enough budget to cover it; and the content of recent Town Halls has been quite Governance-related. The pay rate is the same as facilitating a Governance WG meeting.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed and signed off the Q3 quarterly report and Q4 budget for Governance WG, although we will still leave them open for any last-minute changes until the end of Saturday 7th Sept
+  - [**rationale**] They have been open for comments for a while and there have been none - and we don't want to be making changes on the submission date of Monday 9th itself.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to make the intro text to the initial consent form shorter
+  - [**rationale**] Partly for accessibility, as long blocks of text can be offputting; but also because some of the information is repated in the Context-setting doc.
+  - [**effect**] mayAffectOtherPeople
+- We agreed that the intro text of the consent form should not say that the forms are "anonymous", but rather, "private"
+  - [**rationale**] because they are not entirely anonymous - people's identity can be seen by anyone who has access to the Ambassador Program Gmail account.
+  - [**effect**] mayAffectOtherPeople
+- We noted that an abstention doesn't count either as a consent or an objection for the purpose of the final consent round, when WGs need to get 80% consent 
+  - [**rationale**] "abstain" is just a way of checking how many Core Contributors are aware of the consent process and participating in it, even if they do not have time ("abstain" might sometimes mean "I didn't have time to read this WG's budget").
+  - [**effect**] mayAffectOtherPeople
+- We confirmed that, as agreed in our meeting last Tuesday, if a WG's budget is late, we will go ahead with the idea that the WG will be withdrawn from the consent process, and will get a small operational budget based on their operational costs over the last couple of Quarters; the amount to be worked out collaboratively with them.
+  - [**rationale**] This has been an ongoing problem and everyone has been informed about it numerous times
+  - [**opposing**] One objection was raised to this idea when we posted it in the Ambassador General Discord chennel - but it didn't fully explain its reasons and there was no suggestion on a way forward, or what to do instead; and when Vani responded and asked for this, the objector didn't make things any clearer; so overall the meeting felt that it wasn't valid an we can't hold up the process for it.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani to add Town Hall facilitation tasks to Dework (facilitators were Photogee, Guillermo and Ese) [**assignee**] CallyFromAuron [**due**] 12 September 2024 [**status**] todo
+- [**action**] All to check Gov WG budget and quarterly report, and make any final amendments [**assignee**] all [**due**] 7 September 2024 [**status**] todo
+- [**action**] Tevo to re-calculate who is Core Contributor, ideally by tomorrow (Friday 6th Sept), but definitely by Monday 9th; and Peter to ping all of them and check that they want to be one. [**assignee**] Tevo [**due**] 6 September 2024 [**status**] todo
+- [**action**] Tevo to send out the initial consent form (once it has been moved to the Ambassadors' Gmail account) on Monday [**assignee**] Tevo [**due**] 9 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** More participants, less budget, Q4 2024 budgets, budget submission dates, timeline, Q3 2024 quarterly reports, core contributors, Town Hall, Dework, Decision Making Process, consent decision making, consensus decision making, consultative decision making, abstention, abstain, late budget submission, anonymous, anonymity, opt-in, aleatory, jury, sortative, weighted voting, vote, voting, community engagement, Iteration, listening, dashboard
+- **emotions:** Casual, talkative, open, wide-ranging
 
 
 ## Friday 6th September 2024
