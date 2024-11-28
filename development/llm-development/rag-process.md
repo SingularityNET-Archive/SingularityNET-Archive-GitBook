@@ -4,6 +4,12 @@ description: The Retrieval-Augmented Generation Process
 
 # Retrieval-Augmented Generation
 
+{% hint style="info" %}
+This page is currently in draft
+{% endhint %}
+
+
+
 ## What is Retrieval-Augmented Generation (RAG) ?
 
 Retrieval-Augmented Generation (RAG) is a method for improving the accuracy and reliability of generative AI models by applying facts fetched from authoratitive sources.

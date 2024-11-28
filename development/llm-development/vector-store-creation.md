@@ -1,5 +1,11 @@
 # Vector Store Creation
 
+{% hint style="info" %}
+This page is currently in draft
+{% endhint %}
+
+
+
 A vector store needs to be created to hold the imported JSON data.
 
 A vector store is DEFINE

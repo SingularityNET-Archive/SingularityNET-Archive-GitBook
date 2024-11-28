@@ -1,5 +1,11 @@
 # Data Loading and Preprocessing
 
+{% hint style="info" %}
+This page is currently in draft
+{% endhint %}
+
+
+
 A generic approach may use an online Python interpreter such as [Google Colab](https://colab.research.google.com).
 
 A code example may be found at this location -
