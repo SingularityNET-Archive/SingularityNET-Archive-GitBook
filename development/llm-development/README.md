@@ -16,7 +16,8 @@ SinguarityNet's Ambassador programme is made up of workgroups. Since 2022 the Ar
 
 The Archive workgroup aims to use generative models for -
 
-* Educational (didactic self learning) materials - to promote learning by doing in the Archive Workgroup
-* Data Analysis - to supplement knowledge mangement and data mining of the intellectual property of the Ambassdor Program.
-* Enhanced Record keeping - supporting decentralised governance through enhanced decision and action items
+* **Self-taught learning (didactic learning) materials** - to promote learning by doing in the Archive Workgroup
+* **Data Analysis** - to supplement knowledge management and data mining of the intellectual property of the Ambassdor Program.
+* **Enhanced Record keeping** - supporting decentralised governance through enhanced decision and action items
+* **Augmentation** - that applies a local context and enforces ethical standards.
 
