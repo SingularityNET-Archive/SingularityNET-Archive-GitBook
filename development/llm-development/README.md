@@ -10,7 +10,9 @@ This page is currently in draft
 
 
 
-Large Language Models (LLM) are famialr from notable implementations of generative AI such as Open AI's Chat GDP.
+Large Language Models (LLM) are familiar from notable implementations of generative AI such as Open AI's Chat GDP.
+
+LLMs need to be fine tuned to provide more specfic contextual responses. This is typically done with Prompts.
 
 SinguarityNet's Ambassador programme is made up of workgroups. Since 2022 the Archive Workgroup has been gathering record keeping data on the activities of workgroups in the Ambassador program.
 
