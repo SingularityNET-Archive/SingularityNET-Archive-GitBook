@@ -7,6 +7,7 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 ## Monday 30th September 2024
 
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -161,3 +162,57 @@ The LatAm team will be supporting the communication efforts and call 2 action fo
 - **topics covered:** Educational Content, Participant Questionnaire, content calendar, Prices , Rewards, Copa Solana , Fetch Ai, Teamwork
 - **emotions:** Collaborative, Strategic, Task-focused
 - **other:**
+
+### AI Ethics WG
+
+- **Type of meeting:** Biweekly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], LadyTempestt, Clement Umoh, Effiom, Duke, CollyPride, Ese Williams, aetherblade, Sucre n Spice, Onize, CallyFromAuron, Raman Deep, MartinSoki, Advance Ameyaw, Kenichi, Ayo
+- **Purpose:** Regular meeting of the AI Ethics WG
+- **Working Docs:**
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics GitHub project board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [Ubuntu and AI Event Report](https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing)
+
+#### Narrative:
+Tasks on Github
+We started by going through tasks “in progress”;
+
+-We went through feedback from the Admins (GEI reportbacks by Jenn(she will get paid for all the reportbacks she did last quarter), moved to done and ready for payment) Co-chair and mentee by Vani & Colleen, WG async support by LadyTempestt, and the WG internal management by Sucre) on GitHub.  All these tasks were moved to “Done” and made ready for payment.
+
+-Event in Nigeria: Duke says the event was excellent while giving us a recap! There is a written report here Report for the "Ubuntu and AI" EventConference with quantitative and qualitative data(e.g. how many people showed up virtually and in person at the event, topics of discussion, and the rest) on how everything went. We also discussed how to sort out payment for speakers where Duke said that he paid one speaker up front so Ubio will get payment, while Esther and Leeloo's payments will go to the volunteers of the event; they both confirmed this. This task was moved to ”Done” and ready for payment this week.
+Moderation of the AI Ethics forum: There is no agreement on this yet. Will be done later today.
+Documenting GEI Open Office: We are yet to hear from Jenn concerning these documents.
+
+We went onto tasks in “to-do”;
+
+-Q3 Interviews: Clement has done a few interviews. Colleen will get to do them this week. Ayo said he has started today and Ese said she will get started this week and give an update later on GitHub. They were all reminded to move their individual tasks to “in progress” and put down comments or updates as soon as possible.
+
+-Q4 Budget: The Budget passed but we decided to work on budget fitting, currently it's around 21.68% or so(it should be less after WWG adjusted budget and current AGIX price). We checked a few items that we might need to reduce or cut down due to budget fitting which included interview hours and expenses(Ayo said he would have a few interview expenses), meetings, survey, and educational resources. There are a few other items we might consider cutting if necessary and possible.
+
+
+
+#### Decision Items:
+- Duke will redistribute Leeloo’s payment($150) to volunteers who were at the Ubuntu and AI event in Nigeria.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to use 25 hours only for interviews in Q4.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to meet once a month next quarter seeing as most of our tasks will be done async.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We are not doing learning/educational resources next quarter.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to pick another co-chair mentee in Q4, but no assignee yet.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Whatever deadline is agreed upon after the 14th for Q3 Interviews to be done is the final deadline.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Duke will document the next meeting on the 7th of October, Colleen will take the 4th of November documentation, and LadyTempestt will take the 2nd of December documentation.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to reach out to Esther about submitting her wallet for payment as a speaker at the Ubuntu and AI event in Nigeria. [**assignee**] Vanessa [**due**] 7 October 2024 [**status**] in progress
+- [**action**] Vani to reach out to Jenn concerning her progress in the Q3 interviews and documenting the GEI open office seeing as she's been unavailable for a while. [**assignee**] Vanessa [**due**] 7 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Event in Nigeria, Budget , Interviews, Documentation
+- **emotions:** quiet, timely, Deliberative
