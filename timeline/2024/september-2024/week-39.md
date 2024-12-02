@@ -7,6 +7,7 @@ description: Mon 23rd Sep - Sun 29th Sep 2024
 ## Monday 23rd September 2024
 
 
+
 ### Strategy Guild
 
 - Type of meeting: Weekly
@@ -181,6 +182,75 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 
 #### Keywords/tags:
 - **topics covered:** Miro Board, Development, tooling, Updates, Swarm Dework, JSON Generator, Backlogs, Budget fitting
+
+
+
+### AI Ethics WG
+
+- **Type of meeting:** Biweekly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], GorgaSeagian, LadyTempestt, Clement Umoh, barnabas, Effiom, Duke, PG, CollyPride, Ese Williams, aetherblade, osmium, Sucre n Spice, Onize, TheFreysDeFi, Peter, CallyFromAuron
+- **Purpose:** Regular meeting of the AI Ethics WG
+- **Working Docs:**
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics GitHub project board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [AI Ethics WG Quarter 4 2024 budget DRAFT](https://docs.google.com/spreadsheets/d/19ZoVkCc8ylk_R1tYIyh1xiy1USM-Yl-pYHGRB5WbtTg/edit?gid=0#gid=0)
+  - [Interview Training Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit)
+
+#### Narrative:
+Tasks on Github
+
+We started by going through tasks “in progress”;
+-We went through feedback from the Admins (Co-chair and mentee by Vani & Colleen, WG async support by LadyTempestt, GEI reportbacks by Jenn and the WG internal management by Sucre) on Github where Sucre suggested that we pick 2 or 3 skilled documentors for our meetings to rotate by Q4 and that meeting summaries need to be completed before the end of the week so they can be closed out. These issues will be closed next week and Vani will create a fresh one against quarter 4 if we get funded.
+
+-Event in Nigeria: Duke gave an update on the event holding in Nigeria in collaboration with African Guild this week; he said they are currently publicizing the event, everything is going as planned and it will take place this weekend(on Saturday). He said that he will share the virtual link for those who will watch online. Vani added that by next week we should be able to get a report back from Duke on how everything went.
+Moderation of the AI Ethics forum: The admin team will take a look at what is the best way forward for payment before the next meeting.
+
+-Leeloo gave an update on payments for the AGI-24 pre-conference and the main conference contributors said that GEI is still working on how to make it seamless through the ambassador program or GEI directly instead of using the foundation’s suggestion of an invoice since some people involved might not be allowed to use that payment method. She added that Esther would reach out to Vani concerning the people who can send invoices for their payment.
+
+-Documenting GEI Open Office: Jenn is doing them in batches and will get the second one in by Wednesday this week.
+
+We went onto tasks in “to-do”;
+-We talked about paying people who came to the training session for interviews now that the token price is good. 
+
+-Q4 budget: We got one objection( the objector said they were not clear on what exactly our WG does or our main objectives) but it is not really a strong one since we have made this clear in our reports and WG description so every core contributor was requested to go approve our proposal if they think we should get funding. We also discussed a few items on the budget.
+
+-Concerning the Q3 interviews, the task has been transferred to personal issues for everyone involved and every assigned person is expected to move their issue on GitHub to “in progress” once they begin the process and add comments on how the interview went I.e hours spent, reference number, any thoughts on what can be changed and improved. Clement is the first interviewer who got the task done, he said that he followed the steps gotten from the interviews’ training and it made everything seamless. Ese asked if interviewers are to formulate questions for the interview themselves and Vani said that there were not any definite rigid questions but there are general principles about what kind of questions one needs to focus on in the slides Interview training AI Ethics WG from the interviews training session and if she or anyone is unsure, they could post their questions to seek advice in the private channels for Interviewers.
+
+-Q4 Interviews: We asked anyone up for it to jump in and put in their name although the budget for it will be dependent on what we get for funding next quarter. Duke and Vasu expressed interest in it. We will be clear about the budget next week.
+
+-AI Ethics conversations: This issue on Github will remain under “to-do” for a while since we have done that already during the AGI-24 Pre-conference and the chill-out rooms during the main conference although it might be revisited when we come to look at our budget for Q1 2025. 
+
+-AI Ethics WG: Money questions 
+If a person does a task badly, should we pay them? And who decides what is bad? Is there an issue about capability when assigning tasks? Does the WG have the capacity to mentor people? Colleen suggested an Ad-hoc decision cos it's subjective and a voting system. Love asked how do we rate “How badly a task is?” PG suggested having expectations for a task established in advance, and measuring what people do against guidelines. Leeloo suggested a rotation of self-elected reviewers. Ese asked “How do we judge “badly”? Sometimes task execution style varies per organization. She made an example by saying that what she might view as bad might be different from what Vani sees as bad. Vani pointed out that PG’s suggestion above might sort that out and that if a task is so bad that it has to be done again then that becomes a problem. Leeloo suggested that maybe just seeing things as either incomplete(didn't do the task) and partial complete (did the task but missing needed material?) might work.
+
+-Vani and Love also shared a belief that If someone does not know how to do a task, they should not step up. They could also ask for mentorship - but this is ONLY if the WG has the time and money to do that; LeeLoo agreed by adding that we will always make out time to train people when necessary like we did for interviewers so they should come for it if they are interested and that if there is no time for such training then WG members should evaluate their skills and make sure they are not putting themselves up for something they can not do. Vani also added that there are going to be times when the WG won't have the time or money to offer mentorship.
+On the topic of subjective; Vani pointed out that just because something is subjective it doesn't mean that we can not decide on it and that so many things we think are objective are not.
+
+-We also discussed some guidelines(what is expected from the interviews) and possible issues that could come up with payment for WG members doing interviews this quarter and the next. The guidelines are in this sheet AI Ethics Workgroup stuff!  and have been posted in the private channels for interviewers.
+
+
+
+#### Decision Items:
+- We agreed to use the stated guidelines for the interviews this quarter and the next.
+  - [**rationale**] This was to clarify what we expect from the interviews assigned to some WG members
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that having expectations on a task in advance is a great idea.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to meet again next week so as not to mess up the current calendar.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to have as many interviews done by October 14.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to get in touch with Jenn so she can add a document with an update on GEI reportbacks for 10th September. [**assignee**] Vanessa [**due**] 30 September 2024 [**status**] todo
+- [**action**] Vani will reach out to Clement and agree on how much moderating the AI Ethics forum really costs after meeting with the admin team. [**assignee**] Vanessa [**due**] 30 September 2024 [**status**] todo
+- [**action**] Vani to create individual issues for people involved in tasks during AGI-24 pre-conference and the chill-out rooms during the main conference. [**assignee**] Vanessa [**due**] 30 September 2024 [**status**] todo
+- [**action**] Vani to pin the link to the consent forms for the interviews in the AI Ethics WG channels. [**assignee**] Vanessa [**due**] 30 September 2024 [**status**] todo
+- [**action**] Duke is to post the link to watch the AI Event in collaboration with the African Guild online in the AI Ethics WG channel. [**assignee**] Duke Peter [**due**] 30 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Q3 and Q4 interviews, Budget , money issues, Event In Nigeria, AGI-24 payments
+- **emotions:** contributive, interesting, Deliberative
 
 
 ## Wednesday 25th September 2024
