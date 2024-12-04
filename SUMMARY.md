@@ -240,6 +240,7 @@
 ## Development
 
 * [Design](development/design.md)
+* [Documentation Automation](development/documentation-automation.md)
 * [LLM Development](development/llm-development/README.md)
   * [Retrieval-Augmented Generation](development/llm-development/rag-process.md)
   * [Data Loading and Preprocessing](development/llm-development/data-loading-and-preprocessing.md)
