@@ -391,6 +391,7 @@ Peter broached the discussion of Guild Lead and Facilitation rotation, Ayo ackno
 
 
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -563,6 +564,12 @@ Ese Williams took responsibility for reminding Peter about the time change updat
 #### Keywords/tags:
 - topics covered: Meeting, Guilds, Blockchain, Research, Event, Initiatives, Marketing, AI ethics, community engagement, Zoom, meeting time, budget, Q3 budget, AI Ethics Expo, Nigeria, Rwanda, Cameroon, onboarding, languages, regulations, regulatory environment, Partnership, scheduling
 - emotions: Friendly, Casual, Collaborative, interesting, accountability
+
+
+
+### Open Governance Workgroup
+
+Meeting was cancelled 
 
 
 ## Friday 19th July 2024
