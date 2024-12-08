@@ -6,6 +6,7 @@ description: Mon 22nd Apr - Sun 28th Apr 2024
 
 ## Tuesday 23rd April 2024
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -38,6 +39,58 @@ The Ambassador Town Hall is a recurring event happening live on the Ambassador Z
 #### Keywords/tags:
 - topics covered: AI ethics, GEI, Global AI Ethics Initiative, Token merger, Governance, funding, Supervisory Council, Decentralization Blueprint, Decentralisation Blueprint, LatAm, moderator workgroup, Q2 budget, deadlines, core contributors, regional expansion, Creative Commons, Elinor Ostrom, Ostrom, Decentralization, African guild
 - emotions: participatory, informative, Ambitious, forward-looking, new initiatives, enthusiastic
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Peter [**facilitator**], CallyFromAuron [**documenter**], Felix, CallyFromAuron, PeterE, guillermolucero, SucrenSpice, LadyTempestt, others unknown
+- **Purpose:** Weekly GovWG Meeting
+- **Working Docs:**
+  - [document on Naming context](https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing)
+  - [Q2 budget sheet](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945)
+  - [Gov Sandbox Turn #1 - Testing Tools](https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing)
+  - [Governance WG budget](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
+  - [DRAFT: process for starting a Workgroup in the Ambassador program](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit)
+  - [Moderators Workgroup](https://docs.google.com/document/d/1MuKE2SOKiQs08te-lZcb5hn66163oOLSx0MSGO4WZz4/edit?usp=sharing)
+
+#### Discussion Points:
+- Next steps on Contributors' decision-making tools. Blocker: suggested tools (e.g. CitizenOS) may not fit greatly, particularly as they support voting rather than consent decision making. Suggestion to look at https://colony.io/
+-  Next steps on Q2 2024 Budget decision process
+- Continued discussion of the idea of a Governance Sandbox to test governance tooling.
+- Kickstart new Moderators' Workgroup. Blocker: uncertainty on how to currently start a new WG
+- Q2 2024 budget for this Workgroup (see https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing) 
+
+#### Decision Items:
+- We should separate Gov Sandbox from the current decision-making processes at the Core Contributors.
+
+
+  - [**rationale**] Tool testing should be done by Guilds/WGs themselves before being suggested to the full Core Contributors decision-making process
+  - [**effect**] mayAffectOtherPeople
+- Suggestion to look at https://colony.io/ as a decision-making tool
+  - [**rationale**] It appears to allow a consent process, rather than voting, so it would fit the approach we are currently experimenting with.
+  - [**effect**] mayAffectOtherPeople
+- Q2 2024 Budget approval process to be done in the same way as we did for Q1 
+  - [**rationale**] Tho we want to make small improvements based on retrospective about Q1
+  - [**effect**] mayAffectOtherPeople
+- GovWG will take initiative to push for introducing & supporting setup of the new Moderators WG, and will include Moderators budget in Governance WG's Q2 Budget allocation.
+  - [**rationale**] because we agree such a WG is needed, and it is unclear at present how it should be set up
+  - [**effect**] mayAffectOtherPeople
+- We will use this doc https://docs.google.com/document/d/1MuKE2SOKiQs08te-lZcb5hn66163oOLSx0MSGO4WZz4/edit?usp=sharing to ideate on the Moderators WG
+  - [**effect**] mayAffectOtherPeople
+- Q2 budget for Governance WG - we will ideate on this async in this spreadsheet https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing.
+  - [**rationale**] because we didn't get time to discuss it properly in the meeting. Felix has started, by budgeting only for the sessions (~40$ per session), but he has not yet included any follow-up tasks or async work; so we need to think about what should be included.
+  - [**effect**] affectsOnlyThisWorkgroup
+- On the question of how to set up a new WG in general, we will try to follow the ideas in this draft doc from Onboarding WG https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit and see how well it works.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] add ideas to the budget spreadsheet for Governance WG's Q2 2024 buddget [**assignee**] all [**due**] 30 April 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Decision Making Process, consent decision making, Governance sandbox, Core Contributor, decision making tools, governance tools, tool testing, citizenOS, colony.io, moderator workgroup, new workgroups, Process for agreeing new workgroups, Q2 2024 budget, budget approval process
+- **emotions:** speedy , concise, friendly 
 
 
 ## Wednesday 24th April 2024
