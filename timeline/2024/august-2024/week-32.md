@@ -488,6 +488,7 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 
 
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -657,6 +658,12 @@ Create Dework taks and issues for budget disbursement by the end of month. Track
 - **topics covered:** Roles, Collaboration, Translation, GitHub, ADN, agi-24, Tasks, deliverables, treasury guild operations, transparency 
 - **emotions:** Collaborative, entertaining, challenging, creative, efficient, operations
 - **other:** 
+
+
+
+### Governance Workgroup
+
+Meeting was cancelled 
 
 
 ## Friday 9th August 2024
