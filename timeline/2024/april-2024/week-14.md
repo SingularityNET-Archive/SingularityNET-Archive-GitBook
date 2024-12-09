@@ -166,6 +166,7 @@ description: Mon 1st Apr - Sun 7th Apr 2024
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -339,6 +340,54 @@ This TH was primarily an AMA with the DeepFunding team about the ASI token merge
 #### Keywords/tags:
 - topics covered: deep funding round 4, RFP, ASI token, Token merger, ocean, fetch, AMA, Partnership, Treasury, Decentralization, Decentralisation, shared pools, shared RFPs, onchain data, DF platform, weather
 - emotions: informative, participatory, questioning
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Felix [**facilitator**], Felix, CallyFromAuron [**documenter**], Felix, CallyFromAuron, PeterE, guillermolucero, SucrenSpice
+- **Purpose:** Weekly GovWG Meeting
+- **Working Docs:**
+  - [SNET Ambassadors - The Naming Thing (context-setting document on naming decision)](https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing)
+  - [Q2 budget sheet](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945)
+
+#### Discussion Points:
+- Ambassadors Naming -  how do we name ambassadors/contributors? Should we keep the name "Core Contributor" or revert to "Ambassador"? Should the name of the program itself be changed?
+blocker: time & people to solve it
+- Q2 budget - what should be the process on WG budgets for Q2 2024?
+blocker: time & people to solve it
+- Governance tools & know-how.  What are good use cases for tools?
+blocker: clear use cases to test use of tools
+- uniFires (a Catalyst funded project to support connections between Polkadot and Cardano) & SNET - how to connect them or make links between them on governance issues? particularly on the issue of 1p1v
+Blocker: available time & people 
+
+- Peter mentioned the forthcoming token merger of SNET, Fetch & Ocean, which will enable collaborations with their respective Ambassdor programs, something to look and think about
+- Peter mentioned the idea to set up a Moderators WG, enable resources for folks like Demonix (server admin)
+
+#### Decision Items:
+- We agree there is some momentum on 1P1V (one person, one vote) & Governance at UniFires/Polkadot. 1P1V is a major strategic objective of GovWG.
+  - [**rationale**] because we agree that plutocratic voting (1c1v, one coin one vote) is unfair and undesirable, and privileges richer people in decision-making.
+- we agree a Moderators WG would be a good idea, and GovWG will support it if needed (e.g. by folding it into our own Q2 budget)
+  - [**effect**] mayAffectOtherPeople
+- We agree that the Naming decision could be the next decision that Core Contributors are asked to make, using a similar Consent process as we use for budget decision
+  - [**rationale**] Because it has been raised several times, and would perhaps be a good topic to practice consent decision making.
+  - [**opposing**] We note that the decision should only be about the name of the role ("Core Contributor"), and not at this stage about the idea of renaming the Program
+  - [**effect**] mayAffectOtherPeople
+- We agree that the budget process for Q2 should be similar to what was done for Q1, except that WGs/Guilds should be required to submit a quarterly report about what they did in Q1, as well as a budget for Q2.
+  - [**rationale**] Accountability and transparency, and to enable core contributors to make an informed decision on whether or not to aproave a WG/Guild's budget.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Onboarding WG members have created a context-setting document on the Naming decision (see https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing) to define process how to get reflection & insights from current contributors & Ambassadors  [**assignee**] CallyFromAuron, LadyTempestt, Sucre n Spice [**due**] 11 April 2024 [**status**] done
+- [**action**] Plan a retrospective session on what worked & what didn't for the decision on the Q1 2024 budget. This could take place in a Governance meeting. [**assignee**] all [**due**] 18 April 2024 [**status**] todo
+- [**action**] Set up a "governance sandbox" for testing governance tools- reach out to Core Contributors & ask if they can engage in tool testing, for real decisions in their WGs or for imaginary ones. Write up reports & documentation under open source licences (e.g step by step guide). [**assignee**] all [**due**] 11 April 2024 [**status**] todo
+- [**action**] Reach out to some SNET folks and ask them to engage with UniFires, establish a small group of SNET folks to engage at uniFires  - create a blog post on 1P1V with uniFires  - bring the topic up in SNET Ambassador Town Hall [**assignee**] guillermolucero, Felix [**due**] 11 April 2024 [**status**] todo
+- [**action**] Ask Treasury Guild to set up a new sheet for the Q2 budget at https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945  and ask all Guilds/WGs to submit their Q2 2024 budgets together with a quarterly report [**assignee**] Tevo [**due**] 11 April 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance, community governance, Q2 2024 budget, core contributors, renaming Ambassadors, 1p1v, UniFires, Polkadot, Q1 quarterly report, quarterly reporting, governance sandbox, governance tooling, testing tools, retrospective, Q1 2024 retrospective, consent decision making, moderator workgroup, Token merger, fetch and ocean
+- **emotions:** Friendly, Collaborative, Conclusive
 
 
 ## Friday 5th April 2024
