@@ -4,6 +4,94 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 
 # Week 40
 
+## Tuesday 1st October 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], Effiom, CallyFromAuron [**documenter**], CallyFromAuron, Effiom, LadyTempestt, CollyPride, advanceameyaw, Duke, guillermolucero, LordKizzy, Mikasa, Kateri, Onize, PeterE, osmium, billy
+- **Purpose:** Weekly Gov WG call
+- **Working Docs:**
+  - [Q4 budgets: Objections summary Round 3](https://docs.google.com/document/d/16VveeANX1ub6WQWa2uemS-0StIEXYJ2JUl7kSlhwgck/edit#heading=h.1l84d218cfbm)
+  - [Report for the "Ubuntu and AI" EventConference](https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing)
+  - [Governance WG, tasks sheet](https://docs.google.com/spreadsheets/d/1kVTXINeOh11tz3uPWicA1aR9aZslwCQMs1hKSFzlM3s/edit?gid=0#gid=0)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Q4 Consent Proposal List - Iteration 3 (Responses)](https://docs.google.com/spreadsheets/d/11zZ-XFCc-vs35cK_pPsgmBPUSBeQNgU3qcB7Xv9Zr8M/edit?gid=657828461#gid=657828461)
+  - [Governace Memo for Budget Approval Iteration 3](https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit)
+  - [Some ideas for new approaches to budget decision-making](https://docs.google.com/document/d/16jr_Yoq-d_WZWRMNcBFy-GkSNWFbm-VD2J14b69v520/edit#heading=h.beyuysuxeptu)
+
+#### Narrative:
+Guillermo's answers to the objections on LatAm Guild's budget:
+
+1) The budget is too high: Guillermo stated that this affects the entire program, since in Q3 the market price was low. Vani also noted that LatAm's budget wasn’t the highest. Guillermo ended by saying that there’s a need for a better strategy to address this.
+
+2) Concerns about overlapping with the work of other WGs: Guillermo pointed out that the issue of "overlap" for regional Guilds has already been discussed in a previous Governance meeting, and there is already consensus that African and LatAm Guild are complementary to the program, and that it is valid for them to do tasks like onboarding, marketing and education independently, in ways that are appropriate to their particular region; so this objection is not valid. He cited the example of African Guild's "Ubuntu and AI" conference was held last Friday and Saturday. Guillermo noted that in terms of operations, LatAm Guild has independent sub-groups for communication, education, etc.
+
+3) Concerns about Lack of report, budget allocation, and Transparency: Guillermo noted that LatAm's budget for Q3 was down by about $2,000 after budget fitting and the group had to still deliver with that. He said the comment about the Q2 budget being shared by 2 individuals was not valid, because how the funds were going to be disbursed was captured in the Q2 proposal; at the time the Guild had only 2 founding members but before the start of Q3, the number had increased and the new members who joined and delivered on task were rewarded.
+
+Peter pointed out that this last concern could have been refuted by the quarterly report, as it seems to be recurring. Guillermo noted that the activities of the Guild are on-chain and are verifiable on the Treasury Dashboard, also stating that there are summaries that report the activities. In response to the concern on transparency, Vani noted that since the objector was evidently able to see how funds were disbursed (i.e. that only 2 people were rewarded in Q2 and more were in Q3), surely that demonstrates that things are transparent? 
+
+Guillermo then highlighted some of the impact and contributions the LatAm Guild has made to the Program. He announced the Hackathon with the ASI collaboration initiative. Colleen appreciated the Hackathon initiative and the work being done by the Guild. 
+
+Guillermo ended by saying that it is important not to overlook these concerns, because we get to learn and he believes in this process. Peter appreciated Guillermo for addressing these concerns, as the objector would get clarity from listening to his perspective.
+
+
+Discussion on objections and the consent process
+Vani suggested that instead of discussing the objections about specific WGs, which can become quite confrontational, we should pull some of the concerns and questions raised and discuss them in general. Peter agreed that is the way to go about it.
+Should we continue with this existing consent process? Vani noted that she doesn’t think people are convinced we should.  LadyTempestt expressed her issues with the current consent process, and how it takes time and can get confrontational. 
+Vani noted there is a need to have a conversation about what a metric is, as this has been a recurring concern.
+
+LadyTempestt asked about the expectation of Writers' WG coming back with a reduction to their budget - they have done so, but it doesn't appear to have affected the current lowering percentage for budget-fitting.  Peter pointed out that there is an error in the sheet which could explain theis - it will be corrected.
+
+Finalizing on the Task list for Governance WG in Q3
+Vani shared the spreadsheet. She noted that some tasks don’t have a price allocated to them, and some, we don't know who did them. She asked people to have a look at it, especially those who had done a task in the WG in Q3.
+
+Retrospective on the entire Consent process
+Vani suggested a retrospective on the entire Consent process experiment overall, across all the time we have been using it, in addition to the normal retrospective on how the process went this Quarter. This was agreed; and we agreed that such a session will need some planning.  Effiom noted the feedback gotten during the session would inform the context of whether it’s a retrospective of the entire process or just this quarter. 
+
+
+#### Discussion Points:
+- Completion of budget approval process for GitHub PBL WG and LatAm Guild
+- Discussion on objections and the consent process
+- Finalizing on the Task list for Governance WG in Q3
+- Planning for a retrospective on the entire Consent process over several Quarters
+
+#### Decision Items:
+- We agreed that GitHub PBL WG's budget has passed
+  - [**rationale**] One objector didn’t give any reason, hence, there are 3 objectors, 10 consenters, and 2 abstentions for the WG.
+
+One of the 3 objections is invalid, as the objector said, “I don’t think this WG is harmful”, and based on the process, a valid objection has to identify harm to the program.
+
+So GitHub PBL has passed at 14% objectors, which is under the 20% threshold.
+
+  - [**opposing**] We noted that 2 of the 3 objections highlighted the potential of collaboration with Education Guild, so perhaps this is a concern that should be addressed? 
+
+But as we didn’t do a deep dive into the objections raised for other WGs that have been approved, we agreed we shouldn’t do that with GitHub PBL.
+  - [**effect**] mayAffectOtherPeople
+- We agreed that LatAm Guild's budget has passed. 
+
+  - [**rationale**] One objector didn’t give any reason, hence there were 3 Objectors, 4 abstentions, 9 Consenters.
+This gives a total of 18.75% objectors, which is under the 20% threshold, so the budget passes. But for clarity, Guillermo nevertheless went through the objections and answered them - see "Narrative" above.
+  - [**effect**] mayAffectOtherPeople
+- We agreed that instead of discussing the objections about specific WGs, in future we should pull together the main concerns and questions into a doc, and discuss them in general terms.
+  - [**rationale**] Because discussing objections to individual WGs can become quite confrontational; and there are several issues that have been raised for several WGs and so could be discussed in general terms
+  - [**opposing**] Note that we did not agree an action item for anyone to create such a doc, so this will need to be raised again in a later meeting.
+  - [**effect**] mayAffectOtherPeople
+- We agreed on a retrospective on Tues 8th Oct about the Consent process as a whole, collating info from Quarterly retrospectives and asking people what they think the overall effects have been.
+  - [**rationale**] Because Consent decisionmaking was originally adopted as an experiment; so experimental method suggests we should gather data to assess what the results have been overall. Since we have now been using this decisionmaking methodology for several Quarters, now is a good time to look at this.
+  - [**opposing**] none.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani, Peter, Onize, LadyTempestt, and Guillermo will plan the  retrospective session on the Consent process as a whole [**assignee**] CallyFromAuron, PeterE, Onize, LadyTempestt, guillermolucero [**due**] 8 October 2024 [**status**] todo
+- [**action**] Tevo to check and update any errors in the Quarterly budget Planner sheet [**assignee**] Tevo [**due**] 8 October 2024 [**status**] todo
+- [**action**] Those who have done a task in Governance WG in Q3 which does not already have an agreed price, should suggest pricing in the Tasks sheet [**assignee**] all [**due**] 8 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** consent decision making, LatAm Guild, GitHub PBL workgroup, budget approval, objections, confrontational, regional guilds, retrospective, Writers WorkGroup, lowering percentage, Budget fitting, transparency, Documentation, budget concerns
+- **emotions:** interesting, Deliberative, contributive, decisive
+
+
 ## Wednesday 2nd October 2024
 
 
