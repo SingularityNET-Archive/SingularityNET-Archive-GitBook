@@ -80,3 +80,79 @@ We also mentioned the issue of how to decide who is able to (for example) repres
 #### Keywords/tags:
 - **topics covered:** sNET mission and vision, inclusion, Africa, LatAm, carbon footprint, diversifying, SingularityNET Foundation, Foundation, Ambassador Program reserves, reserves, BeGIN, fishbowl interviews, interviewing, research, qualitative research, Ethics, Decentralization, AI ethics, consultative decision-making, mentorship
 - **emotions:** calm, Organised, ideas, exploratory
+## Thursday 12th December 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, CollyPride, AshleyDawn, Sucre n Spice, LadyTempestt, Duke, osmium, Effiom, Gorga Siagian, CJFrankie
+- **Purpose:** Monthly WG Sync call: aiming to support inter-WG collaboration
+- **Working Docs:**
+  - [WG Syncing Call: rolling agenda](https://docs.google.com/document/d/1Mdxr2DT9LOi_-7ZS7oIC69ilY67oGqReVhvOuNwUgYQ/edit?usp=sharing)
+  - [Form for general feedback on the Program](https://docs.google.com/forms/d/e/1FAIpQLSee0oIRpKd2I9tlqt_-QxQMK_wdZNHlmM9BqG61jWy2W8QhWw/viewform)
+  - [form for feedback on individual WGs](https://docs.google.com/forms/d/e/1FAIpQLSckE_kso56kdeJfYcfEezAzKJzcTqFJ6Ej9yySalpMN7SL1uw/viewform)
+
+#### Narrative:
+The meeting had a slow start, with only a few people in the call at the beginning; but eventually was quite well attended.
+
+End-Of-Year Feedback
+We agreed to send out a Google Form to all workgroups, asking what they think the content of these WG Sync calls should be in future. Questions:
+1) Did you attend any of the WG Sync calls in 2024? Why/why not?
+2) What type of topics would you ideally discuss during this monthly WG Syncing call? Options:
+- Sharing best practices
+- Collaborative efforts/shared initiatives that all WGs could take part in
+- Tooling
+- Resolving conflicts between WGs
+- Resolving conflicts between individuals
+- Discussing any issues or problems with the Program as a whole
+- Addressing any responses to the standing Ambassador Program feedback forms
+- Other
+3) Which topics do you think should NOT be part of the WG Syncing call, but addressed elsewhere?
+
+
+Existing Ambassador Program feedback forms
+We noted that there are 2 existing feedback forms - one on the Program as a whole https://docs.google.com/forms/d/e/1FAIpQLSee0oIRpKd2I9tlqt_-QxQMK_wdZNHlmM9BqG61jWy2W8QhWw/viewform, and one for specific WGs https://docs.google.com/forms/d/e/1FAIpQLSckE_kso56kdeJfYcfEezAzKJzcTqFJ6Ej9yySalpMN7SL1uw/viewform. We suggested that we should check to see if they are still useful and worded in a way that is meaningful; if so, they should be monitored; and that the WG Sync call could be a good place for any issues raised to be discussed.
+
+
+WG Sync rolling agenda
+We noted that there is a rolling agenda doc for these meetings, but it isn't getting used much; perhaps we need to publicise it more, e.g. in Town Halls and in Discord.
+
+
+Ambassador Program Reserves
+We had a discussion about the Ambassador Program's financial reserves, and what they might be spent on. 
+Peter confirmed that the Program itself does have a large reserve, which is separate from the reserves of individual WGs. We noted that there was a meeting earlier this week https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/december-2024/week-50#ai-ethics-wg to discuss the issues around the Ambassador Program attending events, which touched on whether event attendance should be paid for by using reserves; and a "task group" is going to meet on Friday to discuss this specifically; but there are likely other things that people might want reserves to be spent on. A quick brainstorm suggested the following:
+    - Resurrect the "New ideas"  budget?
+    - Training, skillsharing,  mentorship - including coaching e.g. for presenting at events and Twitter spaces? and pairing ambassadors with experts, offer one on one coaching sessions?
+    - Resurrect the podcast? Or move more towards X spaces instead?
+    - Research/interviewing people about AI-related topics?
+    - Organising our own events,as well as attending those organised by others?
+    - Make a commercial?
+We agreed that these and other ideas will need to be discussed further.
+
+
+
+
+#### Discussion Points:
+- End-of-year feedback / Getting input from all WGs on how these calls should be in future
+- Existing Ambassador Program feedback forms
+- WG Sync rolling agenda and how to publicise it
+- Ambassador Program Reserves and how to spend them
+
+#### Decision Items:
+- We will send out a Google Form to all workgroups, asking what they think the content of these WG Sync calls should be in future
+  - [**rationale**] becaue not all WGs attend these meetings and it would be useful to know if there are needs that are not being met
+  - [**effect**] mayAffectOtherPeople
+- We will find out whether anyone is monitoring the 2 existing feedback forms, and whether there have been any replies
+  - [**rationale**] because it has been a while since they were created
+  - [**effect**] mayAffectOtherPeople
+- We will share and publicise the rolling Agenda more widely more, e.g. in Town Halls and in Discord.
+
+  - [**rationale**] Not everyone is aware of it, and it would be good to encourage WGs to shape the agenda more
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Peter will create a Googleform for WGs to give feedback on the WG Sync calls, and what kinds of things they should cover in future [**assignee**] PeterE [**due**] 20 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** WG Sync Call content, Reserves, Budget , events, retrospective, Google Form, feedback, mentorship, skillsharing, podcasts
+- **emotions:** interesting, participatory, slow start, Discursive
