@@ -80,6 +80,84 @@ We also mentioned the issue of how to decide who is able to (for example) repres
 #### Keywords/tags:
 - **topics covered:** sNET mission and vision, inclusion, Africa, LatAm, carbon footprint, diversifying, SingularityNET Foundation, Foundation, Ambassador Program reserves, reserves, BeGIN, fishbowl interviews, interviewing, research, qualitative research, Ethics, Decentralization, AI ethics, consultative decision-making, mentorship
 - **emotions:** calm, Organised, ideas, exploratory
+## Tuesday 10th December 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, CollyPride, AshleyDawn, Sucre n Spice, FroshFX
+- **Purpose:** Weekly GovWG Meeting
+- **Working Docs:**
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+
+#### Narrative:
+Most of the meeting was taken up with reviewing the topics still on the rolling agenda, and deciding what to cover in January. Our agreed agenda is:
+
+- Tuesday January 7th - Why did those who did not take part, not take part? Results of Peter DMing non participants. And: Does the Foundation/the decision makers fully know what the Ambassador Program does? How to make them aware? Among others: End of year report
+
+- Thurs 9th Jan: Compulsory participation in governance - yes or no (for individual Core Contributors) (for WGs)? Also - penalties for WGs for not taking part in governance, yes/no? 
+
+- Tues 14th Jan: Retrospective on Q1 2025 process 
+
+- Thurs 16th Jan: WG budget cap - processes around it, how to change your cap?
+
+- Tues 21st Jan: WG autonomy/ New WGs?/Outputs. This covers:
+Process for starting new WGs? And merging WGs??? 
+how do we determine which WGs are producing “valuable” outputs - or do we? CAN there be an objective standard on this, or is it a matter of opinion?
+WG autonomy as a principle? (this links to the above, and to validity of objections). 
+Increasing numbers vs, non-increasing Program budget
+People’s capability and whether/how we assess it / Should WGs train people?  (already started discussion, see Governance WorkGroup Session 30th July 2024)
+
+- Thurs 23rd Jan: As above, continued
+
+- Tues 28th Jan: Self nomination to Core Contrib status - yes or no?- (was briefly discussed on 21st Nov 2024, but no consensus, so discuss again at a later date.), Must a Core Contributor have a wallet - yes or no? and Is everyone happy with Core Contributor criteria?
+
+- Thurs 30th Jan: Anonymity in the decisionmaking process - yes or no??
+
+February: Looking at other decisionmaking processes besides consent - we said that we would do this in Q1, but will do it if it is agreed that we still want to. Could do it just as education rather than with a view to changing our process
+
+
+#### Discussion Points:
+- Agenda items for January
+- Differentiating Tues and Thurs meetings
+- Retrospective session on the Q1 2025 budget decision
+- Why some core contributors don't take part in the consent process
+- WG Sync call
+
+#### Decision Items:
+- We agreed that our first meeting back after Christmas will be Tues 7th Jan
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will run a retrospective session on the Q1 consent process on 14th Jan
+  - [**rationale**] didn't want it to be too early in the new year, to ensure everyone is back
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided agenda topics for January - see rolling agenda doc https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing
+  - [**rationale**] mainly to ensure that topics we identified during Q4 2024 but haven't yet covered, will be covered; and to ensure that topics follow on from each other in a reasonable way
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that we will differentiate Tues and Thurs meetings more clearly next year: Tues is morte about the decision-making processes, and (after January, when we already have some topics we need to cover) Thurs is for open topics suggested by people in the Agenda doc.
+  - [**rationale**] mainly to ensure that we do have space for topics that come up ad-hoc
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that we will do more to encourage people to add topics to the rolling agenda:
+ 1) we will mention it more often at Town Hall
+ 2) we will post in the Governance Discord channel on a Monday, to say what the Tuesday meeting topic is, and to invite topics for Thursday
+  - [**rationale**] To try to ensure that Thurs meetings are more responsive and open
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that Peter will DM any Core Contributors who did not take part in the budget consent process this time, to ask if they would be prepared to say why not. Any responses can then be shared and discussed in our first meeting in January.
+  - [**rationale**] Because last time this was done, we did get useful replies that helped us tweak the consent process to be more welcoming
+  - [**effect**] mayAffectOtherPeople
+- We decided to hold a December WG Sync call this Thurs, 12th Dec
+  - [**rationale**] Because we did not schedule a call for November, so it will be a long time to wait till Jan if we do not have one this month - and any later in Dec, people will probably be on holiday
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Peter to DM those who didnt take part to ask why they didn't, and if they have any feedback on the process.
+ [**assignee**] PeterE [**due**] 20 December 2024 [**status**] todo
+- [**action**] Peter to start a document where WGs can add suggested material for an End Of Year Report [**assignee**] PeterE [**due**] 12 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** participation, consent process, core contributors, agenda creation, inclusion, Workgroup sync call, holidays, Christmas, retrospective, Q1 2025 budget decision, workgroup autonomy, budget caps
+- **emotions:** quiet, focused
+
+
 ## Thursday 12th December 2024
 
 ### Governance Workgroup
