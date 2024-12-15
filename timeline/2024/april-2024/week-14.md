@@ -4,6 +4,98 @@ description: Mon 1st Apr - Sun 7th Apr 2024
       
 # Week 14
 
+## Tuesday 2nd April 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Peter [**facilitator**], CallyFromAuron [**documenter**], Felix, CallyFromAuron, PeterE, guillermolucero, Victor Maxwell, Stephen [QADAO], LadyTempestt, lord kizzy, Benjamin Viel, Hamzat_iii, Photogee, Kenichi, RamanDeep, Kareem, Olokoji, osmium, Sucre n Spice, hogantuso
+- **Purpose:** Weekly GovWG Meeting
+- **Working Docs:**
+  - [SNET Ambassadors - The Naming Thing (initial doc on naming decision)](https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing)
+  - [Ambassador Program budget planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945)
+  - [anon results](https://docs.google.com/spreadsheets/d/1Zv3rTL6d8L8LriEuBcFyT-hxkMu5PDXb2wF1uZ61Zrg/edit?usp=sharing)
+
+#### Narrative:
+Results of the consent process for Q1 budgets: 
+- 17 people took part, out of a possible 31 Core Contributors.
+- Anonymised results here https://docs.google.com/spreadsheets/d/1Zv3rTL6d8L8LriEuBcFyT-hxkMu5PDXb2wF1uZ61Zrg/edit?usp=sharing
+- There was 1 objection, saying that WG budgets should be scrutinised individually, on the grounds that some budgets (Writers, Video, Education) were unjustifiably high, so some costs should be reduced. (NOTE: for the Q1 budget decision, the form simply asked people to consent to all the budgets en bloc, or not.)
+
+The objector also raised the issue of reserves: "It's better we do have spare budget allocation taking advantage of the (high) AGIX price because there could be days where the price doesn't remain as high as it is."
+
+We reminded ourselves of the consent process we agreed on: if anyone objects, even if they are in a minority, their objection will still be discussed and addressed; and only if the issues cannot be resolved will the consent form be re-done. The second time, the budget will pass if 80% of those responding are in agreement, so that a single objection does not derail things completely. So we agreed that yes, we do need to address the objection in a meeting, and scrutinise the budgets of Writers, Video and Education WGs. We also noted that it can be daunting to be the "lone voice" who stands up and objects to something that others agree with - but that nevertheless, the onus is on the objector to justify their objection.
+
+Key discussion points:
+- does the consent process generate excessive overhead? (Stephen)
+- how centralised is the process? (Stephen)
+We noted that in the past, the budget approval process was done by a closed group of "Ambassadors" (about 7 people). Raising this to 31 Core Contributors inevitably brings additional overhead, but this is fundamentally a positive and decentralising move. 
+
+- The burden of justifying a budget, and constant enquiries into the minutiae of whether a budget is valid, can be negative and even malicious; e.g. in Cardano's Project Catalyst, where people have been trolled with constant sealioning inquiries about their budgets. Scrutiny cannot be ongoing indefinitely, and there needs to be some onus on the objector to justify their concerns. (Stephen)
+ - Perhaps WGs should have autonomy to use their budgets on whatever they think is valuable; so in future, the decision shouldn't be about picking holes in individual totals, but more about whether WGs have explained their budget and whether they have put systems in place to track whether they've spent it the way they said they would; and about whether their budgets fit the total Program budget. (Vani)
+
+- Conflict of interest: funding recipients are also the decision-makers on funding. As a structural, point-of-principle issue, there should be a treasurer role (group or individual) who does not receive any other funding, and only validates budget requests. (Stephen)
+ - It would be difficult to find someone to do this, since everyone is involved with a WG in some way (Peter).
+ - Since we want to take an experimental approach, we should be ready to make changes from Quarter to Quarter, and take risks and try new approaches. (Felix).
+The meeting agreed this issue should be looked at further, and noted that it might take time to resolve. 
+
+- Closed Discord channels: if the objector can't see the details of what a WG is doing because they can't see the group's Discord channels, that's not the objector's fault (Peter)
+- Workgroup autonomy: if you're not part of a WG, you don't really know what goes on in that group, so your objection might not be valid - and if you want to preserve your anonymity, there is no way forward (LadyTempestt)
+- Anonymity in decisionmaking - the person who raised the objection isn't here (Stephen)
+
+- Work quality: Victor outed himself as the objector.  Example of high costs from Writers' WG of $100 for a single article. Are there checks on the quality of such articles, or on whether they reach their target audience, and whether any engagement is authentic and not farmed? (Victor)
+- Importance of attending a WG’s meetings before objecting:  Writers’ WG has addressed all these questions in our recent meetings (LadyTempestt)
+- It’s fine to want to scrutinise the quality of each other’s work - but that needs to be a separate discussion, and should not be brought into the decision on budgets. We all have different ideas of what type of work is worthwhile or valuable - and in a decentralised ecosystem, different opinions are valid. If we are autonomous,  we should not try to enforce our ideas of valuableness by trying to withold budget from each other. (Vani)
+- What would need to change for Victor to consent? Maybe if we recognise we need to improve quality control and we created a separate initiative to look into the quality of WGs’ work? (Felix)
+- Importance of understanding a workgroup before commenting (Tuso)
+- Initially I wanted to track WG funding with KPIs as we do in Deepfunding. But I now think workgroups can justify their budgets, so I would go against my previous feeling, and consent. I plan to attend more meetings to understand how the ambassador program works (Victor)
+
+Several people expressed thanks to Victor for raising the issues and being prepared to break his anonymity.
+
+- Sharing info: Maybe we need to make basic information more available to newer people - a brief for each workgroup, what they take in money, what they deliver, and how that is approved and accepted. But we don’t follow the more formalised process that is used in DeepFunding - here, a more organic system has evolved. So we might never have people reviewing the milestones of each work group, because we're not at that scale, but we might take a step towards that by communicating so people can easily access that information. (Stephen)
+
+- Decentralisation vs standardisation on monitoring budgets: The current approach is a quarterly “broad sweep” approval - we don't check every single deliverable before releasing funds, it's not like milestone-based delivery. For simplicity, I prefer this approach; but getting funding should mean *some* responsibility. I would agree with a standardised way of explaining budget spending, and demonstrating where the money went. That doesn't jeopardize the decentralization too much. (Peter)
+
+- Style of reporting: Currently most groups write a narrative quarterly report. Perhaps it should be more spreadsheet-like: for each line of your budget, a short note to say how you dealt with it - whether you spent it all, and what you produced. Each work group could find their own way of formatting that information - all those different approaches might help us find something that works for everybody. (Vani)
+- I would agree with more standardised reporting:  part of the quarterly report should include a very easily understandable overview of which funds are spent, how, what the outputs are, the deliverables (Peter) 
+- Quarter two budgets: Based on what we have learnt this Quarter, what would be a valid reason to approve or not approve them? Some people in the room feel it’s about work quality, but we haven't defined what we mean by “quality”; and other people don't think that's the issue at all, so we need to have that conversation. (Vani)
+
+
+
+
+#### Discussion Points:
+- Budget Approval; should individual workgroup budgets be scrutinised?
+- Details of the consent decisionmaking process 
+- Conflict of interest, and the idea of an independent treasurer role who isn't part of the funding application process in any other way
+- Anonymity in decisionmaking
+- Workgroup autonomy; the importance of attending a group's meetings and being aware of their achievements before objecting; and whether we should avoid bringing assessments of the value of each other's work into the conversation about budgets.
+- Quality control on Workgroup outputs - should we do this; if so how; and should it be related to funding decisions, or kept as somerthing separate?
+- Differences between DeepFunding and the Ambassador Program in terms of how budgets are tracked and reporting is done
+- Decentralisation vs standardisation on monitoring budgets
+- How should we approach Q2 budgets - what is a valid reason to approve or not approve a budget?
+
+#### Decision Items:
+- We do need to address the objection that was raised, and scrutinise the budgets of Writers, Video and Education WGs. This will be done in a follow up meeting.
+  - [**rationale**] Because the consent process we agreed on was that if anyone objects, their objection will be discussed and addressed; and only if it cannot be resolved will the budget pass on the basis of 80% of those responding being in agreement. 
+
+We agreed to do this in a follow-up meeting to give members of those WGs time to prepare to address concerns
+  - [**effect**] mayAffectOtherPeople
+- We will at some point look further into the idea of a treasurer/budget validator role who is independent and not a recipient of WG funding.
+  - [**rationale**] To resolve the potential conflict-of-interest that the decision-makers on budget issues are currently also the recipients of funding
+  - [**opposing**] Not an objection, but a recognition that most people in the Program are part of one or more WGs so it would be hard to find someone who is not at all a recipient of funding.
+  - [**effect**] mayAffectOtherPeople
+- We will think and iterate further on how we report, and how we assess WGs' achievements
+  - [**rationale**] Because this process has raised several ideas, including the idea that reporting could be more standardised.
+  - [**effect**] mayAffectOtherPeople
+- Victor (the author of the only objection) withdrew his objection; so Video, Writers' and Education WGs' budgets are all accepted, and overall, the Q1 budget passes without the need for a further round of consent
+  - [**rationale**] Victor has been convinced that the budgets for these WGs are justifiable.
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:** consent process, consent decision making, Writers WorkGroup, Education Guild, video workgroup, workgroup autonomy, anonymity, objections, validity of objections, treasurer, conflict of interest, Reporting, Quarterly Report, Decentralization, Core Contributor, value of work
+- **emotions:** Discursive, Thoughtful , diverse, insightful, complex
+
+
 ## Wednesday 3rd April 2024
 
 
