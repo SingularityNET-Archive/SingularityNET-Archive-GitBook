@@ -4,6 +4,61 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 # Week 42
 
+## Tuesday 15th October 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], LadyTempestt [**documenter**], PeterE, LadyTempestt, CallyFromAuron, CollyPride, esewilliams, guillermolucero, Sucre n Spice, LordKizzy, SubZero, Malik, AndrewBen, Kateri, kareem, kenichi, Ayo, eveline trinité, Effiom
+- **Purpose:** Weekly Gov WG meeting
+- **Working Docs:**
+  - [Retrospectives from the past](https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit)
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+
+#### Narrative:
+Vani gave an overview of consent decisionmaking and how it's supposed to work:
+- There needs to be an actual proposal to consent or object to.
+- Consent = absence of actual objections, not perfect agreement - so "Safe to try" and "good enough for now", not complete agreement. 
+- Need to ask objectors "What would need to change to get your consent?" - so rather than people trying to mold the proposal to fit their ideal, they just talk about what they specifically object to, and think would be actually harmful. 
+- Decisionmaking is supposed to be in the hands of those who are closest to the issue; so it's "how does it harm *you*?"
+- In line with WG autonomy (as raised by Duke in the Q4 retrospective, and several other people over time), objections shouldn't be about what *you* think a WG should be doing - it should be that you are responding whether what the WG wants to do is "safe to try”, OR if you think it would cause harm, then "what harm would it cause? And what would have to change for you to consent?” 
+- Vani suggested we have gone away from that, and somehow turned the process into a vote, not a consent process, especially with the “80% approval and 20% objections" rule. People are not responding as though we asked “Is it safe to try?”, but are giving lengthy analyses of how WGs should operate or should have been operating; and maybe that is what is making the consent process so difficult this time. She noted that most of us are educated to make decisions by voting and are less familiar with consent, or consensus, or consultative processes.
+
+Our use of a consent process was originally an experiment.  Experiments should be documented and evaluated. 
+ 
+We went through insights from past retrospectives (Q2, Q3, Q4): see https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit and added some of the issues raised to our Rolling Agenda doc:
+- should someone have a wallet to become a contributor? 
+- Self nomination to become a core contributor? 
+- Guidelines to what a “valid objection” is 
+- Workgroup Autonomy (how autonomous should WG budgets be?)
+Vani suggested it might be useful to look back at documentation of the past meetings where we addressed these issues, and pull together some of the key points raised, to help the discussion in future meetings. Ayo was of the same sentiment.
+
+On the point of “getting feedback through DMs from core contributors on why they don't take part in governance decisions,” Peter said it is a good idea to continue doing that.
+
+Peter pointed out that having an outline on what a report should look like or context setting via this suggestion; “Find a way to avoid the verbosity and over-complexity of some reports and budgets e.g. an outline of what to include, though not an actual template”  would be a good idea seeing as we do not have that in place now.
+
+We discussed including "participation in the the budget consent process" as part of the “participation” that maintains someone's core contributor status; and how we would record and track this, since it doesn't appear on Dework (usually, someone's level of participation is calculated via tasks on Dework). We have said in the past that we would record participation in the consent process onchain (just the fact that someone completed a consent form, but not the details of whether they consented or objected), but it's unclear if this has been done yet. Peter said that he thinks it's a good idea to acknowledge and register participation in the governance process.
+
+Guillermo shared an experience on the decision-making process of what happens in the R&D Guild: a milestone-style process. If someone is funded in previous rounds, and they deliver, let's say that's closure, milestone one. If they want to participate in the new community voting for new development, they will need to start from the beginning. And that way they go through the check and balance of the re-roll. Then the community goes through the process of consenting or not. He added that maybe there is something we can learn from this.
+
+We basically glanced through all the rest of suggestions in the Retrospectives doc with no full discussion on it.
+
+
+
+#### Decision Items:
+- We agreed to discuss everything open for discussion from the "retrospective insights" doc in future governance calls, by adding the topics to the Rolling Agenda
+  - [**rationale**] So that we don't lose the issues that were raised
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to add the main topics of discussion from the "retrospective insights" doc to the rolling agenda document and share them in the governance WG channel in the next few days. [**assignee**] CallyFromAuron [**due**] 17 October 2024 [**status**] todo
+- [**action**] Vani to search previous meeting summaries where we discussed these issues in the past, and try to create some notes on what has previously been said [**assignee**] CallyFromAuron [**due**] 22 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** retrospectives, core contributors, consent decision making, consent process, Q2 Q3 and Q4 retrospective insights, R&D guild, participation
+- **emotions:** quiet, contributive, insightful
+
+
 ## Wednesday 16th October 2024
 
 
