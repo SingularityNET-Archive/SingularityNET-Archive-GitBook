@@ -247,6 +247,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 
 ## Thursday 12th September 2024
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Weekly
@@ -291,6 +292,104 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 #### Keywords/tags:
 - **topics covered:** Skillshare Matrix, onboarding journeys, Q4 2024 budget, q3 2024 budget fitting, budget fitting, Workgroup closure, Contributors to edit docs, Gorga’s allegations
 - **emotions:** informative, Discursive, forward-thinking,  insightful, Friendly
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE, guillermolucero, LadyTempestt [**facilitator**], CollyPride, CallyFromAuron [**documenter**], guillermolucero, CallyFromAuron, lord_kizzy, CollyPride, PeterE, Sucre n Spice, LadyTempestt, Clement Umoh, TheFreysDeFi, CJFrankie, advanceameyaw, hogantuso, Duke, Onize, Effiom
+- **Purpose:** Weekly GovWG Meeting
+- **Working Docs:**
+  - [Context setting for Core Contributor decision on Q4 budgets](https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Snet Ambassador Budget Discussions (a historic doc on how %age budgets were calculated in Q2 2023)](https://docs.google.com/spreadsheets/d/1h6yTQGvkNhp-88a3wRCTxpKTpC24d4kIOWj1mpWrmxU/edit?gid=0#gid=0)
+  - [DRAFT: process for starting a Workgroup in the Ambassador program](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit?usp=sharing)
+
+#### Narrative:
+NOTE: this is a detailed summary, because those present were keen for all the ideas and insights to be documented so we don’t lose them.
+
+We noted that due to the recent AGIX price rise, the lowering percentage for budget fitting will be a little less than anticipated, but still high, at around 28%.
+
+No prior items on the agenda, so Peter opened it to the floor.
+
+Sucre n Spice raised the question of problems with the current budget process (unreasonably high requests leading to a difficult budget-fitting process; etc). In the past we used agreed percentage allocations to each WG (see spreadsheet https://docs.google.com/spreadsheets/d/1h6yTQGvkNhp-88a3wRCTxpKTpC24d4kIOWj1mpWrmxU/edit?usp=sharing  for details) and WGs simply had to work within their agreed allocation - would it work better to return to this?
+If we did, the arguments would be about what percentage each WG should have, rather than about budget totals - but at least there is a constraint (it has to add up to 100%), whereas the current process has none, and WGs are expanding their budget requests ad lib. 
+She noted that the current process was always intended as an experiment, so we can change it.
+
+Points raised:
+- We could shift to AGIX-based allocations rather than USD (Peter) Might make things easier, as it's the coin we work with (Kevin); but people think in fiat, not AGIX, so it's less intuitive. Also, budgeting in AGIX shifts the burden of token price fluctuation onto the WG or individual, not the Program overall, which feels unfair. (Vani)
+
+- Or, fixed prices for tasks, as in DeepFunding, where it's either $10 or $20 depending on the task. (Peter)  But that takes away WG autonomy - a WG should be free to pay more for a task, e.g. documentation, if they choose. WGs can spend their allocation as they see fit, then give a quarterly report so others can check if they think the WG used the money well. (Vani)
+
+- Have tiers for the percentage allocations? because some WGs are cheaper than others to run. (Vani)  But the WGs who have historically requested and got higher budgets would end up in a higher tier, regardless of how justified their high budget was (Peter). And what would be the criteria for allocating a WG's percentage? If some WGs historically have asked for more budget, do we question / examine that? And do we assess their outputs, rather than just basing it on an average of what they have requested in previous Quarters? (Clement)
+
+- Have a pot for WGs to use if they go over their budget but they're doing good work (Kevin)
+
+- When AGIX price was higher, WGs got very ambitious - but now price is lower, WGs should  recognise that they can only afford basic operational costs plus one or two projects. Or, if they want to continue doing the same work,  they have to pay less for tasks. (Sucre)
+
+- Let’s decide which of these suggested changes are "safe to try", and try them out, rather than just talking about them. The current budget process isn't working, in that it takes up too much of our time. (Love)
+
+- First step should be a retrospective of the whole of this budget process, over several Quarters, and analyse how it has affected the way workgroups operate. Then collate all the ideas for alternatives, so we can properly discuss them  (Vani)
+
+
+- We might need to merge some WGs; and we need to stop proliferating new ones. We now have 21 WGs; each of them adds budget overhead. (Sucre). We should have due process for starting a WG - we can’t afford unlimited WGs.  (LadyTempestt). Merge WGs, especially ones that are just subgroups of the same guild; and /or reassess whether we even need some groups, in terms of their outputs or in terms of our overall direction for 2025. What we need will change over time - some WGs might need to end to allow others to start (Duke).
+
+- Be careful about consolidating WGs, because decentralisation. Each WG has its own character; let’s not force people to consolidate with others who might be superficially similar, but are approaching it in different ways and learning from each others’ different approaches (Vani)
+
+- We should be more output-driven: e.g. end-of-quarter meetings where WG leads explain and justify their budgets (Duke)
+
+- The *number* of WGs might be a red herring - as long as they’re low-budget, and temporary, it might be OK. (Vani) But in practice, workgroups don’t end once they’ve done a job. So probably, a WG once started is here to stay (Sucre)
+
+- Budget caps? rather than the current “ask for any amount, and then do budget-fitting”? Because currently some WGs barely reduce their ask in response to lower token price, and nothing is said. Caps could tame this, and could be determined based on outputs, and/ or the Program’s overall priorities. (Duke)
+
+- What do we value and want to fund? The discussion could get poisonous if we’re not careful, but maybe we need to discuss it. There are divergent opinions and no right answer; percentage allocations would mean different WGs can do what they value, without a lengthy process of everyone having to approve every detail of others’ work. (Vani)
+
+- Split it into “operational” budget and “project” budget? All WGs get the same for the operational costs of running a group, but different amounts for projects (Sucre). “Project” allocation could be based on an average of what the WG has spent over the last 4 Quarters; and it would be what the Program can afford to give, not whatever the WG asks for. The WG will then do what it can with what it’s given (LadyTempestt), Some WGs spend a lot on tasks that are not really important to the Program. Can they be honest enough to cut those tasks? Or do we need to help them recognise it, via a consent process? (Sucre). 
+
+- “Operational cost” and “project cost” might not work for some WGs. For those who produce content, it’s all “operational”. So tiers, based on average budgets in the past, would be best. There are already de facto “tiers” in place - some WGs have had consistently high spends and others consistently much lower (LordKizzy).
+
+- There might be problems with averaging out the last few Quarters. Firstly, some WGs didn’t exist then; also, some WGs did more project work and requested more budget when token price was higher, but cut back when it was lower, whereas others haven’t cut back. And finally, some WGs overpriced certain tasks when token price was high, just to use more budget.
+
+- The last time a percentage allocation system was used, there were broad tiers (LordKizzy). But today, we have different needs, and different WGs might be in the “top” tier - so we need to assess it based on what we’re now focused on, not just on what a WG got in the past. I’m not sure how far back we should go (Colleen).
+I feel token price is the crux of the issue. If AGIX was at $1, we wouldn’t even be having this conversation. So if we get a tier system in place and then token price rises, would we revert to the current system? And should we start submitting budgets in AGIX? (Clement). In Onboarding WG, although we submit our budget in dollars, we work it out based on an assumed exchange rate (Sucre). If we did all calculate our budgets in AGIX, we would know what we have, whether token price goes up or down (LordKizzy)
+
+To be discussed next meeting, on Tues 17th. (Love).
+
+
+
+#### Discussion Points:
+- Problems with current budget process - should we move to a percentage allocation? or some other approach? 
+- Holding a retrospective not just on this Quarter's budget process, but on our current budget process as a whole, across several Quarters, to assess how well it is working.
+- Proliferation of workgroups - no more new workgroups, especially when they are subgroups of the same Guild? Or a better-defined process for starting WGs? And/or assessing WGs' outputs, to see if we need that WG 
+- How to decide what we value and want to fund. Can we all agree which WGs to have, based on the Program's overall aims? or are there too many differences of opinion on what is needed to achieve the Program's aims?
+- Do we need to assess WG outputs more formally in order to determine budgets?
+- "Operational" vs "project" budgets?
+- Budget tiers, and budget caps? or not?
+- Should we budget in AGIX or USD?
+
+#### Decision Items:
+- We agreed to hold a retrospective about the entire budget process over several quarters
+  - [**rationale**] to assess whether it is working, and to talk about what the problems are and what might need to be changed, since many people seem to be finding the current process less than ideal.
+  - [**effect**] mayAffectOtherPeople
+- We agreed to collate all the suggestions for a process for starting new WGs, and discuss them
+
+  - [**rationale**] because there are several suggestions in place but none of them has been properly agreed
+  - [**effect**] mayAffectOtherPeople
+- We agreed to discuss further on the idea of tiers and percentage allocations
+  - [**rationale**] This will be informed by our retrospectives on how the current budget process is working
+  - [**effect**] mayAffectOtherPeople
+- We recognised that there are different opinions on how tiers, if we used them, would be determined
+  - [**rationale**] some feel it should be primarily based on averaging what WGs have spent in the past, over several Quarters
+  - [**opposing**] others feel that priorities for the program as a whole might have changed over time, so what we want to fund might have changed
+
+#### Action Items:
+- [**action**] Lady Tempestt to create a shared doc and invite all WGs to give retrospective info on how the current budget process has affected their WGs. To be discussed at next WG Sync call on 3rd Oct (after current budget consent process is over)  [**assignee**] LadyTempestt [**due**] 26 September 2024 [**status**] todo
+- [**action**] Next WG Sync call (October 3, 2024 10AM UTC) to be put on the calendar [**assignee**] guillermolucero [**due**] 13 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** budget process, AGIX or USD, Budget fitting, budget percentage allocations, budget tiers, tiers, what do we value, aims of Ambassador program, token price fluctuation, operational budgets, project budgets, workgroup autonomy, safe to try, new budget processes, retrospective, priorities, budget priorities, new workgroups process, merging Workgroups, workgroup outputs
+- **emotions:** Casual, talkative, free to discuss, long, participatory, wide-ranging, not decisive, Discursive
 
 
 ## Friday 13th September 2024
