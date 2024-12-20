@@ -84,6 +84,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 ## Tuesday 13th August 2024
 
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -215,6 +216,70 @@ Members showcase deliverables and follow up Next month improvement work on GitHu
 - **topics covered:** Roles, Collaboration, Translation, GitHub, Tasks, deliverables, transparency , ADN-Event, Decentralized Science, Workshops, Rewards, Social Media Strategy
 - **emotions:** Collaborative, challenging, creative, Friendly, productive, Reflective, Task-focused, efficient
 - **other:**
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], Onize [**documenter**], CallyFromAuron, CollyPride, PeterE, Clement Umoh, LadyTempestt, Ayo, Duke, lord kizzy, Onize, esewilliams, martinsoki, AshleyDawn, Effiom, Eric Davies, malik, Advanceameyaw, Sucre n Spice, guillermolucero, YemiSolves, LordKizzy
+- **Purpose:** Weekly Open Governance session
+- **Working Docs:**
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [Governance WG tasks sheet](https://docs.google.com/spreadsheets/d/1kVTXINeOh11tz3uPWicA1aR9aZslwCQMs1hKSFzlM3s/edit?usp=sharing)
+  - [Ideas for new approaches to budget decisions](https://docs.google.com/document/d/16jr_Yoq-d_WZWRMNcBFy-GkSNWFbm-VD2J14b69v520/edit?usp=sharing)
+  - [Governance WG budget](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
+
+#### Narrative:
+We covered the Q4 budget proposals, core contributor engagement, financial strategies, and AGIX considerations. Key discussions included scheduling the Q4 budget decision process, creating a context-setting document to explain the Q4 decision process, and recalculating who is a core contributor for Q4. 
+
+We discussed why some Core Contributors do not participate. Peter has DMd those who didn't, and has had some interesting replies - several did not know they *were* a core contributor, or didn't know the dates or how to take paert in the consent process. This all suggests we need to do more publicity about the budget consent process. Peter will create a doc with the (anonymised) replies he got; Guillermo will produce infographics to help publicise dates and process for Q4 so people are more aware; and Ese will create documents during the process to keep people up-to-date wuth what the objections are, which WGs' budgets are still not agreed, dates of discussion meetings, etc. We also noted the im[ortance of creating and sharing a context-setting doc to explain the process.
+
+We discussed financial strategies to address token price fluctuation, risks of converting Program reserves to e.g. a stablecoin, and market implications. We also discussed (but did not definitely agree on) using a percentage of reserves (suggestions ranged from 10% to 50%) to cover WGs' budget shortfalls due to drop in token price during Q3. We noted that 10% is already set aside to cover token price drops; there was discussion of whether WGs themselves have reserves they could use; there was a suggestion that each WG could put forward one thing from their Q3 budget to be funded from reserves. There was also concern about dipping too much into reserves to cover the shortfall, and a suggestion that WGs should simply re-fit their budgets and prioritise, although it was also recognised that with such a big price drop, this could be very detrimental to WGs' work.
+
+We discussed how to improve Workgroup representation at governance meetings.
+
+
+#### Discussion Points:
+-  Establishing the schedule for Q4 budget decision process.
+- Creating a context-setting document for the Q4 budget process.
+
+- Recalculating who qualifies as a core contributor for the current iteration.
+- Addressing the challenges of predicting AGIX's future value.
+-  What are the potential risks of converting reserves to other tokens (stablecoins)?
+- Suggestions around receiving rewards in AGIX to mitigate the impact of fluctuating USD values.
+- Analyzed market conditions and their implications for the program's assets.
+- Emphasized the relative nature of the program's budget compared to its initial stage.
+- Discussed the importance of not solely relying on reserves to cover budget gaps.
+- Explored alternative strategies for maintaining financial stability amidst market volatility.
+- Expressed concerns about the negative impact of cutting workgroup budgets for Q3, and highlighted the challenges of accomplishing planned work and maintaining productivity with reduced budgets
+
+- Discussed the varying differences in how workgroups and guilds define "essential tasks" especially during budget tightening
+
+#### Decision Items:
+- We agreed there's a need to educate core contributors (especially new ones) about the budget process.
+  - [**rationale**] To make people more aware of the importance of budget fitting; to encourage core contributors to take part in the consent procerss
+  - [**effect**] mayAffectOtherPeople
+- We will use infographics as a key tool for communication and ensure a clear call to action is included in communications.
+
+  - [**rationale**] To make sure every workgroup is aware of deadlines and requirements for submitting their budgets and reports, and that Core Contributors are aware of deadlines for submitting their consent forms.
+  - [**opposing**] There were suggestions of paying $50 or $30 for creating infographics; the middle ground was selected ($40).
+  - [**effect**] mayAffectOtherPeople
+- On WG representation at governance meetings - we will reach out to workgroups to ensure better representation in the upcoming governance call on Thursday 15th Aug.
+
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Update the context-setting document to refer to the Q4 decision. [**assignee**] CallyFromAuron [**due**] 20 August 2024 [**status**] todo
+- [**action**] Create a sheet analyzing reasons why people didn't participate. [**assignee**] Peter [**due**] 20 August 2024 [**status**] in progress
+- [**action**] Guillermo to create infographics to visually communicate key budget information, including a call to action to engage core contributors effectively.
+ [**assignee**] guillermolucero [**due**] 20 August 2024 [**status**] done
+- [**action**] Ese to create educational material to keep people engaged with the Q4 budget process - for example, summaries of what the objections have been at each round, and governance "memos"  to remind people where we are in the process [**assignee**] esewilliams [**due**] 30 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Decision Making Process, consent decision making, consensus decision making, Proposal, Q3 budget tasks, numbers cap, retrospective, capability, Rewards, decentralised, essential tasks, budget tightening, budget cap, Infographics, core contributors, consultative decision making, Engagement, context-setting docs, publicity, Stable Value, stablecoins, reserves, ambasador program reserves, workgroup representation at Governance meetings
+- **emotions:** conflicting, tense, Collaborative, quick, progressive
 
 
 ## Wednesday 14th August 2024
