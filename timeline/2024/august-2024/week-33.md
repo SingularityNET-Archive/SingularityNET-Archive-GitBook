@@ -482,6 +482,7 @@ We discussed how to improve Workgroup representation at governance meetings.
 
 
 
+
 ### African Guild
 
 - Type of meeting: Weekly
@@ -629,6 +630,72 @@ Operations discussion on regards of marketing and content topics. How to execute
 - **topics covered:** Live Streams, Budget, Roles, content calendar, Schedule, Social Media Strategy, Accountability, Strengths, Team Work
 - **emotions:** Collaborative, creative, Friendly, productive, Reflective, Task-focused, Team Work
 - **other:** 
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], hogantuso, CallyFromAuron [**documenter**], guillermolucero, Photogee, Olokoji, Onize, Advanceameyaw, Cjfrankie, Effiom, Eric Davies, Merryman, Sucre n Spice, CallyFromAuron, Kateri, PeterE, hogantuso, LadyTempestt, LordKizzy
+- **Purpose:** Weekly Open Governance meeting
+- **Working Docs:**
+  - [Ambassador Program core contributors](https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing)
+
+#### Narrative:
+Update from Peter on the results of the DM he sent to core contributors who didn’t take part in Q3 consent process, asking for their reasons for not participating.  
+- 4 people didn’t have time
+- 1 was not interested (not much we can do)
+- 5 didn’t know about the process (hopefully will be addressed by improved publicity).
+- 2 didn’t know they were core contributors (hopefully will be addressed by improved publicity).
+We noted that we need to ensure our publicity goes out in time, and often; and that the consent form and the context-setting doc for Q4 should include links to the Core Contributor list, to ensure that people know.
+
+We noted that, as Tevo is curremtly away, calculating the next iteration of core contributors will have to be done in early September.
+
+Token price fluctuation - we noted that current rise will reduce WG budget losses during the past weeks - but the impossibility of predicting AGIX's future value.
+
+Payments cadence - would it be more effective for WGs to submit funding requests quarterly, since they have quarterly budgets, so it might be clearer to process payments all in one go at the end of a quarter?
+No - we noted that weekly fund requests can mitigate the effects of token price fluctuations, because some will be at a lower exchange rate and others at a higher rate, so it balances out.
+
+Can WG reserves be used to cover a shortfall due to eg. a drop in token price? We noted that not all work groups have reserves. Also some WG reserves are for work that has already been assigned, and thus can’t be used for anything else.
+
+Should WGs be prioritising maintaining the WG itself (meetings, documentation, etc); or project-based work? We recognised that this will vary from workgroup to workgroup, but it might affect what kinds of budgets are submitted for Q4. We suggested creating a doc to pull together ideas on how to prioritise and how to reduce your budget in times of low token price.
+
+Should WGs be given their agreed budget at the start of a quarter, in tokens, and manage token price fluctuations themselves? This would require each WG to have its own multi-sig wallet. We noted that this idea has been discussed in the past, and was rejected for several reasons; the meeting made no decision on it.
+
+Guillermo is finalising infographics on 
+1) the deadline for proposal and budget submission for Q4
+2) encouraging Core Contributors to take part in the consent process. 
+We agreed on wording for these - we noted that it needs to say "consent process" rather than "vote" or "consensus", and that it should talk about being part of decision-making/governance. Of the options Guillermo suggested, the meeting liked the slogan ""Your Voice Shapes the Future!"
+Also discussed contrast ratios, and making sure the infographic is legible for those with poorer contrast vision
+
+
+#### Discussion Points:
+-  Why some Core Contributors don't take part in the consent process
+- Token price fluctuation and its effects on WG budgets
+- Cadence for WG funding requests - should it be done quarterly rather than weekly?
+- Can /should WGs use their reserves to cover a deficit due to a drop in token price?
+- Priorities for WGs if low token price continues in Q4
+- Giving WGs their budget in tokens to a multi-sig wallet?
+- Wording and design for infographics about thre Q4 budget decision
+
+#### Decision Items:
+- We can't decide fully on the budget reserve issues yet 
+  - [**rationale**] because we need info from Treasury on exactly what reserves we have. This will not be possible until September, after holidays.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani to update context-setting doc to apply to Q4 decision
+ [**assignee**] CallyFromAuron [**due**] 20 August 2024 [**status**] in progress
+- [**action**] Everyone to finalise the timing for the decision-making process for Q4 budget decision [**assignee**] all [**due**] 15 August 2024 [**status**] done
+- [**action**] Peter to DM core contributors who didn’t take part in Q3 consent process to ask why [**assignee**] PeterE [**due**] 15 August 2024 [**status**] done
+- [**action**] Guillermo to finalise and share infographics on budget submission dates [**assignee**] guillermolucero [**due**] 22 August 2024 [**status**] todo
+- [**action**] Guillermo to finalise and share infographic inviting Core Contributors to take part in the consent process -  he will include in the text of the accompanying post a link to the list of core contributors. 
+
+Will therefore need to be done *after* the new iteration of Core Contributors has been calculated, so probably early Sept - but needs to be done in time for start of the consent process on Sept 9th. [**assignee**] guillermolucero [**due**] 5 September 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AGIX price, timeline, budget decision timeline, Q4 2024 budgets, Q3 2024 quarterly reports, core contributors, deadlines, participation, publicity, community engagement, token price fluctuation, budget reserve, reserves, WG reserves, Program reserves, Infographics, consent process, why people don't take part, budget management, multi-sig wallet, accessible design
+- **emotions:** Thoughtful , progressive, interactive
 
 
 ## Friday 16th August 2024
