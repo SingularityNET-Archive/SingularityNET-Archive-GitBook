@@ -468,6 +468,7 @@ KBWG Schedule: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=34587646016
 ## Friday 4th October 2024
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -541,3 +542,45 @@ There will be performance comparisons between the WWG Zealy sprints and the new 
 #### Keywords/tags:
 - **topics covered:** Budget proposal, podcasts, Graphics, Budget fitting, tooling, Zealy, community engagement
 - **emotions:** short, Collaborative, calm, Thoughtful
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, AJ, Eric Davies, TheFreysDeFi, AshleyDawn
+- **Purpose:** Weekly meeting of the writer's workgroup.
+- **Other media:** [Link](https://discord.com/channels/909843832491896832/1150014268125753374/1291718787711897642)
+- **Working Docs:**
+  - [WWG Q1 Proposal](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit)
+
+#### Narrative:
+Kenichi shared his concerns about the recent discussion in the Treasury Discord channel about WWG's Q2 budget reserves (see https://discord.com/channels/909843832491896832/1150014268125753374/1291718787711897642)
+
+Kenichi highlighted the agenda, and we went over the action items from the last meeting and ticked them off. 
+
+Following a discussion at last week’s meeting, Gorga spoke about writing an article on “Rejuve Token 2049 Event.” Cool stuff, but Kenichi spoke about the fact that Jasmine Smith’s session wasn’t so lengthy. He suggested that a Twitter thread would be best to portray the event. Gorga agreed to make the thread and send it to Mikasa after it’s done.
+
+September Points System: Unfortunately, the points system rewards for September didn’t go out because the WWG ran out of funds. Kenichi tells the WG not to fret. The reward can still happen next Tuesday. The floor was opened for suggestions — Lady Tempestt, Cjfrankie, Gorga, and Mikasa insisted that the reward go out regardless because we did a lot of work in September. Kenichi added that we can cap the distribution to $500 and have September rewards go out from the Q4 points system allocation of $2000+. We also discussed the importance of having a personal wallet in Q1 2025.  
+
+Zealy and Trivia: Just so you know, Zealy has been scrapped! and has been moved to be the responsibility of  Marketing Guild. Meaning no more Zealy reviews for the Scribes. Kenichi also stated that the weekly Friday trivia will now be run on a biweekly basis due to lack of budget. He hinted that the first Friday and last Friday of each month would be a good time slot for the trial. The first Friday will be dedicated to WWG, and the last Friday will be dedicated to Marketing guild.
+
+WWG TEST: As a matter of finality, we briefly talked about how to review the pending Writers' Workgroup membership tests taken by the aspirants. Lady Tempestt asked why we are still reviewing tests, given that the WWG is closed to new people. Kenichi explained these were pending submissions from last quarter and should be attended to! Then, we can talk about how to close test submissions for Q4 and perhaps open up again in Q1 2025.
+
+
+
+#### Decision Items:
+- We have decided that the points system payments for September would go out regardless. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We also agreed that the points system would be capped at $500 monthly since we’re removing part of the Q4 allocation to reward September operations.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We have also decided that the weekly Friday trivia will now be held biweekly “first Friday and last Friday of each month.” This decision was made due to the WWG Q4 budget size.  
+  - [**rationale**] This decision was made given the fact that our budget won't be able to foot some deliverables. So, the Zealy schedule had to change. 
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Kenichi to chase the Treasury WG regarding the outstanding payments in the WWG.
+ [**assignee**] Kenichi [**due**] 11 October 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Marketing Guild, Trivia sessions, Points system, Q4 2024 budget, Discord, Zealy, Workgroup reserves, reserves, Treasury
+- **emotions:** quiet, calm, informative
