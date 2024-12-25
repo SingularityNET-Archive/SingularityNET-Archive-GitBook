@@ -322,6 +322,7 @@ It was noted that in this first session that we expect to see an overview of the
 
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -497,3 +498,42 @@ Then Copy template to Organised Resources page as last row, then clear template 
 
 #### Keywords/tags:
 - **topics covered:** flowchart, Miro Board, GPT, Dework, Project Management
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Issac, Mikasa, Evelyn Robert, Eric Davis, AshleyDawn
+- **Purpose:** Weekly meeting of the writers' workgroup.
+- **Other media:** [Link](https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups)
+- **Working Docs:**
+  - [🧵 Twitter Threads Suggestions](https://docs.google.com/document/d/151H-_93hmL5Y59q_aQOxhkZ4-NpDM1Y6C7AfyHzNSQQ/edit)
+
+#### Narrative:
+Kick-off: The weekly meeting of the WWG kicked off strong as Lady Tempestt took to the floor to express her grievance over the Twitter thread task having been assigned to Gorga, even though she had shown interest in taking it up! Kenichi then apologized for not keeping an eye on the channel.
+
+We began officially as we ticked off the action items from the last meeting: following a discussion with Tevo and the Treasury, Kenichi is waiting for the Treasury to update their dashboard so the WWG will know how much we have left and how we can move forward. Lady Tempestt shared insider tips in the last open Treasury guild call, which featured legal issues with SNET foundation and tax implications that might arise from converting AGIX to stablecoins like CUSD or Djed, seeing as the treasury system is not an exchange of any sort. 
+
+More on budget: Our conversation had a smooth leap forward as we discussed more on budget and how we can distribute tasks fairly amongst the Scribblers given the latent fact that some Scribblers do not get the chance to write very often. Lady Tempestt’s comments were positive; she added that WWG should stop onboarding new people and only take on important drafts such as niche-based articles. She also suggested  that we should pre-plan our content and assign them to interested Scribblers at the start of the month or quarter, so every Scribbler gets a chance to do a task, and that this doesn't mean that Scribblers still can't suggest additional articles. Kenichi liked the idea and said he's been looking forward to us doing this through the Notion board.
+
+Looking ahead: Cjfrankie led a discussion on the monthly Substack newsletter. He pointed out how the Substack newsletter has lagged significantly and how WWG is not keeping up with the publication timeline due to the late submission of summaries. For this reason, the WG should remove it from our deliverables. Cjfrankie proposed the idea of something called “Ecosystem Digest" - a short newsletter that contains links to recent AI news, events, and meetups in the ecosystem. Not just links to recent updates: there’d be a brief write-up to accompany those links. He suggested that WWG should give it a trial to see how it turns out. Additionally, we had discussions about how we can start leveraging Notion to organize and map out content and how the Scribblers can start using it because currently, only the Scribes have permission.
+
+Kenichi suggested having a unified content calendar, to help Video WG, Translators, Martketing Guild and WWG work together.
+
+
+#### Decision Items:
+- We have decided to pause the monthly Substack newsletter and then try working on the ecosystem digest.
+
+  - [**rationale**] We noticed that the were many lapses in that regard! So, we decided to switch gears. The Ecosystem Digest will cover the latest news in the ecosystem, which keeps people abreast of the latest updates.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to update the WWG page on the Ambassafor GitBook, so people can keep abreast of the latest WWG updates. In this regard, Kenichi will draft something for scribblers, and then we will work towards it.
+
+  - [**rationale**] The last we checked, the page wasn't updated and we want to do so.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kenichi to draft a working document for the Scribblers regarding the Gitbook update.
+ [**assignee**] Kenichi [**due**] 24 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget , Treasury, Substack, Twitter threads, Ecosystem digest , Workgroup signposting, AGIX, Stablecoins, Notion, content calendar, drafts, Ambassador GitBook, Translation WG, video WG, Marketing WG, fair allocation of tasks, task allocation, fairness
+- **emotions:** optimistic, discursive ,  forward-thinking, collorative , informative
