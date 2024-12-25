@@ -151,3 +151,30 @@ We also noted that if we change the method without addressing underlying issues 
 #### Keywords/tags:
 - **topics covered:** Decision Making Process, consent decision making, dates, deadlines, Q1 2025 budgets, delegation, inclusion, corruption, Q4 2024 quarterly reports
 - **emotions:** decisive, focused
+## Friday 25th October 2024
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, AJ, Evelyn Robert, Eric Davis, AJ, AshleyDawn, advanceameyaw
+- **Purpose:** Weekly meeting of the writers' workgroup.
+- **Working Docs:**
+  - [DRAFT: Budget Proposals Sheet: Q1, 2025 Writers Workgroup ](https://docs.google.com/spreadsheets/d/1XDAPSG9y4U8nhQWQgrok3Z6pG9vsbfYPIMD7gISBJo0/edit?usp=sharing)
+  - [RE-q4 Budget Sheet: Q4 Writers Workgroup ](https://docs.google.com/spreadsheets/d/11QohtEjrDGo-kPPOas3V2BAh7dmp6XEqzMoI9CqxncU/edit?usp=sharing)
+
+#### Narrative:
+Kick-off: The weekly meeting of the WWG started at 3:10 PM with a warm welcome greeting from Kenichi. Immediately, we surfed the Dework board to check out some tasks in progress, and then Kenichi mentioned that he would assign deadlines to the DWeb3 series threads. He also started a conversation around the ecosystem page and the community page, noting that no article has been published on the community page since the 1st of October. Momentarily, he hinted that we should have an end-of-the-year recap draft, covering the entire achievement and milestones of the WWG in a year. He also talked about the successful Twin Protocol token launch on Uniswap, and suggested that the WWG should write something to publicize it.
+
+Budget: There is now less money in the proposed Q4 budget, because some Q3 tasks were paid from the Q4 budget. In light of this, Kenichi said that he’ll fit the Q4 budget. This discussion led to Kenichi’s suggestion to shift from USD-based payments to AGIX-based payments. Lady Tempestt commented that AGIX-based payments will result in members being underpaid. Kenichi quickly responded that the WWG is not shifting its focus to AGIX-based rewards; rather, rewards will be sent based on AGIX calculations, since AGIX’s price isn’t stable! This way, we can streamline our budget spending so it doesn’t affect the workgroup, which can make us run out of funds.
+
+Open Discussion: Cjfrankie and Kenichi started a thrilling conversation on how the ambassador program can explore new things to leapfrog to greater heights. We shared some potential ideas on possible initiatives that can motivate the foundation, which can lead to funding. Due to some recent events, the African Guild, LatAm, and four articles from the WWG were spotlighted by the SNET Foundation, so we should give them more reasons to support the ambassador program. We also shed light on how some Web3 communities are doing great things out
+
+
+#### Decision Items:
+- As the year wraps up, we look forward to Q1 2025. In light of such, we shall begin discussions about the Q1 2025 budget on the 1st of November.
+  - [**rationale**] We want to speed things up so won't lag.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Budget , Ecosystem page, community page, Q1 2025, AGIX, Twin protocol , Dework, Tasks, DWeb3 series, AGIX price, budgeting in AGIX, Drafts, threads, SingularityNET Foundation, Q1 2025 budget, African guild, LatAm, Budget fitting, token price, token price instability
+- **emotions:** interesting, discursive , informative
