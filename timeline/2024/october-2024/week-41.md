@@ -374,6 +374,7 @@ there was another question on the similarities between AI sandbox/think tank and
 
 ## Friday 11th October 2024
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -416,6 +417,43 @@ there was another question on the similarities between AI sandbox/think tank and
 #### Keywords/tags:
 - **topics covered:** planning, review, content calendar, brand guidelines, community initiatives proposals, social media post request, social media, podcast, podcast format, video
 - **emotions:** Thoughtful, Well-attended, engagement, forward-thinking, engaging new people
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Kenichi [**facilitator**], Cjfrankie  [**documenter**], Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Issac, Mikasa, SubZero, Malik, Evelyn Robert, Eric Davis, AshleyDawn, TheFreysDeFi
+- **Purpose:** Weekly meeting of the writer's workgroup, centered on the Q4 proposed budget.
+- **Working Docs:**
+  - [🧵 Twitter Threads Suggestions](https://docs.google.com/document/d/151H-_93hmL5Y59q_aQOxhkZ4-NpDM1Y6C7AfyHzNSQQ/edit)
+
+#### Narrative:
+Dework task updates: highlighting the people with a pending task. 
+
+Cjfrankie shared his Twitter thread suggestions document. Kevin Frey piqued interest in the recently released X space “Longevity, Biotech, & Web3: How DeSci is Shaping the World.” He commended Rejuve for their work, and mentioned that he had close communication with Rejuve to see how biotech could help women Olympians in 2028.
+
+Q4 Budget: Mikasa, Lady Tempestt, Gorga and Cjfrankie set the Thames on fire as we tackled discussions around the Q4 budget. We discussed splitting the budget to stablecoin, and keeping the remaining half in the foundation token (AGIX). We’re still skeptical about doing so if it’s not within the Treasury management. Cjfrankie is tasked to chase André or Effiom to get more insights into the swapping of AGIX to stablecoin, and if it eventually becomes a reality, will the treasury hold it? 
+
+Following that, we discussed how to reward the outstanding tasks from September 2024. We also decided that those tasks won’t go unrewarded. So, the treasury should offset all Q3 pending payments with the Q4 allocation. There was a conversation about creating a multi-signature wallet to properly oversee our budget and know what’s coming in and going out. On the flip side, we agreed that Treasury would have access to this wallet's seed phrase, and it would have 5 signatories. Mikasa also highlighted some of the key reasons why AGIX's price dropped lately. 
+
+More on the Budget: Kenichi also shared a brighter outlook on the budget by discussing how a bot can help simplify the multi-sig. Using the treasury bot, for example, he hinted that the bot can ping the wallet signers, give updates on transactions right inside the WWG channel, and more!!
+
+
+#### Decision Items:
+- We agreed to tell the Treasury to offset Q3 pending tasks with the Q4 budget.
+  - [**rationale**] We couldn't just sit back and watch workgroup members go unpaid after all the effort they put in.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cjfrankie to chase André concerning the pending Q3 tasks that haven’t been paid out! Letting him know that the treasury can offset the cost from the proposed Q4 budget.
+
+ [**assignee**] Cjfrankie  [**due**] 11 October 2024 [**status**] done
+- [**action**] Cjfrankie to ask André about the swapping of AGIX to stablecoins and see if the treasury can hold it for the WWG. [**assignee**] Cjfrankie  [**due**] 11 October 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Treasury, Multisig, wallet, Pending rewards , Stablecoins , AGIX, Q4 2024 budget, offsetting budget, AGIX price
+- **emotions:** short, discursive , forward-thinking
+
+
 ## Saturday 12th October 2024
 
 ### Gamers Guild
