@@ -234,3 +234,36 @@ We agreed that these and other ideas will need to be discussed further.
 #### Keywords/tags:
 - **topics covered:** WG Sync Call content, Reserves, Budget , events, retrospective, Google Form, feedback, mentorship, skillsharing, podcasts
 - **emotions:** interesting, participatory, slow start, Discursive
+## Friday 13th December 2024
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], LordKizzy [**documenter**], SubZero, Zalfred, AndrewBen, malik, LordKizzy, killy, frosh
+- **Purpose:** Weekly meeting of the Video Workgroup. The meeting focused on weekly updates and tasks distribution.
+#### Discussion Points:
+UPDATE FROM THE TASK MANAGER:
+- A quick update from Malik on various tasks assigned within the week. He highlighted that the town hall videos are in-progress.
+
+UPDATE FROM THE SOCIAL MEDIA MANAGER:
+- The Social Media manager, Andrew Ben, noted that he had undergone the training with Rojo and is currently catching up to speed on the activities.
+
+TOWN HALL UPDATES:
+- Zalfred gave an update from the previous Town Hall (10th Dec), also pointing out that most Workgroups are currently on holidays. 
+
+HOLIDAY AND VIDEO CREATION UPDATES: 
+- Lordkizzy spoke on the holiday and suggested that the video workgroup goes on a holiday after this call, returning on the 10th of January. He also noted that the workgroup will still keep creating content even during the break. Lordkizzy also highlighted that the video workgroup have an allocation for 7 long videos (It's going to be one suggestion per person) and due to the increase in token price, the video workgroup can compensate for 5 more shorts.
+
+INTRODUCTION OF NEW MEMBER:
+- There was a new attendee in the room (Frosh) who was interested in joining the video workgroup, he gave an introduction and he was welcomed by members, Zalfred notified him that the workgroup is currently closed
+
+#### Decision Items:
+- We decided to take a holiday from this call to return on the 10th of January 2025
+  - [**rationale**] The workgroup activities will be on hold but content creation will still continue 
+
+#### Action Items:
+- [**action**] Zalfred to create review for the video suggestions  [**assignee**] Zalfred [**due**] 20 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Video Edit, Holidays, New members
+- **emotions:** Friendly, speedy, Collaborative
