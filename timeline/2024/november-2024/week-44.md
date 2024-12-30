@@ -6,6 +6,7 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 
 ## Friday 1st November 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -42,3 +43,26 @@ Budget: We had discussions about the Q4 budget and projected timeframe for submi
 #### Keywords/tags:
 - **topics covered:** Ecosystem page, medium, Partnership program, Paragraph.xyz, Mirror.xyz, Zealy, Graphics, Q1 2025 budget, speechlogger.com, Marketing Guild, Q4 2024 budget, Indonesia X page, ecosystem digest
 - **emotions:** insightful, forward-thinking, informative
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], Hogantuso [**documenter**], SubZero, Zalfred, Rojo, hogantuso, lilycupcake, AndrewBen, malik, Slate, LordKizzy, devon
+- **Purpose:** Weekly meeting of the Video WorkGroup. The meeting focused on task updates and problems affecting the workgroup.
+#### Discussion Points:
+- A brief mention from Zalfred, as he will be facilitating the session also mentioned that the Vrewiev team approved two long videos, and three long videos are still in the review process.
+- Rojo gave insight into the social media management role, going through the usual posts from the Town Halls and some shorts. He mentioned working on the mixpost platform to allow short clips to be posted. There was a problem with the TikTok posting, as it would be done manually from this device.
+- Interaction discussions were made on the Abuon tus video and looking forward to updating the video document in the position, caption, main visual, and arrangement of shorts for a better clip 
+- LordKizzy gave an update regarding the animation video for those who'd work on the animations for this month as we will be going for more shorts this month. We are looking into the engagements in these videos to come up with new plans and monthly plans on the subscription creating a mail for the five-man members making the editing. People should reach out to LordKizzy privately if they need access to the platform as it's a sensitive piece of information for non-members.  
+- There were deliberations on the biweekly video from Lilycupcake who has raised issues about the review process, hearing her point of view and coming to an understanding in keeping up with the good work 
+
+#### Decision Items:
+- To decrease the number of long and increase the number of short videos as we are running to a tight budget.
+
+#### Action Items:
+- [**action**] Zalfred to move approved video to content sheet after the call  [**assignee**] Zalfred [**status**] todo
+- [**action**] Rojo to come up with the new document for the video workgroup updates on the clips "HOW TO GO ABOUT IT" [**assignee**] rojo. [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Partnership, budget, Q1 2025 budget, long videos, short videos, video review process, animation, engagement, social media, Town Hall videos, MixPost, TikTok, video editing
+- **emotions:** productive, informative, Organised, Deliberative
