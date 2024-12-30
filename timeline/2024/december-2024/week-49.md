@@ -138,3 +138,28 @@ Overall, the meeting agreed that the points raised have been sufficiently answer
 #### Keywords/tags:
 - **topics covered:** Decision Making Process, consent decision making, Q1 2025 budget, Q4 2024 quarterly report, AI Sandbox/Think Tank, validity of objections, experts, AI developers, SingularityNET Foundation, R&D guild, github board
 - **emotions:** decisive, focused, thorough, calm
+## Friday 6th December 2024
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Malik [**facilitator**], Zalfred [**documenter**], SubZero, Zalfred, Rojo, hogantuso, AndrewBen, malik, LordKizzy, killy, devon, osmium, Slate
+- **Purpose:** Weekly meeting of the Video WorkGroup. The meeting focused on weekly updates and tasks distribution.
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Tuso on various tasks assigned within the week.
+
+- UPDATE FROM THE SOCIAL MEDIA MANAGER adding that he will be off for a few weeks. Offering a special training for qualified and interested persons who'd like to take up the task. 
+
+#### Decision Items:
+- Concerning the need for a temporary social media manager, Andrew Ben emerged as one who'd take up the task. 
+  - [**opposing**] No oppositions as Andrew Ben is a senior member and qualified to take up the task.
+
+#### Action Items:
+- [**action**] SOCIAL MEDIA MANAGER [**assignee**] AndrewBen [**status**] todo
+- [**action**] TASK MANAGER [**assignee**] Malik [**status**] todo
+- [**action**] MEETING FACILITATION [**assignee**] Zalfred [**status**] todo
+- [**action**] MEETING DOCUMENTATION [**assignee**] LordKizzy [**status**] todo
+- [**action**] TOWN HALL VIDEO EDIT [**assignee**] devon [**status**] todo
+- [**action**] TOWN HALL SUMMARY EDIT [**assignee**] hogantuso [**status**] todo
+- [**action**] REVIEW TEAM [**assignee**] killy, SubZero [**status**] todo
