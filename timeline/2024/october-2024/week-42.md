@@ -4,6 +4,83 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 # Week 42
 
+## Monday 14th October 2024
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Onize, PeterE [**documenter**], effiom, Lady Tempestt, tevo, onize, SubZero, malik, Ayo, PeterE, Valola, AshleyDawn
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601866321880&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback (Responses)](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/)
+  - [Some possible approaches to budget fitting](https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/)
+  - [Q4 Consent (Responses)](https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/)
+  - [Ratify Treasury Policy - Slow Start](https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform)
+  - [Context setting for Core Contributor decision on Q4 budgets](https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit#heading=h.miolh5lubdj1)
+  - [Governace Memo for Budget Approval Iteration 3](https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit?usp=sharing)
+  - [Q4 budget decision - main issues mentioned in objections](https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing)
+
+#### Agenda item 1 - Policy Submission and Feeback - [carry over]
+
+#### Discussion Points:
+- Are there new Policy submissions? No new policy was submitted
+- Has there been any feedback/enactments for new policies? No new feedback
+- Policy Submission Form (Responses): https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/
+- Policy Feedback (Responses): https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/
+
+#### Action Items:
+- [**action**] Post a reminder for policies on 15.10.2024 [**assignee**] Tevo [**due**] 15 October 2024 [**status**] todo
+
+#### Agenda item 2 - Ambassador Program Q4 Budget Planning and Consent Process/Results - [carry over]
+
+#### Discussion Points:
+- Updates made to the dashboard which shows the percentiles and numbers
+- The first iteration was a temperature check, 2 people voted against all proposals, It is unclear why
+- The second iteration added the rationale behind the objections. Some passed at this stage, and some received many objections. We went through the objections and checked how valid they were.
+- The third iteration had more understanding of the objections. Even fewer objections, some additional workgroups passed, based on an 80% threshold. There was quite some pushback, mainly on the writers' workgroup and strategy guild. This was also the case in the previous quarter. The workgroups have established themselves better now. The proposals may have been unclear at times still.
+- The Governance WG pushed for a 20% decrease in budget for Writers WG, this was implemented and the proposal passed.
+- Documents on the objections were made [Governance Memo for Budget Approval Iteration 3] https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit?usp=sharing for an overview. These objections should be considered for upcoming quarters. Objections have been collated here https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing
+- There is a low number of proposals, most workgroups just have submitted a budget. Adding the proposal every quarter (and updating it) gives more insights in how the program evolves.
+- The more expensive WGs/Guilds are those with an external focus
+- Budget fitting is used to make the requests fit the total budget. WGs/Guilds decide for themselves how to apply this lowering rate. Q4 lowering percentage was 17.4%.  Q3 was 24.5%
+- WGs/Guilds manage their reserves, could be more aware on how this exactly works and what groups can decide, what carries over and how carried over budget impacts next quarter budgets.
+
+#### Decision Items:
+- Price changes impact what groups can pay, we could do a Google form asking the groups how they work with this.
+  - [**effect**] mayAffectOtherPeople
+
+#### Agenda item 3 - Use of Stablecoins for Treasury - [carry over]
+
+#### Discussion Points:
+- We need ada for fees, so we have some ada.
+- Gray legal areas are utility tokens, if we shift to stables it's no longer rewarding community contributions with our utility token.
+- The Ambassador Program is not formally a legal entity, hence tax implications. Which jurisdiction/country plays a big role there too.
+- There's work ongoing on the Foundation side on how to deal with this sustainably.
+
+#### Agenda item 4 - Retrospective On Consent Process, Treasury Management, and Proposal Reporting - [carry over]
+
+#### Discussion Points:
+- Governance WG retrospective week of Oct 7th: https://miro.com/app/board/uXjVLV8bexg=/
+- See Miro of this meeting for more retrospective items: https://miro.com/app/board/uXjVN8kUlbw=/
+- Timelines worked well, and clear communications. It felt somewhat rushed due to the holidays, but we did stick to the schedule.
+- Not much attention to objections beyond <20%, ensure to carry them over to next Quarters.
+- No cap per WG brings lots of discussion and time needs.
+- Treasury management is getting picked up by community members.
+- Reporting on requested changes (through objections) can be improved.
+- The proposal and budget creation process felt smooth and good, with useful templates and previous quarters' work to build on.
+
+#### Action Items:
+- [**action**] Create Miro Board sentiment voting if it seems effective. Which of these elements should we focus on most? [**status**] todo
+- [**action**] Review core contributor parameters and check if we need to improve the parameters -> next session? Note, this might also be discussed in Governance WG [**due**] 11 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Policy Submission, Budget , feedback, Reserves, Stablecoins, processes, retrospective, Treasury, Governance workgroup, Slow Start policy
+- **emotions:** Organised, Discursive, retrospective
+
+
 ## Tuesday 15th October 2024
 
 ### Governance Workgroup
