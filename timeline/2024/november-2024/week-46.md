@@ -4,6 +4,96 @@ description: Mon 11th Nov - Sun 17th Nov 2024
 
 # Week 46
 
+## Monday 11th November 2024
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Tevo, LadyTempestt [**documenter**], effiom, Lady Tempestt, tevo, onize, SubZero, Ashley, Valola, advanceameyaw
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Miro board:** [Link]( https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764605390082730&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback (Responses)](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/)
+  - [Some possible approaches to budget fitting](https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/)
+  - [Q4 Consent (Responses)](https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/)
+  - [Ratify Treasury Policy - Slow Start](https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform)
+  - [Context setting for Core Contributor decision on Q4 budgets](https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit#heading=h.miolh5lubdj1)
+
+#### Agenda item 1 - Guild Management - [carry over]
+
+#### Discussion Points:
+- Low participation at start time of meeting
+- We go over the meeting time and still a lot of agendas unexplored
+- Assigned Core Activities to do before next meeting
+- There are practically no funds for documentation budgeted in Q4
+- How to address Translation WG Budget overspend?
+- Q1 2025 Treasury Guild Proposal Draft: https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs
+
+#### Decision Items:
+- We will not reallocate funds to Translation WG from Treasury Guild nor Marketing Guild. 
+  - [**rationale**] We will not reallocate funds to Translation WG from Treasury Guild nor Marketing Guild. We considered the promise of our Q3 proposal to fund these and the fact that currently Treasury Guild has no funds for themselves to even reward core activities. Using our remaining leftover budgets we would like to allocate for reporting, proposing and updating core contributor list. In Quarter 4 we did not budget ourselves to cover other WG budgets. Marketing Guild disagreed to fund from their budget.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Meeting Summary and Review [**assignee**] Tevo, LadyTempestt [**due**] 15 November 2024 [**status**] todo
+- [**action**] Draft Quarter 4 Treasury Guild Report [**assignee**] Effiom, LadyTempestt [**due**] 15 November 2024 [**status**] todo
+- [**action**] Draft Quarter 1 Treasury Guild Budget Sheet [**assignee**] Onize, Effiom [**due**] 15 November 2024 [**status**] todo
+
+#### Agenda item 2 - How do we go about using Marketing Guild's content calendar to publish Treasury Guild call outs and updates? - [carry over]
+
+#### Discussion Points:
+- What reminders or call outs should we share forward?
+- Who will update the content planner/liaise with Marketing Guild?
+- What information do we already outreach?
+- What have our current target audiences and channels been?
+
+#### Decision Items:
+- SubZero will be our Marketing / Content Calendar representative from Treasury Guild
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Request more information from Marketing Guild:
+What's the expected output from the Content Planner?
+Why are two representatives required, what are their roles?
+Who is paying for the tasks?
+Why do we need to give representatives' emails? [**status**] todo
+
+#### Agenda item 3 - How do people feel about current Treasury Operati﻿on outcomes and bi-weekly issues with transactions? - [resolved]
+
+#### Discussion Points:
+- The process is transparent and we can get access to see how the process works and what the challenges are
+- I like that everybody can have the chance of doing operations
+- New people should NOT take entire meeting time to process contributions
+- We should distinguish skilled operators from new operators
+- Could we process more often if we are not able to do them in the specified meeting time?
+- Could we try creating a workgroup for treasury manager code review and development?
+
+#### Decision Items:
+- Start having again more detailed development updates before meeting starts
+- Have stricter rules on how long we train new operators to allow enough time to create bundle transactions
+
+#### Action Items:
+- [**action**] Those who are interested in learning Excel visual basic scripting language, let us know in Treasury Guild Discord channel [**status**] todo
+
+#### Agenda item 4 - Allocation and Categorization Analysis - [carry over]
+
+#### Discussion Points:
+- New policy to help establish categories and budget allocations for each category https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk
+- We shared examples of how budget allocations are calculated and how the averages affect results
+- What has Governance WG discussed trying this quarter?
+- What kind of limits have we proposed or tried to introduce before?
+- How do we implement limits for next quarter?
+
+#### Action Items:
+- [**action**] Provide feedback to new policy to implement it https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform [**assignee**] all [**due**] 16 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Translation WG, Marketing Guild, budget categories, treasury operators, training treasury operators, training, content calendar, Q4 2024 quarterly report, Q1 2025 budget
+- **emotions:** wide-ranging, Discursive, reflective, well organised
+
+
 ## Friday 15th November 2024
 
 
