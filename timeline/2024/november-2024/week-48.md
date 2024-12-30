@@ -11,6 +11,7 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 Meeting was cancelled
 ## Friday 29th November 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -46,3 +47,44 @@ SingularityNET Ambassador community: Kenichi introduced the new SNET community l
 
 #### Keywords/tags:
 - **topics covered:** Web3 publishing platforms, Q1 2024 budget, budget caps, Twitter premium, Indonesian page, Medium, Q4 2024 report, retrospective, SingularityNET Ambassador community, Monthly stats, Points system, The Consciousness Explosion
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Malik [**facilitator**], Zalfred [**documenter**], SubZero, Zalfred, Rojo, hogantuso, AndrewBen, malik, LordKizzy, killy, oep, devon, osmium, Slate
+- **Purpose:** Weekly meeting of the Video WorkGroup. The purpose of this meeting was to discuss the activities of the video workgroup and possibly get an alternative social media automation tool; secondly, to resolve misunderstandings that transpired in the workgroup; and lastly, find solutions to the issue of uploading large files.
+#### Discussion Points:
+- 
+Update from Tuso, our Task Manager: Tuso gave a quick update on the  various tasks he assigned to  different members in the previous week, covering video submissions, etc.
+
+Update from Rojo, our Social Media Manager: Rojo gave a brief update on the activities on our social media platforms, stating that he posted out our regular videos. He also addressed the issue of a missing Town Hall video and the issue of late Town Hall Video submissions.
+
+We discussed alternative social media automation tool (Zaps) and possible solutions to the issue of how it handles large files
+
+We resolved an interpersonal dispute that transpired in the workgroup's Discord channel 
+
+
+#### Decision Items:
+- Malik suggested that Zaps (part of Zapier) would be a great automation tool for scheduling and automatically posting out our Town Hall Video edits on time
+  - [**opposing**] Rojo added that there are quite a few limitations to Zaps (an automation tool) as the file size that the software can handle is limited. 
+
+Rojo suggested that the Town Hall video editors could edit and upload Town Hall videos as fast as possible, and on the question of large video sizes, he added that compressing these videos will help mitigate the problem. 
+He added that sometimes our Town Hall video sizes are as large as 5GB and so compressing these videos will be a great idea
+  - [**effect**] mayAffectOtherPeople
+- Concerns were raised about video quality, but Rojo reaffirmed that compressing these videos will not have any negative effect on the video quality.
+  - [**rationale**] As the workgroup is quite aware that quality visual content is our top priority, Rojo added that compressing the background picture or templates of the Town Hall video before editing the zoom video into the template will solve this problem.
+  - [**effect**] mayAffectOtherPeople
+- Resolving the interpersonal dispute or misunderstanding that transpired in the workgroup's Discord the previous week.
+  - [**rationale**] Those present at this meeting felt that it was simply a case of misunderstandings and misinformation between affected parties. However, one of the parties was not present today, so Rojo was assigned to reach out to them to try and resolve the underlying dispute.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Rojo to compress the Town Hall Video Edit Templates  [**assignee**] Rojo [**status**] todo
+- [**action**] 
+Rojo to reach out to one of the affected parties to the recent dispute to try and resolve the underlying issues [**assignee**] Rojo [**status**] todo
+- [**action**] Town Hall video editors to edit and upload these high priority videos on time in future [**assignee**] Slate, SubZero [**status**] todo
+- [**action**] Tuso to review  Malik’s approved video project [**assignee**] hogantuso [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Town Hall videos, timeliness, video size, Zaps, social media automation, video quality, Discord dispute, conflict resolution, 
+- **emotions:** Casual, Thoughtful , repetitive, Collaborative
