@@ -73,3 +73,43 @@ We also want to progress policy-writing - an AI ethics in recordkeeping policy, 
 #### Keywords/tags:
 - **topics covered:** Ethics, ai ethics in recordkeeping, AI ethics, Q1 2025 budget, q4 2024 report, DeepFunding, Deepfunding Town Hall, Governance, documentation skills, Budget fitting, fairness, barriers to good documentation, controlled vocabulary, dropdown, Discord names, open source, open source ethos, RAG retrieval process, markdown, JSON, dashboard, archives search, Collaboration, Governance documentation, Knowledge management across the singularityNET ecosystem
 - **emotions:** short, Discursive, complex issues, wide ranging, joining the dots, retrospective
+## Friday 8th November 2024
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CJFrankie [**facilitator**], CJFrankie [**documenter**], cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, AshleyDawn, Evelyn Robert, Kateri Nick, devon, emmanuelisaac
+- **Purpose:** Weekly meeting of the writers' workgroup 
+- **Other media:** [Link](https://hackmd.io/z_rYIPn6RPSlKyLGcuaiSw)
+#### Narrative:
+Kick-off:  The weekly WWG meeting started at 3:10 PM with a welcome greeting from Cjfrankie. We began by reviewing the action items from the last meeting, including Kenichi's publication of the November 2nd ecosystem digest on Substack (see https://snetambassadorprogram.substack.com/p/singularitynet-ecosystem-digest-november). Cjfrankie encouraged everyone to read, subscribe, and engage with the newsletter if they haven't already. 
+
+Dework Task Update: At the meeting, members including Lady Tempestt, Gorga, and Cjfrankie had ongoing tasks assigned on Dework. Lady Tempestt delegated her draft, 'Apespaces: What is Twin Protocol AI,' to Mikasa. Cjfrankie and Gorga have pending tasks and will make their submissions soon. Mikasa also added that she’d be expecting the next ecosystem digest draft from Cjfrankie by tomorrow.
+
+Exploring Web3 Publishing Platforms:  Following a discussion on Medium page monetization, we decided to explore more Web3 publishing platforms. To this end, we have identified some potential tools, including Mirror, Lens, Paragraph, Arweave, and Warpcast. Cjfrankie highlighted the advantages of monetizing on Web3 platforms, such as decentralized revenue streams through NFT sales, direct ownership and control over content and revenue, community building via tokenization, and enhanced privacy and security. We need to learn more about these platforms, so Cjfrankie assigned some WG members to conduct research and present their findings in the next meeting. This research will cover each tool's functionality, how DAOs can use it, and pricing. Cjfrankie chose Mirror, Mikasa showed interest in Lens, Emmanuel Isaac selected Arweave, Love was assigned Paragraph, and Evelyn took Warpcast.
+
+Q1 Budget and Q4 Report: Lady Tempestt sought clarification on the status of the Q1 2025 budget and Q4 2024 report. Mikasa cleared the air by saying that the Q1 budget is drafted already while the Q4 report is in progress. Lady Tempestt insisted that we share the drafts in the WWG channel so everyone can see it and leave comments. 
+
+Content Calendar: As a matter of finality, the meeting featured Kateri, who kicked off a discussion about getting a list of email addresses from WWG members which will be given access to the content calendar so posts across the socials will be unified, time bound, and reach a wider audience. 
+
+We called it a day and we ended the meeting at 3:30 PM.
+
+
+
+#### Decision Items:
+- We've decided to explore more Web3 publishing platforms to unlock additional revenue streams and strengthen our connection with the community.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kenichi is to finalize the Q4 report before the next meeting, as we are only a few weeks from the deadline. [**assignee**] kenichi [**due**] 15 November 2024 [**status**] done
+- [**action**] Mikasa will follow up with Cjfrankie to discuss the unification of the content calendar from the Marketing Guild.
+ [**assignee**] CJFrankie, Mikasa [**due**] 15 November 2024 [**status**] done
+- [**action**] Cjfrankie to prepare the ecosystem digest for November 9th, 2024 and then forward it to Kenichi and Mikasa [**assignee**] CJFrankie [**due**] 9 November 2024 [**status**] done
+
+#### Learning Points:
+- Advantages of monetizing on Web3 publishing platforms.
+
+
+#### Keywords/tags:
+- **topics covered:** Q1 2025 Budget, Q4 2024 report, Web3 publishing platforms, medium, ecosystem digest, partnership program, Paragraph, Mirror, Lens, Substack, Arweave, Warpcast, monetization, content calendar, revenue, Marketing Guild, NFT sales, tokenization, community, community building
+- **emotions:** short
