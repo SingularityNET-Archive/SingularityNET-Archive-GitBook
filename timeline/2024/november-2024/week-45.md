@@ -75,6 +75,7 @@ We also want to progress policy-writing - an AI ethics in recordkeeping policy, 
 - **emotions:** short, Discursive, complex issues, wide ranging, joining the dots, retrospective
 ## Friday 8th November 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -113,3 +114,25 @@ We called it a day and we ended the meeting at 3:30 PM.
 #### Keywords/tags:
 - **topics covered:** Q1 2025 Budget, Q4 2024 report, Web3 publishing platforms, medium, ecosystem digest, partnership program, Paragraph, Mirror, Lens, Substack, Arweave, Warpcast, monetization, content calendar, revenue, Marketing Guild, NFT sales, tokenization, community, community building
 - **emotions:** short
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], Hogantuso [**documenter**], SubZero, Zalfred, Rojo, hogantuso, lilycupcake, AndrewBen, malik, Slate, lord kizzy, devon
+- **Purpose:** The meeting focused on task updates and task distribution
+#### Discussion Points:
+- A brief mention from Zalfred, as he will be facilitating the session. He welcomed all members to the meeting and opened the floor for some information from lord Kizzy.
+- Lord Kizzy advised all members to join in Governance meetings coming up with their contributions and wherever decisions are made, e.g. on budget process, to keep the workgroup in the active. 
+After which we had the task assignments for the month. 
+
+#### Action Items:
+- [**action**] TASK MANAGER  [**assignee**] Hogantuso [**status**] todo
+- [**action**] FACILITATOR [**assignee**] Malik. [**status**] todo
+- [**action**] TOWN HALL SUMMARY  [**assignee**] Slate [**status**] todo
+- [**action**] TOWN HALL EDIT  [**assignee**] SubZero [**status**] todo
+- [**action**] MEETING SUMMARY  [**assignee**] Zalfred [**status**] todo
+- [**action**] REVIEW TEAM  [**assignee**] DevonHardy, lilycupcake [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Partnership, Budget, Task Assignment, Governance WorkGroup
+- **emotions:** productive, informative, Organised, Thoughtful, repetitive
