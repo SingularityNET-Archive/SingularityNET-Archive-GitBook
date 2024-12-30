@@ -153,6 +153,7 @@ We also noted that if we change the method without addressing underlying issues 
 - **emotions:** decisive, focused
 ## Friday 25th October 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -178,3 +179,32 @@ Open Discussion: Cjfrankie and Kenichi started a thrilling conversation on how t
 #### Keywords/tags:
 - **topics covered:** Budget , Ecosystem page, community page, Q1 2025, AGIX, Twin protocol , Dework, Tasks, DWeb3 series, AGIX price, budgeting in AGIX, Drafts, threads, SingularityNET Foundation, Q1 2025 budget, African guild, LatAm, Budget fitting, token price, token price instability
 - **emotions:** interesting, discursive , informative
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], Hogantuso [**documenter**], malik, SubZero, Rojo, Zalfred, Hogantuso, AndrewBen, devon, LordKizzy
+- **Purpose:** Weekly meeting of the Video WorkGroup. The meeting focused on task updates.
+- **Working Docs:**
+  - [Video Workgroup Budget request Q4](https://docs.google.com/spreadsheets/d/1m3H2V7GPw5XGwpvtB5lizEHwHQTZOCe-_tqDCKysrJU/edit?gid=0#gid=0)
+
+#### Discussion Points:
+- Rojo gave a brief breakdown of our social media, looking through the engagement for TikTok and Instagram, as engagements have been staggering in both accounts (possibly caused by the closure of the Zealy program). But it has been much better for Twitter and the YouTube account since the workgroup produces more content for posting and the uploads have been going smoothly so far. The Town Hall recordings were a bit slow this week and Rojo encouraged the assignees to do better in completing the work on time.
+And he was suggesting to work on very interactive videos or hot topics in the ecosystem for more engagements.
+- There was a brief announcement from the marketing workgroup from Slate as a task force member giving updates on the content calendar. This needs two representatives from each work group who will be responsible for giving updates from the workgroup. Members need to send in their emails and the social media manager needs to fill out a form.
+- Interaction discussions were made on the Abuon tus video. The members who showed interest in making videos looked at how to go about the video creation and how long. We also discussed the animation video for those who'd work on animation for this quarter as we'd be going for a monthly plan on the subscription and the wheel be moved to next month, this month is already coming to an end.
+- Lord Kizzy gave an update from governance workgroup's recent discussions on the implementation of budget caps for Q1 2025, Video WG would have a cap of $10k.
+
+- We had a conclusion on the biweekly ecosystem update, members shared their insight and ideas on how we can go about this and if it's a necessity.
+
+#### Decision Items:
+- The task manager will reach out to LilyCupcake not to create an ecosystem short but can come up with something else.
+- Lord Kizzy suggested that we decide in the meeting to appoint two members as representatives for the workgroup.  
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Members to create animations for this quarter are SubZero, Malik, LordKizzy and AndrewBen. [**assignee**] SubZero, malik, lord kizzy, Zalfred, AndrewBen [**due**] 31 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Task Assignment, budget cap, Q1 2025 budget, Animation, social media, content calendar, Town Hall Videos, ecosystem update
+- **emotions:** productive, Casual, informative, Friendly
