@@ -4,6 +4,90 @@ description: Mon 2nd Dec - Sun 8th Dec 2024
 
 # Week 49
 
+## Wednesday 4th December 2024
+
+### Archives Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Stephen [QADAO] [**facilitator**], CallyFromAuron [**documenter**], André, CallyFromAuron, Stephen [QADAO], PeterE, AshleyDawn, Sucre n Spice, Onize
+- **Purpose:** Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- **Meeting video:** [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- **Working Docs:**
+  - [SNET Archive AI features (draft of possible features an AI tool might have)](https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing)
+  - [Docs management tool](https://snet-doc-manager.netlify.app/#)
+  - [New Summary Tool Features](https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing)
+  - [Archives Dashboard ](https://archives-dashboard.netlify.app)
+  - [Q1 2025 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [Q4 2024 quarterly report for Archives WG](https://docs.google.com/document/d/1XDezIhuovjDfsyAZ-kA97Ox_WOHphXDjS_nhlvoLkNo/edit?usp=sharing)
+  - [Q1 budget consent results anonymized](https://docs.google.com/spreadsheets/d/1n83tAT9F9fO7sG3mbr3hcbJmTCrShhV024bXAa-aVA4/edit?usp=sharing)
+  - [GitHub Issue for this meeting](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/221)
+  - [Archive names (a list of the name that people are most commonly known by in the Archives)](https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing)
+
+#### Decision Items:
+- André has implemented a controlled vocab for people's names in the Archives, based on Vani's "Archive Names" list https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing
+
+He plans to write some code to enable us to go through old meeting summaries and corrrect any incorrect names (i.e. where someone has been recorded under a different name than the one that is usually used for them).
+
+New names can be added when creating a meeting summary, but they will not be added to the controlled vocab until they have been approved in an Archives meeting. We will add a standing task on the Board for this, to ensure we check each meeting.
+
+  - [**rationale**] To resolve a barrier to good documentation (documenters didn't always know what someone's Discord name was, so "Discord name = Archives name" was not working), and ensure people are discoverable in the Archives.
+  - [**opposing**] none
+  - [**effect**] mayAffectOtherPeople
+- Q1 2025 Budget:
+We noted that our Q1 2025 budget has been approved. We agreed that tasks that have been agreed for Q1 2025 will be added as Issues on our GutHub board.
+
+We also noted that the new "budget cap" process has worked well - it seems to have speeded up the consent process, and also, by removing the need for budget fitting, it has removed the problems we noted in our last meeting (i.e. incentivising workgroups to submit higher budgets than they need, in anticipation of budget fitting).  
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We noted that in the end, we were unable to include in our Q1 2025 budget an item to support collaboration outside the Ambassador Program: it would have taken us over our budget cap, although we had identified a need for it. So we note that we should try to include it in Q2 2025.
+  - [**rationale**] to enable us to capture material from other areas of the ecosystem, and have a more wide-ranging Archives that demonstrates the links and connections between the Ambassador Program and other areas of the ecosystem.
+  - [**opposing**] None as such, although it might be difficult to do this comprehensively and still keep to a reasonable budget amount. It might be more about outreach to different parts of the ecosystem to see how we can support them with recordkeeping.
+  - [**effect**] mayAffectOtherPeople
+- We agreed that our first meeting in Jan will be Weds 8th Jan 2025
+  - [**rationale**] Technically it should be the first Weds in Jan - but that's New Year's Day. Other meetings in Q1 *will* be the first Weds - so Weds 5th Feb and Weds 5th March.
+  - [**opposing**] none
+  - [**effect**] affectsOnlyThisWorkgroup
+- There has been a shift in direction on our work on a RAG retrieval process, after Stephen reviewed Ubio's work (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/224 ). Stephen is aiming to structure the work as an autodidactic/self-learning approach, almost like a course. We have been questioning what we expect to use generative models *for*, and what we expect them to do; and looking at using (human) data analysis and data mining *before* we apply an LLM. Standard augmentation is usually about applying a **context** - so, what contextual constraints do we want to put on our use of a generative AI model in the context of the Archives? We need to be aware of where the data is structured and where it is unstructured (i.e. free text in meeting summaries), and look at how to structure data in a more constrained way (we note that JSON uses a "tree" structure, which has some parallels with the hierarchical structure of a traditional archival catalogue; and we can also see parallels with the approach of a knowledge graph database). Eventually we may use LLMs to help create semantic queries/prompts against an SQL database - so a hybrid of JSON/SQL rather than an actual knowledge graph.
+
+This might also have implications for the redesign of the Summary Tool, in terms of how much of the data in a meeting summary is structured (and in what ways) and how much is free text. 
+
+See also, updates in the relevant issues at https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/225 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/222 
+  - [**rationale**] Stephen's work has shown that simply throwing large text corpora at a generative AI model tends to produce hallucinations and inaccuracies. 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Summary tool redesign - in the light of Stephen's work above, we noted that in the new version of the Tool, rather than the current approach of several different summary templates, we might want all summaries to use the same template style as Treasury meetings, where actions and decisions are connected to each agenda item.
+
+We discussed at length how to disambiguate summaries from summary detail, and constraining the "rambling" narratives which we see in some meeting summaries. 
+  - [**rationale**] Aiming to minimise the amount of free text, and structure where free text is used.
+  - [**effect**] mayAffectOtherPeople
+- Summary tool redesign: possibility of linking/integrating summaries with GitHub pproject boards?
+  - [**rationale**] because more and more WGs are starting to manage themselves via a GitHub Board, so the detail on an agenda item will be in the relevant Issue, and shouldn't need to be repeated in a summary - but how do we ensure that this is integrated and searchable in the Archives?
+  - [**effect**] mayAffectOtherPeople
+- André's tool development work for November https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/217 has included building the new Archives dashboard https://archives-dashboard.netlify.app
+
+It is working, despite a couple of minor bugs.
+  - [**rationale**] It enables searches, particularly of decisions - interesting in a governance context to see which WGs are making decisions that affect everyone, and where decisions across WGs might vary. Could help us keep abreast of when contradictory decisions are made in different meetings.
+  - [**effect**] mayAffectOtherPeople
+- We noted that Sucre has completed her update of the Ambassador GitBook for Q4 2024 - see https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups 
+
+She will update the relevant Issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/215, then it can be closed and paid.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Stephen presenting the "Open-source paradigm" work at a TH - this was done on 3rd December  https://youtu.be/iXsVeA5B7ao?si=_qW9xhC43TbapYxD [**assignee**] Stephen [QADAO] [**due**] 3 December 2024 [**status**] done
+- [**action**] Vani to check through Budget issues from previous Quarters (such as https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/73 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/131), which we keep open until all issues that are costed in that quarter are closed, and ensure that they can be moved to "Done". [**assignee**] CallyFromAuron [**due**] 21 November 2024 [**status**] done
+- [**action**] Vani to start a draft Quarterly Report for this Quarter, and post it in the Issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/214 for comments [**assignee**] CallyFromAuron [**due**] 14 November 2024 [**status**] done
+- [**action**] Vani to draft Q1 budget, and post in the Issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/218 for comments and suggestions [**assignee**] CallyFromAuron [**due**] 14 November 2024 [**status**] done
+- [**action**] Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?
+
+and discuss how the Archives dovetails with documentation that DF is doing itself, such as https://community.deepfunding.ai/ [**assignee**] CallyFromAuron [**due**] 8 January 2025 [**status**] todo
+- [**action**] Vani to add the tasks in the Q1 2025 budget to the GitHub Board [**assignee**] CallyFromAuron [**due**] 8 January 2025 [**status**] todo
+- [**action**] André or Sucre to update the Ambassador Calendar to add the correct dates of Archives WG meetings in Q1 2024 (8th Jan, 5th Feb, 5th March) [**assignee**] André, Sucre n Spice [**due**] 18 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** LLMs, LLM development, Q1 2025 budget, budget caps, meeting summary tool, RAG retrieval process, archive names, controlled vocabularies, Budget fitting, Collaboration, spin-offs, Knowledge management across the singularityNET ecosystem, archives dashboard, narratives, concise summaries, good meeting summaries, Governance, Decision Making Process, decision tracking, autodidact, self-learning, data mining, data analysis, generative AI models, data structure, archives cataloguing, JSON, SQL, structured and unstructured data, hallucination, fabrication, education, learning, open source, open source ethos, knowledge graph, summary template, github board, DeepFunding
+- **emotions:** small, in-depth, Discursive, exploratory
+
+
 ## Thursday 5th December 2024
 
 ### Governance Workgroup
