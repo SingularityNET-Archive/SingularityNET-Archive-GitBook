@@ -6,6 +6,7 @@ description: Mon 16th Dec - Sun 22nd Dec 2024
 
 ## Monday 16th December 2024
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -74,3 +75,43 @@ description: Mon 16th Dec - Sun 22nd Dec 2024
 
 #### Keywords/tags:
 - **topics covered:** Quarter 1 2025, Reporting, Quarter 2 2025, Proposal, Budget, Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserves, Fixed AGIX Rewards, Rewards
+
+### Strategy Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** esewilliams [**facilitator**], Eric Davies [**documenter**], Ayo, Photogee, Eric Davies, LordKizzy, Effiom, Mikasa, hogantuso
+- **Purpose:** Biweekly meeting of the Strategy Guild
+
+- **Working Docs:**
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?gid=1268899826#gid=1268899826)
+  - [The Strategy Guild Survey](https://docs.google.com/forms/d/1FVYpm_Q1r97pK8h1PdKX-ntyvDozv2d1GXYr-BNy8hA/edit)
+  - [REPORT - STRATEGY GUILD  Q4 WORKSHOP](https://docs.google.com/document/d/1rY2yjckO8n0h9PZR2RHz9rJEwqIQln9TbvCgj7fasaY/edit?usp=sharing)
+  - [Strategy review ](https://docs.google.com/document/d/12-7c62Bbdc3M8EuWxbJEYfjPS7_cgJPIO4-40q5wnwk/edit?usp=sharing)
+
+#### Narrative:
+Q4 research report presentation by Effiom: The November workshop, focused on the Education and R&D workgroups, included three sessions — ideation, solution framework, and adoption framework — with strong participation from the R&D team and partial representation from Education. The follow-up document is available for review and feedback.
+
+Streamlining Feedback Collection for Async Teams: Ayo mentioned that the async follow-up team should have the autonomy to determine how they gather and document feedback, as past experiences showed challenges in managing surveys and contributions effectively. They might consider presenting feedback during workgroup meetings, allotting 5-10 minutes for discussions, and documenting insights gathered from these sessions.
+
+Q4 research report by kizzy: Strategy Guild's research report for the ambassador program highlights key strengths such as collaboration, strategic planning, and resource management, while addressing challenges in communication, role clarity, and resource allocation. It provides actionable recommendations, including enhancing inter-guild communication, fostering collaboration, and aligning resource allocation with community feedback to improve overall effectiveness and alignment with the program's objectives.
+
+Community Conflict Resolution Update: Tuso reported that the issue raised within the community has been addressed. Both parties engaged, one showing remorse, and emphasized the need for a conflict resolution guideline to streamline future cases.
+
+Update on Gorga's absence and conflict resolution: Tuso reported that after reaching out to Gorga, he was unresponsive and uninterested in addressing the issue, and has not attended recent meetings, suggesting the team move on and focus on other matters.
+
+Photogee reiterated what Tuso said, expressing his desire to move on, and his frustration over Gorga's lack of response, which has left them feeling like they are the ones carrying the responsibility for the issue.
+
+Ayo explained that after Gorga criticized the Q4 budget, an independent committee was formed to investigate the matter, with Tuso, CJFrankie, and Photogee serving as neutral members to reach out to Gorga and present evidence, though Gorga later assured them that the issue was now resolved.
+
+Q1 2025 Budget Update and Strategic Initiatives Overview: Effiom provided an update on the Q1 2025 budget, highlighting that the estimated costs remain close to the previous quarter's budget, with a total of 2,200 USD allocated. While most operational costs stayed the same, a few areas, like workshops and research, had their budgets reduced. Effiom also mentioned that, due to limited funds, only one research initiative would be undertaken instead of the planned two. He emphasized the importance of feedback from the community to guide the research selection process, with members encouraged to contribute ideas during the holiday season. The bi-weekly meetings and the workshop structure will remain the same for Q1 2025.
+
+Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for research and workshops will be done asynchronously, allowing members to think and submit their ideas, which will then be discussed in detail during the first meeting to plan the quarter, especially regarding research and workshops.
+
+
+#### Action Items:
+- [**action**] Effiom to collect meeting notes today to ensure payments are processed before the Treasury closes tomorrow.
+ [**assignee**] Effiom [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget, Q1 2025 budget, Async, Q1 2025 projections, Workshop, Education Guild, R&D Guild, survey, conflict resolution, research
+- **emotions:** Friendly, calm, cool, chatty
