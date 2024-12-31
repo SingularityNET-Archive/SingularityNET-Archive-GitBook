@@ -96,9 +96,65 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 
 ## Thursday 28th November 2024
 
+
 ### Governance Workgroup
 
 Meeting was cancelled
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Gorga Siagian [**facilitator**], martinsoki, CallyFromAuron [**documenter**], Sucre n Spice, LadyTempestt, AshleyDawn, Gorga Siagian, LordKizzy, hogantuso, Valola, martinsoki, Effiom, CallyFromAuron, CollyPride
+- **Purpose:** Fortnightly meeting discussing how to onboard people to the Ambassador program
+- **Media link:** [Link](https://miro.com/app/board/uXjVK_z6AbU=/?moveToWidget=3458764606547611368&cot=14)
+- **Working Docs:**
+  - [Onboarding WG Q4 quarterly report](https://docs.google.com/document/d/1PuK3ZsIc6iuDQEbmmE4E7-1MJYij5ydiXZYS-smKsAI/edit?usp=sharing)
+  - [DRAFT Onboarding WG budgets](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Onboarding WG Skillshare Matrix](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit)
+  - [Onboarding consent form](https://forms.gle/6N7JFzBZj4jUDJPb6)
+  - [Onboarding Journeys quick survey](https://forms.gle/VcQVJAoXtYa1ukB77)
+
+#### In this meeting we discussed:
+- Agreed the minutes of the last meeting
+ 
+- Skillshare matrix: regular reminder to everyone to add their skills to the Skillshare matrix if they haven't done so
+
+-  Action items from the last meeting.
+
+-  Facilitation and documentation next time.
+
+- Onboarding journeys survey
+
+- GitHub project board: Onboarding WG will be managing itself via a Project Board on the Ambassador Program GitHub Organization as of January. Anyone not yet a member of the Ambassador Program GitHub Organization, please send your GitHub username to Sucre n Spice as soon as possible so that she can add you.  
+
+- Budget consent process - any Onboarding WG member who is also a Core Contributor should please complete a consent form for Onboarding’s budget.
+
+- Skillshare matrix and collab with R&D: some members of Onboarding had a call with R&D on 22nd Nov; R&D have made some changes to their Collaboration Skills Database based on feedback from Onboarding and once they are done they will present it to the workgroup.
+
+#### Decision Items:
+- LordKizzy to prepare the Facilitating/Documenting roster for Q1 2025.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cjfrankie to publicize the upcoming skillshare session on “Decentralized Governance.”
+ [**assignee**] CJFrankie [**due**] 5 December 2024 [**status**] todo
+- [**action**] Vani to lead Decentralised Governance session on 5th December. [**assignee**] CallyFromAuron [**due**] 5 December 2024 [**status**] todo
+- [**action**] LordKizzy to reach out to CJfrankie to facilitate and Ayo to document for the next meeting. [**assignee**] LordKizzy [**due**] 12 December 2024 [**status**] todo
+- [**action**] LordKizzy to prepare the Facilitating/Documenting roster for Q1 2025. [**assignee**] LordKizzy [**due**] 12 December 2024 [**status**] todo
+- [**action**] Onize to give an update in the next meeting on any interesting replies to the Onboarding Journeys survey [**assignee**] Onize [**due**] 12 December 2024 [**status**] todo
+- [**action**] Onize to timestamp the M&E session from 21st Nov and add it to YouTube. [**assignee**] Onize [**due**] 12 December 2024 [**status**] todo
+
+#### To carry over for next meeting:
+- Onboarding journeys  survey
+
+- Onboarding to Decentralization research
+
+#### Keywords/tags:
+- **topics covered:** skillshare matrix, onboarding journeys, Q1 2025 budget, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skills database, R&D guild, publicity, decentralization research, Decentralization, research project
+- **emotions:** speedy, Friendly, Casual
+
+
 ## Friday 29th November 2024
 
 
