@@ -208,6 +208,7 @@ We also noted that if we change the method without addressing underlying issues 
 ## Friday 25th October 2024
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -262,3 +263,50 @@ And he was suggesting to work on very interactive videos or hot topics in the ec
 #### Keywords/tags:
 - **topics covered:** Task Assignment, budget cap, Q1 2025 budget, Animation, social media, content calendar, Town Hall Videos, ecosystem update
 - **emotions:** productive, Casual, informative, Friendly
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Photogee, Kenichi, Kareem, Cjfrankie, malik, Aguboss, Olokoji, Malik., Advanceameyaw, esewilliams, LordKizzy, Gorga Siagian, AshleyDawn
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Podcast Ideation](https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit)
+  - [Meeting Agenda ](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?tab=t.0)
+  - [Mascot  Top4](https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing)
+  - [Design work group proposal](https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing)
+  - [Meeting Summary 18th Oct, 2024](https://docs.google.com/document/d/1EvmE9Un8sp6zQXXKCtTnEDWoOm9SCUJLomEFJIXT26c/edit?usp=sharing)
+
+#### Discussion Points:
+- Content Calendar Update: Kizzy stated that the content calendar has been scheduled and shared with guilds to upload their respective content.
+
+- Progress Tracking: Photogee reported that responses are coming in, and he is compiling them.
+- Podcast Initiative: Kenichi suggested involving members from the Writers' and Video Workgroups for the podcast and assigning each episode to interested members, while Kizzy recommended that task assignments for the podcast initiative remain specifically within the Marketing Guild.
+- Zealot Initiative: Ese confirmed that the Zealot initiative is ready to proceed.
+
+- Community Proposal Submission: Ese requested that team members submit their community proposals through the community initiative link.
+- Mascot Initiative: Kareem announced that the mascot initiative has concluded.
+- Brand Guidelines Enhancement: Kareem proposed enhancing the brand guidelines to strengthen the SingularityNET brand image.
+- Marketing guild meeting time: Ayo suggested shifting Marketing Guild meetings to a biweekly schedule, noting that agendas have become repetitive, focusing primarily on updates without much new content.
+- Marketing initiative: Kenichi reiterated the importance of attending the Unilag Web3 event, highlighting tangible benefits such as networking and face-to-face connections. He suggested securing a booth, a 10-minute speaking slot, and distributing flyers with QR codes to join SingularityNET, emphasizing that this would greatly benefit the Marketing Guild.
+- Marketing Initiative: Kizzy raised concerns about budget constraints for attending the Unilag Web3 event, as it was not originally included in the budget. Olokoji suggested weighing the benefits against the cost, while Ayo proposed drafting a proposal to submit to the sNET Foundation for potential funding.
+
+#### Decision Items:
+- The team agreed to keep task assignments for the podcast initiative within the Marketing Guild, allowing members to indicate interest. 
+  - [**opposing**] Mikasa opposed this approach, suggesting that Marketing should not be responsible for writing articles.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kareem to present updated brand guidelines from the Design Work Group. [**assignee**] Kareem [**status**] todo
+- [**action**] Kenichi to share a document where members can indicate interest in roles for the podcast initiative. [**assignee**] Kenichi [**status**] todo
+- [**action**] All Members to fill out Notion with their activities to qualify for rewards. [**assignee**] All Members [**status**] todo
+- [**action**] Kizzy/Mikasa to announce publicly that the content calendar is available and should be adopted by all guilds and workgroups. [**assignee**] Mikasa, LordKizzy [**status**] in progress
+- [**action**] Photogee to reach out to Mikasa regarding the Social Media Request Form draft. [**assignee**] Photogee, Mikasa [**status**] todo
+- [**action**] Ese to provide updates on community initiative proposals. [**assignee**] esewilliams [**status**] in progress
+- [**action**] Photogee to follow up with a link to all initiatives and SingularityNET assets. [**assignee**] Photogee [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** community engagement, brand guidelines, content calendar, social media, meeting time, change meeting time, Notion, Rewards, Unilag Web3 event, podcasts
+- **emotions:** Thoughtful , warm, interesting, lengthy
