@@ -147,6 +147,55 @@ Why do we need to give representatives' emails? [**status**] todo
 - **emotions:** Casual, Welcoming, Thoughtful, Friendly, Collaborative, productive
 
 
+## Thursday 14th November 2024
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Clement Umoh [**facilitator**], CJFrankie [**documenter**], Clement Umoh, CJFrankie, CallyFromAuron, Sucre n Spice, Duke, LadyTempestt, Kateri, AshleyDawn, Gorga Siagian, LordKizzy, hogantuso, Valola, martinsoki
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Media link:** [Link](https://miro.com/app/board/uXjVK_z6AbU=/?moveToWidget=3458764606547611368&cot=14)
+- **Working Docs:**
+  - [Onboarding WG Q4 quarterly report](https://docs.google.com/document/d/1PuK3ZsIc6iuDQEbmmE4E7-1MJYij5ydiXZYS-smKsAI/edit?usp=sharing)
+  - [DRAFT Onboarding WG budgets](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Onboarding WG Skillshare Matrix](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit)
+
+#### In this meeting we discussed:
+- Agreeing the minutes of the last meeting.
+  
+- Facilitation and documentation next meeting.
+
+-  Town Hall Updates: Cjfrankie suggested an update on the topics to share - he will cover the upcoming skillshare session on Monitoring and Evaluation scheduled for November 21st.  
+Vani also suggested sharing a link to our quarterly report and budget, which will be submitted before the Town Hall updates.”
+
+- Onboarding journeys survey
+
+- Skillshare matrix and collab with R&D: R&D Guild has had some internal discussion about the Skills database collab with onboarding WG, and will set a date for a discussion session with Onboarding WG.
+
+- Research project: Kateri and Ayo have done three group interviews each. They are documenting the responses, and will share them once it’s finished.
+
+- Quarterly report for Q4 2024
+
+- Governance update: We had a brief discussion about the newly implemented tier/budget cap  system for WG budgets, and everyone seems to embrace the idea.
+
+#### Decision Items:
+- Following a discussion on the new budget cap/tiers policy, the onboarding workgroup has embraced the allocation of 8.5k AGIX. It is close to our planned budget, but we noted that a couple of small cuts to our planned budget have been needed. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cjfrankie to publicize the upcoming skillshare sessions on “Monitoring and Evaluation” and “Decentralized Governance.”
+ [**assignee**] CJFrankie [**due**] 21 November 2024 [**status**] done
+
+#### To carry over for next meeting:
+- Onboarding Journeys Survey — at the next meeting, we’ll be looking at the responses gathered from the Onboarding Journeys Survey form.
+
+
+#### Keywords/tags:
+- **topics covered:** skillshare matrix, onboarding journeys, Q4 2024 Quarterly report, Q1 2025 budget, Governance, budget caps, budget tiers, Town Hall update, skillshare sessions, monitoring and evaluation, M&E, decentralized governance, collaboration skills database, R&D guild, publicity, decentralization research, Decentralization
+- **emotions:** speedy, productive, Collaborative
+
+
 ## Friday 15th November 2024
 
 
