@@ -164,3 +164,65 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, survey, Hackathon, Fetch, Solana, Copa America, content calendar, Marketing Guild, onboarding WG, Collaboration Skills Database
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive
+## Thursday 31st October 2024
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** CallyFromAuron [**facilitator**], Photogee, CallyFromAuron [**documenter**], LadyTempestt, CallyFromAuron, lord kizzy, AshleyDawn, Kateri, MartinSoki, Onize, Cjfrankie, SucrenSpice, Eric Davies, Photogee, Cjfrankie, Advanceameyaw, Effiom, Valola, AJ, Gorga Siagian
+- **Purpose:** Weekly meeting discussing how to onboard people to the Ambassador program
+- **Working Docs:**
+  - [Skillshare Matrix Doc](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+  - [Adjusted Q4 budget proposal ](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?tab=t.0#heading=h.e0i68kevq8jk)
+  - [Onboarding Journeys Quick Survey](https://forms.gle/VcQVJAoXtYa1ukB77)
+  - [Skills database form](https://skillsdatabase-21b11771237e.herokuapp.com/members/members-list/)
+
+#### In this meeting we discussed:
+- We agreed the minutes of the last meeting. 
+Vani raised the point that if corrections are made to a summary by WG members, then the documenter needs to make the relevant changes when they add the summary to the meeting summary tool. (In the last meeting summary, the documenter unfortunately didn't do this.)
+
+
+- Skillshare matrix: The regular call-out for members to add their skills to the skillshare matrix, both the ones they intend to learn and the ones they currently have.
+- Onboarding Journeys: As an extension of the work on Onboarding Journeys, Onize has created and shared a Googleform ("Onboarding Journeys Quick Survey") to ask people in the Ambassador Program about their own onboarding journeys, and any barriers they have faced. There has been only 1 response so far, but it was interesting - the person "felt all alone and had to catch up with the Ambassador's program's purpose which honestly doesn't feel completely clear yet". So we need to think about how we will address issues that come up in the form; and we also need to keep sharing it. We agreed the Onboarding Focus Group will look at this when they meet tomorrow; and Onize will keep sharing the form every now and then.
+
+- Onboarding Journeys: Lord Kizzy suggested having monthly/quarterly surveys tackling challenges facing new members.
+- Research on decentralisation: Kateri briefly discussed the research that she and Ayo are working on. They will be asking their questions in small-group interviews, which will be recorded. We agreed that we'd like to see a little more info on the planned research methodology (e.g. how interviewees will be selected; how the interviewers will ensure a valid and ethical approach).
+
+- Potential collab with R&D Guild: We discussed a collaboration with R&D Guild on skills info - i.e. their Collaboration Skills Database and our Skillshare Matrix.  
+
+Questions were raised on the use of the term "soft skills/hard skills" in R&D's database, which some people find quite dismissive of the range of "non-developer" skills; and we discussed whether the work that Onboarding has done in our Skillshare Matrix on describing and defining different non-developer skills might be useful. 
+
+Advanceameyaw and Lord Kizzy, as members of R&D Guild, said R&D intends that the info in the database could be used by Onboarding in signposting new people to tasks and WGs that suit their skills. Some concerns were raised about whether this connects with Onboarding's existing processes, and whether the Collaboration Skills Database info is in a useful format: the Database currently uses a lot of free text, which can take time to interpret; and we queried whether controlled vocabs would be better and would give more usable info. We also noted that if this was done, then "non-developer" skills would need to be defined in ways that make sense to people who actually have those skills; we noted that previous iterations of the Database, which *did* use controlled vocabs, didn't really succeed in this.
+
+Questions were also raised on privacy and data protection issues: AdvanceAmeyaw noted that these have been considered, but Vani said they may not have been been considered thoroughly enough. 
+
+We agreed that a dedicated meeting between Onboarding and R&D would be useful.
+- Marketing WG is asking for 2 people from each WG to be responsible for adding material to their new Content Calendar - so if a WG needs any marketing or promotional material to be produced, they add it to the calendar, and Marketing will produce it. We agreed the Onboarding Focus Group will select 2 people when they meet tomorrow.
+
+#### Decision Items:
+- R&D will consider not using the ‘hard skills/soft skills’ terminology in the in the Collaboration Skills Database
+  - [**rationale**] The term can be unclear (people vary on what they define as a "hard/soft skill"; and the terms can be experienced as somewhat dismissive.
+  - [**effect**] mayAffectOtherPeople
+- The 2 forthcoming skillshare sessions (Monitoring and Evaluation on 21st Nov; Decentralised Governance on 5th Dec) are to be publicized with an infographic.
+  - [**rationale**] Presenting both sessions on one infographic means less work, and also shows that it's a "program" of skillshare sessions, not just a couple of random one-offs.
+  - [**effect**] mayAffectOtherPeople
+- We noted that the skillshare session on Monitoring and Evaluation is on Thurs 21st Nov, not 25th Nov 
+  - [**rationale**] It has previously been recorded in error in meeting summaries as 25th Nov.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Lord Kizzy to add dates for meetings and Skillshare sessions to the calendar. [**assignee**] LordKizzy [**due**] 4 November 2024 [**status**] todo
+- [**action**] Onize to re-share the googleform for the "Onboarding journeys quick survey" to the ambassador-general Discord channel [**assignee**] Onize [**due**] 14 November 2024 [**status**] todo
+- [**action**] CjFrenkie will prepare and deliver our Town Hall updates for 26th November.
+ [**assignee**] Cjfrankie  [**due**] 26 November 2024 [**status**] todo
+- [**action**] Lord Kizzy and Advance will schedule a meeting for further discussion on collaboration between onboarding and R&D on the Skills Database. [**assignee**] LordKizzy, advanceameyaw [**due**] 14 November 2024 [**status**] todo
+- [**action**] Clement will facilitate the next meeting and Tuso will document.
+ [**assignee**] Clement Umoh, Hogantuso [**due**] 14 November 2024 [**status**] todo
+- [**action**] Lord Kizzy will prepare the meeting agenda for our next meeting [**assignee**] LordKizzy [**due**] 14 November 2024 [**status**] todo
+- [**action**] In their meeting tomorrow the Onboarding Focus Group will work out how best to work on insights from Onize's Onboarding Journeys form. [**assignee**] Sucre n Spice, LadyTempestt, CallyFromAuron [**due**] 1 November 2024 [**status**] todo
+- [**action**] The Onboarding Focus Group will select 2 people from the WG to be responsible for adding material to the new Content Calendar that Marketing WG is doing [**assignee**] Sucre n Spice, LadyTempestt, CallyFromAuron [**due**] 1 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** skills matrix, research, meeting dates, collaboration skills database, skills database, skills audit, R&D guild, Marketing Guild, content calendar, hard and soft skills, Town Hall update, Onboarding focus group, onboarding journeys, barriers to onboarding, barriers, skillshare sessions, monitoring and evaluation, decentralized governance, Decentralization, useful documentation, Documentation
+- **emotions:** Collaborative, Casual, speedy , contructive criticism
