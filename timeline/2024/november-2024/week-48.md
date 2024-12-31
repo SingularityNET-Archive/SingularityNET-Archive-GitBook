@@ -4,6 +4,42 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 
 # Week 48
 
+## Monday 25th November 2024
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Tevo [**documenter**], André, Effiom, Tevo, SubZero, Malik
+- **Purpose:** We develop the Treasury System
+- **Meeting video:** [Link](https://youtu.be/LjhQkgkk8UM)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764603865995130&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Automation WG Q4 Budget](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/)
+  - [Treasury Automation WG Budget Estimations](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843)
+  - [Treasury Automation WG - 28.10.24 Development Updates](https://www.youtube.com/watch?v=0k4TPL6VcwA)
+
+#### Agenda item 1 - Month of November Development Updates - [carry over]
+
+#### Discussion Points:
+- End to End testing of JSON Generator is tested and implemented
+- A lot of bug fixing in Treasury Manager is caused by filtering changes
+- Update Video: https://youtu.be/LjhQkgkk8UM
+- Zoom API layer created by Andre to request relevant participation info trough treasury system
+
+#### Agenda item 2 - Quarter 4 2024 Report - [resolved]
+
+#### Discussion Points:
+- We shared Quarter 4 2024 report https://docs.google.com/document/d/1hx1Bjzucisv7rQDg16xx75Kueeu_uYoO44nnWxcg4GM
+
+#### Agenda item 3 - Quarter 1 2025 Proposal - [resolved]
+
+#### Discussion Points:
+- We updated the Q1 2025 proposal budget https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843
+- We shared the Q1 2025 proposal https://docs.google.com/document/d/13nenax4GhArFaISTrDq1zGmO6ClwphhNQl2c7pp-cSU
+
+
+
 ## Thursday 28th November 2024
 
 ### Governance Workgroup
