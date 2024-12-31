@@ -40,6 +40,60 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 
 
 
+## Wednesday 27th November 2024
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], LordKizzy, AshleyDawn, advanceameyaw, CollyPride, Tevo, guillermolucero, Slate, kenichi, BoazB, hogantuso
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+  - [Retrospective and Learnings from Q4 R&D New Operations Systems](https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing)
+  - [Slides on the voting results ](https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- R&D New Metta Coder lab 
+
+- Q1 Budget and Tier system
+- Facilitation in Q1 2025
+- Feedback from the Strategy Guild workshop
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Guillermo went through the action items for the previous meeting and we had a brief introduction for new members
+- UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month
+- R&D Guild Metta Coder Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in Bangkok and he shared the full folder on the METTA libary: https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025
+- Follow up on the CSDB: Advance spoke on the progress so far, he also noted that 80 % of the project has been done, and also mentioned a call with the Onboarding Workgroup and highlighted the impact of the call and he is hoping to have another call with the Reps of Onboarding Workgroup for clarity on some things that could be kept into consideration 
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week
+- RFPs and Initiatives on OpenCog Hyperon for the R&D Guild: Guillermo mentioned the creation of a proposal from R&D Guild for the Metta coder lab initiative and so highlighted a possible collaboration with Education Guild
+- UPDATE STATUS ON DEVELOPMENT: Legacy System: he noted that he is currently working on the Cardano side of this using Plutus, and AJ is going to help out with the project documentation 
+
+#### Action Items:
+- [**action**] CSDB team to finish and get ready for redeployment by 25th of NOV [**assignee**] AJ, Advanceameyaw [**due**] 4 December 2024 [**status**] todo
+- [**action**] Lordkizzy will schedule a call with representatives from the onboarding work within the week. [**assignee**] LordKizzy [**due**] 27 November 2024 [**status**] done
+- [**action**] Lordkizzy and guillermo to have a call to discuss on the governance dashboard project [**assignee**] LordKizzy, guillermolucero [**due**] 4 December 2024 [**status**] todo
+- [**action**] AJ to give a presentation on his updates to the CSDB in the next call [**assignee**] AJ [**due**] 27 November 2024 [**status**] todo
+- [**action**] Members to express interest in the sheet for facilitation  [**assignee**] All members [**due**] 11 December 2024 [**status**] todo
+- [**action**] Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild [**assignee**] LordKizzy, guillermolucero [**due**] 11 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Onboarding WorkGroup, Cardano, Plutus, Legacy system, Governance dashboard, RFP< Open Cog Hyperon
+- **emotions:** Casual, Welcoming, Thoughtful, Friendly, Collaborative
+
+
 ## Thursday 28th November 2024
 
 ### Governance Workgroup
