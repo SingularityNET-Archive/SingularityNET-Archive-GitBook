@@ -4,6 +4,52 @@ description: Mon 4th Nov - Sun 10th Nov 2024
 
 # Week 45
 
+## Monday 4th November 2024
+
+### Strategy Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Photogee [**facilitator**], Cjfrankie  [**documenter**], Ayo, Photogee, Eric Davies, LordKizzy, Effiom, kateri, martinsoki, Mikasa, AshleyDawn, Clement Umoh
+- **Purpose:** Biweekly meeting of the Strategy Guild
+
+- **Working Docs:**
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?gid=1268899826#gid=1268899826)
+  - [The Strategy Guild Survey](https://docs.google.com/forms/d/1FVYpm_Q1r97pK8h1PdKX-ntyvDozv2d1GXYr-BNy8hA/edit)
+
+#### Narrative:
+Kick-off: Photogee welcomed everyone with a warm greeting, and then we tackled the action items from the last meeting. Effiom shared an update on the status of the "strategy core" and "strategy member" Discord tags. He stated that the tags haven’t taken effect because there’s still a back-and-forth issue that needs to be fixed. He hinted that at the next meeting or workshop, he’d give an update on the status.
+
+Budget Fitting: Momentarily, we had a budget fitting walkthrough by Effiom; some deliverables will be moved to Q1 2025 and there will only be 1 workshop session in Q4, while a few things are removed to fit the budget. 
+
+Q4 Task Roster & Async Follow-up: Ayo took to the stage and assured everyone with their names on the roster of getting a task in Q4. We also discussed what to do with members who haven’t been showing up for meetings; Ayo added that we can swap those names with active members who would like to take up tasks. We also discussed Q3 workshop follow-up. These groups of people will attend WG meetings of marketing guild, video workgroup, and writers workgroup, and collect information about what strategy was adopted in the workgroup from the last strategy guild workshop and how it’s going. To this effect, we have Photogee and Ese to take on the Q3 workshop follow-up while Cjfrankie and Mikasa take on the Q4 workshop follow-up.
+
+More on Workshops: We have decided that there will be only one workshop session in Q4, focusing on R&D Guild and Education Guild. These workshops will start next Monday (11th Nov) and run for 3 straight weeks. Cjfrankie and Mikasa are to attend both the R&D and the Education guild meetings, and ask them to select three members that will represent them well.
+
+Research Update: Effiom shared an update on the research he’s working on about what people in the Ambassador Program think about Strategy Guild. The survey form is complete and is ready to be sent out to gather responses from community members. He sought feedback on the survey and encouraged members to check out the form and add comments.
+
+Looking Ahead: As Q4 wraps up, we looked forward to having a promising Q1 in 2025. Ayo said the strategy guild welcomes research ideas, initiatives, workshops, and collaboration from members. As a matter of finality, he added that Q1 2025 won’t only be about facilitation and documentation. Rather, it’s about strategy stuff.
+
+AOB: The AOB session was led by Ayo, who sought two people who would liaise with the marketing guild for their content calendar — if we have any content for the socials, the idea is to have two people who would be in close communication with the marketing guild for proper scheduling of posts.
+
+
+#### Decision Items:
+- We have decided to hold only one workshop session in Q4. This workshop will focus on the R&D guild and education guild.
+
+  - [**rationale**] The initial plan was to have two sessions in Q4, but after the budget was fitted, we saw that this was no longer feasible.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] 
+Cjfrankie and Mikasa to attend R&D and Education guild meetings and have them select three members that will represent their WGs in the forthcoming workshop session.
+ [**assignee**] Cjfrankie, Mikasa [**due**] 11 November 2024 [**status**] in progress
+- [**action**] Photogee to chase Ese Williams to see whether she’d be up for workshop 1 async follow-up. [**assignee**] Photogee [**due**] 11 November 2024 [**status**] todo
+- [**action**] Effiom to send out the research survey on the 5th of November to gather responses. [**assignee**] Effiom [**due**] 11 November 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** content calendar, Workshop, Budget fitting, R&D guild, Education Guild, Task roster, Async follow up, survey, Q1 2025 projections, Marketing Guild, Discord tags
+- **emotions:** funny, resourceful, informative, speedy, looking-ahead, forward-looking
+
+
 ## Wednesday 6th November 2024
 
 ### Archives Workgroup
