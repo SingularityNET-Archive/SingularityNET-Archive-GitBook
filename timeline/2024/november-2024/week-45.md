@@ -50,6 +50,39 @@ Cjfrankie and Mikasa to attend R&D and Education guild meetings and have them se
 - **emotions:** funny, resourceful, informative, speedy, looking-ahead, forward-looking
 
 
+## Tuesday 5th November 2024
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, SergioBenaR
+- **Purpose:** @SNET_LatAm Program for the X space #3: "Biotechnology, Transhumanism / Rejuve-AI"
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01JBZ5AQ7Y7670G0ZPYE3XQASN)
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JBZ5AQ7Y7670G0ZPYE3XQASN)
+- **Working Docs:**
+  - [#2 Update y noticias del ecosistema](https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?usp=drive_link )
+  - [Q4 X space program SNET_Latam](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link)
+  - [XSpace #3 > 14/11/2024 Biotecnología. Transhumanismo / Rejuve-AI](https://docs.google.com/document/d/1AY_IgD0nB9gFVrQHiQCqvOWxvMA759Db-_EXV5LCAgw/edit?tab=t.0)
+
+#### Agenda item 1 - Communications SubGroup - [carry over]
+
+#### Narrative:
+Martín and Sergio were in charge of the second X space of SNET_LatAm entitled "ecosystem update and news", which took place on Thursday, October 24, according to the program for Q4. They met to establish each point to be developed, the duration, the topics, the order and the assignment, which was presented during this meeting.
+
+
+#### Decision Items:
+- The second X-Space of the SNET_Latam community took place on Thursday, October 24, with the theme of “Ecosystem Update and News”
+
+#### Action Items:
+- [**action**] Call2action for X Space include bullet points [**assignee**] SergioBenaR, guillermolucero [**due**] 12 noviembre 2024 [**status**] in progress
+- [**action**] Develop programm on detail [**assignee**] Martin Rivero, Daniela Alves, inesgav [**due**] 14 noviembre 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** content calendar, X spaces, Meeting Summaries
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
+
+
+
 ## Wednesday 6th November 2024
 
 
