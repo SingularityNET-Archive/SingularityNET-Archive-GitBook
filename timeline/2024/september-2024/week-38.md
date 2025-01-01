@@ -143,6 +143,7 @@ description: Mon 16th Sep - Sun 22nd Sep 2024
 
 
 
+
 ### Archives Workgroup
 
 - Type of meeting: Biweekly
@@ -360,6 +361,50 @@ Some changes have already been made: the interface is more mobile-friendly; ther
 #### Keywords/tags:
 - **topics covered:** Presentation, CCCP, q4 2024 Budget, minimal budget, Quarterly Report, ideation, Video WG< Ai for Beginners, spin offs, Google Classroom, quizzes
 - **emotions:** productive, Collaborative, Businesslike.
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], Martin Rivero, Daniela Alves, Andrea Dekovic, guillermolucero, SergioBenaR
+- **Purpose:** @SNET_LatAm Presentation of Daniela Alves as ambassador; initiatives for Q4. 
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01J6FYVMJPC7TH5S5PP4E4T6AW?utm_source=Share_Nav)
+- **Working Docs:**
+  - [Daniela Alves on X](https://x.com/DanielaAlvesRI)
+  - [SNET_Latam on X](https://x.com/SNET_Latam)
+
+#### Agenda item 1 - Operations SubGroup - [carry over]
+
+#### Narrative:
+The SingularityNET community in LatAm successfully carried out different activities during Q3, which were recorded and presented to the global SingularityNET community. With the arrival of new members and the formation of the ambassador team, initiatives were proposed that align with the objectives for Q4.
+
+
+#### Decision Items:
+- Daniela Alves joins as ambassador of the SingularityNET community in Brazil.
+
+#### Action Items:
+- [**action**] Guillermo to share access to the documents that gather the objectives and proposals with Daniela and the other ambassadors [**assignee**] guillermolucero [**due**] 20 septiembre 2024 [**status**] done
+- [**action**] Daniela to analyze the topic to lead an X space [**assignee**] Daniela Alves [**due**] 20 septiembre 2024 [**status**] done
+- [**action**] Daniela to share her Cardano wallet address [**assignee**] Daniela Alves [**due**] 20 septiembre 2024 [**status**] done
+- [**action**] Guillermo to make the pending Q3 funding disbursement [**assignee**] guillermolucero [**due**] 20 septiembre 2024 [**status**] done
+
+#### Agenda item 2 - Marketing Sub-Group - [carry over]
+
+#### Narrative:
+Various events will be held in several countries during Q4, and the SingularityNET LatAm community will continue to disseminate progress at a global level, participating in activities that are representative in the countries where there are ambassadors: Argentina, Bolivia, Brazil and Mexico.
+
+
+#### Decision Items:
+- Ambassadors will be supported when they receive invitations to participate in events in the technology, artificial intelligence, and blockchain sectors.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Andrea and Sergio will send Guillermo and Martín the details of the events to which they were invited: event date, description, objectives and requirements.  [**assignee**] Andrea Dekovic, SergioBenaR [**due**] 10 septiembre 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** content calendar, Rewards, strategy, Meeting Summaries, Teamwork, events, X spaces
+- **emotions:** Collaborative, Strategic, Task-focused
 
 
 ## Thursday 19th September 2024
