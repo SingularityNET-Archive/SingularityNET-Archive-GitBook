@@ -199,6 +199,7 @@ Vani also suggested sharing a link to our quarterly report and budget, which wil
 ## Friday 15th November 2024
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -308,3 +309,43 @@ The house agreed that Osmium's content be shared to the WorkGroup for a review a
 #### Keywords/tags:
 - **topics covered:** Budget fitting, Reward system, rewards in AGIX, rewards in USD, token price fluctuation, Q4 report, budget tier system, budget cap, Mastodon, ASI video proposal, 
 - **emotions:** productive, informative, Organised, Thoughtful, repetitive
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Cjfrankie, LordKizzy, AshleyDawn, SubZero, kateri, esewilliams, advanceameyaw, merryman
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Mascot  Top4](https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing)
+  - [Design work group proposal](https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [singularityNET Marketing WG October.pptx](https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9)
+  - [Q1 2025 budget caps](https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing)
+
+#### Discussion Points:
+- Mascot Design Voting Transparency: Ayo emphasized the importance of ensuring transparent access to voting results for the mascot design competition.
+
+- Zealot Publicity: Ese announced that publicity efforts for the Zealot initiative would commence on Monday.
+
+- Marketing Budget Cap and Tiers: Kizzy presented the current budget cap, highlighting the limited allocation to the Marketing Guild — approximately half of the proposed amount. He also criticized the guild's lack of involvement in governance meetings.
+Ashley suggested that the budget cap should be reviewed and adjusted regularly to ensure alignment with priorities.
+Ayo proposed merging some guilds to optimize resource allocation and collaboration.
+
+- Guild Membership Redundancy: Kizzy pointed out the issue of redundancy within the Marketing Guild and suggested removing inactive members to improve efficiency.
+
+- Ops taskforce & facilitator reward: Ayo raised the need to review ops taskforce and facilitator's reward to ensure it aligns with his contributions.
+
+#### Decision Items:
+- It was decided that the budget allocation process will be revised to discontinue auto-payments for members who show minimal or no participation in the Marketing Guild, ensuring funds are better utilized to support active contributors and initiatives.
+  - [**rationale**] Given the Marketing Guild's already limited funds, it is essential to optimize resource allocation. Discontinuing auto-payments for members with minimal or no participation ensures that the available budget is directed toward active contributors and impactful initiatives. This approach enhances productivity, maintains accountability, and maximizes the effectiveness of the guild's limited financial resources.
+
+#### Action Items:
+- [**action**] Kareem to provide clarification on the mascot design voting process, ensuring transparency and access to results for all members. [**assignee**] kareem [**status**] todo
+- [**action**] Marketing Guild to present the budget cap discussion to the larger house for consensus and alignment on fund allocation strategies. [**assignee**] all members [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget, Q1 2025 budget, budget cap, budget tiers, Rewards, Governance, transparency, voting transparency, mascot, redundancy, inactive members, membership, Zealot
+- **emotions:** frustrated, Deliberative, differing opinions
