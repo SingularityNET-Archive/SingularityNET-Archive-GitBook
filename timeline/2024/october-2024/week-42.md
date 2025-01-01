@@ -233,6 +233,7 @@ We basically glanced through all the rest of suggestions in the Retrospectives d
 
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -393,6 +394,35 @@ It was noted that in this first session that we expect to see an overview of the
 #### Keywords/tags:
 - **topics covered:**  Experimentation, Exhibitions, AI tooling
 - **emotions:** Collaborative, speedy, progressive, Welcoming, interesting
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, Martin Rivero, SergioBenaR, Daniela Alves
+- **Purpose:** @SNET_LatAm Program for the second X space; Deep Funding Town Hall Brazil. 
+- **Working Docs:**
+  - [#2 X Update y Noticias del ecosistema @SingularityNET _ 241024](https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?tab=t.0)
+  - [Q4 @X-Space Program and Schedule  @SNET_Latam LatAm Ambassadors Guild](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link)
+
+#### Agenda item 1 - Marketing SubGroup - [carry over]
+
+#### Narrative:
+Continuing with the development of the X spaces, the second one of Q4 2024 will be held under the leadership of Martín and Sergio. This space will have the characteristic of providing an update and news from the SingularityNET ecosystem and the ASI. The structure and points for the program for October 18 have been defined.
+
+
+#### Decision Items:
+- The second X-Space of the LatAm SingularityNET community will take place on Thursday, October 18, with the theme of “Ecosystem update and news”
+
+#### Action Items:
+- [**action**] Martín and Sergio will have a prior meeting to organize the development of the program in the X space. [**assignee**] Martin Rivero, SergioBenaR [**due**] 18 octubre 2024 [**status**] done
+- [**action**] Martín and Sergio will host the X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem [**assignee**] Martin Rivero, SergioBenaR [**due**] 18 octubre 2024 [**status**] done
+- [**action**] Guillermo and Inés will be in charge of the Deep Funding Town Hall for Brazil [**assignee**] guillermolucero, inesgav [**due**] 18 octubre 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** content calendar, Rewards, X spaces
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
 
 
 ## Friday 18th October 2024
