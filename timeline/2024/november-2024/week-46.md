@@ -96,6 +96,7 @@ Why do we need to give representatives' emails? [**status**] todo
 
 ## Wednesday 13th November 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -145,6 +146,51 @@ Why do we need to give representatives' emails? [**status**] todo
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Q1 2025 budget, budget tiers, budget cap, governance dashboard
 - **emotions:** Casual, Welcoming, Thoughtful, Friendly, Collaborative, productive
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, SergioBenaR, Daniela Alves, Martin Rivero, AJ
+- **Purpose:** @SNET_LatAm Q4 Operations; communications @SNET_Latam Ambassadors; X Space #3: Transhumanism, Biotech & Rejuve AI
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01JCKT54DB1891SJGCTN4TPWGR?section=transcript )
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JCKT54DB1891SJGCTN4TPWGR?section=transcript )
+- **Working Docs:**
+  - [#2 Update y noticias del ecosistema](https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?usp=drive_link )
+  - [Q4 X space program SNET_Latam](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link)
+  - [XSpace #3 > 14/11/2024 Biotecnología. Transhumanismo / Rejuve-AI](https://docs.google.com/document/d/1AY_IgD0nB9gFVrQHiQCqvOWxvMA759Db-_EXV5LCAgw/edit?tab=t.0)
+  - [About Rejuve.AI _ 141124](https://docs.google.com/document/d/1BYh1ZWVkoEy_SJ2sk6LuLQWkUsAY4IATCiwyh3X8Fl8/edit?tab=t.0#heading=h.youhds44fiil)
+  - [SNET_Latam on X](https://x.com/SNET_Latam/status/1856436765118300292)
+
+#### Agenda item 1 - Communications SubGroup - [carry over]
+
+#### Narrative:
+In line with the X Spaces program for Q4, we will have the third space on Thursday, November 14 (22:00 UTC). In this space we will address the topics of transhumanism and biotechnology, in addition to reviewing some milestones achieved by Rejuve AI, which is part of the SingularityNET ecosystem and is a real use case with great importance. Martín Rivero presented a document that includes a philosophical introduction and technical topics, while Inés will contribute her perspective on transhumanism and Dani will participate in the discussion. Guillermo suggested improvements in the structure of the content, and it was agreed that all participants can make comments until the event, highlighting collaboration and flexibility in planning. The importance of document translation was also discussed, with Daniela Alves confirming the sending of a translation into Portuguese and the need to humanize translations. 
+
+
+#### Decision Items:
+- The SNET_Latam ambassador team will participate in X Space #3, which will be led by Martín, Inés and Daniela, with the space open to participate in the conversation.
+
+#### Action Items:
+- [**action**] Guillermo will open the space, then Martín will guide the development of the points defined in this meeting according to the attached document, Inés, Daniela and Sergio will participate in the conversation. [**assignee**] SergioBenaR, guillermolucero, Martin Rivero, Daniela Alves, inesgav [**due**] 14 noviembre 2024 [**status**] in progress
+
+#### Agenda item 2 - Operations SubGroup - [carry over]
+
+#### Narrative:
+At the previous meeting of the SNET_Latam ambassador team, the registration of contributions for each team member was determined, which will be done using the documents prepared by Guillermo.
+
+
+#### Decision Items:
+- Core contributors of the Latin American Guild must fill out the contribution forms for the first half of November.
+
+#### Action Items:
+- [**action**] Daniela, Martin and Sergio will present their contribution records in their individual documents [**assignee**] SergioBenaR, Martin Rivero, Daniela Alves [**due**] 15 noviembre 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** content calendar, X spaces, contribution, contribution tracking, core contributors, transhumanism, biotechnology, rejuve.ai, philosophy, translation
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork, philosophical
+
 
 
 ## Thursday 14th November 2024
