@@ -7,6 +7,7 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 ## Friday 1st November 2024
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -66,3 +67,83 @@ Budget: We had discussions about the Q4 budget and projected timeframe for submi
 #### Keywords/tags:
 - **topics covered:** Partnership, budget, Q1 2025 budget, long videos, short videos, video review process, animation, engagement, social media, Town Hall videos, MixPost, TikTok, video editing
 - **emotions:** productive, informative, Organised, Deliberative
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, esewilliams, photogee, Kenichi, Kareem, Cjfrankie, LordKizzy, AshleyDawn, Olokoji, Malik, Advanceameyaw, TheFreysDeFi, Mikasa, Tevo, PeterE
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Podcast Ideation](https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit)
+  - [Mascot  Top4](https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing)
+  - [Design work group proposal](https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing)
+  - [Meeting Summary 25th Oct, 2024](https://docs.google.com/document/d/1_fPwVDJNjHpgCiMgBcx0FLNLxoDO-030ytyIyUAVql4/edit?tab=t.0#heading=h.wny7fzkg6zcm)
+  - [Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [singularityNET Marketing WG October.pptx](https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9)
+
+#### Discussion Points:
+- Review and adoption of last meeting’s summary notes
+
+- Compilation of useful links:
+Photogee reported progress, noting that he has created a sheet to compile all useful links relevant to the project.
+- Collaboration suggestion:
+Tevo recommended that Photogee collaborate with the Knowledge Base workgroup, as they also gather useful links, which could enhance information sharing and reduce redundancy.
+
+- Community initiative campaign results:
+Ese reported that the community initiative campaign has concluded, resulting in eight proposals. The review team will now evaluate these to decide whether to push them to the sNET Foundation or extend the campaign for additional input.
+
+- Podcast initiative:
+Kenichi suggested drafting formal invites for the upcoming podcast episodes, with specific dates and potential hosts assigned to each session to improve planning and engagement.
+
+- Content calendar & social media coordination:
+Kizzy proposed creating a dedicated Discord channel where representatives from a workgroup can collaborate with social media admins, facilitating follow-ups and coordination on content and post schedules.
+
+- Zealot Initiative launch:
+Ese announced that the Zealot initiative will be going live and will run until the end of the month. She encouraged team members to actively promote it across various platforms to maximize engagement.
+
+- Discussion Item: Podcast scheduling tool recommendation
+Tevo suggested enhancing the podcast scheduling process by setting up an automated scheduling tool. He proposed using a platform where hosts could input their availability for podcast sessions, allowing guests to select a date and time that works best for them. This would streamline scheduling by capturing guests' contact information, email, and any additional details needed for coordination upfront. Implementing this would create a more organized and efficient process, improving overall planning and preparation for each episode.
+
+- Discussion Item: Workgroup management and content scheduling
+Kizzy inquired about the workgroups Tevo manages, specifically those involved in uploading videos to YouTube. He asked if Tevo is coordinating with groups like Treasury and GitHub PBL, and if there are any additional workgroups that need to be informed. Additionally, Kizzy sought clarification on the scheduling timeline for these YouTube posts, aiming to understand the workflow and ensure content consistency across platforms.
+
+- Mascot Campaign update:
+Kareem reported that the mascot competition concluded on the 20th of last month, receiving a total of 16 submissions. He, along with Gorga and Malik, narrowed down the submissions to four finalists based on brand guidelines and the defined mascot characteristics.
+
+- Design Workgroup Proposal presentation:
+Kareem presented the concept and objectives behind the design workgroup proposal, outlining how it aligns with the brand's goals and visual standards.
+
+- AGIX Reallocation Request for Translation WG:
+Tevo proposed reallocating around 500 AGIX from Marketing Guild’s budget to support the translators workgroup, as quarterly translation tasks had exceeded initial funding. This reallocation would ensure that translation needs are adequately met.
+
+- Low meeting participation:
+Ese expressed concern over the low level of participation in meetings, highlighting the need for greater engagement from members.
+
+- Data Submission Challenges:
+Olokoji shared difficulties with receiving data on time, encouraging members to submit their work promptly rather than waiting until the end of the month to improve reporting efficiency.
+
+- Marketing Guild's role in Governance Workgroup:
+Ayo proposed that Marketing Guild members should actively participate in Governance Workgroup, as marketing aligns closely with the ambassador program’s purpose. He also mentioned potential rewards for members who join governance calls, which could incentivize involvement.
+
+- Onboarding tool proposal for user engagement and Olympus collaboration: Tevo presented an onboarding tool for Olympus Insight to introduce new users to blockchain and decentralized AI, suggesting that SingularityNET integrate marketing and visual elements to enhance engagement and consider collaborating with Olympus to share expertise on decentralized ambassador programs, potentially leading to new revenue opportunities and expanding SingularityNET’s reach.
+
+#### Decision Items:
+- The team decided that, due to the Marketing Guild’s upcoming initiatives and ongoing projects across various workgroups, it would not be in the best interest to re-allocate the translator workgroup at this time. Instead, the focus will be on maintaining reserves to better manage the current workload and initiatives in progress.
+  - [**effect**] mayAffectOtherPeople
+- It was decided to present the mascot design finalists to the larger community for final feedback and input.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Mikasa to ensure the schedule on the Ambassador Program's Google Calendar is consistently updated and matches the Zoom links, ensuring that any changes made to the calendar are reflected in the corresponding Zoom meeting details to avoid discrepancies. [**assignee**] Mikasa [**status**] todo
+- [**action**] Kareem to create a form for mascot design voting, which will be shared by Photogee and Ayo within the community for feedback and participation.
+
+ [**assignee**] Kareem, Ayo, Photogee [**status**] todo
+- [**action**] All members to review and discuss the design workgroup proposal, providing input and suggestions. [**assignee**] All Members [**status**] todo
+- [**action**] The review team to assess the proposals currently in the pipeline, with a scheduled review session on Saturday at 1 p.m. [**assignee**] lord kizzy [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** podcasts, useful links, Community initiative campaign, podcasts, community engagement, Zealot, mascot, Translation WG, Google calendar, Olympus, collaboration, Governance WG, low participation, content calendar, Design workgroup proposal, content scheduling, timeliness
+- **emotions:** Friendly, interactive, long, Well-attended, informative
