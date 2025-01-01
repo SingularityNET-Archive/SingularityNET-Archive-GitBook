@@ -43,6 +43,53 @@ description: Mon 21st Oct - Sun 27th Oct 2024
 #### Keywords/tags:
 - **topics covered:** Q4 budget, roster, Facilitation, Documentation, Q4 propsals
 - **emotions:** Casual, inclusive, fun, Collaborative, decisive
+## Tuesday 22nd October 2024
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, Martin Rivero, SergioBenaR, Daniela Alves
+- **Purpose:** @SNET_LatAm Program for the XSpace #2 Ecosystem Update, LatAm Edition / @SNET_LatAm Metta Coder Lab
+
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JAV3P1CPM652SEJ6EPYW8FB7?utm_source=Share_CopyLink)
+- **Working Docs:**
+  - [#2 X Update y Noticias del ecosistema @SingularityNET _ 241024](https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?tab=t.0)
+  - [Q4 @X-Space Program and Schedule  @SNET_Latam LatAm Ambassadors Guild](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link)
+  - [@SNET_LatAm Metta Coder Lab _ 171024](https://docs.google.com/document/d/1RXZNXfXNDZ8qPdO1wT_D4Qa7Hm3hxJlw2AbPmLvMroc/edit?usp=sharing)
+
+#### Agenda item 1 - Marketing SubGroup - [carry over]
+
+#### Narrative:
+Continuing with the development of the X spaces, the second one of Q4 was held under the leadership of Martín and Sergio. This space had the characteristic of providing an update and news from the SingularityNET ecosystem and the ASI. The structure and points for the program for October 18 have been defined.
+
+
+#### Decision Items:
+- The second X-Space of the LatAm SingularityNET community took place on Thursday, October 18, with the theme of “Ecosystem update and news”
+
+#### Action Items:
+- [**action**] Martín and Sergio will have a prior meeting to organize the development of the program in the X space. [**assignee**] Martin Rivero, SergioBenaR [**due**] 18 octubre 2024 [**status**] done
+- [**action**] Martín and Sergio will host X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem [**assignee**] Martin Rivero, SergioBenaR [**due**] 18 octubre 2024 [**status**] done
+
+#### Agenda item 2 - Education WG - @SNET_LatAm Metta Coder Labs - [carry over]
+
+#### Narrative:
+A virtual biweekly event aimed at disseminating, educating, and training developers in the LatAm region on MeTTa Language and its integration with OpenCog Hyperon. The program focuses on teaching multiparadigm programming, self-modifying code, neural-symbolic reasoning, and AGI development. The labs provide hands-on experience with MeTTa's unique architecture, empowering developers to contribute to AGI projects within a collaborative framework. Methodology: create a collective use case and work sync and async with community members on the development. Work in progress. [TBD] Educate and train a team from @SNET_LatAm to execute and carry out the program. Potential candidates.
+
+
+#### Decision Items:
+- Develop the program details during Q4 2024
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Develop the program details during Q4 2024 [**assignee**] guillermolucero [**due**] 22 October 2024 [**status**] in progress
+- [**action**] Reach out to sNET Foundation and @SingularityNET MeTTA tech team [**assignee**] guillermolucero [**due**] 22 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** content calendar, rewards, X spaces, MeTTa coder lab, Foundation, OpenCog Hyperon
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
+
+
+
 ## Wednesday 23rd October 2024
 
 
