@@ -311,6 +311,7 @@ Collective decision Guild Members on the Entity connections
 
 ## Thursday 26th September 2024
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Weekly
@@ -384,6 +385,65 @@ Also a Zoom link has been added to the publicity blurb that will be posted.
 #### Keywords/tags:
 - **topics covered:** TH Update, Onboarding Journey Scripts, skills matrix, Onboarding WG Objection Summary, Q4 2024 budget, Q3 2024 quarterly report, GitHub training, GitHub, github board, Budget fitting, apology, allegations, Focus Group, research, Marketing WG, fortnightly, biweekly, meeting dates
 - **emotions:** small, low attendance, chatty, Friendly, analytical
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, Martin Rivero, SergioBenaR, Daniela Alves, Andrea Dekovic
+- **Purpose:** @SNET_LatAm Invitation to contribute with Copa América Solana; next activities for Q4 2024.
+- **Working Docs:**
+  - [La Bitconf](https://www.labitconf.com/)
+  - [María Carmo Substack](https://mariacarmo369.substack.com/s/snet)
+  - [SingularityNET BGI](https://www.youtube.com/playlist?list=PLyNIM-lVNUIfIoIVyQ_RBe3sgB1KW6HTT)
+
+#### Agenda item 1 - Operations SubGroup - [carry over]
+
+#### Narrative:
+An invitation was received to support the Solana Cup in Brazil, where SingularityNET and Fetch.AI are sponsors.
+
+
+#### Decision Items:
+- A team from the SingularityNET LatAm Guild will support the Solana Cup in the activities requested by the organizers, according to the available budget.
+
+#### Action Items:
+- [**action**] The ambassador team members will provide support in the event's Discord channel, according to their availability and the schedules that will be assigned in the coming days [**assignee**] Martin Rivero, SergioBenaR, guillermolucero, inesgav, Andrea Dekovic, Daniela Alves [**due**] 30 octubre 2024 [**status**] done
+- [**action**] Martín and Sergio will host an X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem [**assignee**] Martin Rivero, SergioBenaR [**due**] 18 octubre 2024 [**status**] done
+
+#### Agenda item 2 - Strategy SubGroup - [carry over]
+
+#### Narrative:
+Next week, the Spanish ambassador to Brazil will be in São Paulo and will meet with Daniela Alves. The meeting could also address the topic of technology and SingularityNET.
+
+
+#### Decision Items:
+- Daniela will meet with the Spanish ambassador in Brazil, listen to the Spanish government's approach and comment on the current situation of SingularityNET as a member of the ASI in terms of capabilities and infrastructure, to see if there is interest in forming a common agenda.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Daniela will meet with the Spanish ambassador in Brazil  [**assignee**] Daniela Alves [**due**] 4 octubre 2024 [**status**] done
+
+#### Agenda item 3 - Marketing SubGroup - [carry over]
+
+#### Narrative:
+Ambassadors are constantly invited to different events that will take place in the coming months. There is also the possibility of proposing events to different communities and organizations in various countries, to continue communicating the activities of SingularityNET and ASI, as part of the LatAm community activities for Q4. This week the main event of Nerdearla tiakes place, Martin was invited to participate as a representative of SingularityNET. Sergio presented an initiative to hold an event, taking advantage of contact with Deputy Mariela Baldivieso in Bolivia. 
+
+
+#### Decision Items:
+- Initiatives and events proposed by community members will be supported, provided they are aligned with the established objectives.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Martín will take photos, record videos, and generate content by asking 3 prepared questions to share on social media  [**assignee**] Martin Rivero [**due**] 26 septiembre 2024 [**status**] in progress
+- [**action**] Sergio will present a one-pager about the event he proposed, detailing the objectives, date and requirements [**assignee**] SergioBenaR [**due**] 31 octubre 2024 [**status**] in progress
+- [**action**] Martín will present a proposal for possible content for the "evolution stage" within Bitconf 2024, where he could give a talk  [**assignee**] Martin Rivero [**due**] 31 octubre 2024 [**status**] in progress
+- [**action**] Reproduce and amplify the work of Daniela and María in their proposal funded in Deep Funding Round 4, as well as propose translations into Spanish of the material they selected [**assignee**] guillermolucero [**due**] 4 octubre 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** content calendar, Rewards, events, strategy, Meeting Summaries
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
+
 
 
 ## Friday 27th September 2024
