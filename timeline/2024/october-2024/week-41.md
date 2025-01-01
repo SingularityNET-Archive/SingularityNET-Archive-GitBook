@@ -128,6 +128,7 @@ Tasks "to do":
 
 ## Tuesday 8th October 2024
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -180,6 +181,34 @@ The meeting praised Duke and African Guild for their recent successful "AI Ethic
 #### Keywords/tags:
 - **topics covered:** Ethics, chatbot, research,DAO, Knowledge Grapgh, Knowledge Graph, Interview, Data analysis, Human values, Inclusive, Demographic data, interviewing, survey, African guild, Bookclub
 - **emotions:** insightful, Welcoming, progressive, Collaborative
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], Martin Rivero, Daniela Alves, Duke, guillermolucero, SergioBenaR, André, BoazB
+- **Purpose:** @SNET_LatAm X-Space program and Q4 programs
+- **Working Docs:**
+  - [Q4 @X-Space Program and Schedule  @SNET_Latam LatAm Ambassadors Guild](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?tab=t.0#heading=h.j50gsn6ym8hd)
+
+#### Agenda item 1 - Marketing SubGroup - [carry over]
+
+#### Narrative:
+In Q4, the LatAm community will host several X spaces, as part of the objectives of its Marketing guild. These spaces will take place every two weeks, and will serve to communicate the progress of SingularityNET as part of the ASI, and the most important news of the ecosystem. Community members provided their ideas on the different areas in which AI could collaborate with humans. There was an extensive discussion of different topics that could be interesting to develop in the X space, each member expressed their points of view and there was also the participation of members of the SingularityNET community in Africa.
+
+
+#### Decision Items:
+- The first X space will take place in October and will be a round table format for an open conversation. The topic to be addressed is collaboration between AI and humans.
+[effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The space will be led by Guillermo and Inés, and the team of ambassadors will participate in the conversation, contributing to the central theme of collaboration between AI and human beings. [**assignee**] guillermolucero, Martin Rivero, sergiobenar, Andrea Dekovic, Daniela Alves, inesgav [**due**] 18 octubre 2024 [**status**] done
+- [**action**] The ambassador team will share the posts on X to achieve greater reach [**assignee**] Martin Rivero, Daniela Alves, Andrea Dekovic, inesgav, guillermolucero, SergioBenaR [**due**] 18 octubre 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Educational Content, content calendar, Rewards, X spaces, AI-human collaboration
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
 
 
 ## Wednesday 9th October 2024
