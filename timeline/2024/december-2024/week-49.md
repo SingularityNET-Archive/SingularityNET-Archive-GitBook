@@ -193,6 +193,7 @@ Overall, the meeting agreed that the points raised have been sufficiently answer
 - **emotions:** decisive, focused, thorough, calm
 ## Friday 6th December 2024
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -216,3 +217,51 @@ A quick update from Tuso on various tasks assigned within the week.
 - [**action**] TOWN HALL VIDEO EDIT [**assignee**] devon [**status**] todo
 - [**action**] TOWN HALL SUMMARY EDIT [**assignee**] hogantuso [**status**] todo
 - [**action**] REVIEW TEAM [**assignee**] killy, SubZero [**status**] todo
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** esewilliams [**facilitator**], Eric Davies [**documenter**], LordKizzy, AshleyDawn, SubZero, kateri, advanceameyaw, kareem, esewilliams, Gorga Siagian, kenichi, Mikasa, Merryman, Eric Davies
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Marketing Guild Meeting Agenda Document](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [singularityNET Marketing WG October.pptx](https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9)
+  - [ROLES AND RESPONSIBILITIES FOR MARKETING GUILD](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+
+#### Discussion Points:
+- Low Participation: Ese highlighted the low participation within the guild and suggested closing activities for the year. Kizzy recommended continuing work on the governance document to establish a clear direction for the upcoming year.
+
+- Governance Document: Ese presented a governance document outlining attendance, task completion, KPIs, payment guidelines, deliverables, rules, penalties, and governance goals. Kizzy shared a roles and responsibilities document for feedback.
+Ese proposed sharing the document within the guild for further input before the next meeting.
+Kenichi recommended merging the two governance documents, adding them to Notion, and instituting a regular audit process.
+
+- Core Members: Kizzy noted the reduction of core members from 12 to 10 due to role adjustments.
+Kareem proposed assessing current core members' contributions to optimize roles based on guild priorities.
+
+- Analytics Team Debate: Kizzy emphasized the importance of having an analytics team to replace redundant roles.
+Ese opposed the idea, suggesting that social media managers could handle analytics.
+The group discussed whether to maintain the analytics team, with Kizzy suggesting its removal if deemed unnecessary.
+
+- Community Initiative Review: The review team mentioned consolidating feedback into a single document.
+
+- Technical Tools: Kenichi clarified that Notion is not Tally's backend but was adapted as a database for the guild.
+He explained Tally's features, including CSV export and integrations with tools like Airtable and Zapier, suggesting improved visibility for tasks and contributions.
+
+- Outreach Strategies:
+Kenichi emphasized aligning the ambassador program's outreach strategies with the upcoming funding round, focusing on event guidelines, KPIs, and leveraging community diversity for greater impact.
+
+
+#### Action Items:
+- [**action**] Kizzy and Photogee to have a call on the key roles that are important and the ones that we need to push going forward. Also to get the list of members that have not been performing, or review the performance and get the list of members so that we could discuss their fate in the marketing guild.
+ [**assignee**] LordKizzy, photogee [**status**] todo
+- [**action**] Kenichi to share the link to the governance document created.
+ [**assignee**] kenichi [**status**] todo
+- [**action**] Kizzy to share the roles and responsibilities doc in the marketing guild Discord channel for inputs.
+ [**assignee**] LordKizzy [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance, Roles, task assignment, members, member performance, participation, low participation, Analytics team, outreach, technical tools, tooling, Notion, Tally, Airtable, Zapier, 
+- **emotions:** Thoughtful, Collaborative, analytical, informative
