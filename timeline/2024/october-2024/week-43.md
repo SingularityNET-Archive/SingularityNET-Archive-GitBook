@@ -93,6 +93,7 @@ A virtual biweekly event aimed at disseminating, educating, and training develop
 ## Wednesday 23rd October 2024
 
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -176,6 +177,36 @@ A virtual biweekly event aimed at disseminating, educating, and training develop
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, Onboarding WG, Collaboration Skills database, Legacy system, Town Hall updates, Entity connections, survey
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, Martin Rivero, SergioBenaR
+- **Purpose:** @SNET_LatAm Program for the X space #2: "Ecosystem Update and News"
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JAXQAJCE7894CMJKWH59Y9QT?utm_source=Share_Nav )
+- **Working Docs:**
+  - [#2 Update y noticias del ecosistema](https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?usp=drive_link )
+  - [Q4 X space program SNET_Latam](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link)
+
+#### Agenda item 1 - Communications SubGroup - [carry over]
+
+#### Narrative:
+Martín and Sergio will be in charge of the second X space of SNET_LatAm, entitled "ecosystem update and news", which will take place on Thursday, October 24, according to the program for Q4. They met to establish each point to be developed, the duration, the topics, the order and the assignment, which was presented during this meeting.
+
+
+#### Decision Items:
+- The second X-Space of the SNET_Latam community will take place on Thursday, October 24, with the theme of “Ecosystem Update and News”
+
+#### Action Items:
+- [**action**] The X-Space will begin with an opening and presentation by Guillermo. Then, Martín will comment on the first news item, Sergio will give the second, and so on [**assignee**] Martin Rivero, SergioBenaR, guillermolucero [**due**] 23 octubre 2024 [**status**] done
+- [**action**] The news will be developed in the following order: news from the SNET ecosystem, news from the SNET_Latam ecosystem, news from outside the ecosystem. [**assignee**] Martin Rivero, SergioBenaR [**due**] 23 octubre 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** content calendar, X spaces
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
+
 
 
 ## Thursday 24th October 2024
