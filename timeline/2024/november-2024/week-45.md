@@ -169,6 +169,7 @@ We also want to progress policy-writing - an AI ethics in recordkeeping policy, 
 ## Friday 8th November 2024
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -229,3 +230,60 @@ After which we had the task assignments for the month.
 #### Keywords/tags:
 - **topics covered:** Partnership, Budget, Task Assignment, Governance WorkGroup
 - **emotions:** productive, informative, Organised, Thoughtful, repetitive
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Eric Davies, Kareem, Cjfrankie, LordKizzy, AshleyDawn, Malik, Mikasa, SubZero, Gorga Siagian, Temiloluwa Hamzat, kateri
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Podcast Ideation](https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit)
+  - [Mascot  Top4](https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing)
+  - [Design work group proposal](https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [singularityNET Marketing WG October.pptx](https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9)
+  - [Meeting Summary 1st Nov, 2024](https://docs.google.com/document/d/14rR75nSfokWc4jyY5p5xvxrQzoqdMVpKdJs9mAa5FBU/edit?usp=sharing)
+
+#### Discussion Points:
+- Review and adoption of last meeting’s summary notes: The team reviewed and adopted the summary notes from the previous meeting.
+
+- Design Workgroup proposal:
+Kareem noted that typically, new workgroups are not established mid-quarter, suggesting that funding for the proposal could potentially come from the Marketing Guild.
+
+- Podcast initiative:
+An interest link for the podcast initiative was shared during the meeting to gather participants.
+
+- Breakout room structure:
+Ayo proposed organizing breakout rooms into “Ops” and “Graphics” groups, with “Comms” merging under “Ops” to streamline communication efforts.
+
+- Community Spotlight delay:
+Kizzy inquired about the delay with the community spotlight, seeking clarification on its status.
+
+- Content Calendar updates:
+Kateri pointed out that only 9 out of 18 workgroups had updated their contributions to the content calendar, affecting scheduling and coordination across teams.
+
+- Activity continuity:
+Kizzy emphasized the importance of maintaining ongoing activities, as lapses could affect future budget requests.
+
+- Mascot Campaign payment process:
+Ayo questioned whether every community initiative should include operational payments and recommended that all payments occur at the end of each month to avoid unexpected expenses. He also suggested that members log extra hours in Notion if they exceed standard work hours.
+
+- Increased work rate encouraged:
+Kareem encouraged everyone to enhance their productivity to meet project deadlines and expectations.
+
+#### Decision Items:
+- It was decided that the Operations (Ops) team will establish a breakout room with Graphics starting this quarter, in preparation for streamlined collaboration and alignment for the next quarter.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Ops Team to set up breakout rooms with the Graphics team for enhanced collaboration.
+
+ [**assignee**] ops, Graphics Team [**status**] todo
+- [**action**] Ops Team to schedule a meeting for either Saturday or Sunday to discuss upcoming tasks and initiatives. [**assignee**] ops, Graphics Team [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Rewards, productivity, work rate, continuity, mascot, content calendar, podcast, community spotlight, delays, design workgroup
+- **emotions:** Friendly, Poor Attendance, quick, progressive
