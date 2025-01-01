@@ -60,6 +60,7 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 ## Friday 22nd November 2024
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -193,3 +194,104 @@ CJFrankie is to work with Ese on the zealot campaign, and hazmat to work with ke
 #### Keywords/tags:
 - **topics covered:** Zealy, Collaboration, Onboarding, TH Update, mascot, Q1 2025 budget, budget constraints, Figma, tooling, podcast, content approval, branding, Notion, GitHub, Zealy, collaboration, Writers WorkGroup, video WG
 - **emotions:** Collaborative, Thoughtful, productive, Deliberative, Brainstorm
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], advanceameyaw, effiom, tevo
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764607231577569&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG Proposal Q4 2024](https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/)
+  - [Knowledge Base WG - Introduction to Knowledge Base WG](https://www.youtube.com/watch?v=jlHcTBzeJ0Y)
+  - [KBWG Schedule on Miro](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+  - [Knowledge Base WG Miro Board and Activities](https://www.youtube.com/watch?v=ml_kDw09omQ)
+  - [Managing Meeting Summaries Guide](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/)
+  - [DRAFT - Knowledge Base WG Q4 Report](https://docs.google.com/document/d/1VqjcD9E_cEtA2INhVijfZO4H2m9R0lNna3u_La-cRIU/edit?tab=t.0#heading=h.mlz7hrgm8sds)
+
+#### Agenda item 1 - Workgroup Management - [resolved]
+
+#### Discussion Points:
+- Draft Proposal for Q1 2025
+- Meeting Summary for 22.11.2024
+- Description of categories and subcategories
+
+#### Decision Items:
+- We agreed that the Q1 2025 proposal needs to be ready for submission on 25.11.2024 with the Q4 Report and budget
+  - [**rationale**] To ensure we meet the deadline set
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- We should structure the GitBook Base under Site, not Spaces (spaces cannot be public)
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Effiom to draft meeting summary. Tevo will review and publish in Discord [**assignee**] Effiom, Tevo [**status**] done
+- [**action**] Continue Drafting Categories + subcategories [**status**] in progress
+- [**action**] Effiom will draft Q1 2025 proposal. Tevo will review. [**assignee**] Tevo, Effiom [**due**] 25 November 2024 [**status**] done
+- [**action**] Move/Copy the draft of Q4 Report to SingularityNET Folder [**assignee**] Effiom [**due**] 25 November 2024 [**status**] done
+
+#### Agenda item 2 - Retrospective and Ideation for next Quarter - [resolved]
+
+#### Discussion Points:
+- What went well? 
+
+
+We finally created GitBook and tried and understood the flow. Excited to see the GitBook outcomes
+
+We used GPT and it worked well - Someone liked using AI to organize assets and it saved a lot of time
+
+Project management went well - Different people in workgroup created Dework Tasks this quarter
+
+Despite moving a lot of work async and reducing our operational alignment, we made progress on proposal
+- What didn't go well?
+
+
+Meeting participation has dropped - Unclear if it was because of time change? Because we seemed to have more participants on Wednesdays
+
+Assigning tasks async didn't go well at all
+
+Workgroup contributions were less decentralised
+- What should we do in Quarter 1 2025?
+
+
+Work towards increasing participation
+
+Planning with the 4k AGIX cap
+
+#### Decision Items:
+- We agreed to create a new schedule to check sentiment quarterly as Process Guild activity
+  - [**rationale**] Change in schedule was noted as what didn't go well, as it was unclear if it affected participation
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Next quarter we will create a new schedule to check sentiment [**status**] in progress
+- [**action**] Create a video of full process flow once we got it all set up, it's quite detailed and interesting [**status**] todo
+- [**action**] Propose in Q1 proposal to create a script to generate GitHub markdown files from Miro Board Async Resource csv Export [**assignee**] Effiom [**due**] 25 November 2024 [**status**] done
+
+#### Agenda item 3 - Plans for next Session - [carry over]
+
+#### Discussion Points:
+- What will we do in the next session?
+- The quarter ends with async uploads, who will do them?
+- Deciding on items to be included into Gitbook
+
+#### Decision Items:
+- We agreed to change the next meeting date to 20th Dec. This would be the last meeting for Q4.
+  - [**rationale**] Tevo is going to be unavailable
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided on the items that will be included into GitBook to cover all subgroups
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Update Google Calendar and Zoom to reflect agreed next meeting date [**assignee**] Tevo [**due**] 16 December 2024 [**status**] done
+- [**action**] Have a workgroup to review and edit categories for GitBook [**status**] todo
+- [**action**] We will decide on uploading date in the next meeting [**status**] todo
+- [**action**] Gitbook, Miro Board, Q4 Report, Retrospective, GitHub, Q1 Proposal [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** GitBook, Miro Board, Q4 2024 report, Retrospective, GitHub, Q1 2025 proposal
+- **emotions:** Collaborative, Discursive
