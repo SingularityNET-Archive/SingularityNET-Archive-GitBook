@@ -8,6 +8,7 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -147,3 +148,72 @@ Ayo proposed that Marketing Guild members should actively participate in Governa
 #### Keywords/tags:
 - **topics covered:** podcasts, useful links, Community initiative campaign, podcasts, community engagement, Zealot, mascot, Translation WG, Google calendar, Olympus, collaboration, Governance WG, low participation, content calendar, Design workgroup proposal, content scheduling, timeliness
 - **emotions:** Friendly, interactive, long, Well-attended, informative
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Advanceameyaw, Effiom [**documenter**], advanceameyaw, AshleyDawn, effiom, LordKizzy, tevo, TheFreysDefi
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link]( https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764605060449175&cot=14)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG Proposal Q4 2024](https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/)
+  - [Knowledge Base WG - Introduction to Knowledge Base WG](https://www.youtube.com/watch?v=jlHcTBzeJ0Y)
+  - [KBWG Schedule on Miro](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+  - [Knowledge Base WG Miro Board and Activities](https://www.youtube.com/watch?v=ml_kDw09omQ)
+  - [Managing Meeting Summaries Guide](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/)
+
+#### Agenda item 1 - Introduction and Onboarding to Knowledge Base WG - [carry over]
+
+#### Discussion Points:
+- Overview of the KBWG onboarding miro board
+- Historic walkthrough of WG to new member
+- Difference between Knowledge Base WG and Archives WG
+- Explaining our resource planning process
+
+#### Action Items:
+- [**action**] The new member should watch video and read the WG’s proposal [**status**] todo
+
+#### Agenda item 2 - Workgroup Project Management - [carry over]
+
+#### Discussion Points:
+- Positioning the WG in a way that allows people contribute to avoid waste of rewards
+- Reviewing the WG Dework Board for October 2024
+- Do we have funds allocated for Q4 Reporting?
+- Meeting Summary for the 01.11.2024 session
+- Looking ahead to Q1 2025 
+- Our approach to collecting Items 
+
+#### Decision Items:
+- Reward distribution for October participation will be delayed by a week and will be distributed after October rewards have been paid
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that funds for drafting Q4 2024 Report will be taken from Process Guild as there was no allocation for it in Knowledge Base's Q4 budget
+  - [**effect**] affectsOnlyThisWorkgroup
+- Implement a process to use our Custom GPT for organizing assets
+
+#### Action Items:
+- [**action**] Advance will draft the meeting summary. Effiom will review and publish it in Discord [**assignee**] Advanceameyaw, Effiom [**status**] done
+- [**action**] Draft Quarterly Report for Q4 2024 [**assignee**] Effiom, LordKizzy [**status**] todo
+- [**action**] Update WG Zoom schedule [**assignee**] Tevo [**status**] todo
+- [**action**] Review reward distribution for Knowledge Base WG [**status**] todo
+
+#### Agenda item 3 - Create GitHub to automatically update GitBook - [carry over]
+
+#### Discussion Points:
+- Creating GitBook and GitHub accounts
+- Synchronization of the accounts created
+- GitHub, we will use Gitbook to enter data
+- Initializing our GitHub repo with a commit on categories
+
+#### Decision Items:
+- We agreed to get a license Gitbook account either plus or pro eventually
+- We agreed to use GitBook to enter data
+- Each Knowledge Base Category would be provided with descriptions
+
+#### Action Items:
+- [**action**] Create access to GitBook and buy licenses [**assignee**] Tevo [**status**] todo
+- [**action**] Description of assigned KBWG categories [**assignee**] Effiom, Advanceameyaw [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Gitbook, Miro Board, Github, Project Management, Dework, Category description, Q4 2024 Report, Archives WG, rewards
+- **emotions:** Interactive, detailed, collaborative, educative, new people present
