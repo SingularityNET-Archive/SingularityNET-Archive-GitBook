@@ -59,6 +59,7 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 
 ## Friday 22nd November 2024
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -120,3 +121,75 @@ And for long videos, only 11 videos per quarter. Also we ruled out onboarding ne
 #### Keywords/tags:
 - **topics covered:** Q1 2025 budget, Q4 2024 Quarterly Report, Collaboration, Budget fitting, Budget cuts, budget cap, budget tier system, Zealy, Mastodon, spin-offs, social media, Marketing Guild, Writers WorkGroup, 
 - **emotions:** Friendly, Collaborative, Thoughtful, productive, slow, discursive
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], Eric Davies [**documenter**], Eric Davies, LordKizzy, AshleyDawn, SubZero, kateri, advanceameyaw, kareem, Hamzat, photogee, Mikasa, Malik, Gorga Siagian
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Mascot  Top4](https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing)
+  - [Design work group proposal](https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [singularityNET Marketing WG October.pptx](https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9)
+  - [Meeting Summary - Marketing Guild - 15 November 2024](https://docs.google.com/document/d/1stOIVcML_3x5i6hhqvch4Pf6VjGw61Oe-lu4k2HJzDI/edit?usp=sharing)
+
+#### Discussion Points:
+- Review Committee: The review team was unable to attend the community initiative meeting due to the incorrect link being shared.
+
+- Mascot design: Voting has been completed, and the final mascot design and name will be announced. However, the design needs adjustments to align with brand guidelines and must include the SingularityNET logo.
+
+- Content Calendar: SubZero presented updates from all workgroups, with only the Translator Workgroup pending recorded email input from their representative.
+
+- Zealy initiative: The Zealy initiative has officially been launched.
+
+- Q1 2025 Budget breakdown: Kizzy presented the budget breakdown to gather input from members.
+
+- Community Initiative funding: Kizzy suggested pushing the community initiative to the sNET Foundation due to budget constraints.
+
+- Platform replacement for budget constraints: Kizzy proposed replacing Notion with GitHub to reduce costs.
+
+- Social Media branding: Kareem noted that two social media posts did not adhere to brand guidelines and also inquired if the mascot activity had been paused.
+
+- Content approval process: Kizzy clarified that all content should go through Mikasa, then the Graphics team, before being posted.
+
+- Mascot activity payment discussion:  Kizzy mentioned that after the mascot activity concludes, there will be a discussion to finalize payments for extra activities related to the campaign.
+
+#### Decision Items:
+- Removal of Core Team Follow-Up call allocation: It was agreed to eliminate Core Team follow-up call allocation from the budget due to financial constraints.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Collaboration on Zealy Campaign: We agreed that Writers, Marketing, and Video Workgroups will collaborate on the Zealy campaign to share the budget evenly and also increase engagement on social media posts.
+
+  - [**effect**] mayAffectOtherPeople
+- Removal of Tooling Call allocation: The decision was made to remove tooling fees to optimize the budget.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Exclusion of Figma from Budget: Figma was removed from the budget allocation to address budgetary restrictions.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Communication and Collaboration:
+CJFrankie is to work with Ese on the zealot campaign, and hazmat to work with kenichi on the podcast initiative
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kareem to announce the winner of the mascot competition today.
+ [**assignee**] kareem [**status**] todo
+- [**action**] Kateri to contact the Translator Workgroup regarding the content calendar and obtain the email of their representative.
+ [**assignee**] Kateri [**status**] todo
+- [**action**] Kizzy to reach out to Peter to create a channel that grants edit access to all relevant emails on the content calendar.
+ [**assignee**] LordKizzy [**status**] todo
+- [**action**] Photogee to share the compiled useful links with Kizzy.
+ [**assignee**] photogee [**status**] todo
+- [**action**] Photogee to coordinate with Ese and Ayo for the TownHall updates.
+ [**assignee**] photogee [**status**] todo
+- [**action**] Hamzat to manage the podcast initiative in collaboration with Kenichi.
+ [**assignee**] hamzat [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Zealy, Collaboration, Onboarding, TH Update, mascot, Q1 2025 budget, budget constraints, Figma, tooling, podcast, content approval, branding, Notion, GitHub, Zealy, collaboration, Writers WorkGroup, video WG
+- **emotions:** Collaborative, Thoughtful, productive, Deliberative, Brainstorm
