@@ -158,6 +158,7 @@ Meeting was cancelled
 ## Friday 29th November 2024
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -234,3 +235,45 @@ Rojo to reach out to one of the affected parties to the recent dispute to try an
 #### Keywords/tags:
 - **topics covered:** Town Hall videos, timeliness, video size, Zaps, social media automation, video quality, Discord dispute, conflict resolution, 
 - **emotions:** Casual, Thoughtful , repetitive, Collaborative
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], LordKizzy [**documenter**], LordKizzy, AshleyDawn, SubZero, kateri, advanceameyaw, kareem, photogee, esewilliams, Aguboss, CJFrankie
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Community Engagement Initiatives  - Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform)
+  - [Community Creatives Initiaitives campaign](https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0)
+  - [Mascot  Top4](https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing)
+  - [Design work group proposal](https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [singularityNET Marketing WG October.pptx](https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9)
+  - [Marketing guild meeting summary 22 Nov](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+
+#### Discussion Points:
+- Marketing Guild Budget:
+Marketing Guild's budget has been finalized and submitted, moving to the consent round for approval.
+
+- Graphics Initiative:
+Kareem reported that the Graphics Initiative has been approved by the program and is currently underway.
+
+- Restructuring the Marketing Guild:
+Various suggestions were made regarding the restructuring of the guild to improve efficiency and functionality.
+
+- Podcast Initiative:
+Lordkizzy asked members if the proposed role changes for the initiative should be implemented in the current quarter or deferred to Q1 2025.
+
+- Zealy Campaign:
+CJ Frankie requested clarity on the roles, requirements, and deliverables for the campaign.
+
+- Meeting Facilitation:
+Ayo proposed having a task force member assist him for the remainder of Q1. However, Lordkizzy raised concerns that this might disrupt the distribution of payments.
+
+#### Action Items:
+- [**action**] Lordkizzy and photogee to review the guild and also present an initial draft for new roles and responsibilities  [**assignee**] LordKizzy, photogee [**status**] todo
+- [**action**] Ese and Kareem are to prepare a Governance document [**assignee**] esewilliams, kareem [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget, Q1 2025 budget, consent process, Governance, Roles, Zealy, podcast, Graphics initiative, Zealy, meeting facilitation, restructuring
+- **emotions:** Thoughtful, warm, Friendly, productive, constructive criticism
