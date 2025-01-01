@@ -86,6 +86,7 @@ Martín and Sergio were in charge of the second X space of SNET_LatAm entitled "
 ## Wednesday 6th November 2024
 
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Biweekly
@@ -197,6 +198,51 @@ We also want to progress policy-writing - an AI ethics in recordkeeping policy, 
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, Collaboration Skills Database, Web3 dashboard, reputation, reputation system, integration, 
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, SergioBenaR, Daniela Alves, Martin Rivero
+- **Purpose:** @SNET_Latam Retrospective October 2024 - Deep Funding Town Hall Coordination / SNET_Latam Ambassadors Guild 
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01JC1SAQF03E391H2M150JS1ZY)
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JC1SAQF03E391H2M150JS1ZY)
+- **Working Docs:**
+  - [Q4 X space program SNET_Latam](https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link)
+  - [XSpace #3 > 14/11/2024 Biotecnología. Transhumanismo / Rejuve-AI](https://docs.google.com/document/d/1AY_IgD0nB9gFVrQHiQCqvOWxvMA759Db-_EXV5LCAgw/edit?tab=t.0)
+  - [Q4 OPERACIONES @SNET_Latam Ambassadors November @Sergio _ 111124 ](https://docs.google.com/spreadsheets/d/1jEFRpFAuKa6zNDeHupZrcsahicG-7Hc2LWxk4m2aXHI/edit?usp=sharing)
+  - [OPERACIONES @SNET_Latam Ambassadors November @Martin _ 111124 ](https://docs.google.com/spreadsheets/d/1Tji4Oc46OrjzcjAMUM3iNhf-IWzWEBVni6Z0I2yVZq4/edit?usp=sharing)
+  - [Q4 OPERACIONES @SNET_Latam Ambassadors November @Daniela _ 111124 ](https://docs.google.com/spreadsheets/d/1WSsTfWlIIL_AUPibTz0tHSzxTlnIdHvS7CtBzqgdiY0/edit?usp=sharing)
+
+#### Agenda item 1 - Operations SubGroup - [carry over]
+
+#### Narrative:
+Recent challenges, such as Solana’s Copa America, were discussed and the team’s efforts were acknowledged. Guillermo emphasised the value of diversity of capabilities within the group, while Daniela Alves proposed modifications to the organisation of tasks to optimise team performance. The importance of improving communication and organisation was underlined, as was the need for all members to actively contribute. Sergio highlighted the need to establish a clearer structure for teamwork, in order to facilitate the achievement of long-term objectives. Martin Rivero reflected on his experience in the team, pointing out the need for open communication and clear organisation in order to contribute effectively. A system for recording individual contributions was proposed and outstanding issues from the previous quarter were addressed, emphasising the importance of continued commitment by all.
+
+
+#### Decision Items:
+- It was decided to implement a contribution tracking sheet for each member of the team. This sheet must be filled out every 15 days to stay up to date with all tasks and payments.
+
+#### Action Items:
+- [**action**] The follow-up forms must be completed by November 13, including the tasks of November 14, as is the case of the third X Space [**assignee**] SergioBenaR, guillermolucero, Martin Rivero, Daniela Alves [**due**] 13 noviembre 2024 [**status**] in progress
+
+#### Agenda item 2 - Communications SubGroup - [carry over]
+
+#### Narrative:
+Round 5 of DeepFunding is approaching. The LatAm Town Hall will be held on Thursday, November 7th and will be presented by Martín and Sergio. The callout for the hackathon organized by DeepFunding will be included, and the RFP related to OpenCog Hyperon that is currently in effect will also be mentioned.
+
+
+#### Decision Items:
+- Sergio and Martín will be in charge of Deep Funding's Town Hall #24 on Thursday, November 7th.
+
+#### Action Items:
+- [**action**] Martín and Sergio will coordinate the development of the Town Hall to cover all the points on the agenda found in the presentation provided by Guillermo. [**assignee**] SergioBenaR, Martin Rivero [**due**] 7 noviembre 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** content calendar, X spaces, DeepFunding, hackathon, RFPs, OpenCog Hyperon, LatAm Deepfunding Town Hall, contribution, contribution tracking, Solana, Copa America, diversity, communication, organisation
+- **emotions:** Collaborative, Strategic, Task-focused, teamwork
+
 
 
 ## Friday 8th November 2024
