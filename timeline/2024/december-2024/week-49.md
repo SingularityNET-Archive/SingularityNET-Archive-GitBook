@@ -7,6 +7,7 @@ description: Mon 2nd Dec - Sun 8th Dec 2024
 ## Wednesday 4th December 2024
 
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -139,6 +140,47 @@ How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D 
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, data privacy, privacy, Marketing Guild, Education Guild, AI Sandbox/Think Tank, collaboration
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Gorga Siagian, esewilliams, AshleyDawn, Franklynstein, Kateri, kenichi, kishman, LordKizzy, Zalfred, hogantuso
+- **Purpose:** Regular weekly meeting of Education guild, covering: Certification Program Discussions; Website / Wiki Integration Updates; AI For Beginners Updates
+- **Working Docs:**
+  - [Ai for Beginners Team ](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Q1 2025 budget consent process
+- Certification Program conclusion 
+- AI For Beginners updates
+- Presentation Series start 
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- After the introduction, the meeting began with the the topic of the Q1 2025 budget consent process. It was notified that Education Guild passed the consent round with no objections, which was a taken as a good sign for the guild's reporting .
+- Slate mentioned that the certification program has finally ended and the prize winners will be rewarded in the next TreasuryGuild call 
+- Then we had updates from AI For Beginners. There was a video submission on which a remark was given that the video was completely comprised of subtitles and there is mostly stocks attached to it. Ese said that she has already notified the team about the updates, and they will be working on it 
+- Then Gorga and Franklyn showcased the education website design; the initial design was finalised 
+- Kenichi showcased the Presentation Series roadmap and everybody liked the solid plan, and that he will be assessing people based on their interests in accordance with the research topics 
+- Slate notified that Education Guild will also be going on holidays later in December, which will be announced in the next meeting. 
+
+#### Decision Items:
+- Improve the Ai For Beginners video 
+  - [**rationale**] most people agreed 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Holidays will be announced in the next meeting 
+  - [**rationale**] everyone agreed 
+  - [**opposing**] nil 
+
+#### Action Items:
+- [**action**] Ese to finalize the last announcement on socials in regards to the certification program winners  [**assignee**] esewilliams [**due**] 11 December 2024 [**status**] done
+- [**action**] Gorga and Franklyn to keep working on the site design and finalize it  [**assignee**] Gorga Siagian, Franklynstein [**due**] 11 December 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, core contributors, certification, education website, AI For Beginners, video, Presentation Series, Q1 2025 budget, consent process, certification program, Rewards, winners
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 5th December 2024
