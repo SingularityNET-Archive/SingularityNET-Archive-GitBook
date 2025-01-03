@@ -166,6 +166,7 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive
 ## Thursday 31st October 2024
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Biweekly
@@ -226,3 +227,52 @@ We agreed that a dedicated meeting between Onboarding and R&D would be useful.
 #### Keywords/tags:
 - **topics covered:** skills matrix, research, meeting dates, collaboration skills database, skills database, skills audit, R&D guild, Marketing Guild, content calendar, hard and soft skills, Town Hall update, Onboarding focus group, onboarding journeys, barriers to onboarding, barriers, skillshare sessions, monitoring and evaluation, decentralized governance, Decentralization, useful documentation, Documentation
 - **emotions:** Collaborative, Casual, speedy , contructive criticism
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], Effiom, Advanceameyaw, Clement Umoh, Kateri, Malik., CollyPride, AshleyDawn, Gorga Siagian, Onize, SubZero, LordKizzy, PeterE, martinsoki, guillermolucero, osmium
+- **Purpose:**  Introduction to the first Sandbox session.
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [Agenda items: AI SANDBOX/THINK-TANK](https://docs.google.com/document/d/1pp9oEkb3hWvVHxkLj8MJ3ySKWv05HCbJIUGaXFXBbfw/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation templates](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [First Sandbox presentation](https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Discussion Points: AIs impact in Education](https://docs.google.com/document/d/18mYSY9PgU5aYiRRKMOLzaflD1r9vJob6SUvO2o4AhJI/edit?tab=t.0)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: Lord Kizzy welcomed everyone and addressed the confusion between him and Peter regarding the meeting link.
+- Osmium gave an introduction to what AI TOOLSET EXHIBITION is, and reflected upon the purpose behind it including this segment in the first half of AI SANDBOX sessions and walked through the key takeaways.
+- Showcasing the first presentation of the exhibition made by osmium on the  HeyGen.ai: he shared the link to the presentation https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+where he highlighted 
+ - a) Overview of the toolset (Detailed Description and Use Cases) 
+ - b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart)
+ - c) Demonstration (live demo or tutorial/ video walkthrough)
+ - d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)
+
+- R&D Guild MeTTa Coder Lab / @SNET_Ambassadors Program Survey: Lordkizzy shared the survey form and the call and asked for more participation from members
+- AIS [artificial immune system]: Osmium gave a brief introduction to the topic and we decided to have further discussions on it in the next session
+- Details of next Think-tank session: Lordkizzy shared a document https://docs.google.com/document/d/18mYSY9PgU5aYiRRKMOLzaflD1r9vJob6SUvO2o4AhJI/edit?tab=t.0 for the theoretical debate in the next think-tank session, to give more context to the contestants
+
+For the next Sandbox session: Lots of members expressed interest in hosting our next sessions, including Gorga, Malik, Kateri and Advanceameyaw 
+
+#### Decision Items:
+- we decided to further the discussion on AIS [artificial immune system] to the next session
+  - [**rationale**] this was decided due to time constraints
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided that Malik, Gorga, Kateri and Advance are all going to host our coming sandbox sessions on AI tool exhibition
+  - [**rationale**] They expressed interest in doing the task
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Members who want to document these meetings should indicate their interest in the group's Discord channel  [**assignee**] All Members [**due**] 7 November 2024 [**status**] todo
+- [**action**] Lord kizzy to create a repo for the next call where members can submit codes and documentation for the AI tools. [**assignee**] LordKizzy [**due**] 7 November 2024 [**status**] todo
+- [**action**] Malik, Gorga, Kateri and Advance to host the next AI sandbox session [**assignee**] Malik, Gorga Siagian, Kateri, advanceameyaw [**due**] 7 November 2024 [**status**] todo
+
+#### To carry over for next meeting:
+- AIS [artificial immune system]
+
+#### Keywords/tags:
+- **topics covered:** Video Demo, AI Tool Exhibition, Hygen.ai, AIS [artificial immune system], MeTTa Coder Lab
+- **emotions:** Welcoming, interactive, Thoughtful , entertaining
