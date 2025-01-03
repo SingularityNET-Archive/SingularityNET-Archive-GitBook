@@ -4,6 +4,59 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 
 # Week 47
 
+## Monday 18th November 2024
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Tevo, Sucre n Spice, SubZero [**documenter**], Effiom, LadyTempestt, Tevo, Onize, SubZero, Malik, Valola, AshleyDawn, Gorga Siagian, Sucre n Spice, Kateri
+- **Purpose:**  We are creating a PBL course on Andamio about GitHub features and use cases to manage 
+
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764606500941063&cot=10)
+- **Other media:** [Link]( )
+- **Working Docs:**
+  - [GitHub PBL Structure](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+  - [WG Stuffs form](https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform)
+
+#### Agenda item 1 - Workgroup Management - [carry over]
+
+#### Discussion Points:
+- What do we do async until the next meeting?
+- Draft Quarterly Report for Q4 2024
+- Prepare Q1 2025 Budget Proposal
+- Draft meeting summary
+- How do we review lessons?
+- Ideate on new lessons
+
+#### Action Items:
+- [**action**] Draft meeting summary [**assignee**] SubZero [**due**] 22 November 2024 [**status**] in progress
+- [**action**] Review Meeting Summary [**assignee**] Sucre n Spice [**due**] 24 November 2024 [**status**] in progress
+- [**action**] Draft Q1 2025 proposal [**assignee**] LadyTempestt [**due**] 24 November 2024 [**status**] done
+- [**action**] Review Q1 2025 Proposal [**assignee**] Gorga Siagian [**due**] 24 November 2024 [**status**] done
+- [**action**] Draft Q4 2024 Report [**assignee**] Malik [**due**] 24 November 2024 [**status**] done
+- [**action**] Review Q4 Report [**assignee**] LadyTempestt [**due**] 24 November 2024 [**status**] done
+
+#### Agenda item 2 - Lessons review process - [carry over]
+
+#### Discussion Points:
+- Defined the lessons. Currently there are no strict guidelines for reviewing lessons; we simply use commenting to give feedback. We will continue using Google Docs to review
+- Should we stop drafting in Google Docs?
+- fewer operations to copy paste work
+- looks like we mostly comment in Discord
+- Allocate participation rewards
+- Generate quiz examples for all the lessons
+- Multiple questions per lesson with 4 multiple-choice selection options
+- Every lesson owner to create minimum 1 question with options
+
+#### Decision Items:
+- We will do the meeting participation rewards distribution next month
+
+#### Keywords/tags:
+- **topics covered:** Andamio, WG Management, GitHub PBL Structure, drafting questions, Google Docs, Discord, Q4 2024 report, Q1 2025 budget
+- **emotions:** Collaborative, Thoughtful , Deliberative, progressive, decisive
+
+
 ## Wednesday 20th November 2024
 
 ### Research and Development Guild
