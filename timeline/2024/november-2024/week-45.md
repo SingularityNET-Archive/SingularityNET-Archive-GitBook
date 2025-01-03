@@ -156,6 +156,7 @@ Martín and Sergio were in charge of the second X space of SNET_LatAm entitled "
 
 
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Biweekly
@@ -312,6 +313,68 @@ Round 5 of DeepFunding is approaching. The LatAm Town Hall will be held on Thurs
 - **topics covered:** content calendar, X spaces, DeepFunding, hackathon, RFPs, OpenCog Hyperon, LatAm Deepfunding Town Hall, contribution, contribution tracking, Solana, Copa America, diversity, communication, organisation
 - **emotions:** Collaborative, Strategic, Task-focused, teamwork
 
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AJ, AshleyDawn, Clement Umoh, esewilliams, Franklynstein, osmium, SubZero, Zalfred, Gorga Siagian, Kateri, Malik, merryman
+- **Purpose:** Regular weekly meeting of Education guild, covering project-based updates
+- **Working Docs:**
+  - [Ai for Beginners Team ](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+-   Ai For Beginners 
+-   CCCP (Core Contributors Certification Program)
+
+-  Education Guild Website Wiki / CCCP Integration 
+
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- Then after the introduction, we started having updates from different projects. 
+Following are their discussions:
+- Ai For Beginners 
+
+Points to Note: 3 of the scripts are ready, sent to osmium for review and waiting for his approval before presentation to the group 
+
+- CCCP (Certification Program)
+
+Points to Note: 
+
+Slate highlighted that the following people are top of the leaderboard:
+1 - Sophia 
+2 - Malik 
+3 - Colleen
+
+Then Ese shared that she has made announcements in TownHall about the certification program. She also said that announcements will be going out weekly till the end of the course, and weekly leaderboards will be shared every Friday.
+
+Ese is also planning to give a presentation in the upcoming Town Hall for the Certification Program.
+- Education Guild Website Wiki / CCCP Integration 
+
+Points to Note: 
+
+- Franklyn presented the design for the wiki website 
+- There were a couple of suggestions regarding the design for the wiki website which included the following: 
+
+Suggestion : Update the data 
+Suggestion : Put education guild main stuff 
+Suggestion : Gather the main data for sNET in a single page distributing them in products and technology 
+Update the founding members 
+
+
+- Osmium will be flying to the forthcoming event in Bangkok and will be networking with others there 
+
+#### Action Items:
+- [**action**] Slate to update the Ai for Beginners arrangement document  [**assignee**] Slate [**due**] 6 November 2024 [**status**] in progress
+- [**action**] Osmium to work on the Webinar Series Document  [**assignee**] osmium [**due**] 6 November 2024 [**status**] in progress
+- [**action**] Franklyn and Gorga to update the Website pages  [**assignee**] Franklynstein, Gorga Siagian [**due**] 13 November 2024 [**status**] in progress
+- [**action**] Ese to make announcements regularly for CCCP till the deadline  [**assignee**] esewilliams [**due**] 10 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** announcement, project updates, Wiki, education website, Town Hall, publicity, CCCP, core contributors, certification, AI for Beginners
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Friday 8th November 2024
