@@ -255,6 +255,7 @@ On the topic of subjective; Vani pointed out that just because something is subj
 
 ## Wednesday 25th September 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -307,6 +308,47 @@ Collective decision Guild Members on the Entity connections
 #### Keywords/tags:
 - **topics covered:** Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, Marketing initiative, retrospective
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], osmium, esewilliams, Billy, Kenichi, SubZero, TheFreysDeFi, Gorga Siagian, Kateri, Malik, photogee
+- **Purpose:** Regular weekly meeting of Education Guild, covering: Minimal Budget Request Submitted - Classrooms for 17 Spin off Projects Completed - Automation Setup Announcement - AI For Beginners and Video WG Members - AI for Beginners Demo Startup Video 
+- **Working Docs:**
+  - [Budget Request for Q4(Education Guild)](https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing)
+  - [Q3 - Education Guild - Quarterly Report ](https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- Minimal Q4 2024 budget request submitted 
+- Classrooms for 17 spin-off projects completed 
+- Automation setup announcement 
+- AI For Beginners and Video WG members 
+- AI for Beginners demo startup video 
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- Slate let everybody know that Education Guild's budget request for Q4 2024 has been submitted for consent and that Education Guild will be requesting only a minimal budget this Quarter, as discussed previously, and working mainly from its reserves
+- Slate notified everybody that the Google Classrooms for the 17 spin-off projects have been created and are ready to be put into action 
+- Slate notified everybody that we are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform, so we can start the testing for the automation 
+- We discussed that Video WG members could be off assistance to Education Guild when we will be putting the "AI for Beginners" project to action. Slate reminded Ese to reach out to Video WG regarding and to discuss this potential assistance 
+- At the end Osmium showcased his demo video for the AI for Beginners project, which will set the baseline for the quality for the rest of the videos 
+
+#### Decision Items:
+- Use Video WG members assistance for creating videos for the AI For Beginners project 
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Start the integration for the quizzes  [**assignee**] Slate [**due**] 2 October 2024 [**status**] in progress
+- [**action**] Start the automation setup  [**assignee**] Slate [**due**] 2 October 2024 [**status**] in progress
+- [**action**] Reach out to video wg  [**assignee**] esewilliams [**due**] 25 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, ideation, video WG, Q4 2024 budget, Q3 2024 report, Google Classroom, spinoffs, ai for beginners
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 26th September 2024
