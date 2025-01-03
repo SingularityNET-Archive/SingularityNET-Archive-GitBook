@@ -160,6 +160,7 @@ February: Looking at other decisionmaking processes besides consent - we said th
 
 ## Wednesday 11th December 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -211,6 +212,56 @@ How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D 
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Education Guilkd, collaboration, data privacy
 - **emotions:** Casual, speedy, Welcoming, Friendly, Collaborative
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Gorga Siagian, esewilliams, AshleyDawn, Franklynstein, Kateri, Zalfred, hogantuso, frosh, AndrewBen
+- **Purpose:** Regular weekly meeting of Education Guild, covering: Website / Wiki Integration Updates; AI For Beginners Discussion
+- **Working Docs:**
+  - [Ai for Beginners Team ](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Website / Wiki Integration Updates
+- AI For Beginners Discussion
+- Holidays
+
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- After the introduction, the meeting started with some random topics of discussion 
+- Then the meeting set off with updates from the website and wiki integration. Gorga and Franklyn showcased the website design, on which everyone's opinion was taken 
+- Slate mentioned that the nav bar should have certification dashboard along with the integration of the live sheet to it, with the bar hovering on each screen 
+- The logo was mentioned to change as it didn't entailed anything, so franklyn is going to rework the logo for the website 
+- Then the design for the website was finalized, and will soon be put to production by Franklyn. 
+- Then we discussed the Ai For Beginners project, on which there were multiple questions from Zalfred and Tuso which were cleared up by Ese. 
+- Zalfred had a question regarding the review team for the certification program; Slate said that the next production for resources for the program will be starting from next quarter. 
+- At the end there was a vote to decide whether Education Guild should go on holidays or not, on which majority agreed on going to holidays. The next meeting for Education Guild will be on 8th January.
+
+#### Decision Items:
+- Website Design Finalized 
+  - [**rationale**] most people agreed 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Education Guild Logo should be reiterated 
+  - [**rationale**] everyone agreed 
+  - [**opposing**] nil
+  - [**effect**] affectsOnlyThisWorkgroup 
+- Holidays till 8th of January 
+  - [**rationale**] 
+Most agreed 
+  - [**opposing**] none
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Franklyn to work on Logo  [**assignee**] Franklynstein [**due**] 18 December 2024 [**status**] in progress
+- [**action**] Franklyn to start the development process for the website  [**assignee**] Franklynstein [**due**] 18 December 2024 [**status**] in progress
+- [**action**] Ese to post the submission for votes in the guild Discord channel  [**assignee**] esewilliams [**due**] 18 December 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, certification, certification program, Wiki, Education website, website design, logo, Ai For Beginners, Task Assignment, review, integration, holidays
+- **emotions:** productive,  Collaborative, Businesslike
 
 
 ## Thursday 12th December 2024
