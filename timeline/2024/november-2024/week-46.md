@@ -97,6 +97,7 @@ Why do we need to give representatives' emails? [**status**] todo
 ## Wednesday 13th November 2024
 
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -191,6 +192,60 @@ At the previous meeting of the SNET_Latam ambassador team, the registration of c
 - **topics covered:** content calendar, X spaces, contribution, contribution tracking, core contributors, transhumanism, biotechnology, rejuve.ai, philosophy, translation
 - **emotions:** Collaborative, Strategic, Task-focused, teamwork, philosophical
 
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AndrewBen, AshleyDawn, Ayo, Clement Umoh, esewilliams, Gorga Siagian, Kateri, tee, hogantuso, Zalfred
+- **Purpose:** Regular weekly meeting of Education Guild, covering project-based ppdates
+- **Working Docs:**
+  - [Ai for Beginners Team ](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+  - [Q1 2025 budget caps](https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+-  Budget Caps discussion 
+-   CCCP Core Contributors Certification Program
+
+-  Education Guild Website Wiki / CCCP Integration 
+
+-   Ai For Beginners 
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- After the introduction part, everyone's opinion was asked in regards to the proposed budget caps for Q1 2025. There were mixed opinions: some liked it, some didn't, and most had concerns on certain aspects of budget caps 
+- Ai For Beginners - Points to Note: 
+- All the scripts were reviewed and feedback was given on each report by Slate, approving the ethics script and leaving suggestions on the rest 
+- Ese also notified that the video production will soon be beginning after the scripts are good to go 
+- CCCP (Certification Program) - Points to Note: 
+
+- There are a total of 15 days left and the certification program will be ending by the end of November 
+- Ese notified that the announcements have been going out regularly and a live demo will also be showcased by her soon 
+- Slate notified that if nobody is able to complete the certification, the top 3 runners up will be rewarded 
+with certifications and rewards. 
+
+- Education Guild Website Wiki / CCCP Integration - Points to Note: 
+
+- Slate had a call with Franklyn and Gorga regarding the website design, and they have finally finalized the design of the website 
+- A brief overview of the website design was given by them, explaining each aspect 
+- Data scraping of data on sNET ecosystem projects has also started 
+
+
+#### Decision Items:
+- Gorga and Franklyn to start data scraping for the site 
+  - [**rationale**] everyone agreed 
+
+#### Action Items:
+- [**action**] follow up with ese regarding the scripts  [**assignee**] Slate [**due**] 20 November 2024 [**status**] in progress
+- [**action**] Osmium to work on the Webinar Series Document  [**assignee**] osmium [**due**] 6 November 2024 [**status**] in progress
+- [**action**] Franklyn and Gorga to update the Website pages  [**assignee**] Franklynstein, Gorga Siagian [**due**] 20 November 2024 [**status**] in progress
+- [**action**] Ese to make announcements regularly for CCCP till the deadline  [**assignee**] esewilliams [**due**] 20 November 2024 [**status**] in progress
+- [**action**] Gorga and Franklyn to continue data scraping for the education wiki / website  [**assignee**] Gorga Siagian, Franklynstein [**due**] 30 November 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, announcement, wiki, education website, spinoffs, data scraping, core contributors, certification, budget caps, Q1 2025 budget, webinar series
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 14th November 2024
