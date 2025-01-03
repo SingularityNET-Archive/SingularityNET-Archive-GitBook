@@ -6,6 +6,7 @@ description: Mon 4th Nov - Sun 10th Nov 2024
 
 ## Monday 4th November 2024
 
+
 ### Strategy Guild
 
 - **Type of meeting:** Biweekly
@@ -48,6 +49,74 @@ Cjfrankie and Mikasa to attend R&D and Education guild meetings and have them se
 #### Keywords/tags:
 - **topics covered:** content calendar, Workshop, Budget fitting, R&D guild, Education Guild, Task roster, Async follow up, survey, Q1 2025 projections, Marketing Guild, Discord tags
 - **emotions:** funny, resourceful, informative, speedy, looking-ahead, forward-looking
+
+
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Tevo, LadyTempestt, Gorga Siagian [**documenter**], AndrewBen, Effiom, Evelyn, LadyTempestt, Tevo, Onize, AshleyDawn, Gorga Siagian, Sucre n Spice
+- **Purpose:**  We are creating a PBL course on Andamio about GitHub features and use cases to manage 
+
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764603174894132&cot=10)
+- **Other media:** [Link]( )
+- **Working Docs:**
+  - [GitHub PBL Structure](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+  - [WG Stuffs form](https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform)
+
+#### Agenda item 1 - Workgroup management - [carry over]
+
+#### Discussion Points:
+- Dework and rewards
+- How to add people to GitHub Project Board? - email is required and can probably get email through their zoom registration for meetings
+- What do we do async until the next meeting?
+- Research existing lessons first
+- Google Doc drafts for the lessons
+- Test it on GitHub
+
+
+#### Agenda item 2 - GitHub PBL structure and lessons - [carry over]
+
+#### Discussion Points:
+- We went through suitable lessons and ideas: Onboarding questions, Module titles/description, Introduction to GitHub, Learning requirements, etc. More details on the GitHub WG Miro board.
+- What information could overlap?
+- Should we include a feedback form? It didn’t necessarily bring back feedback with Dework PBL
+- Possibly change the location of the feedback form for visibility's sake.
+- Rating at the end of each module; Feedback form at the end of the course.
+- Form link to sign up for drafting or reviewing lessons and using Andamio
+
+#### Decision Items:
+- We agreed to use feedback forms, but attach them at the end of the course, and add a reminder about the feedback form at the end of every module. 
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will reward feedback per person, not per feedback, and have a fixed reward.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Tevo, Gorga, Sucre, Onize, and Love to draft lessons in google docs and share them in WG Discord channel. [**assignee**] Tevo, Sucre n Spice, Gorga Siagian, Onize, LadyTempestt [**due**] 30 December 2024 [**status**] todo
+- [**action**] Github PBL members need to fill out the Google form at https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform to register for GitHub stuff so they can get Andamio access [**status**] todo
+
+#### Agenda item 3 - Andamio updates - [carry over]
+
+#### Discussion Points:
+- The Andamio App is only currently built for desktop browsers and isn’t mobile friendly. It says "stay tuned for updates about the development of the Andamio Mobile App".
+- Use Discord to log in
+- Things to be aware of: edits done at same time will lead one version to be lost, and Don't update lessons if you are NOT assigned to it.
+- Do we want extra events using Gimbalabs Extra Playground?
+- To bring different students and course creators together to share the work they do, how they do it and experiences.
+- We will reward documentation of learning from New Ideas Budget 
+
+#### Decision Items:
+- We will not have extra sessions with Gimbalabs for now.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create Andamio Accounts [**assignee**] Tevo [**due**] 25 November 2024 [**status**] todo
+- [**action**] assign Creator roles (James from Gimbalabs) [**assignee**] James Dunseith [**due**] 25 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** WG Management, GitHub PBL Structure, Andamio, mobile-friendly, Collaboration, gimbalabs, Lessons, github board, Feedback Form
+- **emotions:** Collaborative, Deliberative, progressive, decisive
 
 
 ## Tuesday 5th November 2024
