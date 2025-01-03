@@ -435,3 +435,42 @@ Kareem encouraged everyone to enhance their productivity to meet project deadlin
 #### Keywords/tags:
 - **topics covered:** Rewards, productivity, work rate, continuity, mascot, content calendar, podcast, community spotlight, delays, design workgroup
 - **emotions:** Friendly, Poor Attendance, quick, progressive
+## Saturday 9th November 2024
+
+### Gamers Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], rebel, scarecrow, AshleyDawn, Kateri, SubZero, martinsoki, Malik, LordKizzy, Slate, devon
+- **Purpose:** Regular meeting of Gamers' Guild. This meeting was to discuss the development and updates of the VR model, present new features such as intercom and VFX, and gather updates from workgroup creators.
+#### Discussion Points:
+- Slate outlined the meeting agenda
+- Slate introduced a pair-based development approach, assigning Scarecrow and Ashley as a team to work on specific VR model aspects.
+- Slate showcased a functional intercom in the VR model for holding meetings in Roblox, demonstrating how it can amplify voices across the VR environment. It will make meetings possible directly on Roblox instead of Discord.
+- Slate presented VFX options for decoration and interaction within builds, allowing WG creators to enhance their creations with usable visual effects.
+- Updates were requested from various creators on their modeling and animation tasks. Some creators, including Scarecrow, Rebel, and Malik, noted delays but committed to progress before the next meeting.
+- Marketing Guild Announcement: Subzero from marketing guild announced the consolidated content calendar, asking each guild to appoint two representatives to manage content submissions. Malik and Martin volunteered as representatives for the Gamers Guild.
+- Slate clarified the support role compensation, offering $100 per support task upon completing workgroup or guild assistance.
+
+#### Decision Items:
+- Guild members assigned to creation of workgroups should prioritize pending modeling and animation tasks.
+  - [**rationale**] The time for quarterly report submission is coming soon
+
+#### Action Items:
+- [**action**] Animation & Dialogue System - Education Guild [**assignee**] malik, hufiumer69 [**due**] 23 November 2024 [**status**] in progress
+- [**action**] Animation and dialogue system - Treasury Guild [**assignee**] martinsoki, scarecrow [**due**] 23 November 2024 [**status**] in progress
+- [**action**] Animation and dialogue - Archival Workgroup [**assignee**] Gorga Siagian, Kateri [**due**] 23 November 2024 [**status**] in progress
+- [**action**] Department Creation - RnD Guild [**assignee**] oep, CollyPride [**due**] 23 November 2024 [**status**] in progress
+- [**action**] Department creation - Writers WG [**assignee**] LordKizzy, devon [**due**] 23 November 2024 [**status**] todo
+- [**action**] Slate to create a development group for Scarecrow and Ashley, and schedule an initial training session. [**assignee**] Slate [**due**] 23 November 2024 [**status**] todo
+
+#### Game Rules:
+Marathon - First one to finish the line wins
+
+
+#### Leaderboard:
+- 1st Devon
+
+#### Keywords/tags:
+- **topics covered:** Roblox, metaverse, department Creation, work updates, Map creation, plugins, Intercom, VFX, MarketingGuild 
+- **emotions:** Friendly, Collaborative, informative, Building, contributive
+- **games played:** Running game , Marathon
