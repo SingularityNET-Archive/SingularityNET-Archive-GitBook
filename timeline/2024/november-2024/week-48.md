@@ -42,6 +42,7 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 
 ## Wednesday 27th November 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -92,6 +93,49 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Onboarding WorkGroup, Cardano, Plutus, Legacy system, Governance dashboard, RFP< Open Cog Hyperon
 - **emotions:** Casual, Welcoming, Thoughtful, Friendly, Collaborative
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Gorga Siagian, AshleyDawn, Malik, martinsoki, rebel, SubZero, Tevo, TheFreysDeFi, Zalfred, kenichi, hogantuso
+- **Purpose:** Regular weekly meeting of Education Guild, covering: Certification Program Discussions; Website / Wiki Integration Updates; AI For Beginners Updates
+- **Working Docs:**
+  - [Ai for Beginners Team ](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Certification Program Discussions
+- Website / Wiki Integration Updates
+- AI For Beginners Updates
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- After the introduction, the meeting began with the the topic of the CCCP (core contributors certification program) with the current situation. The discussion was regarding whether a person should be allowed to take the quiz if they exceed the time limit.
+- There were mixed opinions, though the main factor was that if a person is allowed, that might cause other contributors to request the same thing or the ones who are leading the leaderboard to raise concerns regarding this.
+- Another major factor is that an update would also be needed in the backend to allow this, which could cause delays for others. Also, with the certification program about to end, it would be hard to implement. 
+- We concluded that if many people agree on the request, a second try would be allowed; it depends on the Core Contributors' feedback in the certification channel on Discord.
+- Next, we discussed the website/wiki integration. Gorga showcased the scraped data, showing that the format in the sNET Ecosystem page will be the same as we are using for the inforgraphics.
+- Then Gorga showed the design for the education website main page, which was a in a mock format showed like windows floating in the design for the education projects. There was a suggestion to add the ambassador program guilds and wgs as well 
+- Then Slate notified that the CCCP will end in 2 days; and then a survey will be done on what worked and what did not. 
+- Kenichi's presentation series will be discussed in next week's meeting. 
+
+#### Decision Items:
+- Allow Colleen a second try at the Certification Program quizzes, based on her feedback in the certification program channel about timing issues 
+  - [**rationale**] most agreed 
+  - [**opposing**] Might be hard to implement as would be needing backend changes and may be unfair for other contributors  
+  - [**effect**] mayAffectOtherPeople
+- Gorga to remove the "technologies" section of the website with the ambassador program projects 
+  - [**rationale**] everyone agreed 
+  - [**opposing**] nil 
+
+#### Action Items:
+- [**action**] Slate to have a call with Gorga and Franklyn  [**assignee**] Gorga Siagian, Slate, Franklynstein [**due**] 4 December 2024 [**status**] in progress
+- [**action**] Accoording to the feedback in the certification channel implement the changes to the system  [**assignee**] Slate [**due**] 4 December 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, core contributors, certification, wiki, education website, fairness, quizzes, time limit
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 28th November 2024
