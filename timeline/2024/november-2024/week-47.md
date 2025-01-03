@@ -59,6 +59,7 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 
 ## Wednesday 20th November 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -108,6 +109,49 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, Collaboration Skills Database, Onboarding WG, Strategy Guild
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, busy
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AndrewBen, AshleyDawn, Clement Umoh, esewilliams, Franklynstein, Kateri, kenichi, LordKizzy, Malik, martinsoki, osmium, SubZero, Zalfred, hogantuso
+- **Purpose:** Regular weekly meeting of Education Guild, covering: Q1 2025 Budget Proposal Discussion - Q4 2024 Quarterly Report Assignment - Presentation Series Project Start-up
+- **Working Docs:**
+  - [Ai for Beginners Team ](https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing)
+  - [Q1 2025 budget caps](https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Q1 2025 budget proposal discussion
+-  Q4 2024 quarterly report assignment
+
+- Presentation Series Project start-up
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone 
+- After Introduction, the meeting began with the main topic of discussion which was the Q1 2025 budget proposal. The approach taken was trying to adjust to the given cap of 6,000 AGIX by keeping the initiatives at the minimum. 
+- Upon the approval from everybody the budget proposal creation started; though the budget being less than what Education Guild usually uses, it was difficult to adjust with it 
+- For each of the current projects, opinion was taken on more funding is required for them or not.
+
+ - Ai For beginners: no funding required, all good 
+ - Website: Funding is required for hosting costs and integration 
+ - Webinar Series: Excluded due to no progress having been made in the current quarter
+- After implementing the budget proposal according to the feedback, the task of writing the Q4 2024 quarterly report was assigned.
+- At the end, we discussed the Presentation Series. We will be starting the presentation series project from Q1 2025, the budget discussion in regards to the presentation series project was delayed till next meeting and it will continue from there.
+
+#### Decision Items:
+- Keeping the budget at minimal level for this quarter
+  - [**rationale**] To cope with the budget cap. Everyone agreed.
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Clement to write the Q4 2024 quarterly report by the weekend  [**assignee**] Clement Umoh [**due**] 24 November 2024 [**status**] in progress
+- [**action**] Submit the Q4 quarterly report and the Q1 2025 budget proposal by the deadline  [**assignee**] Slate [**due**] 25 November 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, Q1 2025 budget, budget caps, budget constraints, Q4 2024 report, AI For Beginners, Presentation Series
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Friday 22nd November 2024
