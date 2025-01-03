@@ -6,6 +6,7 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 
 ## Monday 14th October 2024
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -79,6 +80,75 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 #### Keywords/tags:
 - **topics covered:** Miro Board, Policy Submission, Budget , feedback, Reserves, Stablecoins, processes, retrospective, Treasury, Governance workgroup, Slow Start policy
 - **emotions:** Organised, Discursive, retrospective
+
+
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], AndrewBen, Tevo, LadyTempestt [**documenter**], Advanceameyaw, AndrewBen, Effiom, kateri, LadyTempestt, MartinSoki, SubZero, Tevo, Valola, AshleyDawn, Gorga Siagian, Evelyn, Malik
+- **Purpose:**  We are creating a PBL course on Andamio about GitHub features and use cases to manage 
+
+
+- **Meeting video:** [Link](https://youtu.be/6-x1rHLmzBI)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764603174894132&cot=10)
+- **Other media:** [Link]( https://youtu.be/6-x1rHLmzBI)
+- **Working Docs:**
+  - [Proposal Fitting ](https://docs.google.com/document/d/1oWc-IvXb5Lw9UQwUd06O9I8VLjGva6k2ljo4q7Y9JNc/edit?tab=t.0#heading=h.l832kyptxzsj)
+
+#### Agenda item 1 - Orientation on Miro Board  - [resolved]
+
+#### Discussion Points:
+- Discussed how to use the Miro Board and how to navigate by looking at the meeting templates and project stages, creating educational content syncing, and referencing documentation.
+
+
+
+#### Agenda item 2 - Workgroup proposal  - [carry over]
+
+#### Discussion Points:
+- We went through our WG proposal, explaining the processes through the proposal fitting sheet and the importance of the different roles. We encouraged members to show interest in various tasks (content ideation and creation, project management, course creation on Andamio, etc), kick-starting the workgroup.
+- 
+
+
+#### Agenda item 3 - Q4 Budget planning & fitting - [carry over]
+
+#### Discussion Points:
+- We worked on reducing our budget by approx 20%
+- Should we reduce our meeting sessions? It will make coordination difficult so we need to be preparing these sessions and have clear calls for them.
+- Another biggest budget item is content organizing. Reduce it by 5 or 20%?
+- Course creation, Quizzes, reduced costs here by 20%
+
+#### Decision Items:
+- We agreed to have 4 sessions this quarter (reducing 2 session amounts)
+- We will create fewer lessons, which should naturally reduce rewards from all the other refinement work
+
+#### Agenda item 4 - Project management - [carry over]
+
+#### Discussion Points:
+- Do we want to try the Project Management framework to manage our tasks?
+- More sources to be created with the rest of the budget
+- Dework Board for task management this quarter.
+- We planned the whole quarter's main activities on Miro Board schedule
+- Setting up Github
+- Tasks templates on Dework
+- We picked our preferred dates for WG sessions, with deliverables and agendas.
+
+#### Decision Items:
+- We will meet on 4th and 18th November by 11:00 UTC, and on 17th December by 16:00 UTC for this quarter.
+- We will not yet remove Project Management Framework ideation from the Miro board, but we won’t pick it up if we don’t have enough time in our agendas
+
+#### Action Items:
+- [**action**] Gorga to prepare dework templates for tasks [**assignee**] Gorga Siagian [**due**] 4 November 2024 [**status**] todo
+- [**action**] Effiom to calculate rewards for October based on groups by the Dework task title [**assignee**] Effiom [**due**] 28 October 2024 [**status**] todo
+- [**action**] LadyTempestt to create a GitHub repo and give member access to everyone interested in checking it out [**assignee**] LadyTempestt [**due**] 28 October 2024 [**status**] todo
+- [**action**] Tevo to coordinate with the Andamio team to find out which version we should use for the course. [**assignee**] Tevo [**due**] 28 October 2024 [**status**] todo
+- [**action**] Andrew Ben to draft the meeting summary for this meeting. [**assignee**] AndrewBen [**due**] 21 October 2024 [**status**] todo
+- [**action**] LadyTempestt to publish and review the summary for October. [**assignee**] LadyTempestt [**due**] 28 October 2024 [**status**] todo
+- [**action**] Tevo to prepare the next session. [**assignee**] Tevo [**due**] 4 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Budget fitting, Q4 2024 budget, github board, forward planning
+- **emotions:** Organised, progress-oriented, informative, progressive, decisive
 
 
 ## Tuesday 15th October 2024
