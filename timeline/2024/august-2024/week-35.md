@@ -177,6 +177,7 @@ Members discuss and explore options for collaboration systems over voting system
 ## Wednesday 28th August 2024
 
 
+
 ### Research and Development Guild
 
 - Type of meeting: Weekly
@@ -317,6 +318,46 @@ Members discuss and explore options for collaboration systems over voting system
 #### Keywords/tags:
 - **topics covered:** Dework, dework PBL, Miro Board, Lessons, Andamio, feedback, poll, zoom import, Q3 2024 Quarterly Report, Q4 2024 budget proposal, Q2 2024 quarterly report
 - **emotions:** decisive, interactive, planning, Collaborative, interesting
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Clement Umoh, Slate, osmium, SubZero, esewilliams, Yemi Solves, kateri, King David, WaKa, devon, Kenichi, Malik, Gorga Siagian, Franklynstein
+- **Purpose:** Regular weekly meeting of Education Guild, covering: CCCP (Core Contributor Certification Program) quizzes cheat-free  - budget discussion for various projects - Education website 
+- **Working Docs:**
+  - [Budget Request Q 4](https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Making CCCP (Core Contributor Certification Program) quizzes cheat-free 
+-  budget discussion for various projects
+- Education website 
+
+#### Discussion Points:
+- The meeting started with discussion of cheat-free quizzes for CCCP
+- Then Slate started off the discussion regarding budget request for Education Guild 
+- CCCP Automation cost was added to the budget request and explained by Slate 
+- Outreach task was added for CCCP
+- Wiki website for Education Guild and CCCP integration was explained by Slate and added to budget request 
+- Ai For Beginners project budget was added and explained by Ese 
+
+#### Decision Items:
+- Outreach task addition for CCCP
+  - [**rationale**] most of the group agreed
+  - [**opposing**] Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Project management addition to Ai for beginners 
+  - [**rationale**] nil
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Task creation on Dework for Ai For Beginners demo video  [**assignee**] Slate [**due**] 30 August 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Presentation, Task Assignment, CCCP, Ai for beginners, Q4 2024 budget, wiki, education website, quizzes, cheat
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 29th August 2024
