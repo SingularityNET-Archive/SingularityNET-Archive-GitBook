@@ -265,3 +265,42 @@ Kenichi emphasized aligning the ambassador program's outreach strategies with th
 #### Keywords/tags:
 - **topics covered:** Governance, Roles, task assignment, members, member performance, participation, low participation, Analytics team, outreach, technical tools, tooling, Notion, Tally, Airtable, Zapier, 
 - **emotions:** Thoughtful, Collaborative, analytical, informative
+## Saturday 7th December 2024
+
+### Gamers Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], martinsoki, Malik, rebel, AshleyDawn, LordKizzy, Kateri, SubZero, Gorga Siagian, hogantuso, merryman007
+- **Purpose:** Regular biweekly meeting of Gamers' Guild. The purpose of this meeting was to present progress on Workgroup building creation, discuss potential expansions and integrations with other gaming platforms, and outline the upcoming roadmap and next quarter’s initiatives.
+#### Discussion Points:
+- Slate confirmed that the Gamers Guild’s quarterly report and budget were approved without objections. This approval is significant since it demonstrates that the guild’s documentation, financial planning, and deliverables have met the required standards. With the AGIX token value currently higher than expected, there is a potential budget surplus that can be allocated toward additional tasks and improvements in the upcoming quarter.
+- Martin presented the final stages of the Treasury Guild building, showing animated NPCs and functional dialogue systems. Slate praised the visual quality but recommended adjusting character positions so NPCs appear seated correctly at tables rather than floating above them.
+- Gorga reported on the R&D Guild building, noting that he has been handling most of the workload. The intended contributors have shown minimal progress, limited to adding a few environmental elements like trees and grass. Slate stressed a deadline: if other team members fail to make meaningful contributions by the end of December, the project may be reassigned to more engaged developers such as Ashley and Sub-Zero. 
+- Rebel showcased new animations in the Dework PBL building, notably adding a teaching NPC who uses objects (e.g. a pointing stick) to instruct newcomers visually. Rebel expressed concern about his partner’s delayed contributions. Slate agreed to address the partner’s inactivity, reassuring Rebel that either the partner will meet deadlines or Rebel will receive fair compensation for taking on additional responsibilities.
+- Malik mentioned small updates to the Education Guild’s animations and dialogue systems.
+- Slate introduced the pre-alpha launch of the Elowyn game by SingularityNET, highlighting its potential relevance to the Gamers Guild’s future projects. By exploring games like Elowyn and other platforms such as Decentraland or Sandbox, the guild can integrate cutting-edge features, expand its reach beyond Roblox, and possibly incorporate AI-driven elements or decentralized functionalities.
+- Looking ahead, Slate outlined the next steps: selecting two additional map creators to join Gorga and Kateri for creating the water area. Gamers will also refine existing building models, adding interactive functionalities to enhance realism, and possibly developing areas for newer workgroups like Latam and African Guilds. With AGIX value higher than anticipated, Gamers' Guild can leverage the extra funds to accelerate development, broaden project scopes, and support more ambitious tasks within the Roblox environment and beyond.
+- Lord kizzy and Devon updated that they will start working on the Writers' Workgroup building creation
+
+#### Decision Items:
+- Treasury Guild’s animations and dialogues are approved pending minor positional fixes.
+
+  - [**rationale**] almost everything is done
+- If R&D Guild creators do not show progress, Slate will reassign their tasks.
+  - [**rationale**] So that it can be completed with other workgroups
+
+#### Action Items:
+- [**action**] Animation & Dialogue System - Education Guild [**assignee**] Malik, hufiumer69 [**due**] 4 January 2025 [**status**] in progress
+- [**action**] Animation and dialogue system - Treasury Guild [**assignee**] martinsoki, scarecrow [**due**] 4 January 2025 [**status**] in progress
+- [**action**] Department Creation - R&D Guild [**assignee**] oep, CollyPride [**due**] 4 January 2025 [**status**] in progress
+- [**action**] Department creation - Writers WG [**assignee**] LordKizzy, devon [**due**] 4 January 2025 [**status**] todo
+- [**action**] Department creation - Dework PBL [**assignee**] rebel, photogee [**due**] 4 January 2025 [**status**] in progress
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox, metaverse, department creation, work updates, Map creation,  #WorkgroupPresentations, Elowyn Game, roadmap, Q1 2025 budget, animation, task reassignment, incomplete tasks
+- **emotions:** Friendly, Collaborative, informative, Building, contributive, forward-planning
+- **games played:** no game
