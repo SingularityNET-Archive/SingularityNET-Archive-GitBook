@@ -117,6 +117,7 @@ Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for resea
 - **emotions:** Friendly, calm, cool, chatty
 ## Wednesday 18th December 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -171,3 +172,59 @@ Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for resea
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Education Guild, AI Sandbox/Think Tank, collaboration, Governance Dashboard, Governance Workgroup, DeepFunding
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Evelyn, Gorga Siagian [**documenter**], Tevo, Evelyn, Gorga Siagian, Malik
+- **Purpose:** We are creating a PBL course on Andamio about GitHub features and use cases to manage
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764607640763654&cot=10)
+- **Other media:** [Link]( )
+- **Working Docs:**
+  - [GitHub PBL Structure](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+  - [Register to GitHub Stuff (Googleform)](https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform)
+  - [PBL WG Proposal Q1 2025](https://docs.google.com/document/d/1YPg0iHYmhrF2KOKEhzehzw4Trd-wQ_s4faubS3FpF_c/edit?tab=t.0#heading=h.l832kyptxzsj)
+  - [PBL WG Proposal Estimated Cost Calculator](https://docs.google.com/spreadsheets/d/1dPVsCGCuvp1nBxRM5zJteWZt7_J4ezbx6iB7Sc8VcHM/edit?usp=sharing)
+  - [Github PBL Quarterly Report - Q4 2024](https://docs.google.com/document/d/1mGFj0ncsCFoS4eoOGBtCilFUjuMAcJXbh-7eJ4ItWSg/edit?usp=sharing)
+
+#### Agenda item 1 - Workgroup management  - [carry over]
+
+#### Discussion Points:
+- Allocating participation rewards
+- We got ~2500 AGIX currently in Q4 budget.
+- When do we have Quarter 1 2025 sessions?
+- What are the main agenda points for Q1 2025 sessions?
+- We discussed the PBL project and the tasks of creating lessons assigned to some members of the Workgroup. At the time this discussion was held, the people assigned to these tasks were yet to make submissions.
+
+#### Decision Items:
+- From Quarter 1 2025 on, we will start experimenting with a fixed AGIX rate
+  - [**effect**] affectsOnlyThisWorkgroup
+- We estimate to kick off the WG in week 3 of January, following with 2 bi-weekly sessions and then relaxing for a month to catch up at the end of quarter 1.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create meeting summary [**assignee**] Evelyn [**due**] 23 December 2024 [**status**] done
+- [**action**] Review meeting summary  [**assignee**] Gorga Siagian [**due**] 23 December 2024 [**status**] in progress
+
+#### Agenda item 2 - Course content  - [carry over]
+
+#### Discussion Points:
+- Framework to be used for all the course modules.
+- Going over the assignees of each lesson and updating on status.
+- Having one assignment, meaning lesson expectations and surveys can't be done separately. 
+- Restructuring who will make the background knowledge quizzes
+- How do we select quizzes for courses?
+
+#### Decision Items:
+- We will start taking the courses together if our starting lessons reach the Miro status "On Andamio".
+  - [**effect**] affectsOnlyThisWorkgroup
+- Repurpose the quizzes - a single person to generate all of the quizzes for all the background knowledge lessons once they are on Andamio. In the 2nd meeting of Q1 we will select best ones for each lesson.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo will check on those asssigned to the PBL Course tasks to find out how far they've gone and if they plan to finish lesson. [**assignee**] Tevo [**due**] 10 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** PBL Course project , AGIX rate, Rewards, Q1 2025 budget, Q1 2025 sessions, Andamio, payments in AGIX, quizzes, Q4 2024 budget
+- **emotions:** Collaborative, forward planning
