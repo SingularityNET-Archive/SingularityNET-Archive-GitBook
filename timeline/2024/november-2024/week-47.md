@@ -348,3 +348,44 @@ Planning with the 4k AGIX cap
 #### Keywords/tags:
 - **topics covered:** GitBook, Miro Board, Q4 2024 report, Retrospective, GitHub, Q1 2025 proposal
 - **emotions:** Collaborative, Discursive
+## Saturday 23rd November 2024
+
+### Gamers Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], martinsoki, rebel, scarecrow, AshleyDawn, Kateri, SubZero, Malik, LordKizzy
+- **Purpose:** Regular biweeekly meeting of Gamers' Guild. The purpose of this meeting was to present progress on Workgroup building creation; and to discuss and finalize the Q1 2025 quarterly budget, assign the taskof writing the Q4 2024 quarterly report, and plan for upcoming initiatives.
+- **Working Docs:**
+  - [Budget Request for Q1-2025(Gamers Guild)](https://docs.google.com/spreadsheets/d/1P7QYwh5iB8FydKN_zEAxEdh0Wu4PqdyNU-MmF9v5RYA/edit?usp=sharing)
+
+#### Discussion Points:
+- Archives WorkGroup presentation by Gorga: Gorga presented the Archives WorkGroup building model on Roblox, showcasing NPC interactions, dialogues, and room functionalities. Discussed problems with animations not showing and teleportation issues. Slate suggested making the building's roof taller for universal character compatibility; Gorga noted challenges due to the building's original design.
+Slate offered assistance to resolve these issues.
+- Dework PBL WorkGroup presentation by Rebel: Rebel presented the Dework PBL WorkGroup building, highlighting the addition of dialogues to Tevo's NPC in the classroom. He mentioned plans to integrate animations by the next meeting.
+- Treasury Guild presentation by Scarecrow and Martin: Scarecrow showcased the Treasury Guild building, including architectural design, animations, and interactive NPC dialogues. He demonstrated NPC interactions with Tevo Saks, André, Peter E, Clement, and CallyfromAuron, explaining the Treasury Guild's functions. Martin presented his contributions but faced issues with NPC animations not displaying correctly.
+Martin sought Slate's assistance to fix animation problems; Slate provided possible reasons and offered help.
+- Education Guild presentation by Malik: Malik presented the Education Guild building, including NPC interactions, animations, and various rooms like the ideation room and classroom. Showed the Slate NPC as a receptionist; Slate humorously noted the missing face on his NPC. Malik discussed issues with animations not applying correctly and floating NPCs. Slate suggested improvements such as integrating a robot-building feature and utilizing empty rooms for website/wiki integration. Malik agreed to implement the suggestions and sought Slate's assistance with animation issues.
+- Slate requested volunteers to write the Q4 2024 quarterly report; Malik and Rebel agreed to collaborate on it.
+- Budget discussions, led by Slate: Discussed the Q1 2025 quarterly budget, noting that Gamers' Guild has a budget cap of 7,000 AGIX. Reviewed and adjusted budget items due to constraints, removing or reducing funding for certain tasks. Decided to retain essential items like rewards for game winners and workgroup development.
+- Kizzy suggested reducing asset creation to six per month and reallocating funds for announcements; the group agreed.
+- Slate reminded mentors (Malik, Kizzy, Gorga, Kateri) to create short video recordings showcasing their workgroup progress for inclusion in the quarterly report.
+
+#### Decision Items:
+- Reduced asset creation to six per month and reallocated funds to announcements as per Kizzy's suggestion.
+
+#### Action Items:
+- [**action**] Animation & Dialogue System - Education Guild [**assignee**] Malik, hufiumer69 [**due**] 7 December 2024 [**status**] in progress
+- [**action**] Animation and dialogue system - Treasury Guild [**assignee**] martinsoki, scarecrow [**due**] 7 December 2024 [**status**] in progress
+- [**action**] Animation and dialogue - Archives Workgroup [**assignee**] Gorga Siagian, Kateri [**due**] 23 November 2024 [**status**] done
+- [**action**] Department Creation - R&D Guild [**assignee**] oep, CollyPride [**due**] 7 December 2024 [**status**] in progress
+- [**action**] Department creation - Writers WG [**assignee**] LordKizzy, devon [**due**] 7 December 2024 [**status**] todo
+- [**action**] Quarterly Report Q4 2024 [**assignee**] Malik, rebel [**due**] 25 November 2024 [**status**] done
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox, metaverse, department Creation, work updates, Map creation,  #WorkgroupPresentations, mentorship, Q4 2024 report, Q1 2025 budget, budget planning, Animation
+- **emotions:** Friendly, Collaborative, informative, Building, contributive
+- **games played:** no game
