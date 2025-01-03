@@ -211,6 +211,7 @@ Martín and Sergio will be in charge of the second X space of SNET_LatAm, entitl
 
 ## Thursday 24th October 2024
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -283,6 +284,56 @@ We also noted that if we change the method without addressing underlying issues 
 #### Keywords/tags:
 - **topics covered:** Decision Making Process, consent decision making, dates, deadlines, Q1 2025 budgets, delegation, inclusion, corruption, Q4 2024 quarterly reports
 - **emotions:** decisive, focused
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Effiom, Advanceameyaw, Clement Umoh, Kateri, AJ, CollyPride, AshleyDawn, André, LordKizzy, PeterE, martinsoki, Malik, guillermolucero
+- **Purpose:**  Introduction to the first Think-tank session.
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [Agenda items: AI SANDBOX/THINK-TANK](https://docs.google.com/document/d/1pp9oEkb3hWvVHxkLj8MJ3ySKWv05HCbJIUGaXFXBbfw/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: Lord Kizzy welcomed everyone and addressed the confusion regarding the meeting Zoom link.
+- Lord Kizzy talked about our first AI Think Tank session: a round-table discussion on the topic of the impact of AI on the jobs market.  He defined this as a structured discussion where we come together to exchange ideas, insight, and knowledge related to artificial intelligence.
+- Impact of AI on Jobs Market: How will AI affect job availability in various industries like manufacturing, healthcare, education? Peter gave more insight into this - he said it’s getting seen as AI will take over our jobs and leave us with no jobs, he noted that in Manufacturing for example workers have already been replaced by automation; but AI also creates jobs in AI itself, developing AI for manufacturing; while in healthcare, AI is expanding human lifestyle through research using AI, for example organisations such as Rejuve Bio.
+- Which sectors are most likely to see job displacement, and which are poised for growth due to AI? Advance said that in manufacturing, it is mostly in Western economies where many things are being automated, not like in Africa where there is still much industrialization.
+- New Skills for an AI-Driven Economy: What skills will be most valuable in the workforce as AI continues to evolve? Clement said skill development should revolve around skills that can allow people to easily adapt to AI changes into what is being needed. He believed that the critical skill is adaptability. Advance gave more insight about it which is to understand.
+- Human-AI Collaboration: In what ways can AI enhance human productivity, creativity, and decision-making at work? Lord Kizzy said that AI and human collaboration is important in the sense that AI can't go beyond what the programmer programmed for it, so it needs humans for their creativity to bring up new ideas.
+- How can companies foster collaboration between AI systems and human workers, rather than replacing them? Kateri said AI can never replace human creativity because AI can't do more than what they are programmed to do, but humans are creative thinkers able to generate ideas; then in the aspect of problem-solving, AI is very good at analyzing problems but it can not completely solve them, it can only bring out ways to solve the problem.
+- Automation vs. Human Creativity: Can AI fully replicate human creativity and problem-solving, or will certain tasks always require human input? Malik said that AI can't replace human creativity.
+- Ethical Considerations of AI in the Workplace: How can we ensure that AI technologies are used responsibly, avoiding bias and discrimination in hiring and performance evaluation? Peter said that AI are not biased and can’t discriminate.
+- What are the ethical implications of using AI for employee monitoring and decision-making? Advance said under the decision making AI is a little biased. Clement dropped more insight that states AI running through certain codes and would agree that the ability to monitor and decide is going to be based on certain lines of code provided, based on pattern recognition. So we can tell the AI model, once you see someone doing this particular stuff, grade it as excellent or grade it as good or grade it as poor performance, and so on.
+- AI Performance Ratings and Future Implications: Lordkizzy decided to play a little game with the house by rating AI‘s impact in the future (10 for the best thing humans have ever seen and super beneficial, 0 for AI will fade away in the next 3-4 years, -10 for AI will cause more harm than good and is likely to be a disaster).  
+- Malik rated it nine out ten
+- Advance rated it minus ten and ten
+- AJ rated it seven now but in future lower to five
+- Clement rated it five, reflecting on the balance view of the whole stuff
+- Colleen rated it minus ten and ten
+- Guillermo rated it minus ten and ten
+- Kateri rated it nine and minus eight
+- Peter did not give a ratings to this. 
+
+- Lord Kizzy summarized the session by stating that one observation he had from the discussion is that AI is not going to fade away in the coming years. Its wider impact is yet to be seen but AI is here to stay.
+
+#### Decision Items:
+- We decided that Clement will hold the next AI sandbox session
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided on having a theoretical debate on “AI and its impact in Education.”
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Members who want to document meetings should indicate their interest [**assignee**] All Members [**due**] 31 October 2024 [**status**] todo
+- [**action**] Lord Kizzy to create a repo for the next call where members can submit polls documentation for the AI tools. [**assignee**] LordKizzy [**due**] 31 October 2024 [**status**] todo
+- [**action**] Clement to host the next AI sandbox session [**assignee**] Clement Umoh [**due**] 31 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI round table, AI Think Tank session, AI and jobs, job availability, employee monitoring, AI decision-making, AI ethics, AI bias, discrimination, human-AI collaboration, job displacement, creativity
+- **emotions:** Welcoming, interactive, Thoughtful , entertaining
+
+
 ## Friday 25th October 2024
 
 
