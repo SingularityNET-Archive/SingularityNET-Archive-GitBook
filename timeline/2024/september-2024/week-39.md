@@ -354,6 +354,7 @@ Collective decision Guild Members on the Entity connections
 ## Thursday 26th September 2024
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Weekly
@@ -486,6 +487,40 @@ Ambassadors are constantly invited to different events that will take place in t
 - **topics covered:** content calendar, Rewards, events, strategy, Meeting Summaries
 - **emotions:** Collaborative, Strategic, Task-focused, teamwork
 
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], CJFrankie [**documenter**], Advanceameyaw, Eric Davies, Duke, Kateri, LadyTempestt, CJFrankie, Sucre n Spice, Effiom, esewilliams, kareem, AJ
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Other media:** [Link](https://lu.ma/mobzb7qy)
+- **Working Docs:**
+  - [African Guild Onboarding Process](https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing)
+  - [Revised African Ambassadors Guild Proposal Budget _ 230424](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090)
+
+#### Narrative:
+Kickoff: After being away for a while, the African Guild meeting looks forward to a promising quarter (Q4). The meeting started with Duke welcoming everyone. To begin with, he expressed his heartfelt appreciation to all those who consented to the Guild's Q4 budget proposal; however, he hinted that there are still some minor fittings to be made.
+
+Q4 Budget Walkthrough: Following that, we switched gears to tackle the Q4 budget proposal. With screen-sharing, Duke showcased the areas that needed to be funded, including but not limited to AMA sessions, task management, Town Hall updates, facilitation and documentation, projects, and initiatives! He also acknowledged and appreciated people who usually come to his DM to share cool ideas. He encourages such people to always come to meetings just so they can let the entire community be aware of their ideas.
+
+Event Update: Duke shared an update on the forthcoming "Ubuntu and AI" event in Abuja, Nigeria; he mentioned that he would share a video with the community. Duke added that the initial participation threshold was 30 to 40 people; however, over 60 people have registered. To this effect, the team will have to shuffle names to select people who will attend in person randomly. More so, he said that he would share a form with the community to share their thoughts, concerns, and everything they’d like the team to consider. He urged everyone to register for the event and have them broadcast the event to other communities. Just so you know, registering for this event will give individuals access to stream the event virtually from the comfort of their homes. 
+
+
+
+
+#### Decision Items:
+- A little while ago, our weekly meetings turned into a biweekly routine due to the fall of AGIX price and/or there weren’t enough funds in the Treasury; we have agreed to reinstate the African guild weekly meetings since Q4 is already looking promising and we have a lot to catch up on.
+- Due to the fact the members weren’t contributing to documents as they normally would, we have decided to take out the compensation for commenting on documents from the Q4 budget.
+
+#### Action Items:
+- [**action**] Duke to share the Ubuntu and AI event video on the African Guild Discord channel. [**assignee**] Duke [**due**] 3 October 2024 [**status**] done
+- [**action**] Duke to share a link to the registration form so people can stream the event online. [**assignee**] Duke [**due**] 28 September 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Event, Nigeria, Town Hall, Treasury, communities, Q4 2024 budget, AGIX price, meeting cadence, Budget fitting, Ubuntu and AI, consent process
+- **emotions:** forward-thinking, funny , interesting, insightful
 
 
 ## Friday 27th September 2024
