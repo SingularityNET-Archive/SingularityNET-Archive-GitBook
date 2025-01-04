@@ -304,6 +304,7 @@ We basically glanced through all the rest of suggestions in the Retrospectives d
 
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -493,6 +494,71 @@ Continuing with the development of the X spaces, the second one of Q4 2024 will 
 #### Keywords/tags:
 - **topics covered:** content calendar, Rewards, X spaces
 - **emotions:** Collaborative, Strategic, Task-focused, teamwork
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], martinsoki [**documenter**], Duke, Onize, Kateri, LadyTempestt, Eric Davies, Kenichi, Ayo, advanceameyaw, CJFrankie, Clement Umoh, esewilliams, Gorga Siagian, Sucre n Spice, martinsoki
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Working Docs:**
+  - [African Guild Onboarding Process](https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing)
+  - [Revised African Ambassadors Guild Proposal Budget ](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090)
+  - [African Guild Meeting Agenda, 3rd October, 2024](https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing)
+  - [Report for the Ubuntu and AI Event Conference](https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing)
+  - [Ubuntu and AI event Drive](https://drive.google.com/drive/folders/1a-JSaHCu_1iQ3BoxX6HkWSOQGopKDub3?usp=sharing)
+
+#### Narrative:
+Kickoff: The meeting commenced with light talk on the African music industry and we received a warm greeting from Duke, who welcomed all members.
+
+Recap of Meeting: Duke stated he had gone through the minutes and put it to everyone if there were any reservations on it. No one had reservations.
+
+Organization and documentation of meeting summaries within the guild: Cjfrankie outlined the organization of meeting summaries in the Ambassador's Google drive, noting that folders have been created for each quarter. He also said that Tevo has asked the workgroup to provide an email address that will be used to give editing access.
+He went on to say that documenters for every meeting should upload the documents to the relevant folder for the meeting, and the template being used should be in a continuance.
+Duke expressed concerns about redundancy of uploading summaries to both the Google drive and the Archives meeting summary tool, suggesting that all members with African Guild tag should have editing access (or the documenters).
+
+We noted that the Ubuntu and AI event had concluded successfully, with plans to develop conference papers, case studies, and educational materials stemming from the event. Marketing and video collaboration efforts were discussed for promoting these materials.
+
+Discussions also included plans for a Q4 AMA session, with ongoing efforts to solidify the details and budget for the event. 
+
+The meeting concluded with a note on membership caps and the need to finalize onboarding procedures.
+
+The focus group expressed its anticipation for updates from the marketing group, emphasizing the importance of their intentions. The conversation then transitioned to the effectiveness of previous reporting styles, particularly regarding Q3 documents, which were criticized for lacking clarity and justification of the work done. A suggestion was made to enhance the documentation for Q4.
+
+Update on research on indigenous tooling: Ayo presented an update on research related to indigenous tooling and inclusivity within the SingularityNET ecosystem. He outlined three key strategies to expand sNET in Africa:
+- creating tools
+- onboarding builders
+- collaborating with existing solutions that address African problems. 
+
+Ayo emphasized the importance of conducting thorough research to identify community needs and solutions. He introduced execution process documents detailing how to develop Afrocentric tools, onboard social providers, and engage users, stressing the need for a structured approach to implementation.
+The conversation shifted to concerns about onboarding new members, with Ayo clarifying that the aim is to integrate Africans into the ecosystem rather than specifically training ambassadors. He emphasized the importance of solving real-life problems and facilitating connections between solution providers and the community.
+
+Updates on African guild GitHub repository: Sucre gave an update on migrating tasks to the African Guild GitHub repository, with a commitment to complete this by the end of the quarter.
+
+The meeting continued with discussions around outstanding payments from previous weeks, emphasizing the importance of confirming that all members had received their payments due to budget constraints. The topic then shifted to the concept of restructuring payment schedules from a weekly to a monthly basis. A member highlighted the challenges of managing finances when payments are received weekly, citing cultural pressures like "black tax" that often fall on individuals earning more than the average local wage. This member proposed that monthly payments would allow for better financial planning. While some members expressed interest in this change, others preferred the current weekly payment system, citing concerns about potential complications with treasury processes.
+
+Kenichi introduced an upcoming conference titled "Blockchain in Unilag," aimed at promoting blockchain knowledge and connecting various communities. He highlighted the potential benefits for the African Guild, including opportunities for ambassadors to represent SingularityNET and to engage with developers and other blockchain communities. The discussion touched on the possibility of having a booth at the event to promote the ambassador program and gather insights from attendees. Kenichi outlined the booth's purpose: to conduct interviews, provide information about services, and promote engagement from the African community and beyond. The event aims to disseminate knowledge from an African perspective and encourage participation in the ecosystem without requiring attendees to participate in every meeting or conference. The event is happening on November 15th.
+
+
+
+#### Decision Items:
+- - Participation in "Blockchain in Unilag" Conference: we decided on sending a team from the African Guild to represent SingularityNET at the conference.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Ayo and team to proceed with the research on indigenous tooling and inclusivity, utilizing the execution process documents. [**assignee**] Ayo, Onize, advanceameyaw, esewilliams [**due**] 29 October 2024 [**status**] in progress
+- [**action**] A weekly reminder to members who are next on the documentation roster. [**assignee**] Cjfrankie, Duke [**due**] 24 October 2024 [**status**] todo
+- [**action**] Cjfrankie to review all the documents, scrutinize it and help to form a defined and clear structure. [**assignee**] Cjfrankie [**due**] 7 November 2024 [**status**] todo
+- [**action**] The team for the research to decide and provide the budget and the deadline for the research  [**assignee**] Ayo, esewilliams, Onize, advanceameyaw [**due**] 24 October 2024 [**status**] todo
+- [**action**] Cjfrankie to clarify email permissions for accessing the meeting summary folder and ensure all relevant members can edit documents [**assignee**] CJFrankie [**due**] 24 October 2024 [**status**] todo
+- [**action**] Ayo and Onize to prepare and finalize the plan and budget for the Q4 AMA session. [**assignee**] Ayo, Onize [**due**] 24 October 2024 [**status**] todo
+- [**action**]  Ambassador Members to provide feedback on the previous event and suggest improvements for future iterations. [**assignee**] all [**due**] 24 October 2024 [**status**] todo
+- [**action**] Sucre to continue the migration of tasks from Dework to GitHub, aiming for completion by the end of the quarter and reaching out for necessary GitHub IDs. [**assignee**] Sucre n Spice [**due**] 19 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** indigenous tooling, Ubuntu and AI, github board, AMA Session Updates, Documentation, research
+- **emotions:** Interactive, informative, calm, Friendly
 
 
 ## Friday 18th October 2024
