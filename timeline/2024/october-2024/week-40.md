@@ -347,6 +347,7 @@ KBWG Schedule: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=34587646016
 ## Thursday 3rd October 2024
 
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly
@@ -463,6 +464,42 @@ KBWG Schedule: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=34587646016
 #### Keywords/tags:
 - **topics covered:** TH Update, Onboarding Journey Scripts, skills matrix, Q4 2024 budget, Budget fitting, Focus Group, research, Marketing WG, biweekly, fortnightly, meeting dates, Inactive members, Skillshare session, decentralisation, monitoring and evaluation, M&E 
 - **emotions:** Friendly, Full house, Collaborative, Casual
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], advanceameyaw [**documenter**], Duke, Valola, Isaac Daniel, Onize, Ayo, CJFrankie, Clement Umoh, esewilliams, Gorga Siagian, advanceameyaw
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Working Docs:**
+  - [African Guild Onboarding Process](https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing)
+  - [Revised African Ambassadors Guild Proposal Budget ](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090)
+  - [African Guild Meeting Agenda, 3rd October, 2024](https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing)
+  - [Report for the Ubuntu and AI Event Conference](https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing)
+
+#### Narrative:
+Kickoff: The meeting began with a casual conversation, followed by Duke emphasizing the importance of numbering our Guild meetings to track our progress which we used to do. We also conducted a quick review of our documentation template, aiming for consistency and some form of uniformity as highlighted by the archives.
+
+Q4 Budget Updates: There was a brief discussion about reviewing our Q4 budget during the last meeting. It was also noted that the Focus Group will hold a meeting to finalize decisions on what should and should not be fitted.
+
+Update on Research for Developing Indigenous AI Tooling: The guild was reminded about the team that was set up to ideate the research for developing indigenous AI tooling, an extension of the partnership and integration effort that the guild is trying to work on to collaborate with the R&D Guild. The team, comprising Ayo, Emmanuel, Ese, and Onize, is expected to meet and provide updates to the guild. Clement advised them to start ideating early in order to refine their objectives, enabling the guild to approach the R&D for collaboration and support in the upcoming quarters.
+
+Guild Membership Cap: Duke clarified that the African Guild serves as a regional outreach arm within the Ambassador Program, similar to the LATAM Guild, and distinct from being a normal guild within the program. The conversation mainly focused on the idea of a guild membership cap, with discussions on the importance of setting a cap, possible criteria to look for, cap limit in terms of numbers, and what actions to take when the cap is reached.
+
+Update on Ubuntu and AI Event: Duke gave a thorough update on the Ubuntu and AI event with some guild members who participated sharing how transformative it was especially learning from the speakers and the excitement of meeting distant guild members in person. Whilst there is a high demand for its continuity, the guild plans to fine tune this with the community collective initiative.
+
+
+#### Decision Items:
+- We agreed to ideate on the Guild Membership Cap for 2025, and look forward to implementing it in the first quarter of 2025.
+
+#### Action Items:
+- [**action**] Clement to follow up with Bernard Sibanda from WIMS - Cardano [**assignee**] Clement Umoh [**due**] 3 October 2024 [**status**] done
+- [**action**] The team for the research for developing Indigenous AI tooling to update the guild on their progress. [**assignee**] Onize, esewilliams, Ayo, Advanceameyaw [**due**] 29 October 2024 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Membership cap, indigenous tooling, Ubuntu and AI, Q4 2024 budget
+- **emotions:** Interactive, fun, insightful, informative 
 
 
 ## Friday 4th October 2024
