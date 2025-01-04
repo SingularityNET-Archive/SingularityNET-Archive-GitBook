@@ -250,6 +250,7 @@ with certifications and rewards.
 
 ## Thursday 14th November 2024
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Biweekly
@@ -295,6 +296,49 @@ Vani also suggested sharing a link to our quarterly report and budget, which wil
 #### Keywords/tags:
 - **topics covered:** skillshare matrix, onboarding journeys, Q4 2024 Quarterly report, Q1 2025 budget, Governance, budget caps, budget tiers, Town Hall update, skillshare sessions, monitoring and evaluation, M&E, decentralized governance, collaboration skills database, R&D guild, publicity, decentralization research, Decentralization
 - **emotions:** speedy, productive, Collaborative
+
+
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** osmium [**facilitator**], Gorga Siagian [**documenter**], LordKizzy, Advanceameyaw, Clement Umoh, martinsoki, AshleyDawn, osmium, Gorga Siagian, Sucre n Spice, Kateri, Valola
+- **Purpose:** Second Think-Tank Session: AI TOOLSET EXHIBITION: Google LM Notetaker
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation templates](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Second Sandbox presentation: Google LM Notetaker](https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit?usp=sharing&ouid=113948067158841872178&rtpof=true&sd=true)
+  - [Agenda items: AI SANDBOX/THINK-TANK](https://docs.google.com/document/d/1iMs9Z8g-FV_6odYMG00BdKNhHrukHu4OVaSUusl-n5Y/edit?tab=t.0)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introductions: Lord Kizzy welcomed everyone and waited for Clement to join the meeting to begin his presentation on Google LM Notetaker.
+
+- While waiting for Clement to join, Osmium gave an introduction to what AI TOOLSET EXHIBITION is. He reflected on the purpose behind including this segment in the first half of AI SANDBOX sessions, and walked through the key takeaways.
+
+- LordKizzy showed AI Sandbox/Think Tank's Q1 2025 budget allocation of 5K AGIX and asked participants if they agreed with it. He also highlighted the impact of the allocation on our activites. In the discussion, Gorga said that the approval of the budget allocation was waiting on Lordkizzy to finish attending the Governance WG meeting and send a note to the channel on how the budget allocation system at the Governance meeting would be. Sucren argued that the budget allocation must be decided, whether it is approved now or not, and can send a message to Vani regarding the budget allocation decision how.
+
+- Showcasing the second presentation of the Toolset Exhibition series, made by Clement on Google LM Notetaker: A dynamic approach to meeting notetaking. Clement shared the link to the presentation https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit#slide=id.p2
+where he highlighted 
+- a) Overview of the toolset (Detailed Description and Use Cases)
+- b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart) 
+- c) Demonstration (live demo or tutorial/ video walkthrough)
+- d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)
+
+
+#### Decision Items:
+- We decided to change the documenter for this meeting from Advancemayeaww to Gorga. Advancemayeaww will document next week's session.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Lord Kizzy to join the Governance WG call to understand budget calculation for each workgroup, and make a note of budget concerns in our Discord channel for discussion [**assignee**] LordKizzy [**due**] 14 November 2024 [**status**] todo
+- [**action**] Gorga to share the meeting summary in the Discord channel [**assignee**] Gorga Siagian [**due**] 14 November 2024 [**status**] todo
+- [**action**] Members who want to document meetings should indicate their interest in the Discord channel  [**assignee**] All Members [**due**] 21 November 2024 [**status**] todo
+- [**action**] Lord kizzy to create a repository for the next call where members can submit code and documentation for the AI tools [**assignee**] LordKizzy [**due**] 28 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI TOOLSET EXHIBITION, Google LM Notetaker, meeting notes, documentation
+- **emotions:** Welcoming, interactive, Thoughtful, informative
 
 
 ## Friday 15th November 2024
