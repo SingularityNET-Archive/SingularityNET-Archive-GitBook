@@ -4,6 +4,70 @@ description: Mon 2nd Dec - Sun 8th Dec 2024
 
 # Week 49
 
+## Monday 2nd December 2024
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], CallyFromAuron, LadyTempestt, PeterE, Aetherblade, Duke, Ayo, esewilliams, Sucre n Spice, advanceameyaw, CollyPride, Onize, AshleyDawn
+- **Purpose:** Regular monthly meeting of the AI Ethics WG
+- **Working Docs:**
+  - [WG GitHub Board](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues)
+  - [AI Ethics WG Stuffs](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+
+#### Narrative:
+Tasks on Github
+We started by going through tasks “in progress”;
+We went through Q4 Interviews updates. Duke said he has done 3 interviews so far and will wrap up the remaining 7 before we go for holiday this quarter. Clement, Ayo and Kenichi are done with their Q3 interviews. AdvancedAmeyaw has done 3 so far and is looking to finish his Q4 interviews by the 7th of December. Onize is done with her Q4 interviews, Ese’s interviews for Q3 and Q4 are progressing just fine. We are not moving interviews “in progress” to “done” yet until the validity of the interviews has been confirmed (listening to at least part of them to check audibility, clarity, relevance, length all conform to the validity criteria) by Esther, LeeLoo and Vani.
+
+Moderation of the AI Ethics forum: Clement is doing fine here, nothing dramatic yet lol. He will be asked to write an update in the issue itself on how it's gone this Quarter.
+
+Pre-AGI-24 roundtable and AGI-24 Chillout rooms rewards: These payments will not go through the Ambassador program Treasury system after all but will come directly from the Foundation via  the Supervisory Council's budget. Esther reached out to the Foundation's financial operations team, and rewards are supposed to go out this week. Leeloo will reach out to her for confirmation. The issue will remain open till it's resolved and paid.
+
+Admin Team Roles: WG Internal Management, WG Async Support, Co-chair and Community Manager have all given updates on what they have been doing, s these issues can be closed and sent for payment.
+
+AI Ethics Events: We are looking to meet before the end of this quarter to discuss in a session what kind of events (virtual & physical) the Ambassador Program should attend next year.
+
+Documenting BeGIN meetings: we will not be doing this next Quarter. Onize will upload any that she has done, and will update the issue on the github board.
+
+We went onto tasks in “to-do”;
+Sucre isn't doing Q4 Interviews anymore, Ese will get to hers soon.
+How long should we keep Q3 interviews open? Especially the ones still in “to-do”. CollyPride and LadyTempestt suggested the end of the year or before we all go on holiday. CallyFromAuron suggested we wait till Q1, 2025 and if there are people with Q3 interviews that are yet to be done, and other people interested in doing interviews in Quarter 1 then we should reallocate budget.
+We will look at producing educational resources to demystify basic AI Ethics terminology & ideas, and rewarding people who attended the training session for interviewing skills again in early Q1 if we have extra budget (which will depend on AGIX price). 
+
+
+We also went through our Q1 2025 budget items: We will assign some specific items to people at the beginning of January or our first meeting next year. Colleen, Ese showed interest in this budget item “ideation on how to get donors”. Onize, Duke, and possibly Stephen are interested in Knowledge Management and Data Analysis. If AGIX goes up we might be able to start doing some transcription in Q1 (using ReadAI and edited by the interviewers) but if not, this will begin in Q2 2024.
+
+We also went through and finalized our Q4 report.
+
+Survey Sharing: We have tested the survey and so far it just needs some small tweaks so it can go out. Esther is working on these, but it might not be ready before the end of the quarter. 
+
+
+
+#### Decision Items:
+- Clement will be a co-chair mentee again next quarter.
+  - [**rationale**] He needs more time to grow into an admin role of his choice where possible.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will aim to meet on Monday, 9th December at 14:00 UTC to discuss AI Ethics Events. Vani, Peter, Colleen, Duke, LeeLoo, Esther are interested, and it will be open to anyone else who wants to attend.
+  - [**effect**] mayAffectOtherPeople
+- We will wait till Q1, 2025 and if there are people with Q3 interviews that are yet to be done, and other people interested in doing the interviews in Quarter 1 then we would reallocate.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will continue to meet monthly in Q1 2025.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will meet on the 13th of January, 3rd of February and the 3rd of March for our WG meetings next quarter.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to reach out to Onize about documenting BeGIN Meetings to find out where she’s at with it. [**assignee**] CallyFromAuron [**due**] 31 December 2024 [**status**] in progress
+- [**action**] Vani to reach out to Clement to put down updates on the GitHub issue assigned to him as a Co-Chair Mentee on what he's been up to. [**assignee**] CallyFromAuron [**due**] 24 December 2024 [**status**] in progress
+- [**action**] LadyTempestt to reach out to PG, Kevin Frey and Vasu concerning their Q4 interviews to find out how it is going. [**assignee**] LadyTempestt [**due**] 17 December 2024 [**status**] done
+- [**action**] Ladytempestt will document on 13th January, Onize will document on 3rd February and CollyPride will take on documentation on the 3rd of March. [**assignee**] LadyTempestt, Onize, CollyPride [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Interviews, Q3 and Q4 Interviews, AI Ethics Events, Q1 budget, survey sharing, payments, rewards, AGI-24, sNET Foundation, AGIX price, budget reallocation, admin roles, mentorship, co-chair, attendance at events, 
+- **emotions:** Deliberative, quiet, funny 
+
+
 ## Wednesday 4th December 2024
 
 
