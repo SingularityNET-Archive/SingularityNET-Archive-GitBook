@@ -185,6 +185,7 @@ How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D 
 
 ## Thursday 5th December 2024
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -233,6 +234,46 @@ Overall, the meeting agreed that the points raised have been sufficiently answer
 #### Keywords/tags:
 - **topics covered:** Decision Making Process, consent decision making, Q1 2025 budget, Q4 2024 quarterly report, AI Sandbox/Think Tank, validity of objections, experts, AI developers, SingularityNET Foundation, R&D guild, github board
 - **emotions:** decisive, focused, thorough, calm
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], martinsoki, Kateri [**documenter**], AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, CollyPride
+- **Purpose:** regular meeting of AI Think-Tank
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda Items AI Sandbox/Think Tank](https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0)
+  - [A.I Sandbox/Think tank Workgroup Budget Request Q1 2025](https://docs.google.com/spreadsheets/d/1533H_uqak_S1ib4sUON5mBjqkXN3DHcRYLl6cVVymWg/edit?usp=sharing)
+  - [A.I Sandbox/Think-tank Q4 2024 Report](https://docs.google.com/document/d/1LEGDMIj7fmLvTsCy0rbvop5TMC-kZt-AYCZIlU4Cavw/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- LordKizzy reflected on the previous session, and proposed a mentorship program aimed at assisting new members on documentation. He noticed some new faces in our previous calls and suggested a documentation roster for the next quarter. When creating the documentation roster, he will speak to Kateri so she can include the names of our new documenters, hopefully they will get to document within Q1 2025.
+- Metrics and attendance, log context e.g: growth trends, significance, tie activities such as productivity enlargement. One of the goals for AI Sandbox is keeping the community engaged through exhibitions and open discussion. One of the things we were able to achieve in the last quarter, which we documented in our Q4 quarterly report, was the fact that we were able to average a total of 15 participants on our calls this quarter.
+- LordKizzy: One of the things I noticed in this program was due to the fact that we presented our budget in a way that so many workgroups also did, like presenting the average participation so far. It was something that he saw in so many reports. All those that used the same format for the reports were meant to be spotlighted for metrics and KPI in terms of participation.
+
+- Discussion on testing tools: If we are having two presentation machines and we are not testing the tools to see if they can possibly adopt the ecosystem, then we would have been criticized for just having a session and having no impact on the Program. If an AI notaker is better than read AI and we are able to present this tool to the community, and it benefits, and it's fully adopted by the Ambassador program, this would be something that we can claim as an achievement from our sessions. Same with Zapier, same as with Behagetri.
+- Reflection points for Q4 and Planning for Q1 2025: We were asked to speak on the sessions we enjoyed most. Gorga and Advance spoke on the debate session for think-tank, LordKIzzy listed things that we are going to have in Q1, which are project showcase sessions and AI tool exhibitions for AI Sandbox, and discussions on machine learning, vision analysis, AI roundtable discussion, theoretical debate  and critical thinking sessions for AI Think-tank.
+- AI sandbox and think-tank Discord membership tag: Gorga suggested the membership tag should be "think/tank". Or "sandbox think/tank?" LordKizzy suggested "thinkers", Ashley suggested "AI tank" or "ThinkAI", Kateri suggested "AI thinkers", MartinSoki suggested "Thinkers".
+
+#### Decision Items:
+- We agreed to create a documentation roster for the next quarter and also mentorship program for the newcomers who cannot document.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to add "action items" into the agenda as a regular item.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create a Google form on the feedback from various AI Sandbox/Think Tank sessions [**assignee**] LordKizzy, osmium [**due**] 12 December 2024 [**status**] todo
+- [**action**] Members are to fill out the Google forms concerning feedback from various AI Sandbox/Think Tank sessions. [**assignee**] All [**due**] 19 December 2024 [**status**] todo
+- [**action**] Lordkizzy to speak to Kateri about the documentation roster for new members. [**assignee**] LordKizzy, Kateri [**due**] 23 January 2025 [**status**] todo
+- [**action**] Lordkizzy to prepare a report comparing the effectiveness of different note-taking tools. [**assignee**] LordKizzy [**due**] 12 December 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Roadmap of AI Sandbox/Think Tank, Documentation, note-taking tools, tool testing, Q4 2024 report, retrospective, Q1 2025 budget, attendance, metrics, Discord tag
+- **emotions:** welcoming, informative, interactive
+
+
 ## Friday 6th December 2024
 
 
