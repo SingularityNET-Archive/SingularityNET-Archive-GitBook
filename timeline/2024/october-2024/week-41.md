@@ -372,6 +372,7 @@ The LatAm team will be supporting the communication efforts and call 2 action fo
 
 ## Thursday 10th October 2024
 
+
 ### AI Sandbox
 
 - **Type of meeting:** Weekly
@@ -399,6 +400,55 @@ there was another question on the similarities between AI sandbox/think tank and
 #### Keywords/tags:
 - **topics covered:**  Experimentation, Exhibitions, Knowledge Graphs, MeTTa, Brain Fog, meeting schedule, Zoom permissions, Zoom, 
 - **emotions:** Friendly, Collaborative, speedy, progressive, Welcoming
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], Kateri [**documenter**], Duke, Advanceameyaw, Valola, Onize, Kateri, LadyTempestt, Eveline Trinite, Eric Davies, CJFrankie, martinsoki, Clement Umoh, esewilliams, Gorga Siagian, Sucre n Spice
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Working Docs:**
+  - [African Guild Onboarding Process](https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing)
+  - [Revised African Ambassadors Guild Proposal Budget ](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090)
+  - [African Guild Meeting Agenda, 3rd October, 2024](https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing)
+  - [Report for the Ubuntu and AI Event Conference](https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing)
+  - [Ubuntu and AI event Drive](https://drive.google.com/drive/folders/1a-JSaHCu_1iQ3BoxX6HkWSOQGopKDub3?usp=sharing)
+
+#### Narrative:
+Kickoff: The meeting commenced with a warm greeting from Duke to all members. 
+
+Documentation strategy: An issue was raised regarding the use of different documenting templates. This prompted a conversation on the need for consistency in the documentation process. Duke suggested appointing someone to take on the role of Archivist. This person would be responsible for reviewing all our documentation since the project began, scrutinizing it, and helping to define a clear and consistent structure.
+
+Update on Research for Developing Indigenous AI Tooling: Onize gave an update that they have started making progress: they have drawn up their line of action and are awaiting a template from Ayo on the research. Duke highlighted the need for feedback on progress due to the time-sensitive nature of the project and the approaching deadline. He also requested a budget for the research so it can be properly allocated and fitted in the budget planning.
+
+Update on Ubuntu and AI conversation: Duke clarified that the feedback we have been getting is excellent and we have clearance to continue. If we are thinking about the next city aside from Abuja, it would be Lagos. It was brought to our notice that the recorded versions of the events are accessible and they are in the drive. 
+For our next iteration, Duke said that he had a theme he had come up with 'Ubuntu and AI memories of the future' although it is not set and may still change. 
+
+Use of cameras during the meeting: There was a suggestion for people to have their cameras on during meetings. However, this was met with strong opposition from the majority of members.
+
+
+#### Decision Items:
+- We decided to remind members who is to document next in every meeting
+  - [**rationale**] Reminding the next person responsible for documentation helps maintain clarity.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to have a second iteration of the Ubuntu and AI event, but the date has not been decided upon.
+  - [**rationale**] The date has not been set due to budgetary considerations. 
+  - [**effect**] mayAffectOtherPeople
+- We decided to appoint Cjfrankie to review all the documentation since the guild began, synchronize it, and help to define a clear documentation structure. 
+  - [**rationale**] This effort will enhance our team's efficiency and documentation structure.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The team for the research for developing Indigenous AI tooling to update the guild on their progress. [**assignee**] Onize, esewilliams, Ayo, advanceameyaw [**due**] 29 October 2024 [**status**] in progress
+- [**action**] A weekly reminder to members who are next on the documentation roster. [**assignee**] Duke [**due**] 17 October 2024 [**status**] todo
+- [**action**] Cjfrankie to review all the documents, scrutinize it and help to form a defined and clear structure. [**assignee**] CJFrankie [**due**] 7 November 2024 [**status**] todo
+- [**action**] The team for the research to decide and provide the budget and the deadline for the research  [**assignee**] Onize, Ese Williams, Ayo, advanceameyaw [**due**] 17 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** indigenous tooling, Ubuntu and AI, Documentation, Camera usage
+- **emotions:** Interactive, fun, Friendly, warm
+- **other:** Ubuntu means "I am because we are". 
 
 
 ## Friday 11th October 2024
