@@ -154,6 +154,57 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 - **emotions:** productive,  Collaborative, Businesslike.
 
 
+## Thursday 21st November 2024
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** osmium [**facilitator**], Kateri [**documenter**], Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, osmium, Malik, Santos, LordKizzy, martinsoki
+- **Purpose:** Introduction to AI Modules and Ethical Frameworks for AGI
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [Agenda items: AI SANDBOX/THINK-TANK](https://docs.google.com/document/d/1pp9oEkb3hWvVHxkLj8MJ3ySKWv05HCbJIUGaXFXBbfw/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation templates](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [First Sandbox presentation](https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda items for AI SANDBOX DEBATE ](https://docs.google.com/document/d/1zwb-XVr5Vj2itegnwalZzYA65Sxta3sKTBzTmys94-Q/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: Osmium welcomed participants and introduced the session agenda. 
+- Osmium showcased the presentation of the exhibition on Benevolent Artificial General
+Intelligence: he shared the link to the presentation https://www.canva.com/design/DAGXGJ5nA2c/WawaQ_Bj3VI21a85LzvHnQ/edit where he highlighted the 
+ - a) Overview of the toolset 
+ - b) Purpose of the tool: To ensure AGI operates within moral and ethical frameworks that prioritize humanity's well-being
+ - c) Demonstration of the detail topics were shown
+
+Topics
+ - Ethical architecture for AGI; Moral Decision-Making Frameworks, Value Alignment Techniques and Dynamic Ethical Adaptation.
+- Self-Regulating AGI Systems; Artificial Immune Systems (AIS) for AGI, Meta-Cognitive Systems and Dynamic Safety Constraints.
+- Neuromorphic and Bio-Inspired Architectures; Neuro-Immune Integration, Cellular Automata for AGI and Fractal Intelligence.
+- AGI Cognitive Architectures; Recursive Self-Improvement (RSI), Unified Theory of Cognition and Attention Mechanisms for AGI.
+- Emotional and Social Intelligence in AGI; Social awareness AGI and *Simulating Emotional Dynamics*
+- Distributed AGI Systems; Swarm Intelligence in AGI, Federated Learning for AGI and Hierarchical AGI Ecosystems.
+- Questions:
+ - What disaster will the tool cause? Natural disaster
+- How is AGI going to analyze global market trends without accessing the patients' personal records? The data set they used is different and it should be on the blockchain technology. Like smart contract, the data set will be encrypted. 
+- Workgroup Budget discussion: We requested an extra 2,419 AGIX but we were able to get 1,000 AGIX. Our plans for Q1 2025 are to have the sessions we didn't include in our current quarter. So far, our plan for Q1 is to have project showcase, two theoretical debates, team pieces to gather member insights on AI topics and others.
+
+#### Decision Items:
+- We decided that Clement will facilitate Thinktank on the 5th of December.
+  - [**rationale**] Because Osmium won't be available on that date
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kateri to document this meeting [**assignee**] Kateri [**due**] 21 November 2024 [**status**] done
+- [**action**] Malik to host the next AI Sandbox session on 28th Nov [**assignee**] Malik [**due**] 28 November 2024 [**status**] todo
+- [**action**] LordKizzy to reach out to participants for the next Sandbox sessions and send them the presentation template  [**assignee**] LordKizzy [**due**] 28 November 2024 [**status**] todo
+- [**action**] Advanceameyaw to document the next call [**assignee**] advanceameyaw [**due**] 28 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Benevolent Artificial general Intelligence, Benevolent AGI, moral decision-making frameworks, ethical architecture for AGI, Self-regulating AGI systems, Bio-Inspired Architectures, neuromorphic architectures, Artificial Immune Systems, AIS, Neuro-Immune Integration, recursive self-improvement, RSI, Unified Theories of Cognition, swarm intelligence, emotional intelligence in AGI, Distributed AGI Systems
+- **emotions:** interactive, educational, productive, entertaining
+
+
 ## Friday 22nd November 2024
 
 
