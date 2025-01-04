@@ -266,6 +266,7 @@ Most agreed
 
 ## Thursday 12th December 2024
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Monthly
@@ -340,6 +341,51 @@ We agreed that these and other ideas will need to be discussed further.
 #### Keywords/tags:
 - **topics covered:** WG Sync Call content, Reserves, Budget , events, retrospective, Google Form, feedback, mentorship, skillsharing, podcasts
 - **emotions:** interesting, participatory, slow start, Discursive
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** osmium [**facilitator**], Kateri [**documenter**], AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, CollyPride, martinsoki, Santos, LordKizzy
+- **Purpose:** AI TOOLSET EXHIBITION: Podcastle: A Podcast Automation Tool
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [4th presentation AI Tools Exhibition: Podcastle](https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?#1) utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda Items AI Sandbox/Think Tank](https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0)
+  - [Iteration Form](https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introductions: Osmium welcomed everyone and gave a presentation on the overview of the AI Tools Exhibition series, talked about the mission, and highlighted the key takeaways and how it is relevant to the Ambassador program. 
+- Showcasing the fourth presentation of the exhibition made by Gorga about Podcastle.ai: This AI tool helps to edit podcasts, to have a good quality audio, and makes transcriptions automatically. He specifically chose this AI tool to exhibit because a guild from our ambassador program has plans to start a podcast and this tool will be helpful.  He shared the link to the presentation 
+https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?utm_content=DAGYg60PrCI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+where he highlighted the 
+ - a) Overview of the toolset: Podcastle.ai is a cloud based, AI-powered audio production platform design to streamline the creation of podcasts, voiceovers and other audio content.
+ - b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] 
+ - c) Demonstration [live demo or tutorial/ video walkthrough)
+ - d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)
+
+
+- Questions were asked and clarity was made on the operation of Podcastle.ai.
+-  Iteration form: This is a form where members give monthly feedback on our sessions, on the tool we have showcased, and how we are going to progress implementing the tools.
+
+#### Decision Items:
+- We decided that the iteration form is always open and will be looked into monthly
+  - [**rationale**] To ensure members provide consistent, monthly feedback that helps track progress and refine processes within the Workgroup.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to resume for the next quarter on Thurs 9th January 2025
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kateri to create 2025 documenting roster [**assignee**] Kateri [**due**] 9 January 2025 [**status**] todo
+- [**action**] All members to fill the Iteration forms [**assignee**] Members [**due**] 31 January 2025 [**status**] todo
+- [**action**] Adavcemeyaw to prepare for the next quarter sandbox session [**assignee**] advanceameyaw [**due**] 9 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI TOOLSET EXHIBITION, podcast, audio, transcrition, Roadmap of AI Sandbox/Think Tank, Podcastle.ai, Iteration, Iteration form, feedback, implementing tools
+- **emotions:** welcoming, informative, interactive
+
+
 ## Friday 13th December 2024
 
 ### Video Workgroup
