@@ -212,6 +212,7 @@ Martín and Sergio will be in charge of the second X space of SNET_LatAm, entitl
 ## Thursday 24th October 2024
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -332,6 +333,45 @@ We also noted that if we change the method without addressing underlying issues 
 #### Keywords/tags:
 - **topics covered:** AI round table, AI Think Tank session, AI and jobs, job availability, employee monitoring, AI decision-making, AI ethics, AI bias, discrimination, human-AI collaboration, job displacement, creativity
 - **emotions:** Welcoming, interactive, Thoughtful , entertaining
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], CJFrankie [**documenter**], Eric Davies, Duke, Kateri, LadyTempestt, Kenichi, Bethel Akpo, Clement Umoh, advanceameyaw, CJFrankie, martinsoki, Effiom, esewilliams, Valola
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Other media:** [Link](http://singularitynet.africa/ | https://www.instagram.com/snet_africa?igsh=cDEzMWNmemFqdjVp |  https://www.linkedin.com/in/singularitynet-africa  | https://medium.com/@singularitynet.africa | https://x.com/Snetafrica | https://t.me/+5oS0y-KXEJczY2Y0  | https://www.youtube.com/@SingularityNet.Africa)
+#### Narrative:
+Kickoff: The African guild meeting began at 5:18 PM with Duke welcoming everyone. We glanced over the minutes from the last meeting to tick off some action items. First off, Duke gives credit to Martinsoki for documenting excellently; however, he pointed out that the summary has two different font styles! He added that meeting documenters should use “Nunito" font as our standard.
+
+Research updates: Advance shared an update on the “indigenous AI tooling research.” He added that Phase One of the research, which was about drafting process documents, has been completed. The research team is yet to embark on phase two.
+
+AMA Session: Clement shared insider tips on the AMA side of things. He hinted that decisions have been made on the forthcoming AMA session scheduled for November 29th. Speaking of time, the purpose of the AMA session, and the selection of speakers, there are several ongoing discussions. The session will feature engaging moments such as Q&A and other interactions from previous sessions. Lastly, he added that come the next meeting, the speakers will be selected; and the team will share more detailed updates.
+
+AOB: As a matter of finality and news worth mentioning, Duke announced the approval of his Deep Funding proposal, which aims to spread the word on SingularityNET in the African continent. Although it's a work in progress, he showcased the newly launched website (https://www.singularitynet.africa). He mentioned the impact of SingularityNET in African universities — the team has been working behind the scenes on this. He also showcased all the social media platforms while encouraging African Guild members to share their feedback and thoughts on the project. 
+
+More AOB: The meeting also featured the presence of Kenichi, who spoke about the forthcoming blockchain event at the University of Lagos (Unilag); he sought clarity on the number of African Guild members who will be live at the event. He also spoke about taking the discussion to Marketing Guild to ideate more, and the AI Ethics workgroup to see how they can support by providing merchandise from the Foundation or BeGIN for the event.
+
+Duke also discussed the forthcoming Virtual AGI conference scheduled for November which is the first of its kind on the African continent.
+
+
+
+#### Decision Items:
+- We have decided to make the Nunito font the standard font for our meeting documentation.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Duke to provide the email addresses of people who will have editing access to the Ambassadors Google Drive. [**assignee**] Duke [**due**] 31 October 2024 [**status**] todo
+- [**action**] Duke to chase Ayo to get a clue on how many people will volunteer their presence in the BUI event run by Kenichi.
+ [**assignee**] Duke [**due**] 14 November 2024 [**status**] in progress
+- [**action**] Sucre to translate articles from Ubuntu and AI events.
+ [**assignee**] Sucre n Spice [**due**] 31 October 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** DeepFunding, African, BUI, Conference, Research, AMA Session Updates, Unilag, Translation, Documentation, universities, African universities, indigenous tooling
+- **emotions:** Resourceful, informative, quiet, short
 
 
 ## Friday 25th October 2024
