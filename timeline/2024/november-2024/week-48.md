@@ -141,6 +141,7 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 ## Thursday 28th November 2024
 
 
+
 ### Governance Workgroup
 
 Meeting was cancelled
@@ -197,6 +198,51 @@ Meeting was cancelled
 #### Keywords/tags:
 - **topics covered:** skillshare matrix, onboarding journeys, Q1 2025 budget, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skills database, R&D guild, publicity, decentralization research, Decentralization, research project
 - **emotions:** speedy, Friendly, Casual
+
+
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** osmium [**facilitator**], advanceameyaw [**documenter**], Clement Umoh, AshleyDawn, Gorga Siagian, Kateri, Yemi Solves, Sub Zero, Santos, osmium, advanceameyaw, LordKizzy, Malik, martinsoki
+- **Purpose:** AI TOOLSET EXHIBITION: Zapier: A Workflow Automation Tool
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Third Sandbox Presentation](https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Agenda Items AI Sandbox/Think Tank](https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introductions: Osmium welcomed everyone and gave an overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and its relevance to the Ambassador program. All the information concerning the mission and key takeaways is linked in the Working Docs.
+- Showcasing the third presentation of the AI Toolset Exhibition series, by Malik on Zapier: a workflow automation tool that can help you automate routine tasks. We learned that Zapier connects over 5,000+ apps from various categories, including productivity, marketing, e-commerce, and customer support. Malik highlighted some of the popular integrations, such as Google Sheets, Slack, Trello, Salesforce, Shopify, and Mailchimp.
+- The session continued with Malik taking us through the following:
+
+ - a) Overview of the toolset: A simple workflow on building a Zap by linking your Google Drive to YouTube for automated uploads.
+
+ - b) Architecture and Technology Stack: The Zapier site link (https://zapier.com) was shared to highlight more on this. 
+
+ - c) Demonstration [live demo or tutorial/video walkthrough]: Zapier automation: How to build a Zap - Zapier 101
+
+ - d) Outcome Report or Results and Impact: Talked about the impact and performance of Zapier increasing efficiency and boosting productivity.
+
+- Questions were raised around integrating with Discord, pricing, and monetizing automated workflows with YouTube, with a showcase of the process of integrating, visiting the pricing page, and uncertainty on monetization until explored by Malik.
+- Osmium showed the Roadmap of AI Sandbox/Think Tank, which emphasises the moderation phase, ideation phase, and iteration phase. He narrowed down on the iteration phase and getting a mechanism to take constructive feedback from people who have experienced our sessions so far. Kizzy stressed how ideally this feedback would help the program in terms of possible adoptions and comparison with other tools within the Ambassador program.
+
+#### Decision Items:
+- We agreed to use Google Forms to take feedback on sessions so far.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to get a Discord tag for members, and to ideate in Discord on possible tag wording.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create a Google form for feedback from AI Sandbox/Think Tank sessions so far [**assignee**] LordKizzy, osmium [**due**] 5 December 2024 [**status**] todo
+- [**action**] Members are to fill out the Google forms concerning feedback from various AI Sandbox/Think Tank sessions. [**assignee**] All [**due**] 19 December 2024 [**status**] todo
+- [**action**] Advanceameyaw to document this call [**assignee**] advanceameyaw [**due**] 5 December 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** AI TOOLSET EXHIBITION, Zapier, Productivity, Efficiency, Automating Workflows,  Roadmap of AI Sandbox/Think Tank
+- **emotions:** welcoming, informative, interactive, thoughtful, simple
 
 
 ## Friday 29th November 2024
