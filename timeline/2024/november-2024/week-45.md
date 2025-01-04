@@ -377,6 +377,65 @@ Update the founding members
 - **emotions:** productive,  Collaborative, Businesslike.
 
 
+## Thursday 7th November 2024
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], Kateri [**documenter**], Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, osmium, Gorga Siagian, SubZero, martinsoki, LordKizzy
+- **Purpose:** Think-Tank session: theoretical debate on AI's impact on education 
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [Agenda items: AI SANDBOX/THINK-TANK](https://docs.google.com/document/d/1pp9oEkb3hWvVHxkLj8MJ3ySKWv05HCbJIUGaXFXBbfw/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation templates](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [First Sandbox presentation](https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda items for AI SANDBOX DEBATE ](https://docs.google.com/document/d/1zwb-XVr5Vj2itegnwalZzYA65Sxta3sKTBzTmys94-Q/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting coordination and Introduction: Lord Kizzy welcomed everyone and explained the process of the debate. 
+- Kateri started the debate with a brief introduction to the history of how technology has impacted education. She said that throughout history, each breakthrough in technology has improved education, from the printing press of the 15th century to the invention of the computer in the 20th century.
+- 1. Personalized learning: From the proposition team, Kateri said that AI enables personalized learning, by tailoring educational content to the needs of individual students. This allows every student to progress at their own pace. She said that learning platforms like Coursera and Anhad Academy use AI algorithms to help recommend content that matches each user's learning space.
+
+From the opposition team, Clement highlighted that AI lacks the depth of understanding to account for emotional and social factors that influence learning. He highlighted the story of Ben Carson, saying that AI cannot bring the actual solution anybody needs. He explained how education is not just about delivering information but about fostering curiosity, building problem-solving abilities, and emotional growth, which AI doesn't account for. He also stated that the educational platform Coursera just uses algorithms and thereby misses out students' unique strengths and challenges that human teachers would notice, and can even miss out the fact that the student failure can be due to emotional challenges faced in family or society.
+
+- 2. Enhanced access to education: From the proposition team, Kateri said that AI can expand educational access to underdeveloped communities. Through AI platforms, students in rural areas can still gain access to high quality educational resources that were previously unavailable to them. This ensures that students all over the world have opportunities to learn from the same resources despite the language of the resources. She also said that AI tools like Google do not just make the resources available, but also conquer the problem of language barriers, so articles or videos being said or written in a language the reader doesn't understand can easily be translated to a language they know. 
+
+From the opposition team, Clement raised the problem that most AI tools are internet connection dependent, and students or researchers in underdeveloped communities may not have good Internet access. He stated that although AI can remove language barriers to some extent, it will miss out the cultural context that a human teacher or human educator would have accounted for. He also stated that if a white person is developing AI tools to be used by Africans there will be a lot of bias, and it will fail to convey important cultural content.
+- 3. Automating administrative tasks: From the proposition team, Advanceameyaw highlighted that every individual craves for automation, and it has existed for a long time. He noted that automation of administrative tasks like grading, scheduling and student management can be handled by AI tools like Gradescope or Google Classroom. He further said that if AI handles the administrative tasks, it will leave the teacher free to work on the students' emotional development, which will enhance the students' engagement, creativity and critical thinking among themselves.
+
+From the opposition team, Clement highlighted that this point contradicts the proposition team's first argument. He said that AI's ability to focus on administrative tasks is a major benefit, but there is a huge rate depersonalizing educational experience. He also said that teachers being present is needed because otherwise, who do we ask questions of when we do not understand?
+- 4. Risk of over-reliance on AI: From the proposition team, Advanceameyaw stated that AI is a tool and not a replacement for human interactions. When you see an AI tool doing all the task, it is not there to eliminate our critical thinking. He said that AI is human knowledge accumulated in silicon or in an application for us to assess -  we use AI to get the information that we need and then through our creative thinking we are able to work out that information and turn it to relevant data. 
+
+From the opposition team, Gorga highlighted that over-reliance on AI is very risky. Clement added that there are studies that have demonstrated that AI is tampering with human creative thinking (for example, Zhai, C., Wibowo, S. & Li, L.D. "The effects of over-reliance on AI dialogue systems on students' cognitive abilities: a systematic review" Smart Learn. Environ. 11, 28 (2024). https://doi.org/10.1186/s40561-024-00316-7). He concluded that yes, it is fine that we get information from AI but we also need to bring human input and that is where the problem lies because 'who is there to define where to draw the line?'
+- 5. Equity and accessibility issues: From the opposition team, Gorga highlighted the point that the assumption that AI can automatically bridge the gap for underdeveloped communities fails to consider the reality of digital devices. He noted that students in low-income areas lack internet access, devices, technological support, and ways to be able to make AI tools more accessible to them; and even if they were able to gain access to the tools, the tools are often designed in such a way that students would not be able to make relevant use of them to study.
+
+From the proposition team, Advanceameyaw highlighted that if an AI tool benefits one set of people rather than another region of people due to accessibility, that means it is a challenge to that region's contribution because it is obvious that the tool belongs to everyone, but it hasn't reached everyone due to different challenges. He noted that knowledge is neutral and that it belongs to anybody, but the unequal access to tools is the challenge.
+- 6. Data privacy and security: From the opposition team, Clement said that data privacy is an ongoing concern, not just in an educational context, but in general. He stated how data privacy laws are still lagging behind the technology; that is why in AI Ethics workgroup, they are still having discussions on how they can securely handle interview data. He also noted that we need to talk about how the data is being used and who has access to it, to ensure that it is not used for personal profiles. 
+
+From the proposition team, Kateri highlighted that AI platforms are designed to support data privacy and security measures. She stated that we all know that data cannot be secured 100% - previously, data were stored in files and that endangered student privacy, and even the data itself that was stored from natural and human disaster, but AI platforms can help security with a strong encryption. Example stated was WhatsApp's end-to-end encryption.
+
+Clement countered Kateri's points and said that we should remember that it is humans who operate the programs, but if there is misalignment of intention, it will lead to something else.
+- 7. Potential job displacement: From the opposition team, Gorga said that as AI becomes more common in education systems, there is a concern about job displacement, especially for administrative staff and teachers. He noted that instead of teachers interacting deeply with the student, it will turn teachers into facilitators who manage AI tools, and will make teaching of less value. 
+
+From the proposition team, Kateri said that AI is not here to replace the teacher's job, but to improve it. AI allows teachers to focus on their unique strengths (moral and emotional support to the children) and giving space also to nurture the students, while AI handles the repetitive time-consuming tasks.
+- 8. Reshaping educational models: From the opposition team, Gorga said that AI is changing education by pushing hybrid learning, and this may seem progressive but it risks taking away important face-to-face interaction that helps develop emotional intelligence. Clement added that we are prioritizing market-driven skills over holistic education, and this will just produce students that are only trained for specific jobs and that are not encouraged to exploit other intellectual pursuits.
+
+From the proposition team, Advanceameyaw stated that those in certain regions have difficulties in getting access to important material, and now that there is technological advancement, AI has given the chance to have hybrid and blended learning just with our smart phone, which has helped to assist education in those regions that are lacking.
+
+#### Decision Items:
+- We decided that we are going to have another debate session in this quarter.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Members who want to document meetings should indicate their interest in the group's Discord channel  [**assignee**] All Members [**due**] 7 November 2024 [**status**] todo
+- [**action**] Clement to host the next AI sandbox session [**assignee**] Clement [**due**] 14 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI impact on education, technology and education, personalized learning, AI and emotional intelligence, AI and social support, problem-solving, teachers, students, data privacy, data security, Internet access, Africa, barriers to Internet access, barriers to learning, barriers, Translation, Language exclusion, job displacement, accessibility, equality, underdeveloped communities, tool design, inequality in tool design, rural, rural exclusion, access to education, low income, hybrid learning, blended learning, encryption, administrative tasks, AI and administrative tasks, AI's effect on human cognitive ability
+- **emotions:** interactive, educational, productive, entertaining
+
+
 ## Friday 8th November 2024
 
 
