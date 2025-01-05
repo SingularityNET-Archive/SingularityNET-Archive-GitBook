@@ -167,6 +167,7 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 ## Thursday 31st October 2024
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Biweekly
@@ -276,3 +277,44 @@ For the next Sandbox session: Lots of members expressed interest in hosting our 
 #### Keywords/tags:
 - **topics covered:** Video Demo, AI Tool Exhibition, Hygen.ai, AIS [artificial immune system], MeTTa Coder Lab
 - **emotions:** Welcoming, interactive, Thoughtful , entertaining
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Clement Umoh [**facilitator**], martinsoki [**documenter**], Eric Davies, Kateri, LadyTempestt, Jay Bhagat, Ayo, Onize, Clement Umoh, advanceameyaw, CJFrankie, martinsoki, esewilliams, Sucre n Spice, Effiom
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Other media:** [Link](http://singularitynet.africa/ | https://www.instagram.com/snet_africa?igsh=cDEzMWNmemFqdjVp |  https://www.linkedin.com/in/singularitynet-africa  | https://medium.com/@singularitynet.africa | https://x.com/Snetafrica | https://t.me/+5oS0y-KXEJczY2Y0  | https://www.youtube.com/@SingularityNet.Africa)
+#### Narrative:
+Kickoff: The African guild meeting began at 5:10 PM with Clement welcoming everyone and giving the reason why Duke is not available in today's meeting. Isaac Daniel was meant to be our documenter, but he was unavailable, so MartinSoki opted to step in. We glanced over the minutes from the last meeting summary; no one had any reservations. 
+
+Tripartite Partnership with African Guild: We had this partnership conversation in Q3 and now we are finalizing it, we are trying to work on the blueprint document. So, the African Guild is going to strike a partnership with three organizations, REMOSTART (https://www.remostarts.com/), STARHIVE (https://starhive.com/), and BETA AFRICA (https://beta.africa/). REMOSTART will be coming in as a technical partner - we are doing a lot of research and right now we are moving into actual development phases. STARHIVE comes in as a research partner, and we have BETA AFRICA as an educational partner. We are going to have these partnerships that will quest static over the period for which we will have a promotion of these AI tools that our team of brilliant people who are actually carrying out current research on how to work around this. We will be sending out letters to describe actual involvement and what we expect from them. We will bring it up here for everyone to have a more in-depth knowledge of when and where the boundaries for involvement are for us as a Guild and for them as independent organizations.    
+
+Updates from Research on Indigenous Tooling: Onize said they are making progress on collecting responses but so far, they have had just one. She asked for more time so they can collect more data. Clement suggested reminding people via DM to give responses, as well as posting in the Discord channel; and tagging people by name in the channel. Onize agreed.
+
+Q4 A.M.A Session Update: Ese said they need to conclude on the speakers, and then they can start to publicise it. |The date is November 29th, 2024. Ese gave more detail on the event: that over time we have been discussing the need to Africanize AI tools, it is for Africa to step up their game. The focus of this A.M.A is practical action items to enable us to do all that we have discussed.
+
+Update on Marketing Initiatives: Ese said the marketing team are planning two initiatives, and will discuss with the Focus Group about implementing them - will it be in Q4, or in Q1 2025? The 2 initiatives are:
+
+- UGC (user-generated content) on a theme of cultural perspectives on the sNET ASI Alliance, i.e people from different places, creating images inspired by what they think of when they hear "ASI". There will be three winners. Ese will share the documentation by the weekend with the focus group before sharing it with the whole SNET community. Timescale: two weeks, so if it's approved then it should be happening the second week of November.
+
+- a Pan African Mega SingularityNet X space, with all the team being inside Africa. A way to onboard startups and AI builders into the SingularityNET platform. Aim to onboard about 10 companies to join the discussion, who do not yet have anything to do with SingularityNET but are building AI based solutions. Timescale: first week of December. 
+
+Discussion on Contest and Community Engagement: Ese is thinking of taking it outside the Ambassador program. We need people that are doing something else outside to jump on it. And also talk about the ASI alliance because it has not been talked about.
+
+
+
+#### Action Items:
+- [**action**] Duke to provide the email addresses of people who will have edit access to the Ambassadors Google Drive. [**assignee**] Duke [**due**] 14 November 2024 [**status**] todo
+- [**action**] Duke to chase Ayo to get a clue on how many people will volunteer their presence in the BUI event run by Kenichi.
+ [**assignee**] Duke [**due**] 14 November 2024 [**status**] in progress
+- [**action**] Sucre to translate articles from Ubuntu and AI events.
+ [**assignee**] Sucre n Spice [**due**] 7 November 2024 [**status**] todo
+- [**action**] Advance to publicize the research on Indigenous Tooling outside SNET. [**assignee**] advanceameyaw [**due**] 7 November 2024 [**status**] todo
+- [**action**] LadyTempestt to Document next meeting. [**assignee**] LadyTempestt [**due**] 7 November 2024 [**status**] todo
+- [**action**] Sucre to continue the migration of tasks from Dework to GitHub, aiming for completion by the end of the quarter and reaching out for necessary GitHub IDs. [**assignee**] Sucre n Spice [**due**] 28 November 2024 [**status**] todo
+- [**action**] Ese, Clement, Ayo and Onize to prepare and finalize the plan for the Q4 AMA session (it’s on the agenda) [**assignee**] esewilliams, Clement Umoh, Ayo, Onize [**due**] 21 November 2024 [**status**] todo
+- [**action**] Ayo (team rep) to give an update on the research for developing Indigenous AI tooling [**assignee**] Ayo [**due**] 21 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AMA Session Updates, community engagement, Marketing initiative, Partnership, Collaboration, Remostart, Starhive, Beta Africa, Indigenous tooling, research, Africanize, UGC, user-generated content, ASI token, ASI Alliance, X spaces, Onboarding
+- **emotions:** informative, short, Thoughtful , funny
