@@ -7,6 +7,7 @@ description: Mon 4th Nov - Sun 10th Nov 2024
 ## Monday 4th November 2024
 
 
+
 ### Strategy Guild
 
 - **Type of meeting:** Biweekly
@@ -117,6 +118,82 @@ Cjfrankie and Mikasa to attend R&D and Education guild meetings and have them se
 #### Keywords/tags:
 - **topics covered:** WG Management, GitHub PBL Structure, Andamio, mobile-friendly, Collaboration, gimbalabs, Lessons, github board, Feedback Form
 - **emotions:** Collaborative, Deliberative, progressive, decisive
+
+
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], Colleen, CallyFromAuron [**documenter**], CallyFromAuron, PeterE, Duke, Onize, CollyPride, Aetherblade, LadyTempestt, Sucre n Spice, AshleyDawn, PeeGee, Clement Umoh, advanceameyaw, Effiom
+- **Purpose:** Regular monthly meeting of the AI Ethics Workgroup 
+- **Working Docs:**
+  - [AI Ethics Workgroup GitHub Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [Q1 2025 budget caps](https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing)
+  - [AI Ethics WG Quarterly report: quarter 4 2024](https://docs.google.com/document/d/1qX06HtyTIO-a_jEpp8XnaO-V9RHvfAPt16cx2K3o8iw/edit?usp=sharing)
+  - [Final AI Ethics WG budgets](https://docs.google.com/spreadsheets/d/19JPcJTBLct0xeGhVnxNEnsaoXqkE9SKMjWnwAqZ7GRI/edit?usp=sharing)
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [BeGIN Interviewers' Handboook](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?usp=sharing)
+
+#### Narrative:
+We went through the issues on the GitHub Project Board.
+
+Q3 & Q4 Individual Interviews Updates: 
+- Even when people have completed their interviewing, the Issues need to stay in "In Progress" until the BeGIN/Nexus team have had a chance to review them and ensure they meet the validity criteria.
+ - LadyTempestt will nudge those who haven't yet given updates in their respective github issues: Ese, Gorga, Kevin, Vasu, Advancemeyaw, Yemi (who might have dropped out of the Program temporarily).
+ - Vani to tot up people's total expenses, and add it to the total to be paid in each Issue.
+ - Jenn has been really busy elsewhere, and has not responded to queries about her planned interviews; so we can reallocate her interviewing budget to other people. We will also check whether anyone else apart from Jenn is dropping out; so we will find out async, and reassign budget to those who want to take on more interviews.
+
+AGI-24 conference payments:
+- Esther is still working to resolve how these payments (which are coming directly from the Foundation rather than via the WG budget) will be paid - people invoice directly, or money paid to Treasury and processed like a normal Ambassador Program payment?
+- Backup plan - look for one person who is able to invoice for all of it, and distribute it to others
+ - Vani suggests mentioning this problem in our Q4 2024 quarterly report. Although it is nobody's fault, the uncertainty and delay on payments has lost us goodwill, both for the WG and for the Ambassador Program as a whole, especially since some of those who worked on it were new to the Program.
+
+GEI/BeGIN Open Office meetings documentation, Q3 - Jenn hasn't finished the task. Last meeting we said we would check if recordings were available and reassign the work - but on reflection, the task is not a priority, so it won't be reassigned, and the Q3 Issue will be closed and Jenn paid for the work she has done. In Q1 2025, we are no longer planning to document the Open Office meetings, as they're informal and rarely involve any decisions or action items.
+
+AI Ethics Forum moderation - Clement gave a quick update on some of the interesting topics covered in the forum, and suggested people have a read! He will give an update in his Issue, to include in the Quarterly Report.
+
+Co-Chair Mentee (Clement): Clement has worked with Vani on writing the Q1 2025 budget; and he has taken a lead on planning and managing the survey-sharing task. He said it was quite challenging at first to shape what the role should cover, but he came up with a list of things he is interested in doing in this position, including knowledge management, and working with Esther and LeeLoo on the interview process. Vani mentioned that we are planning to include some Knowledge Management planning as part of the Q1 2025 budget. We also clarified that the aim of the co-chair mentee role is to learn about BeGIN and Workgroup leadership, and for the mentee to then create an ongoing role for themselves, as Colleen did in Q3 with her focus on community engagement. 
+
+Community Engagement Manager - Colleen gave a quick update: participation in the "Death By AI" game dropped a little because she was unavailable due to illness - but Advanceameyaw has stepped up as her backup. Colleen and Vani will have a DM conversation about ideas for the "community event" that is in the budget for this Quarter - we could approach Vasu and Kizzy re collaboration with AI Sandbox/Think Tank? Colleen will add an update in the GitHub issue on progress/direction before next meeting.
+
+Esther and Vani are writing an Interviewers' Handbook based on the training session and the validity criteria for interviews, which is almost done and ready to use. A draft is in "Working docs" for this meeting.
+
+Q1 2025 Budget: 
+ - Meeting facilitation will be folded into the Co-Chair role, so will not need an additional budget line
+ - We have agreed not to document GEI/BGI Nexus Open Office meetings any more
+ - We will focus on interview transcription in Q1, which will be done by the interviewers. Transcripts will need checking / proofreading - but (unless AGIX price rises significantly) this will be pushed to Q2 2025, as there's probably not sufficient budget to do it in Q1.
+ - We will budget for around 30 interviews being transcribed in Q1 (not the whole 45 that we will have by then) and agreed to price it at $35 per interview
+ - Interview coding: we might not get to this during Q1 - TBD whether to have a budget line for it this Quarter - maybe just some kind of planning meetings or ideation 
+ - We will keep our budget for new interviews small (suggest 5 interview-hours, or 10 interviews) and perhaps raising it to $30 per interview
+ - Survey-sharing might not be a priority, so a small budget or not at all, but will aim to pick it up again in Q2
+ - Ideation meetings on attracting donors to BeGIN Nexus - we will keep it to 3 people from the WG having 2 meetings with the BeGIN team
+ - Knowledge management - ideally there will be some budget for it in Q1- the WG Admin Team will discuss async exactly what's needed here.
+ 
+
+
+#### Decision Items:
+- We won't try to reassign the task of documenting Q3 Open Office meetings. We will close the Github Issue (which is assigned to Jenn) and pay Jenn for the meetings she did document. Any remaining budget will go back into the WG pot.
+  - [**rationale**] There might not be any recordings available to work from; and we agree the task isn't a priority.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Documenting GEI/BGI Nexus Meetings will discontinued in Q1. Any important issues that emerge in an Open Office can be brought to a WG meeting.
+  - [**rationale**] The Open Office meetings are informal, with not a lot of decisionmaking or action items; so no need to continue documenting them separately.
+  - [**effect**] mayAffectOtherPeople
+- Jenn's allotted funding for Q3 interviewing will go back into the WG budget and be reassigned to others who are able to do interviewing
+  - [**rationale**] Jenn is no longer involved with the Ambassador program due to being too busy with other things
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to create individual issues on GitHub Project Board for people doing Survey Sharing 
+ [**assignee**] CallyFromAuron [**due**] 11 November 2024 [**status**] todo
+- [**action**] Admin Team members to update their GitHub issues with their progress and any future plans, for inclusion in Q4 quarterly report [**assignee**] CollyPride, Sucre n Spice, LadyTempestt, Clement Umoh [**due**] 28 November 2024 [**status**] todo
+- [**action**] Love to chase interviewers who were not present today and who haven't yet given updates in their GitHub Issues: Gorga, Kevin, Vasu, Advancemeyaw, Yemi [**assignee**] LadyTempestt [**due**] 2 December 2024 [**status**] todo
+- [**action**] Based on responses from interviewers, Vani will check the overall budget and reassign to those who want to do more interviews (Onize, Clement) [**assignee**] CallyFromAuron [**due**] 18 November 2024 [**status**] todo
+- [**action**] Vani to tot up interviewers' total expenses, and add it to the total to be paid in each Issue. [**assignee**] CallyFromAuron [**due**] 31 December 2024 [**status**] todo
+- [**action**] All to add comments to draft budget and draft quarterly report before the submission date of 25th Nov [**assignee**] all [**due**] 25 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Rewards, survey sharing, interviewing, interviewers handbook, co-chair mentee, mentorship, community events, AI Think-Tank, Collaboration, transcription, AI Ethics forum, AGI-24, Q1 2025 budget, Q4 2024 report, expenses, Death by AI, game
+- **emotions:** Friendly, Casual, Collaborative, forward-looking, inclusive
 
 
 ## Tuesday 5th November 2024
