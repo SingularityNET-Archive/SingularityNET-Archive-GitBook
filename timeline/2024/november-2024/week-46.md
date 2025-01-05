@@ -251,6 +251,7 @@ with certifications and rewards.
 ## Thursday 14th November 2024
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Biweekly
@@ -339,6 +340,54 @@ where he highlighted
 #### Keywords/tags:
 - **topics covered:** AI TOOLSET EXHIBITION, Google LM Notetaker, meeting notes, documentation
 - **emotions:** Welcoming, interactive, Thoughtful, informative
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], Kateri [**documenter**], Clement Umoh, advanceameyaw, CJFrankie, Eric Davies, martinsoki, esewilliams, Sucre n Spice, Ayo, Effiom, Onize, Duke, Tee, AJ, Elahvmadi, hogantuso
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Other media:** [Link](http://singularitynet.africa/ | https://www.instagram.com/snet_africa?igsh=cDEzMWNmemFqdjVp |  https://www.linkedin.com/in/singularitynet-africa  | https://medium.com/@singularitynet.africa | https://x.com/Snetafrica | https://t.me/+5oS0y-KXEJczY2Y0  | https://www.youtube.com/@SingularityNet.Africa)
+#### Narrative:
+Kickoff: The African Guild meeting began with Duke welcoming everyone. He highlighted the fact that we haven't done greetings in different languages for some time now. We glanced over the minutes from the last meeting summary and no comment was raised.
+
+Update on Marketing Initiatives: CJ Frankie highlighted that there is no current update for now and they are still on it. Duke said that they need this to be completed before the end of this quarter.
+
+Research on indigenous tooling: Onize stated that the research began in the last part of Q3 and is tailored to African needs to foster African engagement in the SingularityNet ecosystem and wider AI ecosystem. The research was carried out through a survey that was sent out to people both in and out of the sNET ecosystem to have a broad grasp. The major three issues raised were that 1) people needed more education on what AI was doing to mitigate their fear, 2) people wanted to see how advancing technology makes good health care and 3) people wanted to see how developers will use the tool to make advancing technology. The issue encountered doing the research is that a lot of people don't like to fill long surveys.
+In conclusion, Onize suggested that we should focus on tools that will educate the public, tools that will help health care professionals and we should create co-pilot assistance that would help developers and the public at large in an African way.
+Duke appreciated the team but noted that the recommendation suggested was good but generic, and that the Guild is looking for recommendations for tools that African Guild can create which will benefit the SingularityNet ecosystem.
+
+Tool update by Advanceameyaw: Advanceameyaw explained that tool explores on numbers. He said that math is everything; we know famous AI tools like chatGPT but the other aspect we don't know, like mathematical models involved in it. This tool aims at bringing simplicity to the whole numbers and mathematical concern. He noted how math started from Africa by the Egyptians and we have to get to the core of our foundation. It will help our understanding and without mathematics there is no understanding of the universe.
+
+Q4 A.M.A Session Update: Onize said that they have reached out to the speakers and have sent them their itinerary and the date as being fixed for 29th November, 2024. Duke noted that the A.M.A is for everyone both in and out of the ambassador program and he encouraged us to invite our friends. 
+
+We welcomed new members and introductions were made. 
+
+Q1 2025 budget: Duke said that there is a consensus in Governance WG to have a system of tiered budget caps in the new quarter with the intention to help us mitigate the delay usually experienced in the budget consent and budget fitting process. So the African guild was initially given a cap of 8,500 AGIX which is equivalent to 5,270 US dollars at the selected exchange rate of $0.55. Due to the budget allocated we will need to focus more on operational tasks such as our recurring weekly meting tasks; our project and workshop sessions; and others. Duke has requested an additional 1,500 AGIX to increase the total to 10,000 AGIX, but it is still pending. The finalized budget fitting will be presented to the Treasury before the 25th of November.
+
+AOB: Tee inquired about the research document, expressing interest to follow-up in the research. Duke said that the research has been concluded and also noted that we are taking a bit of a slow down on conducting more research because we have already done quite a number of researches in the pipeline. And we are now full blown into our implementation phase. So all of the outputs that we have already gathered from our previous quarter research will now be used in Q1 of 2025 where we are now implementing.
+
+
+
+#### Decision Items:
+- It was decided that if the marketing initiative tasks is not completed before ending of the quarter it may not be useful to engage with again
+  - [**rationale**] Because it needs to be implemented 
+
+#### Action Items:
+- [**action**] Duke to chase Ayo to get a clue on how many people will volunteer their presence in the BUI event run by Kenichi.
+ [**assignee**] Duke [**due**] 14 November 2024 [**status**] in progress
+- [**action**] Sucre to translate articles from Ubuntu and AI events.
+ [**assignee**] Sucre n Spice [**due**] 7 November 2024 [**status**] todo
+- [**action**] Sucre to continue the migration of tasks from Dework to GitHub, aiming for completion by the end of the quarter and reaching out for necessary GitHub IDs. [**assignee**] Sucre n Spice [**due**] 28 November 2024 [**status**] todo
+- [**action**] Ese, Clement, Ayo and Onize to prepare and finalize the plan for the Q4 AMA session (it’s on the agenda) [**assignee**] esewilliams, Clement Umoh, Ayo, Onize [**due**] 21 November 2024 [**status**] todo
+- [**action**] Ayo (team rep) to update on the research for developing Indigenous AI tooling. [**assignee**] Ayo [**due**] 21 November 2024 [**status**] done
+- [**action**] Clement to clarify email permission for accessing the meeting summary folder  [**assignee**] Clement Umoh [**due**] 21 November 2024 [**status**] todo
+- [**action**] Focus group to carry out budget fitting so that it could align with the budget allocated to the guild  [**due**] 21 November 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AMA Session Updates, community engagement, Marketing initiative, indigenous tooling, Tool Development budget caps, Q1 2025 budget, timeliness,
+- **emotions:** informative, Thoughtful, new people present 
 
 
 ## Friday 15th November 2024
