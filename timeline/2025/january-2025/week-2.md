@@ -1,5 +1,5 @@
 ---
-description: Mon 13th Jan - Sun 19th Jan 2025
+description: Mon 6th Jan - Sun 12th Jan 2025
 ---
 
 # Week 02
