@@ -38,6 +38,7 @@ You can view all the pitches on the following YouTube playlist https://www.youtu
 ## Tuesday 28th May 2024
 
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -168,6 +169,62 @@ There was also a discussion on whether we should start recognising participation
 #### Keywords/tags:
 - topics covered: workgroups, monthly updates, beyondthecode.ai, documentary, deep funding round 4, RAG retrieval process, Knowledge base, ambassador system design, dework PBL, students, Treasury, Treasury Policy, Q3 2024 proposals, Q2 2024 report, LLMs, open source, document management, archival dissociation, ethics strategy for Archives, GitHub, good meeting summaries, google doc header, doc header, spinoffs, fetch, ocean, quizzes, videos, Infographics, learn with AI, certification, R&D guild, transparency, budget concerns, prototypes, Q2 2024 budget, disability, disability research, LatAm, new members, Argentina, Colombia, Brazil, regional expansion, Translation, Decentralization Blueprint, global ethics document, treasury training session, Onboarding survey, Marketing guild lead, guild leadership, Medium publications, Trivia sessions, trivia topics, Zealy, pupil tag, Pidgin, Spanish, Twitter/X, Notion, Writers WorkGroup, video WG, Strategy Guild, strategy guild revival, Q1 budget allocation, Q2 budget, retrospective, budget retrospective, governance experiments, Core Contributor, renaming Ambassadors, decentralized decision making, Governance workgroup, AI ethics, research, GEI, Global AI Ethics Initiative, town hall participation, Dework, template, people without Dework account, deepfunding R4
 - emotions: informative, detailed, friendly 
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Felix [**facilitator**], LadyTempestt [**documenter**], PeterE, CallyFromAuron, guillermolucero, sakujennbornean, billy, Duke, Effiom, Sucre n Spice, Onize, kenichi
+- **Purpose:** Weekly Governance WG meeting
+- **Working Docs:**
+  - [GovWG Budgets](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
+  - [Quarterly Report](https://docs.google.com/document/d/1tRy6WcXC7S3sG9jm8sHnstIEI597kry3ORJ73GL0MUM/edit?usp=sharing)
+
+#### Narrative:
+Status of Writer’s WG budget proposal: What is the progress? Writers WG has resubmitted their budget proposal so we have to relaunch the consent process and Treasury Guild will set up the consent form and run it again. Do we as governance WG guide this or is it purely treasury conversation? It might be a good idea to have a consensus call or coordinate around the topic here. Another point raised was that if the objections raised during the last consent round have been addressed then there might be no need for another consent round but if they haven’t then that might be an issue. Vani suggested that we transfer all the things we said we would do to improve the quarter 3 consent process to our next meeting or Treasury Guild’s meeting to try and set up how to avoid these issues(stuff like having quarterly report handy, improving budget proposals structure/writing with maybe a template? and not hiding the link to your budget so no one can see it) in Q3. This could be on our next meeting agenda or the treasury’s agenda if they don't have something on their plate already.
+
+Marketing Guild Lead: Guild members are trying to figure out who will be the Guild Lead and there was no consensus at the end of last week's discussion. We noted that so many people are interested in the role but that wanting it is one thing and that having the ability and skills to step into the role is another thing. Peter mentioned that Judith posted a summary of the main ideas that came out of the last town hall session so everyone could check it out. Peter finalized by saying that in terms of the Marketing Guild Lead, we should go for someone who knows a bit if not much about the project and not just someone who reads about Web3 marketing:-)
+
+Retrospective across the Quarter: How will this work? We can have the session next week on what worked, and what didn't work plus suggestions for improvement. We can also do async with a form of Polis as agreed previously. Vani has drafted a starting point for the Polis session. She added that a few of us could go off and come back with fitting statements. Peter suggested having a WG Leads call to go through the proposal writing aspect. Vani reminded us that we had yet to decide on the renaming of the core contributor role and that if you sit on a decision for a while until it is accepted, you don't need to make a decision, but is that ethical? Is it fair? It was suggested we look at it as part of the reflective process.
+
+Loomio Test Run: We will go ahead with purchasing a subscription to the Loomio decision-making software and Core Contributors could simply use it to vote on items. Do we play around with it and see how it works for decision-making? There is currently a six-month contract and Deep Funding is currently exploring tools. Vani suggested making a little video about how it works and sharing that. Guillermo added that Judith shared it as it is something the whole SingularityNET community will be able to use. Felix suggested we focus on retrospective and ideating improvements for the next decision-making thing. Once this is done, we should ideally already have a nice list of stuff we want to do better, where we can see already, how can we do this directly through the first voting experiment on the renaming core contributor role thing with Loomio, and then we can move towards quarter three.
+
+WG Documentation: Is it possible to include adding meeting notes to the summary tool as part of the documentation of a meeting? Or do people need a walkthrough? We all thought it was a good idea. Jenni said she might go for documenting our meetings from maybe the next one. Till further notice. Is there enough budget for it? Felix says there is according to the Q2 governance budget sheet. 
+
+
+
+#### Discussion Points:
+- Status of Writer’s WG budget proposal
+- Marketing Guild Lead
+- Retrospective across the Quarter
+- Loomio Test Run
+- WG Documentation
+
+#### Decision Items:
+- We will include adding meeting notes to the summary tool as part of meeting documentation
+  - [**effect**] affectsOnlyThisWorkgroup
+- We all agreed that it is a great idea to have a walkthrough video on how to use the Archives WG’s summary tool.
+  - [**effect**] mayAffectOtherPeople
+- We agreed to have actual budget issues retrospective and look at what improvements and changes we want to make to budgets in June week 1(4th?).
+  - [**effect**] mayAffectOtherPeople
+- We will look at the governance process itself and discuss everyone getting on board with using Loomio in June week 2 and possibly week 3.
+  - [**effect**] mayAffectOtherPeople
+- The renaming of the decision-making role should be moved to quarter 3.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Felix to check with the Treasury Guild concerning the consent for the Writers WG budget proposal. [**assignee**] Felix [**status**] todo
+- [**action**] Vani to dm Felix about the checklist on who was there in the previous meetings we have had and get access to recordings if any. [**assignee**] CallyFromAuron [**status**] done
+- [**action**] Jenni to go through WG meeting documentation from the past and get back to us if she would like to document future sessions. [**assignee**] sakujennbornean [**status**] todo
+- [**action**] Vani to possibly meet Jenni and Billy to walk them through documenting and adding the notes to the summary tool. She might also dm Onize too to see if she fancies joining an archive session. [**assignee**] CallyFromAuron [**status**] todo
+- [**action**] Felix to reach out to Duke concerning the walkthrough video on Loomio.  [**assignee**] Felix [**status**] todo
+- [**action**] Felix to share the Q3 budget draft and Q2 report for Governance WG on Discord so we can all chip in comments. [**assignee**] Felix [**status**] done
+- [**action**] Felix to give town hall WG monthly updates today. [**assignee**] Felix [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Consent decision-making process for Budget proposals, Quarter 3 2024 plans,  Marketing Guild Lead, Loomio,  decision-making tooling,  Pol.is, meeting documentation, retrospective
+- **emotions:** Deliberative, interesting, contributive
 
 
 ## Wednesday 29th May 2024
