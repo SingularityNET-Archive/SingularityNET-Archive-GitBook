@@ -40,6 +40,52 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 
 
 
+## Tuesday 26th November 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], PeterE, CallyFromAuron, CollyPride, LadyTempestt, photogee, TheFreysDeFi, guillermolucero, Sucre n Spice, Duke, SubZero, Kateri, kareem, Clement Umoh, Valola, osmium, AshleyDawn, Effiom
+- **Purpose:** Weekly Governance WG meeting
+- **Working Docs:**
+  - [Governance WG Tasks sheet](https://docs.google.com/spreadsheets/d/1kVTXINeOh11tz3uPWicA1aR9aZslwCQMs1hKSFzlM3s/edit)
+  - [Kareem Design Initiative](https://docs.google.com/document/d/1U8plMW0MCdGTI5gm5P_rjddrFjRe1BlN6mn1vb6nCas/edit?usp=sharing)
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+
+#### Narrative:
+We went through the Governance WG tasks sheet to remind people to put down their names or other people's names for tasks they know they have done so they can be added to dework and sent out for payment.
+
+Do we need extra planning for next week's Tuesday governance meeting to discuss budget objections if any? Meetings like that can get quite wordy to document and a bit tasky to facilitate. Peter did step up to facilitate and since he has done it before, we do not need any preparation.
+
+Kareem’s Design Initiative: Kareem gave an overview of the initiative where he highlighted that it is looking to use the New Ideas budget to solve the problem of unifying brand guidelines that has been in the program for a while.
+Vani asked “What is the long-term sustainability for it?” Kareem responded that the core and starting point of the initiative is to create design stuff and have some kind of test run to see and observe its impact in the ambassador program. Vani then asked how Kareem plans on delivering a report on the initiative and what metrics he would use. She added that if he is testing running something there should be a way of assessing whether it's useful. Kareem emphasized that WGs have a way of showing their stats/numbers in terms of deliverables so this can be monitored from that.
+Guillermo asked if Kareen had gone back to discuss internally the whole point of “folding the design initiative into Marketing Guild” with the Marketing Guild to which Kareem replied that it's been addressed.  Kareem also clarified that the deliverables in the initiative document will be done this quarter(Q4).
+Love found Kareem's answer to long term goals and having the initiative folded in Marketing Guild unsatisfactory so Kareem clarified that they are for 1) trying to establish a very consistent style guide for designing which is the templates they want to create will come in and that depending on how the community feels about it they might move forward with newer things like motion graphics and illustration. 2)He spoke with the Marketing Guild and they have some sort of understanding that the initiative is something that is going to be under the Marketing Guild.
+We also discussed how long the templates Kareem would be creating this quarter(q4) will last, he said they will be live and valid for like Q1. Vani pointed out a few of the templates(banners and visuals for announcement) that could be used for a longer period of time though.
+TheFreysDeFi suggested getting different WG leads to kind of spearhead and unify the whole design thing but still added that he likes Kareem’s design initiative under Marketing Guild. Kareem also emphasized that there is a content calendar to post on social media platforms for all WGs/Guilds under Marketing Guild already instead of having meetings to discuss it so it is properly organized.
+We asked if anyone objects to this initiative becoming a reality and if they think it's unsafe to try. We had no outstanding objections.
+
+
+
+#### Discussion Points:
+- Governance WG Tasks Sheet
+- Budget objections
+- Kareem's Design Initiative
+
+#### Decision Items:
+- We consented to Kareem’s Design Initiative Proposal and gave him the go-ahead to use the New Ideas budget for it and  figure everything out himself including the Dework space he would use
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Anyone who has done a task in Governance WG at any point last quarter(Q3) should jump into this sheet Governance WG, tasks sheet  and put down their names on their respective tasks and add a link to it where possible. [**status**] todo
+- [**action**] Peter to facilitate next week Tuesday’s Governance/Budget objections call. [**assignee**] PeterE [**due**] 3 December 2024 [**status**] done
+- [**action**] All core contributors at the meeting were reminded to go and consent to Q1 budget proposals. [**due**] 13 December 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Design Initiative Proposal, Governance WG Task sheet, tasks, rewards, brand kit, Marketing Guild, New Ideas budget, deliverables 
+- **emotions:** interesting, contributive, Deliberative
+
+
 ## Wednesday 27th November 2024
 
 
