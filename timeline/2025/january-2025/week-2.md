@@ -134,3 +134,31 @@ While for the governance calls, we are not mandating or proposing anything for n
 #### Keywords/tags:
 - **topics covered:** Workgroup Sync call, core contributors, participation, compulsory participation, consent process, Governance WG 
 - **emotions:** progress made, Thoughtful
+## Friday 10th January 2025
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], LordKizzy [**documenter**], Zalfred, AndrewBen, killy, frosh, osmium, Slate, devon, hogantuso, LordKizzy, Malik
+- **Purpose:** The meeting focused on weekly updates and tasks distribution
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Malik on various tasks assigned within the week. He highlighted that there wasn't much activities due to the holiday and that the townhall edit video has been edited and sent to the review team
+- Update from the Social Media manager, Andrew Ben noted that he was on transit and won't be able to give the update
+
+- Town hall updates: Zalfred gave the updates from the previous town hall. He noted that there were some conversations around crypto scams and a discussion around a new policy on how WGs can make budget changes mid quarter. 
+- Goals for Q1: Lordkizzy spoke on reaching out to ecosystem spin-off projects for collaboration on video creation, he also spoke on how we could raise the level of engagement on our content through the zealy platform and also said he was going to need a representative from video wg for a call to structure the collaboration
+- AOB: Devon asked if the task assignment was meant to be done in the present call but zalfred addressed that we were on holiday for the previous weeks and assignees will continue work on january as agreed in our previous call
+- AOB: ECOSYSTEM Update Videos: Zalfred and Killy proposed creating the leftover ecosystem videos
+
+#### Decision Items:
+- We decided that Zalfred and killy will work on the leftover ecosystem videos
+  - [**rationale**] Those videos need to go out as soon as possible
+
+#### Action Items:
+- [**action**] Osmium to present the videos from Bangkok  [**assignee**] osmium [**due**] 17 January 2025 [**status**] todo
+- [**action**] Lordkizzy to submit a short report on the video workgroup achievements to Peter [**assignee**] LordKizzy [**due**] 17 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Video Edit, Q1 2025 goals, Ecosystem Update videos, Zealy, Town Hall Videos
+- **emotions:** Friendly, speedy , Collaborative, Thoughtful
