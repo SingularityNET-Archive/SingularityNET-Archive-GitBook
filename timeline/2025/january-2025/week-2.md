@@ -164,3 +164,53 @@ But our Q1 budget has allocated $20 for documentation - so we cannot raise this 
 #### Keywords/tags:
 - **topics covered:** End of Year report, Workgroup Sync call, core contributors, retrospective, participation, consent process, Q1 2025 budget decision, Workgroup reserves, change request, WG budget changes, Documentation
 - **emotions:** Discursive, Good natured, interesting, progress made
+## Thursday 9th January 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], martinsoki [**documenter**], PeterE, CallyFromAuron, AshleyDawn, LadyTempestt, LordKizzy, martinsoki, Duke, Sucre n Spice, Clement, Effiom
+- **Purpose:** Weekly Open Governance meeting
+- **Working Docs:**
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [Ambassador Program End of Year report - draft outline](https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing )
+  - [Q4 budget decision - main issues mentioned in objections](https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing)
+  - [GovWG Budgets](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
+  - [Treasury Policy Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScA7Rcw-7QclL13qnfsdrtFt64nYRKM7zU1LgOK9wEoaWgpqg/viewform)
+
+#### Narrative:
+Compulsory participation in Governance:
+
+Should we have compulsory participation for individual core contributors?
+- We noted that we give core contributors the right to take part in the decision making process but it doesn't have to be mandatory. (The call contributor tag is given based on their participation and not based on personal request).
+
+Should we make it compulsory for workgroups to take part?
+1. Should a workgroup have to be present in the  objections-resolving calls?
+- If any workgroup puts forward a proposal and there is an objection, it is important the workgroup is present to respond and discuss the objections. We noted that even if the workgroup lead isn't available, a representative from the workgroup should be present in the meeting to discuss the objections.
+
+2. Should it be mandatory for a workgroup to be present during either Governance calls or workgroup syncing calls?
+- We noted that workgroups should prioritize coming for Workgroups Syncing call. It is not mandatory but to encourage workgroups to participate, we suggested we propose to reward the Workgroups that send a representative to all 3 Workgroup Syncing calls in a quarter and note that one person can only represent a maximum of 2 workgroup.
+While for the governance calls, we are not mandating or proposing anything for now but we encourage workgroups to participate in order to know what is going on in the ecosystem.
+
+
+
+
+
+
+#### Discussion Points:
+- Compulsory participation in Governance for individual core contributors
+- Compulsory participation in governance for workgroups
+- Compulsory workgroup participation in the objection-resolving calls of workgroup budgets 
+
+#### Decision Items:
+- We decided to propose a positive reward system for workgroups that attend three workgroup syncing calls in the quarter, instead of a sanction for those who don't. The funding for this would come from reserves. We will post this suggestion in the Governance Discord channel and ask for unput - if no significant objections, we will go ahead 
+  - [**rationale**] To encourage participation in the monthly syncing calls 
+  - [**opposing**] none
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Martinsoki to post the proposal on the Governance Discord channel regarding the positive reward system for workgroups that attend three workgroup syncing calls in a quarter [**assignee**] martinsoki [**due**] 9 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Workgroup Sync call, core contributors, participation, compulsory participation, consent process, Governance WG 
+- **emotions:** progress made, Thoughtful
