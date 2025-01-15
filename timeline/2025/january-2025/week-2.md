@@ -136,6 +136,7 @@ While for the governance calls, we are not mandating or proposing anything for n
 - **emotions:** progress made, Thoughtful
 ## Friday 10th January 2025
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -162,3 +163,45 @@ A quick update from Malik on various tasks assigned within the week. He highligh
 #### Keywords/tags:
 - **topics covered:** Video Edit, Q1 2025 goals, Ecosystem Update videos, Zealy, Town Hall Videos
 - **emotions:** Friendly, speedy , Collaborative, Thoughtful
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Gorga Siagian, AJ, TheFreysDeFi, Ayo, Clement Umoh, CJFrankie, LordKizzy, AshleyDawn, kareem, osmium, Eric Davies
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing guild meeting summary 22 Nov](https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing)
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Introductory message for the media room](https://docs.google.com/document/d/1Wir5N-gdtzXGVh-m6zy4zLtCIf0BY8nkA7YrdoFF9iQ/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](Hey Guys/Gals/Else Happy New Year Folks The Ney Year opens today at the Marketing Guild First meeting underway https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+
+#### Discussion Points:
+- Retrospective on Q3 and Q4 Performance: Ayo initiated a reflective discussion on the Marketing Guild's performance over the last two quarters, encouraging members to share both successes and areas for improvement.
+- Meeting Attendance and Task Completion: C.J. Frankie emphasized the need for consistent attendance and timely task completion to improve collaboration.
+- Zealy Campaign Review: Gorga acknowledged the success of the Zealy campaign but stressed the need for better planning to avoid last-minute execution.
+- Mascot Initiative Review: Kevin clarified that while he wasn’t the originator of the Mascot Initiative, he found it valuable and appreciated the team’s swift execution of the mascot contest.
+- Guild Progress and Areas for Improvement: Kizzy highlighted both the guild’s achievements and areas for improvement, such as enhancing the content calendar, improving attendance, and providing compensation for extra efforts.
+- YouTube Channel Guidelines: Kizzy introduced YouTube channel guidelines covering purpose, collaboration, feedback, and admin responsibilities
+- Attendance Review: Kizzy summarized attendance reviews, noting that some members fell below 20%, and C.J. Frankie asked about the fate of members with less than 70% attendance. Ayo reiterated that consistent availability is essential to retain roles, and inactive members may lose their positions.
+- Task Force Update: Kizzy announced the inclusion of Ashley as a sixth Task Force member, enabling fairer compensation despite some role adjustments.
+- Role Compensation Feedback: Kizzy presented an upgraded role distribution and compensation sheet for feedback.
+- AI and Media Initiatives: Kevin highlighted plans to use AI and media to support Ghanaian athletes, establish a global podcast, and empower West African talent.
+
+#### Decision Items:
+- We agreeed that the cutoff for attendance review is set at 70%.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that some members will take on a Task Force role, while some will assume a Core Member role based on performance and popular opinion.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kizzy to create a sheet for Core Members to indicate role swaps and check available positions. [**assignee**] LordKizzy [**status**] todo
+- [**action**] Cjfrankie to compile a document summarizing activities and accomplishments from Q3 and Q4. [**assignee**] CJFrankie [**status**] todo
+- [**action**] Kareem to prepare to present the governance document during the next call. [**assignee**] kareem [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Rewards, Budget , Roles, Zealy, Quarter 1 2025, attendance, retrospective, Ghana, Ghanaian athletes, Ambassador YouTube, Mascot
+- **emotions:** Collaborative, Thoughtful , productive, warm, interactive
