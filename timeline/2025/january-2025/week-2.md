@@ -125,6 +125,7 @@ But our Q1 budget has allocated $20 for documentation - so we cannot raise this 
 
 ## Thursday 9th January 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -173,6 +174,49 @@ While for the governance calls, we are not mandating or proposing anything for n
 #### Keywords/tags:
 - **topics covered:** Workgroup Sync call, core contributors, participation, compulsory participation, consent process, Governance WG 
 - **emotions:** progress made, Thoughtful
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** osmium [**facilitator**], Kateri [**documenter**], AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, martinsoki, LordKizzy, TheFreysDeFi, PeterE, Clement Umoh, osmium
+- **Purpose:** AI TOOLSET EXHIBITION: AIRTABLE AI: Airtable tool
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Today's Sandbox Presentation](https://www.canva.com/design/DAGbkFCuaPo/sZzWOF2E83QWZvI6E-hEyg/edit)
+  - [Agenda Items AI Sandbox/Think Tank](https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0)
+  - [Iteration Form](https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1)
+
+#### In this meeting we discussed:
+Meeting Coordination and Introductions: Lord Kizzy welcomed everyone, and Osmium gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program. 
+
+Showcasing the first presentation of the exhibition made by Advancemeyaw
+ AIRTABLE AI: Airtable AI is a tool within Airtable and Airtable is a cloudbased collaboration plattform. It combines database functionalities with spreadsheets or any form of data. It is widely used for organizing and managing data and collaborating on data based on project or task. 
+ https://www.canva.com/design/DAGbkFCuaPo/sZzWOF2E83QWZvI6E-hEyg/edit?utm_content=DAGbkFCuaPo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton   
+
+- - a) Overview of the toolset [Detailed Description and Use Cases] 
+- - b) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] 
+- - c) Demonstration [live demo or tutorial/ video walkthrough] 
+- - d) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]
+
+
+Questions were asked and clarity was made on the operation of the ARTABLE AI
+
+Membership tag: The voting of the membership tag has ended on the channel and the tag name with the highest vote was SANDBOX/THINK-TANk. Lord Kizzy noted that he was going to meet Peter with the names of the members that should be given the tag and also said that those interested to become a member and have the tag needs to attend three meetings in a row or attend five meetings in a quarter.
+
+Budget allocation and project showcase planning: Suggestion for Think tank was around the theoretical debate, round table discussion but the potential for AI think tank is fast and we need to operate on our blueprint. 
+AI sandbox project showcase: This is to showcase tools that were created by community members within the ambassador program, the person or ambassador gets to educate the community on the use of the tool. 
+
+#### Action Items:
+- [**action**] Lord Kizzy and Osmium to make up the roadmap and showcase it in the next meeting [**assignee**] LordKizzy, osmium [**due**] 16 January 2025 [**status**] todo
+- [**action**] Lord Kizzy to reach out to Peter with the list of members to be given the SANDBOX/THINKTANK Discord tag  [**assignee**] LordKizzy [**due**] 16 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI TOOLSET EXHIBITION, AIRTABLE AI, membership, Discord tag, roadmap, budget allocation, planning
+- **emotions:** welcoming, informative, interactive, educational
+
+
 ## Friday 10th January 2025
 
 
