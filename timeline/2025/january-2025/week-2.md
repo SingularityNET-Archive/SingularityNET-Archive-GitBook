@@ -84,6 +84,45 @@ But our Q1 budget has allocated $20 for documentation - so we cannot raise this 
 #### Keywords/tags:
 - **topics covered:** End of Year report, Workgroup Sync call, core contributors, retrospective, participation, consent process, Q1 2025 budget decision, Workgroup reserves, change request, WG budget changes, Documentation
 - **emotions:** Discursive, Good natured, interesting, progress made
+## Wednesday 8th January 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Gorga Siagian, esewilliams, AshleyDawn, Kateri, Zalfred, hogantuso, frosh, photogee, Clement Umoh, osmium, LordKizzy, Malik
+- **Purpose:**  Regular meeting of Education Guild. Covering: Happy New Year Greetings - Follow-up from Projects - Task Assignment based on pending tasks - Certification Program next steps discussion.     
+#### In this meeting we discussed:
+- Happy New Year Greetings
+- Follow-up from Projects
+- Task Assignment based on pending tasks 
+- Certification Program next steps discussion
+
+#### Discussion Points:
+- Slate started the meeting by greeting everyone and giving best wishes for the new year to everyone 
+- The meeting started with warm welcome from everybody, and how their holidays went 
+- Then the meeting set off after this, getting updates in regards to the ongoing projects. The first update was from Ai For Beginners project 
+- Ese notified that the project is ongoing and we have all the scripts ready for the videos, only the SEO and Graphics part is left which will be selected in the coming weeks  
+- There was a pointer in regards to the videos which were posted in the education guild channel; ese notified that those videos will be going through a last set of adjustments before getting published 
+- Slate notified ese to create a specific sheet for this purpose so all the videos can be tracked 
+- Then afterwards the discussion on the webinar series started on which clement, photogee and ese are going to be working on moving forward and will be providing an initial document 
+- Then Osmium notified that he is working on the governance framework series project and that vanessa is working by his side, and they will soon be having updates in regards to this 
+- There was also a discussion in regards to the certification program updates, Slate notified that the certification program will now be launched on the website for more public to accesss it and before making more resources we should wait for franklyn's update 
+
+#### Decision Items:
+- Certification Program Resource Creation will start after the website creation maybe near to it 
+  - [**rationale**] most Agreed 
+  - [**opposing**] nil 
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Ese to create a single google sheet document for the AI for Beginners  [**assignee**] esewilliams [**due**] 15 January 2025 [**status**] in progress
+- [**action**] Photogee, Clement and Ese to work on Webinar Series Document  [**assignee**] esewilliams, Clement Umoh, photogee [**due**] 15 January 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, announcement, website, Ai for Beginners, design, Task Assignment
+- **emotions:** productive,  Collaborative, Businesslike.
+
+
 ## Thursday 9th January 2025
 
 ### Governance Workgroup
