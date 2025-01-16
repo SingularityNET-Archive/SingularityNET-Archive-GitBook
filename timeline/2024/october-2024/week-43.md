@@ -45,6 +45,7 @@ description: Mon 21st Oct - Sun 27th Oct 2024
 - **emotions:** Casual, inclusive, fun, Collaborative, decisive
 ## Tuesday 22nd October 2024
 
+
 ### LatAm Guild
 
 - **Type of meeting:** Biweekly
@@ -88,6 +89,52 @@ A virtual biweekly event aimed at disseminating, educating, and training develop
 - **topics covered:** content calendar, rewards, X spaces, MeTTa coder lab, Foundation, OpenCog Hyperon
 - **emotions:** Collaborative, Strategic, Task-focused, teamwork
 
+
+
+
+### AI Ethics WG
+
+- **Type of meeting:** Biweekly
+- **Present:** EstherG [**facilitator**], Onize [**documenter**], CallyFromAuron, Aetherblade, Melissa Rivera, LadyTempestt, Onize, EstherG, AshleyDawn, Clement Umoh, AndrewBen, PeterE
+- **Purpose:** Fortnightly Open Office meeting led by BeGIN (formerly known as the Global Ethics Initiative or GEI).
+- **Working Docs:**
+  - [2025 AI Conventions ](https://docs.google.com/spreadsheets/d/1n-qlSc2ji1Y1vScEpPCX6n7JfnpeduIpuT3RLs7o47c/edit?usp=sharing)
+  - [BeGIN overview and current status](https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view)
+
+#### Narrative:
+Discussion Points:
+
+Updates on the Status of the Research: 
+Esther gave an update. 
+Making progress and moving forward in the research as developments and donations have been coming in for the past couple of weeks.
+In addition to the qualitative research that is being done by the Ambassadors AI Ethics WG, a resource-sharing platform for people to make donations and fund specific, safe, ethical, and beneficial AI projects is on the way.
+Over the next weeks, coming up with ideas of how to collect funding and distribute it in a DAO fashion.
+Kicking off with social integrations and a WordPress website, open to receiving input from anyone who knows of sites to model the ideas on.
+The website's goal is to display projects, integrate with Deep Funding, and provide a space for people to propose projects. However, it would be a great idea to leverage existing infrastructures through Deep Funding.
+A simple interface for people to be able to donate resources before moving into more functions such as time banking
+
+
+Updates/Feedback from Interviews:
+Based on the consent form, there are now 33 interviews coming from the Ambassador program.
+Clement gave feedback on his interviews: the surprising turns the interviewees took and how expressive some of them have been. He also spoke about taking time to explain the privacy policy and how anonymity is maintained. His candidates were concerned about data privacy and understanding parts of the consent form. He also spoke of having to travel to different places, as online interviews were not his best bet. He said that facial cues and body language were a part of his research and he wanted to document that. Overall, it was a great experience.
+
+LeeLoo spoke of accessibility improvements being in the works, so that individuals who could be colourblind, have low hearing or low vision, would be able to participate and access consent forms etc without any issue.
+
+There was also a discussion on the challenge of balancing how much information to provide in interviews without leading respondents, and gathering insights on how much an interviewee understands, whether people know terms like "AI" or whether we should say "artificial intelligence".
+We raised the possibility of asking an initial question about how much the interviewee feels they know about AI, and coding interview responses to distinguish between participants who have been exposed to educational materials and those who haven't, to help avoid bias in interpreting the data. Acknowledging that participants’ answers could vary widely based on their limited or extensive exposure to different AI tools (e.g., ChatGPT vs. broader AI knowledge), and how this may impact the overall data interpretation.
+
+There was discussion around the time and effort required for the consent process, and how that should be factored into the compensation for the interviews.
+
+
+TBD:
+- Potentially code the interview data to differentiate between interviews where the participant had no prior exposure to AI vs. those who have.
+- Consider ways to accommodate people with disabilities or limited technology access in the interview process.
+- Continue the conversation about how to factor in the time required for the consent process when compensating interviewees.
+
+
+#### Keywords/tags:
+- **topics covered:** Ethics, chatbot, research, interviews, DAO, data analysis, human values, inclusive, demographic data, interviewing, survey, knowledge graphs, interview analysis, accessibility, disability
+- **emotions:** Insightful, welcoming, relaxed, collaborative, progressive
 
 
 ## Wednesday 23rd October 2024
