@@ -198,6 +198,7 @@ Q1 2025 Budget:
 
 ## Tuesday 5th November 2024
 
+
 ### LatAm Guild
 
 - **Type of meeting:** Biweekly
@@ -227,6 +228,42 @@ Martín and Sergio were in charge of the second X space of SNET_LatAm entitled "
 - **topics covered:** content calendar, X spaces, Meeting Summaries
 - **emotions:** Collaborative, Strategic, Task-focused, teamwork
 
+
+
+
+### AI Ethics WG
+
+- **Type of meeting:** Biweekly
+- **Present:** EstherG [**facilitator**], Onize [**documenter**], Onize, EstherG, AshleyDawn, CallyFromAuron, Duke, Clement Umoh, Aetherblade, osmium
+- **Purpose:** Fortnightly Open Office meeting led by BeGIN (formerly known as the Global AI Ethics Initiative or GEI)
+- **Working Docs:**
+  - [BeGIN Overview and current status](https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view?usp=sharing)
+  - [Ubuntu and AI Drive Folder](https://drive.google.com/drive/folders/1a-JSaHCu_1iQ3BoxX6HkWSOQGopKDub3?usp=drive_link)
+  - [BEGIN Partnership Proposal for Phase 2 of Ubuntu and AI](https://docs.google.com/document/d/1WNVejHYjd_pBMBNf0ZFmEzobwM7E6bC1tqu3cBbRSak/edit?usp=sharing)
+  - [FINAL AI Ethics WG budgets ](https://docs.google.com/spreadsheets/d/19JPcJTBLct0xeGhVnxNEnsaoXqkE9SKMjWnwAqZ7GRI/edit?usp=sharing)
+
+#### Narrative:
+Discussion Points:
+- Updates on the Status of the BeGIN research project (see https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view)
+
+- A potential partnership with African guild for the next Ubuntu and AI project: Duke gave a run-through of phase 2 of the Ubuntu and AI project, and explained the partnership proposal from African Guild (see "BEGIN Partnership Proposal for Phase 2 of Ubuntu and AI" doc). Suggestions were made around the budget for the partnership and how funds could be better sourced for the events in Ubuntu and AI
+
+ - Vasu raised an idea for taking interviews or surveys for BeGIN during the forthcoming Bangkok event and it was welcomed for him to do so.
+
+- Workgroup budget planning ahead of submission later this month
+
+- Esther working hard to find out the process behind payments for AGI-24 from the Foundation; there is progress in the conversations she was having with the HR team
+
+- Vani brought up the idea of noting down all the upcoming events to prevent last-minute hassle of bringing in people from the ambassador program and enable a strategy to plan the events or hosting. “What kind of events do we look out for in the future? Are people going to blockchain and AI events?”  It's best to think of where people are, rather than sending people to distant locations, because of the cost varying across countries, so Esther suggested that funding should be geared more to people located in the countries over sending people to countries where the events are.
+
+ - Grant funding: A suggestion came up for partners to apply for grants but basically the foundation will come up with a way to create a sustainable way around funding for the events 
+Duke spoke of how he’s applied for grants and reached out to policy makers and government bodies to accelerate the spread of AI in Africa but he’s mostly focused on the partnership with SingularityNET.
+There is a funding issue because the project’s budget isn’t primarily its own.
+
+
+#### Keywords/tags:
+- **topics covered:** Events, funding, grants, budget, partnership, interviewing, Ubuntu and AI, African guild, AGI-24, sNET Foundation, Q1 2025 budget
+- **emotions:** Insightful, brief, relaxed, collaborative
 
 
 ## Wednesday 6th November 2024
