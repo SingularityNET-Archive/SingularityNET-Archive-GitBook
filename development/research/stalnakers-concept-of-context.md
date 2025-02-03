@@ -37,32 +37,17 @@ Stalnaker’s insights help us understand how context functions in human interac
 
 ### Contextual Sensitivity in AI Decision-Making <a href="#mdeui48q7n33" id="mdeui48q7n33"></a>
 
-
+As AI systems become integrated into diverse environments, they must navigate varying cultural, social, and situational norms. A one-size-fits-all approach simply won't suffice in delivering ethical or effective AI solutions.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.25.19.png" alt=""><figcaption></figcaption></figure>
 
-**Title:** Adapting AI Behavior to Context **Content:**
+Stalnaker's concept of context as the shared assumptions and background knowledge offers a valuable perspective here. AI systems, like human communicators, need to adapt to the context they are operating within. This means understanding the user's needs, cultural expectations, and even situational subtleties to provide appropriate responses.
 
-\
-"As AI systems become integrated into diverse environments, they must navigate varying cultural, social, and situational norms. A one-size-fits-all approach simply won't suffice in delivering ethical or effective AI solutions.”
+From an ethical standpoint, this sensitivity to context ensures fairness, reduces harm, and fosters trust. For example, a customer service AI interacting with users across different regions must adapt to linguistic and cultural norms to avoid miscommunication or offense.
 
-**\[Main Explanation]**
+Just as Stalnaker emphasized the dynamic role of context in human communication, ethical AI systems must similarly tailor their behaviour and decisions to the context of each interaction. This is not just a technical challenge but an ethical imperative.
 
-\
-"Stalnaker's concept of context as the shared assumptions and background knowledge offers a valuable perspective here. AI systems, like human communicators, need to adapt to the context they are operating within. This means understanding the user's needs, cultural expectations, and even situational subtleties to provide appropriate responses.”
-
-**\[Key Ethical Implications]**
-
-\
-"From an ethical standpoint, this sensitivity to context ensures fairness, reduces harm, and fosters trust. For example, a customer service AI interacting with users across different regions must adapt to linguistic and cultural norms to avoid miscommunication or offense.”
-
-**\[Connection to Stalnaker]**
-
-\
-"Just as Stalnaker emphasized the dynamic role of context in human communication, ethical AI systems must similarly tailor their behaviour and decisions to the context of each interaction. This is not just a technical challenge but an ethical imperative.”
-
-**\[Closing Statement]**\
-"Incorporating contextual sensitivity into AI systems ensures they remain relevant, respectful, and aligned with the values of the communities they serve."
+Incorporating contextual sensitivity into AI systems ensures they remain relevant, respectful, and aligned with the values of the communities they serve.
 
 ### Slide 4: Addressing Bias Through Context Awareness <a href="#qfbvdlik31sl" id="qfbvdlik31sl"></a>
 
