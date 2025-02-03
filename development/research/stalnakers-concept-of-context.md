@@ -24,13 +24,10 @@ Stalnaker defines context as the shared background information or assumptions th
 
 Some of Stalnaker's core ideas include:
 
-Context as a set of possible worlds : That is, hypothetical states of reality.
-
-Presuppositions: These are the implicit assumptions we make that shape meaning.
-
-Dynamic context updates: Communication is not static—it evolves as new information enters the conversation.
-
-Common Ground: This is the shared knowledge that ensures participants are aligned.
+* **Context as a set of possible worlds** : That is, hypothetical states of reality.
+* **Presuppositions**: These are the implicit assumptions we make that shape meaning.
+* **Dynamic context updates**: Communication is not static—it evolves as new information enters the conversation.
+* **Common Ground**: This is the shared knowledge that ensures participants are aligned.
 
 Stalnaker’s insights help us understand how context functions in human interaction, and these ideas are pivotal when designing AI systems that can ethically navigate complex, real-world environments.
 
