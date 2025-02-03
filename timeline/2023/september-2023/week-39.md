@@ -10,7 +10,7 @@ description: 18th September to 24th September 2023
 
 ### <mark style="color:green;">Education Guild</mark>
 
-#### Meeting Location:&#x20;
+#### Meeting Location:
 
 Ambassadors Discord event channel
 
@@ -18,7 +18,7 @@ Ambassadors Discord event channel
 
 Headelf \[facilitator] \[documentor], Felix, Fly, Osminimum, Peter, Roberto, WaKa, Tuso, Daemon Sprites. Later, Ese Williams, Fuji.AR.
 
-#### Agenda:&#x20;
+#### Agenda:
 
 Educational videos for outbound-facing ambassadors using AI video and/or Knowledge Graphs, about the sNet ecosystem.
 
@@ -52,62 +52,62 @@ It was towards the end of a very lively and spirited convo that there were plent
 
 #### Meeting duration:
 
-&#x20;1.5 hours.
+1.5 hours.
 
-#### Action items:&#x20;
+#### Action items:
 
-Do we discontinue the initiative because Ambassadors should self educate? \
-Do we focus on Onboarding education? \
-Do we continue with outward focused Ambassador education? \
-**\[Action]** Document and concurrent convo to continue in Discord, and follow up next week.
+Do we discontinue the initiative because Ambassadors should self educate?\
+Do we focus on Onboarding education?\
+Do we continue with outward focused Ambassador education?\
+&#xNAN;**\[Action]** Document and concurrent convo to continue in Discord, and follow up next week.
 
 ***
 
 ### <mark style="color:green;">Knowledge Base Workgroup</mark>
 
-#### **Meeting Summary** **Context:**&#x20;
+#### **Meeting Summary** **Context:**
 
 Aggregating Ambassador Program assets and relevant information under GitBook
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764564141989145\&cot=10](https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764564141989145\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764564141989145\&cot=10](https://miro.com/app/board/uXjVM4tvNgs=/?moveToWidget=3458764564141989145\&cot=10)
 
-**Meeting Video Summary:**&#x20;
+**Meeting Video Summary:**
 
 {% embed url="https://youtu.be/Sz2XoqXGOUE" %}
 
-#### **Agenda Items**&#x20;
+#### **Agenda Items**
 
-#### **1) Knowledge Base Workgroup Overview**&#x20;
+#### **1) Knowledge Base Workgroup Overview**
 
-**Description** - Going over workgroup roles, activities and rewards \
-**Insight** - Presentation recording: [https://youtu.be/igzWMULf4bg](https://youtu.be/igzWMULf4bg) \
-**Insight** - Meeting Summary video includes more answers about Workgroup that got raised later in the session \
-**\[Decision]** - We meet again in 2 weeks \
-**\[Decision]** - We will try to do most of the data collection work async \
-**Insight** - You can suggest changing the meeting time using the when2meet link [https://www.when2meet.com/?21161533-9RDo9](https://www.when2meet.com/?21161533-9RDo9) \
-**\[Action]** - Share awareness of this workgroup goal and tasks with all the other Ambassador teams \
-**Learning** - Need a role to analyze and organize the provided links and assets \
+**Description** - Going over workgroup roles, activities and rewards\
+**Insight** - Presentation recording: [https://youtu.be/igzWMULf4bg](https://youtu.be/igzWMULf4bg)\
+**Insight** - Meeting Summary video includes more answers about Workgroup that got raised later in the session\
+&#xNAN;**\[Decision]** - We meet again in 2 weeks\
+&#xNAN;**\[Decision]** - We will try to do most of the data collection work async\
+**Insight** - You can suggest changing the meeting time using the when2meet link [https://www.when2meet.com/?21161533-9RDo9](https://www.when2meet.com/?21161533-9RDo9)\
+&#xNAN;**\[Action]** - Share awareness of this workgroup goal and tasks with all the other Ambassador teams\
+**Learning** - Need a role to analyze and organize the provided links and assets\
 **Learning** - May need more than one content aggregator to have better coverage of workgroups.
 
-#### **2) Organizing Information**&#x20;
+#### **2) Organizing Information**
 
-**Description** - Shared a way how we could organize collected information under different questions and topics to make it easier to have an overview of the Ambassador Program **\[Decision]** - We will try the presented approach \
-**Learning** - Before organizing assets, we need to analyze the resource and decide if it is relevant for sharing in the GitBook. \
-**Insight** - After organizing information we can see the overview of collected data and move on to writing and uploading tasks \
-**Insight** - Presentation Recording: [https://youtu.be/v8VBBAL7PzI](https://youtu.be/v8VBBAL7PzI)&#x20;
+**Description** - Shared a way how we could organize collected information under different questions and topics to make it easier to have an overview of the Ambassador Program **\[Decision]** - We will try the presented approach\
+**Learning** - Before organizing assets, we need to analyze the resource and decide if it is relevant for sharing in the GitBook.\
+**Insight** - After organizing information we can see the overview of collected data and move on to writing and uploading tasks\
+**Insight** - Presentation Recording: [https://youtu.be/v8VBBAL7PzI](https://youtu.be/v8VBBAL7PzI)
 
-#### **3) Off-topic concerns of a lack of collaboration between Ambassadors**&#x20;
+#### **3) Off-topic concerns of a lack of collaboration between Ambassadors**
 
 **Description** - There was confusion about this workgroup purpose and then we talked about specifically how the crucial assets are being made in the Ambassador Program\
-**Insight** - Ambassador Program members do not have the capacity to react and address complaints in a timely manner \
+**Insight** - Ambassador Program members do not have the capacity to react and address complaints in a timely manner\
 **Insight** - Due to the current unclear set-up and purpose of workgroups, it's not clear how to contribute.
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
 **\[Action]** Spread information about this workgroup to other workgroups and ambassadors\
-**\[Action]** Recommend Ambassadors to watch these workgroup presentations.
+&#xNAN;**\[Action]** Recommend Ambassadors to watch these workgroup presentations.
 
 ***
 
@@ -121,7 +121,7 @@ Not this week
 
 ### <mark style="color:green;">Ambassador Town Hall</mark>
 
-Town Hall #66&#x20;
+Town Hall #66
 
 #### Video:
 
@@ -129,16 +129,16 @@ Town Hall #66&#x20;
 
 #### Workgroup updates:
 
-see full recording above for those.&#x20;
+see full recording above for those.
 
 #### Two call-outs:
 
-1. this Thursday we'll have Deep Funding Ideafest, at both 9UTC and 19UTC.&#x20;
+1. this Thursday we'll have Deep Funding Ideafest, at both 9UTC and 19UTC.
 2. Also Thursday, at 17UTC, there is a Supervisory Council Election AMA with Dr. Ben Goertzel. For all events see the public calendar.
 
 #### Code of Conduct vote
 
-We had a consent check on implementing our Code of Conduct document, which can be found here: [https://docs.google.com/document/d/1\_r\_ODS-hgFfsvneZiysAZTCfMcwoK6mVsbuasJVW9aw/edit](https://docs.google.com/document/d/1\_r\_ODS-hgFfsvneZiysAZTCfMcwoK6mVsbuasJVW9aw/edit)
+We had a consent check on implementing our Code of Conduct document, which can be found here: [https://docs.google.com/document/d/1\_r\_ODS-hgFfsvneZiysAZTCfMcwoK6mVsbuasJVW9aw/edit](https://docs.google.com/document/d/1_r_ODS-hgFfsvneZiysAZTCfMcwoK6mVsbuasJVW9aw/edit)
 
 We went over the document and there were no objections, so it will be implemented!
 
@@ -158,7 +158,7 @@ Andre, Stephen \[facilitator], Peter. Vanessa
 
 1 - GitHub Project Board - Stephen
 
-2 - Close out Fund Requests for Quarter 3 2023 - All&#x20;
+2 - Close out Fund Requests for Quarter 3 2023 - All
 
 3 - Quarter 3 Report for Archives Workgroup - Vanessa
 
@@ -212,25 +212,25 @@ Not this week
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
-#### Participants:&#x20;
+#### Participants:
 
-TheDeFreys, Peter, Osmium, Fly, Headelf \[facilitator]&#x20;
+TheDeFreys, Peter, Osmium, Fly, Headelf \[facilitator]
 
-#### Agenda:&#x20;
+#### Agenda:
 
-Conflict resolution&#x20;
+Conflict resolution
 
 #### Notes:
 
-A long convo started as the group ideated on what is a conflict resolution, definitions, guardrails and goals.&#x20;
+A long convo started as the group ideated on what is a conflict resolution, definitions, guardrails and goals.
 
-Definitions were first. What is meaning of ‘Conflict’. What is meaning of ‘Resolution”. We discussed ‘Decision Making Process’. Fly brought up the subject of ‘what body will deal with this’? Headelf suggested we table the ‘body concept’ and work on definitions. Peter brought up the COC and process. Osmium defined from google or dictionary - Dispute is the active disagreement between people with opposing opinions. Accepted. Resolution - ‘coming to terms’. Question from DeFreys is How will we handle? Peter suggested that a conflict in a WG be handled within that WG. If cannot be scale it up to The Round Table(wip). DeFreys pivoted to a question of a Violation to the now extant COC. What to do. He suggested a board for conflict resolution and other issues that works within the particular group then have an appeal process with 1.the Two people to attempt to handle with the WG leads. Question then was raised by Headelf if/should WG leads or all Ambassadors have conflict resolution training. Cannot force someone to get training was noted. The convo on training needs and requirements and possibility of outside resources was long and consumed the rest of the meeting with no consensus. We did put together a rough draft of a CR document [https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5\_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing](https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5\_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing)&#x20;
+Definitions were first. What is meaning of ‘Conflict’. What is meaning of ‘Resolution”. We discussed ‘Decision Making Process’. Fly brought up the subject of ‘what body will deal with this’? Headelf suggested we table the ‘body concept’ and work on definitions. Peter brought up the COC and process. Osmium defined from google or dictionary - Dispute is the active disagreement between people with opposing opinions. Accepted. Resolution - ‘coming to terms’. Question from DeFreys is How will we handle? Peter suggested that a conflict in a WG be handled within that WG. If cannot be scale it up to The Round Table(wip). DeFreys pivoted to a question of a Violation to the now extant COC. What to do. He suggested a board for conflict resolution and other issues that works within the particular group then have an appeal process with 1.the Two people to attempt to handle with the WG leads. Question then was raised by Headelf if/should WG leads or all Ambassadors have conflict resolution training. Cannot force someone to get training was noted. The convo on training needs and requirements and possibility of outside resources was long and consumed the rest of the meeting with no consensus. We did put together a rough draft of a CR document [https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5\_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing](https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing)
 
-#### Meeting length:&#x20;
+#### Meeting length:
 
-1\. 45 hours&#x20;
+1\. 45 hours
 
-#### Action items:&#x20;
+#### Action items:
 
 **\[Action]** All to make comments on Conflict Resolution document.
 
@@ -240,11 +240,11 @@ Definitions were first. What is meaning of ‘Conflict’. What is meaning of �
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
-#### Attendees:&#x20;
+#### Attendees:
 
 Vani {facilitator] Sucre n Spice, Tevo, Headelf \[documenter], LadyTempestt, Onyeka. Hogan joined later.
 
-#### Agenda:&#x20;
+#### Agenda:
 
 #### 1) Approve minutes of last meeting
 
@@ -262,31 +262,31 @@ d. Peter to join translation session next week to discuss entry level tasks. (in
 
 #### 3) “Getting Started channel”
 
-The document [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) was shared, discussed, and edited live.&#x20;
+The document [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) was shared, discussed, and edited live.
 
 * Suggestion: Pin the edited doc to the Getting Started channel in Discord in full text form, and also share it on social media etc.
 * Question from Onboarding session on 7th Sept: should we create a FAQ?
 * Discussion - is the text simple enough, does it get the proper message across. A big concern was - if the frequently asked question of, ‘How do I become an ambassador’ was/is properly answered in the edited document.
 * Vani asked the newer (to the ambassador program) participants if they had suggestions and Onyeka input a question about tasks, types and how to get assigned to one. This was incorporated into the document in the FAQ section. LadyTempestt asked how to apply for tasks on Dework. This was added to the FAQ. section of the document.
 
-Discussion and editing stopped with 10 minutes left in the meeting time&#x20;
+Discussion and editing stopped with 10 minutes left in the meeting time
 
 #### 4) Onboarding and how to increase participation.
 
-* Vani brought up some ideas to help people and asked for suggestions.&#x20;
-* Tevo suggested having requirements for workgroups to explain their process as each workgroup is independent and may have differing requirements and procedures.&#x20;
-* Sucre n Spice suggested that each Discord channel should put up a post about how to get started in that channel.&#x20;
-* She then asked LadyTempestt how she found it to get involved with Writers Workgroup. LadyTempestt indicated that she had taken the scribbler test, then DMd Kenichi, and she had found the onboarding process easy. Onyeka also took the test and is waiting on Kenichi to get back in touch with him. &#x20;
-* Some more discussion followed on how to get onboarding explanations for each Guild or Workgroup to educate the Explorers and Level1 Ambassadors.&#x20;
-* Some pushback on the time it was taking to get onboarded with Writers Workgroup.&#x20;
+* Vani brought up some ideas to help people and asked for suggestions.
+* Tevo suggested having requirements for workgroups to explain their process as each workgroup is independent and may have differing requirements and procedures.
+* Sucre n Spice suggested that each Discord channel should put up a post about how to get started in that channel.
+* She then asked LadyTempestt how she found it to get involved with Writers Workgroup. LadyTempestt indicated that she had taken the scribbler test, then DMd Kenichi, and she had found the onboarding process easy. Onyeka also took the test and is waiting on Kenichi to get back in touch with him.
+* Some more discussion followed on how to get onboarding explanations for each Guild or Workgroup to educate the Explorers and Level1 Ambassadors.
+* Some pushback on the time it was taking to get onboarded with Writers Workgroup.
 
-**\[Decision]** Vani or Sucren to create a Google Doc to ideate async, ready for next Onboarding Meeting.&#x20;
+**\[Decision]** Vani or Sucren to create a Google Doc to ideate async, ready for next Onboarding Meeting.
 
-#### Meeting ended:&#x20;
+#### Meeting ended:
 
 14:02 UTC
 
-#### Action Items:&#x20;
+#### Action Items:
 
 **\[Action]** - Doc creation by Vani on Workgroup specific onboarding concepts to make it easier for Explorers and Level1 Ambassadors. See [Onboarding WG - how can we support other WGs to onboard new people in their meetings](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
 
@@ -296,64 +296,62 @@ Discussion and editing stopped with 10 minutes left in the meeting time&#x20;
 
 the meeting scribe was Headelf who did add some titles that were not actually used in the meeting, such as Explorers and Level1 Ambassadors for clarity purposes.
 
-
-
 ***
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
-#### **Meeting Summary** **Context:**&#x20;
+#### **Meeting Summary** **Context:**
 
 How to structure Ambassador rules around payments, tasks and anything related to financial activities
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764563605978082\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764563605978082\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764563605978082\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764563605978082\&cot=10)
 
-#### **Meeting Video Summary:**&#x20;
+#### **Meeting Video Summary:**
 
 {% embed url="https://youtu.be/p7oD3IDiLTQ" %}
 
-#### **Agenda Items**&#x20;
+#### **Agenda Items**
 
-#### **1) Insights from Treasury Guild related to specific tasks**&#x20;
+#### **1) Insights from Treasury Guild related to specific tasks**
 
-**Description** - When we audit tasks we select a few tasks to be looked at that where there are mistakes or questions about costs. We found this method to be good way to provide a feedback loop to improve our task recognition. \
-**\[Decision]** - We agreed that Treasury Guild can start holding off task rewards when we notice mistakes or high costs.\
-**\[Decision]** - Treasury Guild will notify assignees of the reasons for holding off rewards in the Treasury Guild channel.\
-**\[Decision]** - If possible we clarify rewards async in Treasury Guild Channel \
-**\[Decision]** - alternatively we bring these issues to the Treasury Guild call for collective discussions.\
-**\[Decision]** - When Dework PBL runs out of the initially requested budget and we have not reached the monthly Ambassador budget limit, we will double the rewards for Dework PBL workgroup contributors. \
-**Insight** - Sometimes tasks do not have an accurate amount of task points because of previous templates or task duplications, which then gives a false warning to the Treasury Guild about the time spent and funds requested. \
-**Learning** - Use Dework Templates instead of duplicating tasks \
-**Learning** - Do not assign task points to Dework templates \
-**Insight** - There is no point in changing Dework tasks moved to done. Most of them are already rewarded \
-**Insight** - Some Workgroups use a bad date format that requires manual updates from Treasury Guild. See previous Treasury Guild Video for correct formats: [https://www.youtube.com/watch?v=4Dg9AotLULU](https://www.youtube.com/watch?v=4Dg9AotLULU) \
-**\[Decision]** - all Gamers Guild fund requests will have to be discussed before automatically rewarding \
-**\[Decision]** - All Townhall video editing tasks by Fly will be held in backlog until further clarification \
-**Insight** - Do not use dollar cents in Dework task names; instead round them to the whole number \
-**\[Decision]** - We will allow each workgroup to have its own tool license costs, even if they are the same tools.&#x20;
+**Description** - When we audit tasks we select a few tasks to be looked at that where there are mistakes or questions about costs. We found this method to be good way to provide a feedback loop to improve our task recognition.\
+&#xNAN;**\[Decision]** - We agreed that Treasury Guild can start holding off task rewards when we notice mistakes or high costs.\
+&#xNAN;**\[Decision]** - Treasury Guild will notify assignees of the reasons for holding off rewards in the Treasury Guild channel.\
+&#xNAN;**\[Decision]** - If possible we clarify rewards async in Treasury Guild Channel\
+&#xNAN;**\[Decision]** - alternatively we bring these issues to the Treasury Guild call for collective discussions.\
+&#xNAN;**\[Decision]** - When Dework PBL runs out of the initially requested budget and we have not reached the monthly Ambassador budget limit, we will double the rewards for Dework PBL workgroup contributors.\
+**Insight** - Sometimes tasks do not have an accurate amount of task points because of previous templates or task duplications, which then gives a false warning to the Treasury Guild about the time spent and funds requested.\
+**Learning** - Use Dework Templates instead of duplicating tasks\
+**Learning** - Do not assign task points to Dework templates\
+**Insight** - There is no point in changing Dework tasks moved to done. Most of them are already rewarded\
+**Insight** - Some Workgroups use a bad date format that requires manual updates from Treasury Guild. See previous Treasury Guild Video for correct formats: [https://www.youtube.com/watch?v=4Dg9AotLULU](https://www.youtube.com/watch?v=4Dg9AotLULU)\
+&#xNAN;**\[Decision]** - all Gamers Guild fund requests will have to be discussed before automatically rewarding\
+&#xNAN;**\[Decision]** - All Townhall video editing tasks by Fly will be held in backlog until further clarification\
+**Insight** - Do not use dollar cents in Dework task names; instead round them to the whole number\
+&#xNAN;**\[Decision]** - We will allow each workgroup to have its own tool license costs, even if they are the same tools.
 
-#### **2) Treasury System Updates**&#x20;
+#### **2) Treasury System Updates**
 
-**Description** - Sharing updates related to changes and new features to the Treasury System \
-**Insight** - We have updated the Dashboard view on the live website: [https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report](https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report) \
-**Insight** - If you use "Week Nr" in Task name it will convert the contribution date into the last date of the given week \
-**Insight** - for a more detailed view and historical information we use the Power BI dashboard&#x20;
+**Description** - Sharing updates related to changes and new features to the Treasury System\
+**Insight** - We have updated the Dashboard view on the live website: [https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report](https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report)\
+**Insight** - If you use "Week Nr" in Task name it will convert the contribution date into the last date of the given week\
+**Insight** - for a more detailed view and historical information we use the Power BI dashboard
 
-**3) Ambassador Program Dashboard Analysis**&#x20;
+**3) Ambassador Program Dashboard Analysis**
 
-**Description** - We now have several different views to visualize our collective contributions \
-**\[Decision]** - We will hold Incubation Guild's rewards until further discussions \
-**\[Action]** - Change the total USD calculations in Power BI into total AGIX calculations\
-**\[Action]** - Create a workgroup drill-down view similar to the Participants' view in Power BI\
-**\[Action]** - Add total budgets and current status to the overview page for dashboards\
+**Description** - We now have several different views to visualize our collective contributions\
+&#xNAN;**\[Decision]** - We will hold Incubation Guild's rewards until further discussions\
+&#xNAN;**\[Action]** - Change the total USD calculations in Power BI into total AGIX calculations\
+&#xNAN;**\[Action]** - Create a workgroup drill-down view similar to the Participants' view in Power BI\
+&#xNAN;**\[Action]** - Add total budgets and current status to the overview page for dashboards\
 **Insight** - almost all workgroups and guilds are using USD indication to reward participants\
 **Insight** - Almost all workgroups have increased their rewards to 20$ per hour or more\
-**Insight** - Current operations are not sustainable and can not be continued as is \
-**Insight** - Archives Workgroup rewards are not included in the Dashboard because they are sending fund requests quarterly&#x20;
+**Insight** - Current operations are not sustainable and can not be continued as is\
+**Insight** - Archives Workgroup rewards are not included in the Dashboard because they are sending fund requests quarterly
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
 We will continue discussing the next quarter's budget in the Discord Ambassadors Forum "Treasury budget Discussions".
 
@@ -369,15 +367,15 @@ Not this week
 
 Not this week - replaced by DeepFunding Round 3 IdeaFest. See playlists:\
 \
-**New projects**: [https://www.youtube.com/playlist?list=PLC\_2LlWfxxoe1ZcSRPJeryCBgyrwK\_\_Kz](https://www.youtube.com/playlist?list=PLC\_2LlWfxxoe1ZcSRPJeryCBgyrwK\_\_Kz)\
+**New projects**: [https://www.youtube.com/playlist?list=PLC\_2LlWfxxoe1ZcSRPJeryCBgyrwK\_\_Kz](https://www.youtube.com/playlist?list=PLC_2LlWfxxoe1ZcSRPJeryCBgyrwK__Kz)\
 \
-**Ideation:** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxoely\_Hvy-DmLri1IOwogjOV](https://www.youtube.com/playlist?list=PLC\_2LlWfxxoely\_Hvy-DmLri1IOwogjOV)
+**Ideation:** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxoely\_Hvy-DmLri1IOwogjOV](https://www.youtube.com/playlist?list=PLC_2LlWfxxoely_Hvy-DmLri1IOwogjOV)
 
-**Tooling:** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxod3djRT1H7OlzgYaPv\_VytV](https://www.youtube.com/playlist?list=PLC\_2LlWfxxod3djRT1H7OlzgYaPv\_VytV)
+**Tooling:** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxod3djRT1H7OlzgYaPv\_VytV](https://www.youtube.com/playlist?list=PLC_2LlWfxxod3djRT1H7OlzgYaPv_VytV)
 
-**Marketing**: [https://www.youtube.com/playlist?list=PLC\_2LlWfxxodKFagoOew8d3OjM9qxwYlU](https://www.youtube.com/playlist?list=PLC\_2LlWfxxodKFagoOew8d3OjM9qxwYlU)
+**Marketing**: [https://www.youtube.com/playlist?list=PLC\_2LlWfxxodKFagoOew8d3OjM9qxwYlU](https://www.youtube.com/playlist?list=PLC_2LlWfxxodKFagoOew8d3OjM9qxwYlU)
 
-**Request For Proposal** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxodRwDFDmuuZrf0GSaQBU7OB](https://www.youtube.com/playlist?list=PLC\_2LlWfxxodRwDFDmuuZrf0GSaQBU7OB)
+**Request For Proposal** [https://www.youtube.com/playlist?list=PLC\_2LlWfxxodRwDFDmuuZrf0GSaQBU7OB](https://www.youtube.com/playlist?list=PLC_2LlWfxxodRwDFDmuuZrf0GSaQBU7OB)
 
 ***
 
@@ -409,7 +407,7 @@ We do not have any tasks on the Dework board right now.
 
 #### New Task Ideas:
 
-Slate talked about his article and shared insight into the resources \
+Slate talked about his article and shared insight into the resources\
 Devon brought a new task idea: the gamification of the new Sophiaverse\_based species of Neoterics
 
 #### Workflow for submissions:

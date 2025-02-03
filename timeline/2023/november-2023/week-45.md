@@ -1,7 +1,7 @@
 ---
 description: Mon 30th Oct - Sun 5th Nov 2023
 ---
-      
+
 # Week 45
 
 {% embed url="https://github.com/orgs/SingularityNET-Archive/projects/1/views/3?itemId=39607712&pane=issue" %}
@@ -24,9 +24,9 @@ Headelf shared his Intro video on SNet. 32 sec.\
 Peter shared his Intro video on SNet 1min10sec.\
 Curtis asked about who is the target audience. Discussion followed.\
 WaKa responded to Headelf's inquiry on Google Class with ‘it's a rich full-blown system’.\
-Discussion centered around Peter's more detailed longer video. \
+Discussion centered around Peter's more detailed longer video.\
 The balance of the meeting was with Headelf working on editing Peter's video in real time. We replaced stock photos with custom-made by Headelf. Some of the on-the-fly editing left the graphic out of proportion.\
-A long discussion was held about an Outgo video after the intro and the "meat & potatoes". Is a splash for each project possible or needed? \
+A long discussion was held about an Outgo video after the intro and the "meat & potatoes". Is a splash for each project possible or needed?\
 Brand assists were raised.\
 WaKa brought up personalized education by AI for individuals.
 
@@ -84,7 +84,7 @@ There seems to be less emphasis on Dework Management and how to use it
 
 #### **Keywords**
 
-**Topics:** \
+**Topics:**\
 Dework, form, analysis, Tokenomics proposal, GitHub, Townhall Slides, Ambassador Gitbook
 
 **Sources:**\
@@ -94,9 +94,9 @@ Treasury DApp Source Code: [https://github.com/treasuryguild/treasury-dapp](http
 Wallet Collector: [https://forms.gle/xqEoAB26tDCsw7789](https://forms.gle/xqEoAB26tDCsw7789)\
 Treasury Guild Dework Space: [https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)\
 Treasury Dashboard: [https://treasuryguild.com/Singularity%20Net](https://treasuryguild.com/Singularity%20Net)\
-Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link](https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link)
+Ambassador Townhall Slide Folder: [https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO\_cZXQws\_HzLwU0?usp=drive\_link](https://drive.google.com/drive/folders/1kO6GuiDW2HO5lUTPsO_cZXQws_HzLwU0?usp=drive_link)
 
-**Feelings**: \
+**Feelings**:\
 Meeting felt busy as we went through different individually analyzed items
 
 ***
@@ -115,16 +115,16 @@ Not this week
 
 #### Timestamps
 
-[00:00](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=0s) Introduction by Peter \
-[00:12](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=12s) Participants Intro \
-[01:38](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=98s) Mentions \
-[05:48](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=348s) Workgroup Updates \
-[13:00](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=780s) Quarter 4 Budget \
-[22:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=1345s) Video workgroup Monthly Updates \
-[46:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=2785s) Voting Experiment by Felix \
-[54:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=3265s) Governance Discussion by WaKa \
-[01:01:02](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=3662s) Welcoming Session for DeepFunding Round 3 awarded teams \
-[01:02:20](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=38\&t=3740s) Conclusion by Peter
+[00:00](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=0s) Introduction by Peter\
+[00:12](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=12s) Participants Intro\
+[01:38](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=98s) Mentions\
+[05:48](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=348s) Workgroup Updates\
+[13:00](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=780s) Quarter 4 Budget\
+[22:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=1345s) Video workgroup Monthly Updates\
+[46:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=2785s) Voting Experiment by Felix\
+[54:25](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=3265s) Governance Discussion by WaKa\
+[01:01:02](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=3662s) Welcoming Session for DeepFunding Round 3 awarded teams\
+[01:02:20](https://www.youtube.com/watch?v=Qibx63Pbq98\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=38\&t=3740s) Conclusion by Peter
 
 ***
 
@@ -138,7 +138,7 @@ No summary given
 
 ### <mark style="color:green;">Archives Workgroup</mark>
 
-Meeting cancelled&#x20;
+Meeting cancelled
 
 ***
 
@@ -162,12 +162,12 @@ Headelf, Rojo, Fly, Curtis, Tuso, Peter \[summarizer]
 
 #### Purpose:
 
-Progressing the roundtable document, so it can be shared to a wider audience [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit)
+Progressing the roundtable document, so it can be shared to a wider audience [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX_Te1mJpeOoEM/edit)
 
 #### Decisions:
 
 **\[Decision]:** Post in strategy channel, tagging all workgroup leaders for their input before putting it to full community input.\
-**\[Decision]:** the RT will be required to participate in program wide votes. They will NOT have additional voting power compared to other members.
+&#xNAN;**\[Decision]:** the RT will be required to participate in program wide votes. They will NOT have additional voting power compared to other members.
 
 #### Action items:
 
@@ -197,13 +197,13 @@ Giving a short survey form for people to express how they feel about the onboard
 #### Decisions:
 
 **\[Decision]** We agreed that people can only apply for tasks in the Onboarding Dework if they have the “Onboarding workgroup member” tag in Discord as the Onboarding Dework space is now only accessible to people with the tag.\
-**\[Decision]** We agreed to submit proof of DM-TO-DM onboarding and engagement with new members of the SNET ambassador program fortnightly or weekly so proof of fund request will not be required.
+&#xNAN;**\[Decision]** We agreed to submit proof of DM-TO-DM onboarding and engagement with new members of the SNET ambassador program fortnightly or weekly so proof of fund request will not be required.
 
 #### Action items:
 
 **\[Action]** Sucre to tweak the scripts and relay the imagery in the onboarding video to LilyCupcake.\
-**\[Action]** Peter to give every member of the onboarding WG the onboarding WG role on Discord.\
-**\[Action]** Vani and LordKizzy to make the 1st draft for the onboarding survey and bring it to the next meeting.
+&#xNAN;**\[Action]** Peter to give every member of the onboarding WG the onboarding WG role on Discord.\
+&#xNAN;**\[Action]** Vani and LordKizzy to make the 1st draft for the onboarding survey and bring it to the next meeting.
 
 #### Learning points:
 
@@ -213,7 +213,7 @@ We should try reinforcing the onboarding messages on how to get involved in a pa
 
 #### To carry over for the next meeting:
 
-Check [Getting Started doc](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) - (15 mins) Have any new comments been added? Turning it into a Twitter thread as suggested by Peter - this was to stay on the agenda for decision in a future meeting.
+Check [Getting Started doc](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) - (15 mins) Have any new comments been added? Turning it into a Twitter thread as suggested by Peter - this was to stay on the agenda for decision in a future meeting.
 
 We should reach out to other WGs and ask for a bit of their time during their meetings to find out how they onboard new/old members to their meetings while explaining things from our perspectives
 
@@ -285,8 +285,8 @@ We updated Workgroup Budget Limits
 
 **Topics:** Budget, Audit, Proposal, Quarter 4, Planning, Archival, Fund Request, Miro Board
 
-**Sources:** Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit](https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit)\
-Workgroup Types and Requirements - [https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view](https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view)\
+**Sources:** Quarter 4 Treasury Proposal - [https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8\_xz3bM0JwmFzQ0/edit](https://docs.google.com/document/d/1ZFfc4swKSN25XQC3hJVeiEEjbzXs8_xz3bM0JwmFzQ0/edit)\
+Workgroup Types and Requirements - [https://drive.google.com/file/d/11xaV3oG\_NSJ4SpbXZiZE8JjbwyJwbCUD/view](https://drive.google.com/file/d/11xaV3oG_NSJ4SpbXZiZE8JjbwyJwbCUD/view)\
 Task Submission Template - [https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing](https://docs.google.com/document/d/1NYqDGtvbLqFXg8AMd4qujP7SX3RGmkMzTfSdvjyblFc/edit?usp=sharing)\
 Archival WG September Fund Request - [https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023](https://github.com/orgs/SingularityNET-Archive/projects/1/views/4?sliceBy%5Bvalue%5D=September+2023)\
 **How the meeting felt:** Meeting was collaborative and focused on topics that helped to align and improve our distribution rules.
@@ -328,10 +328,10 @@ Mihai Bărbulescu; jay.05 | Judith W; headelf; Peter E; Tevo; Fly; Rojo; Kenichi
 
 #### What should the responsibilities of the outreach role holders be?
 
-* Stay on top with events happening across SNet and understand what's happening in the next months&#x20;
+* Stay on top with events happening across SNet and understand what's happening in the next months
 * Outreach to spin-off projects to find out how we can support them/ what we can create for them
 * Decide what the main marketing focus should be
-* Communicate to each workgroup what content needs to go out&#x20;
+* Communicate to each workgroup what content needs to go out
 * Make sure the workgroups are communicating (They have alignment on what content goes out)
 * Outreach to external organisations that could collaborate with SNet
 * Social media coordination between workgroup content ,especially Writers' and Video WG
@@ -351,10 +351,10 @@ Mihai Bărbulescu; jay.05 | Judith W; headelf; Peter E; Tevo; Fly; Rojo; Kenichi
 * Should we have the outreach role coordinators get the info from projects on what tasks are needed and create the tasks for them? (Could be very time consuming!)
 * We could offer a Google doc template for them to input task info. We can then turn it into Dework task for them.
 * Should workgroups decide on the pricing for each task, or should we have standardised rates, or should the spin-off projects themselves decide what they want to pay?
-* Charging a service fee to cover SNet costs is definitely needed ( treasury etc): Proposed: 5-10% charge&#x20;
+* Charging a service fee to cover SNet costs is definitely needed ( treasury etc): Proposed: 5-10% charge
 * What currency should it be charged in? Their token or AGIX?
 * How do we establish a point of contact? Invite them to Town Hall session or outreach by an individual person with an outreach role?
-* Should we reach out with a defined offer/service?  Risk: It will restrict their creativity to come up with what they truly need.
+* Should we reach out with a defined offer/service? Risk: It will restrict their creativity to come up with what they truly need.
 * Should we ask them what exactly they need? Risk: We shouldn't bend for them. They might ask for things we can’t offer
 
 #### What specific services could we provide/ offer as a package?
@@ -371,7 +371,7 @@ Mihai Bărbulescu; jay.05 | Judith W; headelf; Peter E; Tevo; Fly; Rojo; Kenichi
 * Help them set up or manage their own Ambassadors program:
 * Full Ambassador’s package/ Consultations (Treasury, Dework, Note taking…)
 
-#### Decisions:  <a href="#docs-internal-guid-4dd7003b-7fff-9e69-0fe6-e11a495e2037" id="docs-internal-guid-4dd7003b-7fff-9e69-0fe6-e11a495e2037"></a>
+#### Decisions: <a href="#docs-internal-guid-4dd7003b-7fff-9e69-0fe6-e11a495e2037" id="docs-internal-guid-4dd7003b-7fff-9e69-0fe6-e11a495e2037"></a>
 
 We need more time to ideate on each item, discussion will continue next Friday 12 UTC\
 In the meantime: create a Google doc to continue brainstorming (See action items)
@@ -382,17 +382,17 @@ Judith to create a Google document where we can continue brainstorming collabora
 
 * Who are the points of contacts for each spinoff project?
 * What questions do we want to ask them?
-* What responsibilities should a person with the ‘outreach role’ have?&#x20;
+* What responsibilities should a person with the ‘outreach role’ have?
 * What workgroups want to offer their services?
 * What services could we potentially offer?
 
-This document is at [https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9TN9Qr\_Jh7k8W3FRCi1pLLQ/edit ](https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9TN9Qr\_Jh7k8W3FRCi1pLLQ/edit)
+This document is at [https://docs.google.com/document/d/1ZO\_n95IvOje7HFUYFjrl9TN9Qr\_Jh7k8W3FRCi1pLLQ/edit](https://docs.google.com/document/d/1ZO_n95IvOje7HFUYFjrl9TN9Qr_Jh7k8W3FRCi1pLLQ/edit)
 
 ***
 
 ### Writers' Workgroup
 
-#### Present:&#x20;
+#### Present:
 
 RafaelJeff, LadyTempestt, CJfrankie, Judith, Devon Hardy, Kenichi \[facilitator], Slate \[documenter]
 
@@ -412,7 +412,7 @@ scribblers as note-takers for other groups\
 article editing\
 Greasury problem resolution
 
-#### Recap of Previous Tasks:&#x20;
+#### Recap of Previous Tasks:
 
 Kenichi opened the meeting by providing a recap of the tasks from the previous session. This ensured that everyone was on the same page regarding ongoing assignments.
 
@@ -424,21 +424,21 @@ LadyTempestt shared a positive experience with her first task, underscoring the 
 
 Judith reported that she was taking her time with her current task, as it lacked urgency and a strict time limit. Kenichi offered his guidance and support for her ongoing work.
 
-#### Upcoming Articles:&#x20;
+#### Upcoming Articles:
 
 The team discussed plans for working on articles with added events. This suggests a focus on providing timely and engaging content for readers.
 
 #### Collaborative Work:
 
-&#x20;Members were encouraged to actively engage in collaborative work. They were advised to post in the Discord channel for help or resources, demonstrating a commitment to mutual support and growth.
+Members were encouraged to actively engage in collaborative work. They were advised to post in the Discord channel for help or resources, demonstrating a commitment to mutual support and growth.
 
-#### Twitter Thread Management:&#x20;
+#### Twitter Thread Management:
 
 Mikasa was identified as the point of contact for managing Twitter threads. Members were encouraged to reach out for guidance or assistance in this regard.
 
-#### Trivia session:&#x20;
+#### Trivia session:
 
-A trivia session is scheduled for this Friday (today), which will focus on topics related to SingularityNET, deepfunding, and AI. Prizes were announced : \
+A trivia session is scheduled for this Friday (today), which will focus on topics related to SingularityNET, deepfunding, and AI. Prizes were announced :\
 The first-place winner receives $20,\
 the second-place winner receives $10,\
 and the third-place winner receiving $5.\
@@ -446,51 +446,51 @@ Additionally, the fourth to forward positions would receive Zealy points.
 
 #### Infographics for Zealy:
 
-&#x20;Judith and CJFrankie volunteered to create infographics for Zealy, a valuable contribution to visual content.
+Judith and CJFrankie volunteered to create infographics for Zealy, a valuable contribution to visual content.
 
-#### Substack Site:&#x20;
+#### Substack Site:
 
 A notable article by LadyTempestt was discussed, and members were encouraged to show their appreciation by giving claps, highlighting the importance of supporting each other's work.
 
-#### Article Suggestions:&#x20;
+#### Article Suggestions:
 
-The group discussed updates on subscribers and \
-**\[decision]** set a goal of reaching 60 subscribers. \
+The group discussed updates on subscribers and\
+&#xNAN;**\[decision]** set a goal of reaching 60 subscribers.\
 Additionally, it was mentioned that there are numerous articles in the pipeline waiting to be published, suggesting a robust content creation schedule.
 
-**December Articles:** \
+**December Articles:**\
 LadyTempestt suggested the proactive creation of extra articles for December. This idea stems from the understanding that many members are likely to be on holiday during this period.
 
-#### **Scribblers taking notes:**&#x20;
+#### **Scribblers taking notes:**
 
 Kenichi proposed an intriguing concept - scribblers attending other people's meetings and taking notes. The Treasury Guild notetaker role was identified as open, providing an opportunity for participation and involvement.
 
-#### Article editing :&#x20;
+#### Article editing :
 
 In the last 15 minutes of the meeting, Kenichi shared an article link related to an editing session, ensuring that the group stays informed and connected.
 
-#### Treasury problem resolution:&#x20;
+#### Treasury problem resolution:
 
 Kenichi provided the important update that the treasury problem had been resolved, and tasks would be rewarded the following Tuesday. This underscores the commitment to transparency and accountability within the group.
 
-#### Action Items:&#x20;
+#### Action Items:
 
 **\[action]** Participate in the upcoming trivia session. (To Do)\
-**\[action]** Create infographics for Zealy.\
-**\[action]** Continue working on pending articles.\
-**\[action]** Consider additional articles for December.\
-**\[action]** Encourage and explore the possibility of Scribblers attending other meetings and taking notes.\
-**\[action]** Updates on articles (Next week).
+&#xNAN;**\[action]** Create infographics for Zealy.\
+&#xNAN;**\[action]** Continue working on pending articles.\
+&#xNAN;**\[action]** Consider additional articles for December.\
+&#xNAN;**\[action]** Encourage and explore the possibility of Scribblers attending other meetings and taking notes.\
+&#xNAN;**\[action]** Updates on articles (Next week).
 
 ***
 
 ### <mark style="color:green;">Video Workgroup</mark>
 
-#### Present:&#x20;
+#### Present:
 
 Rojo \[facilitator], Judith \[documentor], Peter. E, headelf, OEP, lord\_kizzy, Kenichi
 
-#### In this meeting we:&#x20;
+#### In this meeting we:
 
 * Discussed Workgroup videos that have recently been posted
 * Discussed ways to improve the appeal of our current videos for example: adding a headline to our videos, adding auto caption, changing the background, and discussed the best placement for those video elements
@@ -498,7 +498,7 @@ Rojo \[facilitator], Judith \[documentor], Peter. E, headelf, OEP, lord\_kizzy, 
 * Discussed the idea of having a Q\&A document with solutions to the most commonly asked questions by our members (many members are asking questions in DMs -> the answers get lost / need to be repeated)
 * Discussed whether or not we should have the announced video optimization workshop as an interactive workshop or as a written cheat sheet
 
-#### Decisions:&#x20;
+#### Decisions:
 
 \[decision] To start adding a main caption (headline) to our videos to let people know what they are watching (also as a hook to get people to stop scrolling)\
 \[decision] Instead of extending the blurred background to fit the whole frame of the video we will add a solid colour background (there we will place the auto caption and headline)\
@@ -509,7 +509,7 @@ Rojo \[facilitator], Judith \[documentor], Peter. E, headelf, OEP, lord\_kizzy, 
 \[decision] To always proof-read auto-captions to avoid mistakes\
 \[decision] To add sound to the Town Hall summary video ( we will trial this)\
 \[decision] To show the headline in the video thumbnail\
-\[decision] To ask workgroup members if they would prefer the announced video optimization workshop as an online workshop or document&#x20;
+\[decision] To ask workgroup members if they would prefer the announced video optimization workshop as an online workshop or document
 
 #### Action items
 
@@ -527,8 +527,8 @@ Dework, Town Hall Summary, Auto Captions, Video Caption (Headline), Video Backgr
 **Sources:**\
 Video WorkGroup's Carrd: [https://vw-snetambassadors.carrd.co/](https://vw-snetambassadors.carrd.co/)
 
-**How the meeting felt:** \
+**How the meeting felt:**\
 Productive, friendly, collaborative, action oriented, problem-solving mindset, great engagement from everyone
 
 \
-\
+\\

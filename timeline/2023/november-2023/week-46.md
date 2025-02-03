@@ -30,11 +30,11 @@ A brief convo on ethics of using AI voices.
 
 #### 2) Fly suggested we use Galaxy Platform or Zealy to get people to do the videos
 
-#### 3) WaKa asked if the projects had content of their own we could use.&#x20;
+#### 3) WaKa asked if the projects had content of their own we could use.
 
 #### 4) WaKa asked what tool/platform we will use for tracking or quizzes.
 
-#### 5) Target audience - why we don’t aim the videos to everyone? Why the Ambassadors?&#x20;
+#### 5) Target audience - why we don’t aim the videos to everyone? Why the Ambassadors?
 
 This question has been raised and answered every session for the last 5 or 6 meetings. The target audience was set at Ambassadors.
 
@@ -86,13 +86,13 @@ no summary given
 
 #### Timestamps
 
-[0:00](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=0s) Introduction by Peter \
-[1:49](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=109s) Mentions \
-[2:32](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=152s) Workgroups updates \
-[41:24](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=2484s) Outreach discussion \
-[47:28](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=2848s) Voting experiment \
-[50:04](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=3004s) Q4 budget proposal \
-[56:09](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU\_LvRtmPmh7e2d\&index=41\&t=3369s) ending by Peter
+[0:00](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=0s) Introduction by Peter\
+[1:49](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=109s) Mentions\
+[2:32](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=152s) Workgroups updates\
+[41:24](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=2484s) Outreach discussion\
+[47:28](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=2848s) Voting experiment\
+[50:04](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=3004s) Q4 budget proposal\
+[56:09](https://www.youtube.com/watch?v=F3ttEPggaNY\&list=PLtIECegvj4jPg4krxfzU_LvRtmPmh7e2d\&index=41\&t=3369s) ending by Peter
 
 ***
 
@@ -112,72 +112,72 @@ Not this week
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-#### **Present:**&#x20;
+#### **Present:**
 
-Tevo, Andre, Sucren, Peter, Newman&#x20;
+Tevo, Andre, Sucren, Peter, Newman
 
-#### **Purpose:**&#x20;
+#### **Purpose:**
 
-This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.&#x20;
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764569048571899\&cot=10)
 
-#### **Dework Updates:**&#x20;
+#### **Dework Updates:**
 
-[https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)&#x20;
+[https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup](https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup)
 
 #### **Agenda**
 
-#### **1) Review new Draft lessons**&#x20;
+#### **1) Review new Draft lessons**
 
-**Decision items** \
-We implement option to provide direction to lesson feedback for every lesson&#x20;
+**Decision items**\
+We implement option to provide direction to lesson feedback for every lesson
 
-**Action Items** \
-Break the course feedback lesson and the feedback form into Course Feedback and Lesson Feedback - Tevo 22.11.23&#x20;
+**Action Items**\
+Break the course feedback lesson and the feedback form into Course Feedback and Lesson Feedback - Tevo 22.11.23
 
-**Discussion Points** \
-Course Feedback models importance of feedback&#x20;
+**Discussion Points**\
+Course Feedback models importance of feedback
 
-#### **2) Review Edited Lessons**&#x20;
+#### **2) Review Edited Lessons**
 
-**Action items** \
-Focus on updating Cardano wallet address for rewards lesson - Sucren, Andre \
-Focus on updating meeting recording method - Sucren&#x20;
+**Action items**\
+Focus on updating Cardano wallet address for rewards lesson - Sucren, Andre\
+Focus on updating meeting recording method - Sucren
 
-**Discussion Points**&#x20;
+**Discussion Points**
 
-Gitlab Lesson updated&#x20;
+Gitlab Lesson updated
 
-#### **3) Andamio Update**&#x20;
+#### **3) Andamio Update**
 
-**Discussion Points** \
-Went through updated lesson structure and sequence&#x20;
+**Discussion Points**\
+Went through updated lesson structure and sequence
 
-#### **4) Playing through Lesson Activities**&#x20;
+#### **4) Playing through Lesson Activities**
 
-**Decision items** \
+**Decision items**\
 We remove action to set integrations. Current permission and Dework infrastructure doesnt allow a good way to simulate integrations effectively.
 
-**Action Items** \
-Include more examples of outputs the way other Ambassadors use Activity Lists.&#x20;
+**Action Items**\
+Include more examples of outputs the way other Ambassadors use Activity Lists.
 
-#### Next session&#x20;
+#### Next session
 
-Continue playing through course action, starting from making a task template.&#x20;
+Continue playing through course action, starting from making a task template.
 
-**Discussion Points** \
-Actions for specializing&#x20;
+**Discussion Points**\
+Actions for specializing
 
-#### **Keywords**&#x20;
+#### **Keywords**
 
 **Topics:**\
-Activities, students, feedback, PBL, Dework, Miro Board, Lessons, Google Form, Andamio Blockchain Education&#x20;
+Activities, students, feedback, PBL, Dework, Miro Board, Lessons, Google Form, Andamio Blockchain Education
 
 **Sources and links**\
-Alpha Program - [https://education.cardano.org/course/cbca-alpha-2](https://education.cardano.org/course/cbca-alpha-2) Course Feedback Lesson - [https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011](https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011)&#x20;
+Alpha Program - [https://education.cardano.org/course/cbca-alpha-2](https://education.cardano.org/course/cbca-alpha-2) Course Feedback Lesson - [https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011](https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/401/4011)
 
 **How the meeting felt**\
 Progressive, as we got to ideate new strategies to improve our feedback collection, and also move forward implementing course deliverables and doing them.
@@ -202,15 +202,15 @@ Round Table formation
 
 #### Notes:
 
-No real notes other than we spent the entire session editing and refining the [google document](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing) that was started a few weeks ago. The doc will be posted again for community editing.
+No real notes other than we spent the entire session editing and refining the [google document](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX_Te1mJpeOoEM/edit?usp=sharing) that was started a few weeks ago. The doc will be posted again for community editing.
 
 #### Sources:
 
-sNET Round Table formation [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing)&#x20;
+sNET Round Table formation [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX\_Te1mJpeOoEM/edit?usp=sharing](https://docs.google.com/document/d/1uD2MR1DoexRiYXX-ATrhOfS7SihyPKX_Te1mJpeOoEM/edit?usp=sharing)
 
 #### Meeting length
 
-&#x20;1 hour 45
+1 hour 45
 
 #### Action items
 
@@ -222,14 +222,14 @@ sNET Round Table formation [https://docs.google.com/document/d/1uD2MR1DoexRiYXX-
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
-#### Present:&#x20;
+#### Present:
 
 Sucre \[Host], Onyeka \[Documenter], Vani, Love, Tuso, TechTone
 
-#### In this meeting we discussed:&#x20;
+#### In this meeting we discussed:
 
 Minutes from the last meeting\
-Adjustment made to Q4 Budget \
+Adjustment made to Q4 Budget\
 Meeting Summary for the Ambassador TH Update\
 Changes to the Onboarding Survey Form\
 Continuous Onboarding (How to support other WGs in onboarding new members to their meetings)\
@@ -242,40 +242,39 @@ drafting of a Twitter thread from the Getting Started Document.
 * We agreed to launch the survey form on the 21st of November 2023 in the Town Hall meeting \[after bringing it into the next meeting]
 * Sucre, Love, Vani, Onyeka and Peter agreed to go to other Workgroups' meetings to dicuss continuous onboarding.
 
-#### Action items:&#x20;
+#### Action items:
 
 \[Action] Sucre to tweak the scripts and relay the imagery in the onboarding video to LilyCupcake.\
 \[Action] Vani, Onyeka and any other interested members could help to edit the onboarding survey form and make it ready for the next meeting.\
-\[Action] Vani or Sucre  to share a list of what info a WG needs to give to the Video WG when commissioning them to make a video.\
+\[Action] Vani or Sucre to share a list of what info a WG needs to give to the Video WG when commissioning them to make a video.\
 \[Action] Love to draft a Twitter thread based on the Getting started doc\
-\[Action] Vani to tweak the survey form from ticking of options to  a Yes or No format\
+\[Action] Vani to tweak the survey form from ticking of options to a Yes or No format\
 \[Action] Onyeka to create an update for the next Ambassador TH meeting.\
 \[Action] Sucre to meet Workgroup leads and discuss when we can visit their meetings.\
 \[Action] Sucre to create a cover photo for the ambassador program onboarding form
 
-#### Learning points:&#x20;
+#### Learning points:
 
 Most people tend to leave the option of "Any other comments" blank so it's better to be specific when asking questions.
 
-#### To carry over for next meeting:&#x20;
+#### To carry over for next meeting:
 
 * Conclusion of the survey form.
 
-#### Keywords:&#x20;
+#### Keywords:
 
-**Topics covered:** \
+**Topics covered:**\
 Onboarding, Survey, Collaboration, Summary, Budget etc
 
-**Sources:** \
-Quarterly WorkGroup budget calculator \
-[https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)\
+**Sources:**\
+Quarterly WorkGroup budget calculator\
+[https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)\\
 
-
-Commissioning video clips [https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing](https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing)
+Commissioning video clips [https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-\_18A-HOs77A5gQeuDQ/edit?usp=sharing](https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-_18A-HOs77A5gQeuDQ/edit?usp=sharing)
 
 Ideas on how to support other WGs with continuous onboarding [https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
 
-**How the meeting felt:** \
+**How the meeting felt:**\
 Funny, Contributive, Thoughtful.
 
 **Other:**\
@@ -283,7 +282,7 @@ We welcomed a new member to the meeting \[ToneTech]
 
 #### Meeting Summary for Town Hall Update
 
-* Explanation on the Onboarding Role and how to acquire it and do tasks on dework&#x20;
+* Explanation on the Onboarding Role and how to acquire it and do tasks on dework
 * We are currently working on an Onboarding survey form and it will be shared at the next Town Hall meeting.
 * We are preparing a Twitter thread to put out there on how to get started into the Ambassador program.
 
@@ -297,7 +296,7 @@ Not this week
 
 ### <mark style="color:green;">Incubation: AI Sandbox</mark>
 
-No summary given - it has been decided not to document these sessions&#x20;
+No summary given - it has been decided not to document these sessions
 
 ***
 
@@ -311,11 +310,11 @@ Not this week
 
 ### <mark style="color:green;">Marketing Guild</mark>
 
-#### Present:&#x20;
+#### Present:
 
 jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 
-#### In this meeting we discussed:&#x20;
+#### In this meeting we discussed:
 
 * the strategy we will adopt for the initial outreach to the SingularityNet spin-off projects as well as which channels will be best for outreach and what message we want to reach out with initially
 * how many of us and who will handle the initial outreach and that the best strategy for now will be to have two people reach out to Snet spin-off projects first to see if there is any interest in collaborating with the Ambassador’s workgroups on tasks that need to be done, before we start assigning outreach coordinator roles to interested Guild members
@@ -323,7 +322,7 @@ jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 * Dework access and set up for Judith to be able to manage the Marketing Guild meetings and any tasks associated with it
 * the results of the polls that were put up by Judith in the Marketing Guild chat
 
-#### Decisions:&#x20;
+#### Decisions:
 
 \[decision] To start the outreach to all spin-off projects next week with two people in charge of initial outreach before we determine how many members will take on the outreach role (dependent on response/interest from Snet spin-offs).
 
@@ -333,23 +332,21 @@ jay.05 | Judith W., Peter E, Rojo, Slate, Kenichi, Lord\_kizzy
 
 \[decision] It was voted that each spin-off project should have their own Snet Ambassadors program representative, (however we still need to figure out how doable this actually is and how many members are ultimately interested in participating in outreach) (Voted through poll in Marketing Guild chat).
 
-\[decision]  Judith will prepare + host future Marketing Guild meetings and has permission to put up tasks to the Marketing Guild Dework
+\[decision] Judith will prepare + host future Marketing Guild meetings and has permission to put up tasks to the Marketing Guild Dework
 
-#### Action Items:&#x20;
+#### Action Items:
 
 \[action] Judith to set up a message chat with Slate and Peter to coordinate who reached out to which spin-off project, and for Peter to possibly help with point of contacts for those
 
 \[action] To facilitate the outreach to Snet spin-off point of contacts through various channels over the upcoming week and report back to the Guild Members by Friday (Slate and Judith, with help of Peter)
 
-\[action]  To give Judith permission to add tasks on Dework (Marketing Guild only)
-
-
+\[action] To give Judith permission to add tasks on Dework (Marketing Guild only)
 
 ***
 
 ### Writers' Workgroup
 
-NOTE: first Writers' WG meeting that was summarised using the Meeting Summary template&#x20;
+NOTE: first Writers' WG meeting that was summarised using the Meeting Summary template
 
 #### Present:
 
@@ -360,7 +357,7 @@ Kenichi \[facilitator], Ines Gavina, Judith, Cjfrankie, Slate \[documenter], Mik
 * Video workgroup and Ambassador Program have a Carrd.co page. Discussion on whether the Writer Workgroup should have its own Carrd or a webpage. Suggestion to have important workgroup information on the Carrd.co page. CJFrankie proposes having a card for the Writers Workgroup to store important documents and links.
 * New participant Ines Gavina joins the meeting to understand the workgroup dynamics and how to contribute. Kenichi offers to provide an onboarding session to Ines Gavina to familiarize her with the workgroup.
 * RafaelJeff inquires about the status of his test.
-* Discussion on tasks related to infographics and  **\[decision]** deciding on a description template.
+* Discussion on tasks related to infographics and **\[decision]** deciding on a description template.
 * Judith updates the group on her first task, mentioning the abundance of content in the assigned video task and uncertainty regarding its length and content. Kenichi suggests the possibility of converting a thread into an article if the content is extensive.
 * Kenichi provides an update about the ecosystem update threads, emphasizing that updates can be accessed through the article link provided.
 * Mention of open submissions for a task, advising participants to announce their topics on Discord before writing on the updates.
@@ -375,12 +372,12 @@ Kenichi \[facilitator], Ines Gavina, Judith, Cjfrankie, Slate \[documenter], Mik
 #### Action Items:
 
 **\[action]** Kenichi will set up an onboarding session for Ines Gavina to help her understand the workgroup dynamics and how to contribute effectively.\
-**\[action]** The group needs to finalize the description template for infographics.\
-**\[action]** Participants should consider announcing their topics on Discord before working on the open submissions updates task.\
-**\[action]**The group needs to decide whether to include Mindplex podcast episodes in the Writers Workgroup.\
-**\[action]**Ines Gavina has topics for articles; the group can consider writing on them.\
-**\[action]**Kenichi will announce trivias and articles on the Tuesday townhall.\
-**\[action]** Kenichi is developing a point system for tasks within the Writers Workgroup and seeks assistance in this regard.
+&#xNAN;**\[action]** The group needs to finalize the description template for infographics.\
+&#xNAN;**\[action]** Participants should consider announcing their topics on Discord before working on the open submissions updates task.\
+\*\*\[action]\*\*The group needs to decide whether to include Mindplex podcast episodes in the Writers Workgroup.\
+\*\*\[action]\*\*Ines Gavina has topics for articles; the group can consider writing on them.\
+\*\*\[action]\*\*Kenichi will announce trivias and articles on the Tuesday townhall.\
+&#xNAN;**\[action]** Kenichi is developing a point system for tasks within the Writers Workgroup and seeks assistance in this regard.
 
 #### Keywords:
 
@@ -388,22 +385,22 @@ Kenichi \[facilitator], Ines Gavina, Judith, Cjfrankie, Slate \[documenter], Mik
 Carrd. co, Onboarding, Infographics, Content editing, Ecosystem updates, Open submissions, Mindplex podcast, Points system, Zealy
 
 **Sources:**\
-Editing test:[ ](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing)[https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing)\
+Editing test:[ ](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)[https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43\_uE/edit?usp=sharing](https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing)\
 Meeting Summary Template: [https://docs.google.com/document/d/1VFFLg5dE76dQckzPOk3FEM14UWFl4q4TIQIdqXTadcQ/edit](https://docs.google.com/document/d/1VFFLg5dE76dQckzPOk3FEM14UWFl4q4TIQIdqXTadcQ/edit)\
 Writers' WG Governance Doc: [https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc](https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc)
 
-**How the meeting felt:** \
+**How the meeting felt:**\
 Informative, collaborative
 
 ***
 
 ### <mark style="color:green;">Video Workgroup</mark>
 
-#### Present:&#x20;
+#### Present:
 
 Rojo \[facilitator], Judith \[documentor], OEP, lord\_kizzy, Agus
 
-#### In this meeting we:&#x20;
+#### In this meeting we:
 
 * discussed recent videos that have been posted
 * discussed ways to further optimize the Town Hall summary videos, specifically how to optimize the headline, size, and layout of the video to improve the quality of the video
@@ -415,7 +412,7 @@ Rojo \[facilitator], Judith \[documentor], OEP, lord\_kizzy, Agus
 * discussed if we should repurpose old videos
 * discussed tools for editing long video recordings of the Town Hall meetings
 
-#### Decisions:&#x20;
+#### Decisions:
 
 \[decision] To optimize the headline of the Town Hall summary video.\
 \[decision] To add the number of the TownHall summary video in the caption every time.\
@@ -493,7 +490,7 @@ Games, Land IO, Putt Party, Decentraland, Ai World Fair 2023, Dr Ben Goertzel's 
 #### Action Items:
 
 \[action] Share specific game rules and regulations for the Land IO and Putt Party games.\
-\[action]  Provide location details for the "Ai World Fair 2023" section in Decentraland.\
+\[action] Provide location details for the "Ai World Fair 2023" section in Decentraland.\
 \[action] Schedule and conduct sessions to educate the community about web games.
 
 #### How the meeting felt:

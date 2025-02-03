@@ -16,9 +16,9 @@ description: 25th September to 1st October 2023
 
 Headelf \[facilitator]; Freysdefi \[documenter]; WaKa; Peter; Rojo; Osmonium; Fly.
 
-#### Agenda:&#x20;
+#### Agenda:
 
-Video education series.&#x20;
+Video education series.
 
 #### Notes:
 
@@ -36,7 +36,7 @@ Headelf made a comment about the amount of pushback and volume made him think ed
 
 1 hour
 
-#### Action items:&#x20;
+#### Action items:
 
 None
 
@@ -64,12 +64,12 @@ No summary given.
 
 #### Facilitated by:
 
-Fly&#x20;
+Fly
 
 #### Topics:
 
 * AI ethics & tooling framework
-* RnDAO / TogetherCrew on Community Health - [https://rndao.mirror.xyz/fsCGRlYR5rieDCVPnAnSAGL98wNWJyFbf1T\_A2r-\_6Y](https://rndao.mirror.xyz/fsCGRlYR5rieDCVPnAnSAGL98wNWJyFbf1T\_A2r-\_6Y) . Went through article and reflected on questions
+* RnDAO / TogetherCrew on Community Health - [https://rndao.mirror.xyz/fsCGRlYR5rieDCVPnAnSAGL98wNWJyFbf1T\_A2r-\_6Y](https://rndao.mirror.xyz/fsCGRlYR5rieDCVPnAnSAGL98wNWJyFbf1T_A2r-_6Y) . Went through article and reflected on questions
 * Looked at conflict resolution approaches
 * Discussion - pros/cons of centralised platform tooling, privacy and decentralisation
 * Current practices on tools / Stories from SingularityNET Foundation
@@ -113,47 +113,47 @@ Not this week
 
 ### <mark style="color:green;">Dework PBL Workgroup</mark>
 
-#### **Meeting Summary** **Context:**&#x20;
+#### **Meeting Summary** **Context:**
 
-This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.&#x20;
+This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild.
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764565029259151\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764565029259151\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764565029259151\&cot=10](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764565029259151\&cot=10)
 
-#### **Meeting video summary:**&#x20;
+#### **Meeting video summary:**
 
 {% embed url="https://youtu.be/py5gbVEaSIY" %}
 
-#### **Agenda Items**&#x20;
+#### **Agenda Items**
 
-#### **1) Reviewing Dework PBL Content on new Front End**&#x20;
+#### **1) Reviewing Dework PBL Content on new Front End**
 
-**Description** - We now have a new structural design for Dework Learning Content \
-**\[Decision]** - We will do Sentiment Analysis async using Google Form \
-**\[Action]** - Create a Google Form that includes all lessons separately \
-**Insight** - Based on quick analysis, sentiment brings out differences in our perspectives of content quality \
-**Insight** - Going over lessons: [https://youtu.be/jjupaRC22S4](https://youtu.be/jjupaRC22S4) \
-**Learning** - Having long voting sessions on Miro can cause issues or early voting closing&#x20;
+**Description** - We now have a new structural design for Dework Learning Content\
+&#xNAN;**\[Decision]** - We will do Sentiment Analysis async using Google Form\
+&#xNAN;**\[Action]** - Create a Google Form that includes all lessons separately\
+**Insight** - Based on quick analysis, sentiment brings out differences in our perspectives of content quality\
+**Insight** - Going over lessons: [https://youtu.be/jjupaRC22S4](https://youtu.be/jjupaRC22S4)\
+**Learning** - Having long voting sessions on Miro can cause issues or early voting closing
 
-#### **2) Andamio Feedback**&#x20;
+#### **2) Andamio Feedback**
 
-**Description** - How could we further improve the learning experience? \
-**\[Action]** - Create content for the home page that teaches about PBL structure and use of learning targets \
-**Insight** - There were small technical changes we will look further into if possible to change \
-**Insight** - Formatting is something that is done in upcoming weeks.&#x20;
+**Description** - How could we further improve the learning experience?\
+&#xNAN;**\[Action]** - Create content for the home page that teaches about PBL structure and use of learning targets\
+**Insight** - There were small technical changes we will look further into if possible to change\
+**Insight** - Formatting is something that is done in upcoming weeks.
 
-#### **3) Dework PBL Feedback**&#x20;
+#### **3) Dework PBL Feedback**
 
-**Description** - How could we further improve the learning experience? \
-**\[Decision]** - Create a specializing lesson about meeting templates, other than the meeting recordings method \
-**\[Action]** - Participate in Sentiment Analysis Google Form \
-**Insight** - Including the option to provide textual feedback to the scoring Google Form&#x20;
+**Description** - How could we further improve the learning experience?\
+&#xNAN;**\[Decision]** - Create a specializing lesson about meeting templates, other than the meeting recordings method\
+&#xNAN;**\[Action]** - Participate in Sentiment Analysis Google Form\
+**Insight** - Including the option to provide textual feedback to the scoring Google Form
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
-**\[Action]** In the next meeting, we will be ideating on the action items that demonstrate the Dework module lessons learned. \
-**\[Action]** Prepare a Dework Playground where the PBL Team has access to edit and change stuff.
+**\[Action]** In the next meeting, we will be ideating on the action items that demonstrate the Dework module lessons learned.\
+&#xNAN;**\[Action]** Prepare a Dework Playground where the PBL Team has access to edit and change stuff.
 
 ***
 
@@ -165,30 +165,30 @@ Not this week
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
-#### In attendance:&#x20;
+#### In attendance:
 
 Tommy Frey \[facilitator] \[documenter]; Fly; Defrey; Osmium; Kenichi; Vast
 
-#### Agenda:&#x20;
+#### Agenda:
 
 Conflict Resolution Document
 
-Meeting went off agenda to various strategic thinking issues. Discussion was held on elevation process in conflict resolution, but pivoted to the difficulty in finding documents. Defrey mostly uses mobile and finds it hard to find things. Osmium questions where do we find relevant documents.&#x20;
+Meeting went off agenda to various strategic thinking issues. Discussion was held on elevation process in conflict resolution, but pivoted to the difficulty in finding documents. Defrey mostly uses mobile and finds it hard to find things. Osmium questions where do we find relevant documents.
 
 Question was then raised about “The purpose of Ambassadors”. Vast was concerned about lack of translation into Hindi . The conflict resolution document would be put into Hindi. As a side note Osmium or Vast discovered Cardano while planting trees in Nigeria and Kumar.
 
-Discussion held on comment about paid FR and getting paid $10 for engagement.&#x20;
+Discussion held on comment about paid FR and getting paid $10 for engagement.
 
 Discussion pivoted to the importance of training people in mediation and conflict resolution. It was suggested to put it out to SNET for team training for Ambassadors in Mediation.
 
-#### Meeting length:&#x20;
+#### Meeting length:
 
 1.5 hours
 
 #### Action items:
 
 **\[Action]** Conflict resolution over HIndi issue, money and translation.\
-**\[Action]** Mediation training.
+&#xNAN;**\[Action]** Mediation training.
 
 ***
 
@@ -202,29 +202,29 @@ Not this week
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
-#### Present:  <a href="#docs-internal-guid-47e7b96c-7fff-1dec-fd79-fed4bdde9389" id="docs-internal-guid-47e7b96c-7fff-1dec-fd79-fed4bdde9389"></a>
+#### Present: <a href="#docs-internal-guid-47e7b96c-7fff-1dec-fd79-fed4bdde9389" id="docs-internal-guid-47e7b96c-7fff-1dec-fd79-fed4bdde9389"></a>
 
 Tevo \[facilitator], Vani \[documenter], Sucre n Spice \[workgroup lead], Peter, LadyTempestt, Vasu, Onyeka, Chad.
 
-#### Miro board:&#x20;
+#### Miro board:
 
 [https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764563960806548\&cot=14](https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764563960806548\&cot=14)
 
 #### Minutes of previous meeting:
 
-[Onboarding Meeting 9/21/23](https://docs.google.com/document/d/110pwh4dAlJw2pe3osDoXLBMMqCKbJU7qvfJYu-\_oFRk/edit?usp=sharing) Agreed as correct record with minor tweaks
+[Onboarding Meeting 9/21/23](https://docs.google.com/document/d/110pwh4dAlJw2pe3osDoXLBMMqCKbJU7qvfJYu-_oFRk/edit?usp=sharing) Agreed as correct record with minor tweaks
 
-#### Action items from last meeting:&#x20;
+#### Action items from last meeting:
 
 All either done, or in progress
 
 #### We discussed:
 
-#### 1) Getting Started channel:&#x20;
+#### 1) Getting Started channel:
 
 Amended text is now added to the channel. Has had positive comments, and all in the meeting are happy with it\
-**\[Action]** Only problem is Calendar link needs correcting. Tevo will do.\
-**\[Decision]** Agreed to keep [the doc](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) open for future changes - suggestions should be added as comments, not directly in the text, so it’s easy to see; and each meeting we’ll check if there are any.
+&#xNAN;**\[Action]** Only problem is Calendar link needs correcting. Tevo will do.\
+&#xNAN;**\[Decision]** Agreed to keep [the doc](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) open for future changes - suggestions should be added as comments, not directly in the text, so it’s easy to see; and each meeting we’ll check if there are any.
 
 #### 2) Supporting Onboarding in other WGs
 
@@ -232,33 +232,33 @@ Amended text is now added to the channel. Has had positive comments, and all in 
 
 #### 3) Finances and how we pay tasks in this WG
 
-See [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG\_LkKvFp5tRER30sxT\_wGV3ySt-MZ4/edit) and [https://app.dework.xyz/singularitynet-ambas/onboarding-workgroup](https://app.dework.xyz/singularitynet-ambas/onboarding-workgroup)
+See [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG_LkKvFp5tRER30sxT_wGV3ySt-MZ4/edit) and [https://app.dework.xyz/singularitynet-ambas/onboarding-workgroup](https://app.dework.xyz/singularitynet-ambas/onboarding-workgroup)
 
-The discussion covered:&#x20;
+The discussion covered:
 
 * It’s almost Q4; there might be changes to how budgets work
 * What we pay for is a measure of what we value; rewarding “invisible” work; what do we consider to be “work” and how do we determine that?
 * The issue is gendered - work that tends to go unrewarded and to be more invisible is often done by women; important to be conscious of this
 * How we measure Discord engagement - micro-engagements with new people are really valuable, but the overhead of clocking them can end up taking more time than the work itself
-* Onboarding in Telegram and Discord is work -  it’s different from just chatting
-* Should rewards for a task done in all workgroups (e.g. facilitation) be standardised across all WGs?&#x20;
+* Onboarding in Telegram and Discord is work - it’s different from just chatting
+* Should rewards for a task done in all workgroups (e.g. facilitation) be standardised across all WGs?
 * How much is usually costed for facilitation? (seems to be $20-$30). Is it sustainable? Different models for how people cost it (e.g. some groups include agenda prep, documenting, longterm planning, etc)
-* Question to meeting attendees “how much would you expect for facilitating a meeting” - maybe $30. Note the need to prepare, especially if you are new to it. As you get more experienced, do you need to prepare less?  Maybe - not necessarily
+* Question to meeting attendees “how much would you expect for facilitating a meeting” - maybe $30. Note the need to prepare, especially if you are new to it. As you get more experienced, do you need to prepare less? Maybe - not necessarily
 * Peter - $30 is unsustainable. Budget is not growing, altho community is. Partly depends on AGIX price
-* LadyTempestt - Perhaps facilitation for a workgroup meeting should not be charged for -  it’s a voluntary contribution that you make to your wg - so maybe only for official/public meetings?
+* LadyTempestt - Perhaps facilitation for a workgroup meeting should not be charged for - it’s a voluntary contribution that you make to your wg - so maybe only for official/public meetings?
 * Tevo - all of the workgroup meetings are public tho
 * Sucre - merge facilitation and agenda creation as 1 task? Treasury knows how much we’ve got to spend - share it between all the Workgroups?
 * Vani - Take turns to facilitate, like we do in this group, so the pay is shared? Particularly pay the new people (i.e. maybe a bonus if it’s your first time),, to reward taking the risk of jumping in and facilitating?
 * Onyeka - Facilitation is not easy - introverts find it harder - it shouldn’t be free cos it takes time
 
 **\[Decision]** To be further discussed in next Onboarding meeting in the light of what comes up in Treasury Guild discussion later today (28th Sept 2023)\
-**\[Action]** Some attendees at this meeting will also attend Treasury discussion later today.
+&#xNAN;**\[Action]** Some attendees at this meeting will also attend Treasury discussion later today.
 
 #### Action items:
 
 **\[ACTION]** - Sucre to chase Video WG re: uploading recording of 7th Sept onboarding session to YouTube ([https://drive.google.com/drive/u/1/folders/196qlZoefYy8z5MfFTTql9f66oFILMqK7](https://drive.google.com/drive/u/1/folders/196qlZoefYy8z5MfFTTql9f66oFILMqK7))\
-**\[ACTION]** - All to continue to add ideas to doc re: supporting other WGs with onboarding [Onboarding WG - how can we support other WGs to onboard new people in their meetings](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)\
-**\[ACTION]** - Tevo to fix calendar link in Getting Started channel
+&#xNAN;**\[ACTION]** - All to continue to add ideas to doc re: supporting other WGs with onboarding [Onboarding WG - how can we support other WGs to onboard new people in their meetings](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)\
+&#xNAN;**\[ACTION]** - Tevo to fix calendar link in Getting Started channel
 
 #### Date of next meeting:
 
@@ -268,49 +268,49 @@ The discussion covered:&#x20;
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
-#### **Meeting Summary** **Context:**&#x20;
+#### **Meeting Summary** **Context:**
 
-How to structure Ambassador rules around payments, tasks and anything related to financial activities?&#x20;
+How to structure Ambassador rules around payments, tasks and anything related to financial activities?
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764564842681731\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764564842681731\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764564842681731\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764564842681731\&cot=10)
 
-#### **Agenda Items**&#x20;
+#### **Agenda Items**
 
-#### **1) Archival Workgroup Fund Requests**&#x20;
+#### **1) Archival Workgroup Fund Requests**
 
-**Description** - Requests did not pass initial voting and ambassadors required more clarity on how to integrate reporting with the ambassador program \
-**\[Decision]** - Reward Archival Workgroup Fund Requests \
-**\[Action]** - Research options on how to make it easy to create, collect, transact with or manage Workgroup wallets \
-**\[Action]** - Integrate Archival Workgroup project budgeting data with Swarm Treasury Manager&#x20;
+**Description** - Requests did not pass initial voting and ambassadors required more clarity on how to integrate reporting with the ambassador program\
+&#xNAN;**\[Decision]** - Reward Archival Workgroup Fund Requests\
+&#xNAN;**\[Action]** - Research options on how to make it easy to create, collect, transact with or manage Workgroup wallets\
+&#xNAN;**\[Action]** - Integrate Archival Workgroup project budgeting data with Swarm Treasury Manager
 
-#### **2) Q4 Treasury Discussions**&#x20;
+#### **2) Q4 Treasury Discussions**
 
-**Description** - What expectations and standards do we experiment, remove or keep for next quarter? \
-**Insight -** Budget Considerations from Stephen [https://docs.google.com/document/d/10t2S7H5iG-\_-hv6Es36dmJ9\_V1WG740vkq0tsP2k-Z0/edit#heading=h.hiilhy4e7vmt](https://docs.google.com/document/d/10t2S7H5iG-\_-hv6Es36dmJ9\_V1WG740vkq0tsP2k-Z0/edit#heading=h.hiilhy4e7vmt) \
-**Learning** - By removing budget limits from all workgroups and proposals we made budgeting ambiguous \
-**Insight -** An ambiguous budget reduces Transparency & Accessibility, which makes it hard to predict costs and plan the next steps \
-**\[Decision]** - In Quarter4 we bring back Workgroup Budget Limits \
-**\[Action]** - Create a separate Budget Management Document under Ambassador Account to list all the behaviors and assets we have in place to answer Budget Consideration document expectations \
-**\[Action]** - Collect information about the real rate of the contributions \
-**Insight** - we could collect real rate info through workgroup proposals&#x20;
+**Description** - What expectations and standards do we experiment, remove or keep for next quarter?\
+**Insight -** Budget Considerations from Stephen [https://docs.google.com/document/d/10t2S7H5iG-\_-hv6Es36dmJ9\_V1WG740vkq0tsP2k-Z0/edit#heading=h.hiilhy4e7vmt](https://docs.google.com/document/d/10t2S7H5iG-_-hv6Es36dmJ9_V1WG740vkq0tsP2k-Z0/edit#heading=h.hiilhy4e7vmt)\
+**Learning** - By removing budget limits from all workgroups and proposals we made budgeting ambiguous\
+**Insight -** An ambiguous budget reduces Transparency & Accessibility, which makes it hard to predict costs and plan the next steps\
+&#xNAN;**\[Decision]** - In Quarter4 we bring back Workgroup Budget Limits\
+&#xNAN;**\[Action]** - Create a separate Budget Management Document under Ambassador Account to list all the behaviors and assets we have in place to answer Budget Consideration document expectations\
+&#xNAN;**\[Action]** - Collect information about the real rate of the contributions\
+**Insight** - we could collect real rate info through workgroup proposals
 
-#### **3) Townhall Video Editing and Upload Tasks**&#x20;
+#### **3) Townhall Video Editing and Upload Tasks**
 
-**Description** - Turn Ambassador Townhall video editing tasks to bounties, and coordinate rewards with similar tasks \
-**Dework \[Action]** - Create a Dework bounty Template for the Townhall Video bundle task under Video Workgroup \
-**Insight** - Fly would like Video Workgroup help to coordinate task costs and expected time. \
-**Insight -** Video Workgroup Structure [https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit](https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit)&#x20;
+**Description** - Turn Ambassador Townhall video editing tasks to bounties, and coordinate rewards with similar tasks\
+**Dework \[Action]** - Create a Dework bounty Template for the Townhall Video bundle task under Video Workgroup\
+**Insight** - Fly would like Video Workgroup help to coordinate task costs and expected time.\
+**Insight -** Video Workgroup Structure [https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit](https://docs.google.com/document/d/1utrpPNQSa0iDdE13LXfk3jyrbmEGx-MJ/edit)
 
-#### **4) Insights from Treasury Guild related to specific tasks**&#x20;
+#### **4) Insights from Treasury Guild related to specific tasks**
 
-**Insight** - Education and Writers Workgroup used bad date formats on task names, examples on meeting notes \
-**Learning** - The month name in the task name assumes the contribution date to be the last date of the month \
-**Insight** - Some tasks, like article translation or writing, can include the month in the name as the article topic. \
-**\[Decision]** - If the month name is in the task title but is not the correct contribution date. Include the exact date or week format in the Dework task title.&#x20;
+**Insight** - Education and Writers Workgroup used bad date formats on task names, examples on meeting notes\
+**Learning** - The month name in the task name assumes the contribution date to be the last date of the month\
+**Insight** - Some tasks, like article translation or writing, can include the month in the name as the article topic.\
+&#xNAN;**\[Decision]** - If the month name is in the task title but is not the correct contribution date. Include the exact date or week format in the Dework task title.
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
 Tomorrow (Fri 29th Sept), new Treasury Guild call
 
@@ -332,42 +332,42 @@ Not this week
 
 ### <mark style="color:green;">Q3 Treasury Review session</mark>
 
-#### **Context:**&#x20;
+#### **Context:**
 
-How to structure Ambassador rules around payments, tasks and anything related to financial activities?&#x20;
+How to structure Ambassador rules around payments, tasks and anything related to financial activities?
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764565309252243\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764565309252243\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764565309252243\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764565309252243\&cot=10)
 
-#### **Agenda Items**&#x20;
+#### **Agenda Items**
 
-#### **1) Q4 Treasury Discussions**&#x20;
+#### **1) Q4 Treasury Discussions**
 
-**Description** - What expectations and standards do we experiment, remove or keep for next quarter? \
-**\[Decision]** - We should answer "What do we want to do if we go over budget in Q4?" \
-**\[Decision]** - Limit workgroup leads to request more funds if we are over the Q4 Ambassador budget \
-**\[Decision]** - Treasury Guild does not reward Workgroup if it goes over budget and notifies members \
-**\[Action]** - Treasury Guild will implement budget lines on the Live Dashboard \
-**Insight** - Workgroup leads can manage fund distribution themselves to their team \
-**Insight** - Workgroups can have their own Workgroup wallet \
+**Description** - What expectations and standards do we experiment, remove or keep for next quarter?\
+&#xNAN;**\[Decision]** - We should answer "What do we want to do if we go over budget in Q4?"\
+&#xNAN;**\[Decision]** - Limit workgroup leads to request more funds if we are over the Q4 Ambassador budget\
+&#xNAN;**\[Decision]** - Treasury Guild does not reward Workgroup if it goes over budget and notifies members\
+&#xNAN;**\[Action]** - Treasury Guild will implement budget lines on the Live Dashboard\
+**Insight** - Workgroup leads can manage fund distribution themselves to their team\
+**Insight** - Workgroups can have their own Workgroup wallet\
 **Learning** - Allowing each workgroup to request funds to pay for tool licenses will create quick overhead for the budget\
-**Insight** - Each member should manage their own tools based on their needs \
-**\[Decision]** - Each tool can have only 1 license cost under the Ambassador Account \
-**\[Decision]** - Requires proposal to prove multiple license requirements \
-**\[Decision]** - Ambassador Tool Licenses go under specific Workgroup or Open Budget category \
-**\[Decision]** - Introduce 2 budget categories: Open Budget and Retainer Budget \
+**Insight** - Each member should manage their own tools based on their needs\
+&#xNAN;**\[Decision]** - Each tool can have only 1 license cost under the Ambassador Account\
+&#xNAN;**\[Decision]** - Requires proposal to prove multiple license requirements\
+&#xNAN;**\[Decision]** - Ambassador Tool Licenses go under specific Workgroup or Open Budget category\
+&#xNAN;**\[Decision]** - Introduce 2 budget categories: Open Budget and Retainer Budget\
 **Insight** - Open Budget includes: tooling and services new workgroups and ideas investment to reserve transaction fees\
-**Insight** - Retainer Budget includes all the existing accepted workgroups \
-**\[Decision]** - Remove Ambassador Role Rewards or replace it with a different incentive module \
-**\[Action]** - Create Google Sheet to customize workgroup budget limits and create comparable example versions with Average reward, max month reward and standard rate&#x20;
+**Insight** - Retainer Budget includes all the existing accepted workgroups\
+&#xNAN;**\[Decision]** - Remove Ambassador Role Rewards or replace it with a different incentive module\
+&#xNAN;**\[Action]** - Create Google Sheet to customize workgroup budget limits and create comparable example versions with Average reward, max month reward and standard rate
 
-#### **2) Insights from Treasury Guild related to specific tasks**&#x20;
+#### **2) Insights from Treasury Guild related to specific tasks**
 
-**Insight** - do not copy icons or odd characters into the Dework task name [https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=e70335ec-f62f-411a-9109-b841653ef79a](https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=e70335ec-f62f-411a-9109-b841653ef79a) \
-**Insight** - include task points for bounty tasks so that we have an understanding on time spent (reward can be the same regardless of the task points)&#x20;
+**Insight** - do not copy icons or odd characters into the Dework task name [https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=e70335ec-f62f-411a-9109-b841653ef79a](https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=e70335ec-f62f-411a-9109-b841653ef79a)\
+**Insight** - include task points for bounty tasks so that we have an understanding on time spent (reward can be the same regardless of the task points)
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
 Next special Treasury Guild Call about the budget will be 04.10.23 at 12:30 UTC.
 
@@ -375,7 +375,7 @@ Next special Treasury Guild Call about the budget will be 04.10.23 at 12:30 UTC.
 
 ### Video Workgroup
 
-#### Present:&#x20;
+#### Present:
 
 Rojo \[facilitator] \[documenter], Agus, Judith, OEP, Peter, TUSO, Lilycupcake, Standrew, Fly, Lord\_kizzy, Slate, Hogantuso.
 
@@ -387,9 +387,9 @@ Rojo \[facilitator] \[documenter], Agus, Judith, OEP, Peter, TUSO, Lilycupcake, 
 * Talked about progress on the onboarding process to the Video workgroup.
 * Had questions from workgroup applicants about the process of onboarding and task details.
 
-#### Decisions:&#x20;
+#### Decisions:
 
-none&#x20;
+none
 
 #### Action items:
 
@@ -399,13 +399,13 @@ none&#x20;
 
 ### Writers' Workgroup
 
-#### Present:&#x20;
+#### Present:
 
 Lord Kizzy, Godspower Joseph, Cjfrankie, Slate \[documenter], Mikasa, Kenichi \[facilitator], Devon Hardy, Peter, Judith, Hogan Tuso, Lady Tempestt \[new Scribbler]
 
 #### Agenda
 
-[https://docs.google.com/document/d/1sTXEDLCZlxbHEQzkAuJ38WOYk7Z5yOJIUF0J\_EEp7fY/edit?usp=sharing](https://docs.google.com/document/d/1sTXEDLCZlxbHEQzkAuJ38WOYk7Z5yOJIUF0J\_EEp7fY/edit?usp=sharing)
+[https://docs.google.com/document/d/1sTXEDLCZlxbHEQzkAuJ38WOYk7Z5yOJIUF0J\_EEp7fY/edit?usp=sharing](https://docs.google.com/document/d/1sTXEDLCZlxbHEQzkAuJ38WOYk7Z5yOJIUF0J_EEp7fY/edit?usp=sharing)
 
 #### Main Points Discussed:
 

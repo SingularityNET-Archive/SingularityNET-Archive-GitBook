@@ -26,13 +26,13 @@ description: 21st August to 27th August 2023
 
 **Hosts** : Vanessa
 
-**Date of Meeting** : Wednesday, 23rd August 2023&#x20;
+**Date of Meeting** : Wednesday, 23rd August 2023
 
-**Attendees** : Andre, & Vanessa&#x20;
+**Attendees** : Andre, & Vanessa
 
-**Agenda** :&#x20;
+**Agenda** :
 
-1 - GitHub Project Board - Vanessa&#x20;
+1 - GitHub Project Board - Vanessa
 
 2 - Tool Development Screen share - Andre
 
@@ -48,44 +48,44 @@ description: 21st August to 27th August 2023
 
 ### <mark style="color:green;">Process Modelling Workgroup</mark>
 
-#### **Meeting Summary** **Context:**&#x20;
+#### **Meeting Summary** **Context:**
 
 Establishing or maintaining processes to help community members to efficiently collaborate together.
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764561795859944\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764561795859944\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764561795859944\&cot=10](https://miro.com/app/board/uXjVM7pbrQg=/?moveToWidget=3458764561795859944\&cot=10)
 
-#### **Video Summary:**&#x20;
+#### **Video Summary:**
 
 {% embed url="https://youtu.be/lSj_5bal8YE" %}
 
 #### **Agenda**
 
-#### **1) Improving Workgroup Type table**&#x20;
+#### **1) Improving Workgroup Type table**
 
-discussion of differences between workgroup (ad-hoc) vs program (clearer process & skills and outputs) \
-discussion of principle for autonomous initiative-based creation of seed-stage group (not needing permission) and with our program's recommendations providing guidance for groups wanting official recognition & funding support \
-**Insight** - Onboarding workgroup may have additional onboarding requirements from workgroup types \
-**Insight** - Workgroups and Programs need at least 1 communications channel (fpr Seed workgroup it's optional) \
-**\[Action]** - prep templates/examples for groups wanting to get started \
-**\[Action]** - Prepare new design for matrix table with less sticky notes&#x20;
+discussion of differences between workgroup (ad-hoc) vs program (clearer process & skills and outputs)\
+discussion of principle for autonomous initiative-based creation of seed-stage group (not needing permission) and with our program's recommendations providing guidance for groups wanting official recognition & funding support\
+**Insight** - Onboarding workgroup may have additional onboarding requirements from workgroup types\
+**Insight** - Workgroups and Programs need at least 1 communications channel (fpr Seed workgroup it's optional)\
+&#xNAN;**\[Action]** - prep templates/examples for groups wanting to get started\
+&#xNAN;**\[Action]** - Prepare new design for matrix table with less sticky notes
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
 **\[Action]** - Next meeting we will cover roadmap section.
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
-#### Agenda:&#x20;
+#### Agenda:
 
-Ethics continued&#x20;
+Ethics continued
 
-#### Location:&#x20;
+#### Location:
 
-Discord voice&#x20;
+Discord voice
 
-#### Attending:&#x20;
+#### Attending:
 
 PsychonautGuy, Tevo, Fly, Headelf \[host]
 
@@ -95,32 +95,32 @@ PsychonautGuy, Tevo, Fly, Headelf \[host]
 
 #### Summary notes
 
-Convo began on Leadership and its meaning. \
-Tevo indicated Leadership is an individual trait and it is not used enough. \
-Fly thought it is an abstract form. \
-Consensus after a more in depth convo was that term “Leader” is acceptable. \
+Convo began on Leadership and its meaning.\
+Tevo indicated Leadership is an individual trait and it is not used enough.\
+Fly thought it is an abstract form.\
+Consensus after a more in depth convo was that term “Leader” is acceptable.\
 \
-Regarding ethics itself, Tevo stated first rule sb “Do no Harm” in line with medical ethics. \
-Questions arose including: How is that implemented. Headelf thought that “Be Nice” should cover most social ethics. Other thoughts included: Show Respect; Equity; Fairness; Equality but more. More in depth convo ensued and waxed philosophical but with an inclusion of reality. \
-Notes or highlife soundbites include: Speak the truth; Do unto others…; Create a Good Leader Guide; Be a nice person.&#x20;
+Regarding ethics itself, Tevo stated first rule sb “Do no Harm” in line with medical ethics.\
+Questions arose including: How is that implemented. Headelf thought that “Be Nice” should cover most social ethics. Other thoughts included: Show Respect; Equity; Fairness; Equality but more. More in depth convo ensued and waxed philosophical but with an inclusion of reality.\
+Notes or highlife soundbites include: Speak the truth; Do unto others…; Create a Good Leader Guide; Be a nice person.
 
 ## Thursday 24th August 2023
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
-#### Present:&#x20;
+#### Present:
 
 Sucre’nSpice \[facilitator], Headelf, Vani \[documenter], Tevo, Slate, Devon
 
-#### Meeting notes:&#x20;
+#### Meeting notes:
 
-[Onboarding Workgroup minutes, 24th Aug 2023](https://docs.google.com/document/d/1dSIFIjVcTCqrvYDvbA52xEj-4uWdvBK9DaLt77r\_HWQ/edit?usp=sharing)
+[Onboarding Workgroup minutes, 24th Aug 2023](https://docs.google.com/document/d/1dSIFIjVcTCqrvYDvbA52xEj-4uWdvBK9DaLt77r_HWQ/edit?usp=sharing)
 
-#### Minutes of last meeting:&#x20;
+#### Minutes of last meeting:
 
 agreed as a correct record
 
-#### Action items from last meeting:&#x20;
+#### Action items from last meeting:
 
 all done
 
@@ -132,9 +132,9 @@ all done
 
 #### Action items from this meeting:
 
-* **\[ACTION]**: All to continue to use [GETTING STARTED CHANNEL](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky\_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) to add info that should be there.
+* **\[ACTION]**: All to continue to use [GETTING STARTED CHANNEL](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing) to add info that should be there.
 * **\[ACTION]**: WaKa and Demonix to continue to work on improvements to Getting Started (unclear if they want to use the above doc or not)
-* **\[ACTION]**: All to tweak the [slides for the Onboarding session](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW\_nFWBPq-KzEg/edit?usp=sharing) between now and next week’s meeting: especially the slide on Ambassador rewards.
+* **\[ACTION]**: All to tweak the [slides for the Onboarding session](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit?usp=sharing) between now and next week’s meeting: especially the slide on Ambassador rewards.
 
 ### Treasury Guild
 
@@ -146,7 +146,7 @@ all done
 
 ### Video Workgroup
 
-#### Present:&#x20;
+#### Present:
 
 Rojo \[facilitator] \[documenter], Agus, DevonHardy.
 
@@ -158,7 +158,7 @@ Rojo \[facilitator] \[documenter], Agus, DevonHardy.
 * Decided to make visuals for Instagram highlights.
 * Decided to put the same content on Twitter and make Twitter our main social media account
 
-#### Decisions:&#x20;
+#### Decisions:
 
 \[decision] Take a clip from the end of Town Hall about what's happening every week.\
 \[decision] Reach out to connect our socials to SNet socials.\
@@ -168,15 +168,13 @@ Rojo \[facilitator] \[documenter], Agus, DevonHardy.
 #### Action items:
 
 \[action] Take a clip from the end of Town Hall about what's happening every week.\
-\[action]  Make visuals for Instagram highlights.\
-\[action]  Put the same content on Twitter and make Twitter our main social media account.
+\[action] Make visuals for Instagram highlights.\
+\[action] Put the same content on Twitter and make Twitter our main social media account.
 
 ***
 
 ### Writers' Workgroup
 
 Meeting cancelled.
-
-
 
 ***

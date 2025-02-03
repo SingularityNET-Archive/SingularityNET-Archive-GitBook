@@ -45,9 +45,9 @@ Not this week
 
 {% embed url="https://youtu.be/y8aOElj-rVA" %}
 
-**Attendees** : Andre, Stephen \[facilitator], Peter. Vanessa&#x20;
+**Attendees** : Andre, Stephen \[facilitator], Peter. Vanessa
 
-**Agenda** :&#x20;
+**Agenda** :
 
 1 - GitHub Project Board - Stephen
 
@@ -75,21 +75,21 @@ No longer meeting
 
 ### <mark style="color:green;">Strategy Guild</mark>
 
-#### Agenda:&#x20;
+#### Agenda:
 
-Code of Conduct continued&#x20;
+Code of Conduct continued
 
-#### Attendees:&#x20;
+#### Attendees:
 
-Fly, Osmium, WaKa, Peter,  Headelf \[facilitator]
+Fly, Osmium, WaKa, Peter, Headelf \[facilitator]
 
-#### Notes:&#x20;
+#### Notes:
 
 Not many notes for this meeting. I am finding it more difficult to facilitate, edit and scribe.
 
-The meeting focused on the editing of the async google doc that had been created and edited by community members.&#x20;
+The meeting focused on the editing of the async google doc that had been created and edited by community members.
 
-Discussion focused on debate, gentle argument and consensus on the many topics in the Code of Conduct doc that had evolved from Strategy's previous doc termed Code of Ethics. This doc had been fed into CGPT4.0 and prompted to create a CoC with the viewpoint of a Professor of Ethics, with an avenue for reporting and possible violation remedies. The doc was about 3 pages long. The doc link is: [https://docs.google.com/document/d/1BISlzoy56n1bU-UdgKIqo\_Dub2w0fANCI-MlPuUVTIc/edit?usp=sharing](https://docs.google.com/document/d/1BISlzoy56n1bU-UdgKIqo\_Dub2w0fANCI-MlPuUVTIc/edit?usp=sharing)&#x20;
+Discussion focused on debate, gentle argument and consensus on the many topics in the Code of Conduct doc that had evolved from Strategy's previous doc termed Code of Ethics. This doc had been fed into CGPT4.0 and prompted to create a CoC with the viewpoint of a Professor of Ethics, with an avenue for reporting and possible violation remedies. The doc was about 3 pages long. The doc link is: [https://docs.google.com/document/d/1BISlzoy56n1bU-UdgKIqo\_Dub2w0fANCI-MlPuUVTIc/edit?usp=sharing](https://docs.google.com/document/d/1BISlzoy56n1bU-UdgKIqo_Dub2w0fANCI-MlPuUVTIc/edit?usp=sharing)
 
 #### Length of meeting:
 
@@ -107,7 +107,7 @@ No summary given
 
 ### <mark style="color:green;">Onboarding Workgroup</mark>
 
-No workgroup meeting this week - it was replaced with an onboarding session for new members.&#x20;
+No workgroup meeting this week - it was replaced with an onboarding session for new members.
 
 #### Video:
 
@@ -117,52 +117,52 @@ No workgroup meeting this week - it was replaced with an onboarding session for 
 
 ### <mark style="color:green;">Treasury Guild</mark>
 
-#### **Meeting Summary** **Context:**&#x20;
+#### **Meeting Summary** **Context:**
 
 How to structure Ambassador rules around payments, tasks and anything related to financial activities.
 
-#### **Meeting notes:**&#x20;
+#### **Meeting notes:**
 
-[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764561903477551\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764561903477551\&cot=10)&#x20;
+[https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764561903477551\&cot=10](https://miro.com/app/board/uXjVM7pbrKE=/?moveToWidget=3458764561903477551\&cot=10)
 
 #### **Showing feature of using Dates in Dework Task Name:**
 
-&#x20;[https://youtu.be/4Dg9AotLULU](https://youtu.be/4Dg9AotLULU)&#x20;
+[https://youtu.be/4Dg9AotLULU](https://youtu.be/4Dg9AotLULU)
 
-#### **Agenda Items**&#x20;
+#### **Agenda Items**
 
-#### **1) Ambassador Rewards**&#x20;
+#### **1) Ambassador Rewards**
 
-**Description** - Due to changes and concerns in Ambassador members, we clarified requirements to be eligible for the monthly rewards \
-**\[Decision]** - All members who were Ambassadors at the start of the August, expect thefreysdefi, will be rewarded.\
-**\[Action]** - In the next meeting, check if all Ambassadors are already eligible for September Ambassador Rewards.\
-**Insight** - Ambassadors are expected to join weekly Ambassador Townhalls \
+**Description** - Due to changes and concerns in Ambassador members, we clarified requirements to be eligible for the monthly rewards\
+&#xNAN;**\[Decision]** - All members who were Ambassadors at the start of the August, expect thefreysdefi, will be rewarded.\
+&#xNAN;**\[Action]** - In the next meeting, check if all Ambassadors are already eligible for September Ambassador Rewards.\
+**Insight** - Ambassadors are expected to join weekly Ambassador Townhalls\
 **Insight** - Ambassadors are expected to contribute to Ambassador Program through workgroups.
 
-#### **2) Insights from Treasury Guild - Activity Lists**&#x20;
+#### **2) Insights from Treasury Guild - Activity Lists**
 
-**Description** - We are seeing more use of activity lists \
-**Insight** - Dework PBL workgroup has drafted an Activity List Guide: [https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764563517240094\&cot=14](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764563517240094\&cot=14) \
-**Learning** - There is a new reccurring task of setting up translation tasks in Translation Workgroup \
-**Learning** - Onboarding Translator task should not be included in activity list due to existing task template \
-**Insight** - Kenichi and Rojokaboti are doing weekly activity lists \
+**Description** - We are seeing more use of activity lists\
+**Insight** - Dework PBL workgroup has drafted an Activity List Guide: [https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764563517240094\&cot=14](https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764563517240094\&cot=14)\
+**Learning** - There is a new reccurring task of setting up translation tasks in Translation Workgroup\
+**Learning** - Onboarding Translator task should not be included in activity list due to existing task template\
+**Insight** - Kenichi and Rojokaboti are doing weekly activity lists\
 **Learning** - There are a lot of reccurring tasks in Writers' Workgroup to be templated\
-**\[Action]** - Organize time with writers' workgroup to discuss recognizing operational activities \
-**Learning** - Rojokaboti is not including the time spent on each activity under activity list; we are not able to recognize areas for time spent for management contribution&#x20;
+&#xNAN;**\[Action]** - Organize time with writers' workgroup to discuss recognizing operational activities\
+**Learning** - Rojokaboti is not including the time spent on each activity under activity list; we are not able to recognize areas for time spent for management contribution
 
-#### **3) Data Formats that are recognized from title**&#x20;
+#### **3) Data Formats that are recognized from title**
 
-**Description** - Shared new date format feature of the Treasury System: see link to video above \
-**Insight** - This helps us to make the contribution timeline visible more fluid and accurate compared with actual events \
-**Insight** - helps to audit resource availability for the month&#x20;
+**Description** - Shared new date format feature of the Treasury System: see link to video above\
+**Insight** - This helps us to make the contribution timeline visible more fluid and accurate compared with actual events\
+**Insight** - helps to audit resource availability for the month
 
-#### **4) Using Clockify to track your own contributions**&#x20;
+#### **4) Using Clockify to track your own contributions**
 
-**Description** - Clockify is a tool that times your activities \
-**\[Action]** - SucrenSpice will send Treasury Guild Clockify Export \
+**Description** - Clockify is a tool that times your activities\
+&#xNAN;**\[Action]** - SucrenSpice will send Treasury Guild Clockify Export\
 **Insight** - We will look into opportunities to see if we can allow managing operational tasks direcly using Clockify export. Right now the information is manually copied over to Dework.
 
-#### **Next elegant steps** (general action items)&#x20;
+#### **Next elegant steps** (general action items)
 
 We didn't discuss quarterly budgets as yet, and should do so in next meeting as it's the last of the current quarter.
 
@@ -200,17 +200,17 @@ Kenichi \[facilitator], Mikasa \[documenter], CJFrankie, Devon Hardy, Nwobi Onye
 
 #### Agenda:
 
-Translating Ben Goertzel’s Wikipedia blog to other languages: \
-**\[action]** Kenichi will make a list of available languages. \
-**\[action]** Mikasa will be translating into Spanish, other Scribblers can send a DM to Kenichi if they'd like to translate to other languages
+Translating Ben Goertzel’s Wikipedia blog to other languages:\
+&#xNAN;**\[action]** Kenichi will make a list of available languages.\
+&#xNAN;**\[action]** Mikasa will be translating into Spanish, other Scribblers can send a DM to Kenichi if they'd like to translate to other languages
 
 #### Tasks:
 
 Ambassadors graphics: creation of welcome graphics into each new month. Each member was asked to check the new graphics and send reviews, We got great feedback from members
 
-Trivia testing: A new channel for trivia will be opened for members of the ambassador program&#x20;
+Trivia testing: A new channel for trivia will be opened for members of the ambassador program
 
-AI marketplace: Scribblers should get familiar with the AI marketplace and a task would be put up for scribblers to choose which AI tools they'd be interested in&#x20;
+AI marketplace: Scribblers should get familiar with the AI marketplace and a task would be put up for scribblers to choose which AI tools they'd be interested in
 
 Writing focus for the month: LLMs, Deep Funding, and AGI. Each scribbler and scribe are welcome to bring topics
 
