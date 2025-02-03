@@ -20,7 +20,7 @@ Stalnaker defines context as the shared background information or assumptions th
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.15.38.png" alt=""><figcaption></figcaption></figure>
 
-“Stalnaker defines context as the shared background information or assumptions that enable effective communication.
+Stalnaker defines context as the shared background information or assumptions that enable effective communication.
 
 Some of Stalnaker's core ideas include:
 
@@ -31,7 +31,15 @@ Some of Stalnaker's core ideas include:
 
 Stalnaker’s insights help us understand how context functions in human interaction, and these ideas are pivotal when designing AI systems that can ethically navigate complex, real-world environments.
 
+### Adapting AI Behaviour to Context
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.22.28.png" alt=""><figcaption></figcaption></figure>
+
 ### Contextual Sensitivity in AI Decision-Making <a href="#mdeui48q7n33" id="mdeui48q7n33"></a>
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.25.19.png" alt=""><figcaption></figcaption></figure>
 
 **Title:** Adapting AI Behavior to Context **Content:**
 
