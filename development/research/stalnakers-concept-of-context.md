@@ -8,14 +8,17 @@ description: Stalnaker’s Concept of Context and Its Relevance to AI Ethics
 
 A presentation by Stephen Whitenstall, QADAO
 
-\
-"In this presentation, we'll discuss how Stalnaker’s ideas—like the role of presuppositions, the dynamic nature of context, and the importance of common ground—can guide us in designing ethical and context-aware AI systems.
+In this presentation, we'll discuss how Stalnaker’s ideas—like the role of presuppositions, the dynamic nature of context, and the importance of common ground—can guide us in designing ethical and context-aware AI systems.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.15.21.png" alt=""><figcaption></figcaption></figure>
 
-Let's begin by understanding the essence of his philosophy and its relevance to modern technology."
+Let's begin by understanding the essence of his philosophy and its relevance to modern technology.
 
 ### Understanding Context in Stalnaker’s Philosophy
+
+Stalnaker defines context as the shared background information or assumptions that enable effective communication.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.15.38.png" alt=""><figcaption></figcaption></figure>
 
 “Stalnaker defines context as the shared background information or assumptions that enable effective communication.
 
