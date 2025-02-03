@@ -320,6 +320,7 @@
   * [Retrieval-Augmented Generation](development/llm-development/rag-process.md)
   * [Data Loading and Preprocessing](development/llm-development/data-loading-and-preprocessing.md)
   * [Vector Store Creation](development/llm-development/vector-store-creation.md)
+* [Research](development/research.md)
 
 ## Links
 
