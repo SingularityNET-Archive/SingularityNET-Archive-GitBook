@@ -49,9 +49,13 @@ Just as Stalnaker emphasized the dynamic role of context in human communication,
 
 Incorporating contextual sensitivity into AI systems ensures they remain relevant, respectful, and aligned with the values of the communities they serve.
 
-### Slide 4: Addressing Bias Through Context Awareness <a href="#qfbvdlik31sl" id="qfbvdlik31sl"></a>
+### Addressing Bias Through Context Awareness <a href="#qfbvdlik31sl" id="qfbvdlik31sl"></a>
 
-**Title:** Recognizing and Mitigating AI Bias **Content:**
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.34.01.png" alt=""><figcaption></figcaption></figure>
+
+Recognizing and Mitigating AI Bias **Content:**
 
 Bias arises from unexamined assumptions embedded in AI models.
 
