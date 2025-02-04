@@ -33,13 +33,13 @@ Stalnaker’s insights help us understand how context functions in human interac
 
 ### Adapting AI Behaviour to Context
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.22.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.22.28.png" alt=""><figcaption>Adapting AI Behaviour to Context</figcaption></figure>
 
 ### Contextual Sensitivity in AI Decision-Making <a href="#mdeui48q7n33" id="mdeui48q7n33"></a>
 
 As AI systems become integrated into diverse environments, they must navigate varying cultural, social, and situational norms. A one-size-fits-all approach simply won't suffice in delivering ethical or effective AI solutions.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.25.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.25.19.png" alt=""><figcaption>Contextual Sensitivity in AI Decision-Making</figcaption></figure>
 
 Stalnaker's concept of context as the shared assumptions and background knowledge offers a valuable perspective here. AI systems, like human communicators, need to adapt to the context they are operating within. This means understanding the user's needs, cultural expectations, and even situational subtleties to provide appropriate responses.
 
@@ -51,7 +51,7 @@ Incorporating contextual sensitivity into AI systems ensures they remain relevan
 
 ### Addressing Bias Through Context Awareness <a href="#qfbvdlik31sl" id="qfbvdlik31sl"></a>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.34.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.34.01.png" alt=""><figcaption>Addressing Bias Through Context Awareness</figcaption></figure>
 
 One of the most significant ethical challenges in AI is addressing bias. Bias often stems from unexamined assumptions embedded within AI models, which can lead to unfair or harmful outcomes.
 
@@ -65,7 +65,7 @@ By embedding context-awareness into AI systems, we can mitigate bias and build t
 
 ### Dynamic Updates and Ethical Responsiveness <a href="#jf9op6ta9ezk" id="jf9op6ta9ezk"></a>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 12.52.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 12.52.12.png" alt=""><figcaption>Dynamic Updates and Ethical Responsiveness</figcaption></figure>
 
 Evolving Context in AI Interaction
 
@@ -80,6 +80,8 @@ Stalnaker’s notion of contextual updates highlights the importance of refining
 Dynamic responsiveness is not just a technical feature; it’s a cornerstone of ethical AI design. By adapting to evolving contexts, AI systems can provide more accurate, user-centered, and ethical solutions.
 
 ### Transparency and Shared Common Ground <a href="#id-9wuwipyihrr9" id="id-9wuwipyihrr9"></a>
+
+<figure><img src="https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d" alt=""><figcaption>Transparency and Shared Common Ground</figcaption></figure>
 
 ![Screenshot 2025-02-04 at 12 59 07](https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d)
 
