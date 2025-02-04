@@ -111,53 +111,36 @@ Stalnaker’s approach reminds us that effective decision-making emerges from un
 
 By embedding the principles of collaborative dialogue into their design, AI systems can make ethical decisions that reflect the complexity of real-world situations, ensuring they align with human values and priorities.
 
-### Slide 8: Conclusion and Call to Action <a href="#id-4455l9j0utf8" id="id-4455l9j0utf8"></a>
 
-**Title:** Building Ethical AI with Context in Mind **Content:**
-
-**Key Takeaways:**
-
-Context shapes meaning, fairness, and trust in AI systems.
-
-Stalnaker’s philosophy provides a framework for ethical AI design.
-
-**Call to Action:**
-
-Design AI that adapts to diverse contexts and updates dynamically.
-
-Ensure transparency and critique biases in AI systems.
-
-Foster collaborative approaches to complex ethical decisions. **Graphic:** Visionary image of AI contributing to a diverse, equitable world.
-
-Script
-
-**Opening Statement]**
-
-\
-"As we’ve explored, Stalnaker’s insights into context provide a powerful framework for addressing some of the most pressing ethical challenges in AI design and deployment. Let’s recap the key takeaways and look at what they mean for building ethical AI.”
 
 ### **Key Takeaways**
 
-\
-"First, context is fundamental. It shapes how meaning is constructed, how fairness is maintained, and how trust is built. AI systems must:
+![Screenshot 2025-02-04 at 13 04 29](https://github.com/user-attachments/assets/a20ff8bf-f5ca-4415-9fae-5a31b53460e8)
 
-Adapt dynamically to diverse and evolving contexts.
 
-Identify and address biases embedded in their presuppositions.
+As we’ve explored, Stalnaker’s insights into context provide a powerful framework for addressing some of the most pressing ethical challenges in AI design and deployment. Let’s recap the key takeaways and look at what they mean for building ethical AI.
 
-Be transparent and foster a shared understanding with users.
+First, context is fundamental. It shapes how meaning is constructed, how fairness is maintained, and how trust is built. AI systems must:
 
-Engage in collaborative, context-aware decision-making.”
+- Adapt dynamically to diverse and evolving contexts.
+
+- Identify and address biases embedded in their presuppositions.
+
+- Be transparent and foster a shared understanding with users.
+
+- Engage in collaborative, context-aware decision-making.
 
 ### **Call to Action**
 
+![Screenshot 2025-02-04 at 13 04 50](https://github.com/user-attachments/assets/98ffc334-96dd-43f4-a7aa-bf0340083368)
+
+
 "To achieve this, we must:
 
-**Design AI that is adaptable and context-aware.** This ensures relevance and respect in diverse environments.
+- **Design AI that is adaptable and context-aware.** This ensures relevance and respect in diverse environments.
 
-**Ensure transparency and fairness.** This builds trust and prevents harm.
+- **Ensure transparency and fairness.** This builds trust and prevents harm.
 
-**Foster collaboration and dialogue in ethical dilemmas.** This ensures decisions align with human values.”
+- **Foster collaboration and dialogue in ethical dilemmas.** This ensures decisions align with human values.”
 
-\
-"By grounding AI systems in the principles of context, as envisioned by Stalnaker, we can create technology that not only works but works ethically and inclusively—serving a diverse and equitable world."
+By grounding AI systems in the principles of context, as envisioned by Stalnaker, we can create technology that not only works but works ethically and inclusively—serving a diverse and equitable world.
