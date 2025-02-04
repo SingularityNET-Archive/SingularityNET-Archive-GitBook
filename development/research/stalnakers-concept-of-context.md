@@ -18,7 +18,7 @@ Let's begin by understanding the essence of his philosophy and its relevance to 
 
 Stalnaker defines context as the shared background information or assumptions that enable effective communication.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.15.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.15.38.png" alt=""><figcaption>Understanding Context in Stalnaker’s Philosophy</figcaption></figure>
 
 Stalnaker defines context as the shared background information or assumptions that enable effective communication.
 
