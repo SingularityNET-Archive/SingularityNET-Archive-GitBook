@@ -111,7 +111,7 @@ By embedding the principles of collaborative dialogue into their design, AI syst
 
 ![Key Takeaways](https://github.com/user-attachments/assets/a20ff8bf-f5ca-4415-9fae-5a31b53460e8)
 
-akeeAs we’ve explored, Stalnaker’s insights into context provide a powerful framework for addressing some of the most pressing ethical challenges in AI design and deployment. Let’s recap the key takeaways and look at what they mean for building ethical AI.
+As we’ve explored, Stalnaker’s insights into context provide a powerful framework for addressing some of the most pressing ethical challenges in AI design and deployment. Let’s recap the key takeaways and look at what they mean for building ethical AI.
 
 First, context is fundamental. It shapes how meaning is constructed, how fairness is maintained, and how trust is built. AI systems must:
 
