@@ -55,8 +55,6 @@ Incorporating contextual sensitivity into AI systems ensures they remain relevan
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.34.01.png" alt=""><figcaption></figcaption></figure>
 
-Recognizing and Mitigating AI Bias **Content:**
-
 Bias arises from unexamined assumptions embedded in AI models.
 
 Ethical Challenge: Avoid reinforcing harmful stereotypes or societal inequities.
