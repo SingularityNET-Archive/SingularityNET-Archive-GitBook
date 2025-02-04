@@ -65,8 +65,6 @@ By embedding context-awareness into AI systems, we can mitigate bias and build t
 
 ### Dynamic Updates and Ethical Responsiveness <a href="#jf9op6ta9ezk" id="jf9op6ta9ezk"></a>
 
-
-
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 12.52.12.png" alt=""><figcaption></figcaption></figure>
 
 Evolving Context in AI Interaction
@@ -82,6 +80,7 @@ Stalnaker’s notion of contextual updates highlights the importance of refining
 Dynamic responsiveness is not just a technical feature; it’s a cornerstone of ethical AI design. By adapting to evolving contexts, AI systems can provide more accurate, user-centered, and ethical solutions.
 
 ### Transparency and Shared Common Ground <a href="#id-9wuwipyihrr9" id="id-9wuwipyihrr9"></a>
+
 ![Screenshot 2025-02-04 at 12 59 07](https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d)
 
 Enhancing Trust Through Explainability
@@ -97,6 +96,7 @@ Stalnaker’s emphasis on establishing shared understanding is directly applicab
 Transparency is not just a technical feature but an ethical necessity. It helps ensure that AI systems remain comprehensible, fair, and aligned with the needs and expectations of the people they serve.
 
 ### Collaborative Dialogue for Ethical Decision-Making <a href="#il07dqcvbwzn" id="il07dqcvbwzn"></a>
+
 ![Screenshot 2025-02-04 at 13 01 50](https://github.com/user-attachments/assets/2b8b07e8-df3b-4f82-9ec9-b54f8c70b458)
 
 Navigating Ethical Dilemmas with AI
@@ -111,36 +111,27 @@ Stalnaker’s approach reminds us that effective decision-making emerges from un
 
 By embedding the principles of collaborative dialogue into their design, AI systems can make ethical decisions that reflect the complexity of real-world situations, ensuring they align with human values and priorities.
 
-
-
 ### **Key Takeaways**
 
-![Screenshot 2025-02-04 at 13 04 29](https://github.com/user-attachments/assets/a20ff8bf-f5ca-4415-9fae-5a31b53460e8)
+![Key Takeaways](https://github.com/user-attachments/assets/a20ff8bf-f5ca-4415-9fae-5a31b53460e8)
 
-
-As we’ve explored, Stalnaker’s insights into context provide a powerful framework for addressing some of the most pressing ethical challenges in AI design and deployment. Let’s recap the key takeaways and look at what they mean for building ethical AI.
+akeeAs we’ve explored, Stalnaker’s insights into context provide a powerful framework for addressing some of the most pressing ethical challenges in AI design and deployment. Let’s recap the key takeaways and look at what they mean for building ethical AI.
 
 First, context is fundamental. It shapes how meaning is constructed, how fairness is maintained, and how trust is built. AI systems must:
 
-- Adapt dynamically to diverse and evolving contexts.
-
-- Identify and address biases embedded in their presuppositions.
-
-- Be transparent and foster a shared understanding with users.
-
-- Engage in collaborative, context-aware decision-making.
+* Adapt dynamically to diverse and evolving contexts.
+* Identify and address biases embedded in their presuppositions.
+* Be transparent and foster a shared understanding with users.
+* Engage in collaborative, context-aware decision-making.
 
 ### **Call to Action**
 
-![Screenshot 2025-02-04 at 13 04 50](https://github.com/user-attachments/assets/98ffc334-96dd-43f4-a7aa-bf0340083368)
-
+![Call to Action](https://github.com/user-attachments/assets/98ffc334-96dd-43f4-a7aa-bf0340083368)
 
 To achieve this, we must:
 
-- **Design AI that is adaptable and context-aware.** This ensures relevance and respect in diverse environments.
-
-- **Ensure transparency and fairness.** This builds trust and prevents harm.
-
-- **Foster collaboration and dialogue in ethical dilemmas.** This ensures decisions align with human values.”
+* **Design AI that is adaptable and context-aware.** This ensures relevance and respect in diverse environments.
+* **Ensure transparency and fairness.** This builds trust and prevents harm.
+* **Foster collaboration and dialogue in ethical dilemmas.** This ensures decisions align with human values.”
 
 By grounding AI systems in the principles of context, as envisioned by Stalnaker, we can create technology that not only works but works ethically and inclusively—serving a diverse and equitable world.
