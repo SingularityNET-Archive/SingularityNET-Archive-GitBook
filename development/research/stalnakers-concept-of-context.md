@@ -63,38 +63,23 @@ Stalnaker reminds us that context is key to interpreting and shaping meaning. Si
 
 By embedding context-awareness into AI systems, we can mitigate bias and build technology that reflects the values of fairness and inclusivity.
 
-### Slide 5: Dynamic Updates and Ethical Responsiveness <a href="#jf9op6ta9ezk" id="jf9op6ta9ezk"></a>
+### Dynamic Updates and Ethical Responsiveness <a href="#jf9op6ta9ezk" id="jf9op6ta9ezk"></a>
 
 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 12.52.12.png" alt=""><figcaption></figcaption></figure>
 
-**Title:** Evolving Context in AI Interaction
+Evolving Context in AI Interaction
 
-**Content:**
+AI systems must not only understand context but also adapt as new information becomes available. This ability to dynamically update their understanding is essential for ethical and effective interactions.
 
-AI must update its understanding with new information provided by users.
+In Stalnaker’s framework, communication is dynamic, with context evolving as new information is introduced. AI systems must mirror this adaptability. For example, a healthcare chatbot that initially provides advice based on a user’s symptoms must adjust its recommendations if the user shares additional symptoms or changes their preferences.
 
-Ethical Need: Avoid misinterpretations by adapting dynamically to changes.
+This responsiveness ensures that AI remains relevant and minimizes the risk of harm caused by outdated or incorrect assumptions. Without dynamic updates, AI systems might make inappropriate decisions or fail to meet user needs.
 
-Example: Correcting a healthcare chatbot’s advice when new symptoms are reported. **Connection to Stalnaker:**&#x43;ontextupdates refine communication and ensure relevance. **Graphic:** Sequence of chatbot interactions showing initial and updated responses.
+Stalnaker’s notion of contextual updates highlights the importance of refining understanding in real-time. For AI, this means continuously integrating new information while maintaining ethical standards and user trust.
 
-Script
-
-**\[Opening Statement]**\
-"AI systems must not only understand context but also adapt as new information becomes available. This ability to dynamically update their understanding is essential for ethical and effective interactions."
-
-**\[Main Explanation]**\
-"In Stalnaker’s framework, communication is dynamic, with context evolving as new information is introduced. AI systems must mirror this adaptability. For example, a healthcare chatbot that initially provides advice based on a user’s symptoms must adjust its recommendations if the user shares additional symptoms or changes their preferences."
-
-**\[Key Ethical Need]**\
-"This responsiveness ensures that AI remains relevant and minimizes the risk of harm caused by outdated or incorrect assumptions. Without dynamic updates, AI systems might make inappropriate decisions or fail to meet user needs."
-
-**\[Connection to Stalnaker]**\
-"Stalnaker’s notion of contextual updates highlights the importance of refining understanding in real-time. For AI, this means continuously integrating new information while maintaining ethical standards and user trust."
-
-**\[Closing Statement]**\
-"Dynamic responsiveness is not just a technical feature; it’s a cornerstone of ethical AI design. By adapting to evolving contexts, AI systems can provide more accurate, user-centered, and ethical solutions."
+Dynamic responsiveness is not just a technical feature; it’s a cornerstone of ethical AI design. By adapting to evolving contexts, AI systems can provide more accurate, user-centered, and ethical solutions.
 
 ### Slide 6: Transparency and Shared Common Ground <a href="#id-9wuwipyihrr9" id="id-9wuwipyihrr9"></a>
 
