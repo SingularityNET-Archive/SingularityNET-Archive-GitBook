@@ -81,11 +81,7 @@ Dynamic responsiveness is not just a technical feature; it’s a cornerstone of 
 
 ### Transparency and Shared Common Ground <a href="#id-9wuwipyihrr9" id="id-9wuwipyihrr9"></a>
 
-<figure><img src="https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d" alt=""><figcaption>Transparency and Shared Common Ground</figcaption></figure>
-
-![Screenshot 2025-02-04 at 12 59 07](https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d)
-
-Enhancing Trust Through Explainability
+<figure><img src="https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d" alt=""><figcaption>Enhancing Trust Through Explainability</figcaption></figure>
 
 Transparency is one of the most critical aspects of ethical AI. For users to trust AI systems, they need to understand how decisions are made and feel confident that those decisions align with their values and expectations.
 
@@ -99,9 +95,7 @@ Transparency is not just a technical feature but an ethical necessity. It helps 
 
 ### Collaborative Dialogue for Ethical Decision-Making <a href="#il07dqcvbwzn" id="il07dqcvbwzn"></a>
 
-![Screenshot 2025-02-04 at 13 01 50](https://github.com/user-attachments/assets/2b8b07e8-df3b-4f82-9ec9-b54f8c70b458)
-
-Navigating Ethical Dilemmas with AI
+<figure><img src="https://github.com/user-attachments/assets/2b8b07e8-df3b-4f82-9ec9-b54f8c70b458"><figcaption>Navigating Ethical Dilemmas with AI</figcaption></figure>
 
 AI systems increasingly face complex ethical dilemmas that require balancing competing values. To navigate these challenges, AI can simulate the principles of collaborative dialogue to make informed and context-sensitive decisions.
 
