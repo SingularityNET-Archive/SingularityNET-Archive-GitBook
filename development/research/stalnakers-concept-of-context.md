@@ -135,7 +135,7 @@ First, context is fundamental. It shapes how meaning is constructed, how fairnes
 ![Screenshot 2025-02-04 at 13 04 50](https://github.com/user-attachments/assets/98ffc334-96dd-43f4-a7aa-bf0340083368)
 
 
-"To achieve this, we must:
+To achieve this, we must:
 
 - **Design AI that is adaptable and context-aware.** This ensures relevance and respect in diverse environments.
 
