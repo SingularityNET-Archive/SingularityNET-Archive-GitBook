@@ -51,8 +51,6 @@ Incorporating contextual sensitivity into AI systems ensures they remain relevan
 
 ### Addressing Bias Through Context Awareness <a href="#qfbvdlik31sl" id="qfbvdlik31sl"></a>
 
-
-
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.34.01.png" alt=""><figcaption></figcaption></figure>
 
 One of the most significant ethical challenges in AI is addressing bias. Bias often stems from unexamined assumptions embedded within AI models, which can lead to unfair or harmful outcomes.
@@ -66,6 +64,10 @@ Stalnaker reminds us that context is key to interpreting and shaping meaning. Si
 By embedding context-awareness into AI systems, we can mitigate bias and build technology that reflects the values of fairness and inclusivity.
 
 ### Slide 5: Dynamic Updates and Ethical Responsiveness <a href="#jf9op6ta9ezk" id="jf9op6ta9ezk"></a>
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-02-04 at 12.52.12.png" alt=""><figcaption></figcaption></figure>
 
 **Title:** Evolving Context in AI Interaction
 
