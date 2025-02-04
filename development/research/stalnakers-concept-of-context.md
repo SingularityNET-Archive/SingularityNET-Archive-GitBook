@@ -55,37 +55,15 @@ Incorporating contextual sensitivity into AI systems ensures they remain relevan
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-02-03 at 09.34.01.png" alt=""><figcaption></figcaption></figure>
 
-Bias arises from unexamined assumptions embedded in AI models.
+One of the most significant ethical challenges in AI is addressing bias. Bias often stems from unexamined assumptions embedded within AI models, which can lead to unfair or harmful outcomes.
 
-Ethical Challenge: Avoid reinforcing harmful stereotypes or societal inequities.
+Stalnaker’s insights on presuppositions provide a framework for tackling this issue. Just as presuppositions influence the meaning of human communication, the implicit assumptions in AI systems affect their behavior and decisions. To build ethical AI, we must critically evaluate and refine these underlying presuppositions.
 
-Solution: Identify and adjust AI presuppositions based on user context.
+When AI operates without considering the diversity of its users, it risks reinforcing stereotypes or perpetuating inequities. For example, a recruitment AI might unfairly prioritize candidates based on biased training data. The solution lies in identifying and adjusting these presuppositions based on the context of the user or task.
 
-**Connection to Stalnaker:** Presuppositions influence meaning; ethical AI must critique and refine implicit assumptions.
+Stalnaker reminds us that context is key to interpreting and shaping meaning. Similarly, ethical AI must be designed to adapt to the context it encounters, ensuring that assumptions are appropriate and equitable.
 
-**Graphic:** Side-by-side depiction of biased vs. unbiased AI responses.
-
-Script –
-
-**\[Opening Statement]**
-
-\
-"One of the most significant ethical challenges in AI is addressing bias. Bias often stems from unexamined assumptions embedded within AI models, which can lead to unfair or harmful outcomes."
-
-**\[Main Explanation]**
-
-"Stalnaker’s insights on presuppositions provide a framework for tackling this issue. Just as presuppositions influence the meaning of human communication, the implicit assumptions in AI systems affect their behavior and decisions. To build ethical AI, we must critically evaluate and refine these underlying presuppositions."
-
-**\[Ethical Challenge and Solution]**
-
-"When AI operates without considering the diversity of its users, it risks reinforcing stereotypes or perpetuating inequities. For example, a recruitment AI might unfairly prioritize candidates based on biased training data. The solution lies in identifying and adjusting these presuppositions based on the context of the user or task."
-
-**\[Connection to Stalnaker]**
-
-"Stalnaker reminds us that context is key to interpreting and shaping meaning. Similarly, ethical AI must be designed to adapt to the context it encounters, ensuring that assumptions are appropriate and equitable."
-
-**\[Closing Statement]**\
-"By embedding context-awareness into AI systems, we can mitigate bias and build technology that reflects the values of fairness and inclusivity."
+By embedding context-awareness into AI systems, we can mitigate bias and build technology that reflects the values of fairness and inclusivity.
 
 ### Slide 5: Dynamic Updates and Ethical Responsiveness <a href="#jf9op6ta9ezk" id="jf9op6ta9ezk"></a>
 
