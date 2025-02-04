@@ -81,42 +81,20 @@ Stalnaker’s notion of contextual updates highlights the importance of refining
 
 Dynamic responsiveness is not just a technical feature; it’s a cornerstone of ethical AI design. By adapting to evolving contexts, AI systems can provide more accurate, user-centered, and ethical solutions.
 
-### Slide 6: Transparency and Shared Common Ground <a href="#id-9wuwipyihrr9" id="id-9wuwipyihrr9"></a>
+### Transparency and Shared Common Ground <a href="#id-9wuwipyihrr9" id="id-9wuwipyihrr9"></a>
+![Screenshot 2025-02-04 at 12 59 07](https://github.com/user-attachments/assets/ae052e4b-9122-4b49-a8b1-83876c5c776d)
 
-**Title:** Enhancing Trust Through Explainability **Content:**
+Enhancing Trust Through Explainability
 
-Users need to understand AI’s capabilities, reasoning, and limitations.
+Transparency is one of the most critical aspects of ethical AI. For users to trust AI systems, they need to understand how decisions are made and feel confident that those decisions align with their values and expectations.
 
-Ethical Goal: Define and maintain common ground between humans and AI.
+Stalnaker’s concept of shared common ground provides a useful analogy. Just as effective communication depends on a shared understanding between speaker and listener, successful human-AI interactions rely on creating a clear and accessible common ground. This includes explaining an AI’s reasoning, its capabilities, and its limitations.
 
-Example: Transparent explanations for AI decisions in credit applications. **Connection to Stalnaker:** Shared common ground fosters mutual understanding. **Graphic:** Flowchart of user querying an AI system with explanations provided.
+Transparency ensures fairness and prevents harm caused by misinterpretation. For instance, in credit applications, an AI system must not only provide a decision but also explain the factors that influenced that decision in a way users can understand. Without this transparency, users might feel alienated or unfairly judged.
 
-Script
+Stalnaker’s emphasis on establishing shared understanding is directly applicable to AI. By clearly defining and communicating the common ground, AI systems can foster trust and accountability.
 
-**Opening Statement]**
-
-\
-"Transparency is one of the most critical aspects of ethical AI. For users to trust AI systems, they need to understand how decisions are made and feel confident that those decisions align with their values and expectations.”
-
-**\[Main Explanation]**
-
-\
-"Stalnaker’s concept of shared common ground provides a useful analogy. Just as effective communication depends on a shared understanding between speaker and listener, successful human-AI interactions rely on creating a clear and accessible common ground. This includes explaining an AI’s reasoning, its capabilities, and its limitations.”
-
-**\[Ethical Goal and Example]**
-
-\
-"Transparency ensures fairness and prevents harm caused by misinterpretation. For instance, in credit applications, an AI system must not only provide a decision but also explain the factors that influenced that decision in a way users can understand. Without this transparency, users might feel alienated or unfairly judged.”
-
-**\[Connection to Stalnaker]**
-
-\
-"Stalnaker’s emphasis on establishing shared understanding is directly applicable to AI. By clearly defining and communicating the common ground, AI systems can foster trust and accountability.”
-
-**\[Closing Statement]**
-
-\
-"Transparency is not just a technical feature but an ethical necessity. It helps ensure that AI systems remain comprehensible, fair, and aligned with the needs and expectations of the people they serve."
+Transparency is not just a technical feature but an ethical necessity. It helps ensure that AI systems remain comprehensible, fair, and aligned with the needs and expectations of the people they serve.
 
 ### Slide 7: Collaborative Dialogue for Ethical Decision-Making <a href="#il07dqcvbwzn" id="il07dqcvbwzn"></a>
 
