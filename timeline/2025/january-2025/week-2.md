@@ -86,6 +86,7 @@ But our Q1 budget has allocated $20 for documentation - so we cannot raise this 
 - **emotions:** Discursive, Good natured, interesting, progress made
 ## Wednesday 8th January 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -121,6 +122,59 @@ But our Q1 budget has allocated $20 for documentation - so we cannot raise this 
 #### Keywords/tags:
 - **topics covered:** CCCP, announcement, website, Ai for Beginners, design, Task Assignment
 - **emotions:** productive,  Collaborative, Businesslike.
+
+
+
+### Archives Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Stephen [QADAO] [**facilitator**], CallyFromAuron [**documenter**], André, CallyFromAuron, Stephen [QADAO], LadyTempestt, Gorga Siagian, PeterE, Clement Umoh, AshleyDawn, esewilliams, LordKizzy, Effiom
+- **Purpose:** Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- **Meeting video:** [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- **Working Docs:**
+  - [Archives Dashboard ](https://archives-dashboard.netlify.app)
+  - [Q1 2025 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [Archive names (a list of the name that people are most commonly known by in the Archives)](https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing)
+  - [GitHub Issue for this meeting ](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/239)
+
+#### Decision Items:
+- Gorga presented Gamers' Guild's representation of Archives WG in Roblox. We agreed it was great, but suggested some minor tweaks to which NPC is in each room. We commented that 
+- like a knowledge graph, this is a visual way of representing structures and connections. The conversational interface in the game may be useful for structuring questions about the archive - e.g. a gamified way to explore a knowledge graph
+- it would be amazing in the long term if the Archives itself could be integrated with the game, so that in the Archives room, a player could actually access and search the Archives.
+  - [**effect**] mayAffectOtherPeople
+- Stephen showed updates to the AI workflow issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/233. He's working on a presentation on philosopher Robert Stalnaker's idea of context (possible worlds, centred worlds), and how this might relate to an ethical approach to the use of AI
+  - [**rationale**] An LLM needs to be used in a contextualised way in order to be fully ethical - Stalnaker's approach to context could be a useful way to look at this, and could give an interesting angle for our didactic work.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Stephen presented recent work on LLM development https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/241 . We agreed that while it is easy to take a "snapshot" of flat-file data and feed it into Langchain or similar, there is no guide to forming a semantic query. So how do we structure our data to prepare it for interfacing with generative AI? 
+
+This will be the next phase of the work on this issue - we are now pivoting to a graph structure to give better context and dimensionality.
+
+- You create an instance (in the cloud, for scalability, if you have a large dataset)
+- Import is from a CSV file, but you an also integrate graph sources and other sources
+- It creates nodes (data entities)
+- You can then design your own conceptual schema/framework on top of this layer, to define what the edges are that connect the nodes. (Multi-dimensional - there might be many connections depending on context). 
+  - [**effect**] mayAffectOtherPeople
+- André, meeting tool redesign: he has added some new names to the controlled vocab for people's names; and is planning to design something for the process of approving new names and updating where we have a wrong version of a name. 
+
+He's also updated the timeline folders for 2025 (atm this can't be automated, but it does only need to be done annually so not too bad), and fixed a caching bug which had been causing the dashboard to sometimes display older (non-updated) versions of summaries.
+  - [**effect**] mayAffectOtherPeople
+- We discussed our tag taxonomy https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/133, and whether our (deduped) set of tags could be a *layer* that sits on top of our data
+  - [**effect**] affectsOnlyThisWorkgroup
+- We noted that given current low-ish token price, we're not able to start the proposed initiative to create a skilled documentation team. We'll review this next meeting.
+  - [**rationale**] We had this in our Q1 budget "if token price rises sufficiently above $0.55" (the exchange rate at which Q1 budgets were calculated). Price hasn't risen enough.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We briefly discussed the plan to further develop an AI ethics policy for the Archives. 
+  - [**rationale**] Transparency in the use of AI, human oversight, contextuality, and accountability are obviously key elements; so are auto-didacticism and learning resources (can people teach themselves to understand what is being done when AI is used in recordkeeping?)
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?
+
+and discuss how the Archives dovetails with documentation that DF is doing itself, such as https://community.deepfunding.ai/ [**assignee**] CallyFromAuron [**due**] 15 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** RAG retrieval process, knowledge graph, Tag taxonomy, meeting summary tool, graph rag, Robert Stalnaker, philosophy, Gamers Guild, Roblox, visual, context, controlled vocabularies
+- **emotions:** interesting, wide-ranging, didactic, Friendly
 
 
 ## Thursday 9th January 2025
