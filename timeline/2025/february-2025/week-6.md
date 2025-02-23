@@ -78,3 +78,58 @@ This will be discussed in a later meeting.
 #### Keywords/tags:
 - **topics covered:** budget caps, Q2 2024 budget, consent process, timeline, token price, Exchange rates, Q1 quarterly report, New ideas, Process for agreeing new workgroups
 - **emotions:** Good natured, low attendance, Discursive, progress made
+## Thursday 6th February 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, LordKizzy, CallyFromAuron, AshleyDawn, Clement Umoh, Sucre n Spice
+- **Purpose:** Weekly Open Governance meeting
+- **Working Docs:**
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [“Budget caps for Q2” discussion](https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing)
+  - [DRAFT process for how to use the "New Ideas" budget](https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s/edit?usp=sharing)
+  - [budget decision - main issues mentioned in objections](https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing)
+  - [Retrospectives from the past](https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit?usp=sharing)
+
+#### Narrative:
+There was no agenda for today's meeting. (We had previously agreed that after January, we would try to keep the Thursday Open Governance meetings open, with no predetermined agenda, for anyone to raise a governance issue.)
+
+The meeting was quite small.
+
+So the meeting was more digressive than usual - a gentle conversation touching on a range of topics not directly related to the governance mechanisms of the Ambassador program. We agreed to document in a minimal way, by simply logging the topics that arose.
+
+
+#### Discussion Points:
+- Cross-chain collaborations (especially with ETH, given AdvanceAmeyaw and Clement's planned attendance at the ETHiopia Ethereum conference in mid Feb)
+- Cross-chain collaboration as a mindset 
+- Adoption of different chains in Africa; which ones are most popular and widely used
+- Clement and AdvanceAmeyaw's plans for engagement at the ETHiopia conference
+
+- How we keep track of, and follow up on, issues that were raised in the retrospective sessions for previous Quarters' budget decisions
+
+- How we assess WG outputs and work quality - for example, video view numbers 
+
+- What our priorities are as a Program for WGs' work
+
+- Is it easier to critique some kinds of WG outputs than others (e.g. outputs that are more quantifiable); and might that lead to some WGs getting harsher critiques than others?
+
+- How Thursday meetings should go in future - open space, perhaps not recording, perhaps more minimal documentation, discussion of Governance concepts, particularly decentralised governence, rather than making decisions - but with the exception that we might carry over any pending agenda from Tuesdays sessions
+- Tuesdays are the decision-making meeting - Thurs is gentler
+- How to document discursive meetings of this nature - whether simply logging the topics covered would allow the knowledge graph approach that Archives WG is developing to track those topics easily
+
+#### Decision Items:
+- We agreed that when Clement and AdvanceAmeyaw return from the ETH conference and a retrospective/ feedback session is held, it might be useful to invite Felix.
+  - [**rationale**] Due to his longtime work on cross-chain collaboration.
+  - [**opposing**] none
+  - [**effect**] mayAffectOtherPeople
+- We agreed that the doc "Retrospectives from the past" https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit?usp=sharing should be updated with material from the Q1 budget retrospective
+  - [**rationale**] Because we need to keep track of issues and follow up on them
+  - [**effect**] mayAffectOtherPeople
+- We will document this meeting in quite a minimal way
+  - [**rationale**] as part of Archives WG's current experiments with knowledge graphs, to see if minimal documentation still enables us to track topics as they develop and are discussed in different sessions
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** cross chain collaboration, Ethereum, cross-chain mindset, Thursday vs Tuesday meeting style, retrospectives, open space, WG outputs, assessing outputs, work quality, adoption, Africa, Documentation, minimal documentation, knowledge graphs
+- **emotions:** Discursive, gentle, wide-ranging, low attendance, calm
