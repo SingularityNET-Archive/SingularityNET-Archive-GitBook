@@ -4,6 +4,13 @@ description: Mon 6th Jan - Sun 12th Jan 2025
 
 # Week 02
 
+## Monday 6th January 2025
+
+### AI Ethics WG
+
+Meeting was cancelled
+
+
 ## Tuesday 7th January 2025
 
 ### Governance Workgroup
