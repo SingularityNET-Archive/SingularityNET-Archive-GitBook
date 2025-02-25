@@ -501,6 +501,7 @@ So the final decision was to discuss Strategy Guild further in Thursday's Open G
 
 
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -668,6 +669,12 @@ The meeting concluded with plans for future meetings and a reminder to communica
 #### Keywords/tags:
 - topics covered: African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates, change meeting time, documentation, meeting time, AI Ethics expo, progress, meeting summaries, Governance WG, members' collective, AAG token, 
 - emotions: Friendly, funny, cool, speedy, Thoughtful 
+
+
+
+### Governance Workgroup
+
+No Summary Given
 
 
 ## Friday 12th July 2024
