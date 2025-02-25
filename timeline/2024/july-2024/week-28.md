@@ -672,11 +672,6 @@ The meeting concluded with plans for future meetings and a reminder to communica
 
 
 
-### Governance Workgroup
-
-No Summary Given
-
-
 ## Friday 12th July 2024
 
 
