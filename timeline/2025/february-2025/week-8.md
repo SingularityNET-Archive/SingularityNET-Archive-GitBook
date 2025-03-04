@@ -63,3 +63,69 @@ and the "Submit your WG budgets" will be posted together with links to the Budge
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, WG reserves, Reserves, WG Sync calls, Core Contributors , publicity, Infographics, consent process, minimum budgets
 - **emotions:** gloomy, decisive, Organised
+## Thursday 20th February 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], martinsoki, CallyFromAuron [**documenter**], PeterE, CallyFromAuron, AshleyDawn, guillermolucero, martinsoki, LordKizzy, LadyTempestt, Effiom, advanceameyaw, Évéline Trinité
+- **Purpose:** Weekly Open Governance meeting
+- **Working Docs:**
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [“Budget caps for Q2” discussion](https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Ambassador Program Core Contributors criteria](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing)
+
+#### Narrative:
+We noted that in Q1, Process Guild voluntarily gave up 1,000 AGIX to help with budget fitting (reducing their cap from 2,000 to 1,000); so this should be restored in Q2. Since we have already said that budget caps will remain the same this Quarter as they were in Q1, the only way to do this is to give Process Guild 1,000 AGIX from Program reserves.
+We also agreed that we definitely need to reassess budget caps for Q3; and that this should be done in the light of the discussion on minimum budgets (the minimum a WG needs in order to operate).
+
+Anonymity: 
+Peter noted that it can be difficult to resolve objections when the objectors are not present in the meeting and prepared to "un-anonymise" themselves. 
+
+Vani said it can be difficult to raise concerns - especially serious, "whistle-blowing" type concenrns - without anonymity. How will we make sure the space feels safe to raise things?
+
+We recapped the point made in the previous meeting that the process is *not* anonymous now, because anyone with access to the Ambassador Gmail account can see who said what - but it's not clear if people fully realise that.
+
+LordKizzy confirmed that the Governance dashboard being developed in R&D Guild will keep user identities anonymous to the public, but admins will still have access to this information - this raises the question of who should be an admin. 
+
+LadyTempestt stated that she doesn't feel OK raising issues in the budget consent forms ever since she found out that it is not confidential, so she just abstains. 
+
+We noted that it would be possible to create the consent forms on a different Google account that only 1 person has access to (perhaps Peter, given his particular role in the ecosystem). 
+
+Guillermo said that a non-anonymous consent process can foster a stronger community. When you fear to give your opinion whatever it is, it's not good - raising concerns openly will improve our professional relationships and help us learn to accept criticism. The planned Governance dashboard hopes to address this, and to make it easier for people to raise concerns transparently. 
+Vani said that while this *can* work, sometimes lack of anonymity means people give less honest feedback; so we get an apparent "consensus" that isn't real. Also, any negative effects of removing anonymity are likely to fall more heavily on those who are already marginalized, or who feel the least confident or the least safe.
+Guillermo countered that having anonymity can make it more likely that people will raise unfair or nonsense concerns.
+Kizzy pointed out that if people do not attend the discussion meetings, they don't know that their concern has been resolved, and will raise it again next time, so we go round in circles.
+Guillermo suggested we could make it an option when the new Governance dashboard is built - people could choose whether or not they want to be anonymous.
+Vani referenced a previous Governance meeting where it was suggested that we need an independent person or group who maintain oversight, but are not otherwise involved in budget decisions, and are neutral. It was agreed back then that it would be difficult to find such a person
+
+We noted that by the end of Q2, the Governance dashboard should be ready, and this might change things - so this Quarter might be the only chance we get to try out a non-anonymous consent process and see how it goes.
+
+We checked the new sheet for Q2 which LordKizzy has added to the Budget Planner, and agreed the additions he needed to make to it.
+
+
+#### Discussion Points:
+- Process Guild's budget cap for Q2 2025
+- Need to reassess budget caps for Q3
+- Anonymity in decision-making
+- New Q2 sheet in the Budget Planner
+
+#### Decision Items:
+- We decided to add 1,000 AGIX from Program Reserves to Process Guild's Q2 budget cap
+  - [**rationale**] because Process Guild agreed last Quarter to voluntarily give up 1,000 AGIX to help with budget-fitting, but this was only ever intended as a temporary measure. When we agreed in a previous meeting that budget caps should stay the same as they were for Q1, we forgot about this.
+  - [**effect**] mayAffectOtherPeople
+- We agreed that we will reassess / recalculate the budget caps for Q3, and will do it in the light of discussion of WG budget minimums
+  - [**rationale**] Several WGs are unhappy with their caps; and we cannot continue to "top up" Process Guild from reserves indefinitely; so there needs to be an adjustment; and we need to ensure that minimums are covered.
+  - [**effect**] mayAffectOtherPeople
+- We agreed to continue the discussion on anonymity next meeting.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani and Peter to share Guillermo's infographics regularly over the next few weeks, together with links to relevant docs [**assignee**] CallyFromAuron [**due**] 10 March 2025 [**status**] todo
+- [**action**] Peter to create an anonymous Googleform to ask people whether they have ever not said what they think in the consent process because it is not anonymous. [**assignee**] PeterE [**due**] 27 February 2025 [**status**] todo
+- [**action**] LordKizzy to make agreed tweaks to the new sheet in the budget planner, adding formulae and budget cap totals. [**assignee**] LordKizzy [**due**] 27 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q2 2025 budget, Reserves, consent process, Process Guild, Budget caps, anonymity, R&D guild, governance dashboard, safe space
+- **emotions:** decisive, Organised, Interactive, thoughtful
