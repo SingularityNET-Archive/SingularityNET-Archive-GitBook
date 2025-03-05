@@ -575,6 +575,7 @@ Meeting was cancelled
 ## Friday 19th July 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -652,3 +653,7 @@ Following the revamped marketing guild, marketing wants to join forces with the 
 #### Keywords/tags:
 - topics covered: Zealy, Medium, community page, Drafts, Zealy sprint, winners, Onboarding, Dework, Tasks, Giveaway/airdrop
 - emotions: Welcoming, Collaborative, insightful, calm
+
+### Marketing Guild
+
+No Summary Given
