@@ -675,6 +675,7 @@ No Summary Given
 ## Friday 9th August 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -779,3 +780,7 @@ We agreed to do a delegation process, where scribblers will signpost other scrib
 #### Keywords/tags:
 - topics covered: Zealy, Points system, Task updates , Onboarding, WWG Test, Twitter, sprinters, Governance, Q3 Updates, tools, Townhall, Cogito, medium, Q3 2024 report, Q4 2024 budget
 - emotions: Collaborative, informative, insightful, forward-thinking
+
+### Marketing Guild
+
+No Summary Given
