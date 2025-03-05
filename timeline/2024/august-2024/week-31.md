@@ -6,6 +6,7 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 
 ## Thursday 1st August 2024
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -66,6 +67,11 @@ description: Mon 29th Jul - Sun 4th Aug 2024
 - topics covered: Town hall updates, onboarding journeys, GitHub project management training, skillshare matrix, Decentralization,  open governance, meeting facilitation, Documentation, mentorship,
 - emotions: informative, insightful, Collaborative, supportive,  forward-looking
 
+
+
+### African Guild
+
+No Summary Given
 
 ## Friday 2nd August 2024
 
