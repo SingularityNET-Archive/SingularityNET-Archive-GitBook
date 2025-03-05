@@ -470,6 +470,7 @@ The various allegations are listed here https://docs.google.com/document/d/140EU
 
 ## Friday 20th September 2024
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -502,3 +503,7 @@ Lastly, we went over the Q4 budget concerns that were raised by the objectors. S
 #### Keywords/tags:
 - **topics covered:** Quizcord bot, Peer-review, Zealy, Twitter, Triva, Q4 2024 budget, Q2 2024 KPI
 - **emotions:** insightful, Discursive, speedy, calm
+
+### Video Workgroup
+
+No Summary Given
