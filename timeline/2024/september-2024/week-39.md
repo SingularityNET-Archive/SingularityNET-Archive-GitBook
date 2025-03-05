@@ -526,6 +526,7 @@ Event Update: Duke shared an update on the forthcoming "Ubuntu and AI" event in 
 ## Friday 27th September 2024
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -598,6 +599,11 @@ Budget Update: We tackled the budget discussion together. Following a discussion
 #### Keywords/tags:
 - **topics covered:** Onboarding, Documentation, Ambassador Program marketing, Zealot, mascot, chatbot, Notion, Q4 2024 budget,  
 - **emotions:** Friendly, warm, ideas, progressive
+
+### Video Workgroup
+
+No Summary Given
+
 ## Saturday 28th September 2024
 
 ### Gamers Guild
