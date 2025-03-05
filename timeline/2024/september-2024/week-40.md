@@ -8,6 +8,7 @@ description: Mon 30th Sep - Sun 6th Oct 2024
 
 
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -216,3 +217,7 @@ We went onto tasks in “to-do”;
 #### Keywords/tags:
 - **topics covered:** Event in Nigeria, Budget , Interviews, Documentation
 - **emotions:** quiet, timely, Deliberative
+
+### Strategy Guild
+
+No Summary Given
