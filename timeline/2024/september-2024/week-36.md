@@ -8,6 +8,7 @@ description: Mon 2nd Sep - Sun 8th Sep 2024
 
 
 
+
 ### Treasury Automation WG
 
 - Type of meeting: Monthly
@@ -257,6 +258,11 @@ Q4 budget:
 - topics covered: Miro Board, Q3 Report, Q4 Proposal, Consent Recognition, Ambassador Account, Permissions, Access, Treasury Policy, Swarm account, privacy, confidentiality, MINS, Slow Start, deliverables, reporting, quorum, access
 - emotions: interactive, decisive, interesting
 
+
+
+### Strategy Guild
+
+No Summary Given
 
 ## Wednesday 4th September 2024
 
