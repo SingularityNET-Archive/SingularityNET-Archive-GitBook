@@ -164,6 +164,7 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 ## Wednesday 11th September 2024
 
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -244,6 +245,11 @@ A.O.B - Ayo expressed gratitude to the participants and provided an overview of 
 - **topics covered:** Presentation, CCCP, Q4 2024 Budget Request, Q3 2024 Quarterly Report, ideation
 - **emotions:** productive,  Collaborative, Businesslike.
 
+
+
+### Dework PBL
+
+No Summary Given
 
 ## Thursday 12th September 2024
 
