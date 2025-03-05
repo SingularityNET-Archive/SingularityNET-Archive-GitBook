@@ -362,6 +362,7 @@ Members discuss and explore options for collaboration systems over voting system
 
 ## Thursday 29th August 2024
 
+
 ### LatAm Guild
 
 - **Type of meeting:** Biweekly
@@ -445,6 +446,11 @@ The team reviewed pending decisions related to governance, particularly the deve
 - **emotions:** Collaborative, Strategic, Task-focused
 - **other:** 
 
+
+
+### African Guild
+
+No Summary Given
 
 ## Friday 30th August 2024
 
