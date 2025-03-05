@@ -254,6 +254,7 @@ No Summary Given
 ## Thursday 12th September 2024
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Weekly
@@ -397,6 +398,11 @@ To be discussed next meeting, on Tues 17th. (Love).
 - **topics covered:** budget process, AGIX or USD, Budget fitting, budget percentage allocations, budget tiers, tiers, what do we value, aims of Ambassador program, token price fluctuation, operational budgets, project budgets, workgroup autonomy, safe to try, new budget processes, retrospective, priorities, budget priorities, new workgroups process, merging Workgroups, workgroup outputs
 - **emotions:** Casual, talkative, free to discuss, long, participatory, wide-ranging, not decisive, Discursive
 
+
+
+### African Guild
+
+No Summary Given
 
 ## Friday 13th September 2024
 
