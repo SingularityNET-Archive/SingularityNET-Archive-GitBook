@@ -582,6 +582,7 @@ Tag for Members: A tag for African Guild members will be created to better ident
 ## Friday 26th July 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -658,6 +659,11 @@ Ayo, from the Strategy Guild, talked about the forthcoming workshop scheduled fo
 #### Keywords/tags:
 - topics covered: Scribblers, Cogito, Workshop, Strategy Guild, Zealy, Points system, meeting agenda, Spinoffs, July Recap, Summay tool, Meeting summary
 - emotions: Welcoming, Collaborative, Businesslike., inquisitive, funny
+
+### Marketing Guild
+
+No Summary Given
+
 ## Saturday 27th July 2024
 
 ### Gamers Guild
