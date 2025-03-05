@@ -76,6 +76,7 @@ No Summary Given
 ## Friday 2nd August 2024
 
 
+
 ### Writers Workgroup
 
 - Type of meeting: Weekly
@@ -155,3 +156,7 @@ Following that, Devon shared updates from the video reviews on Zealy. As a matte
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format, animation, animation platforms, MIXpost, video quality, social media, social media automation
 - emotions: Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy, decisive, Friendly
+
+### Marketing Guild
+
+No Summary Given
