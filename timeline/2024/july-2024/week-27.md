@@ -567,6 +567,7 @@ We raised the issue of anonymity - Vani believes consent forms should stay anony
 ## Friday 5th July 2024
 
 
+
 ### Writers Workgroup
 
 - Type of meeting: Weekly
@@ -638,3 +639,7 @@ As a matter of finality, Kenichi announced the launch of the new “Mindplex Ser
 #### Keywords/tags:
 - topics covered: Weekly updates, Budget Reduction, Budget, Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production
 - emotions: Casual, speedy , productive, Organised, Thoughtful, warm
+
+### Marketing Guild
+
+No Summary Given
