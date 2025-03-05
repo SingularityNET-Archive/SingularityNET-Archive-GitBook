@@ -489,6 +489,7 @@ Mention of the initial discussions on the Q4 budgets decisionmaking process, and
 
 
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -665,6 +666,11 @@ Create Dework taks and issues for budget disbursement by the end of month. Track
 
 Meeting was cancelled 
 
+
+
+### African Guild
+
+No Summary Given
 
 ## Friday 9th August 2024
 
