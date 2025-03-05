@@ -78,6 +78,82 @@ This will be discussed in a later meeting.
 #### Keywords/tags:
 - **topics covered:** budget caps, Q2 2024 budget, consent process, timeline, token price, Exchange rates, Q1 quarterly report, New ideas, Process for agreeing new workgroups
 - **emotions:** Good natured, low attendance, Discursive, progress made
+## Wednesday 5th February 2025
+
+### Archives Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Stephen [QADAO] [**facilitator**], CallyFromAuron [**documenter**], André, CallyFromAuron, Stephen [QADAO], hogantuso, Clement Umoh, AshleyDawn, évéline trinité
+- **Purpose:** Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- **Meeting video:** [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- **Working Docs:**
+  - [Archives Dashboard ](https://archives-dashboard.netlify.app)
+  - [Q1 2025 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [Archive names (a list of the name that people are most commonly known by in the Archives)](https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing)
+  - [GitHub Issue for this meeting ](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/245)
+  - [Q1 2025 DRAFT Quarterly report for Archives WG](https://docs.google.com/document/d/1JUyVzyjeGJkFkjtzkqk-glsqzdUqlIZ5LdOwWM5OGJY/edit?usp=sharing )
+
+#### Decision Items:
+- We noted that given current low-ish token price, we're not able to start the proposed initiative to create a skilled documentation team. 
+
+We'll review this next meeting
+We might look at creating a video walkthrough for the new version of the summary tool, as a cheaper way to show people how to use it.
+  - [**rationale**] We had this in our Q1 budget: "If token price rises sufficiently above $0.55" (the exchange rate at which Q1 budgets were calculated). Price hasn't risen enough.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Our Quarterly Report draft is open for comments and changes - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/231
+  - [**rationale**] Needs to be submitted on 10th March - so we will sign it off in our next meeting on 5th March
+  - [**effect**] affectsOnlyThisWorkgroup
+- We noted that there is a new repo for the new version of the summary tool - see https://github.com/Quality-Assurance-DAO/archive-tool/commits/main/?since=2025-01-01&until=2025-01-31
+  - [**effect**] affectsOnlyThisWorkgroup
+- André, tool development: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/240
+We noted that André has been working on an Autosave feature for the Summary Tool - he has it locally, and it will soon be rolled out.
+
+  - [**effect**] mayAffectOtherPeople
+- We discussed the suggestion (from a Treasury meeting last month) of adding a feature to the Summary Tool for data capture for decisions made outside of WG meetings (for example, the quarterly budget decisions). We considered doing this as a new summary template, but decided against this approach, and will keep ideating
+  - [**rationale**] because it might make us too constrained in how we capture these kinds of decisions
+  - [**effect**] mayAffectOtherPeople
+- We noted that Stephen has completed and shared his presentation on philosopher Robert Stalnaker's approach to context, and its relation to AI ethics https://youtu.be/VhYfA0ehw3w?si=N0tc_AW6T3Bx7duU
+  - [**effect**] mayAffectOtherPeople
+- Open source workflow, Stephen: Stephen has been doing some didactic work to document his thinking on what might be a best-practice approach to applying AI to records. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/233. 
+
+He is working towards a presentation on graph data modelling, and another on how to audit graph data.
+  - [**effect**] mayAffectOtherPeople
+- LLM development: 1st release of graph database in Python is now complete.
+
+Stephen has used a single meeting summary (a Governance meeting from several months ago) as a demonstration of the graph process. He translates the JSON meeting data to a graph structure using Python, then  moves it to a Neo4j graph database, and has been working on suggestions for how to query it and verify that it makes sense.
+
+For the rest of February he will be 
+- enhancing this so it is easier to use
+- adding additional records to it to see how it handles the connections between different summaries
+- adding an additional layer of data, from the Archives WG GitHub Board https://github.com/orgs/SingularityNET-Archive/projects/1/views/3
+  - [**opposing**] Note that labels are not properly formulated yet - they are taken from the first part of the node name.
+  - [**effect**] mayAffectOtherPeople
+- Ethics policy: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/234 When this is done, we agreed we will share it in AI Ethics WG and the AI Ethics forum on Discord for further input.
+  - [**effect**] mayAffectOtherPeople
+- Tag taxonomy: We agreed that perhaps we do not need to completely dedupe the entire database - but a controlled vocab for tags might still be useful for the future
+  - [**rationale**] Because the knowledge graph approach we are now using allows for more "messy" data, but we nevertheless need to use proper techniques to organise material. Semantic similarity is of course one approach to finding connections - but for some data elements (e.g. people's names) this doesn't work, as names are abstract and won't display any semantic relation - so this makes a controlled vocab for names more important.
+
+For tags, however, a graph *can* find sematic similarity between different-but-similar tags - especially the emotional tags - so we might not need to be so assiduous in ensuring that similar tags ("discursive" vs "exploratory" or whatever) are deduped.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Names taxonomy: we agreed we do need to add "All", 
+  - [**rationale**] because it is quite often used to asssign action items that everyone in the WG is going to do.
+  - [**effect**] mayAffectOtherPeople
+- We noted that there is a sense in which Read.ai and other generic AI tools erase who we are as a community if they are used uncritically. 
+
+They have been designed to understand conventional business and corporate contexts; soi when they ceate meeting summaries for us, they tend to write them as though we are that kind of organisation. Lacking any context about decentralised communities and how they work, AI summaries can subtly miss the point, and can force a record that suggests the Ambassador Program operates like a corporate environment. 
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?
+
+and discuss how the Archives dovetails with documentation that DF is doing itself, such as https://community.deepfunding.ai/ [**assignee**] CallyFromAuron [**due**] 19 February 2025 [**status**] todo
+- [**action**] We noted an issue with tags - people are copy-pasting strings of comma-separated tags into the summary tool, but they are not rendering as separate tags, but as strings. Andre will look into this. [**assignee**] André [**due**] 5 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics
+- **emotions:** Discursive, interesting, progressive, wide-ranging
+
+
 ## Thursday 6th February 2025
 
 ### Governance Workgroup
