@@ -503,6 +503,7 @@ No Summary Given
 ## Thursday 5th September 2024
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Weekly
@@ -624,6 +625,11 @@ We briefly revisited the discussion on "Increasing participant numbers, with a n
 - **topics covered:** More participants, less budget, Q4 2024 budgets, budget submission dates, timeline, Q3 2024 quarterly reports, core contributors, Town Hall, Dework, Decision Making Process, consent decision making, consensus decision making, consultative decision making, abstention, abstain, late budget submission, anonymous, anonymity, opt-in, aleatory, jury, sortative, weighted voting, vote, voting, community engagement, Iteration, listening, dashboard
 - **emotions:** Casual, talkative, open, wide-ranging
 
+
+
+### African Guild
+
+No Summary Given
 
 ## Friday 6th September 2024
 
