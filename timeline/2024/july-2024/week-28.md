@@ -675,6 +675,7 @@ The meeting concluded with plans for future meetings and a reminder to communica
 ## Friday 12th July 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -755,6 +756,11 @@ As a matter of finality, Ayo added that we should always give consent to new pro
 - emotions: forward-thinking, Collaborative, productive, interesting
 - other: Introduction by AJ , Writers and Translation wg collabration, WWG Podcast
 
+
+
+### Marketing Guild
+
+No Summary Given
 
 ## Saturday 13th July 2024
 
