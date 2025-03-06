@@ -167,6 +167,7 @@ February: Looking at other decisionmaking processes besides consent - we said th
 ## Wednesday 11th December 2024
 
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -269,6 +270,11 @@ Most agreed
 - **topics covered:** CCCP, certification, certification program, Wiki, Education website, website design, logo, Ai For Beginners, Task Assignment, review, integration, holidays
 - **emotions:** productive,  Collaborative, Businesslike
 
+
+
+### LatAm Guild
+
+No Summary Given
 
 ## Thursday 12th December 2024
 
