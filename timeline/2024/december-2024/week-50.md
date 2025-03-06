@@ -400,6 +400,7 @@ where he highlighted the
 
 ## Friday 13th December 2024
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -431,3 +432,7 @@ INTRODUCTION OF NEW MEMBER:
 #### Keywords/tags:
 - **topics covered:** Video Edit, Holidays, New members
 - **emotions:** Friendly, speedy, Collaborative
+
+### Marketing Guild
+
+No Summary Given
