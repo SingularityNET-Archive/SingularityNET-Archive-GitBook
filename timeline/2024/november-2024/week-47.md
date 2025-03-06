@@ -215,6 +215,7 @@ Topics
 
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -449,6 +450,11 @@ Planning with the 4k AGIX cap
 #### Keywords/tags:
 - **topics covered:** GitBook, Miro Board, Q4 2024 report, Retrospective, GitHub, Q1 2025 proposal
 - **emotions:** Collaborative, Discursive
+
+### Writers Workgroup
+
+No Summary Given
+
 ## Saturday 23rd November 2024
 
 ### Gamers Guild
