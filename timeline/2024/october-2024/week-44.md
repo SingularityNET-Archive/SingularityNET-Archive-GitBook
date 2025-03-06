@@ -180,6 +180,7 @@ No Summary Given
 
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Biweekly
@@ -330,3 +331,7 @@ Discussion on Contest and Community Engagement: Ese is thinking of taking it out
 #### Keywords/tags:
 - **topics covered:** AMA Session Updates, community engagement, Marketing initiative, Partnership, Collaboration, Remostart, Starhive, Beta Africa, Indigenous tooling, research, Africanize, UGC, user-generated content, ASI token, ASI Alliance, X spaces, Onboarding
 - **emotions:** informative, short, Thoughtful , funny
+
+### WG Sync Call
+
+No Summary Given
