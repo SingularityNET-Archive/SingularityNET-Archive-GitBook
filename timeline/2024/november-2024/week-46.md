@@ -6,6 +6,7 @@ description: Mon 11th Nov - Sun 17th Nov 2024
 
 ## Monday 11th November 2024
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -93,6 +94,11 @@ Why do we need to give representatives' emails? [**status**] todo
 - **topics covered:** Miro Board, Translation WG, Marketing Guild, budget categories, treasury operators, training treasury operators, training, content calendar, Q4 2024 quarterly report, Q1 2025 budget
 - **emotions:** wide-ranging, Discursive, reflective, well organised
 
+
+
+### Strategy Guild
+
+No Summary Given
 
 ## Wednesday 13th November 2024
 
