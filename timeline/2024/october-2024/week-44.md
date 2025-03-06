@@ -6,6 +6,7 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 
 ## Monday 28th October 2024
 
+
 ### Treasury Automation WG
 
 - **Type of meeting:** Monthly
@@ -117,6 +118,11 @@ description: Mon 28th Oct - Sun 3rd Nov 2024
 
 #### Keywords/tags:
 - **topics covered:** JSON generator, duplicate recognition, end-to-end testing, database, Treasury system, date formatting, API, API development, API Readiness, budget filtering, participant import, Zoom API integration, Q4 2024 roadmap, metadata standard, participant rewards, participant reward management, task group assignment, UX
+
+### Strategy Guild
+
+No Summary Given
+
 ## Wednesday 30th October 2024
 
 ### Research and Development Guild
