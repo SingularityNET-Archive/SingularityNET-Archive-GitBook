@@ -100,6 +100,12 @@ Why do we need to give representatives' emails? [**status**] todo
 
 No Summary Given
 
+## Tuesday 12th November 2024
+
+### Governance Workgroup
+
+Meeting was cancelled
+
 ## Wednesday 13th November 2024
 
 
