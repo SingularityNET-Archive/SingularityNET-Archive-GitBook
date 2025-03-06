@@ -95,6 +95,7 @@ We asked if anyone objects to this initiative becoming a reality and if they thi
 ## Wednesday 27th November 2024
 
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -189,6 +190,11 @@ We asked if anyone objects to this initiative becoming a reality and if they thi
 - **topics covered:** CCCP, core contributors, certification, wiki, education website, fairness, quizzes, time limit
 - **emotions:** productive,  Collaborative, Businesslike.
 
+
+
+### LatAm Guild
+
+No Summary Given
 
 ## Thursday 28th November 2024
 
