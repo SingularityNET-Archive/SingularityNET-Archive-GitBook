@@ -7,6 +7,7 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 ## Monday 14th October 2024
 
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -150,6 +151,11 @@ description: Mon 14th Oct - Sun 20th Oct 2024
 - **topics covered:** Miro Board, Budget fitting, Q4 2024 budget, github board, forward planning
 - **emotions:** Organised, progress-oriented, informative, progressive, decisive
 
+
+
+### Strategy Guild
+
+No Summary Given
 
 ## Tuesday 15th October 2024
 
