@@ -6,6 +6,7 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 
 ## Monday 18th November 2024
 
+
 ### GitHub PBL WG
 
 - **Type of meeting:** Monthly
@@ -56,6 +57,11 @@ description: Mon 18th Nov - Sun 24th Nov 2024
 - **topics covered:** Andamio, WG Management, GitHub PBL Structure, drafting questions, Google Docs, Discord, Q4 2024 report, Q1 2025 budget
 - **emotions:** Collaborative, Thoughtful , Deliberative, progressive, decisive
 
+
+
+### Strategy Guild
+
+No Summary Given
 
 ## Wednesday 20th November 2024
 
