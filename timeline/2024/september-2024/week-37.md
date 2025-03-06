@@ -407,6 +407,7 @@ No Summary Given
 ## Friday 13th September 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -479,6 +480,11 @@ No Summary Given
 - **topics covered:** Governance, Ambassador Program marketing, Q4 2024 budget, Notion, Proposal
 - **emotions:** Thoughtful, engaging, Deliberative, differing opinions, good to hear differing opinions
 
+
+
+### Writers Workgroup
+
+No Summary Given
 
 ## Saturday 14th September 2024
 
