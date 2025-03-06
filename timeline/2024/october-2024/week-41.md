@@ -454,6 +454,7 @@ Use of cameras during the meeting: There was a suggestion for people to have the
 ## Friday 11th October 2024
 
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -532,6 +533,11 @@ More on the Budget: Kenichi also shared a brighter outlook on the budget by disc
 - **topics covered:** Treasury, Multisig, wallet, Pending rewards , Stablecoins , AGIX, Q4 2024 budget, offsetting budget, AGIX price
 - **emotions:** short, discursive , forward-thinking
 
+
+
+### Video Workgroup
+
+No Summary Given
 
 ## Saturday 12th October 2024
 
