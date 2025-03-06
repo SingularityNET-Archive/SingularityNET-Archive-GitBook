@@ -125,6 +125,7 @@ No Summary Given
 
 ## Wednesday 30th October 2024
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Weekly
@@ -170,6 +171,11 @@ No Summary Given
 #### Keywords/tags:
 - **topics covered:** Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, survey, Hackathon, Fetch, Solana, Copa America, content calendar, Marketing Guild, onboarding WG, Collaboration Skills Database
 - **emotions:** Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive
+
+### Education Workgroup
+
+No Summary Given
+
 ## Thursday 31st October 2024
 
 
