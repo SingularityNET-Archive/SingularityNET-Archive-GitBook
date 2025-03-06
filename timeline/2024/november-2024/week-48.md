@@ -6,6 +6,7 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 
 ## Monday 25th November 2024
 
+
 ### Treasury Automation WG
 
 - **Type of meeting:** Monthly
@@ -39,6 +40,11 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 - We shared the Q1 2025 proposal https://docs.google.com/document/d/13nenax4GhArFaISTrDq1zGmO6ClwphhNQl2c7pp-cSU
 
 
+
+
+### Strategy Guild
+
+No Summary Given
 
 ## Tuesday 26th November 2024
 
