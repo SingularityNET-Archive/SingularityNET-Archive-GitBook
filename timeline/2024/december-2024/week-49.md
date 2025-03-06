@@ -353,6 +353,7 @@ Overall, the meeting agreed that the points raised have been sufficiently answer
 ## Friday 6th December 2024
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -424,6 +425,11 @@ Kenichi emphasized aligning the ambassador program's outreach strategies with th
 #### Keywords/tags:
 - **topics covered:** Governance, Roles, task assignment, members, member performance, participation, low participation, Analytics team, outreach, technical tools, tooling, Notion, Tally, Airtable, Zapier, 
 - **emotions:** Thoughtful, Collaborative, analytical, informative
+
+### Writers Workgroup
+
+No Summary Given
+
 ## Saturday 7th December 2024
 
 ### Gamers Guild
