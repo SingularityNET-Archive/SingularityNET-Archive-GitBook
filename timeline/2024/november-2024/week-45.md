@@ -493,6 +493,7 @@ Update the founding members
 
 ## Thursday 7th November 2024
 
+
 ### AI Sandbox/Think-tank
 
 - **Type of meeting:** Think-Tank
@@ -549,6 +550,11 @@ From the proposition team, Advanceameyaw stated that those in certain regions ha
 - **topics covered:** AI impact on education, technology and education, personalized learning, AI and emotional intelligence, AI and social support, problem-solving, teachers, students, data privacy, data security, Internet access, Africa, barriers to Internet access, barriers to learning, barriers, Translation, Language exclusion, job displacement, accessibility, equality, underdeveloped communities, tool design, inequality in tool design, rural, rural exclusion, access to education, low income, hybrid learning, blended learning, encryption, administrative tasks, AI and administrative tasks, AI's effect on human cognitive ability
 - **emotions:** interactive, educational, productive, entertaining
 
+
+
+### African Guild
+
+No Summary Given
 
 ## Friday 8th November 2024
 
