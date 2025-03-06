@@ -6,6 +6,7 @@ description: Mon 2nd Dec - Sun 8th Dec 2024
 
 ## Monday 2nd December 2024
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -67,6 +68,11 @@ Survey Sharing: We have tested the survey and so far it just needs some small tw
 - **topics covered:** Interviews, Q3 and Q4 Interviews, AI Ethics Events, Q1 budget, survey sharing, payments, rewards, AGI-24, sNET Foundation, AGIX price, budget reallocation, admin roles, mentorship, co-chair, attendance at events, 
 - **emotions:** Deliberative, quiet, funny 
 
+
+
+### Knowledge Base Workgroup
+
+No Summary Given
 
 ## Wednesday 4th December 2024
 
