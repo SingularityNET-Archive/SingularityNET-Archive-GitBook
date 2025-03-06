@@ -7,6 +7,7 @@ description: Mon 2nd Dec - Sun 8th Dec 2024
 ## Monday 2nd December 2024
 
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -71,6 +72,11 @@ Survey Sharing: We have tested the survey and so far it just needs some small tw
 
 
 ### Knowledge Base Workgroup
+
+No Summary Given
+
+
+### Strategy Guild
 
 No Summary Given
 
