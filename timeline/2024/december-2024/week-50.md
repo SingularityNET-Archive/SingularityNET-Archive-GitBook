@@ -6,6 +6,7 @@ description: Mon 9th Dec - Sun 15th Dec 2024
 
 ## Monday 9th December 2024
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -80,6 +81,11 @@ We also mentioned the issue of how to decide who is able to (for example) repres
 #### Keywords/tags:
 - **topics covered:** sNET mission and vision, inclusion, Africa, LatAm, carbon footprint, diversifying, SingularityNET Foundation, Foundation, Ambassador Program reserves, reserves, BeGIN, fishbowl interviews, interviewing, research, qualitative research, Ethics, Decentralization, AI ethics, consultative decision-making, mentorship
 - **emotions:** calm, Organised, ideas, exploratory
+
+### Strategy Guild
+
+No Summary Given
+
 ## Tuesday 10th December 2024
 
 ### Governance Workgroup
