@@ -7,6 +7,7 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 ## Monday 17th June 2024
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -136,6 +137,11 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 #### Keywords/tags:
 - topics covered: Miro Board, Google Form, Treasury Policy, Minimum Requirements, Requirements, Guidelines, Quiet Session
 - emotions: bit quiet
+
+### Strategy Guild
+
+No Summary Given
+
 ## Wednesday 19th June 2024
 
 
