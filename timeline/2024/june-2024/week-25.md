@@ -142,6 +142,67 @@ description: Mon 17th Jun - Sun 23rd Jun 2024
 
 No Summary Given
 
+## Tuesday 18th June 2024
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Felix [**facilitator**], LadyTempestt, CallyFromAuron [**documenter**], Felix, CallyFromAuron, billy, PeterE, esewilliams, nick, Ayo, LordKizzy, guillermolucero, Sucre n Spice, Duke, gavriel, Edet, martinsoki, photogee
+- **Purpose:** Weekly Governance WG meeting
+- **Working Docs:**
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [“Budget caps for Q2” discussion](https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing)
+  - [DRAFT process for how to use the "New Ideas" budget](https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Governance WG Q4 2024 report ](https://docs.google.com/document/d/1hodB7gcG0JkJxlvAGs15mDtYmzReuLNPvuGE9UDUgE4/edit?usp=sharing)
+  - [GovWG budgets](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
+  - [Context setting for Core Contributor decision on Q1 2025 budgets](https://docs.google.com/document/d/1fyZZLDqeeoDanbzyY7c9m7sy_hU5w9v5niuR4m521ms/edit?usp=sharing)
+  - [Ambassador Program Core Contributors criteria](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing)
+
+#### Narrative:
+- Governance WG Budget/Report: We agreed to submit the same budget as the previous quarter Felix will get to it soon and also draft the Q2 report. 
+
+- Additional Governance Sessions: Do we host an open call to discuss governance topics concerning other WG or just check with the Strategy and Marketing Guild concerning the dates? This is mostly related to Marketing and Strategy Guilds needing some kind of support from us. Our fixed agenda for the month makes us less flexible in reacting to timely Governance changes or matters arising. The idea is to have it for a few weeks and then quit if it is no longer needed or helpful.
+
+- Next decision-making processes: What do we want to improve? From the retrospective we did, we found out that the timeline for the budget decision-making process is a bit rushy as people need more time to fill out stuff and the whole process was not announced properly. We discussed stretching out the timeline a bit even into Q4 and better communication patterns by possibly bringing it to everyone’s attention at Ambassador Townhall. There will also be monthly WG Leads’ Call starting next week. Will a step-by-step easy explainer video do the trick? Or a better resharing of the context setting document created by the onboarding WG? We want something self-explaining about the whole decision-making process for approving budgets. 
+
+- Multi WG/Guilds Leads: We discussed workgroups deciding on internal representatives and the responsibilities of appointed leads, with a debate on whether formal leadership roles or a more shared approach to organizing tasks within workgroups would be more effective. We also considered the idea of co-leads in certain workgroups,  alongside discussions on resource allocation for timestamping and archiving.
+
+- Upcoming Town Hall Presentation:
+Felix and Vani reviewed a presentation for the Town Hall meeting, ensuring alignment with the focus on budget and governance.  
+
+- Lumio Video Update:
+Duke Peter provided an update on the Lumio video, with Felix reassuring him there was no rush. 
+
+
+
+#### Discussion Points:
+- Governance WG Budget/Report
+- Additional Governance Sessions
+- Next decision-making processes
+- Multi WG/Guilds Leads
+- Upcoming Town Hall Presentation
+- Lumio Video Update
+
+#### Decision Items:
+- We will host open governance calls on Thursdays by 14:00 UTC and start out with the Marketing and Strategy Guild.
+  - [**effect**] mayAffectOtherPeople
+- There will be weekly governance calls to address ongoing topics and feedback. 
+  - [**effect**] mayAffectOtherPeople
+- Ese will be paid to add Felix's old documentation to the summary tool
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Felix to initiate discussions for weekly governance calls and finalize the proposed schedule.   [**assignee**] Felix [**status**] todo
+- [**action**] Duke to possibly create an easy explainer video on the consent decision making process for budgets. [**assignee**] Duke [**status**] todo
+- [**action**] Felix and Vani will set up documents and budgets for governance workgroup tasks, particularly for archiving and onboarding.   [**assignee**] Felix, CallyFromAuron [**status**] done
+- [**action**] Felix and Vani will refine the Town Hall presentation to ensure it aligns with budget and governance topics. [**assignee**] Felix, CallyFromAuron [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance, WG Budget, Guild Leads, Town Hall Presentation.
+- **emotions:** Interesting, contributive, engaging
+
+
 ## Wednesday 19th June 2024
 
 
