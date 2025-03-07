@@ -529,6 +529,7 @@ No Summary Given
 ## Friday 28th June 2024
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly
@@ -596,6 +597,11 @@ The meeting ended with Kenichi announcing the trivia session that would be held 
 - topics covered: Notion, Q2 report, Taskforce, medium, monthly substack, Zealy sprint, community page, points system, budget reserve
 - emotions: interesting, Discursive, lengthy, Welcoming, funny 
 
+
+
+### Marketing Guild
+
+No Summary Given
 
 ## Saturday 29th June 2024
 
