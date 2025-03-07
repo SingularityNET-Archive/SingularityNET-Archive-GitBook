@@ -123,6 +123,7 @@ No Summary Given
 ## Tuesday 4th June 2024
 
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -188,6 +189,53 @@ How detailed should a budget be? Do we need to give guidance on this? Feedback s
 #### Keywords/tags:
 - topics covered: Governance, Meeting Summaries, Budget planning , Workflow , Ideas and Improvements,  Team collaboration , Governance GitBook, WG, Core Contributors , Budget deadlines,  Process improvement, Q2 quarterly report, deadlines, flexibility, responsiveness, compulsory quarterly report
 - emotions: focused, Urgency , Collaboration , problem-solving, Efficiency , Accountability
+
+
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, Duke, WaKa, Will Tatz, esewilliams, oep, Sucre n Spice, CollyPride, jay.05|Judith W., hogantuso, billy, guillermolucero, photogee, Martin Rivero, Onize, Zalfred, sakujennbornean, Effiom, Aetherblade, Tevo, Iain Wentworth, LordKizzy
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 100
+- **Working Docs:**
+  - [Proposal: Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit?usp=sharing)
+  - [Q2 2024 budget process retrospective Miro](https://miro.com/app/board/uXjVK_z6AbU=/)
+  - [Workgroup Points of Contact](https://docs.google.com/spreadsheets/d/1x9y-AtraOY102YefgbEHZnhMD7z1R1CPtSXI20tvKkw/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.
+
+[00:00](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=0s) Introduction
+[02:18](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=138s) Deep Funding
+[03:30](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=210s) Asi Merger
+[04:10](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=250s) Marketing Guild Update
+[09:08](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=548s) African Guild
+[14:47](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=887s) Inclusivity Research
+[24:20](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=1460s) Strategy Guild Updates
+[46:45](https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2\&t=2805s) Quarterly Budget Procedure
+
+#### Town Hall Summary:
+Core discussion in this Town Hall was about the recent retrospective of the Q2 2024 budget approval process, covering 
+- whether the budget process should continue to be quarterly (or should become monthly, or even rolling);
+- how to deal with lateness in submitting budgets, and whether to enforce deadlines
+- whether quarterly reports should be compulsory
+- whether in Q3 we need some budget for "cross-WG" work such as mentorship in facilitating and documenting
+See documentation of the retrospective session itself here https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/june-2024/week-23#governance-workgroup 
+
+There was also discussion of the "new version" of Strategy Guild, and whether it would have a centralizing effect or not.
+
+The conversation in Chat also touched on timezone exclusion, particularlty for people from SE Asia; and the possibility of a SE Asia regional guild.
+
+
+
+
+#### Keywords/tags:
+- **topics covered:** inclusivity, strategy guild, African guild, Q3 2024 budgets, consent process,  Marketing Guild Lead, Marketing Guild, Deep funding round 4, ASI merger, disability, Decentralisation vs Centralisation, centralization, time zone exclusion, SE Asia, Consent deadlines, quarterly reports and budget
+- **emotions:** cheerful, engaging
 
 
 ## Wednesday 5th June 2024
