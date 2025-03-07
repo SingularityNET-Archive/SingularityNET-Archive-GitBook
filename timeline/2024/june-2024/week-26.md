@@ -6,6 +6,7 @@ description: Mon 24th Jun - Sun 30th Jun 2024
 
 ## Monday 24th June 2024
 
+
 ### AI Ethics WG
 
 - Type of meeting: Biweekly
@@ -95,6 +96,11 @@ Note: this meeting summary significantly amended and tidied by Vani - issues suc
 - topics covered: AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership, workgroup membership, co-chair, co-chair selection, role selection, date of next meeting, meeting time, Q2 budget, Q3 budget, Q2 quarterly report, Async, strategy, writing, editing, ME6 bot, membership criteria
 - emotions: interesting, contributive, Collaborative, insightful
 
+
+
+### Strategy Guild
+
+No Summary Given
 
 ## Tuesday 25th June 2024
 
