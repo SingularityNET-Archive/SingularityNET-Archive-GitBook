@@ -412,6 +412,7 @@ In our recent discussions, we focused on creating a comprehensive roadmap for de
 ## Thursday 27th June 2024
 
 
+
 ### Onboarding Workgroup
 
 - Type of meeting: Weekly
@@ -519,6 +520,11 @@ We discussed whether we should have a cap on the number of ambassadors we want i
 - topics covered: African, African guild, AMA Session Updates, membership, membership cap, engaging other African countries, virtual events, physical events, DRC, Ghana, Cameroon, Rwanda, merchandise, student, Partnership, contribution framework, contribution, survey , Budget fitting, skills database, Wada, Wims
 - emotions: funny , contributive
 
+
+
+### WG Sync Call
+
+No Summary Given
 
 ## Friday 28th June 2024
 
