@@ -133,3 +133,53 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 #### Keywords/tags:
 - **topics covered:** graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics
 - **emotions:** interesting, wide-ranging, well-attended, slightly combative
+## Thursday 6th March 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Clement Umoh [**facilitator**], Eric Davies [**documenter**], Clement Umoh, Eric Davies, LordKizzy, CJFrankie, guillermolucero, PeterE, AshleyDawn, advanceameyaw, Sucre n Spice
+- **Purpose:** Weekly Open Governance meeting
+- **Working Docs:**
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [Context setting for Core Contributor decision on Q2 2025 budgets](https://docs.google.com/document/d/1yXP6yaEmSsb-Lz4Zcyr1dz_fHZJ78YTDenSbOC36bzc/edit?usp=sharing)
+  - [Q1 2025 Governance WG Quarterly Report _ 050325](https://docs.google.com/document/d/1QSjiAAOrDyvh927peB1cOrosd0XkU8gbI7EkxoDtdAk/edit?tab=t.0#heading=h.ybfi2uikflvv)
+  - [A REPORT ON THE ETHIOPIA POP UP CITY CONFERENCE AND HACKATHON ](https://docs.google.com/document/d/1DBSIJsBIMaRr7Cxj9EBJ_w9Pe3M4DcaMUUH7CPeoGtA/edit?usp=sharing)
+  - [Guillermo - outstanding Q1 GovWG meeting summaries](https://drive.google.com/drive/folders/17QMHy0egCggNAKSD4U8ObNYgHAZ18Rwg?usp=drive_link)
+
+#### Narrative:
+Quarterly Report: 
+Guillermo shared the quarterly report draft and posted them in the Governance Discord for review until submission is due on Monday 
+
+Outstanding meeting summaries:
+Guillermo has some outstanding meeting summaries which he still needs to add to the Summary Tool
+
+Retrospective on ETHiopia Pop Up City Conference And Hackathon: 
+- Clement shared a detailed report on his and Advance's attendance at this event, covering involvement in events, hackathons, media, and community engagement, highlighting challenges, support from volunteers, and key contributions from Samuel and Advance.
+
+- He shared insights on their engagement at the event, highlighting outreach efforts; discussions on AI, blockchain, and decentralization; keynote presentations; KPI achievements, and future plans for sustaining momentum through partnerships and virtual meetups.
+
+- CJFrankie applauded Clement and Advance for their outreach efforts in Ethiopia and raised concerns about the general lack of awareness of SingularityNET, especially among African audiences. He suggested allocating resources for physical meetups to enhance engagement and proposed that workgroups focus on making SingularityNET tools more accessible. He also requested clarification on whether SNET tools were used during the Hackathon.
+
+- Advance explained that most hackathons operate in pools, often sponsored by different ecosystems like Mantle, and Ethereum in the context of the hackathon held during the program. Participants build projects using the sponsors' technologies, and those who integrate these tools effectively can receive funding or prizes. If SingularityNET were to sponsor a hackathon, it could incentivize developers to onboard their projects onto the AI Marketplace by offering prize pools for utilizing SNET services.
+
+- Clement suggested that if SingularityNET had engaged earlier in the hackathon, it could have introduced the AI Marketplace sooner, leading to more participants utilizing its services. He recommended that SingularityNET consider sponsoring such events in the future to encourage developers to build on its platform and integrate its AI tools.
+
+- Peter noted that SingularityNET is already sponsoring Hack India but emphasized that larger organizations like Deep Funding or the ASI Foundation are better suited for sponsorships. He highlighted that the AI Marketplace is still in beta, with many services as proof-of-concept. With the ASI merger, platforms like Agentverse and ASI Create will integrate, but onboarding developers remains unclear during this transition.
+
+
+
+#### Discussion Points:
+- Q2 Quarterly Report 
+- Outstanding meeting summaries
+-  Retrospective on ETHiopia Attendance Pop Up City Conference And Hackathon
+
+#### Action Items:
+- [**action**] Advance & Clement to write an article capturing experiences from the Ethiopia event and share it with the team. [**assignee**] advanceameyaw, Clement Umoh [**due**] 20 March 2025 [**status**] todo
+- [**action**] Clement to discuss with the Marketing Workgroup about uploading event content on media channels. [**assignee**] Clement Umoh [**due**] 20 March 2025 [**status**] todo
+- [**action**] Clement to follow up with collected contacts to explore potential collaborations. [**assignee**] Clement Umoh [**due**] 20 March 2025 [**status**] todo
+- [**action**] Guillermo to integrate any comments/corrections to Q1 Quarterly report, and submit it and Q2 budget by the deadline of midnight on Mon 10th March [**assignee**] guillermolucero [**due**] 10 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ETHiopia event, Hackathon, sponsorship, AI marketplace, Q1 2025 quarterly report, Africa, awareness of sNET in Africa, Retrospective,  events attendance, Partnership, virtual meetups, sNET tools, making SingularityNET tools more accessible
+- **emotions:** Accountability, Organised,  informative, Discursive, Educative
