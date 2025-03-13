@@ -4,6 +4,69 @@ description: Mon 3rd Mar - Sun 9th Mar 2025
 
 # Week 10
 
+## Tuesday 4th March 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, Sucre n Spice, AshleyDawn, advanceameyaw, Tevo
+- **Purpose:** Weekly GovWG meeting
+- **Working Docs:**
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [Ambassador Program Core Contributors](https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing)
+  - [Ambassador Program End of Year report - draft outline](https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing)
+
+#### Narrative:
+Advance and Clement have drafted a report on the ETHiopia conference, which they will share in the Open Governance meeting this Thurs (6th March).
+
+Dates for forthcoming sessions: 
+- the retrospective on the Q2 decision will be on Tues 1st April
+- initial meeting on budget minimums on Thurs 3rd April. Vani, Peter, Sucre and Effiom to plan it; Vani to make a Discord group to discuss it.
+
+Other possible sessions for future Governance meetings: 
+- 1) We noted that Education Guild are planning to take on some educational sessions on governance issues - Vasu, Lord KIzzy and Vani are planning the sessions now, covering the core governance mechanisms in the Program - so this will cover the longstanding agenda item we have had about whether Governance WG itself should be undertaking governance education sessions
+
+- 2) Kevin suggested a meeting with Mindplex - we decided this might not make so much sense as a Governance session, so Kevin will organise this outside of Governance meetings, perhaps under Marketing.
+
+- 3) Tevo suggested discussing contribution systems, and who contributes - what are the patterns in the data we have, for example who are the "high cost individuals", and should we aim to decentralise further on fund distribution? Others said that perhaps it's OK if "high-cost individuals" are those who are prepared to do the most work. Also - look at the ratio of amount of work (in terms of MINS) vs amount earned in AGIX
+
+- 4) we do need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality. What should the pathway be for raising it?
+
+
+End of Year Report: anything still to be added should be done by this Friday (7th); then Vani will proofread over the weekend.
+
+
+
+
+
+#### Discussion Points:
+- Calculating Core Contributors for Q2
+- Signing off Q2 consent form
+- Ideas and dates for future Governance sessions (including Mindplex/outreach to the rest of the ecosystem, Governance education; Contribution systems)
+- End-Of-Year report 2024
+
+#### Decision Items:
+- We agreed it's time to calculate who is a Core Contributor for Q2 - Tevo will do it later today and post the results in the Governance Discord channel
+  - [**rationale**] allows time for people to nominate anyone who doesn't quite meet the criteria
+  - [**effect**] mayAffectOtherPeople
+- We signed off the Q2 decision consent form
+  - [**effect**] mayAffectOtherPeople
+- We agreed we need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality. 
+  - [**rationale**] Because it's an issue that needs to be discussed, but it can be sensitive, and there is no clear pathway for how to bring it up.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Tevo to calculate who is a Core Contributor for the coming budget decision [**assignee**] Tevo [**due**] 4 March 2025 [**status**] todo
+- [**action**] Vani, Peter, Sucre and Effiom to plan initial session on budget minimums on 3rd April; Vani to make a Discord group to discuss it. [**assignee**] Effiom, PeterE, Sucre n Spice, CallyFromAuron [**due**] 3 April 2025 [**status**] todo
+- [**action**] End of Year report - All to add any outstanding material by this Friday (7th) [**assignee**] all [**due**] 7 March 2025 [**status**] todo
+- [**action**] Vani will proofread end-of-year report over the weekend [**assignee**] CallyFromAuron [**due**] 10 March 2025 [**status**] todo
+- [**action**] Kevin to organise meeting with Mindplex outside of Governance meetings, perhaps under Marketing. [**assignee**] TheFreysDeFi [**due**] 14 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Core Contributors , Retrospective planning , budget minimums, ETHiopia event, consent form, consent process, mindplex, Collaboration, contribution, high-cost individuals
+- **emotions:** low attendance, decisive,  forward-looking, Discursive
+
+
 ## Wednesday 5th March 2025
 
 ### Archives Workgroup
