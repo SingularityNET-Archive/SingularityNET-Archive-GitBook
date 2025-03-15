@@ -4,6 +4,71 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 
 # Week 05
 
+## Monday 27th January 2025
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo, Effiom [**facilitator**], Tevo, Gorga Siagian [**documenter**], effiom, tevo, AshleyDawn, PeterE, Gorga Siagian
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Meeting video:** [Link](https://youtu.be/lyGXP-AhHko)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764612932039153&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG - Introduction to Knowledge Base WG](https://www.youtube.com/watch?v=jlHcTBzeJ0Y)
+  - [KBWG Schedule on Miro](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+  - [Knowledge Base WG Miro Board and Activities](https://www.youtube.com/watch?v=ml_kDw09omQ)
+  - [Managing Meeting Summaries Guide](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/)
+  - [TEMPLATE Meeting Summary dd.mm.2025](https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU)
+  - [Knowledge Base WG Q1 2025 Report](https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/)
+  - [Knowledge Base WG Q4 Report](https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo/)
+  - [Knowledge Base WG Proposal Q1 2025](https://docs.google.com/document/d/1lV5E52tbfTb6tSjkqZVwtp9su92AwvqQopCCce-8pIY/)
+  - [Category Descriptions](https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw)
+
+#### Agenda item 1 - Workgroup Management - Distribute Action Items - [resolved]
+
+#### Discussion Points:
+- Reviewed and distributed WG tasks.
+- 2k+ unread emails in the Ambassador Program inbox.
+
+#### Decision Items:
+- Q2 2025 Proposal and Q1 2025 Report to be updated in next meeting.
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- Added Process Guild and Knowledge Base Proposals to GitBook.
+  - [**effect**] mayAffectOtherPeople
+- Feedback form creation revisited; kept in backlog.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo to draft and archive the meeting summary for this meeting. [**assignee**] Tevo [**due**] 29 January 2025 [**status**] todo
+- [**action**] Gorga to reviews and publish it on Discord. [**assignee**] Gorga Siagian [**due**] 30 January 2025 [**status**] todo
+- [**action**] Once Knowledge Base GitBook is public, link it to the main GitBook and create a feedback form. [**assignee**] Tevo [**due**] 10 February 2025 [**status**] in progress
+
+#### Agenda item 2 - Review Category Descriptions - [carry over]
+
+#### Discussion Points:
+- Not much progress made on descriptions yet
+- We added a clearer list of which descriptions are left to do
+
+#### Action Items:
+- [**action**] Writing descriptions is high priority [**assignee**] Tevo [**due**] 10 February 2025 [**status**] todo
+- [**action**] We can start updating GitBook with some of the examples we already have [**assignee**] all [**due**] 10 February 2025 [**status**] in progress
+
+#### Agenda item 3 - GitHub Markdown generation automation - [carry over]
+
+#### Discussion Points:
+- Shared current status of development
+- Current challenges are cleaning the data and making Miro Board item names match with analysis
+
+#### Action Items:
+- [**action**] Create a new Excel Datatable that will store the new correct combined structure from the current version and top of the new table build functionality to generate markdown files. This makes a bit longer process, but allows us to faster achieve the goals [**assignee**] Tevo [**due**] 10 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Category Descriptions, Markdown, Ambassador GitBook, GitBook, Feedback Form, Documentation, Miro Board, GitHub, Q2 2025 budget, Q2 2025 proposal, Q1 2025 quarterly report, Ambassador Program email account, email
+- **emotions:** well attended, Organised
+
+
 ## Thursday 30th January 2025
 
 ### Governance Workgroup
