@@ -4,6 +4,73 @@ description: Mon 17th Feb - Sun 23rd Feb 2025
 
 # Week 08
 
+## Monday 17th February 2025
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo, Effiom [**facilitator**], Tevo, Effiom [**documenter**], effiom, tevo
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764616945953621&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [How we manage Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4)
+  - [Meeting Summary Template](https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/)
+  - [Knowledge Base WG Q1 Report](https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/)
+  - [Knowledge Base WG Proposal Q2](https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/)
+  - [Category Descriptions](https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/)
+  - [KBWG GitBook](https://ambassadorss-organization.gitbook.io/knowledge-base)
+
+#### Agenda item 1 - Workgroup Management - [resolved]
+
+#### Discussion Points:
+- Going over old and new action items
+- Assigning meeting summarizer and reviewer for 17.02.2025
+- How we manage Meeting Summaries - https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4
+
+- Meeting Summary Template - https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/
+
+#### Action Items:
+- [**action**] Effiom will draft the meeting summary and upload it to the summary tool [**assignee**] Effiom [**due**] 24 February 2025 [**status**] done
+- [**action**] Tevo will review and publish the Meeting Summary on Discord [**assignee**] Tevo [**due**] 24 February 2025 [**status**] done
+
+#### Agenda item 2 - Finalise Quarterly Report and Proposal - [resolved]
+
+#### Discussion Points:
+- Are there any pending async tasks before we submit the report and proposal?
+
+- Knowledge Base WG Q1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/
+- Does the Q2 proposal fit within the WG's budget cap?
+- Knowledge Base WG Proposal Q2 2025 https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/
+- Updating the Community Engagement section in the report
+
+#### Decision Items:
+- Continue with monthly Knowledge Base sessions, and continue updating Knowledge Base GitBook
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Report and Proposal to be submitted once the deadline has been fixed, as we are done [**assignee**] Effiom, Tevo [**due**] 3 March 2025 [**status**] todo
+
+#### Agenda item 3 - Review Category Descriptions - [carry over]
+
+#### Discussion Points:
+- Category Descriptions https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/
+- We reviewed 5 sub-sections of the categories
+
+#### Action Items:
+- [**action**] We will continue the category descriptions while script development is ongoing [**assignee**] all [**due**] 3 March 2025 [**status**] in progress
+
+#### Agenda item 4 - GitBook, GitHub, and Markdown Automation - [carry over]
+
+#### Discussion Points:
+- Updates on GitBook and GitHub
+- Updates on the current markdown automation progress
+- Knowledge Base structure is visible now on GitBook
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Workgroup Management, GitBook, GitHub, Budget, Category Descriptions, Q2 2025 proposal, Q2 2025 budget, Budget caps, Q1 2025 quarterly report, Miro to GitBook, Markdown, community engagement
+
+
 ## Tuesday 18th February 2025
 
 ### Governance Workgroup
