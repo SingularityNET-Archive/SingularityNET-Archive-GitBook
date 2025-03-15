@@ -228,3 +228,59 @@ Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for resea
 #### Keywords/tags:
 - **topics covered:** PBL Course project , AGIX rate, Rewards, Q1 2025 budget, Q1 2025 sessions, Andamio, payments in AGIX, quizzes, Q4 2024 budget
 - **emotions:** Collaborative, forward planning
+## Friday 20th December 2024
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Tevo, advanceameyaw [**documenter**], advanceameyaw, effiom, tevo
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [Knowledge Base WG Proposal Q4 2024](https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/)
+  - [Knowledge Base WG - Introduction to Knowledge Base WG](https://www.youtube.com/watch?v=jlHcTBzeJ0Y)
+  - [KBWG Schedule on Miro](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+  - [Knowledge Base WG Miro Board and Activities](https://www.youtube.com/watch?v=ml_kDw09omQ)
+  - [Managing Meeting Summaries Guide](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/)
+  - [DRAFT - Knowledge Base WG Q4 Report](https://docs.google.com/document/d/1VqjcD9E_cEtA2INhVijfZO4H2m9R0lNna3u_La-cRIU/edit?tab=t.0#heading=h.mlz7hrgm8sds)
+  - [Category Decsriptions](https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw)
+
+#### Agenda item 1 - Workgroup Management - [carry over]
+
+#### Discussion Points:
+- We went over operational activities and assets we expect to produce before next meeting
+- When and who will draft the Q1 2025 Report?
+- What could be used as a great source for drafting an early Report?
+- Who will do the Summary for the current Meeting?
+- When would we prefer to start and what would our cadence on quarterly schedule look like?
+- Should we move to fixed AGIX rewards?
+
+#### Decision Items:
+- Process Guild leads the process of proposing new date and time for Knowledge Base WG
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- From Quarter 1 we will start to have fixed hourly rate in AGIX
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Effiom to draft Q1 Report. Tevo will review. [**assignee**] Effiom, Tevo [**due**] 10 March 2025 [**status**] todo
+- [**action**] Tevo to draft meeting summary. Advanceameyaw will review and publish in Discord [**assignee**] Tevo, advanceameyaw [**due**] 6 January 2025 [**status**] todo
+- [**action**] Tevo to start focusing on a script to generate GitHub Markdown files out of Miro Board exports [**assignee**] Tevo [**due**] 6 January 2025 [**status**] todo
+
+#### Agenda item 2 - Review Category Descr﻿iption Statuses - [carry over]
+
+#### Discussion Points:
+- We reviewed the outcomes so far
+- We discussed the challenges of creating the descriptions
+- We created new subgroup description "How do we define Roles?" using GPT https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw
+
+#### Action Items:
+- [**action**] Continue Drafting Categories + subcategories [**assignee**] all [**due**] 6 January 2025 [**status**] todo
+- [**action**] request ChatGPT access for Adanceameyaw [**assignee**] Tevo [**due**] 6 January 2025 [**status**] todo
+- [**action**] Remind Gorga that he also picked up a task to do but has not yet shared anything [**assignee**] Tevo, Gorga Siagian [**due**] 6 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Reporting, planning, Roles, Descriptions, ChatGPT, categories, Q1 2025 quarterly report, script, Markdown, Miro to GitHub, Meeting summary, Fixed AGIX Rewards
+- **emotions:** small, low attendance, Organised, procedural
