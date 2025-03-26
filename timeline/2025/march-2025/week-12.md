@@ -109,3 +109,75 @@ Writers
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Q1 2025 quarterly report, AI Sandbox/Think Tank, objections, admin costs, admin costs vs outputs, Town Hall, budget discussion burnout, GitHub project board, cost standardisation, Quorum, Dework, Dework template
 - **emotions:** well-attended, inconclusive, no decisions, in-depth, slow
+## Thursday 20th March 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, guillermolucero, Tevo, Jeffrey Ndarake, Eric Davies, CollyPride, LadyTempestt, Kateri, Effiom, AshleyDawn, UknowZork, LordKizzy, Sucre n Spice, advanceameyaw
+- **Purpose:** Regular weekly Open Gov call
+- **Working Docs:**
+  - [Consent form, Q2 2025 budgets (Responses)](https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing)
+  - [Ambassador Program Budget Planner](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+
+#### Narrative:
+We read through all the objections in the spreadsheet here https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing to ensure that they have at least all been publicly heard.
+
+We noted that the only objection for Translation WG (i.e. to add links in the Quarterly Report to the translated articles) has been addressed and the links have been added, so we confirmed that Translation WG's budget has now been approved.
+As an aside, we noted that some of the translated articles are not tagged, so it would be difficult for people to find them - but this task is supposed to be done by Iain Wentworth.
+
+We discussed some of the issues raised in the objections to the 6 WGs that have not yet been approved, but did not reach a resolution on any of them.
+
+We realised that the current schedule, which requires the 2nd-round consent forms to go out this Sunday, 23rd March, is not possible, so we amended it to push all the dates back by 1 week (see "Decisions" below). 
+
+We also decided on some changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections (see "Decisions" below). We recognised that it is unlikely that even another 2 meetings will completely resolve all the objections; so as GovWG our role is to ensure everyone knows what the objections are, and has easy access to the WGs' comments on them - people can then use the 2nd round consent process to say whether they feel the objection(s) against each as-yet-unapproved WG are an issue, or not. In this, we agreed that it would be valid for someone who did not object to a WG in round 1 to rethink based on the objections raised by other people, and to say in Round 2 "Actually, I agree that such-and-such is a problem", but not for them to add new objections of their own at this stage.
+
+
+#### Discussion Points:
+- Reading out all objections in the Q2 process
+- Approving Translation WG
+- Amending the timeline for the consent process
+- Changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections
+
+#### Decision Items:
+- We agreed that Translation WG's budget is now approved
+  - [**rationale**] because the objection (i.e. that links to the translated articles need to be added) has been done.
+  - [**effect**] mayAffectOtherPeople
+- We confirmed that the 6 WGs which have not yet been approved are therefore:
+
+African
+AI Sandbox/Think Tank
+Education
+Marketing
+R&D
+Writers
+
+  - [**effect**] mayAffectOtherPeople
+- We agreed to amend the schedule for this consent process to a week later, so:
+
+- Tues 25th and Thurs 27th March: Gov WG meetings will be additional budget approval sessions
+
+- Sun 30th March: deadline for WGs with outstanding objections to submit amended budgets/reports
+
+- Mon 31st March: Round 2 consent forms are shared
+
+- Weds 2nd April: deadline for Core Contributors to send in their consent forms
+
+- Thurs 3rd April - final meeting. If objections cannot be resolved, then WGs with 80% consent will be approved.
+  - [**rationale**] because there clearly will not be time to proceed on the previously-agreed timeline
+- We decided that WGs with objections should ideally create a doc where they list the objections and give their responses
+  - [**rationale**] Because this will be easier to read and to reference than having the points as comments in the "Responses" spreadsheet.
+  - [**effect**] mayAffectOtherPeople
+- We decided that the second-round consent process should only allow people to comment on objections that have already been raised, rather than raising completely new ones.
+  - [**rationale**] We won't have time to address brand-new objections; it could end up as a never-ending cycle; and it is unfair to WGs to continue to allow new objections to be raised that were not mentioned earlier.
+  - [**effect**] mayAffectOtherPeople
+- We agreed that it would be valid for someone who did not object to a WG in round 1 to rethink based on the objections raised by other people, and to say in Round 2 "Actually, I agree that such-and-such is a problem".
+  - [**effect**] mayAffectOtherPeople
+- We decided that the consent form for Round 2 needs to be amended to reflect the above. It should list the existing objections to each WG and ask people to agree or disagree; and it should all be in 1 form, rather than requiring people to complete separate forms for each WG.
+
+  - [**rationale**] Because the form as it currently is would allow people to introduce new objections, which we have aagreed would be undesireable.
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:** consent process, Translation WG, objections, consent process timeline, timeline, consent form
+- **emotions:** slightly prickly, inconclusive, circular, slow
