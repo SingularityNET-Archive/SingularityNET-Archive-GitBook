@@ -264,6 +264,7 @@ with certifications and rewards.
 
 
 
+
 ### Onboarding Workgroup
 
 - **Type of meeting:** Biweekly
@@ -400,6 +401,68 @@ AOB: Tee inquired about the research document, expressing interest to follow-up 
 #### Keywords/tags:
 - **topics covered:** AMA Session Updates, community engagement, Marketing initiative, indigenous tooling, Tool Development budget caps, Q1 2025 budget, timeliness,
 - **emotions:** informative, Thoughtful, new people present 
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], Peegee, CallyFromAuron [**documenter**], Effiom, Duke, Sucre n Spice, LordKizzy, advanceameyaw, AshleyDawn, CallyFromAuron
+- **Purpose:** Weekly Governance meeting- Discussions on Budget/ Budget Caps / A newly proposed tier system of Budgeting 
+- **Media link:** [Link](https://docs.google.com/document/d/1yOq8xIEAp80CPFQ4KwQtae7C3lvGTDDKHAH1Ie9lPxc/edit?usp=sharing)
+- **Working Docs:**
+  - [DRAFT process for how to use the "New Ideas" budget](https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s/edit?usp=sharing)
+  - [Budget Retrospective (Miro board - contains original proposal for WG budget caps)](https://miro.com/app/board/uXjVK_z6AbU=/?moveToWidget=%E2%80%A6)
+  - [Q1 and Q2 2025 budget caps](https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing)
+
+#### Narrative:
+We have collected direct feedback from each WG’s leader/members on a) whether they support budget caps in principle, and b) whether they agree with the amount suggested for their group. Although most people were in favor of the idea of caps for Q1 2025, there were several concerns about the actual specific totals some WGs have.
+
+- African guild accepted the idea of a budget cap for the next quarter but requested for an additional 1500 Agix.
+- AI Sandbox agreed in principle, but requested an extra 1,500 AGIX.
+- It was not clear if Marketing were on board with the idea in principle, but they did indicate wanting an extra 1,000 AGIX. 
+- Gamers Guild also asked for 1000 AGIX extra. 
+- Process guild said they may need 1,000 less (to be confirmed, as nobody from the group was present at this meeting). 
+- Treasury accepted the idea of budget caps, but indicated they would need 2,000 AGIX more in order to function.
+- Education said they will need a big increase of around 4k AGIX more - they noted that last Quarter, they did not ask for any new budget, and worked entirely from their reserves, so this has lowered their overall average budget and might have affected the initial suggestion for how much they need. 
+- No response yet from Video WG. 
+- Lord Kizzy commented on a discrepancy between Guillermo saying that R&D Guild accepts its budget cap/ amount, and what was actually said in the discussion in the last R&D meeting. KIzzy stated that it was one of the problems faced last quarter - compensations for projects are quite small. ‘This thing has actually reduced engagement from developers and people within the R&D group. We noticed that some members are dropping out and we try to reach out to them. And one of the reasons why they do not want to present proposals anymore or work on projects was due to the compensation getting from the program is not quite sufficient for the work itself’. So possibly R&D will need more.
+
+Besides the above, all other WGs were in sync with the idea of budget caps on both counts (yes in principle, and yes happy with their suggested allocation).
+
+Vani noted that there are several workgroups saying "yes, in theory, but we need more money". While this might be understandable, it could scupper the process unless we find more money from somewhere.
+
+Sucre talked about the need for prioritization, emphasizing that workgroups should fit their work to their budget,  prioritize what is most important, and let go the tasks they cannot afford.
+
+Clarity on what the New Ideas budget is was given by Vani; she suggested that for Q1, this budget could be taken out and redistributed to WGs to help cover the shortfalls (and because there might be less need for New Ideas this Quarter given that we will already be having a lot of changes and new approaches if we adopt budget caps).
+
+Clement spoke to the need for the tier system to be more dynamic. He acknowledged that the idea is great but then it makes the workgroups operate from a fixed financial point of view. ‘If we're considering that workgroups would need more, are we going to move them to a greater tier? Are there rules in place? Are there constitutions in place for movement between tiers? If something like this ever comes up, we need to speak to how dynamic this could be moving forward. Just some sort of flexibility around the whole system thing. It's great putting this up but then we need to speak to dynamism around this as well’. In response Vani said that there would be an entire quarter to work out the dynamism around that. 
+
+Sucre msaid that the "tiers" could be removed while the budget caps retained - this means that any changes to a WG's budget would be on a case-by-case basis rather than needing to address which "tier" they are in.
+
+We then discussed how we might assess the "importance" of a workgroup when assessing how much budget it should get. Is it about "importance", or is it just that some WGs have higher costs because of the nature of their work, but this doesn't mean they are necessarily more important? Should WGs with more impact (however that is defined) get more budget? Do we need a process for dissolving a WG if its aim is met and its work is finished?  (We noted that the old idea that Guilds are the permanent groupings, and WGs are temporary things, set up under a particular Guild  to do finite pieces of work, might no longer be the case in practice - several groups are called "WGs" but are permanent and not really under a particular Guild).
+
+At the end, a temperature check was carried out to decide if WGs would work with the budget caps as defined in the spreadsheet. The majority in the meeting were broadly in favour, but we recognised that further discussion is needed.
+
+
+
+#### Decision Items:
+- After a temperature check exercise, we agreed to finalise the decision on whether to adopt budget caps in the next governance call, Tues 19th Nov, 2024?
+
+  - [**effect**] mayAffectOtherPeople
+- It was unanimously agreed that the will be no new idea budget for Q1, so this money can be redistributed to other work groups
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] -Tevo will confirm whether the GitHub PBL project will continue and its budget implications.
+ [**assignee**] Tevo [**due**] 19 November 2024 [**status**] done
+- [**action**] -Sucre n spice will provide a summary of the feedback from the education workgroup regarding their budget needs.
+
+ [**assignee**] Sucre n Spice [**due**] 19 November 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Q4 2024 budget, fairness in budget allocation, New Ideas budget, budget approval process, budget allocation, budget cap, budget tier, consequences of low WG budget
+- **emotions:** Divergent views, long, tense at times
 
 
 ## Friday 15th November 2024
