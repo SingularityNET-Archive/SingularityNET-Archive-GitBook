@@ -4,6 +4,73 @@ description: Mon 24th Mar - Sun 30th Mar 2025
 
 # Week 13
 
+## Tuesday 25th March 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], CallyFromAuron [**documenter**], guillermolucero, CallyFromAuron, LordKizzy, LadyTempestt, AshleyDawn, Évéline Trinite, UknowZork
+- **Purpose:** regular weekly GovWG meeting
+- **Working Docs:**
+  - [Consent form, Q2 2025 budgets (Responses)](https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing)
+
+#### Narrative:
+RESOLVING OBJECTIONS?
+Most of the objections are Tevo's; so because he was unable to be at this meeting, we were unable to try to resolve them.
+
+We looked at the one other objection (by Vani, objecting to Writers' WG on the grounds of over-centralisation). Mikasa gave a defence saying that they have already planned to address the problem - but as this is exactly what was said last time the issue arose, Vani preferred not to resolve the objection, but to let it go to the consent process. So Writers' WG will address this in their "response" doc.
+
+There were no other objections by anyone other than Tevo.
+
+CAN WE RULE ANY OBJECTIONS INVALID?
+We discussed whether we, as Governance WG, can rule any of the objections as "invalid", as was done in previous rounds. For example, the objection to African Guild that they pay $25 per meeting for facilitation when the objector believes there should be a standard fee of $20 across the Program - we noted that there is no longer any agreed, enforcable "standard fee", and that trying to impose one retroactively could infringe on the idea of workgroup autonomy, so this could therefore be considered an invalid objection. However, since Tevo isn't able to be here to discuss it, perhaps we should not rule out any objections as "invalid", but should let all the objections go to the 2nd consent round - if individuals feel an objection is not valid, they will select "objection has been addressed or is not an issue". 
+This question will be looked at again in Thursday's meeting to confirm that we do not plan to rule any onbjection "invalid" at this stage.
+
+ARE OBJECTIONS INVALID IF THEY WERE NOT SUBMITTED IN THE "WHAT IS YOUR OBJECTION" FIELD?
+We noted that some of the objections in the responses sheet were actually submitted in the "What would need to change?" field, so it's not 100% clear that they are objections as such. (Example - the objection mentioned above, about African Guild paying $25 for documentation.) However, it is pretty clear from context that they are intended as objections.
+
+SEPARATE THE INDIVIDUAL OBJECTIONS OUT?
+The draft 2nd-round consent form created by Vani separates each individual objection (even if it's part of a set of several points that were made by the same person), and asks people to agree / disagree with each one separately.
+
+LordKizzy suggested that instead, we should give all the objections to a particular WG together, and ask people "In the light of the above, do you consent or object to this WG's budget?"
+This might make the consenting process easier; but it might also mean that if someone only agrees with one of the objections, we won't know which one.
+This question will be looked at again in Thursday's meeting.
+
+WHAT DOES "80/20" MEAN IN PRACTICE?
+We noted that it's not completely clear what the 80/20% rule means in this context.
+First - do abstentions count towards the total "number of people who took part"? Is it "80%/20% including abstentions" or not?
+Second - to pass, does a WG need at least 80% of respondents saying "this has been resolved, or is not an issue", or fewer than 20% saying "this is still a problem"?
+This question will be looked at again in Thursday's meeting.
+
+WHAT HAPPENS IF A WG'S BUDGET DOESN'T PASS?
+We realised that we have not definitely confirmed what the approach is this round.
+Will that be it - no budget?
+Or will there be any further attempts to resolve the situation?
+This question will be looked at again in Thursday's meeting
+
+
+#### Discussion Points:
+- Running through the outstanding objections to see if there were any we could resolve
+- Can we, in a Governance meeting, deem a particular objection invalid? 
+- Should the 2nd round consent form list each objection separately, or should we consolidate them?
+- What does the 80/20% rule mean in practice in this context?
+
+#### Decision Items:
+- We agreed that in Thursday's meeting, we need further discussion of the following:
+- Can we, in a Governance meeting, deem a particular objection invalid? 
+- Should the 2nd round consent form list each objection separately, or should we consolidate them?
+- What does the 80/20% rule mean in practice in this context?
+  - [**rationale**] These issues were raised in today's meeting, but we didn't have time to reac firm conclusions.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Everyone to think about the 3 issues that will be carried over to Thursday's meeting [**assignee**] all [**due**] 27 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** consent process, Writers' WG, centralisation, 80% / 20% rule, invalid objections, abstentions
+- **emotions:** thoughtful, inconclusive, knotty problems
+
+
 ## Thursday 27th March 2025
 
 ### Governance Workgroup
