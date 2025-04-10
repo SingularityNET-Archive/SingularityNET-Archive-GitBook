@@ -64,3 +64,68 @@ As the meeting ended, We focused on budget adjustments, clearer documentation, a
 #### Keywords/tags:
 - **topics covered:** consent process, Q2 2025 budget, facilitation roster, Participation in governance
 - **emotions:**  informative, Quiet, Only a few of those present spoke
+## Thursday 3rd April 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, UKnowZork, Tevo, LordKizzy, LadyTempestt, Effiom, Évéline Trinité, guillermolucero, Sucre n Spice, AshleyDawn
+- **Purpose:** Weekly Open Governance session
+- **Working Docs:**
+  - [2nd round consent form Q2 budgets (Responses)](https://docs.google.com/spreadsheets/d/1PPLz2LFADOziIb9cC3MNLPgrHAPlsui0XsrPdj1XcPs/edit?usp=sharing)
+  - [budget decision - main issues mentioned in objections](https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing)
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+
+#### Narrative:
+1) NUMBER AND VALIDITY OF RESPONSES IN THE 2nd ROUND CONSENT FORMS
+In total there were 17 responses, but 1 was from someone who is not a Core Contributor, so it was deleted. 
+
+2) HAVE THE BUDGETS OF THE REMAINING WGs PASSED?
+Yes, all have been approved.
+- African Guild: 11 consent, 2 object, 3 abstain.
+- AI Sandbox/Think Tank: 13 consent, 0 object, 3 abstain.
+- Education: 11 consent, 1 object, 4 abstain.
+- Marketing: 9 consent, 1 object, 6 abstain.
+- R&D: 11 consent, 2 object, 3 abstain.
+- Writers: 10 consent, 1 object, 5 abstain.
+
+Wr noted, however, that several of those who abstained/objected didn't comment to say why; and we noted a fairly high number of abstentions. Are people abstaining because they see it as a "soft" way to register an objection? Or because they are not anonymous? Tevo noted in Chat that he abstained to "all where I saw progress in reporting and budget, but was not quite yet harmless".
+
+3) COMMENTS RAISED IN THE 2nd-ROUND CONSENT FORMS
+We read through the consent forms, and noted 1) which objections from Round 1 people had said were still an issue, and 2) all the comments. 
+There were severa l concerns that were about how people write their reports and budgets. We wondered whether there is a need for some sessions that look at this, and if so, whether Governance is the right place for it; but we didn't reach a conclusion.
+
+4) HOW WILL WE TRACK THE CONCERNS RAISED?
+Some of them may need further discussion, and/or for the WG concerned to take action. We decided how to address these issues so they are not forgotten about (see "decisions" below). 
+We also noted that:
+- Tevo can use PowerBI as usual to give stats and insights on the consent process; 
+- Guillermo could in the long term try to develop his planned Consent Process dashboard to help us track issues raised in the consent process; although this would be difficult at present, because low token price means the scope of that project can't easily be extended.
+
+
+
+
+#### Discussion Points:
+- Number and validity of responses from 2nd-round consent form
+- Have the budgets of the remaining 6 WGs in the 2nd round been approved or not?
+- Going through the comments raised in the consent forms
+- How will we track the concerns raised?
+
+#### Decision Items:
+- All the WGs' budgets are now approved
+  - [**rationale**] because they all met the approval threshold of no more than 20% objection (not counting abstentions)
+  - [**effect**] mayAffectOtherPeople
+- Where appropriate, we will add the issues raised in the consent form comments to the GovWG agenda for discussion in future meetings
+  - [**opposing**] some discussion about whether Governance meetings is the right place for further discussion of how to write a good quarterly report
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will use the doc "budget decision - main issues mentioned in objections" to log issues that were raised in this consent process, and adapt the doc to note anything that should be tracked, e.g. if a WG said that it will address an issue in its next quarterly report.
+  - [**rationale**] to ensure that issues don't get lost or forgotten.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to add issues mentioned in 2nd round consent forms to the Governance WG rolling agenda where applicable [**assignee**] CallyFromAuron [**due**] 8 April 2025 [**status**] todo
+- [**action**] Vani to collate issues from this consent round in the "budget decision - main issues mentioned in objections" doc [**assignee**] CallyFromAuron [**due**] 8 April 2025 [**status**] todo
+- [**action**] Tevo to export data from PowerBI about this consent round [**assignee**] Tevo [**due**] 10 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** consent process, Q2 2024 budget, abstention, tracking concerns, PowerBI, anonymity, dashboard
+- **emotions:** good-natured,  forward-looking,  Collaborative
