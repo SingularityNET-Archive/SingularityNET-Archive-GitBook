@@ -71,6 +71,7 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 
 ## Thursday 30th January 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -133,3 +134,7 @@ We then ran through the document of suggestions on how to set Q2 2025 budget cap
 #### Keywords/tags:
 - **topics covered:** events attendance, program reserves, budget reserve, budget caps, Q2 2024 budget, consent process, timeline
 - **emotions:** calm, Good natured, focused, decisive
+
+### WG Sync Call
+
+No Summary Given
