@@ -64,6 +64,82 @@ As the meeting ended, We focused on budget adjustments, clearer documentation, a
 #### Keywords/tags:
 - **topics covered:** consent process, Q2 2025 budget, facilitation roster, Participation in governance
 - **emotions:**  informative, Quiet, Only a few of those present spoke
+## Wednesday 2nd April 2025
+
+### Archives Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], CallyFromAuron [**documenter**], André, CallyFromAuron, Stephen [QADAO], Jeffrey Ndarake, AshleyDawn, UKnowZork
+- **Purpose:** Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- **Meeting video:** [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- **Working Docs:**
+  - [Archive names (a list of the name that people are most commonly known by in the Archives)](https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing)
+  - [GitHub Issue for this meeting](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/254)
+  - [Q2 2025 final budget ](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
+  - [Q1 2025 quarterly report for Archives WG](https://docs.google.com/document/d/1JUyVzyjeGJkFkjtzkqk-glsqzdUqlIZ5LdOwWM5OGJY/edit?usp=sharing)
+  - [Wokrgroups >< wider ecosystem collaborations](https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing)
+  - [Archive names](https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing)
+  - [Low-Budget Brainstorm (Miro board)](https://miro.com/app/board/uXjVISH_ACg=/)
+
+#### Decision Items:
+- We noted that our Q2 2025 budget was approved in the first consent round - but, due to current low token price, we agreed not to submit issues for payment for any pending tasks for Q1 or Q2, to see if token price improves. We'll reassess at the next meeting on 7th May if not before.
+
+
+  - [**rationale**] The Q2 budget was calculated at the agreed exchange rate of $0.30 and AGIX is now at $0.20; so we will be unable to fulfil everything in it unless AGIX price rises a bit.
+  - [**opposing**] We considered the idea of taking from the WG's reserves, but agreed that doing so at a time of low token price is not a good idea.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We noted that a problem has arisen because some of the corrections made to meeting summaries haven't been added to the database, but are only showing up in the GitBook version of the Archive (because Vani accidentally made the changes in the wrong part of the summary tool interface). The database should be the "source of truth", so André has created scripts to track the differences so they can be corrected. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/249 
+
+This also gives a way to see what kinds of things tend to get corrected when auditing summaries. Some are minor proofreading or formatting corrections, which are not  significant in terms of meaning; but others are factual or structural changes, which likely *would* affect how a graph RAG determines meaning. So we noted that it is useful to have these differences visible, for reference and to be able to see what kinds of things got corrected - so we will save these data examples to a repo for future reference.
+
+We also noted that of course this auditing process will no longer be done in Q2, because we have decided to NOT correct meeting summaries at all in Q2 as an experiment. 
+
+We may find that using a graph-based process to interrogate the Archives will mean that most of the errors that people make in summaries do not matter much, and the graph process will still enable us to extract meaning even if people are not confident documenters, and our uncorrected summaries are factually inaccurate (as many of them are). So by the end of Q2 2025, we will want to check whether we see any substantial difference between Q2 data (which will be uncorrected) and the rest of the Archives. If we *don't* see this, however, then being able to see the kinds of corrections that were made in previous Quarters will be useful.
+
+  - [**effect**] mayAffectOtherPeople
+- We noted that in March, Stephen has continued with writing a GitHub app token generator - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/252. 
+
+
+  - [**rationale**] This is one of the "pieces of the jigsaw" that will allow us to wrap up scripts that we write into GitHub apps.
+- We noted that André and Vani met in March to wrap up work on the tag taxonomy project; Vani is currently correcting a final list of tags for topics and emotions, and we have agreed to dispense with the "Other" tag category in the final tool redesign, as people have tended not to use it in very useful ways.
+
+We have agreed on minimal editing of the controlled vocab - we're only removing obvious duplicates and misspellings - because we don't want to overdetermine similarity. Two tags that appear superficially similar might have very different connotations for the individual who created them - so we will try to preserve those differences, and see what a graph RAG process makes of it.
+
+We noted that this lays the groundwork for what can be analysed later, using techniques such as proximity, semantic similarity, rarity of a tag, and co-occurence of tags (for example if a particular person's name/presence in a meeting is often correlated with a particular emotion tag, such as "organised"). Also we noted that, particularly with negative emotions, the fact that a meeting was not tagged with a particular emotion doesn't necessarily mean that the emotion wasn't there - often, a problem needs to become really severe before someone will tag a summary with (for example) "aggressive" or "silencing", and there could be a buildup over several (untagged) meetings which led to it.
+Subject to funding, we could use our tag taxonomy as a basis for future community analysis of the topology of emotions and topics that has been identified in meetings.
+
+There is also an ethical dimension to this - asking "is AI drawing the correct conclusions?" and giving the community some ownership of the conclusions that are drawn  - which we will be able to examine.
+  - [**effect**] mayAffectOtherPeople
+- An extra WG Sync call on Mon 7th April will focus on collaborations between the Ambassador Program and sNET spinoffs/partners. 
+
+We added info on our past collabs and hoped-for future collabs in https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing - particularly looking at sharing our recordkeeping tooling with other organisations - and we'll attend the meeting to discuss.
+  - [**opposing**] For us, collaborations might also extend cross-chain, and even to organisations outside of Web3
+- We will post in Discord to remind people that time limit to submit a summary, after which it will be recorded as "no summary given", is one month after the date of the meeting.`
+- We discussed how to manage low token price in general. 
+
+Suggestions included drawing down (say) half of the overall Ambassador budget for a Quarter and converting it to a stablecoin, in order to give more stability and balance it with risk; asking the community how much risk they want to take (i.e. should it be half, or less, or more?) And the idea of not restricting our holdings to just AGIX.
+
+These ideas will be added to the "Low-Budget Brainstorm" Miro board https://miro.com/app/board/uXjVISH_ACg=/ for discussion in Governance WG.
+  - [**effect**] mayAffectOtherPeople
+- We discussed the proposal that the Archives team has submitted to the BGI Nexus funding round and invited people to vote: see  https://deepfunding.ai/proposal/ethical-ai-auditing-a-practice-based-approach/
+
+We noted that in the event that this work *doesn't* get funded in the BGI Nexus round, we will still want to find a way to do it - although this will be limited by budget constraints if we try to do it as part of the Workgroup.
+  - [**rationale**] We now have a lot of data in the Archives, and want to look at how we ethically process and interrogate that data, and how we engage the community who "owns" a dataset (in this case the Ambassador Program) with analysing and verifying the insights that an AI  might give about it - in other words, looking at AI's conclusions and developing the critical thinking to assess how accurate they are.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani has approached DeepFunding, to ask if the Events Circle could take on documentation of DF Town Hall. Focus Group agreed this would be valid - waiting for a reply from Events Circle
+
+Also some interest in Focus Group re: how the Archives tool could be used for further documentation within DF [**assignee**] CallyFromAuron [**due**] 2 April 2025 [**status**] in progress
+- [**action**] Andre to add "Jeffrey Ndarake" "UknowZork" "Alfred Itodele" "Évéline Trinite" and "All" as new Names in the names controlled vocab here https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing [**assignee**] André [**due**] 30 April 2025 [**status**] todo
+- [**action**] André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags [**assignee**] André, CallyFromAuron [**due**] 2 April 2025 [**status**] done
+- [**action**] Vani to add any new tasks to the GitHub Board which have been funded for Q2  [**assignee**] CallyFromAuron [**due**] 30 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AGIX price, Q2 2025 budget, controlled vocab, Collaboration, collaboration with spinoffs and partners, WG Sync call, Knowledge management across the singularityNET ecosystem, cross-chain collaboration, Correcting errors in meeting summaries,  ACP, stablecoin, AI ethics, meaning, graph RAG, managing low token price, BGI Nexus funding round, critical thinking
+- **emotions:** interesting, wide-ranging
+
+
 ## Thursday 3rd April 2025
 
 ### Governance Workgroup
