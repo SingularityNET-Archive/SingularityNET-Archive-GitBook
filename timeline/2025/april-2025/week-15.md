@@ -6,6 +6,7 @@ description: Mon 7th Apr - Sun 13th Apr 2025
 
 ## Monday 7th April 2025
 
+
 ### WG Sync Call
 
 - **Type of meeting:** Monthly
@@ -48,6 +49,67 @@ Peter highlighted the alignment of various spin-offs with decentralization and t
 #### Keywords/tags:
 - **topics covered:** BGI Nexus, Collaboration, spin-offs,  research, experiment, decentralized governance, Rejuve, tooling, Treasury, recordkeeping
 - **emotions:** Organised, Discursive,  Collaborative, Resourceful,  forward-looking, Conclusive
+
+
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], CallyFromAuron [**documenter**], CallyFromAuron, CollyPride, PeterE, Sucre n Spice, LadyTempestt, UKnowZork, Jeffrey Ndarake, Effiom, barnabas
+- **Purpose:** Regular monthly meeting of the AI Ethics Workgroup
+- **Working Docs:**
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+
+#### Narrative:
+Main topic of the meeting was the overall negative effects of low token price on the work of the group.
+
+We went through our GitHub Board https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2, starting with issues "In Progress", and then "To Do". 
+
+Many of the In Progress tasks are for transcription of research interviews, and are likely to be completed soon. However, due to low token price, we agreed that we will hold off from paying them for now, as this would use up all of our Q2 2025 budget (because budgets were calculated at $0.30, and token price is currently $0.16). Vani has DMed all those working on transcription, and they are all OK with waiting for payment.  
+
+We noted that technically, the WG went over budget at the end of Q1, due to an unexpected further price drop on the day we were paying out outstanding tasks. Vani has discussed this with Tevo in the Treasury Discord channel, arguing that when token price is falling, it matters less which Quarter a task was funded in, because a WG might need to dip into its reserves in order to pay for tasks from times when token price was higher. So when assessing if a WG is "in the red", we should look at the WG's *cumulative* budget, including any reserves - which means that this WG *isn't* over budget overall, if we count its reserves and its Q2 2025 allocation. 
+
+RE: outstanding tasks from previous Quarters, we noted that due to the nature of this WG, tasks have often involved a steep learning curve (such as interviewing), so it's understandable that people have taken considerably longer than expected to complete their work. Unless we decide in future to pay tasks in advance if token price is high, even if the task is not completed yet, there's little that can be done to mitigate this - we need to allow people time to learn and to get to grips with complex tasks. Nevertheless, we agreed that we do need to close interviewing and survey-sharing tasks from Q4 that are still outstanding. 
+
+(We briefly discussed the idea of either paying core tasks in advance, if we know they will definitely be done, or converting the money for them to a stablecoin - but we didn't draw a conclusion on this. We will raise it in the forthcoming Governance WG session on responses to low token price.)
+
+We then decided which as-yet-unpaid tasks from Q1 2025 will be paid as soon as the new allocation for Q2 is added to the Treasury dashboard, and which will have to wait.
+
+We noted that we need to do some fairly drastic budget fitting for Q2 due to low token price, so we agreed on where those cuts will be made - see the fitted Q2 budget in https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing
+
+We ended with a mention of the current BGI Nexus funding round, for proposals using AI for social good. There are 5 proposals by people from the Ambassador Program, so we encouraged people to vote. We noted that they are using an interesting "pairwise voting" process, where voters are presented with randomised pairs of proposals and must select their favourite of the 2.
+
+
+
+#### Decision Items:
+- At our May meeting, we will reassess whether we are able to pay transcription tasks yet (although if token price rises significantly before then, the WG admin team could decide to pay them then). 
+  - [**rationale**] In order for it to be "safe" to pay out, we're ideally looking for a price at or above the $0.30 at which the Q2 2025 budget was calculated.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that Vani will wait to be paid as co-chair for Q1 2025 until / unless token price goes up; but that Clement's pay for managing the AI Ethics forum in Q1 will be paid at the next payday.
+  - [**rationale**] Clement's pay is a relatively small amount ($80) so we can afford to pay it without jeopardising the Q2 budget.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Budget-fitting: we agreed that for Q2 2025, all the admin roles will be allocated less budget; documentation for the 3 meetings in Q2 will be folded in to the co-chair role and done by Vani, so there is no additional cost for that; and we will try to preserve at least some transcription work and some transcript-checking.
+
+If token price does rise significantly, we will aim to also do some new interviews.
+
+If by the time of our May meeting, token price is still below $0.20, then we will likely need to make even more cuts, as the proposed fitted budget assumes an exchange rate of $0.20
+  - [**rationale**] We see the collecting and processing of research data as a priority - so for now, our main focus will be on transcribing and finishing as many of the existing interviews as we can, so that we have some finished data to work with; and if token price goes up significantly, we will add new interviews.
+  - [**opposing**] No-one is entirely happy about these cuts, but needs must.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Colleen, in her role as community organiser, will be organising a community discussion session on "AI and emotion" as soon as possible
+  - [**rationale**] This will be covered by the $100 left in the budget for the "community engagement" role. This is a "hot topic" which we see as valuable to discuss.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani to chase Onize about the documentation of the February meeting, which is not yet completed [**assignee**] CallyFromAuron [**due**] 14 April 2025 [**status**] todo
+- [**action**] Vani to message Duke and Ese about closing their uncompleted interviewing tasks from Q4 2024, and Kenichi about his uncompleted Q4 survey-sharing task. [**assignee**] CallyFromAuron [**due**] 28 April 2025 [**status**] todo
+- [**action**] By the end of the Quarter, Vani will use the insights from the recent plenary session for interviewers, and this Issue on matters arising from interviewing https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/117, to update the interviewers' training materials. [**assignee**] CallyFromAuron [**due**] 30 June 2025 [**status**] todo
+- [**action**] Vani will look at the transcripts that have already been done, and assess whether the price we have agreed for checking and editing transcripts ($20 per interview) is what's needed, or whether it could be less (if transcribers have done good work, and not much checking is needed [**assignee**] CallyFromAuron [**due**] 30 April 2025 [**status**] todo
+- [**action**] Vani and Clement (co-chair and co-chair mentee) will be meeting with the BGI Nexus team to discuss overall priorities and how to deal with low token price. This will be before the next WG meeting in May. [**assignee**] CallyFromAuron, Clement Umoh [**due**] 5 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q2 2025 budget, low token price, Budget cuts, Interview Transcription, Workgroup reserves, uncompleted tasks, payment in advance, BGI Nexus funding round, pairwise voting, AI and emotion
+- **emotions:** Brief, despondent due to low token price, Only a few of those present spoke
 
 
 ## Tuesday 8th April 2025
