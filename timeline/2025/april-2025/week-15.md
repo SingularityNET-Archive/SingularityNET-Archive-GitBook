@@ -117,6 +117,41 @@ If by the time of our May meeting, token price is still below $0.20, then we wil
 ### Governance Workgroup
 
 Meeting was cancelled
+## Wednesday 9th April 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, frosh, Gorga Siagian, UKnowZork, Zalfred, hogantuso
+- **Purpose:** Greetings after holidays - Updates from presentation series - LLM Showcase - Process Doc for certification program - token price impact and move forward
+- **Working Docs:**
+  - [Process Document Certification Program ](https://docs.google.com/document/d/1_K0XyElxmG4FDrZGr9QCX-W5dwmBQAcszfMaLk45J-8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Updates from presentation series
+- LLM Showcase
+- Process Doc for certification program
+- token price impact and move forward
+
+#### Discussion Points:
+- The meeting started with Slate welcoming everyone and having a bit of topic discussion on holidays 
+- Then showcased his work on the presentation that he is almost done with the module 2 and sent and showcased the links to the research work 
+- Slate made some comments on the research work, to which gorga will make additions 
+- Then zalfred chipped in that he is working on the presentation series module #3
+- After that Slate showcased the new version of gemini which is capable of doing good work and can be beneficial to use for educational purposes 
+- Moving forward in the meeting the topic about the certification program process document started which was presented and inputs were taken and processes were explained 
+- Two research task were distributed to Zalfred and Tuso 
+- Zalfred raised a question on how to proceed with the token price fluctuation , on which Slate replied that we can take one project at a time to make things continue with flow without much impact on the budget 
+
+#### Action Items:
+- [**action**] Zalfred and Tuso to work upon the research task  [**assignee**] Zalfred, hogantuso [**due**] 16 April 2025 [**status**] in progress
+- [**action**] Update the process doc [**assignee**] Slate [**due**] 16 April 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** updates, Certification program, LLM development, newtools
+- **emotions:**  Collaborative,  Collaborative, Businesslike.
+
+
 ## Friday 11th April 2025
 
 ### Marketing Guild
