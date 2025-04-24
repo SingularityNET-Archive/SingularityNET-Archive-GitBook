@@ -185,6 +185,7 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 ## Thursday 3rd April 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -290,6 +291,55 @@ Vani presented the final draft of the Onboarding WG Q2 budget, emphasizing the i
 #### Keywords/tags:
 - **topics covered:** Budget Concerns,, Documentation Roster, AGIX price, Rewards
 - **emotions:**  Collaborative,  forward-thinking, Concern, Productive, Openness
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** osmium [**facilitator**], Kateri [**documenter**], Gorga Siagian, Kateri, osmium, martinsoki, UknowZork, Alfred Itodole, Santos, LordKizzy, AJ, Max milez, AshleyDawn, PeterE
+- **Purpose:** AI Sandbox Project Showcase
+- **Media link:** [Link](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj)
+- **Working Docs:**
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [Approval Form to Join Organisation(s) and approval for the Wormhole Key](https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true)
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing)
+  - [AI SANDBOX/THINK-TANK Session #22](https://docs.google.com/document/d/1VWcOZOntI_jtTmXHULxItp8_EwuaC8jaWvrXGGT-rCA/edit?usp=sharing)
+  - [ASI 1](https://docs.asi1.ai/docs/)
+  - [Skills Database](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: The meeting kicked off with Osmium, warmly welcoming everyone attendees in the meeting. 
+He encouraged members to submit their email on NuNet Testers Onboarding Form.
+Osmium presented the AI Sandbox Project Showcase, emphasizing its role as a play for highlighting innovative AI projects from SingularityNet community.
+
+- Introduction of the Skills Database (SDB): AJ gave a full presentation of the skill database. He explained that, the skill database is a structured skill registry designed to streamline team collaboration and that it enables users to provide their skills, expertise, availability and relevant experience. 
+
+He went further to talk about use cases of the skills database
+He said it could be used in real world scenarios, corporate team building, freelance and Gig platforms, organizations and educational institutions.
+
+He also explained the potential impact and benefits.
+He explained how it helps enhance collaboration, it informed decision making, it streamlined onboarding and it assured data privacy. 
+
+He explained the flow of the user and the admin in the skill database platform.
+- After AJ presentation, Advanceameyaw led a live testing session for the AI project, encouraging user participation and feedback while maintaining data privacy. He discussed the project's first version and future updates, engaging participants in conversations about their skills and interests in AI.
+We tested using random data of UknowZork suggested by members. He encouraged everyone to fill the form.
+
+Advanceameyaw detailed the technology stack used for the project and outlined the process for redeploying the application to identify and debug errors.
+
+Advance highlighted key challenges for developers and mentioned ongoing improvements, including a scalable deployment service. Vasu suggested integrating scheduling tools like Zapier and Google Calendar to enhance workflow efficiency. The discussion also touched on budget constraints, with Lordkizzy emphasizing the need to trim expenses and potentially reduce the frequency of AI tool exhibitions.
+
+#### Action Items:
+- [**action**] MartinSoki to document the next meeting  [**assignee**] martinsoki [**due**] 10 April 2025 [**status**] todo
+- [**action**] Members to submit their email to NuNet testers onboarding form [**assignee**] all [**due**] 10 April 2025 [**status**] todo
+- [**action**] Members to fill out the skill database project form [**assignee**] Members [**due**] 9 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Project Showcase, Skill Database
+- **emotions:** Welcoming, Interactive, Informative, Educative
+
+
 ## Friday 4th April 2025
 
 ### Marketing Guild
