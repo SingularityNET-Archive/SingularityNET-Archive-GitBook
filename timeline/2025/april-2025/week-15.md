@@ -117,3 +117,46 @@ If by the time of our May meeting, token price is still below $0.20, then we wil
 ### Governance Workgroup
 
 Meeting was cancelled
+## Friday 11th April 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], kareem, kenichi, Gorga Siagian, Eric Davies, Kateri, advanceameyaw, UknowZork, Jeffrey Ndarake, SubZero, CJFrankie, photogee, Malik, PeterE, esewilliams, Max Milez, LordKizzy, Udoma Obu
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [R&D New Proposal Submission [Template] ](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Workgroups >< Wider ecosystem collaboration](https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing)
+  - [ROLES AND RESPONSIBILITIES FOR MARKETING GUILD.](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Ayo kicked off the Marketing Guild call, welcoming attendees. Noticing the low turnout, he considered holding off a bit to see if more members would join. He encouraged everyone to show up a little earlier for future meetings.
+- Review of Action Items and Governance Document Discussion:
+Ayo led a review of the action items from the previous meeting, confirming that while some tasks had been completed, others remained outstanding. LordKizzy noted that there had been no response to a proposed call with representatives from the writers and marketing groups. Ayo emphasized the importance of reviewing the governance document and encouraged all present members to actively participate in the discussion.
+- Attendance Policy Discussion:
+Ayo brought up concerns regarding the attendance policy, particularly the rule imposing penalties on members who miss four consecutive meetings. Lordkizzy clarified that core members are expected to attend and engage actively, with consequences for missing more than two meetings within a single month. Peter questioned the significance of the distinction between consecutive and monthly absences, suggesting that the proposed penalties might need reconsideration.
+- Governance Discussions and Attendance Metrics:
+Ayo initiated a conversation around the governance documents, suggesting that if consensus couldn’t be reached, a dedicated focus group could be formed to conduct a thorough review. Photogee raised concerns about using attendance as a primary performance metric, arguing that it doesn’t necessarily reflect the value or impact of members' contributions. Ayo acknowledged the difficulties in the current decision-making process and invited suggestions on how to enhance member commitment and encourage more consistent feedback. 
+Kenichi emphasized the importance of developing a living governance document—one that evolves alongside the guild’s goals and incorporates community input through tools like Discord polls. He proposed that any modifications to the document be put to a vote, ensuring transparency and collaborative decision-making. Ayo raised the question of whether to move forward with the current version or integrate suggested changes, stressing the need for clarity in how such decisions are made.
+Ayo spoke on the importance of commitment within the Marketing Guild, emphasizing that the guild’s vitality depends on consistent, active participation—not just maintaining a channel. He noted the lack of recent discussion around the Governance Document and proposed three potential paths forward: moving ahead with the current version, continuing broader discussions, or forming a focus group for deeper evaluation. Ayo also addressed concerns related to payment decisions, highlighting their possible influence on member performance and engagement.
+Ayo highlighted how late arrivals disrupt meeting flow and urged members to inform the group in advance if they’re unable to attend. Lordkizzy echoed the importance of regular meetings for maintaining accountability, noting that they foster direct communication and help clarify each member’s level of commitment. He also observed that past efforts to engage members outside of scheduled meetings had proven less effective.
+Kenichi raised concerns about the current governance process and proposed improvements to the voting documentation, suggesting Discord as a platform for better tracking and transparency. Ayo welcomed the suggestions and reiterated the importance of punctuality to ensure productive discussions during meetings. He also emphasized the value of gathering input from members who are unable to attend, to ensure broader participation in decision-making.
+Lordkizzy opened a discussion on Peter’s document, emphasizing its importance and the need to cover key topics such as attendance policies and budget planning. He presented a spreadsheet detailing current collaborations and encouraged members to contribute ideas to strengthen marketing efforts. Kenichi recommended raising awareness for guild projects and proposed the creation of dedicated funding pools to support targeted initiatives.
+
+#### Action Items:
+- [**action**] LordKizzy to reach out to kenichi regarding the Zealy initiative allocation for Writers WG  [**assignee**] LordKizzy [**due**] 4 April 2025 [**status**] todo
+- [**action**] Eric Davies to provide clarity on the options for the Discord bot in the next meeting. [**assignee**] Eric Davies [**due**] 4 April 2025 [**status**] todo
+- [**action**] Ayo to share the governance document for review in the next meeting. [**assignee**] Ayo [**due**] 18 April 2025 [**status**] todo
+- [**action**] Kenichi to share a document related to event role and playbook for hosting Twitter spaces in the next meeting. [**assignee**] kenichi [**due**] 18 April 2025 [**status**] todo
+- [**action**] Lordkizzy to add suggestions to the collaboration document shared in the chat. [**assignee**] LordKizzy [**due**] 18 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance document, Proposals
+- **emotions:**  informative,  insightful,  Collaborative
