@@ -32,3 +32,31 @@ Ambassador program website: In this meeting, Ines proposed the idea of creating 
 
 #### Learning Points:
 -
+## Wednesday 23rd April 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], esewilliams, frosh, Gorga Siagian, LordKizzy, osmium, smilez, Zalfred, hogantuso, UKnowZork
+- **Purpose:** module adjustments - Zalfred Presentation on Canvas LMS - portfolio form
+#### Discussion Points:
+- Slate started the meeting welcoming everybody 
+- Then after the welcome the meeting shifted to discussing the topic of the updates which were suggested to Gorga's presentation on DeepDive Ecosystem, which covered the addition of AI marketplace interaction and how to work with it 
+- Afterwards this Zalfred presented his presentation on Canvas LMS platform , which according to the feedback felt really nice for the hosting of CCCP as it offers most of the feature that we are looking for and seems like a best fit 
+- Tuso mentioned that he will be working on his presentation this week and will present in the next 
+- Zalfred mentioned that he is going to be awaiting kenichi's reply on the adjustment that are needed to be made on the presentation series 
+- At the end Slate shared the portfolio form on which discussion was held asking for improvement points and others, the form will be shared with everyone to participate by tomorrow 
+
+#### Decision Items:
+- Canvas LMS seems like a good option for CCCP 
+  - [**rationale**] Most agreed 
+  - [**opposing**] nil
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Slate to share the form [**assignee**] Slate [**due**] 24 April 2025 [**status**] in progress
+- [**action**] Zalfred to work upon the research module  [**assignee**] Zalfred [**due**] 30 April 2025 [**status**] in progress
+- [**action**] Tuso to work upon the research task  [**assignee**] hogantuso [**due**] 24 April 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** projects, CCCP,  research
