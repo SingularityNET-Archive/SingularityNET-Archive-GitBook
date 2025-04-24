@@ -184,6 +184,7 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 
 ## Thursday 3rd April 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -247,3 +248,45 @@ We also noted that:
 #### Keywords/tags:
 - **topics covered:** consent process, Q2 2024 budget, abstention, tracking concerns, PowerBI, anonymity, dashboard
 - **emotions:** good-natured,  forward-looking,  Collaborative
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Clement Umoh [**facilitator**], LordKizzy [**documenter**], LordKizzy, Sucre n Spice, Love, CallyFromAuron, AshleyDawn, Jeffrey, martinsoki, Kateri, UKnowZork, Alfred Itodele, zainab, CJFrankie, Effiom, Clement Umoh
+- **Purpose:** Bi-weekly meetings update on how to onboard people in our community 
+- **Working Docs:**
+  - [Context-setting for Core Contributor decision on Q2 2024 budgets](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [Analysis for Interview Answers to Onboarding To Decentralisation Research](https://docs.google.com/document/d/1QoiFu7sdgmmJbeOGe3ig8-JtvMvlGT5w9ctnXJYyc2E/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting Kickoff and Budget Updates: Clement kicked off the meeting with a discussion on action items. Sucren gave an update on the members' engagement, noting that some inactive members were contacted, while some active members received the onboarding tag, allowing them to participate in tasks. Vani provided an update on the timestamping task for the M&E Session. She mentioned that Onize had requested the session recording, and the task is currently in progress.
+- Onboarding to Decentralization Analysis Update
+Lordkizzy and Clement presented the analysis doc in the meeting ( https://docs.google.com/document/d/1QoiFu7sdgmmJbeOGe3ig8-JtvMvlGT5w9ctnXJYyc2E/edit?usp=sharing), noting the significant changes that were made to the document. Vani noted that some of the recommendations (Onboarding session, Training sessions) had already been done within the program, and they received low participation. Lordkizzy noted that most members are not aware of the processes in place within the program for onboarding to decentralization and suggested that we should make more efforts in raising the level of awareness on this.
+- Onboarding WG Budget Discussion
+Vani presented the final draft of the Onboarding WG Q2 budget, emphasizing the importance of prioritizing the Skillshare session on "Understanding the Ecosystem" to sustain morale and engagement. She noted that meetings will be held monthly rather than biweekly, with a focus on supporting onboarders. Additionally, she mentioned that payment schedules are being considered, with options for monthly or quarterly disbursements.
+- AOB: BGI Voting Round: Clement reminded the group that the BGI Voting round was live and encouraged members to review proposals before the voting deadline.
+
+#### Decision Items:
+- We decided that Clement should facilitate in place of Duke
+  - [**rationale**] Duke wasn't present in the call
+- We decided to transition to monthly sessions
+  - [**rationale**] This is due to the impact of AGIX price decline on the workgroup budget
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to implement all the changes in the reduced budget
+  - [**rationale**] Given AGIX price might be worth nothing right now
+
+  - [**opposing**]  We worked out that if token price drops below $0.17 for any length of time, we will not be able to afford even this, and will have to rethink.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kizzy to complete the “Onboarding to Decentralization analysis” before the next meeting.
+ [**assignee**] LordKizzy [**status**] done
+- [**action**] Kizzy to rework on the onboarding facilitation and documentation roster 
+ [**assignee**] LordKizzy [**status**] done
+- [**action**] Vani will provide an update on the fitted budget due to the token price drop in the next meeting on April 3rd. [**assignee**] CallyFromAuron [**status**] done
+- [**action**] Colly Pride will send a direct message to Duke to confirm his facilitation for the meeting on April 3rd. [**assignee**] CollyPride [**status**] cancelled
+- [**action**] Lordkizzy to send a reminder to kateri to document the next meeting [**assignee**] LordKizzy [**due**] 1 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget Concerns,, Documentation Roster, AGIX price, Rewards
+- **emotions:**  Collaborative,  forward-thinking, Concern, Productive, Openness
