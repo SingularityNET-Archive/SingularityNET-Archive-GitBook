@@ -152,6 +152,46 @@ Meeting was cancelled
 - **emotions:**  Collaborative,  Collaborative, Businesslike.
 
 
+## Thursday 10th April 2025
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Kateri, martinsoki, Santos, LordKizzy, AJ, advanceameyaw, CollyPride, Jeffrey, Shalini
+- **Purpose:** AI Sandbox Project Showcase
+- **Media link:** [Link](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj)
+- **Working Docs:**
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [Approval Form to Join Organisation(s) and approval for the Wormhole Key](https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true)
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing)
+  - [AI SANDBOX/THINK-TANK Session #22](https://docs.google.com/document/d/1VWcOZOntI_jtTmXHULxItp8_EwuaC8jaWvrXGGT-rCA/edit?usp=sharing)
+  - [Skills Database](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj)
+
+#### In this meeting we discussed:
+- Introduction of New member: The discussion began with a warm greeting from LordKizzy. Lordkizzy addressed the group regarding the Unix testers onboarding form, noting complications with the Unix team's email communication. He urged participants to complete the onboarding form for NuNet appliances. He also gave reminders about the ASI form shared in a previous town hall.
+
+- Intellectual Property and AI Ethics Discussion:
+The session, led by Lordkizzy, focused on the intersection of intellectual property and AI ethics, fostering open dialogue among participants. Key concepts associated with AI ethics—such as equity, fairness, and responsibility—were highlighted by Advance and Gorga. The group participated in a poll on whether AI models should hold intellectual property rights for their generated content, which yielded a range of differing opinions.
+Discussion on AI Ownership and Intellectual Property Rights: The conversation further explored the issue of AI ownership and intellectual property rights, some participants argued that such rights should belong to the humans who create and operate AI systems, emphasizing that AI lacks agency and intent. Gorga added that ownership implies emotional and social dimensions—qualities machines do not possess.
+Discussion on Credit Attribution in AI Development: The group expressed varied perspectives on the legal and ethical implications of AI-generated content. Advanceameyaw emphasized the importance of proper credit attribution in AI development. He noted that while AI models like ChatGPT often receive significant public attention, the contributions of the developers behind these technologies frequently go unrecognized. LordKizzy agreed that credit should be context-dependent, taking into account the roles of both developers and data owners in the success of AI systems. 
+Discussion on AI Creation and Ownership: Lordkizzy led the conversation into the philosophical dimensions of AI as a product of human creation, with its roots traced back to divine creation. The ownership of AI outputs and the broader implications of AI’s existence in relation to God were debated. Lordkizzy acknowledged the complexity of the topic and invited further contributions from other participants in the conference room to continue the discussion.
+Exploring the Value of AI in Creative Works: Advanceameyaw articulated the distinction between human creativity and AI, suggesting that while human work is authentic, AI operates through simulation. CollyPride added that the embodiment of AI in robotics could help bridge the gap between synthetic and real-world applications. Lordkizzy supported the idea that AI-generated art should not be viewed as less valuable than human-created art, as both forms can contribute meaningfully to the creative landscape.
+Consequences of Assigning Rights to AI: The conversation, initiated by Lordkizzy, centered on the potential consequences of granting rights to AI, particularly in relation to intellectual property. Concerns were raised by a participant regarding the autonomy of AI without human oversight and the necessity of a universal reputation system to ensure accountability. Lordkizzy highlighted the challenge of determining responsibility for AI’s actions, stressing the need for clearer legal frameworks and enforcement mechanisms.
+
+
+
+#### Action Items:
+- [**action**] Members to submit their email to NuNet testers onboarding form [**assignee**] all [**due**] 17 April 2025 [**status**] todo
+- [**action**] Lordkizzy to inform the NuNet team about updates to the onboarding form. [**assignee**] LordKizzy [**due**] 17 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** NuNet appliance release update, Intellectual Property and AI Ethics
+- **emotions:** Welcoming, Interactive, Educative,  Collaborative
+
+
 ## Friday 11th April 2025
 
 ### Marketing Guild
