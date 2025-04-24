@@ -85,6 +85,32 @@ Decentralised organisations seem to use Knowledge Bases more often
 - **emotions:**  Collaborative, Businesslike.
 
 
+## Wednesday 16th April 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], kenichi, osmium, esewilliams, Zalfred, hogantuso, eve, AshleyDawn, Malik, Gorga Siagian
+- **Purpose:** CCCP Discussion - Presentation Series Discussion - Malik Presentation From Gamers Guild 
+#### Discussion Points:
+- Meeting started off with the discussion on the last week topic of Certification Program, and its process document .
+- Two platforms are being discovered: Canvas LMS and Moodle, which are being done by zalfred and tuso respectively.
+- Slate outlined the process of getting information regarding the portfolio's and other materials for the selection of creators. 
+- Then the discussion on Presentation Series project started, with the discussion on module 2 and 3 which are being worked by zalfred and gorga , still some modifications required in both 
+- Ese had some question for kenichi in regards to the presentation series : 
+"So this would be updated overtime?
+Cos we have knowledge bank of SingularityNet everywhere. So why should we use the presentation for every event knowing fully well every event have their theme, focus, and even pattern. How then would we be able to use it"
+- These questions were answered by Kenichi
+- Then Malik presented the Gamers Guild presentation of Education Guild which was liked and approved, with a little modification/ addition of certified tag on the NFT section 
+
+#### Action Items:
+- [**action**] Work upon Portfolio Forms  [**assignee**] Slate [**due**] 23 April 2025 [**status**] in progress
+- [**action**] Work upon Modules  [**assignee**] Gorga Siagian, Zalfred [**due**] 23 April 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:**  ACP, Google Classroom, proceses,  Budget Allocation
+
+
 ## Friday 18th April 2025
 
 ### Marketing Guild
