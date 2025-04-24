@@ -4,6 +4,87 @@ description: Mon 14th Apr - Sun 20th Apr 2025
 
 # Week 16
 
+## Tuesday 15th April 2025
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Évéline Trinité [**documenter**], Tevo, Gorga Siagian, Évéline Trinité, advanceameyaw, Jeffrey Ndarake, Effiom
+- **Purpose:** AGGREGATING AMBASSADOR PROGRAM ASSETS AND RELEVANT INFORMATION UNDER GITBOOK 
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764622431858027&cot=10 )
+- **Working Docs:**
+  - [Dework]((https://app.dework.xyz/singularitynet-ambas/process-guild))
+
+#### Agenda item 1 - WORKGROUP MANAGEMENT  - [resolved]
+
+#### Discussion Points:
+- Dework Task Management 
+- Who will collect assets?
+
+#### Decision Items:
+- Recognise Knowledge Base WG contributions using Github
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Daniel Effiom to draft Q2 progress report. [**assignee**] Effiom [**status**] todo
+- [**action**] Gorga to review Q2 Progress report. 
+ [**assignee**] Gorga Siagian [**status**] todo
+- [**action**] Eveline to draft Meeting summary  [**assignee**] Évéline Trinité [**status**] todo
+- [**action**] Gorga to review meeting summary 
+ [**assignee**] Gorga Siagian [**status**] todo
+- [**action**] Daniel Effiom and Tevo lead to collect the assets [**assignee**] Tevo [**status**] todo
+
+#### Agenda item 2 - REVIEW KNOWLEDGE BASE GITBOOK - [carry over]
+
+#### Discussion Points:
+- What is the Knowledge Base GitBook useful for?
+- The Knowledge Base GitBook serves as a structured repository for storing key assets and information, enabling better coordination in a decentralized environment. It helps establish a commonly understood source of truth, ensuring alignment and accessibility across contributors.
+- The Knowledge Base GitBook is for searching general information about the Ambassador Program and understanding how contributors are engaging with current projects.
+- While the initial Miro Board layout helped visualise content types and identify gaps, the transition to GitBook has made it difficult to compare the coverage of questions.
+- Is there something that should be there that isn't there?
+
+- Is there a link that should be removed?
+- Is anything unclear or confusing?
+- Can you think of “why” or “how” questions that you would like to know about the Ambassador Program in the KB structure?
+- Do you use "Knowledge Bases" often?
+- 
+Decentralised organisations seem to use Knowledge Bases more often
+
+#### Decision Items:
+- Focus on improving the guiding Knowledge Base users
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Create a short (2min) video Tutorial on how to use Gitbook.
+ [**status**] todo
+- [**action**] Create a short summary about the Knowledge Base approach for organising GitBook. [**status**] todo
+- [**action**] Tevo to update Miro Board Colours to match with the new asset visibility status on GitBook [**assignee**] Tevo [**status**] todo
+
+#### Agenda item 3 - REVIEW AND UPDATE END TO END KNOWLEDGE BASE UPDATE PROCESS - [carry over]
+
+#### Discussion Points:
+- Reviewed Knowledge Organising Process 
+- (New [Miro Board Window](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764624239502493&cot=10))
+
+- Should we create templates and publicity material?
+
+#### Decision Items:
+- This quarter, we will collect material without templates and publicity, but collect information that the selected leads choose to add to GitBook
+
+  - [**effect**] mayAffectOtherPeople
+- We agreed that short tutorial videos will be created by members of the Knowledge Base Workgroup who are both willing and familiar with the content. If additional support is needed, we’ll follow the [Video Workgroup’s commissioning process](https://snet-ambassadors.gitbook.io/home/workgroups-space/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup) to request assistance.
+
+#### Action Items:
+- [**action**] Create a video showing and explaining the steps in the Organising Process [**status**] todo
+- [**action**] Check back on the last meeting before Q3 submission if we benefit from having built in onboarding features used by our Organising GPT to help contribute to workgroup [**status**] todo
+- [**action**] Check back on the last meeting before Q3 submission if we benefit from updating the Miro Board Organising Resources View (as now its directly done in Google Sheet using [KB GPT](https://chatgpt.com/g/g-5ynQ4fAv6-ambassador-program-knowledge-base-wg-ai-organiser))
+ [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Gitbook, Miro Board, Dework, Q2 Progress report, Video Tutorial, Summary, Github, knowledge base
+- **emotions:**  Collaborative, Businesslike.
+
+
 ## Friday 18th April 2025
 
 ### Marketing Guild
