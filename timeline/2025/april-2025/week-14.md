@@ -290,3 +290,37 @@ Vani presented the final draft of the Onboarding WG Q2 budget, emphasizing the i
 #### Keywords/tags:
 - **topics covered:** Budget Concerns,, Documentation Roster, AGIX price, Rewards
 - **emotions:**  Collaborative,  forward-thinking, Concern, Productive, Openness
+## Friday 4th April 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], kareem, kenichi, Gorga Siagian, Eric Davies, Kateri, advanceameyaw, UknowZork, Jeffrey Ndarake, Mikasa, CJFrankie, photogee, Malik, PeterE, esewilliams, LordKizzy, Zainab
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+
+#### Discussion Points:
+- Introduction of New member: The discussion began with a warm greeting from Ayo. Zainab shared her experiences around the program and also introduce herself. Marttinsoki apologized for submitting the Meeting Summary note late.
+- Q1 Retrospective Discussion: LordKizzy highlighted the Guilds achievements but pointed out communication gaps with other guilds and workgroups. He stressed the importance of increasing awareness of the content calendar and the Ambassador program's processes. CJFrankie raised concerns about the ambassador program's effectiveness, suggesting a reduction in meetings and a focus on marketing initiatives. He emphasized the importance of community engagement through events and branded merchandise to raise awareness. CJFrankie also mentioned the potential for fundraising efforts, such as GoFundMe, to support these initiatives. Kareem emphasized the need for the Marketing Guild to create greater awareness about SingularityNet and its projects, arguing that current activities are too meeting-centric with limited outcomes. He suggested leveraging trends in the Web3 space for relevant content creation. Ayo questioned the implementation of marketing strategies, particularly regarding the roles of writers and video workgroups, while also noting that the ambassador program may not fully recognize its marketing responsibilities. Kareem suggested that the Ambassador Program might adopt new practices based on his experience. LordKizzy pointed out that the program's fixed allocation in agents creates challenges, particularly when the token price fluctuates, impacting the overall effectiveness of the program. He noted the absence of a supervisory council to address these issues and mentioned that many guilds are struggling due to the current funding structure.  
+- Q2 Budget Discussion: LordKizzy pointed out the concerning low participation in a recent consent form from marketing guild members, which raises questions about engagement and involvement in critical decisions. He also mentioned that there are still some objections that need to be addressed, with the first one being related to the Zealy initiative. LordKizzy provided clarity on the Zealy Initiative and Zealy Impact. LordKizzy discussed the marketing group's budget for Q1 2025, revealing that expenses exceeded the planned budget by $1,100. He emphasized the difficulties arising from the low token price, which affects the distribution of rewards to the core/task force members and the execution of various initiatives. A proposal was made to revert to previous allocation rates to manage the financial strain. Kenichi highlighted ongoing issues with Zealy participants not receiving their rewards, while LordKizzy pointed out the lack of a public announcement detailing who was to be rewarded. LordKizzy stated that payments had been made twice, but confusion over account verification and duplicate names complicated the process. Both speakers agreed on the need for clearer communication and a more organized approach to reward distribution. Ayo called for finalizing the governance document to improve decision-making and budgeting processes, and Martisoki was encouraged to gather action items for review in the next meeting, with a reminder for Guild members to arrive early for enhanced productivity.
+
+#### Action Items:
+- [**action**] Jeffrey to put a comment in the Marketing Guild channel on Discord to help us identify him. [**assignee**] Jeffrey  [**due**] 11 April 2025 [**status**] todo
+- [**action**] LordKizzy to reach out to kenichi regarding the Zealy initiative allocation for Writers WG  [**assignee**] LordKizzy [**due**] 11 April 2025 [**status**] todo
+- [**action**] Eric Davies to provide clarity on the options for the Discord bot in the next meeting. [**assignee**] Eric Davies [**due**] 11 April 2025 [**status**] todo
+- [**action**] Martinsoki to put all the action items for review in next call [**assignee**] martinsoki [**due**] 11 April 2025 [**status**] todo
+- [**action**] Ese to document all Q1 useful links into our Github Issue Board [**assignee**] esewilliams [**due**] 11 April 2025 [**status**] todo
+- [**action**] Photogee to share the Marketing Guild Google Drive to LordKizzy [**assignee**] photogee [**due**] 11 April 2025 [**status**] todo
+- [**action**] All members to review the governance documents and provide comments before the next meeting.  [**assignee**] members [**due**] 11 April 2025 [**status**] todo
+- [**action**] LordKizzy to execute the March payment status poll to finalize decisions on budget allocations. [**assignee**] LordKizzy [**due**] 11 April 2025 [**status**] todo
+- [**action**] LordKizzy to clarify the benefits of the Zealy initiative to improve understanding among members. [**assignee**] LordKizzy [**due**] 11 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q2 2025 budget, Initiatives,  Budget Allocation,  Zealy sprints 
+- **emotions:** Insightful, welcoming, progressive, relaxed, collaborative
