@@ -154,6 +154,7 @@ Meeting was cancelled
 
 ## Thursday 10th April 2025
 
+
 ### AI Sandbox/Think-tank
 
 - **Type of meeting:** Sandbox
@@ -190,6 +191,46 @@ Consequences of Assigning Rights to AI: The conversation, initiated by Lordkizzy
 #### Keywords/tags:
 - **topics covered:** NuNet appliance release update, Intellectual Property and AI Ethics
 - **emotions:** Welcoming, Interactive, Educative,  Collaborative
+
+
+
+### African Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Duke [**facilitator**], Kateri [**documenter**], Duke, CJFrankie, esewilliams, Kateri, UKnowZork, Jeffrey Ndarake
+- **Purpose:** Bi-weekly meeting of the African Guild
+- **Working Docs:**
+  - [SingularityNET Africa Community](https://t.me/+NzN4KY30apI5Y2M0)
+  - [WG Communication](https://docs.google.com/document/d/1fygdMec6JD2j1KJYBdPi9WhpbjqpibK14GX49OmTYgw/edit?tab=t.127y5qorgs7x#heading=h.dgwohtz6gi0c)
+
+#### Narrative:
+Introduction: The weekly meeting kicked off with a warm welcome from Duke. Before we got into the main agenda, he had a quick chat with us about the current drop in AGIX price and how we don’t have any reserves to fall back on at the moment. We also went over the summary notes from the last meeting, it was great but a few corrections were spotted and sorted out.
+
+Budget and Budgeting:
+Duke shared that our budget has been approved, but the AGIX price drop is becoming a real concern. He mentioned that last quarter we got 9,500 AGIX, which was around 5,220 USD and because of the token price, we’re working with just 2,850 USD this quarter at the same 9,500 AGIX, noting that it’s way below what we were hoping for.
+
+Budget Discussion:
+We had a quick discussion on how to move forward this quarter with the current AGIX market price. Duke mentioned that we’re already on biweekly meetings, which aren’t as effective as weekly ones. Monthly meetings were also mentioned but was not considered 
+
+CJ brought up a suggestion from the Writer Workgroup. He shared that they’ve started paying in AGIX instead of USD and have cut out some of the more interesting and interactive tasks to stay within budget. Duke acknowledged it as a good idea, but also pointed out that this method pushes the risk of price fluctuations onto individuals.
+
+Pending Tasks: Duke also reminded us that we still have some unpaid tasks from Q1 that, we initially agreed to hold off on payments until AGIX went back up, but here we are in a new quarter, and the token price is still down. If we decide to pay out now, it’ll eat way into out Q2 budget 
+
+We suggested four possible options to handle this:
+1. Pay all pending tasks now and work with whatever is left.
+2. Pay only half of the amount owed.
+3. Pay the pending tasks in USD and new ones in AGIX.
+4. Pay out everything in AGIX.
+
+Duke stressed the need for some quick math and budget readjustments. To move forward, an urgent focus group meeting will be held, and it’s open to anyone interested in being part of the discussion.
+
+
+#### Action Items:
+- [**action**] Host a focus group meeting to decide how to settle pending Q1 tasks and do the necessary readjustments. [**assignee**] all [**due**] 24 April 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Q2 Budget decision , Collaboration, Documentation, Ambassador program, community manager, Pending rewards , Budget
+- **emotions:**  Collaborative, Businesslike.
 
 
 ## Friday 11th April 2025
