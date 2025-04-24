@@ -66,6 +66,7 @@ As the meeting ended, We focused on budget adjustments, clearer documentation, a
 - **emotions:**  informative, Quiet, Only a few of those present spoke
 ## Wednesday 2nd April 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -138,6 +139,47 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 #### Keywords/tags:
 - **topics covered:** AGIX price, Q2 2025 budget, controlled vocab, Collaboration, collaboration with spinoffs and partners, WG Sync call, Knowledge management across the singularityNET ecosystem, cross-chain collaboration, Correcting errors in meeting summaries,  ACP, stablecoin, AI ethics, meaning, graph RAG, managing low token price, BGI Nexus funding round, critical thinking
 - **emotions:** interesting, wide-ranging
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], LordKizzy, advanceameyaw, guillermolucero, jeffrey ndarake, Bandojayy, AshleyDawn
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form ](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+
+- Review of last meeting summary Action Items
+
+
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+
+
+- MetaCoders Lab Discussion
+
+- AOB Open discussions
+- Project Showcase Preparation for R&D Guild
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members
+
+- New proposal applications: Guillermo noted that he was going to put the three proposal submissions to a vote within the week.
+- UPDATE STATUS ON DEVELOPMENT: CSDB-Collaboration-Skills-Database: Advanceameyaw outlined that a showcase was planned for the AI Sandbox session. advanceameyaw also informed the guild on the difficulties encountered with Railway in fetching static files, which affects the appearance of the admin portal. The team had previously used Heroku for testing but opted for Railway to improve performance and reduce costs. Lordkizzy raised a question about the timeline for moving back to Heroku and its impact on project completion, which advance emphasized the benefits of deploying services on Heroku, particularly its user-friendly interface and free tier options. He compared the costs of Heroku and AWS, indicating that AWS could be more expensive unless they already have an account. Lordkizzy raised the question of whether they could use Kenichi's AWS account for their project deployment, to which Advanceameyaw agreed it could be a viable option.
+- Project Showcase Preparation for Collaboration Skill Database by R&D Guild Members with AI Sandbox: Lordkizzy detailed the upcoming project showcase for the Collaboration Skill Database, emphasizing its key features, including an in-depth overview, live demonstrations, and an exploration of real-world applications. Advance also mentioned that the session will cover challenges encountered during the project and improvements made, providing valuable insights for attendees. Guillermo provided some feedback to advance on the project, noting he should add a brief project description and noted that there would be another presentation of the project at Deepfunding TH.
+
+#### Action Items:
+- [**action**] Lordkizzy to follow up on communication with the soft launch of the deployment of Legacy [**assignee**] LordKizzy [**due**] 9 April 2025 [**status**] in progress
+- [**action**] Guillermo will advertise the voting for the new proposals. [**assignee**] guillermolucero [**due**] 9 April 2025 [**status**] todo
+- [**action**] Advance to check if Kenichi's AWS account can be used for the project deployment. [**assignee**] advanceameyaw [**due**] 9 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Nunet, CSDB,  Team Collaboration , Project Showcase, Proposals
+- **emotions:**  Collaborative,  informative,  Understanding.  
 
 
 ## Thursday 3rd April 2025
