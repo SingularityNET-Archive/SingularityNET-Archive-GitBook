@@ -216,6 +216,7 @@ Topics
 
 
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -454,6 +455,63 @@ Planning with the 4k AGIX cap
 ### Writers Workgroup
 
 No Summary Given
+
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** kenichi [**facilitator**], CJFrankie [**documenter**], kenichi, Mikasa, CJFrankie, Gorga Siagian, Emmauel, devon, Nebula, Evelyn, LordKizzy, Fav Eni
+- **Purpose:** The weekly meeting of the writers workgroup
+- **Working Docs:**
+  - [WWG Role Document V1](https://docs.google.com/document/d/1Snol58978ZkEtWpIBv0VNEwqsdM8ZHz9jsvOyr4qmA4/edit?usp=sharing)
+  - [SingularityNET Ambassador Program End of Year report 2024](https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit)
+
+#### Narrative:
+Kick-off: The writers' workgroup weekly meeting kicked off at 3:10 p.m. Kenichi skimmed through the action items from the last meeting. 
+
+Twitter Premium+: We started by discussing how three workgroups (writers, video, and marketing) can collaborate to subscribe to a Twitter premium plan. Kenichi added that it would be a great idea for us to pay for a yearly subscription. 
+
+Community page on X: One of the WWG's missions for 2025 is to see our platforms grow while reaching a wider audience, such as crypto and web3 enthusiasts. In our last meeting, we decided to start pushing out Town Hall recaps: a weekly report that covers highlights from the ambassadors program. More so, the monthly workgroup updates are no different! We also seek to share these insights with the community using the community page on X. Kenichi also spoke about the need for having moderators on the community page to oversee the process and also reply to questions from anyone. Additionally, he urged Scribblers to join the page and also introduce themselves.
+
+Momentarily, Mikasa added that some of the engagement on X is from people outside the ambassador program; she suggested integrating a bot that would create an announcement on the discord server for people to see when new announcements are made. This led to a discussion about whether to have a separate channel for these announcements. Kenichi embraced the idea and said he’d reach out to Peter to discuss things further.
+
+Web3 publishing platforms: This conversation started in Q4 2024. In this meeting, CjFrankie showcased Mirror.XYZ. A Web3 publishing platform that allows publishers to turn their fans or readers into collectors, it also allows publishers to mint all their content, and it allows for collaboration through co-authorship and multi-sigs. In the same light, Gorga introduced Cardano Spot, he added that the WWG can take advantage of it since we’re building on a Cardano platform, he said that the platform enables users to create a community and also publish their work. Kenichi embraced the idea and he asked Gorga to make a presentation for the next meeting, on Friday. Additionally, Kenichi proposed that CjFrankie and Gorga should write an introductory draft for Mirror and Cardano Spot respectively. The draft should introduce the SNET ambassador program, reference the latest updates like the ecosystem digest, and the first introductory draft of the ambassador program published on Medium. 
+
+Zealy collaboration: The meeting featured the likes of LordKizzy, who seeks collaboration between WWG, video WG, and the marketing guild. According to Kenichi, the next Zealy sprint would kick off by February, and as a result, the three workgroups would need to discuss what the reward structure would be like, how quests would be reviewed, and whatnot. 
+
+Role document: The WWG role document describes the roles of scribblers and scribes in the workgroup; Kenichi hinted that the role document would become active from the next meeting. Come next week, we shall review the document to see the KPIs attached to the roles we hold. 
+
+
+#### Decision Items:
+- The WWG has decided to use Mirror.xyz to push out content for the community.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We have decided that three workgroups (marketing, video WG, and the writers WG) will collaborate to purchase the Twitter premium plus subscription.
+  - [**effect**] mayAffectOtherPeople
+- We also decided to use Cardano Spot to build a community and publish content.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] CjFrankie and Gorga to write an introductory Draft for Mirror.xyz and Cardano spot respectively. [**assignee**] CJFrankie, Gorga Siagian [**due**] 7 February 2025 [**status**] done
+- [**action**] Kenichi to create a Mirror.xyz account and grant editing rights to CjFrankie.
+ [**assignee**] kenichi [**due**] 14 February 2025 [**status**] done
+- [**action**] Kenichi to create a Cardano Spot account and grant editing rights to Gorga.
+ [**assignee**] kenichi [**due**] 14 February 2025 [**status**] done
+- [**action**] Gorga to showcase how Cardano Spot works and how DAOs can use it.
+ [**assignee**] Gorga Siagian [**due**] 7 March 2025 [**status**] done
+- [**action**] Kenichi to draft a document for the structure, rules, and reward allocation for the forthcoming Zealy campaign.  [**assignee**] kenichi [**due**] 7 February 2025 [**status**] done
+- [**action**] Kenichi to chase Peter and discuss how to integrate a bot that would create an announcement on the discord server for people to see when new announcements are made on Twitter. [**assignee**] kenichi [**due**] 21 February 2025 [**status**] done
+
+#### Learning Points:
+- We learned how Mirror.XYZ can help DAOs support their work, mint their content, and give them full ownership over their content and readers.
+
+- Cardano Spot is a platform to build a community and publish written content for audiences.
+
+
+#### Keywords/tags:
+- **topics covered:** Cardano Spot, Mirror.xyz, Zealy collab, Engagement, Bots, Community page, Twitter, Web3 publishing platform, X premium, Weekly TH recaps, Role document , KPIs, Collaboration
+- **emotions:**  informative, Educative, lengthy, Collaborative
+
 
 ## Saturday 23rd November 2024
 
