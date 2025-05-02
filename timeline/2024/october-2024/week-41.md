@@ -48,29 +48,29 @@ A.O.B - Ayo expressed gratitude to the participants.
 - Q4 TASKS ROSTER UPDATE: It decided that if a member completes tax tasks for another member during their absence, the responsibility for that task will be reassigned to the member who was absent. 
 
 
-  - [rationale] To ensure accountability and equal distribution of workload among team members.
-  - [effect] affectsOnlyThisWorkgroup
+  - [**rationale**] To ensure accountability and equal distribution of workload among team members.
+  - [**effect**] affectsOnlyThisWorkgroup
 - We decided that any documenter or facilitator who does not attend the last two meetings prior to their assigned time will not be permitted to carry out their designated task.
 
 
-  - [rationale] This ensures that all members are adequately prepared and engaged in the meeting processes.
-  - [effect] affectsOnlyThisWorkgroup
+  - [**rationale**] This ensures that all members are adequately prepared and engaged in the meeting processes.
+  - [**effect**] affectsOnlyThisWorkgroup
 - BUDGET/BUDGETING FITTING AND BUDGET ASSESSMENT: We decided that the core members should schedule a call to conduct the budget fitting. 
-  - [rationale] This discussion will focus on aligning our budget with the guild needs.
+  - [**rationale**] This discussion will focus on aligning our budget with the guild needs.
 
 #### Action Items:
-- [action] Members are to update their records in the working document to meet the Core membership requirements [assignee] All Members  [due] 11 October 2024 [status] done
-- [action] The committee to investigate Gorga’s allegations of Ayo and Effiom [assignee] Tuso., Cjfrankie  [due] 7 October 2024 [status] todo
-- [action] Draft and make meeting notes available [assignee] effiom [due] 7 October 2024 [status] done
-- [action] Strategy call and strategic member tag update [assignee] Effiom [due] 7 October 2024 [status] done
-- [action] Resolve strategy guild quarter 3 reports and quarter 4 budget concerns before deadline [assignee] Effiom [due] 7 October 2024 [status] done
-- [action] Members to indicate interest to quarter 4 task roster by the end of the last meeting [assignee] All Members [due] 7 October 2024 [status] done
-- [action] Adoption of last meeting summary notes [assignee] All Members [due] 7 October 2024 [status] done
-- [action] Core members to schedule a call to conduct and analyze the budget fitting and present it in the next meeting. [assignee] Guild Core team [due] 21 October 2024 [status] todo
+- [**action**] Members are to update their records in the working document to meet the Core membership requirements [**assignee**] All Members  [**due**] 11 October 2024 [**status**] done
+- [**action**] The committee to investigate Gorga’s allegations of Ayo and Effiom [**assignee**] Tuso., Cjfrankie  [**due**] 7 October 2024 [**status**] todo
+- [**action**] Draft and make meeting notes available [**assignee**] effiom [**due**] 7 October 2024 [**status**] done
+- [**action**] Strategy call and strategic member tag update [**assignee**] Effiom [**due**] 7 October 2024 [**status**] done
+- [**action**] Resolve strategy guild quarter 3 reports and quarter 4 budget concerns before deadline [**assignee**] Effiom [**due**] 7 October 2024 [**status**] done
+- [**action**] Members to indicate interest to quarter 4 task roster by the end of the last meeting [**assignee**] All Members [**due**] 7 October 2024 [**status**] done
+- [**action**] Adoption of last meeting summary notes [**assignee**] All Members [**due**] 7 October 2024 [**status**] done
+- [**action**] Core members to schedule a call to conduct and analyze the budget fitting and present it in the next meeting. [**assignee**] Guild Core team [**due**] 21 October 2024 [**status**] todo
 
 #### Keywords/tags:
-- topics covered: Workshop, Task Assignment, Budget fitting
-- emotions: Casual, Organised
+- **topics covered:** Workshop, Task Assignment, Budget fitting
+- **emotions:** Casual, Organised
 
 ### AI Ethics WG
 
