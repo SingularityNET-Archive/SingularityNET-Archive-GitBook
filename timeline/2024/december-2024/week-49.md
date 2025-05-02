@@ -195,8 +195,7 @@ and discuss how the Archives dovetails with documentation that DF is doing itsel
 
 - Q1 Budget and Tier system
 - Facilitation in Q1
-- Open discussion
-How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.
+- Open discussion How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.
 
 #### Discussion Points:
 - Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members
