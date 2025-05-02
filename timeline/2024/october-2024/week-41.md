@@ -373,7 +373,7 @@ The LatAm team will be supporting the communication efforts and call 2 action fo
 ## Thursday 10th October 2024
 
 
-### AI Sandbox/Think Tank
+### AI Sandbox/Think-tank
 
 - **Type of meeting:** Weekly
 - **Present:** lord kizzy, osmium [**facilitator**], lord kizzy [**documenter**], CallyFromAuron, lord kizzy, Yemi Solves, osmium, Onize, guillermolucero, Malik., PeterE, Effiom, Valola, LadyTempestt, SubZero, Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, Ayo, Slate, Gorga Siagian, Boaz, Hogantuso, Apple, Kareem
