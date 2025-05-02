@@ -9,10 +9,10 @@ description: Mon 7th Oct - Sun 13th Oct 2024
 
 ### Strategy Guild
 
-- Type of meeting: Biweekly
-- Present: Clement [facilitator], Kateri [documenter], Ayo, Effiom, Ese Williams, Clement, Kateri, Eric Davies, TheFreysDefi, Kenichi, AshleyDawn, Mikasa
-- Purpose: Regular meeting of Strategy Guild.
-- Working Docs:
+- **Type of meeting:** Biweekly
+- **Present:** Clement [facilitator], Kateri [documenter], Ayo, Effiom, Ese Williams, Clement, Kateri, Eric Davies, TheFreysDefi, Kenichi, AshleyDawn, Mikasa
+- **Purpose:** Regular meeting of Strategy Guild.
+- **Working Docs:**
   - [Strategy Guild Meeting Notes - 9th September 2024](https://docs.google.com/document/d/1-cYP1zBwqZzTv05wz2BTM79ziCIhZEEJ9jELivVIupU/edit#heading=h.6fyp3cl3ve7w)
   - [Strategy Guild 23rd September Meeting Agenda](https://docs.google.com/document/d/1UCRZpNA74AESx8grFme9Am7e4JxRqPUfP8VNsppB4Uc/edit)
   - [Strategy Guild Meeting Notes - 23rd September 2024](https://docs.google.com/document/d/1j-876OG2KCtIaj8pH15i_rS0-hnFOhA5hLmGGOFw1kQ/edit?tab=t.0)
