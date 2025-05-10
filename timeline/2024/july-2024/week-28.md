@@ -633,7 +633,7 @@ In our discussions, we delved into the governance design for our global communit
   - [WG Agenda](https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit#heading=h.bni3waqetleu ))
 
 
-General Summary:
+#### Narrative:
 
 Clement Umoh raised concerns about the recurring scheduling conflicts and suggested finding a permanent solution to avoid wasting time. Duke proposed two options to address scheduling conflicts: complaining to Governance WG or changing the meeting time. These were put to a vote, with the group ultimately deciding to move the meeting to 5 p.m. on Thursdays.
 
