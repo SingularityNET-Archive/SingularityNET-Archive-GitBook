@@ -328,10 +328,6 @@ This Town Hall comprises monthly updates from each WorkGroup and Guild.
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Budget , Quarterly Report
 - emotions: Friendly, Thoughtful , speedy , Casual, productive, Organised, engaging new people, positive
 
-### Writers Workgroup
-
-No Summary Given
-
 
 ### Writers Workgroup
 
