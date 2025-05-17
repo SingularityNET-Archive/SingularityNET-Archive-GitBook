@@ -455,10 +455,6 @@ In Breakout Room 2 we reviewed the current Deep Funding branding manual and guid
 
 ### Writers Workgroup
 
-No Summary Given
-
-### Writers Workgroup
-
 - Type of meeting: Weekly
 - Present: Kenichi [facilitator], Cjfrankie  [documenter], Kenichi, Cjfrankie, LadyTempestt, Mikasa, Prime, ines gavina, Photogee, Kareem
 - Working Docs:
