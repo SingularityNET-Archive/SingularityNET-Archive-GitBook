@@ -371,9 +371,6 @@ Advertise that the next onboarding session is on 16th May.
 - topics covered: social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, video topics, Roles, Hypercycle
 - emotions: Friendly, Thoughtful , speedy , Casual
 
-### Writers Workgroup
-
-No Summary Given
 
 ### Writers Workgroup
 
