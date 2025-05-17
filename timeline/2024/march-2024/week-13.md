@@ -12,9 +12,9 @@ description: 25th March 2024 to 31st March 2024
 - Type of meeting: Weekly
 - Present: Felix [facilitator], Felix [documenter], Vanessa, Felix, Peter, Tevo, Vasu
 - Purpose: Weekly GovWG Meeting
-- Media link: [Link](https://app.read.ai/analytics/meetings/01HSXMDSYP9CXNA5CZERS7TJQV?utm\_source=Share\_CopyLink)
+- Media link: [Link](https://app.read.ai/analytics/meetings/01HSXMDSYP9CXNA5CZERS7TJQV?utm_source=Share_CopyLink)
 - Working Docs:
-  - [Weekly GovWG Meeting](https://app.read.ai/analytics/meetings/01HSXMDSYP9CXNA5CZERS7TJQV?utm\_source=Share\_CopyLink)
+  - [Weekly GovWG Meeting](https://app.read.ai/analytics/meetings/01HSXMDSYP9CXNA5CZERS7TJQV?utm_source=Share_CopyLink)
 
 #### Narrative:
 
@@ -93,7 +93,7 @@ This Town Hall comprises monthly updates from each WorkGroup and Guild.
 - Present: Curtis [facilitator], Onyeka [documenter], Vasu, Duke, WaKa, Guilermo, Rojo, Photogee, Boaz
 - Purpose: R&D discussions on Updates, Archiving, Project management
 - Working Docs:
-  - [Project Feedback Proposal: COLLABORATION SKILLS DATABASE_ 150224](https://docs.google.com/document/d/1a\_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY\_XXsCg8AS0/edit)
+  - [Project Feedback Proposal: COLLABORATION SKILLS DATABASE_ 150224](https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit)
   - [Final Guilds requested Budget](https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399)
   - [Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254)
   - [Typeform link](https://fqmtepho6kd.typeform.com/to/uHsVjdS5)
@@ -228,12 +228,12 @@ This Town Hall comprises monthly updates from each WorkGroup and Guild.
 - Present: Vanessa [facilitator], lord kizzy [documenter], Vanessa, LadyTempestt, SucrenSpice, Cjfrankie, duke peter, lord kizzy, Photogee, Boaz, Billy, Kenichi, osmium, Gorga Siagian
 - Working Docs:
   - [Draft doc on how to become a WG](https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit)
-  - [Onboarding workgroup Q2 budget proposal](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG\_TtVw/edit?usp=drivesdk)
+  - [Onboarding workgroup Q2 budget proposal](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
   - [Quarterly report for Q1](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk)
   - [Consent Decision-making for Ambassador Q1 budgets](https://docs.google.com/document/d/1c6GRhTowZw2cxqyKVYRHT27Zw0vAUg0ww2GEXsU2iiw/edit?usp=sharing)
-  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1IV4-7tsUJ99s4DY\_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit)
-  - [Ideas & Potential Improvements Doc](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc\_Ed8wT5s0iUiND8/edit?usp=sharing)
-  - [Continuous Onboarding Report](https://docs.google.com/document/d/1UEL60VgQ\_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit?usp=sharing)
+  - [ONBOARDING JOURNEY](https://docs.google.com/document/d/1IV4-7tsUJ99s4DY_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit)
+  - [Ideas & Potential Improvements Doc](https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit?usp=sharing)
+  - [Continuous Onboarding Report](https://docs.google.com/document/d/1UEL60VgQ_fQ4fDCO10B5HD-0IjnrEI56ZKyyijDj1qQ/edit?usp=sharing)
   - [ONBOARDING FACILITATION & DOCUMENTATION ROSTER](https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing)
 
 #### In this meeting we discussed:
@@ -383,7 +383,7 @@ Kenichi opened the floor to Scribblers to express if they want an increase or de
 - Present: Slate [facilitator], Slate [documenter], malik, rebel, hufiumer69, flyn, devon, Slate, lord kizzy, Gorga Siagian, martin, john
 - Purpose: Project "Ambassador Program On Roblox" and Gaming Session
 - Working Docs:
-  - [Quarterly Report](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh\_EdIL-bAlPFXiQ/edit?usp=sharing)
+  - [Quarterly Report](https://docs.google.com/document/d/10E9GCj7RoHwRSQk8hT7bbxOD1trYh_EdIL-bAlPFXiQ/edit?usp=sharing)
 
 #### Narrative:
 
