@@ -6,6 +6,7 @@ description: Mon 13th Jan - Sun 19th Jan 2025
 
 ## Monday 13th January 2025
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -110,6 +111,62 @@ Knowledge Base WG Proposal Q1 2025 - https://docs.google.com/document/d/1lV5E52t
 #### Keywords/tags:
 - **topics covered:** Workgroup management, Category Descriptions, Async work, Meeting attendance, Q2 2025 budget, Q2 2025 proposal, Q1 2025 report, task prioritising, meeting summary template, Meeting Summaries, community engagement, user feedback, Async, GitBook, Miro to GitBook, script
 - **emotions:** low attendance, Organised, simple
+
+
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], CallyFromAuron, LadyTempestt, PeterE, AshleyDawn, Mikasa, advanceameyaw, Gorga Siagian, CollyPride, Clement Umoh, Sucre n Spice, TheFreysDeFi, martinsoki
+- **Purpose:** Regular meeting of the AI Ethics WG
+- **Working Docs:**
+  - [2025 AI Conventions ](https://docs.google.com/spreadsheets/d/1n-qlSc2ji1Y1vScEpPCX6n7JfnpeduIpuT3RLs7o47c/edit?usp=sharing)
+  - [2025 AI Conventions Discussion Agenda  _ 12092024](https://docs.google.com/document/d/1m89jxkScjBXxcw8l6IoozSF2VOG_g-oLyTpHt_dFkJI/edit?usp=sharing)
+  - [AI Ethics WG GitHub repo](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues)
+  - [AI Ethics WG stuff](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [WG Sync call feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf5c_9AyIgLGkmbG6zF-6ewhOfka6E8Obw7BFUOvcDM6fzdnw/viewform?usp=header)
+
+#### Narrative:
+We started by going through tasks “in progress” on Github;
+We went through Q3 & Q4 Interviews updates from the assignees. Esther, Ætherblade and CallyFromAuron are still doing a quick review on the completed interview recordings to check if everything needed is in place before proceeding to payments.
+AGI-24 payments to ambassadors involved; this will be resolved very soon(hopefully this month) with the foundation. We spoke a little bit more about how to sort future payments like this and get a fitting solution(invoice? Crypto? One-off contracts, etc). This discussion will also be taken up at the WG sync call for sure.
+Documenting BeGIN open office: There may not be recordings for some of these meetings so Onize can't document them.
+Admin team(WG Internal management, Co-Chair, WG Async Support, Community engagement, co-chair mentee) issues have been assigned to the respective assignees on GitHub.
+Conferences and Events(discussed here https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/december-2024/week-50): What AI Ethics Event should we attend this year? Should we focus on the ones organized by SNET itself only or should we look outside too? Here is a sheet on a list of future events and conferences we could check out 2025 AI Conventions, conferences and events 
+Colleen the community manager brought up community discussion on AI Autonomy as something she would like to do this quarter. It will be discussed more in the future. 
+WG Sync calls: any topics from AI Ethics? There is a rolling agenda. There is also a handy Google form here https://docs.google.com/forms/d/e/1FAIpQLSf5c_9AyIgLGkmbG6zF-6ewhOfka6E8Obw7BFUOvcDM6fzdnw/viewform?usp=header  that collects feedback from people.
+Onto tasks “in to-do” on Github
+We got updates(and some sort of “no update”) from people doing interviews in Q3 & Q4.
+Survey sharing: no updates on GitHub from most of the assignees. Moved a few of them who did it to “in progress” and ”done”. The point here is to show evidence that they have shared them and no point waiting until the interested participants fill them out.
+Interview Transcription: We suggested that people who did interviews be the ones to initially transcribe the recordings since they are in the best position to understand the conversation. It also needs to be human-corrected. There will be a training session for it.
+Knowledge management/data analysis planning: This has more to do with what happens after the interviews are collected, how we work with the material obtained and how we analyze them. 
+Ideation and attracting donors: how are we going to attract donors of money, time, competing power and opinions? Colleen, TheFreysDefi, and Ese are the assignees.
+
+Extra Connected AGI-24 payments topic
+Payments in AGIX; is it a good idea? Is it too much of a risk? Price fluctuations in the crypto world make it not much of a good idea. Should we price tasks a little bit higher to protect people’s rewards? We could also set aside some sort of contingency budget for situations like that.
+
+
+
+#### Decision Items:
+- The remaining budget(if any) from BeGIN open office meeting documentation will go back to the WG purse.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will bring up the discussion on non-ambassador program payments in conjunction with the foundation we’ve been having to the next WG Sync call.
+  - [**effect**] mayAffectOtherPeople
+- People involved in Knowledge management/data analysis planning are going to meet any day after the 28th of January(29th I think).
+  - [**effect**] affectsOnlyThisWorkgroup
+- Ideation and attracting donors assignees are meeting on the 19th of February at 17:00 UTC.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] LadyTempestt to check-in with PG, Ese, Vasu and Duke about updates on their respective interviews(Q3&Q4). [**assignee**] LadyTempestt [**due**] 31 January 2025 [**status**] in progress
+- [**action**] LadyTempestt to check in with people involved in sharing of the BeGIN survey to see how it is going. [**assignee**] LadyTempestt [**due**] 31 January 2025 [**status**] in progress
+- [**action**] CallyFromAuron and LadyTempestt to sort out which set of the AI Ethics interviewers would like to transcribe the recordings or not. [**assignee**] CallyFromAuron, LadyTempestt [**status**] todo
+- [**action**] Clement to meet with CallyFromAuron to discuss something about an event in Africa on Conferences and Events. [**assignee**] Clement Umoh [**status**] todo
+- [**action**] CallyFromAuron to set a date for training on transcription. [**assignee**] CallyFromAuron [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** WG sync call, Survey sharing, Knowledge management/data analysis planning, Non-Ambassador program payments, AI Ethics Conferences and Events, Interview Transcription, Q3 & Q4 interviews
+- **emotions:** quiet, Thoughtful , a bit dull
 
 
 ## Tuesday 14th January 2025
