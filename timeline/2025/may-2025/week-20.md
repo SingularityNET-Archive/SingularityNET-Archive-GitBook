@@ -190,3 +190,40 @@ The discussion was led on the strengths and weaknesses of AI tools for meeting s
 #### Keywords/tags:
 - **topics covered:** Ambassador Program Site, WG/GuildsToolset, ideation, AI NoteTaker
 - **emotions:** informative, welcoming, interactive,  Understanding.
+## Friday 16th May 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Eric Davies, UknowZork, esewilliams, LordKizzy, advanceameyaw, Gorga Siagian, Jeffrey Ndarake, Mikasa, kareem, kenichi, photogee, Max Milez
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Copy of Marketing initiative Proposals](https://docs.google.com/document/d/1Hfc1dCgoNbcOq7qle6muc4iQyZn792s03sr3MX-Eltk/edit?usp=drivesdk)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+  - [Marketing Guild Improvement Proposal](https://docs.google.com/document/d/1iL1t4f4CPxOCUII8j8EFbBkyzppjdgw9w-11UWPZqgY/edit?usp=sharing)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo led the Marketing Guild call, expressing gratitude to Photogee for managing the previous meeting in his absence. He encouraged members to contribute agenda items and highlighted the need for clarity regarding the task creation and review process, as raised by Kareem. LordKizzy requested the addition of a marketing guild budget discussion to the agenda, emphasizing the urgency for feedback before an upcoming deadline.
+- Budget Reductions and Marketing Strategy Adjustments:
+LordKizzy outlined the financial challenges facing the marketing program, noting a reduction in budget from 10,000 AGX to 7,171 AGX for Q2. He emphasized the need for drastic cuts and suggested restructuring the team due to inactive roles. Kareem proposed rewarding participants in AGIX tokens instead of USD to better align incentives with the program's goals. LordKizzy raised concerns about the impact of AGIX price fluctuations on budgeting for marketing initiatives. He detailed calculations showing that the current budget allocations for core and taskforce members may not be sufficient to support operational needs. Kareem added that the team should reconsider the long-term value attached to these budgets and questioned the number of subscriptions currently in place. Kareem proposed again that rewards for contributors should be given in AGIX, regardless of its price, and highlighted the necessity of restructuring roles to align compensation with individual output. Ayo questioned the implications of ongoing budget cuts for workgroups without campaigns, suggesting that adjustments should originate from governance rather than individual workgroups. LordKizzy provided context on the budget reductions, explaining they stem from a long-term agreement affecting the program's funding. The proposed budget restructuring focused on marketing campaigns was questioned, with a request for clarity on how it would affect guild members' roles and operational tasks. Kareem suggested that all roles should be aligned with marketing goals, while LordKizzy pointed out the necessity of maintaining operational functions, such as project management and documentation. The conversation underscored the challenge of allocating funds effectively while ensuring that essential activities are not neglected.  Kenichi highlighted the need to consider the impact on other work groups and suggested that payments should be structured in AGIX tokens to avoid complications with USD values. LordKizzy also expressed concerns about whether AGIX adequately compensates for time spent on tasks.
+
+
+#### Decision Items:
+- it was decided in the meeting to request for funding from the program.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 23 May 2025 [**status**] todo
+- [**action**] LordKizzy to add the marketing guild budget discussion to the agenda for the next meeting. [**assignee**] LordKizzy [**due**] 23 May 2025 [**status**] todo
+- [**action**] LordKizzy to justify the request for additional budget allocation to the program reserves by Tuesday. [**assignee**] LordKizzy [**due**] 20 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget Management , Proposals
+- **emotions:**  forward-thinking,  Understanding.  ,  Understanding.
