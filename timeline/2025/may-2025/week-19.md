@@ -127,6 +127,7 @@ We all agreed to continue this discussion during the Thursday governance meeting
 Meeting was cancelled
 ## Thursday 8th May 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -156,3 +157,36 @@ The meeting wrapped up with Clement promising to share the storyline documents u
 #### Keywords/tags:
 - **topics covered:** Multilingual, Q2 budget, Marketing Guild, Education initiative
 - **emotions:**  insightful, welcoming, progressive, relaxed, collaborative
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], LordKizzy, Gorga, CollyPride, Jeffrey Ndarake, Santos, UKnowZork, Kateri, Grandi, Martin Soki, advanceameyaw, osmium
+- **Purpose:**  AI Sandbox (General Discussion)
+- **Working Docs:**
+  - [ AI SANDBOX/THINK-TANK #27    ](https://docs.google.com/document/d/18f5khsU-DxTTAZhz9ORwrN0IFzjt0djr_COpKhgXGTI/edit?tab=t.0)
+  - [Mirror Board](https://miro.com/app/board/uXjVI7Abr18=/?share_link_id=24280639227)
+  - [ Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?gid=1681070206#gid=1681070206)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [ AI Sanbox Toolset Exhibition Report](https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit?tab=t.0#heading=h.bn2xrlmjpxj4)
+
+#### In this meeting we discussed:
+- Coordination Meeting and Introductions: The meeting started with a short conversation and greeting. While waiting on the agenda, Kizzy highlighted how we can push out the previous tools we have presented over the previous quarters in order not to forgo some of their real use cases for the Ambassador program.
+
+-  Ideation Upon The Ambassador’s Program New Site: Osmium shared that a website for the ambassador program was being designed but progress paused. According to him, from the organization’s side, something similar is being built by external developers. He also suggested that we should be able to control our content, posts, and visibility and mentioned holding workshops to plan and share some ideas. Kizzy mentioned his concern he raised during Tuesday’s townhall about integrating some of the existing tools and resources like the skills database, knowledge base, and the education guild site
+- Discussion on AI Sandbox Toolset Exhibition Report: We continued on a discussion regarding the various toolsets we have presented and the ones we could possibly adopt. While there was no conclusion on settling on one, Kizzy mentioned some of the tools like HeyGen AI being used by the education guild while he shared the report for us to bring our suggestions. He emphasized the need for clear use cases to justify adopting new tools like Google LM Notetaker over existing ones like Read AI rather than just creating report.
+Osmium added the use of Zapier for marketing campaigns and sending emails. Advance gave a broader look of Airtable AI and how it can serve as a centralised work management space that can track activities and as well integrate some “traditional” tools and even Zapier. He added that it would not be an easy transition, assuming we adopt it.
+The discussion later continued with Podcastle being suggested as a tool instead of Riverside, which has been adopted by marketing to help with their podcast, as mentioned by Gorga, with settling on how to deal with watermark issues
+
+
+
+#### Action Items:
+- [**action**] Advance to outline the features he mentioned on the Airtable AI tool [**assignee**] advanceameyaw [**due**] 15 May 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program Site, WG/GuildsToolset, ideation, toolset exhibition
+- **emotions:** informative, welcoming, interactive, educative
+- **other:** Colly made an announcement about the AI Ethics discussion meeting regarding AI Emotions: The Ethics of ASI Experiencing Emotion for Human Value Alignment, May 19th at 14:00 UTC on Zoom
