@@ -161,3 +161,43 @@ The discussion was led on the strengths and weaknesses of AI tools for meeting s
 #### Keywords/tags:
 - **topics covered:** Ambassador Program Site, WG/GuildsToolset, ideation, AI NoteTaker
 - **emotions:** informative, welcoming, interactive,  Understanding.
+## Friday 2nd May 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Eric Davies, Kateri, UknowZork, esewilliams, LordKizzy, advanceameyaw, Gorga Siagian, CJFrankie, Grandi, Jeffrey Ndarake, Mikasa, kareem, kenichi, photogee
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Copy of Marketing initiative Proposals](https://docs.google.com/document/d/1Hfc1dCgoNbcOq7qle6muc4iQyZn792s03sr3MX-Eltk/edit?usp=drivesdk)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the meeting by welcoming attendees and sharing the agenda. Kareem addressed the graphics team's structure and budget, indicating that previous presentations had clarified the necessary metrics and deliverables. Ayo also prompted discussions regarding action items and the need for further clarification on project-related issues.
+- Governance Document and Q2 Initiatives Discussion: Ayo highlighted the need to finalize the governance document, which still had unresolved comments. The quorum for the marketing guild was established, requiring five core members and three task force members, with agreement that eight core members alone would suffice. CJFrankie was asked to copy the document, resolve the comments, and share it with the group for final acceptance next week.
+- Zealy Operational Call and Budget Discussion: Lordkizzy discussed the outcomes of the Zealy operational call, emphasizing the need for budget confirmations from the writers. CjFrankie confirmed that the Writers WG has a collaborative budget for the Zealy initiative, while Kenichi clarified that the budget would be $200, which is an increase from the initially budgeted $150. Ayo facilitated the discussion, ensuring clarity on the budget and collaboration among the involved workgroups.
+- Proposal Review and Role Clarification: Ayo highlighted a concern raised by LordKizzy about Eric Davies' proposal, noting that it includes charges for services the guild already funds. Ayo suggested that clarity is needed regarding the roles of project managers and other positions within the guild, urging that names of current members responsible for social media and content creation be included in the documentation.
+- Task Management and Review Process: Ayo highlighted the need for clarity on task priorities and collaboration within the team. Kareem expressed dissatisfaction with the current task submission timeline and proposed that two individuals should handle task reviews to prevent delays and ensure fairness. Lordkizzy clarified that there are already two reviewers in place and explained the payment process, which has shifted to a weekly schedule. Kareem expressed frustration over repeated delays in task creation, advocating for a structured approach to prevent one person's delay from impacting the entire guild. Ayo supported this view, highlighting the importance of setting a deadline for task submissions to ensure timely reviews and payments. Kenichi suggested that tasks should be logged from the beginning of the month to facilitate updates and reviews.
+- Decision on Timeline for Monthly Tasks:
+Ayo led a discussion on the appropriate number of days to allocate for task completion at the beginning of the month, with options ranging from three to seven days. The group agreed on a three-day deadline, with Kenichi clarifying that for this month, the deadline would extend to May 5th. Kareem raised concerns about the implications of this deadline and suggested that if tasks are not completed, there should be someone available to take over.
+- Challenges in Event Participation and Marketing Strategies:
+CjFrankie expressed difficulties in locating AI-related events and obtaining speaking slots, highlighting that many organizers are now charging for participation. Kenichi added that the current token price is a barrier and referenced a Twitter space playbook that could help improve engagement.
+
+#### Decision Items:
+- it was decided in the meeting to have a 3-day deadline into the months for the task issues creation on the GitHub board.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] members to accept the final Governance doc acceptance next week [**assignee**] member [**due**] 16 May 2025 [**status**] todo
+- [**action**] CJFrankie to create a copy of the governance document, resolve the comments, and share it with Kizzy, Advance, and Ayo. [**assignee**] CJFrankie [**due**] 16 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance document,  Budget Proposals , Twitter space
+- **emotions:**  Satisfaction , Conclusive , Brief
