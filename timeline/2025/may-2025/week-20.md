@@ -6,6 +6,7 @@ description: Mon 12th May - Sun 18th May 2025
 
 ## Monday 12th May 2025
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -49,6 +50,69 @@ Colleen announced an event(community discussion) coming up next week(19th May at
 #### Keywords/tags:
 - **topics covered:** WG Sync call, Interview Transcription, AI Ethics Interviews, Q2 budget
 - **emotions:** Quiet, Deliberative, a bit dull
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** PeterE [**facilitator**], LadyTempestt [**documenter**], CallyFromAuron, LadyTempestt, PeterE, Sucre n Spice, AshleyDawn, Andrew, Effiom, Apostolis, advanceameyaw, guillermolucero, UKnowZork
+- **Purpose:** Monthly WG Sync call
+- **Media link:** [Link](https://app.read.ai/analytics/meetings/01JV2GANQXHPJ5YW9A9BXSHGBF?utm_source=Share_CopyLink)
+- **Working Docs:**
+  - [Rolling Agenda doc](https://docs.google.com/document/d/1Mdxr2DT9LOi_-7ZS7oIC69ilY67oGqReVhvOuNwUgYQ/edit?usp=drivesdk)
+
+#### Narrative:
+- The EOY report for last year(2024) is ready! Waiting for Writers WG to do the rest(get it published or something).
+
+- How do we address work quality in the ambassador program? We’ve noticed that it can be quite hard to give feedback and receive them if you are not involved with the WG/Guild.
+Should we try having 1-2 honest friends give genuine feedback moments once or twice a quarter in a WG ?
+Anonymous form?
+Trusted person- a confidante who’s anonymous too; ad-hoc one on one basis.
+Reflection in a section of the report?
+Decouple quality feedback from budgets?
+
+Vani noted that in a way the anonymous form and the trusted person go hand in hand because just sending a form for people to fill out won't get much action whereas the trusted person can champion the whole thing by jumping on a call or something to bring up feedbacks they got anonymously and kind of encourage something to happen.
+In a sense, we do want some actions to follow most feedback we receive.
+Guillermo believes that taking up this initiative is a good idea, and the result will be an action item.
+
+- How do we pick the trusted person? Doesn't need to be one person though, could be 2? Vani was of the opinion that the trusted person or honest friend(if that's what we're going for) should be a different person for each WG because that kind of relationship only works if the person(s) really gets what you are doing. If they don't really understand your field of work, then they are not going to be very useful as a trusted friend. Peter added that the honest friends do indeed need to come from different WGs(one per WG) and they would be more proactive but that the trusted person will be for one who will act as a confidante(ad-hoc) or a conduit(in Vani’s words).
+Guillermo suggested we think of how to play the strategy in advance with a calendar, roadmap or timeline, so it doesn't go on for too long; like 2 weeks or so? and then gather up data, output them, maybe bring in an outsider from another WG/Guild to get a read of what is going on and how we do it better.
+Vani suggested that we set up the anonymous form to ask for people to step up as nominees for the trusted person role, and find a way to choose somebody to do the job for the quarter by handling any criticisms and issues coming through the form. We should also try and ask WGs to give a bit of reflection in their reports and raise whatever issues they think are issues for them. She added that this would be a first step towards the honest friend's approach as it would not be done right away, so WGs don't end up with a random friend who came in from nowhere to criticize their work. It has got to come from them. 
+Guillermo suggested incorporating an AI agent into the whole critical friend role since it is brutally honest and that we should start trusting these tools to be part of the engagement and to make rational decisions. Vani pointed out that an AI agent won't understand the context of the initiative, as they have never been to a WG meeting and have no idea what the WG is doing and it defeats the point of having a critical friend. She added that the whole critical friend comes from building a relationship before you start criticising so it's a place where you can raise things you are uncertain about, so it is more discursive rather than a kind of rigid rationale.
+We noted that it is a good idea to at least ask WGs first if they would be in this, just in case some WGs decline taking part in the initiative.
+
+- How are we going to fund this initiative? It is a lot of work. The honest friends will be a scheduled thing so it needs budgeting.
+
+- Do we ask WGs to comment on how fewer meetings have affected them in their reports? Nobody objected to this so I guess it is an agreement.
+
+- Is the payment of tasks in advance a good idea or a bad one?(AI Ethics have been discussing it) The rationale behind this is the fact that token price dropped way below normal so we were kind of afraid that we would not be able to pay for things and it is being brought up because not everyone is exactly aware that they can do this since some WGs are doing it already.
+Peter pointed out that with the token price we can never know, seeing as paying for tasks in advance could come with a potential downside if the price goes up(I.e, overpaying for tasks), but then it might be favorable over the alternative of not having enough budget to do all your tasks. 
+Love noted that the only way we can go unscathed in this case is if the token price gets to the point where it is double the price it was when the budget proposal one submitted was approved or something. She also added there is an issue of trust at least with her when it comes to paying people for tasks in advance, and the issue of getting pressured to do a task just because she has been paid for it already. 
+Effiom suggested that WGs could also try this method of payment with task types which they know that the chances of completing them are pretty high and have low risk involved.
+Vani pointed out that it is not just about trustworthiness, but more of the task types; for example paying for AI Ethics admin roles and tasks somewhere within the quarter knowing fully well that they have been working and will continue working till the end of the quarter.
+Should we put a limit on this? We think it would be better if we leave people to work it out for themselves with a little guidance if they want. 
+We could also ask WGs to reflect this on their report if they are doing it.
+AdvancedAmeyaw suggested paying in advance to a WG wallet(stable coin based) so that people involved in different tasks can get their agreed fixed reward amount without worries when they are done because not everyone is good at delivering what they were assigned to do on time especially if they are being paid in advance. Peter added that he wouldn't be against WG wallets if not for the fact we do need to make sure that all the transactions keep capturing the metadata of whatever the rewards are for.
+Peter expressed that AGIX is a utility token which can be given out as rewards for contributions only but that the moment we try to change it to stable coin for payments, it would have legal implications we do not want seeing as we are currently under SingularityNET foundation and not a separate legal entity unless anyone is up to take up that legal risk of course
+
+
+#### Discussion Points:
+- The EOY report for last year(2024)
+- How do we address work quality in the ambassador program?
+- How do we pick the trusted person?
+- How are we going to fund this initiative?
+- Is the payment of tasks in advance a good idea or a bad one?
+
+#### Decision Items:
+- We agreed to send out an anonymous form(we already have one) and ask for people to step up as nominees for the trusted person role, and find a way to choose somebody to do the job for the quarter by handling any criticisms and issues coming through the form. We would also try to ask WGs to give a bit of reflection in their reports and raise whatever issues they think are issues for them
+  - [**effect**] mayAffectOtherPeople
+- We agreed to ask WGs to comment on how fewer meetings have affected them this quarter in their reports.
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:** EOY Report, Work quality, Advanced payments of tasks
+- **emotions:** Deliberative, Contributive, Interesting
 
 
 ## Tuesday 13th May 2025
