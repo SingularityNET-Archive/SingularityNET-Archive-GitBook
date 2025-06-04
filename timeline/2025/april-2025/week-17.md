@@ -68,6 +68,7 @@ Meeting was cancelled: Easter break
 - **topics covered:** projects, CCCP,  research
 ## Thursday 24th April 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -115,3 +116,48 @@ A suggestion was made to raise awareness among workgroups about paying for tasks
 #### Keywords/tags:
 - **topics covered:**  Team Collaboration , AGIX rate, Allocation, DeepFunding, Q2 2025 budget, Budget fitting, volunteerism
 - **emotions:**  informative,  Collaborative, Discursive;
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], Santos [**documenter**], osmium, advanceameyaw, CollyPride, Gorga Siagian, Jeffrey Ndarake, Duke, Clement Umoh, UKnowZork, martinsoki, max milez
+- **Purpose:** AI Toolset Exhibition Report
+- **Working Docs:**
+  - [Roadmap of AI Sandbox/ Think Tank](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Think Pieces/ Feedback](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI Sandbox/ ThinkTank](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit)
+  - [Agenda items: AI SANDBOX/THINK-TANK #25](https://docs.google.com/document/d/13mafw9X-kxMCvvPWz0_WNfNGtxNNm5mvGeakUVpfRbs/edit)
+  - [Report of AI Toolset EXHIBITION and The WORKFLOW](https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit)
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit)
+
+#### In this meeting we discussed:
+- Meeting Coordination and introduction: The meeting began with lord Kizzy welcoming the attendees and whilst also setting the stage for osmium to present for the day
+
+- AI Toolset Exhibition and Review: osmium provided an overview of a report detailing seven AI tools(HeyGen.ai, Zapier, Airtable AI,Google LM Notetaker, Eraser.io, Spotter studio and Trolly.ai) identified for an exhibition aimed at enhancing the Internet Ambassador program. He emphasized the importance of these tools in improving scalability and performance.
+He also pointed out how each and every tool could be applied in the different workgroups
+
+
+- AI Tools and Collaborative Strategies: 
+Vasu proposed using Eraser.io for collaborative scripting, noting its ability to streamline the editing process and reduce the burden on reviewers. Lordkizzy suggested that tools like Eraser.io and Trolly.ai could benefit multiple groups, including the Marketing Guild and Education Guild, to improve content creation. Both emphasized the need for mass adoption of these tools to enhance operational efficiency.
+
+
+- AI Tool Promotion: Lordkizzy emphasized the importance of promoting these tools publicly to boost adoption and gather user insights.He suggested that members could put these tools through to other members and we could as well come on to a meeting session and give a presentation around it.
+
+- AI Engagement and Documentation Strategies: osmium emphasized the need for engaging AI-driven content and proposed using meeting recordings for documentation and analysis. He mentioned the possibility of creating podcasts from meeting summaries and automating content distribution through tools like Google Drive and WordPress. Additionally, he highlighted the importance of tracking engagement metrics to refine future content strategies.
+
+
+
+#### Decision Items:
+- We decided to have a round table discussion on AI emotion for our next session 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Advancemameyaw is to document the next meeting session  [**assignee**] advanceameyaw [**due**] 1 May 2025 [**status**] todo
+- [**action**] Osmium is to reach out to the Spinoff Protocol’s team for a potential showcase  [**assignee**] osmium [**due**] 1 May 2025 [**status**] todo
+- [**action**] osmium to recommend the use of Eraser.io to the Writers Workgroup [**assignee**] osmium [**due**] 1 May 2025 [**status**] todo
+- [**action**] lordkizzy is to review the attendance of UknowZork, Jeffrey Ndarake, Max Milez and Alfred  [**assignee**] LordKizzy [**due**] 1 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI TOOLSET EXHIBITION, optimization, Analytics, Automation
+- **emotions:** Interactive, educational, Productive,  informative
