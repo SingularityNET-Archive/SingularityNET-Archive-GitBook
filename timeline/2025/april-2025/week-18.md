@@ -46,3 +46,30 @@ What do we mean by contribution and participation? Just a side convo: If someone
 #### Keywords/tags:
 - **topics covered:** WGs minimum budget
 - **emotions:** Interesting, Contributive, Deliberative
+## Wednesday 30th April 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Zalfred, AshleyDawn, esewilliams, frosh, Gorga Siagian, Kateri, smilez, Tevo, UKnowZork, hogantuso, osmium, FranklynStein
+- **Purpose:** Portfolio submission -Assessors' Role - Presentation Series - Canvas LMS - Thinkific Platform 
+- **Working Docs:**
+  - [Portfolio Submission Form](https://forms.gle/XwpxAoYAJKqcfBgV8)
+  - [Canvas LMS](https://docs.google.com/document/d/1_LDNyY92IMi-LEQ4XiescWLXxZN4EI7fl8KqxswJIPs/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate started the meeting welcoming everyone 
+- Starting things off with a quick shoutout to the portfolio submissions being open for assesors , infographic creators and video creators through which interested participants can submit their work links for selection 
+- There was a discussion about the assessors role that how should that be distributed whether their should be a single team with people assigned who take up all the three tasks or should the teams be divided into differnt sections of tasks 
+- Then the discussion shifted towards the Presentation Series Project that there was little to no update given on that context due to no follow-ups by Kenichi.
+- Then zalfred presented his findings on the canvas LMS platform highlighting its pros and cons
+- Slate presented the thinkific platform which offers extensive features and might be best for certification program with its in-built integrations.
+it also has the same modular approach as from the previous certification round 
+- Tevo mentioned that Andamio platform can also be used for this purpose though modular approach wont be there and need to be built 
+
+#### Action Items:
+- [**action**] checking responses from portfolios [**assignee**] Slate [**due**] 7 May 2025 [**status**] todo
+- [**action**] discover potential for thinkific platform [**assignee**] Slate [**due**] 7 May 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:**  Process improvement, lms, portfolios
