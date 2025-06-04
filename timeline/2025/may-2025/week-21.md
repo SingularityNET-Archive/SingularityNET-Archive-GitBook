@@ -206,3 +206,37 @@ Ese Williams summarized the marketing guild's Q1 activities, noting the particip
 #### Keywords/tags:
 - **topics covered:** Budget Management , Proposals, GitHub Update
 - **emotions:** Interactive,  Understanding.  , Brainstorm
+## Saturday 24th May 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Slate [**facilitator**], devon [**documenter**], LordKizzy, martinsoki, rebel, Malik, Gorga Siagian, Kateri
+- **Purpose:** The meeting revolved around module presentations and task updates.
+- **Working Docs:**
+  - [Sandbox Research Document](https://docs.google.com/document/d/1KhtTLImXRb5hNr_3whFP0t8Mdx2hIAJf24KSOdusD0Q/edit?usp=sharing)
+  - [RnD Guild Department Creation Updates ](https://drive.google.com/file/d/1CF8qDjVVFFdMf3VjHBbZWUjQuqo-brVU/view?usp=sharing)
+
+#### Discussion Points:
+- A Roblox-based task management system with to-do, doing, and done sections. Tasks are saved using Google Sheets, and completion rewards the player with 10 XP.
+- Gorga shared a research document about the Sandbox platform.
+- Recent Roblox department creation updates include:
+Kizzy showcasing writer workgroup NPCs and building improvements; Rebel sharing an RnD Guild Department creation video; and Gorga reporting R&D Guild building completion (based on Google Docs and animations) but encountering a dialogue issue with Guild lead Guilermo NPC, where the conversation doesn't appear upon pressing 'E' despite embedded dialogue properties.
+- Slate announced that asset creation is open for the month of June, with a limit of two assets per member.
+- Budget will discussed in next meeting.
+- Kizzy presented a feature in the writers workgroup department allowing users to get pastries from the cafeteria. Slate suggested improving it so players can also eat the pastries.
+- Kateri reported that all previous map suggestions have been implemented, except for the road issue, which Slate will discuss with the map creators in a meeting.
+
+#### Action Items:
+- [**action**] Department Creation - Writers Workgroup [**assignee**] LordKizzy, devon [**due**] 30 May 2025 [**status**] todo
+- [**action**] Department Creation - RnD Guild  [**assignee**] Gorga Siagian, rebel [**due**] 30 May 2025 [**status**] todo
+- [**action**] Asset Creation  [**assignee**] Open to submission [**due**] 28 June 2025 [**status**] todo
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox, Task management system Module, Task updates, Map creation updates
+- **emotions:**  Collaborative,  insightful,  Determined
+- **games played:** nogame
