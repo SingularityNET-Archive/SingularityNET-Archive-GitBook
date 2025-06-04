@@ -4,6 +4,53 @@ description: Mon 12th May - Sun 18th May 2025
 
 # Week 20
 
+## Monday 12th May 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], CallyFromAuron, LadyTempestt, Sucre n Spice, esewilliams, PeterE, CollyPride, Peegee, Clement Umoh, Jeffrey Ndarake, advanceameyaw, AshleyDawn, EstherG, Apostolis, UKnowZork
+- **Purpose:** Regular WG meeting
+- **Working Docs:**
+  - [AI Ethics GitHub Board](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues)
+  - [AI Ethics WG Stuff](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+
+#### Narrative:
+We started by going through tasks “in progress” on Github;
+- We gave a quick nudge to people still on meeting documentation tasks from last quarter. We might have to record the 3rd February meeting notes as “no summary” if it's not there on the summary tool(Vani will check this out).
+ 
+- Learnings from Q3 & Q4 Interviews: Vani will use insights from this session to improve our training materials and get it ready by our next meeting in June.
+
+- WG Sync Calls: We will raise a discussion on payments in advance for tasks yet to be done at the call today.
+
+- Transcription tasks: We have asked that people assigned get started on their respective interviews transcription if they haven’t done so now that the token price is looking good, and give updates on their GitHub issues. One thing we have learned here is that we should have asked people to have them done even when the token price was down so that they could get paid whenever token price looks good because now we are going to have make use of that faith we did not have and hope that the token price doesn't crash down while people are getting transcriptions done.
+In the long run, we should try normalizing anonymised interviews to ease our workflow when we transcribe them from the recordings.
+
+- Q2 2025 Budget update: Price is up, and anything that has to do with research and data collection is our priority; what do we do? Aside from paying for Q1 transcription tasks(all 15 of them), should we revert to our original budget for admin roles? And should we pay for any of the admin tasks now? Colleen suggested that we revert to the original budget of 0.30 for admin roles in addition to extra interviews; Vani pointed out that we are slightly over the budget overall and that if we pay out most things as it is now, then we won't have anything extra if the token gets back quite high. 
+Love was of the opinion that we do not top up the admin roles and instead use this chance to clear up at least half of the carried-over payment(specifically the co-chair role) from last quarter that is just sitting there before doing more interviews if possible and the rest of it.
+Vani agreed that keeping things for too long in the background is bad practice but that she would prefer we use that money we want to subsidize for the co-chair role payment from last quarter for more interviews instead. She also said that everything depends on token price in the next few weeks and our priority is still getting transcription tasks paid and the editing/checking of course and that once we are done paying for the ones on the board currently then we can think about what to do about the carried-over payment. She also suggested that the admins go back and discuss more on this and come up with a final solution.
+Peter pointed out that we should keep in mind that the co-chair role payment we are talking about was budgeted in Q1 2025 with a token price of 0.50. It is still an issue.
+
+- More Interviews: We asked people who are up for possible interviews depending on token price and budget to signify and we got a good number including people who didn't do interviews last time. We had PG, Grandi, Clement, Maximilez…etc. We are trying to get prepared.
+
+- AOB
+Colleen announced an event(community discussion) coming up next week(19th May at 14:00 UTC) where she will be representing us at, and invited us all to attend. The topic is AI Ethics and the ethics of achieving AI emotions and giving ASI emotions.
+
+
+
+#### Decision Items:
+- We agreed to have the admins go back and discuss more on the budget dilemma we have and come up with a final solution.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to bring the revamped version of our Interview training materials using the insights we got to our next meeting in June 2nd. [**assignee**] CallyFromAuron [**due**] 2 June 2025 [**status**] todo
+- [**action**] LadyTempestt to check-in with Kenichi concerning his transcription task [**assignee**] kenichi [**due**] 2 June 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** WG Sync call, Interview Transcription, AI Ethics Interviews, Q2 budget
+- **emotions:** Quiet, Deliberative, a bit dull
+
+
 ## Thursday 15th May 2025
 
 ### Governance Workgroup
