@@ -160,3 +160,43 @@ The meeting wrapped up with recognition of the progress made, despite the comple
 #### Keywords/tags:
 - **topics covered:** Priority, Workgroups, Budget caps, Anonymity, Consent, Ambassador Program reserves
 - **emotions:** Interactive, detailed, collaborative, educative
+## Friday 30th May 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Eric Davies, UknowZork, LordKizzy, advanceameyaw, Gorga Siagian, Jeffrey Ndarake, Mikasa, kareem, kenichi, photogee, CJFrankie, PeterE, Kateri
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Copy of Marketing initiative Proposals](https://docs.google.com/document/d/1Hfc1dCgoNbcOq7qle6muc4iQyZn792s03sr3MX-Eltk/edit?usp=drivesdk)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+  - [Marketing Guild Improvement Proposal](https://docs.google.com/document/d/1iL1t4f4CPxOCUII8j8EFbBkyzppjdgw9w-11UWPZqgY/edit?usp=sharing)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo led the Marketing Guild call, highlighting the importance of keeping discussions concise to address key agenda items such as the Q3 budget and GitHub board updates. Ayo also requested Martinsoki to share the summary notes from the last meeting and the agenda document.
+- Updates on Meeting Outcomes and Budget Discussion:
+Ayo sought confirmation on whether LordKizzy, Gorga, Kateri, advanceameyaw, esewilliams had met, which they confirmed occurred on Saturday. CJ Frankie discussed challenges with a document and was encouraged to refer to the meeting recording for clarification. Ayo highlighted the importance of obtaining feedback from the committee before proceeding with the guild budget discussion.
+- Discussion on Payment Structures and Tax Allocation:
+Advanceameyaw highlighted the importance of prioritizing tasks aligned with the Ambassador program's mission, specifically addressing AGIX payments and potential tax cuts. LordKizzy added that discussions around AGIX payments revealed inconsistencies in reward values across different workgroups, which could lead to confusion. LordKizzy outlined a proposal to restructure the Guild by splitting it into operations and initiatives teams. The operations team would manage daily activities, while the initiatives team would consist of members who can submit project proposals. Funding would be allocated based on project completion, with 75% going to the initiatives team and 25% to operations. Ayo asked committee members to write down their recommendations for Guild restructuring to facilitate clearer discussions. Kenichi highlighted the importance of unity within the Guild, arguing against splitting into two groups, as it could lead to division. He proposed that all members should pitch in ideas for initiatives collaboratively. Kareem expressed concerns about splitting the guild into two groups, suggesting that everyone should contribute to initiatives collectively. LordKizzy supported the idea of multiple groups, arguing that it would allow for better task distribution and accountability. He highlighted the importance of prioritizing low-cost initiatives due to limited funding, stating that both groups would need to work within a shared budget. Ayo emphasized the importance of maintaining unity within the guild while discussing the potential for splitting into two groups for better management. LordKizzy outlined two recommendations: one focused on restructuring payment to a conversion rate of 0.2 AGX, and the other on restructuring the guild and payment processes. The discussions included considerations of feasibility and sustainability regarding payment methods. Ayo raised questions about the timing for decisions related to the quarterly report and budget proposal, while LordKizzy clarified the submission deadline is around June 7th or 9th. The focus group plans to meet over the weekend to discuss two AGIX initiatives and their budget implications. LordKizzy emphasized the need for clarity on funding and proposed budget allocations for the initiatives.
+- Attendance Review Discussion:
+Ayo highlighted the need to review attendance for the last quarter, which has not been addressed in prior meetings. Mikasa reiterated the importance of this review, expressing confusion over its connection to task completion. LordKizzy clarified that both Eric Davies and Martinsoki documented attendance and that the review would follow an assessment of task outputs. Mikasa expressed frustration over the slow progress in reviewing attendance records, which she believed should have been addressed earlier. LordKizzy explained that the attendance initiative was introduced in Q4 to address issues with deliverables and meeting participation. Mikasa volunteered to compile the attendance data for the next meeting, while Ayo highlighted the importance of punctuality in meetings to allow for more discussion time.
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 6 June 2025 [**status**] todo
+- [**action**] Ese will share the Q1 report document for comments and feedback. [**assignee**] esewilliams [**due**] 6 June 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 6 June 2025 [**status**] todo
+- [**action**] LordKizzy to flesh out the details of the initiatives and operations team structure during the weekend. [**assignee**] LordKizzy [**due**] 6 June 2025 [**status**] todo
+- [**action**] LordKizzy to create demo on the budget distribution sheet  [**assignee**] LordKizzy [**due**] 6 June 2025 [**status**] todo
+- [**action**] Mikasa to handle the review of attendance for the last quarter [**assignee**] Mikasa [**due**] 6 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget Management , Governance document, Meeting attendance
+- **emotions:** Interactive,  Understanding.  ,  informative
