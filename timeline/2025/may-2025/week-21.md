@@ -63,3 +63,26 @@ The meeting wrapped up with Peter encouraging contributions to the upcoming Town
 #### Keywords/tags:
 - **topics covered:** Budget fitting,  Zealy sprints ,  open governance, Ambassdor program, Budget cuts, Townhall, Video Workgroup, Budget minimums, Work priorities, Sentiment analysis, Budget caps, Program reserves
 - **emotions:** Informative, Discursive,  forward-looking, Ideating,  Collaborative
+## Wednesday 21st May 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], hogantuso, osmium, esewilliams, UKnowZork, Kateri, maxmilez
+- **Purpose:** Budget Discussion - Task Distribution - CCCP Discussion 
+#### Discussion Points:
+- Meeting started with Slate welcoming everybody
+- Then the topic shifted to distributing admin tasks,on which Slate agreed to distribute the task and have more representative of education guild present on public level 
+- Then the discussions started in regards to the budget request, in which multiple factors were discussed along with the addition of governance framework project
+- Then the discussion in regards to the how to allocate funds for CCCP started in which funding is required only for assesor ,platform and creator of the platform
+- We also had a discussion to shift the meetings to bi weekly to reduce impact of budget cuts on education guild.
+- More discussions will be done based on the feedback received and continuing it in the next call
+
+#### Action Items:
+- [**action**] Work upon the budget request formation [**assignee**] Slate [**due**] 28 May 2025 [**status**] in progress
+- [**action**] Work upon devising a way to distribute task  [**assignee**] Slate [**due**] 28 May 2025 [**status**] in progress
+- [**action**] Progress forward with the governance framework [**assignee**] osmium [**due**] 28 May 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation,  Process improvement
+- **emotions:**  Collaborative
