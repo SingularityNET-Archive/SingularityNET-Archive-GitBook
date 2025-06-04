@@ -42,6 +42,51 @@ The meeting wrapped up with Ayo encouraging both Kateri and Jeffery to reach out
 - **emotions:** Insightful, welcoming, progressive, relaxed, collaborative, Resourceful
 
 
+## Tuesday 27th May 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Maxmilez [**facilitator**], UKnowZork [**documenter**], Maxmilez, UKnowZork, PeterE, Kevin, AshleyDawn, Duresameen Ashraf, Effiom, guillermolucero, advanceameyaw, Jeffrey Ndarake, Sucre n Spice, Tevo, hogantuso, Vasu Madaan
+- **Purpose:** Regular Weekly GovWG meeting
+#### Narrative:
+We had an in-depth conversation about how abstentions are handled in votes, the true purpose of the consent process, and some of the challenges we’ve been facing with engagement and budgeting.
+Peter pointed out that we can’t fully tackle the root issues unless we understand why someone abstains. Often, it’s not because they disagree but simply because they don’t have the time to review. He suggested we rethink what abstaining means—maybe we ask folks to object only when they see potential harm, and if they don’t have the time to review, they just abstain without needing to explain much.
+Vani and Kevin explored the idea of limiting abstentions—maybe allowing it only in certain cases, like for specific workgroups or a short time window. Kevin, who isn’t a regular at every meeting, said he abstains when he doesn’t fully understand a proposal and would find it helpful if we had clear, simple summaries before votes. Tuso added that abstaining can sometimes act as a “soft no,” a way for people to avoid blocking a proposal without outright objecting.
+Tuso, Kelvin, and Duresameen agreed that the reason for abstention should be stated to avoid confusion and disengagement. Tuso also warned that if we don’t address these issues, we risk losing more engagement over time. Kevin asked for clarity—are abstentions a sign of disengagement, or do they actually block proposals? Vani reminded everyone that consent isn’t about traditional voting; if someone doesn’t object, they’re effectively consenting, so abstentions without clear reasons can muddy the process.
+
+We reflected on whether abstentions should be anonymous. Some felt that removing anonymity might make people hesitant to object, while others believed transparency could lead to more open dialogue. There was general agreement that many abstain simply due to time constraints or not fully understanding a proposal—not necessarily because they disagree.
+Tevo suggested we introduce a checklist for abstainers to indicate why they’re sitting out—lack of time, uncertainty, or something else. Maxmilez thought tracking these reasons over time could reveal patterns and help improve the process in the long run.
+We also discussed broader issues, like how engagement has dropped, possibly due to lower budgets and a tough market. Some noted that while the consent process is meant to help us govern better, it’s sometimes creating bottlenecks. There’s also frustration that decision-making can feel inconsistent when people aren’t sure what’s being voted on. Tuso and others emphasized that unless we address these governance challenges, we risk stagnating as a community.
+
+Kevin called for a focused effort to tackle these long-standing issues—especially around governance and budgeting. He suggested a dedicated workshop to finalize a model that works, while Vani Vani noted that getting our processes finalized/set in stone isn't what we are aiming for, and is arguably anti-decentralisation. Governance processes should remain livid and fluid, and we should rethink them each quarter based on retrospectives and discussions this way, new people and ideas can always influence what goes on, and it doesn't all get decentralized. Tuso and others emphasized that unless we address these governance challenges, we risk stagnating as a community. He emphasized that getting the abstention process right is key to improving engagement and decision-making.
+
+In the course of the meeting we discussed specific options for the abstain feature in the consent process:
+-Remove abstain entirely,
+-Keep it, but add a dropdown to explain reasons, 
+- Or keep it as is, but improve documentation.
+
+There was mixed feedback on whether a simple majority voting system might work better, but most were cautious about moving away from the consent model. One suggestion was to introduce a threshold—if more than 50% abstain, the topic should go back for more discussion.
+
+On the topic of voting anonymity, opinions were split. Some supported transparency, while others thought anonymity helps newer members feel safe speaking up. A recent poll showed the group evenly divided, so this topic will need more conversation.
+
+Budget tracking also came up—people noted that while the budget has been reduced, it’s not always clear how the money is being spent. Clearer ownership and task assignments for budget items were flagged as a priority. We agreed to review the budget cap form results on Thursday and aim for final decisions by Monday. A summary of this discussion will be shared at tonight’s Town Hall to get broader community input. Further conversations around abstentions and voting anonymity will continue in upcoming meetings, possibly with async discussions or polls.
+
+The meeting wrapped up with an encouragement to join the Town Hall to stay informed and engaged in the conversation.
+
+
+#### Discussion Points:
+- Discussion on how abstentions are handled in votes, the true purpose of the consent process, and some of the challenges we’ve been facing with engagement and budgeting.
+
+#### Action Items:
+- [**action**] Vani will draft a consent form for the Q3 budget consent process based on the discussions from today’s meeting. She’ll share it in the governance channel for feedback and input—especially from those who couldn’t attend today's meeting. [**assignee**] CallyFromAuron [**due**] 27 May 2025 [**status**] done
+- [**action**] Vani to set up an emoji poll in the Governance channel on the question of anonymity. [**assignee**] CallyFromAuron [**due**] 27 June 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Consent Process, Budget, Vote, Anonymity, Abstentions, Governance Channel, Workgroup, Quarter, Ambassador program, Decision, Townhall, DeepFunding, Q3 2025
+- **emotions:** Discursive, Brainstorm, Ideating, Thoughtful,  forward-looking, engaging
+
+
 ## Wednesday 28th May 2025
 
 ### Education Workgroup
