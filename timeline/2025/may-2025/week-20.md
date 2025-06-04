@@ -51,6 +51,64 @@ Colleen announced an event(community discussion) coming up next week(19th May at
 - **emotions:** Quiet, Deliberative, a bit dull
 
 
+## Tuesday 13th May 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], UKnowZork [**documenter**], CallyFromAuron, UKnowZork, guillermolucero, Maxmilez, AJ, Jeffrey Ndarake, AndrewBen, AshleyDawn, hogantuso, Sucre n Spice, PeterE
+- **Purpose:** Regular Weekly GovWG meeting
+- **Working Docs:**
+  - [WG Budget Minimums ](https://docs.google.com/spreadsheets/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE/edit?usp=sharing)
+
+#### Narrative:
+BUDGET RETHINK DECISION 
+
+We discussed rethinking the budget cap, with Vani sharing a draft spreadsheet to capture each workgroup’s bare minimum needs—just a starting point, not final figures. She emphasized the challenge of defining what's truly essential and warned against over-reporting. The goal is to understand who needs more and why, while being fair to all. We all agreed and suggested that we ask teams to show how their current cap compares to their minimum needs. To deal with token price swings, we proposed using a fixed AGI reference price or listing needs in USD for clarity. Vani will adjust the spreadsheet and is welcoming feedback.
+
+
+BUDGET ALLOCATION AND PRIORITIZATION DISCUSSION
+
+Guillermo shared that LATAM teams have been making do without asking for more, though they could really use twice as much. He questioned whether extra funding should come with clear expectations or outcomes. Vani agreed there’s need for limits, noting that more money for one team might mean less for another. She suggested adding a column in the budget spreadsheet to indicate where extra funds should come from—though she admitted that could cause tension. She also referenced Peter’s point that in the chats that being resourceful shouldn't be penalized. Ultimately, she said the group needs to figure out how to evaluate which requests are truly necessary, even if the process is uncomfortable.
+
+
+BUDGET REDUCTIONS AND WORKGROUP ALLOCATION 
+
+Peter shared some tough news: due to the Phase Two token model, overall funding is dropping—about 1.241 million tokens for the year, which could mean up to a 30% cut from last quarter.
+Vani suggested two ways to handle it: either a flat cut for all teams or a proportional one that protects lower-funded groups. She leaned toward the flat cut for simplicity, allowing teams to request more if needed.
+Peter mentioned using reserves to soften the impact, but the group pushed back—reserves should be for special cases, not to cover regular gaps. Guillermo agreed, supporting a balanced, fair approach.
+In the end, we agreed to apply an equal percentage cut to all budget caps in the spreadsheet, with room for teams to adjust or ask for more if necessary.
+
+
+BUDGET ALLOCATION DISCUSSION  
+
+Vani suggested a shift in how the group approaches budgeting. Instead of focusing strictly on financial totals—like how much each group needs or has—it might be more useful to look at the activities each team is planning and what their “bare minimum” requirements are. She emphasized the need for group input and consensus, rather than making top-down decisions. She then asked if we should distribute the budget loss evenly across all workgroups, percentage-wise? She proposed that this even distribution would serve as the budget cap for the next quarter. Guillermo reminded everyone that the next quarter starts in about two weeks, so decisions need to happen quickly.
+Vani volunteered to put the spreadsheet plan out by the end of the day and asked whether people could respond quickly.
+
+
+FUNDING AND UPCOMING MEETINGS
+
+We discussed cleaning up the budget spreadsheet—Vani suggested simplifying totals and rounding numbers for clarity. The meeting felt a bit stuck since progress depends on input from other teams. We used the time to plan for Thursday’s big discussion, agreeing it needs structure to avoid turning into a chaotic defense of individual projects. We’ll raise awareness through the town hall and channel reminders, even if it feels repetitive.
+There was tension around recent token cuts—Vani voiced concern, especially for the ambassador program, while Peter explained it was a broader, community-backed decision to stretch resources. Looking ahead, we agreed Thursday’s meeting won’t be useful without full team input. Vani offered to follow up and suggested adding a column to the spreadsheet to ask if more cuts are possible. Peter noted some teams, like Knowledge Base, aren’t requesting more, which may help balance things.
+We plan to tweak and share the spreadsheet by day’s end and bring it to the town hall. Vani’s unsure how Thursday will go—but expects strong turnout: “people always show up when it’s about money.” Maxmilez kindly offered to handle the meeting summary of our next (Open GovWG) meeting happening this Thursday - 15th May.
+
+
+#### Discussion Points:
+- BUDGET RETHINK DECISION
+- BUDGET ALLOCATION AND PRIORITIZATION DISCUSSION
+- BUDGET REDUCTIONS AND WORKGROUP ALLOCATION 
+- BUDGET ALLOCATION DISCUSSION
+- FUNDING AND UPCOMING MEETINGS
+
+#### Action Items:
+- [**action**] Vani will brief Effiom about how to approach the discussion in Thursdays (Open GovWG) meeting. [**assignee**] CallyFromAuron [**status**] todo
+- [**action**] Maximilez will document in the next meeting on Thursday - Open GovWG meeting. [**assignee**] Maximilez  [**due**] 15 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation, AGIX rate,  open governance, Budget caps, Drafting document
+- **emotions:**  informative, Discursive, Ideating,  Collaborative
+
+
 ## Thursday 15th May 2025
 
 ### Governance Workgroup
