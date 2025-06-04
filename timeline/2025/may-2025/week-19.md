@@ -128,6 +128,7 @@ Meeting was cancelled
 ## Thursday 8th May 2025
 
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -190,3 +191,62 @@ The discussion later continued with Podcastle being suggested as a tool instead 
 - **topics covered:** Ambassador Program Site, WG/GuildsToolset, ideation, toolset exhibition
 - **emotions:** informative, welcoming, interactive, educative
 - **other:** Colly made an announcement about the AI Ethics discussion meeting regarding AI Emotions: The Ethics of ASI Experiencing Emotion for Human Value Alignment, May 19th at 14:00 UTC on Zoom
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], UKnowZork [**documenter**], guillermolucero, UKnowZork, PeterE, Maximilez, CallyFromAuron, AshleyDawn, Effiom, advanceameyaw, Jeffrey Ndarake, esewilliams, Clement Umoh, Scatman
+- **Purpose:** Regular Weekly GovWG meeting
+#### Narrative:
+QUALITY STANDARDS 
+Guillermo reflects on how ambassador program has grown and improved over time, learning from both mistakes and successes. He feels the evolution has been organic, shaped by regular retrospectives and the strengths of the people involved. He sparks a conversation about what “quality” really means. He wonders how our standards have changed over the past year, how it varies across different teams, and how experience plays a role. It’s a tricky topic, and he admits he doesn’t have all the answers—he just wants to open it up for honest discussion.
+Vani responds by saying it’s tough to define a single standard because everyone’s work is so different. She thinks creating detailed rules might not be realistic, but points out that people usually recognize when something isn’t quite up to par. Instead of rigid standards, she suggests we might need a way for people—especially those outside a team—to raise concerns when something doesn’t feel right.
+
+
+WORKGROUP AUTONOMY AND QUALITY 
+We discussed whether it's appropriate for people outside a workgroup to comment on the quality of that group's work. Peter feels that members within a group are better positioned to address issues, as they're involved in the discussions and can spot problems more easily. However, he notes that people outside the group often hesitate to point out small issues, even though they shouldn't. Vani agrees that minor details may not always be worth raising, but emphasizes the importance of having a way to address more serious concerns about overall quality without causing tension between teams.
+
+ 
+QUALITY CONTROL AND EVALUATION PROCESS 
+We discussed how to evaluate work quality, particularly balancing attention to detail with broader results. Guillermo emphasizes that details matter, especially once a basic quality standard is set, but that we shouldn’t judge work solely on small flaws. He suggests a system for improving quality by assigning dedicated reviewers—similar to how editors work in publishing—since creators can't handle everything alone. Vani adds that the level of scrutiny should depend on the context: internal documents can be less polished, but anything outward-facing should meet higher standards, including proofreading. We all agreed on the need for a clear process to address quality and feedback without causing conflict, and Guillermo proposes looking at examples of past work that have been particularly strong to help set those standards moving forward.
+
+DISCUSSION ON DELIVERABLES AND STANDARDS 
+Guillermo suggests that each workgroup should take a close look at their successes to help set clear standards for things like efficiency and sustainability. This would give everyone a way to measure and improve their efforts. Peter, on the other hand, wonders how we set those standards. He talks about the community website’s welcome video, which he initially thought needed an update, but upon watching, realized it was still really well done. He questions how we should compare new work to something that already feels like a high standard.
+Vani added, pointing out that it’s not just about whether something is good, but also about whether anyone is actually seeing it. She highlights the idea that it’s possible to create something great, but if it goes unnoticed, its value is limited. Guillermo agrees, adding that we need to think about both the quality and the effectiveness of our work. He wraps up by referring to some shared notes about improvements in the governance process and how members can now provide more input.
+
+
+IMPROVING GOVERNANCE AND QUALITY FEEDBACK MECHANISMS 
+We discussed how to address concerns about work quality within a team. Guillermo mentions that each workgroup has its own quality standard but questions if these standards are working effectively. He asks whether issues can be raised informally without requiring a detailed quality standard. Vani responds that the current process, especially through consent on budgets, doesn't allow for effective communication of minor quality concerns, leading to confrontational or awkward conversations. She suggests the need for a better way to address these issues outside formal processes. Guillermo agrees, noting that constructive feedback should be encouraged. Vani compares this to discussions in deep funding about the importance of quality and emphasizes the value of reflective practice for teams to assess whether they have met their objectives.
+
+
+EXPLORING REFLECTIVE PRACTICES AND FEEDBACK MECHANISM 
+We discussed the idea of incorporating "critical friends"—trusted outsiders who provide honest, constructive feedback—into our work processes. Vani suggests having periodic check-ins with such individuals. Guillermo humorously notes that these friends are often avoided because of their blunt honesty but agrees with the concept, proposing possibly forming a small team of such reflective peers. Peter adds that it’s hard to get unspoken feedback and suggests implementing anonymous feedback mechanisms, like forms or a “trust person,” to surface concerns safely. We all acknowledged the potential challenges with anonymity but sees value in setting quality standards and fostering open, honest reflection.
+
+
+QUALITY STANDARDS AND WORKGROUP ENGAGEMENT 
+We discussed how to define and pursue quality within collaborative workgroups. Guillermo emphasizes using references, templates, and standards—whether from within the group or outside industries—to guide creative and productive processes. He suggests that criticism should be constructive, aiming for improvement rather than just pointing out flaws. The conversation touches on the need for reflection, inclusivity, and efficiency, noting that higher quality often comes with practice and iteration.
+Vani raises the issue of quarterly reports lacking depth, often being superficial or self-congratulatory, and suggests adding reflective sections. However, there's uncertainty about who should define what constitutes "quality."
+Peter argues that workgroups typically self-regulate quality and that external imposition could feel intrusive, although he agrees it's fine to point out clearly low-quality outcomes. We overall seems to agree that quality should be functional and impactful rather than merely polished or award-winning, and that shared standards, reflection, and involvement are key to improving quality over time.
+
+ 
+KPIs AND ENGAGEMENT STRATEGIES 
+We discussed how to improve and measure the quality of content—particularly videos—within the organizational setting. Guillermo emphasizes focusing on clear, measurable KPIs and investing more deeply in fewer, higher-impact efforts (e.g., 2–3 videos with strong engagement vs. 10 with none). He suggests that quality should be defined by purpose and audience engagement, not just volume or aesthetics.
+There's a broader debate about decoupling quality discussions from budget decisions, as raised by Vani, to encourage honest feedback without fear of funding cuts. Guillermo and Peter acknowledge that while it's ideal to have open, constructive criticism, current dynamics often make that difficult.
+Maximilez proposes a more systematic solution: monthly content reviews and ratings for each workgroup, which could foster accountability and improvement through indirect critique and positive competition.
+Overall, we all seems to agree that clearer objectives, audience awareness, and mature communication are necessary for sustainable growth and quality improvement.
+
+
+DISCUSSION ON IMPLEMENTATION STRATEGIES 
+We discussed how to move forward with the "honest friends" approach and other related ideas. While there’s recognition that many of these concepts have been addressed in workgroups and guilds already, the main concern is how to include all program members in the process and turn these discussions into concrete actions. There's agreement on the need to summarize the meeting, list potential actions, and plan implementation. We proposed creating a simple document or spreadsheet before the next meetings (Monday - Workgroup Sync call and Tuesday - Governance Call). Peter also suggests adding a reflection section in the quarterly report and notes that some initiatives, like the honest friends idea, may require time or budgeting. We all agreed to begin with low-cost, simple solutions and continue the discussion next week Monday (Async call slated for 15:00 UTC).
+
+
+
+#### Decision Items:
+- Ask people during the Async call happening on Monday- 15:00 UTC  if it will be nice for Workgroups to add self reflections in their quarterly reports. 
+
+#### Action Items:
+- [**action**] Vani will create a one-pager document outlining how to implement the discussed ideas in the next Workgroup sync call. [**assignee**] CallyFromAuron [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Quality Control, Workgroup Autonomy, Async call
+- **emotions:**  informative, Discursive,  Collaborative,  forward-looking
