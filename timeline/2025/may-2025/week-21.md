@@ -163,3 +163,46 @@ The meeting closed on a positive and lighthearted note, while we all expressed o
 #### Keywords/tags:
 - **topics covered:** Percentage, Quorum, Workgroup, Core Contributors , Anonymity
 - **emotions:**  Collaborative,  informative, Conclusive, Insightful, relaxed, collaborative
+## Friday 23rd May 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Eric Davies, UknowZork, LordKizzy, advanceameyaw, Gorga Siagian, Jeffrey Ndarake, Mikasa, kareem, kenichi, photogee, CJFrankie, PeterE, Kateri, esewilliams
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Copy of Marketing initiative Proposals](https://docs.google.com/document/d/1Hfc1dCgoNbcOq7qle6muc4iQyZn792s03sr3MX-Eltk/edit?usp=drivesdk)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+  - [Marketing Guild Improvement Proposal](https://docs.google.com/document/d/1iL1t4f4CPxOCUII8j8EFbBkyzppjdgw9w-11UWPZqgY/edit?usp=sharing)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo led the Marketing Guild call, welcomed attendees and expressed gratitude to Martinsoki for the summary notes. Participants were encouraged to review and comment on the agenda and summary documents, emphasizing the importance of collective input. It was also mentioned that LordKizzy needs to discuss the marketing budget in the next meeting.
+- Budget Discussion and Marketing Budget Adjustments:
+LordKizzy highlighted the challenges in determining the budget for different workgroups, noting a significant reduction in funding allocations. The discussion included the need for a structured approach to future initiatives, with a total budget of $2,400 currently outlined. Concerns were raised about the sustainability of rewards for core members if token prices continue to reduce. Photogee expressed dissatisfaction with the ongoing reduction of rewards and proposed weekly meetings to brainstorm solutions. Ese suggested a compensation model based on task completion to ensure fair pay, while it was highlighted by Ayo that finding a sustainable response to budget constraints is important. A proposal was also made by Ayo to form a committee to explore options for addressing these concerns. A discussion was led on forming a committee to address budget cuts, with members including LordKizzy, Advance, Ese, Gorga, and Kateri volunteering to participate. LordKizzy suggested meeting later that day, which was confirmed by the group. The committee is expected to prepare recommendations for the next call to discuss the impact of budget cuts and strategize solutions.
+- Discussion on Guild's Documentation and Committee Responsibilities:
+It was stressed that the Guild's decisions should be clearly documented and that all members should contribute to this process. Kareem pointed out that a prior call had established certain decisions, noting that there were participants who did not vote. A call for clarity in how outcomes is presented was made to ensure all members are informed and involved.
+- Proposals for Marketing Guild:
+Kenichi outlined the discussions regarding improvements to the Marketing Guild, highlighting the importance of accountability and structure. A collaborative document has been established for members to submit their suggestions for enhancements, with the goal of creating a comprehensive improvement proposal. The proposal will be presented for a vote among guild members.
+- Discussion on GitHub Updates and Marketing Guild Q1 Review:
+The efforts of the team were acknowledged, and sharing recommendations with the committee was encouraged. Ese Williams proposed weekly updates on GitHub to improve accountability and ensure timely submissions, while photogee argued that discussions should not be overly focused on the budget, suggesting that other priorities should be addressed as well. It was agreed to include this topic in the agenda for future meetings.
+Ese Williams summarized the marketing guild's Q1 activities, noting the participation of contributors and the need for more engagement from others. Key initiatives included spotlighting projects and enhancing social media strategies with trend-driven content. It was emphasized by a conference room participant that sharing the summary for further comments is important, and it was mentioned that a scavenger hunt proposal would be added to the agenda for the next meeting.
+
+#### Decision Items:
+- It was decided in the meeting to have a focus group that will explore options and address budget cuts
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 30 May 2025 [**status**] todo
+- [**action**] Ese will share the Q1 report document for comments and feedback. [**assignee**] esewilliams [**due**] 30 May 2025 [**status**] todo
+- [**action**] LordKizzy, Advance, Ese, Gorga, and Kateri to organize a meeting on Saturday [**assignee**] LordKizzy, advanceameyaw, esewilliams, Gorga Siagian, Kateri [**due**] 24 May 2025 [**status**] todo
+- [**action**] LordKizzy, Advance, Ese, Gorga, and Kateri to explore options and address budget cuts next meeting [**assignee**] LordKizzy, Gorga, Kateri, advanceameyaw, esewilliams [**due**] 30 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget Management , Proposals, GitHub Update
+- **emotions:** Interactive,  Understanding.  , Brainstorm
