@@ -163,6 +163,7 @@ Vasu proposed using Eraser.io for collaborative scripting, noting its ability to
 - **emotions:** Interactive, educational, Productive,  informative
 ## Friday 25th April 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -201,3 +202,82 @@ Vasu proposed using Eraser.io for collaborative scripting, noting its ability to
 #### Keywords/tags:
 - **topics covered:** Governance document,  Budget Proposals , Community podcast update
 - **emotions:**  insightful,  Satisfaction ,  Understanding.  , Conclusive
+
+### Gamers Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Slate [**facilitator**], devon [**documenter**], LordKizzy, Gorga Siagian, Kateri, Malik, rebel, Zalfred, SubZero
+- **Purpose:** The meeting centered around Treasury Guild Dashboard Demo, Workgroup Updates and Asset Creation
+#### Discussion Points:
+- Treasury Guild Budget Dashboard Demonstration
+
+Slate showcased a fully functional dashboard UI in Roblox Studio fetching dynamic quarterly data via Google Sheets API.
+
+The dashboard supports switching between Q1–Q4 data and displays relevant fields like:
+
+Workgroup Name, Requested Budget (USD, AGIX), Fitted Budget, and Avg Monthly Budget.
+
+Future enhancements include UI improvements, color-coded thresholds, and potential expansion to other sheets like Proposal Links (where possible).
+
+Kizzy was encouraged to present this internally to the Treasury Guild.
+- Asset submissions reopened with one submission per person. Additional asset slots may open in the last month of the quarter, depending on AGIX price. Focus will eventually shift to 3D assets (e.g., pants, props) instead of just shirts.
+- Writer’s Workgroup Creation updates (Kizzy & Devon):
+
+Upstairs section by Devon includes:
+
+Scribe/scribbler rooms, point system, lead office, meeting room.
+
+Downstairs by Kizzy includes:
+
+Lobby quiz gate for onboarding, social media rooms (Pidgin & Spanish), study room, canteen.
+
+Discussion held on:
+
+Reducing unused rooms for simplicity and performance.
+
+Entrance quiz scripting flow (test-to-entry logic).
+
+Upcoming animation and integration of quiz system.
+
+Follow-up: Finalize quiz questions and layout changes within 2 weeks.
+
+- R&D Workgroup Creation updates (Rebel, Sub-Zero, Gorga):
+
+Still in planning phase.
+
+Sub-Zero committed to complete first-floor design and initial layout by next meeting.
+- Education Guild Creation updates (Malik, Hufi):
+
+Building shared with Education Guild team for feedback.
+
+No new changes since last update.
+
+Follow-up: Identify any scripting needs and prepare documentation.
+- Map Creators Updates (Gorga & Kateri):
+
+No new updates this session.
+
+Gorga recently returned from holiday and will resume work immediately.
+- Research Task Update:
+
+Malik & Rebel were assigned to research Decentraland and Sandbox.
+
+Malik previously created a document; will present it in full next meeting.
+
+Follow-up: Share marketplace walkthrough and comparisons in upcoming call.
+
+#### Decision Items:
+- Continue budget-conscious operations until AGIX price stabilizes.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Department Creation - Writers Workgroup  [**assignee**] LordKizzy, devon [**due**] 10 May 2025 [**status**] todo
+- [**action**] Department Creation - RnD Guild [**assignee**] SubZero, rebel [**due**] 10 May 2025 [**status**] todo
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** RobloxDevelopment,  Budget Allocation, DashboardUI, workgroup updates, ResearchTask
+- **emotions:**  Collaborative,  Determined,  informative
