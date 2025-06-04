@@ -123,6 +123,7 @@ We all agreed to continue this discussion during the Thursday governance meeting
 ## Wednesday 7th May 2025
 
 
+
 ### Archives Workgroup
 
 Meeting was cancelled
@@ -159,6 +160,36 @@ Meeting was cancelled
 #### Keywords/tags:
 - **topics covered:** CSDB, Proposals, Ambassador Program Site, SEO, Governance Dashboard, Status update
 - **emotions:** Collaborative,  Understanding.,  Satisfaction 
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, esewilliams, Gorga Siagian, Kateri, LordKizzy, osmium, smilez, UKnowZork, Zalfred, hogantuso
+- **Purpose:** General Discussion - CCCP Portfolio Responses - Discussion about Community Website - Thinkific Features - Udemy as an alternative 
+#### Discussion Points:
+- Meeting started with some general discussion on Deepfunding , Gorga had some questions on how to join it and if they have a interview process
+- Then the topic shifted to CCCP Responses , so far 12 responses have been received. with 4 focused upon the assessor role. The responses would stay open till Saturday.
+- Then the topic shifted towards how to segregate the assessor role in which two fronts came forward.
+One being dividing the tasks into teams, the other one being having a single team doing all three.
+- Further discussion on this will be done when we have the final number of people applying for the assessor role, which will be discussed next meeting.
+- Slate shared the updates from the community website for the ambassador program, some views were shared along with how we can integrate our services onto the site itself 
+- Then Slate shared the working of thinkific platform, and how it could be best tool for us to host the certification program.
+- There was also a suggestion to use the free tool like udemy for this purpose as that could also be a way to reach a wider audience 
+- Meeting ended with some decisions to be shifted to next call
+
+#### Decision Items:
+- Discuss the assesor role once we have the complete set of applicants for that role
+  - [**rationale**] most agreed
+  - [**opposing**] nil
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Add more details to portfolio submission form  [**assignee**] Slate [**due**] 14 May 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, Project Updates, Platforms
 
 
 ## Thursday 8th May 2025
