@@ -122,9 +122,45 @@ We all agreed to continue this discussion during the Thursday governance meeting
 
 ## Wednesday 7th May 2025
 
+
 ### Archives Workgroup
 
 Meeting was cancelled
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], advanceameyaw, AshleyDawn, guillermolucero, jeffrey ndarake, LordKizzy, osmium, CollyPride, AJ, PeterE, Ayalew
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- MetaCoders Lab Discussion
+- AOB Open discussions
+- Project Showcase Preparation for R&D Guild
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.
+- New proposal results: Guillermo outlined the results of proposal voting, confirming that SEO received the highest votes, and all three proposals would advance to development but if the token price hits a decline, then the the propopsals with the most votes will be priortorized
+- UPDATE STATUS ON DEVELOPMENT: CSDB-Collaboration-Skills-Database: AJ mentioned that there hasn't been any significant feedback on the community on the SBD project and noted he has reached out to Deepfunding for Publication and testing. He also mentioned having a V2 for the project. Guillermo pointed out that before we go foe a V2 we needed to understand where the project is currently and how it could be improved
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo mentioned that the dashboard is still in development and will likely be tested before the Q3 consent round.
+- Ambassador program website: Vasu noted the need to gather resources within the program and collaborate with the deepfunding team to create the ambassador program website. He proposed having a workshop  session to ideate on this in the upcoming AI Sandbox session
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Andre to discuss the integration of the Governance dashboard with the Archive summary tool. [**assignee**] guillermolucero [**due**] 21 May 2025 [**status**] in progress
+- [**action**] Advance to check if Kenichi's AWS account can be used for the project deployment. [**assignee**] advanceameyaw [**due**] 21 May 2025 [**status**] todo
+- [**action**] A J will reach out to the deep funding team to gather feedback on the beta phase of the project. [**assignee**] AJ [**due**] 21 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, Ambassador Program Site, SEO, Governance Dashboard, Status update
+- **emotions:** Collaborative,  Understanding.,  Satisfaction 
+
+
 ## Thursday 8th May 2025
 
 
