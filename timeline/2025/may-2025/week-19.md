@@ -4,6 +4,59 @@ description: Mon 5th May - Sun 11th May 2025
 
 # Week 19
 
+## Tuesday 6th May 2025
+
+### Treasury Automation WG
+
+- **Type of meeting:** Weekly
+- **Present:** Tevo [**facilitator**], André [**documenter**], Tevo, Effiom, André
+- **Purpose:** We develop the Treasury System
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764625502785534&cot=10)
+- **Working Docs:**
+  - [Project Board OLD](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+  - [Project Board NEW](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/22/views/1)
+
+#### Agenda item 1 - Development Updates - [carry over]
+
+#### Discussion Points:
+- Treasury management updates for April and May 2025 - [5min YouTube Video](https://youtu.be/NtpXbhVBf0s)
+- Tevo presented and recorded the new [GitHub integration Video](https://youtu.be/ReVo9dSofVo)
+- We spoke about other potential updates to the treasury system
+
+#### Decision Items:
+- From May, we will record all tasks in GitHub
+  - [**effect**] affectsOnlyThisWorkgroup
+- Treasury and Process Guild related Dework Boards are all Archived
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Update the Summary table naming convention to be clearer in the Treasury Dashboard [**assignee**] André [**due**] 21 May 2025 [**status**] todo
+- [**action**] Finish API integration to create recognitions in the Swarm Treasury Database. [**assignee**] Tevo [**status**] todo
+- [**action**] Improve Zoom session import to allow importing multiple sessions at once [**assignee**] Tevo [**status**] todo
+
+#### Agenda item 2 - Workgroup Management - [carry over]
+
+#### Discussion Points:
+- We reviewed draft [Q2 Progress Report](https://docs.google.com/document/d/1NhMDPYy7po2c_qtQk6VOpLHczEHOW1pCbwylVOze3fM)
+- We drafted [Q3 Treasury Guild Proposal](https://docs.google.com/document/d/1ulvYJ4379vx-h978oFqjhoq4oaLGkfKT3pxCL-RiOcw)
+- We drafted [Q3 Treasury Automation WG Proposal](https://docs.google.com/document/d/1x1g2G1ShR3yCh7R2tYGJuTZ4ovDXUsKyOYzMFeZhuso)
+- We looked at potential work for Q3
+
+#### Decision Items:
+- We decided to finalise Docs in our next meeting.
+  - [**effect**] affectsOnlyThisWorkgroup
+- The next meeting will be on 10th June 2025
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Andre will draft the meeting summary and upload it to the summary tool. [**assignee**] André [**status**] done
+- [**action**] Tevo will review and publish the Meeting Summary on Discord [**assignee**] Tevo [**status**] done
+- [**action**] Effiom will continue updating the Q2 Report by addressing comments and adding relevant insights or decisions from the past two meeting summaries [**assignee**] Effiom [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Tool Development, Q3 proposal, Q2 report, GitHub API, Treasury Management System, Testing
+
+
 ## Wednesday 7th May 2025
 
 ### Archives Workgroup
