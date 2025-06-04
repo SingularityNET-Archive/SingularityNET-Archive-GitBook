@@ -111,3 +111,25 @@ The meeting wrapped up with an encouragement to join the Town Hall to stay infor
 #### Keywords/tags:
 - **topics covered:** DeepFunding, Q3,  Budget Allocation, Certification program
 - **emotions:**  forward-looking,  insightful, Ideating
+## Thursday 29th May 2025
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Kateri [**documenter**], PeterE, advanceameyaw, Gorga Siagian, hogantuso, Jeffrey Ndarake, martinsoki, Max Milez, UKnowZork, Darshana Patel
+- **Purpose:** Weekly meeting on Mindplex 
+#### In this meeting we discussed:
+- The meeting begin at exactly 12:03 UTC, with Osmium extending greetings to everyone present.
+- The discussion centered around Mindplex blockchain. Osmium noted that Mindplex operates based on a carefully designed tokenomics system involving MPX token and MPXR token. He noted that MPXR can be gotten from uploading articles or magazine in Mindplex site
+- As there was no show from the participant for the Mindplex showcase, Osmium gave an insight from articles that were shared and also shared that he had been working on something with Mindplex and it is going to be called News Bits. This News bits will be hosted by an Avatar and shared on our various social media, we watch a live showcase of what it was going to be like. 
+- Further discussion included the suggestion of the writers workgroup contributing to the  Mindplex platform to increase visibility. The metrics of Mindplex were reviewed which it highlighted a significant number of active users.
+- Peter provided an update on the ambassador program website development, proposing a workshop for community feedback and emphasizing the importance of collaboration.
+Peter updated that the website is in progress and it will have a workable version ready by next week. We had a work show on the website and gave suggestions. 
+
+#### Action Items:
+- [**action**] Peter to schedule a workshop for the community to provide feedback on the website being developed  [**assignee**] PeterE [**status**] todo
+- [**action**] Members to give feedback on the sample of the News Bits video that was shared [**assignee**] all [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** News Bits, SingularityNet website, Mindplex Magazine
+- **emotions:**  Satisfaction ,  Understanding.  ,  forward-looking
