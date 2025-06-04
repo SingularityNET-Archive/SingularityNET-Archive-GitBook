@@ -88,6 +88,7 @@ The meeting wrapped up with Peter encouraging contributions to the upcoming Town
 - **emotions:**  Collaborative
 ## Thursday 22nd May 2025
 
+
 ### AI Sandbox/Think-tank
 
 - **Type of meeting:** Weekly
@@ -130,3 +131,35 @@ The meeting wrapped up with Peter encouraging contributions to the upcoming Town
 #### Keywords/tags:
 - **topics covered:** Ambassador Program Site, WG/GuildsToolset, Ideation,  Budget Allocation, Make.com, AIRTABLE AI, Mindplex, Heygen
 - **emotions:**  informative, Insightful, welcoming, Interactive
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Alfred Itodele [**facilitator**], UKnowZork [**documenter**], Alfred Itodele, UKnowZork, PeterE, CallyFromAuron, Tevo, guillermolucero, AshleyDawn, advanceameyaw, Effiom, Maximilez, Jeffrey Ndarake, Clement Umoh, Sucre n Spice
+- **Purpose:** Regular Weekly GovWG meeting
+#### Narrative:
+During the meeting we discussed several important topics: establishing a quorum for decision-making, handling anonymity and abstentions, possible changes to the budget cap form, updates to the context-setting document, and determining who would be responsible for publicizing these changes. A key concern arose around quorum, sparked by observations that in some workgroups, only three or four members out of about sixty completed consent forms. This raised questions about whether such low participation truly represented the group’s collective opinion. The discussion focused on whether setting a quorum—a minimum number of participants needed to validate decisions—could ensure that budget approvals reflect active support rather than silent agreement or disengagement.
+
+Participation threshold based on the number of people who complete a consent form, or quorum based on the number eligible to do so (i.e., total number of core contributors)?
+We all agreed that quorum should be determined based on the total number of core contributors who are eligible to participate, rather than only counting those who have completed a consent form or are actively engaging at any given moment. This approach was seen as more legitimate because it ensures that decisions represent a meaningful portion of the entire community, not just a subset of currently active members.
+
+Flat number, or percentage?
+After much debate, we decided that quorum should be expressed as a percentage rather than a flat number. Using a percentage allows the quorum threshold to adjust fairly with the size of the group, accommodating both small and large workgroups. This flexibility was seen as necessary because different groups vary in size and levels of engagement, and a fixed number could either be too high for some groups or too low for others. However, it was also noted that deciding the precise percentage would be a challenge, and might require ongoing review as participation levels shift over time. There was also discussion around distinguishing between general core contributors and active decision-makers, suggesting that quorum might need different thresholds depending on who qualifies as a voting member.
+
+What percentage?
+The conversation about the exact percentage needed for quorum reached a final agreement during the meeting. The figure of roughly 25% was floated as a potential starting point based on current participation data, but during the course of the meeting we decided to go with 17% as this final quorum percentage. Voting records indicated that about 30% of active members typically participate, but relying on participation alone was seen as risky since abstentions could be used to manipulate outcomes. Therefore, setting quorum as a percentage of all eligible voters rather than just those present or active was favored to ensure decisions have strong community support. 
+Other discussion points and next steps
+
+The topic of optional anonymity for participants was briefly raised but not fully discussed. There was also no clear resolution on how abstentions should be treated in the quorum count or decision-making process.
+Tevo expressed his concern about the general low engagement in some workgroups, with some citing data from the Treasury guild showing minimal participation. To address this, we suggested raising awareness and encourage more members to get involved.
+The meeting closed on a positive and lighthearted note, while we all expressed optimism about improving participation and refining the governance process.
+
+
+#### Discussion Points:
+- Participation threshold based on the number of people who complete a consent form, or quorum based on the number eligible to do so (i.e., total number of core contributors)?
+- Flat number, or percentage?
+- What percentage?
+
+#### Keywords/tags:
+- **topics covered:** Percentage, Quorum, Workgroup, Core Contributors , Anonymity
+- **emotions:**  Collaborative,  informative, Conclusive, Insightful, relaxed, collaborative
