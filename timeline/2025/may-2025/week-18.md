@@ -6,6 +6,7 @@ description: Mon 28th Apr - Sun 4th May 2025
 
 ## Thursday 1st May 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -79,3 +80,49 @@ And if someone doesn't *want* to record their voluntary time, that is fine.
 #### Keywords/tags:
 - **topics covered:** time-based recognition, rewards, particpation, contribution, high earners, high contributors, task types, role-based or task-based, neurodivergence, hyperfocus, ADHD, volunteer work, Dework
 - **emotions:** Discursive, No decisions made, wide-ranging, inconclusive, thoughtful, data-driven
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LadyTempestt [**facilitator**], Kateri [**documenter**], LordKizzy, CallyFromAuron, AshleyDawn, Jeffrey, martinsoki, Kateri, UKnowZork, Alfred Itodele, CJFrankie, Clement Umoh, LadyTempestt, hogantuso, CollyPride, AndrewBen, Duke, Maxmilez
+- **Purpose:** Monthly meetings update on how to onboard people in our community 
+- **Working Docs:**
+  - [Context-setting for Core Contributor decision on Q2 2024 budgets](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [Analysis for Interview Answers to Onboarding To Decentralisation Research](https://docs.google.com/document/d/1QoiFu7sdgmmJbeOGe3ig8-JtvMvlGT5w9ctnXJYyc2E/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting Kickoff: Love welcomed everyone and shared the GitHub board to go over tasks and action items for the next meeting.
+- Onboarders Team Updates: Love shared her updates on her recent onboarding experience and so invited the Onboarders team to share updates on their recent onboarding experiences. Vani and Lordkizzy both noted a decline in new member joining, prompting the group to shift focus toward mentoring and supporting current members. CJfrankie shared his progress promoting the ambasssador program at the Crypto Evangelist Telegram group and mentioned an upcoming call to discuss the SingularityNET Ambassador Program. Gorga shared a positive mentoring experience, where he helped a new member get started with asset creation tasks.
+- New members engagement: We had a blast discussion about the current challenges facing new members e.i New people are not really going elsewhere than the usual favourite WGs (Writers, Video). Lordkizzy said many are interested in content creation, which doesn’t always match open workgroups. Vani wondered if is it that they don't have the right skillset for e.g. Treasury, Education, etc - or that they are not interested in those groups - or is it just that they don't think they have the right skills? and we need to explain it better how they can fit in?
+
+
+Onboarding Challenges and Opportunities: Gorga emphasized that joining the Gamers Guild requires specific conditions, such as consistent meeting attendance and skill in creating assets. Lordkizzy noted that the major factors for guilds/workgroup is AGIX price fluctuations, which reduces the number of task a workgroup or guild can create for their members.
+
+Lordkizzy emphasized that understanding the structure takes time and so he keeps encouraging the new members to be consistent in attending the meeting and they will with time get to understand how the system works
+
+Love raised another challenge that new members might face in communication, difficulties understanding various accents during meetings. Love pointed out that it is difficult to understand languages that you are not used to. Lordkizzy encouraged members to ask questions without hesitation and reassured the group that regular participation helps build familiarity and understanding over time.
+
+- Improving Clarity and Communication in Meeting: Love raised a challenge that new members might face in communication, due to various accents during meetings. Furthermore, pointed out that it is difficult to understand languages that you are not used to. Lordkizzy encouraged members to ask questions without hesitation and reassured the group that regular participation helps build familiarity and understanding over time.
+Vani suggested that written agenda helps attendees understand the meeting more clearly. She acknowledged that while the GitHub board is useful, returning to written agendas in some workgroups might improve clarity and engagement.
+
+Building on this idea of improving communications, the Read A.i transcription features was suggested to help them better understand what’s being said. 
+
+
+- Connectivity challenges: Vani shared her experience with poor internet and how it helped her understand what others deal with regularly. Getting kicked out repeatedly was frustrating, and she pointed out that people with stable connections might not fully understand how difficult it can be. Vani suggested raising more awareness about connection issues. While we can’t fix them, we can support each other for example, by posting quick updates in the chat when someone drops off.
+Love added that when she rejoins after a disconnection, she usually asks what’s going on, and people are always quick to catch her up.
+- AOB: Next meeting is 5th June, 2025 and Clement is facilitating while CJfrankie is documenting.
+
+#### Decision Items:
+- We decided to encourage members to attend multiple WGs to explore skill-building opportunities.
+  - [**effect**] mayAffectOtherPeople
+- We decided to support one another during connectivity issues by posting meeting progress in the chat when someone rejoins.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Sucre to lead a session on “Understanding the SNET ecosystem” in May  [**assignee**] Sucre n Spice [**status**] todo
+- [**action**] Clement to facilitate and CJfrankie to document in the next meeting  [**assignee**] Clement Umoh, CJFrankie [**status**] todo
+- [**action**] Vani to help look for transcription tools that can provide live transcripts for meetings. [**assignee**] CallyFromAuron [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AGIX price, Documentation, Onboarders update, New members
+- **emotions:** Productive,  Caution , Informative
