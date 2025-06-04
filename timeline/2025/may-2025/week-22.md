@@ -113,6 +113,7 @@ The meeting wrapped up with an encouragement to join the Town Hall to stay infor
 - **emotions:**  forward-looking,  insightful, Ideating
 ## Thursday 29th May 2025
 
+
 ### AI Sandbox/Think-tank
 
 - **Type of meeting:** Weekly
@@ -133,3 +134,29 @@ Peter updated that the website is in progress and it will have a workable versio
 #### Keywords/tags:
 - **topics covered:** News Bits, SingularityNet website, Mindplex Magazine
 - **emotions:**  Satisfaction ,  Understanding.  ,  forward-looking
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], UKnowZork [**documenter**], PeterE, UKnowZork, AshleyDawn, Kateri, CallyFromAuron, guillermolucero, Tevo, Effiom
+- **Purpose:** Regular Weekly GovWG Meeting
+- **Working Docs:**
+  - [Ambassador Program Sentiment Distribution](https://docs.google.com/document/d/1vFdaQelvCOcePcuuYp8mItIMvoenLzujr_2hRLfQnZc/edit?usp=sharing)
+  - [WG Budet Minimums](https://docs.google.com/spreadsheets/u/0/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE/htmlview?pli=1)
+
+#### Narrative:
+The workgroup convened to address multiple ongoing topics, including the debate over anonymity, budget allocations, and aligning funding with workgroup priorities. We reviewed the results of a Discord poll on anonymity, noting an almost even split (7-6) between those favoring a return to anonymity and those preferring to keep the current system. This lack of a clear consensus made it difficult to finalize a decision. Discussions reflected the complexity of balancing transparency with anonymity, recognizing that each approach carries trade-offs.
+
+We also reviewed data on workgroup priorities, highlighting that while some workgroups—like GitHub PBL—received mostly low-priority votes, others—such as Treasury Guild—were seen as critical. The importance of cross-referencing these priorities with perceptions of under-resourcing was acknowledged, though it was agreed this could not be fully addressed in the current session. Vani raised concerns about the challenges of sharing data containing personal information, and Peter pointed out limitations in treating the small sample size as statistically significant.
+
+Budget constraints and token price fluctuations were a central theme. We discussed whether to adjust the token rate to 32 cents to accommodate variations, though concerns were raised about fairness and the impact of such changes. It was suggested that Treasury Guild could be a logical starting point for funding discussions, given its critical role. We acknowledged the need for a clear, actionable proposal, with Tevo and Effiom volunteering to draft a budget cap suggestion over the weekend using AI tools for data analysis. We also briefly touched on the consent form draft, ensuring reasons for abstaining were included, and discussed how adjustments to voting rules might impact future decisions.
+
+The meeting wrapped up with recognition of the progress made, despite the complex and sometimes disorganized nature of the discussion. We emphasized the importance of having a concrete proposal as a foundation for further debate and decision-making.
+
+
+#### Action Items:
+- [**action**] Tevo and Effiom will draft a budget cap suggestion based on available data and insights from the discussion. [**assignee**] Effiom, Tevo [**due**] 5 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Priority, Workgroups, Budget caps, Anonymity, Consent, Ambassador Program reserves
+- **emotions:** Interactive, detailed, collaborative, educative
