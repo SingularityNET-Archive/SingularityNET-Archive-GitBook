@@ -161,3 +161,43 @@ Vasu proposed using Eraser.io for collaborative scripting, noting its ability to
 #### Keywords/tags:
 - **topics covered:** AI TOOLSET EXHIBITION, optimization, Analytics, Automation
 - **emotions:** Interactive, educational, Productive,  informative
+## Friday 25th April 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Eric Davies, Kateri, UknowZork, esewilliams, LordKizzy, Marcelo Guedes, advanceameyaw, Gorga Siagian, CJFrankie, Emmanuel Grandison, Grandi, Jeffrey Ndarake, Max Milez, Mikasa
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [R&D New Proposal Submission [Template] ](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Workgroups >< Wider ecosystem collaboration](https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing)
+  - [ROLES AND RESPONSIBILITIES FOR MARKETING GUILD.](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=drivesdk)
+  - [Copy of Marketing initiative Proposals](https://docs.google.com/document/d/1Hfc1dCgoNbcOq7qle6muc4iQyZn792s03sr3MX-Eltk/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the meeting by welcoming attendees and sharing the agenda. Kareem addressed the graphics team's structure and budget, indicating that previous presentations had clarified the necessary metrics and deliverables. Ayo also prompted discussions regarding action items and the need for further clarification on project-related issues.
+- Quorum Discussion for Marketing Guild: Ayo led a discussion on establishing quorum for the Marketing Guild, seeking clarity on the number of core members present. LordKizzy proposed that quorum should consist of a minimum of five core members and three taskforce members. Ayo confirmed that if there are eight core members, they could still function as a quorum without taskforce members.
+- Governance Document Discussion: Ayo led a discussion on the governance document, outlining three options for its progression: resolve the comment in Guilds call and adopt it as it is, find a focus group of three people who will work on it and present, or continue to deliberate on it in every Guild meeting. LordKizzy expressed support for the first option, and after confirming the group's consensus, Ayo determined that the majority favored resolving comments and adopting the document in the current meeting.
+- Discussion on Meeting Attendance and Treasury Operations: Ayo initiated a discussion regarding the penalties for members who miss four consecutive meetings, questioning the appropriate actions to take. LordKizzy indicated that if a member has legitimate reasons for their absences and is completing their tasks effectively, they may face different consequences than those who are not performing. Ayo also mentioned the need for documentation and access to shared documents during the conversation. Ayo raised concerns about the impact of missed meetings on quorum and decision-making within the guild. LordKizzy suggested that members should not miss more than three meetings in a month, with a 30% deduction in rewards for those who exceed this limit. The discussion highlighted the need for clarity on attendance expectations and penalties.
+- Budget Allocation and Payment Schedule Discussion: Gorga inquired about missing task information for April on GitHub, prompting Ayo to confirm that they would address it. Ayo also revisited the topic of budget adjustments, noting the necessity of cutting overhead to ensure financial sustainability. Ayo proposed reducing the budget allocation from 150 to 120 to prevent overspending. LordKizzy outlined the payment schedule, indicating that payments for approved submissions would be made on the 1st of May, with a second review on the 7th. The group unanimously agreed to the 120 allocation, emphasizing the need to stay within budget constraints.
+- Podcast Review and Marketing Guild Updates: Eric Davies discussed the status of the podcast, indicating that he and Kenechi will review it prior to its release. He also mentioned drafting modules for the marketing guild and is waiting for feedback from LordKizzy about the video work group. LordKizzy inquired about the podcast's structure and the participation of writers in the next sprint, to which Eric Davies confirmed he had not yet received feedback. Ayo requested that the summary notes be prepared by the weekend.
+
+#### Decision Items:
+- it was decided in the meeting to have 5 core members and 3 taskforce members to make a quorum
+  - [**effect**] affectsOnlyThisWorkgroup
+- it was decided in the meeting that we should take option one which says resolve the comments now and adopt it as it is
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] LordKizzy to reach out to Ese to make the issues on the project board ready [**assignee**] LordKizzy [**due**] 2 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance document,  Budget Proposals , Community podcast update
+- **emotions:**  insightful,  Satisfaction ,  Understanding.  , Conclusive
