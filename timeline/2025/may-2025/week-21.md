@@ -86,3 +86,47 @@ The meeting wrapped up with Peter encouraging contributions to the upcoming Town
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation,  Process improvement
 - **emotions:**  Collaborative
+## Thursday 22nd May 2025
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Gorga Siagian [**documenter**], Alfred Itodele, LordKizzy, Jeffrey Ndarake, advanceameyaw, Clement Umoh, Max Milez, martinsoki, Santos, UKnowZork
+- **Purpose:** AI Sandbox (General Discussion)
+
+- **Working Docs:**
+  - [AI SANDBOX/THINK-TANK #29](https://docs.google.com/document/d/16_16qvNOBsA9OXubSM09X_gY6Fe47jm6OPeoqcxdiVE/edit?tab=t.0)
+  - [Miro Board](https://miro.com/app/board/uXjVI7Abr18=/?share_link_id=24280639227)
+  - [ Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?gid=1681070206#gid=1681070206)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI Sanbox Toolset Exhibition Report](https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit?tab=t.0#heading=h.bn2xrlmjpxj4)
+
+#### In this meeting we discussed:
+- In this meeting we discussed:
+-  Coordination Meeting and Introductions: The meeting started with a short conversation and greeting. 
+
+- - Discussion on automation using Airtable, Make.com, and Hyegen API for video posting and social media management. Advance experienced delays due to personal emergencies but committed to preparing a showcase for the Video Workgroup meeting on Friday, May 23, 2025. Automation aims to reduce manual workload for task and social media managers by scheduling and posting videos automatically.
+- - Budgeting & Subscription Requirements: Automation proposals require subscriptions for Make.com and Heygen, but Airtable's free tier may suffice.Uncertainty about adding new automation expenses to the current budget cycle, priority is to pay out existing work first.
+- - Budget Cuts & Funding Challenges: All groups face a 34% budget cut for upcoming quarters, making new initiatives difficult to fund. The current focus is on reallocating resources, possibly substituting AI exhibitions with automation ideation and adaptation. Governance decisions on extra funding are pending, and teams must prepare to work within reduced allocations.
+
+- - Upcoming Mindplex App Showcase & Documentation: Mindplex app showcase scheduled for next Thursday; CEO invited to present new features, including a reputation engine. Mindplex integrates a reputation-based reward system, with potential for onboarding and collaboration with other workgroups. Documentation responsibilities confirmed; next documenter assigned, and ongoing project showcases reviewed.
+- - Workshops, Exhibitions, and Meeting Cadence: The discussion includes reallocating the AI Sandbox exhibition budget to fund workshops or provide rewards for automation efforts, highlighting a shift in focus towards skill development and efficiency. This reallocation aims to incentivize team members like Advance, who are actively working on automation projects, fostering a culture of innovation despite budget constraints. Consideration of moving to bi-weekly meetings due to resource constraints.Meeting concluded with reminders for Advance to finalize automation work and for team to prepare for upcoming showcases.
+
+#### Decision Items:
+- Reallocating the AI Sandbox exhibition budget to workshops or rewarding automation efforts, highlighting the shift in focus towards skill development and efficiency
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Advance to finalize and prepare a showcase of automation progress (Airtable, Make.com, Heygen API) and to wrap up automation work and share a report for the Video Workgroup Meeting on Friday, 23 May 2025 [**assignee**] advanceameyaw [**due**] 23 May 2025 [**status**] todo
+- [**action**] Osmium reached out to Mindplex's CEO and team to prepare for Mindplex's app showcase on the next Thursday [**assignee**] osmium [**due**] 29 May 2025 [**status**] todo
+- [**action**] Kizzy contacted Kateri for her availability to be a documentarian on Thursday next week. [**assignee**] LordKizzy [**status**] todo
+- [**action**] Monitor governance discussions and budget decisions to determine feasibility of automation proposals and potential funding allocations [**assignee**] LordKizzy [**due**] 29 May 2025 [**status**] todo
+- [**action**] Kateri will be the documenter at the next meeting on Thursday next week. [**assignee**] Kateri [**due**] 29 May 2025 [**status**] todo
+- [**action**] Gorga mentoring documentary for jeffrey and do the call after the meeting  [**assignee**] Gorga Siagian [**due**] 29 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program Site, WG/GuildsToolset, Ideation,  Budget Allocation, Make.com, AIRTABLE AI, Mindplex, Heygen
+- **emotions:**  informative, Insightful, welcoming, Interactive
