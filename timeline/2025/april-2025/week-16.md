@@ -111,6 +111,12 @@ Cos we have knowledge bank of SingularityNet everywhere. So why should we use th
 - **topics covered:**  ACP, Google Classroom, proceses,  Budget Allocation
 
 
+## Thursday 17th April 2025
+
+### Governance Workgroup
+
+Meeting was cancelled - Easter break
+
 ## Friday 18th April 2025
 
 ### Marketing Guild
