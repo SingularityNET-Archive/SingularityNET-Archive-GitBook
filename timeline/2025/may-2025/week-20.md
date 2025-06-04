@@ -111,6 +111,7 @@ We plan to tweak and share the spreadsheet by day’s end and bring it to the to
 
 ## Thursday 15th May 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -155,3 +156,37 @@ The meeting ended on a positive and lighthearted note, while we all expressed op
 #### Keywords/tags:
 - **topics covered:** Budget minimums, Consent Process, Consent deadlines
 - **emotions:**  Collaborative
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], LordKizzy, Gorga, Advanceameyaw, Jeffrey Ndarake, Santos, UKnowZork, Kateri, Max Milez
+- **Purpose:**  AI Sandbox (General Discussion)
+- **Working Docs:**
+  - [ AI SANDBOX/THINK-TANK #27    ](https://docs.google.com/document/d/18f5khsU-DxTTAZhz9ORwrN0IFzjt0djr_COpKhgXGTI/edit?tab=t.0)
+  - [Mirror Board](https://miro.com/app/board/uXjVI7Abr18=/?share_link_id=24280639227)
+  - [ Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?gid=1681070206#gid=1681070206)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [ AI Sanbox Toolset Exhibition Report](https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit?tab=t.0#heading=h.bn2xrlmjpxj4)
+
+#### In this meeting we discussed:
+-  Coordination Meeting and Introductions: The meeting started with a short conversation and greeting. 
+Osmium made an announcement that he has been in discussions with Rui the CEO of MindFlex about the upcoming MindFlex Showcase, which will feature a sandbox session to present.
+
+- LM NoteTaker: Lord Kizzy gave a live presentation to compare the meeting summary from our previous meeting by Advance and the meeting summary from LM NoteTaker. He highlighted errors and wrong information but he concluded that the overall summary was good but also too complex. Going on he presented the meeting summary of Read.AI and also compared it.
+- AI Tool Comparisons and Feedback
+The discussion was led on the strengths and weaknesses of AI tools for meeting summaries, with  Osmium emphasizing the structured nature of these tools but pointing out issues with pronunciation and summary accuracy. Advanceameyaw compared LM NoteTaker and Read.AI, noting that LM NoteTaker provides better organization and clarity in its summaries. It was agreed that while LM NoteTaker excels in narrative quality, both tools require human oversight to mitigate error.
+- Advanceameyaw presented a customizable workspace that allows for real-time collaboration and task tracking, highlighting its integration with various tools, including Zapier and Discord. A conference room participant inquired about the integration with Google applications and suggested creating documentation to facilitate the adoption of the tool. Osmium also mentioned sending a workflow for the video workgroup to Advanceameyaw for further ideation.
+
+#### Action Items:
+- [**action**] Advance to outline the features he mentioned on the Airtable AI tool [**assignee**] advanceameyaw [**due**] 22 May 2025 [**status**] in progress
+- [**action**] Osmium to coordinate with Peter to discuss the integration constraints and different aspects of the project. [**assignee**] osmium [**due**] 22 May 2025 [**status**] todo
+- [**action**] Gorgan to mentor Jeffery on documentation techniques after the call. [**assignee**] Gorga Siagian [**due**] 22 May 2025 [**status**] todo
+- [**action**] Osmium to send a video tutorial to Advance regarding the workflow for the video workgroup. [**assignee**] osmium [**due**] 22 May 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program Site, WG/GuildsToolset, ideation, AI NoteTaker
+- **emotions:** informative, welcoming, interactive,  Understanding.
