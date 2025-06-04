@@ -32,6 +32,12 @@ Ambassador program website: In this meeting, Ines proposed the idea of creating 
 
 #### Learning Points:
 -
+## Tuesday 22nd April 2025
+
+### Governance Workgroup
+
+Meeting was cancelled: Easter break
+
 ## Wednesday 23rd April 2025
 
 ### Education Workgroup
