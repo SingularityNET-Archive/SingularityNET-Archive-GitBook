@@ -54,3 +54,36 @@ However, we noted that some cancelled meetings are still on the Calendar - we wi
 #### Keywords/tags:
 - **topics covered:** AGIX price, controlled vocab, Knowledge management across the singularityNET ecosystem, AI ethics, Q3 2025 budget, Q2 2025 quarterly report, summary tool redesign, meeting summary audits, rule-based auditing, tag taxonomy, Deepfunding Town Hall, token price
 - **emotions:** interesting, low attendance, slow
+## Thursday 5th June 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], Tevo [**documenter**], UKnowZork, Kateri, CallyFromAuron, guillermolucero, Tevo, Alfred Itodele, Sucre n Spice, Clement Umoh, Duke, Jeffrey Ndarake, martinsoki, maxmiles, PeterE
+- **Purpose:** Regular weekly Open Governance meeting
+This group discusses governance issues for the Ambassador program, such as how we make decisions, how we reward contribution, how we decentralize, and how we ensure inclusion
+- **Working Docs:**
+  - [Ambassador Program Sentiment Distribution](https://docs.google.com/document/d/1vFdaQelvCOcePcuuYp8mItIMvoenLzujr_2hRLfQnZc/edit?usp=sharing)
+  - [WG Budget Minimums](https://docs.google.com/spreadsheets/u/0/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE/htmlview?pli=1)
+
+#### Narrative:
+Q3 Budget Cap Finalisation
+
+
+#### Discussion Points:
+- How do we proceed with Ambassador Program Budget Limits to existing groups?
+- Even if some groups wouldn't request funding, it still would affect the broader structure
+- [Sentiment analysis](https://docs.google.com/document/d/1vFdaQelvCOcePcuuYp8mItIMvoenLzujr_2hRLfQnZc/edit?tab=t.0#heading=h.o3fg3xit11r5) provided interesting outputs and an opportunity to change how we govern the budget, but further discussions and more involvement were expected before we implement it to steer our budgetary decisions.
+- Several workgroups have not communicated their Q3 funding needs clearly, delaying the collective understanding of total financial obligations.
+- There's a reliance on a few active contributors to raise concerns, with others remaining passive
+
+#### Decision Items:
+- Proceed with the percentage decrease based on the budget request in the previous quarter for the [Q3 budget limits](https://docs.google.com/spreadsheets/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE/edit?gid=350992806#gid=350992806). 
+  - [**rationale**] There was pushback to this change, but we could not find agreement on any other alternatives that could be applied in a relatively short amount of time (before the budget submission period)
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Update Core contributors about the new context and budget limits [**assignee**] CallyFromAuron [**due**] 9 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget caps, Workgroup Funding, Sentiment Analysis
