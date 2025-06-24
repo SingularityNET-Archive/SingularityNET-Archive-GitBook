@@ -4,6 +4,77 @@ description: Mon 3rd Feb - Sun 9th Feb 2025
 
 # Week 06
 
+## Monday 3rd February 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], Onize [**documenter**], CallyFromAuron, Évéline Trinité, EstherG, Clement Umoh, Sucre n Spice, AshleyDawn, Aetherblade, esewilliams
+- **Working Docs:**
+  - [GitHub project board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [AI Ethics Workgroup Stuff!](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [Report from the ETHiopia conference](https://docs.google.com/document/d/1DBSIJsBIMaRr7Cxj9EBJ_w9Pe3M4DcaMUUH7CPeoGtA/edit?usp=sharing)
+
+#### Narrative:
+As always, we went through the GitHub board starting with items "In Progress" followed by "To Do".
+
+INTERVIEWING
+- Several interview tasks from both Q4 2024 and this Quarter are still pending
+- Several "interview" issues are still open because Vani is checking interview validity - slower process than expected. Perhaps next Quarter we'll train more people to do it too, to speed things up.
+- Several interviews haven't met the validity criteria that we set for payment - WG admin team will agree on thresholds to partially pay interviews that are not quite there.
+- Biggest issue is interviews too short.
+- Validity comprises 2 things - the WG's agreed criteria for payment, and validity for inclusion in BGI Nexus's research corpus - e.g. a too-short interview could still be included in the research.
+- Should we change our criteria for the next round of interviews?
+- Esther will lead a "peer support"-style meeting for interviewers to discuss what we've all learnt.
+
+
+AGI-24 PAYMENTS
+- People's work at AGI-24 has at last been paid! Thanks to Esther for working with the Foundation to find a way to process the payments. Although we didn't yet get a process in place that can be used in future, we now understand the administrative landscape better, and should be able to establish such a process next time there is direct payment from the Foundation to people in the Ambassador Program.
+
+TRANSCRIPTION
+- Work hasn't started yet - there will be a training session before the end of Feb on how to transcribe, using Intelligent Verbatim style.
+- Several interviewers are happy to transcribe their own interviews, but for those who are not, there might be tasks for other people to pick up.
+
+MATCH FUNDING
+- Esther has been trying to regularise match funding from the Foundation, rather than having to go through a process each Quarter - nothing definite yet
+- Possibly, match funding could support a small funding pipeline for events attendance and similar.
+- We agreed a meeting between Nexus and the WG would be useful to discuss how best to spend any future match funding that is secured from the Foundation to support the work; although the final decision should be made by BGI Nexus
+
+BGI-25 CONFERENCE, ISTANBUL, MAY 2025
+We discussed Ambassador Program involvement in this event, in the light of ongoing discussions on event attendance and spending Program reserves. No definite decisions, but we will get Peter's input and discuss BGI-25 again next meeting. We shouldn't leave it too late, to allow time for possible attendees to get visas.
+
+SURVEY-SHARING
+Survey sharing tasks are now completed - overall cost was $180 ($30 x 6 people). So far, we got 57 complete responses as a result, and no partial responses; and there might be more to come. Might be worth doing more in a future Quarter - if we scale this (500-ish reponses would be meaningful, which would cost maybe $1,500), it is worth it given the value it adds to the research.
+
+Q2 2025 BUDGET
+We looked at draft budget and discussed briefly - invited comments from members - TBC next meeting
+
+STRATEGY GUILD WORKSHOP
+Gorga let the group know that later today there will be a Strategy Guild workshop to discuss AI Ethics work; this is part of Strategy Guild's ongoing sessions with different WGs.
+
+
+#### Decision Items:
+- We agreed it would be useful to have a meeting between Nexus and the WG at some point to discuss how best to spend any future match funding that is secured from the Foundation; although the final decision should be made by BGI Nexus
+  - [**rationale**] to ensure input from the WG members on their priorities; possibly to create a small funding pipeline to support events attendance and similar, inspired by Clement and Advance's attendance at the ETHiopia event. 
+  - [**opposing**] We'd need criteria and an application process
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that survey-sharing work was reasonably successful
+  - [**rationale**] overall cost $180 
+57 complete responses, perhaps more to come. 
+If we scale this (500-ish reponses would be meaningful, which would cost maybe $1,500), it is worth it given the value it adds to the research.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani will finish interview validity checks in next couple of weeks, so that interviews can be paid where eligible [**assignee**] CallyFromAuron [**due**] 21 February 2025 [**status**] todo
+- [**action**] WG admin team will agree on thresholds to partially pay interviews that are not quite meet validity criteria, especially on length [**assignee**] CallyFromAuron, LadyTempestt, Sucre n Spice, CollyPride [**due**] 28 February 2025 [**status**] todo
+- [**action**] Vani to set a date for transcription training session by end of Feb [**assignee**] CallyFromAuron [**due**] 28 February 2025 [**status**] todo
+- [**action**] Vani and Esther to set a date by the end of the Quarrter for a "peer support"-style meeting for interviewers to discuss what we've all learnt. [**assignee**] EstherG, CallyFromAuron [**due**] 31 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI Ethics Interviews, interview validity, AGI-24 payments, Interview Transcription, intelligent verbatim,  1P1V, match funding, ETHiopia event, BGI-25 conference,  events attendance, Ambassador Program reserves, Strategy Guild workshop, Q2 2025 budget, AI Ethics survey
+- **emotions:** quick, Only a few of those present spoke, calm, Collaborative
+
+
 ## Tuesday 4th February 2025
 
 ### Governance Workgroup
