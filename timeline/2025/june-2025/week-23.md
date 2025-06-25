@@ -4,6 +4,64 @@ description: Mon 2nd Jun - Sun 8th Jun 2025
 
 # Week 23
 
+## Monday 2nd June 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], CallyFromAuron [**documenter**], CallyFromAuron, UKnowZork, Jeffrey Ndarake, PeterE, Grandison, TheFreysDeFi, AshleyDawn, osmium, Peegee, CollyPride, Sucre n Spice, Clement Umoh
+- **Purpose:** Regular monthly meeting of the AI Ethics workgroup
+- **Working Docs:**
+  - [AI Ethics GitHub Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [Ai Ethics WG Stuff!](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [AI Ethics WG Q3 2025 budget](https://docs.google.com/spreadsheets/d/19JPcJTBLct0xeGhVnxNEnsaoXqkE9SKMjWnwAqZ7GRI/edit?usp=sharing)
+  - [AI Ethics WG Q2 2025 report](https://docs.google.com/document/d/1YszqSu73ZnppOQEJdePyOye_A-xGP87sM5CQx65q_Bk/edit?usp=sharing)
+
+#### Narrative:
+As usual, we worked from the GitHub board, starting with "In Progress", and then to "To Do".
+
+MEETING SUMMARIES
+We noted that meeting summaries - and tasks in this WG in general - need to be completed a bit quicker than is currently happening. Meeting summary tasks need to be done in future within a week of the date of the meeting, not several months after.
+
+TRANSCRIPTION
+Most of the "in progress" Issues on the board are transcription tasks, and were assigned in Q1.
+However, due to the big token price drop during Q1, we note that we were unable to afford under the Q1 budget all of the transcriptions we budgeted for in Q1. In the end, we did 5 out of the planned 15. So the outstanding ones, we have officially transferred to the Q2 budget. In Q2 we budgeted to do 11 transcriptions: 4 are done and waiting to be paid, and we agreed on a final deadline of the end of June for the other 7; but ideally, people should try to complete a little sooner, so we have time to a) check the transcripts and b) process payments by the end of the Quarter (last payment processing day this Quarter is Thurs 27th).
+
+Q2 PAYMENTS
+We noted that some of the Q2 tasks - including quarterly-paid ones, such as admin tasks - have been paid or part-paid in advance now that token price is above $0.30, just in case price falls again by the end of the Quarter.
+
+CO-CHAIR REPORT
+Vani gave an update on how work is going.
+Underlined that the core priority for the WG in future is collecting further research data - so interviewing will be a key element of the Q3 budget.
+
+SURVEY-SHARING
+Survey-sharing was a paid task in Q4 2024, but should it be in future? or should people just share it if they like, withut needing to evidence it and withut being paid? Too be discussed in a future meeting, perhaps with the aim of including it in Q4 2025 budget
+
+AI AND EMOTION DISCUSSION
+We noted that this discussin session, organised by Colleen as community engagement manager, took place on 19th May, and the recording is on Youtube here https://youtu.be/9QA1U40VPEg?si=_n1gIkTXFuxTK1M-
+
+Q3 2025 BUDGET
+Peter pointed out that the balance between admin/overhead tasks and actual outputs (interviews, transcripts) should be more towards outputs, especially given that we have said that further interviewing is a priority for the WG next quarter. Vani agreed that the admin team are already thinking this, and that at times of lower AGIX price when there is less "output" work going on, there is alsoo less admin/overhead work to do; so the admin team will make adjustments to the budget before it's submitted. 
+
+INTERVIEWING IN Q3
+We noted that there will be budget for some interviewing during Q3, so anyone interested should start to think now  about who they would like to interview.
+Also, if someone new is interested in trying interviewing, Vani will be prepared to offer a bit of training, and we will have updated training materials available.
+
+
+#### Decision Items:
+- We agreed that as of now, documentation tasks need to be done within 1 week of the date of the meeting
+  - [**rationale**] because we're typically waiting too long for summaries to be finished
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Outstanding transcription tasks to be either completed, or an update given to say they will not be done, by the end of the Quarter (end of June) - or ideally a little sooner, to allow time to process payment or to reassign if necessary. [**assignee**] Ayo, Clement Umoh, CollyPride, Peegee, kenichi [**due**] 25 June 2025 [**status**] todo
+- [**action**] Admin team to tweak the Q3 budget, to shift the balance more towards outputs rather then admin /overhead tasks [**assignee**] CallyFromAuron, LadyTempestt, Sucre n Spice [**due**] 9 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q3 2025 budget, interviewing, transcription, task completion times, Documentation, AI and emotion, token price
+- **emotions:** quick, well-attended, Only a few of those present spoke, Organised, practical
+
+
 ## Tuesday 3rd June 2025
 
 ### Governance Workgroup
