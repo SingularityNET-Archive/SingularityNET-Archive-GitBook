@@ -48,3 +48,42 @@ With no more pressing questions, the meeting was concluded. The hope is that onc
 #### Keywords/tags:
 - **topics covered:** Q3 2025 budget, Consent Process, Core Contributor, Treasury guild, Quarter, Governance, Anonymity, AGIX, USD, Governance Dashboard, Automation, Ambassdor program
 - **emotions:**  informative,  Collaborative, detailed, educative, Productive
+## Thursday 12th June 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], Kateri [**documenter**], CallyFromAuron, Tevo, guillermolucero, UKnowZork, advanceameyaw, AshleyDawn, Effiom, Jeffrey Ndarake, Maxmilez, Grandison
+- **Purpose:** Weekly Open Governance Meeting 
+- **Working Docs:**
+  - [Micro board task label](https://miro.com/app/board/uXjVLvZNwWM=/?moveToWidget=3458764627629195895&cot=10)
+  - [Task Label graphic ](https://discord.com/channels/909843832491896832/1150014268125753374/1370296929963085866)
+  - [Treasury guild dashboard ](https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report&months=All+months&workgroups=All+workgroups&tokens=AGIX&labels=All+labels)
+
+#### Narrative:
+The meeting began with a continuation of the conversation from the last session on the earning gap, specifically from the standpoint of task types.
+
+We began by reviewing the Treasury Dashboard to understand how funds are distributed across various workgroups and guilds, and how their associated tasks are labeled and categorized. During this review, several inconsistencies emerged in the taxonomy, with overlapping or duplicate labels like “documenting” and “documentation.” These inconsistencies make it difficult to conduct a reliable analysis of spending patterns.
+
+This led to a broader discussion on how budgets are being divided, particularly how much is being spent on administrative functions like facilitation, documentation, managing task on dework and coordination. Estimates suggested that nearly 50% of some workgroup budgets go to admin tasks, sparking debate on whether this is justifiable or excessive.
+While some saw this as potentially excessive, others defended the need that such overhead is vital.
+
+Another area of concern was the high cost of Dework task management, across the ecosystem. Vani pointed out that task management includes more than logging activities, it involves quality control, follow-ups, and support. She also highlighted that over-reliance on time tracking could create pressure and disadvantage contributors who operate at different speeds.
+
+This led to a broader exploration of how to meaningfully distinguish administrative tasks from operational ones. Tevo suggested launching a survey to collect definitions of administrative work from community members, but Vani suggested using a Google document, that it would lead to more consistent and transparent outcomes.
+
+In wrapping up, Peter recognized that the Q3 budgeting cycle is too far along to implement changes now, but will likely affect the Q4 budget.
+
+
+
+#### Discussion Points:
+- Cap on how much people can earn  from a particular task type or per workgroup ?
+- What do we think we should be spending most on?
+
+#### Decision Items:
+- No immediate changes will be made for Q3 since budget processes are already in motion. We agreed that any classification or tooling changes will target Q4.
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation, Treasury, Admin Cost, Dework management, Task Classification, Budget caps
+- **emotions:**  Understanding., Accountability
