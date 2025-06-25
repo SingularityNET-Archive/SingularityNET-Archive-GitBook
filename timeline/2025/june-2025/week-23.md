@@ -4,6 +4,44 @@ description: Mon 2nd Jun - Sun 8th Jun 2025
 
 # Week 23
 
+## Tuesday 3rd June 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], martinsoki [**documenter**], UKnowZork, AshleyDawn, Kateri, CallyFromAuron, guillermolucero, Tevo, Effiom, hogantuso, Alfred Itodele, Sucre n Spice
+- **Purpose:** Regular Weekly Governance Meeting
+- **Working Docs:**
+  - [Ambassador Program Sentiment Distribution](https://docs.google.com/document/d/1vFdaQelvCOcePcuuYp8mItIMvoenLzujr_2hRLfQnZc/edit?usp=sharing)
+  - [WG Budet Minimums](https://docs.google.com/spreadsheets/u/0/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE/htmlview?pli=1)
+
+#### Narrative:
+The workgroup discussion centered on the analysis document created by Tevo and Effiom from the survey, with the intention to clarify if it would affect the budget caps. 
+
+Peter mentioned Slate’s comment on the Discord channel, noting that the survey still remains non-binding as no decisions have been made so far. He further said that during the workgroup sync call, we suggested doing another round of the survey with higher participation.
+Vani noted that if we use the budgets suggested by Tevo as a result of the sentiment analysis, some WGs would get significantly less budget than they would with our existing caps. She has marked these WGs in blue on Sheet 1 of the Budget Minimums spreadsheet.
+
+Guillermo provided feedback on the analysis, he emphasized that it will be critical to have a second round so we could compare. He also noted that some workgroups and guilds are not committed to deliverables and updates during monthly Town Hall Updates , he highlighted that the analysis does not reflect this and he will appreciate seeing analysis on deliverables and output. 
+Peter suggested that we could do the other survey before the budget consent round, to ensure things are done well before moving forward. Tevo suggested that we could add sentiment to the consent process, as it will help target specific proposals of the workgroup/guild. Vani opt about the idea of attaching sentiment to the content process, as it will be enough for everyone to be advocating for their own group and could  prompt dishonesty for separate workgroup/guild members.
+
+Sentiment vs Output Reality: 
+Tevo highlighted that low sentiment scores might result from low engagement, not poor performance. Some workgroups had minimal participant feedback, making results unreliable.
+Peter proposed having continuous sentiment collection to reflect changes over time, not just quarterly impressions.
+
+Guillermo emphasized the need for output-driven strategy, not just activity. Unifying criteria across content creator groups (marketing, video, writers) would reduce redundancy and improve strategic effectiveness.He suggested that the sentiment analysis should be used to reallocate budgets towards groups with strong commitment and effective delivery, not simply sustain the status quo.
+
+Peter suggested that groups with known reserves could reduce Q3 requests or not request at all. However, this raises fairness concerns as it might penalize honesty and reward silence. 
+To be continued...
+
+
+#### Discussion Points:
+- A second round of sentiment collection may be needed, ideally with improved outreach, clarity, and explanation of purpose.
+
+#### Keywords/tags:
+- **topics covered:** priority, Workgroups, budget caps, consent process, Workgroup  reserves, budget allocation, sentiment analysis, Q3 2025 budget
+- **emotions:** detailed, educative, caution, need for clarity
+
+
 ## Wednesday 4th June 2025
 
 ### Archives Workgroup
