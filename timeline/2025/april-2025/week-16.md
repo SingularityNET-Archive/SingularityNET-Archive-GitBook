@@ -6,6 +6,7 @@ description: Mon 14th Apr - Sun 20th Apr 2025
 
 ## Tuesday 15th April 2025
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Monthly
@@ -83,6 +84,67 @@ Decentralised organisations seem to use Knowledge Bases more often
 #### Keywords/tags:
 - **topics covered:** Gitbook, Miro Board, Dework, Q2 Progress report, Video Tutorial, Summary, Github, knowledge base
 - **emotions:**  Collaborative, Businesslike.
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, Sucre n Spice, LadyTempestt, AshleyDawn, Tevo, Effiom, Évéline Trinité
+- **Purpose:** Regular weekly GovWG meeting 
+- **Working Docs:**
+  - [Low Budget Brainstorm miro board](https://miro.com/app/board/uXjVISH_ACg=/)
+
+#### Narrative:
+We returned to the Low-Budget Brainstorm Miro board.
+In advance of the meeting, Vani had organised the board by grouping ideas that were very similar, and numbering the ideas. 
+We did a prioritising activity on the ideas - each person selected up to 5 favourite ideas, in order from best to worst, and copy-pasted them into the Miro under their name; then selected one or more ideas they felt were questionable or that they would prefer NOT to do. You can see the results at the bottom of the Miro board. 
+
+(Note on Miro usage: not everyone did the activity - some people find it hard to access Miro, either due to poor Internet connectivity, or because Miro can be fiddly to use on a phone. Some people did post the numbers of their selected ideas in Chat, and someone else did it for them on the Miro booard.)
+
+We then discussed the responses. For key points, see "decisions" below
+
+There was some discussion on the idea of focusing on quality, not quantity, and minimising the activity of WGs which are not achieving "quality". On the questioon of how we define "quality" - there may be a need for greater clarity on WGs' purpose/aims. Each WG could be asked to define what they're *trying* to achieve, so that we can then assess whether they're achieving it. We noted that "work quality" is on the agenda for a future governance meeting.
+
+
+
+#### Discussion Points:
+- Prioritising suggestions on the Low-Budget Brainstorm Miro board
+
+#### Decision Items:
+- The ideas around paying in a stablecoin or converting to another currency (whether in the Ambassador wallet itself, or at WG level) might be interesting, but are currently not legally possible.
+  - [**rationale**] Ambassador Program is not a legal entity. 
+Who gets any profits accrued from conversion?
+AGIX is a utility token.
+  - [**effect**] mayAffectOtherPeople
+- Managing WHEN we pay (e.g. paying some tasks in advance, if token price is high at the start of a Quarter; or waiting to pay if token price is low) emerged as more feasible solutions to managing a budget
+  - [**effect**] mayAffectOtherPeople
+- Some people liked the idea of minimising meeting frequency to save mooney
+  - [**rationale**] We have tended in the past to have very frequent meetings; and meetings can accrue a lot of overhead
+  - [**opposing**] Others felt it might lower engagement in the Ambassador Program overall, as meetings are the core way that people can get involved
+  - [**effect**] mayAffectOtherPeople
+- On the idea of merging related WGs - it could be interesting and impactful, but on balance the idea was not popular
+  - [**opposing**] the impact may be negative as it can disengage individuals who do something in a WG. It also could compromise workgroup autonomy.
+  - [**effect**] mayAffectOtherPeople
+- Some people supported the idea of lowering rewards across the board and moving towards more volunteerism, but overall the idea was not popular
+  - [**rationale**]  It is a way of working if we can't afford to pay people for the things we want to do
+  - [**opposing**] Several people were very much against it on principle, on the grounds that we shouldn't expect people to work for free; so it should only be an absolute last resort, if at all
+  - [**effect**] mayAffectOtherPeople
+- The idea of automating tasks such as translations raised objections
+  - [**opposing**] because AI translation tools are not good enough yet, and a "human-in-the-loop" native speaker is still needed, so it might not save money in the end
+  - [**effect**] mayAffectOtherPeople
+- Taking money from reserves to cover budget shortfalls was seen as unwise
+  - [**rationale**] Spending reserves on maintaining our activities is not sustainable
+  - [**effect**] mayAffectOtherPeople
+- The two "moneymaking" ideas - looking for other sources of funding, and supporting WGs to sell their tooling and skills as a service - were quite popular.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] We will leave the Miro open for a few days for contributions from others not present in this meeting, and to return to it after Easter (Open Goov meeting on 24th April) to look at how we progress the most popular ideas. [**assignee**] all [**due**] 24 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** stablecoins, Miro Board, work quality, WG purpose, token price, payment in advance, delaying payments, meeting frequency, workgroup autonomy, merging WGs, selling tools as a service, outside sources of funding, translation, AI translation
+- **emotions:** engaging, Contributive, Interesting, Optimistic , Good natured
 
 
 ## Wednesday 16th April 2025
