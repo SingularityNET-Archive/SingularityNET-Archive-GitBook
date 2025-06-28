@@ -65,3 +65,54 @@ See Doc here: [Q3 2025 Budgets: Consent round 1 objection summary -https://docs.
 #### Keywords/tags:
 - **topics covered:** Consent Process, Core Contributor, Anonymity, Sentiments, Objections, Quorum, Participation in governance, WG Sync calls, measuring outcomes, impact, Workgroup reserves, Abstentions
 - **emotions:**  informative,  Collaborative, detailed, educative, Productive
+## Thursday 19th June 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], martinsoki [**documenter**], PeterE, Kateri, UKnowZork, Max Milez, Jeffrey Ndarake, AshleyDawn, Clement Umoh, LadyTempestt
+- **Purpose:** Weekly Open Governance on refining the process for tracking and responding to objections within the Program
+- **Working Docs:**
+  - [Governance call rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing)
+  - [Q4 2024 Budget decision ](https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing)
+  - [Q1 budget concern process ](https://docs.google.com/document/d/1RsIiorAun9Hkn9Dq26TMq1J5M7vkIPHHCuRnjVrqTk0/edit?usp=sharing)
+  - [Retrospective from the past](https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit?usp=sharing)
+  - [Budget caps for Q2 discussion ](https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?tab=t.0#heading=h.l776cdogm8a5)
+
+#### Narrative:
+The meeting focused on refining the process of tracking and addressing objections, especially recurring concerns raised by contributors across multiple quarters. One key agenda item was the preparation of the second round consent form, which will be modeled after the previous quarter’s version to ensure consistency.
+
+We also revisited a pending discussion on disparities between high and lower earners in the community. Regarding the plan to create a Google Form to gather input from lower earners, Peter suggested discussing the form questions asynchronously in the Discord channel before proceeding.
+
+The conversation then shifted to how objections can be effectively tracked and followed up on from quarter to quarter. Vani pointed out a recurring pattern where certain issues are raised repeatedly in one quarter, disappear the next, and then resurface later. She emphasized the importance of systematically tracking these objections and shared several documents from previous quarters that attempt to capture this feedback.
+
+On objection tracking, Vani referenced several past documents and retrospectives and emphasized the need to collate them. She proposed a spreadsheet organized workgroup by workgroup and quarter by quarter, though acknowledged the effort required. She noted that it was necessary  to extract relevant working document from our documentation archives. The idea of using a spreadsheet to track objections over time was also proposed, with Peter suggesting the governance dashboard for streamlined tracking.
+
+We continued an ongoing discussion about how to address work group outputs that may not meet quality standards. The conversation focused on creating a safe and constructive environment for feedback, separate from the formal budget consent process. The group agreed that linking feedback on work quality directly to budget approval can make work groups feel their funding is under threat, which may discourage open dialogue. Love highlighted the lack of a neutral space for offering feedback, while Guillermo shared that he has found external insights valuable in improving his work. Vani reiterated the previously raised idea of implementing a quarterly anonymous feedback mechanism to encourage honest, depersonalized input.
+
+The group then discussed the importance of setting guidelines for constructive feedback. Love emphasized that feedback should focus on the effectiveness of contributions, not minor imperfections. Vani agreed, cautioning against nitpicking and encouraging feedback that connects to prior concerns or repeated patterns.
+
+Finally, Vani highlighted the importance of understanding the value of the work group's initiatives, noting that many comments have emerged during the consent process. Love supported the idea of soliciting feedback from a broader audience, while Guillermo suggested incorporating this feedback into the sentiment analysis they are refurbishing. They agreed to craft a post to gather opinions before finalizing any decisions
+
+
+
+#### Discussion Points:
+- Tracking objections raised in the consent process
+
+- Creating spaces to raise issues around the quality of WGs' work, outside the consent process and not related to budget approval
+
+#### Decision Items:
+- Governance dashboard integration plan presented; includes historical data analytics capabilities with a demo scheduled for June 24th.
+  - [**effect**] mayAffectOtherPeople
+- A new survey targeting lower earners will be created. It is expected to be completed by the end of the quarter.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Prep the second round consent form  [**assignee**] CallyFromAuron [**due**] 20 June 2025 [**status**] done
+- [**action**] Drafting the google form to gather views on earnings from lower earners in the community  [**assignee**] PeterE [**due**] 30 June 2025 [**status**] todo
+- [**action**] Create retrospective summary document for next quarter retrospective process  [**assignee**] LadyTempestt [**due**] 30 June 2025 [**status**] todo
+- [**action**] The team agreed to create and share a public post to gather these perspectives before moving forward [**due**] 25 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Objections, Consent Process, Working documents, Consent dashboard, Anonymity
+- **emotions:**  Determined,  forward-looking
