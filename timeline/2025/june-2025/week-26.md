@@ -52,3 +52,58 @@ The session closed with thanks to Guillermo for his dashboard demo. Guillermo ap
 #### Keywords/tags:
 - **topics covered:** Proposal, Governance, Consent Process, Workgroups, Contributions, Treasury dashboard, Facilitation, Rationale
 - **emotions:**  informative,  insightful,  Collaborative, Discursive, Ideating
+## Thursday 26th June 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], UKnowZork [**documenter**], CallyFromAuron, UKnowZork, PeterE, guillermolucero, LadyTempestt, Maxmilez, advanceameyaw, Alfred Itodele, AshleyDawn, Duke, Évéline Trinité, Jeffrey Ndarake, martinsoki, CJFrankie, photogee, Sucre n Spice, Rems, Iain Wentworth
+- **Purpose:** Regular Weekly GovWG meeting
+- **Working Docs:**
+  - [Governance WG Doc of Docs: all docs on issues arising from consent process](https://docs.google.com/document/d/1l6MDkJV9da5tW1AY07o45IfnzJ4SA3SNLaLQigm8JS8/edit?usp=sharing)
+
+#### Narrative:
+Vani opened the discussion by reflecting on the Education Guild’s consent process. While the guild received enough consents and only two objections and abstentions, there were lingering concerns raised. She questioned whether these concerns should be taken back to the guild or at least logged for future tracking. One objection claimed their points weren’t addressed, while others seemed satisfied. There was confusion over the Education Guild's role regarding the governance framework. Some thought they were proposing one, but in reality, they were planning to educate people about the existing one. Vani emphasized that misunderstandings were likely the root of most concerns. A similar issue arose with a lack of clarity about their Q2/Q3 budget reporting. Vani suggested that moving forward, guilds should present clearer documentation, especially regarding budget allocations and rewards distribution.
+
+The Gamers work group faced one objection and some similar concerns about missing rationale and links, again pointing to the importance of clearer reporting rather than any failure in delivery. Marketing, however, raised more concern. Although they technically passed, the number of abstentions suggested unease. Comments noted inconsistencies in data, unclear calculations, and a perceived overspend on tasks. Vani raised the ongoing issue of how time and task pricing are evaluated reminding us that many guilds pay per task, not per hour. There was also criticism around analytics and outcome clarity, with a call for a better interpretation of marketing impact.
+
+R&D received two objections and six abstentions, mostly due to misunderstandings. Objections to uncertain budget items ignored the fact that some of their funds are determined by community voting. Vani argued that the objection should’ve been marked invalid more clearly, as R&D had explained their internal mini-funding process. Some feedback confused Q2 and Q3 timelines. She noted that clearer communication and more accurate tracking could have prevented those abstentions.
+
+The Strategy Guild only reached 50% consent. Though technically passing, Vani called attention to fundamental concerns, especially around the usefulness of their work and lack of responses to objections. Some budget lines lacked reporting or were vaguely deferred. Concerns were not adequately acknowledged, suggesting a deeper issue with engagement and transparency.
+
+The Translation work group faced objections due to misunderstandings again. Some believed only four translations were delivered, while the real number (considering multiple languages) was far higher. Vani admitted she forgot to list an objection regarding AI alternatives for translation. Still, most abstentions stemmed from not reading the explanation in the shared sheets.
+
+Video Work Group received three objections and three abstentions. The main concern was producing content that was not being viewed. The lack of responses to feedback also stood out. Writers Work Group had notable discomfort around reward distribution, particularly to one individual. Another concern was the disproportionately high reward for management versus content creation.
+
+Peter joined, emphasizing the need to keep tracking objections across quarters. He noted that there is already a Q3 objection summary document, and he suggested continuing this practice to ensure consistency. However, he raised a concern about work groups dismissing objections as invalid without explanation. Even if technically allowed, it’s more productive to acknowledge and respond to them. He noted that only a few groups (marketing, gamers, education) submitted proper documents addressing concerns.
+
+Vani speculated that some work groups may not bother responding because they’re confident they’ll hit the 80% consent threshold anyway. This points to potential flaws in the structure of the consent process.
+
+Love suggested distinguishing between new and recurring concerns and recommended that repeated issues across quarters should trigger a mandatory response. If multiple people consistently raise the same issue, it must be taken seriously, regardless of how it's phrased.
+
+Peter agreed and added that while the objections are being documented, the process needs better integration. Vani noted that repeated concerns are often phrased slightly differently, making them hard to track unless analyzed carefully. Peter mentioned that the dropdown tags introduced to categorize issues aren’t always being used correctly.
+
+Peter admitted this topic hasn’t been treated with urgency, and some issues are still unresolved. He proposed using the remaining time to map out future topics and planning. Vani supported this, noting some themes like work quality have been brought up repeatedly but still lack a defined process. She proposed setting a date for these topics and having facilitators come prepared with summaries and the next steps.
+
+Peter suggested syncing workgroup updates on Mondays and asked if it should be mandatory for workgroups to share regular updates. Maxmilez agreed and stressed that workgroups should be required to give updates at Town Hall meetings.
+
+Guillermo added that internal and external communication around updates must be improved. He shared that the new governance dashboard will help track contributions and concerns, but more work is needed, particularly around defining “contributions” and “participation.” He suggested holding a dedicated meeting to refine these concepts.
+
+Peter and Guillermo both agreed that tracking concerns, especially repeated ones, must become automated and linked with the governance tool. They also emphasized that the purpose of the consent process should not be just symbolic it must have the power to trigger real consequences. They asked that if every work group gets funding every time, what’s the process achieving?
+
+Vani reflected on this and said perhaps the consent process is being treated more as an informational tool rather than a regulatory one. That could be a danger, especially if bad actions ever enter the system. She noted that repeated issues with no accountability can lead to exploitation. She also suggested that we may be organically shifting toward a consensus-based model for decision making one that relies more on collective understanding than just voting thresholds.
+
+Peter acknowledged a message in the chat that emphasized the difference between outcomes and outputs, pointing out that Vani had been the most consistent advocate for clarifying that distinction. He shifted the conversation toward organizing upcoming agenda topics. He asked whether the group should try planning multiple sessions, or if some topics should take priority outside the already scheduled retrospective. He suggested that the top two items on the agenda felt like high-priority (“level one”) issues, but also noted that high priority doesn’t necessarily mean they must be discussed first. For example, he believed the discussion on workgroup syncing could be handled quickly though he admitted he might be biased.
+
+Vani proposed reviving the facilitation roster and letting people volunteer to facilitate specific upcoming topics. She suggested attaching names to topics as a way to organically schedule discussions. In response, Peter observed that UknowZork, Alfred, and Guillermo had already volunteered to facilitate one of the sessions. Vani then claimed the Outcomes vs Outputs topic, proposing it be scheduled toward the end of July rather than as the next immediate session.
+
+Peter agreed and began rearranging the schedule accordingly. He asked which topic should be next week’s focus and said he would finalize the timeline after the call. He suggested the Recurring Concerns topic might be a natural follow-up to the Retrospective, and asked Vani if she wanted to lead it. Vani agreed, saying she had already been looking into recurring objections and might have something concrete to present by then. With no objections or strong alternative suggestions from others, Peter confirmed the plan to proceed with that sequence. He then reopened the topic of anonymity, noting that while the current feedback process isn’t anonymous, some participants have expressed concerns that this might reduce openness. He proposed the group should agree on a default approach for the next quarter and stick with it until there's consensus to change.
+
+Peter noted this is a larger topic than could be addressed fully in the meeting, which had already run over time. He wrapped up by pointing out that most contributions were made by only a few people and encouraged broader participation in future discussions. He reminded everyone that the governance topic list is open for anyone to contribute to and dropped the editable link in the chat.
+
+With no further input, the meeting concluded, and Peter reminded attendees of upcoming sessions, including the African Guild call.
+
+
+#### Keywords/tags:
+- **topics covered:** Workgroup, Concerns, Objections, Quarter, Budget , Consent Process, Governance topics, Abstentions
+- **emotions:** Interactive, detailed, collaborative, educative, Interesting, contributive, engaging
