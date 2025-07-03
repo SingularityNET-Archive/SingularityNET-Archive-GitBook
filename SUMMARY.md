@@ -53,7 +53,7 @@
     * [Week 28](timeline/2025/july-2025/week-28.md)
     * [Week 29](timeline/2025/july-2025/week-29.md)
     * [Week 30](timeline/2025/july-2025/week-30.md)
-    * [Week 31](timeline/2025/august-2025/week-31.md)
+    * [Week 31](timeline/2025/July-2025/week-31.md)
   * [August 2025](timeline/2025/august-2025/README.md)
     * [Week 31](timeline/2025/august-2025/week-31.md)
     * [Week 32](timeline/2025/august-2025/week-32.md)
