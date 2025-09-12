@@ -4,6 +4,54 @@ description: Mon 7th Jul - Sun 13th Jul 2025
 
 # Week 28
 
+## Monday 7th July 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], LadyTempestt [**documenter**], CallyFromAuron, Alfred Itodele, AshleyDawn, CollyPride, Clement Umoh, Effiom, advanceameyaw, Grandi, barnabas, LadyTempestt, PeterE, Sucre n Spice, UKnowZork, Rems, Maximilez, osmium, Jeffrey Ndarake
+- **Purpose:** Regular Meeting of the AI Ethics WG
+- **Working Docs:**
+  - [AI Ethics GitHub Board](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues)
+
+#### Narrative:
+This is our first meeting of the quarter(Q3)!
+We reviewed tasks from last quarter, categorized as “In Progress” on the GitHub board. For the unfinished Q2 transcription tasks (aside from Colleen’s), we’ve decided to fold them into the admin roles so they won't receive payment for them. The transcription needs to get done by the end of July, as we are a bit firm with deadlines now.
+After further discussion from the Admin Team, we agreed that;
+The WG needs to complete tasks quicker - things should not drag on for several months, and should at the very least be completed during the Quarter they are funded in.
+Deadlines need to be set to allow time for tasks to be reassigned if the original assignee doesn't have time to complete them.
+We need to be clearer that tasks will be reassigned if they're not completed by the deadline.
+Going forward, no task will be paid during a Quarter if the token price is below the price at which the budget was calculated (so for Q3 2025, that's $0.30).
+If the token price stays below $0.30 for the whole Quarter, then at the end of the Quarter, we will assess what we can't pay. Priority will be given to "output-based" tasks done by members, rather than admin roles.
+We decided to change things up now because at first, we wanted people to get used to carrying out tasks in the WG.
+Training materials have been revised and updated by Vani. Links here:Interview training AI Ethics WG; BGI Nexus Interviewers' handbook; Transcription training AI Ethics WG
+Transcript Checking is ongoing and currently being done by Vani.
+AI Ethics MOOC Study Group: The idea is to register for a free course on AI Ethics and meet weekly to discuss each module and the issues it raises. The most popular course is the “EdinburghX’s Data Ethics, AI and Responsible Innovation” but interested people in the study group need to finish the course by the 11th of August so they don't lose free access to it. The time for the weekly meet will be sorted out async. Course Link here: https://www.edx.org/learn/artificial-intelligence/the-university-of-edinburgh-data-ethics-ai-and-responsible-innovation 
+Interviews: We’ve budgeted for 8 new half-hour interviews this quarter but we didn't include expenses so might have to take money from the budget for transcription tasks this quarter. Deadline for all Q3 interviews will be the 8th of August, any interview not done by then can either be reassigned or put the money back in the WG purse. The assignees so far are Clement(2x), Grandi(2x), UknowZork(2x), Rems, and Jeffery.
+Interview Transcription: We might not get to do any Q3 transcriptions because we have to clear out the backlog from last quarter. Deadline to finish up old transcripts is the 31st of July. People up for transcripts are Clement, UknowZork, Jeffrey, Ashley, Barnabas, AdvanceAmeyaw, Maximilez, and Grandi.
+
+
+
+#### Decision Items:
+- Our next meetings are on the 4th of August and the 1st of September.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Going forward, no task will be paid during a Quarter if the token price is below the price at which the budget was calculated (so for Q3 2025, that's $0.30)
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to check in with Colleen to see if she is planning another discussion event. [**assignee**] CallyFromAuron [**due**] 10 July 2025 [**status**] in progress
+- [**action**] Vani to create issues on the Board for interviewers on or before Thursday. [**assignee**] CallyFromAuron [**due**] 10 July 2025 [**status**] todo
+- [**action**] Vani to create folders on the BGI Nexus Drive for new Interviewers. [**assignee**] CallyFromAuron [**due**] 31 July 2025 [**status**] todo
+- [**action**] Vani to create issues for transcribers, anonymise some old interviews, and assign them by Thursday. [**assignee**] CallyFromAuron [**due**] 10 July 2025 [**status**] in progress
+- [**action**] Vani to meet with Esther to find out what the plans are for the Beneficial AGI (BGI) Summit & Unconference 2025. [**assignee**] CallyFromAuron [**status**] todo
+- [**action**] Clement to document our next meeting in August. [**assignee**] Clement Umoh [**due**] 11 August 2025 [**status**] todo
+- [**action**] UknowZork to document 1st September AI Ethics meeting. [**assignee**] UKnowZork [**due**] 8 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI Ethics MOOC Study group, Interview Transcription, AI Ethics Interviews, budget management, deadlines, Transcript checking
+- **emotions:** quiet, short, Deliberative
+
+
 ## Wednesday 9th July 2025
 
 ### Archives Workgroup
