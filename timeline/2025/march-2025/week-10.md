@@ -4,6 +4,82 @@ description: Mon 3rd Mar - Sun 9th Mar 2025
 
 # Week 10
 
+## Monday 3rd March 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Weekly
+- **Present:** CallyFromAuron [**facilitator**], CollyPride, CallyFromAuron [**documenter**], PeterE, EstherG, AshleyDawn, advanceameyaw, Duke, Peegee, LadyTempestt, MaxMilez, UKnowZork, Sucre n Spice, osmium, esewilliams
+- **Purpose:** Regular monthly meeting
+- **Working Docs:**
+  - [Github Project Board](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup)
+  - [Interview training slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?usp=sharing)
+  - [Interviewers' handbook](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?usp=sharing)
+  - [AI Ethics WG Quarterly report: quarter 1 2025](https://docs.google.com/document/d/1qktaubVgxuKOhTMOlBQ_HEuuKqW_O_EMTCiQvuJADvU/edit?tab=t.0#heading=h.ftfioj9c9q2h)
+  - [AI Ethics Q2 2025 budget](https://docs.google.com/spreadsheets/d/19JPcJTBLct0xeGhVnxNEnsaoXqkE9SKMjWnwAqZ7GRI/edit?usp=sharing)
+  - [AI Ethics Workgroup stuff! ](https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing)
+  - [Q3 and Q4 interviews: matters arising, general issues about interviews so far](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/117)
+
+#### Narrative:
+1) Interview Issues
+
+Vani has checked most of the interviews for validity.  Some have been sent for payment; others have some issues e.g. incorrect filenames, too short, no consent forms, etc.  See individual interview Issues on the GitHub board for details. The rest will be checked by the end of the Quarter.
+
+Payments will only be made if interviews meet the agreed validity criteria.
+We note that a short interview could still be included in the research corpus, provided there is a consent form for it - but in terms of WG payment, we have agreed that interviews should be 30 mins, so ones that are significantly shorter will be paid less. A sliding scale has been devised by the Admin team for interviews that are too short. See https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/117
+
+We noted that regardless of interview validity, any expenses incurred by interviewees will still be paid.
+
+What we've learned on interviewing:  
+- We have noticed some difficulties for people working in a 2nd language - BGI Nexus will consider whether it is possible in future for interviews to be in languages other than English.
+- It is helpful to make a habit (as Clement did in his interviews) of avoiding any personally-identifiable info on the recording - e.g. not using the interviewee's name after the initial intro, etc. It makes anonymising easier if it's only the start of the interview that needs to be removed.
+- We need a more uniform approach to explaining who the organisation is that's doing the interviews - the nested "sNET/BGI Nexus/ Ambassadors/ AI Ethics WG" can be a bit of a mouthful! Vani will add a suggestion for what to say to the training slides and Interviewers' Handbook.
+- For group interviews, a consent form is needed for each person. Use the same identifier code, but with "a" "b" "c" on the end.  
+- Selection of interviewees - we have found that it's best to choose people who have something to say. interviews with people who know nothing at all about AI have been difficult. But for future interviews, we could give some thought (perhaps in the flothcoming interviewers' plenary session) to how best to approach interviewees with no or very little knowledge of AI, so we can include them in our research.
+
+
+2) AI Ethics Discord Forum
+We agreed that since the forum isn't being very widely used, we will suspend paying for moderation of it next Quarter. The overal Discord moderation will pick up any problem posts.
+
+
+3) WG Sync Call
+We will mention the planned discussion with CollyPride on March 24th
+
+
+4) Upcoming training sessions
+Esther will run a plenary session / peer learning session for interviewers before the end of the Quarter (i.e before end March) to gather insights on how interviewing has gone so far, and enable updating of the interviewer learning materials to reflect our context.
+
+Vani will run training in transcription skills as soon as possible - we have budgeted for transcription tasks in this Quarter, so if the training can take place soon, there might be time for people to do some transcriptionwork before the ned of the Quarter - although with token price so low, we will almost certainly have to defer some of the se tasks to next Quarter.
+
+
+5) Q2 2025 budget
+This will be submitted by 10th March. Due to low token price, it is quite minimal, and will focus mainly on transcription tasks. Some of the planned transcriptions we budgeted for in q1 will need to be tranferred to Q2 due to the drop in token price.
+
+We noted that in this Quarter (Q1) we originally budgeted to do 33 new interviews. The drop in token price has meant we have had to reduce this to 15; and in Q2, we will not be able to afford to budget for any new interviews - the WG admin team has agreed it's best to focus on transcriptions this Quarter, so we stay "caught up" and don't accumulate a huge backlog of untranscribed interview material.
+
+
+
+
+#### Decision Items:
+- Invalid interviews (no consent form, unethical content, etc) is grounds for non-payment. Short interviews (under 30 mins) will be paid on a sliding scale.  Expenses will be paid regardless, even if an interview is inavlid or too short.
+
+- Wrap-up peer learning plenary session for interviewers: looking at good examples, skills exchange etc. Will be led by Esther, probably Wednesday March 19th - afternoon time.
+
+
+  - [**rationale**] We need to discuss best practices, what didn't work and other issues
+- Transcription training, led by Vani, will be done as soon as possible - probably 17th March
+  - [**rationale**] so that poeple can undertake the transcribing work that we have budgeted for this Quarter.
+
+#### Action Items:
+- [**action**] CollyPride to do an Ambassador Event (think/tank) Discussion "AI Autonomy: Fear, Embrace or Ignore?" on March 24th  [**assignee**] CollyPride [**due**] 24 March 2025 [**status**] todo
+- [**action**] WG Sync Call: Let them know about the Ambassador Discussion with CollyPride on March 24th [**assignee**] CallyFromAuron [**status**] todo
+- [**action**] Kenichi - has he done his survey sharing?  Love will follow up with him. [**assignee**] LadyTempestt [**due**] 10 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** interviewing, transcription, Q1 2025 quarterly report, Q2 2025 budget, interview validity, anonymity, training, consent form, expenses, peer learning, token price, knowledge of AI, language barrier
+- **emotions:**  Collaborative, Casual, Friendly
+
+
 ## Tuesday 4th March 2025
 
 ### Governance Workgroup
