@@ -50,3 +50,54 @@ There was clarification around grounded theory coding that was stated in the Q4 
 #### Keywords/tags:
 - **topics covered:** AI Ethics MOOC Study group, Interview Transcription, Interviews, budget management, deadlines, grounded theory coding, BGI25 Istanbul, Q4 budget, AGIX rate, Q3 quarterly report, transcript checking.
 - **emotions:** collaborative, deliberative, forward-looking
+## Thursday 4th September 2025
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Alfred Itodele [**facilitator**], UKnowZork [**documenter**], Alfred Itodele, UKnowZork, guillermolucero, Kateri, CallyFromAuron, Jeffrey Ndarake, LordKizzy, martinsoki, LadyTempestt, AshleyDawn, Maxmilez
+- **Purpose:** Regular Weekly GovWG meeting
+- **Working Docs:**
+  - [Governance Dashboard –  Analytics ](https://docs.google.com/document/d/1qGI7RWjutDtsTfsvpeVgxWK0RahnjwDVnj05upOYZuo/edit?tab=t.0)
+  - [Governance calls, rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?tab=t.0#heading=h.e0i68kevq8jk)
+
+#### Narrative:
+We checked the rolling agenda and agreed on discussion topics for sessions that did not yet have a topic assigned. 
+
+Vani brought up a recent Discord discussion about Tevo’s difficulty managing payments outside the quarterly allocation, stressing the need for a clearer system to track and confirm agreements each quarter. She also mentioned Tevo’s new GitHub integration, which could reduce reliance on Dework. 
+
+Guillermo walked us through the governance dashboard tool. He emphasized functionality and mobile usability over styling, showing how proposals would be created by copying reports from Google Docs to keep workflows open and flexible. He demonstrated how budgets and links would be added, how proposals would appear, and how the consent/objection process would work
+
+Improvements suggested:
+- "consent" not "voting"
+- displaying document titles instead of raw links
+
+We discussed how the dashboard will handle the second round consent process. 
+
+We discussed what analytics should be tracked: see Guillermo's analytics doc. Suggestions included:
+- participation patterns
+- number of abstentions
+- how often particular objections recur for a WG over time (would need input of historic data, and is therefore something for a 2nd iteration rather than something that can be implemented immediately
+- demographics (but with a caution that the Dashboard only collects data about country and language, and only if the user chooses to add that to their profile, so data might not be very complete; also, there are many kinds of diversity (sex? sexuality? disability? etc) that we're not collecting any data on, and probably wouldn't due to privacy concerns; so we should be wary of thinking that just "country" and "language" cover all the exclusions and barriers that people face.) 
+
+Alfred asked about dashboard formatting, and Guillermo explained that Google Docs would remain the main space for editing before content is imported into the tool.
+
+We noted that the Dashboard makes the consent process non-anonymous; Guillermo noted that other forms of opinion gathering, such as sentiment surveys like the recent one in July/August, can also be used in future to supplement the consent process, and would almost certainly be anonymous. 
+
+We noted that the development team will be producing "how-to" materials such as walkthru videos, and agreed that GovWG will help to share them.
+
+
+
+
+#### Decision Items:
+- We agreed to help share future tutorials and guides that the Dashboard team might create, 
+  - [**rationale**] to help contributors use the governance dashboard and lower barriers to participation.
+
+#### Action Items:
+- [**action**] Guillermo to make some suggested improvements to the governance dashboard UX (e.g. display document titles instead of raw links, change "vote" to "consent") [**assignee**] guillermolucero [**due**] 8 September 2025 [**status**] in progress
+- [**action**] Vani to check and confirm what the agreed quorum is [**assignee**] CallyFromAuron [**due**] 5 September 2025 [**status**] in progress
+- [**action**] Vani to review the analytics Tevo used in previous consent rounds, and add any useful ideas from that into Guillermo’s analytics document [**assignee**] CallyFromAuron [**due**] 5 September 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** WG reserves, Q4 2025 budget, Governance Dashboard, Consent process, consent vs voting, Anonymity, transparency, Core Contributors , Analytics, KPIs, Engagement
+- **emotions:** Collaborative, quiet,  forward-looking, insightful
