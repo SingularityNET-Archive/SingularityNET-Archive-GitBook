@@ -95,3 +95,71 @@ All valid objections will be discussed, even if raised by only one person; and t
 #### Keywords/tags:
 - **topics covered:** Governance Dashboard, Q4 2025 budget timeline, migrating historical data, validity of objections, Consent decision-making process for Budget proposals, 80%/20% rule, Consent process
 - **emotions:**  Collaborative, Constructive, some skepticism, pragmatic
+## Wednesday 17th September 2025
+
+### Archives Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Stephen [QADAO] [**facilitator**], CallyFromAuron [**documenter**], CallyFromAuron, Stephen [QADAO], PeterE, Alfred Itodele, AyomiShuga, UKnowZork, Rems
+- **Purpose:** Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- **Meeting video:** [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- **Working Docs:**
+  - [GitHub Issue for this meeting](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/278)
+  - [Q3 2025 quarterly report](https://docs.google.com/document/d/1mXpk-Nx68M9Yfoqc3xpquXwA2Zy6zdIpGFSlCiWU7-k/edit?usp=sharing)
+  - [Q4 2025 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing#gid=1427269861)
+
+#### Decision Items:
+- As token price remains comparatively low ($0.28), we still won't submit any pending Q1 tasks at the moment. However, we agreed that we should pay out at the start of October provided our WG reserves can cover it all (token price would need to be around $0.30).
+  - [**rationale**] Even though paying out when token price is much lower (the Q1 budget was calculated at $0.55) will eat into the WG's reserves, nevertheless we agree it's not good practice to leave tasks unpaid for too long, regardless of token price
+  - [**effect**] affectsOnlyThisWorkgroup
+- Monthly archives GitBook issues: summaries are still being submitted without any chasing, although as previouly noted, there are fewer meetings happening in general. 
+
+But we noted that the ongoing issues with summary quality seem to be worsening - particularly, vague and meaningless content (e.g. "We made a decision on XYZ" without saying what the decision was), and over-focus of the idea of a "meeting narrative" leading to undue emphasis on inconsequential details, and failure to record actual decisions.
+
+We noted that this might need to be addressed eventually if the corpus is not to become irretrievably corrupt. However, we need to see the results of our knowledge graphs to fully assess the extent of the problem - can a graph derive meaningful and accurate insights despite inadequate summaries?
+  - [**rationale**] This is largely caused by documenters relying uncritically on unmediated AI-generated content, which tends to be vague and unspecific, and not applying sufficient "human-in-the-loop" critical insight to correct and expand AI summaries. But as we do not have budget for quality control, such summaries are being added to the Archives as-is.
+  - [**opposing**] Poor summary quality is being addressed, to some extent, outside of Archives WG (e.g. Vani checks and corrects summaries in WGs she is active in when they are presented for members' comments), but this is both time-consuming and limited in reach, and also unpaid. We noted that other measures might need to be implemented eventually (e.g training for documenters?)
+
+  - [**effect**] mayAffectOtherPeople
+- Knowledge graph development: In August and so far in September, the focus (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/277 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/279 , and this repo https://github.com/SingularityNET-Archive/Graph-Python-scripts) has been on moving away from  Neo4.j Aura towards a Python-based open source approach, using the open-source graph tool Gephi.
+
+Stephen has then been refining the raw, undifferentiated graphs with graphical and statistical methods such as force-directed layouts to help discern patterns and disambiguate clusters.
+  - [**rationale**] To align more fully with the Archives' open source ethos.
+  - [**effect**] mayAffectOtherPeople
+- Stephen will be delivering a session on Thurs 25 Sept at AI Sandbox/Think Tank to share the knowledge graph work so far.
+
+  - [**rationale**] Especially given that in Q4 we hope to engage the community with some rule-based auditing of graph outputs, we want to introduce people to the work so far.
+  - [**effect**] mayAffectOtherPeople
+- We discussed a little what kinds of things the community might want to be able to ask a knowledge graph. We noted the following possibilities:
+
+- Who is working where, and whether this is reflected in recognition people get (Peter)
+- Can the Archives corpus tell us anything, by implication, about what goes on outside meetings? (e.g. action items assigning async work; linked documents that are outputs of async work) (Vani)
+- Influence, who has it, and how it fluctuates (we noted that early indications are that influence is not monolithic or fixed, that there are sevral "clusters" of influence, and that it is quite fluid and changes rapidly, perhaps reflecting the decentralised nature of the Program)
+  - [**effect**] mayAffectOtherPeople
+- We discussed how our knowledge graph outputs could eventually be integrated into the ecosystem. Suggestions included
+
+- a Discord bot which could retrieve material to answer people's questions
+
+- integration with R&D's Governance Dashboard, particularly to ensure that its AI assistant has meaningful input on the Ambassador Program's specific context. (We noted also that generative models can be limited in their usefulness, particularly if all we do is throw a load of unstructured data at them. Because they can at least do more than they could a couple of years ago, people can be misled about their usefulness.)
+
+- some kind of collaboration with Atomspace https://github.com/opencog/atomspace
+  - [**effect**] mayAffectOtherPeople
+- We noted that our knowledge graph work in Q4 is likely to address the different approaches needed for structured data (e.g some of meeting summary templates in use) and unstructured data (e.g. documents that are linked in meeting summaries; and the unstructured, free-text fields such as "Meeting Narrative" that are currently part of some summary templates.) 
+ 
+This will likely involve some semantic analysis (for example analysing particular parts of speech - what nounds are there, what verbs are there, in a piece of text?), and some sentiment analysis, in which we hope to move beyond simplistic "good/bad/neutral" approaches The fact that the archives corpus includes extensive "emotion tags" could be interesting here.
+  - [**effect**] affectsOnlyThisWorkgroup
+- In a collaboration with Video WG, André and Malik have created a process to automate Town Hall suammries, using Read.ai data to create timestamps, and automating adding them to the summary tool. The meeting acknowledged how useful this is, and thanked Malik for the work, which will be compensated from Archives WG reserves with a smaller contribution from Video WG.
+  - [**rationale**] This addresses the ongoing pain point of finding time to submit summaries of Ambassador Town Hall to the Archives.
+  - [**effect**] mayAffectOtherPeople
+- Archives WG's Q3 quarterly report and Q4 budget have been submitted  to the new Governance Dashboard here
+https://singularitynet-governance-dashboard.vercel.app/dashboard/proposals/cmfl42fhl0001l80a7auerrrl
+
+The consent process ends on 30th Sept, so we will know then if it has been approved.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to publicise the information session at AI Sandbox/Think Tank next Thurs, 25th Sept [**assignee**] CallyFromAuron [**due**] 19 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI ethics, token price, Neo4j, community engagement, q4 2025 budget, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Gephi, Q3 2025 quarterly report, Open source, AI Sandbox/Think Tank, Video WG, human-in-the-loop, AI-generated summaries, meeting summary quality, Atomspace, R&D Guild, Governance Dashboard, what kinds of questions, structured vs unstructured data, Town Hall summaries, Automation, semantic analysis, sentiment analysis, Discord bot, WG reserves, force-directed graph layouts
+- **emotions:** interesting, short, wide-ranging, Discursive
