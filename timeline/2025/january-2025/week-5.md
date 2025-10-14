@@ -72,6 +72,7 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 ## Thursday 30th January 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -138,3 +139,43 @@ We then ran through the document of suggestions on how to set Q2 2025 budget cap
 ### WG Sync Call
 
 No Summary Given
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], CJFrankie [**documenter**], Clement, Advanceameyaw, Cjfrankie, SucrenSpice, Onize, Duke, esewilliams, Evelyn
+- **Purpose:** The African Guild weekly meeting and progress updates.
+- **Working Docs:**
+  - [Afro-AI Multilingual Literacy Workshops](https://docs.google.com/document/d/1RayZffScx5b_I6B_5x5qInoKOG8xCIJT7nutUoRMuyI/edit?tab=t.0#heading=h.q5luq7qmyhhm)
+
+#### Narrative:
+Intro: The weekly meeting of the African guild kicked off with a welcoming greeting from Duke; Following a discussion from previous meetings, Duke made it clear that moving forward, the African guild will not be meeting weekly but rather on a biweekly schedule. 
+
+Q4 marketing initiatives: From the marketing side of things, CjFrankie shared an update on the Q1 marketing initiative; he stated that the team is still brainstorming around what the best strategy would be for the guild in Q1. 
+
+Education & translation initiative: This groundbreaking initiative is spearheaded by Sucre and Clement, whose vision is to create a communication-centered initiative focused on AI/ASI in the African context. We had a presentation from Clement, which included a clear explanation of the project. Still in its infancy, Clement added that Africa lags in communications around AI, and the goal of the project is to bridge the gaps using a multilingual educational approach to create and translate artificial intelligence materials in three African languages. More so, some of the major objectives of this project are to diversify AI, ASI, and the SingularityNET ecosystem at large. Develop a library of multilingual AI content that can be used for continuous learning and engagement and create a learning platform for mass adoption. 
+
+The idea of creating a learning platform piqued Duke’s interest, which led to him asking further questions for clarity's sake: Clement clears the air by saying that the “learning platform” will be like a knowledge repository where people go for continuous knowledge sharing and learning, and the team may consider using a YouTube channel, while Duke suggested that Udemy will be a good platform to explore. This conversation switched gears as Duke talked about the importance of partnership in any project. At a glance, the initiative looks promising already, and there's a need to partner with some other WGs like the marketing guild, video, or writers WG to help us better amplify and publicize any future initiatives. 
+
+Partnership: Duke hinted that phase two of Ubuntu and AI is already in progress; he added that phase one of Ubuntu and AI didn’t get the attention we needed, and as a result, the African guild should strengthen their ties with other workgroups to achieve great results. The meeting also included discussions about Clement and Advance Emmanuel, who recently received funding to travel to Ethiopia to spread awareness about SingularityNET and onboard new members through interviews and surveys. Congratulations to both Clement and Advance—cheers to a successful year ahead!
+
+
+
+
+#### Decision Items:
+- We have decided to revert to biweekly meetings.
+
+
+  - [**rationale**] We have decided to meet biweekly moving forward owing to the fact that our budget might not sustain us if we keep running weekly meetings.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The marketing initiative team to showcase their Q1 deliverables by the next meeting.
+ [**assignee**] esewilliams, CJFrankie, LadyTempestt, Ayo [**due**] 14 February 2025 [**status**] in progress
+- [**action**] The Q4 marketing initiative team to select the winners of the ASI campaign.
+
+ [**assignee**] esewilliams, CJFrankie, LadyTempestt, Ayo [**due**] 14 February 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** marketing initiatives, Partnership, education, Translation, learning platform, ai, ASI, SingularityNET, awareness, Ethiopia, multilingual, Marketing Guild, video & WWG
+- **emotions:** insightful, informative, forward-thinking
