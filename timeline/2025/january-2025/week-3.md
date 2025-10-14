@@ -200,3 +200,52 @@ We noted that this last topic is on the rolling Governance WG agenda for our nex
 #### Keywords/tags:
 - **topics covered:** core contributors, participation, consent decision making, consent process, budget caps
 - **emotions:** Thoughtful , focused, participatory
+## Thursday 16th January 2025
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], Kateri [**documenter**], Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, esewilliams, LadyTempestt, Nebula, Kateri, hogantuso, Ayo, nebula, AndrewBen, Eric Davies, Mikasa, Onize
+- **Purpose:** The African Guild weekly meeting.
+- **Working Docs:**
+  - [African Guild Meeting: 14th November 2024](https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit)
+  - [Documentation with roaster for Q1](https://docs.google.com/document/d/1YvuwMHJJ1unNzhCz2vkTL_JxflucAEmz/edit#heading=h.gjdgxs)
+  - [African guild meeting: 8th January 2025](https://docs.google.com/document/d/10rmrozUMewGrZzTm7nB4HYAvonR8wjRaP54cgGk-1gM/edit?usp=sharing)
+
+#### Narrative:
+Introduction: The meeting started with a warm welcome from Duke, who asked if we should continue the greetings in multiple languages. Clement responded that it should be ceremonial, maybe once a month or every first meeting of the month someone can be assigned to lead it.
+
+Action item from last meeting was looked into and followed up.
+
+Q4 AMA report: Duke noted that we have the audio reports but still need a written format of the report, which Ayo replied that the written report is ready.
+
+Q4 marketing initiation update: CJ Franklin updated that nomination of four individual has been made for there outstanding submissions and the announcement will be made on the discord channel which will lead to a vote to determine the first, second, third and fourth places. The vote will determine the winners 
+
+AMA session: This was held on 29th of November, which has at least 50 participant. They all came together to talk about the African landscape and how we are relating with AI and it was led by two amazing speakers Kosiso Udodi the founder of Colossai AI and Daniel Effiom the COO of Reno search. During the session there was icebreaker activities, speakers talk, interactive quizzes, closing remark and Q&A sessions.
+The main objective for the AMA was to have people express there concerns and questions regarding AI which was achieved. Questions were buzzing, interaction was great and feedback was awesome. We marketed this event on various social media platforms both individually and also in the SingularitNet ecosystem.
+Weaknesses: We had connectivity issues and also we expected wider reach not just Nigerians but other African nations which we didn't have.
+Key learning: From the session we learned about the roadblocks or the obstacles that Africans is having concerning adopting artificial intelligence solution as fast as the Western world or the European world are doing and it was noted to be just a thing of infrastructure and economical challenge which is largely associated with governmental policies and out of our control. But at the same time we spoke on the essence of having practical solution in healthcare, education and basic things that we are dealing with within Africa that's the Europeans and western world already has.
+Participants recommended that they should be better pre event communication, better details on events, better marketing strategy to reach more people, technical support for managing collectivity issues.
+We conclusion the event by speaking on our Future events.
+
+Duke also added that for the future iteration of the AMA session, we should discuss more on SingularityNet focused conversations.
+
+
+Partnership: During the holiday Hogantuso reached out to Chainbase led in African. Hogan stated that Chainbase is an AI project, and so he spoke with the led and they would love to be in a collaboration with SingularityNet. Duke also stated that this is a great opportunity and since we have no issue will cross ecosystem collaboration, we could leverage on to promote SingularityNet ecosystem and the ambassador program but there is some constraints we may have due to resources 
+
+Q1  2025 budget fitting:  The focus group met over the week to fit our budget. It was noted that we requested 5,220 USD and the budget was broken down and fitted into Q1 activities which amounted to the allocated budget but because of our outstanding payment  from Q4, we are left with 3,450 USD and because of this we have had to cut down so many things including our weekly meetings, we would have to revert to bi weekly meetings to reduce cost.
+
+Ubuntu and AI II: This phase two of the Ubuntu and AI project is mostly going to focus on consolidation and community building. We are looking at expanding our reach by hosting the Ubuntu and AI conversations in Egypt, South Africa, Rwanda and Ghana. 
+Duke stated that the goal is to deepen our engagement within African communities, promote Ubuntu philosophy and AI ethics  and formalizing more partnerships and secure core funding.
+This is a year long project, during of 12 months from January 2025 to December 2025. 
+
+Duke discussed the SingularityNet Africa community's online platforms and a referral contest aimed at boosting engagement which top three will be rewarded. He highlighted the community's current membership is 257.
+Duke also outlined marketing and education initiatives for this quarter which will including partnerships beyond the Singularity ecosystem. Which may lead to funding members attendance at AI and blockchain events across Africa.
+
+
+#### Action Items:
+- [**action**] The Q4 marketing initiative team to select the winners of the campaign. [**assignee**] esewilliams, CJFrankie, Ayo, LadyTempestt [**due**] 23 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AMA session,  Q1 budget, marketing initiatives, Collaboration, Partnership
+- **emotions:** informative, Welcoming, productive
