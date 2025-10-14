@@ -81,3 +81,38 @@ We briefly discussed the 'DRAFT process for how to use the "New Ideas" budget' d
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Q1 2025 report, core contributors, publicity, context-setting docs, budget minimums, timeline, infographic, WG reserves, New ideas, Treasury Policy
 - **emotions:** decisive, focused, lots of tasks assigned
+## Thursday 13th February 2025
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], Kateri [**documenter**], Clement Umoh, esewilliams, LadyTempestt, Evelyn, Sucre n Spice, Nebula
+- **Purpose:** African guild biweekly meeting to discuss 
+- **Working Docs:**
+
+#### Narrative:
+Introduction: Duke gave a warm welcome and noted that our meetings are now biweekly’s till this quarter ends. 
+
+Update on Advance and Clement’s proposal: During the last meeting, the success of the proposal was highlighted. They are expected to depart very soon, in order to arrive in Ethiopia ahead of the day.
+At the Ethiopia event they will serve as point men to help expand SingularityNET African community.
+
+Marketing initiatives: Ese gave an overview of the initiative, she highlighted that it is going to be in three phase. 
+Phase one, learning phase. This is when we gathering all the learning resources that have been created, create Africanized videos and post it on our social media and after every video there will be a short quiz to help foster engagement in our community.
+Phase two,  teaching phase. This is when we partner with communities hubs across different regions and host a series of workshops with them.
+Phase three, this is when we create journalistic content and share it across various channels in Africa.
+
+Duke expressed his appreciation but encourage them to speed up the initiative.
+
+
+Education and translation initiatives: Clement noted that we are currently creating materials and hopefully before the end of the month we should have the materials in English. He aslo said it not going to be a formal session, it is going to be like a movie session very interactive. 
+Clement noted that the story we would tell will be a blend of ASI SingularityNET, AI and technology and Africa. Our aim is to educate people about the ecosystem, AI, technology but all within the African context.
+
+Members collective: Duke raised the idea to bring back the members collective. Where members were encouraged to shared their thoughts and have it funded in other to advance the guild. Duke thought of bringing back this initiative for Q2.
+
+
+#### Action Items:
+- [**action**] Ese to share the working document for the marketing initiative  [**assignee**] esewilliams [**due**] 27 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** marketing initiatives, Collaboration, Documentation, African, research, education, translation initiatives, members collectives
+- **emotions:** forward-thinking, Educative,  Collaborative
