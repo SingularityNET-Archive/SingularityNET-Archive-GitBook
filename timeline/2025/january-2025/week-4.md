@@ -6,6 +6,7 @@ description: Mon 20th Jan - Sun 26th Jan 2025
 
 ## Thursday 23rd January 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -79,3 +80,37 @@ The proposal was explained and we concluded that the proposal should be posted i
 #### Keywords/tags:
 - **topics covered:** core contributors, participation, self-nomination,  events attendance, Program reserves 
 - **emotions:** long, slow, straightforward
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], martinsoki [**documenter**], Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, esewilliams, Kateri, Ayo, Onize, Duke, Kossiso Royce, BoazB, Celiwe_South Africa
+- **Purpose:** The African Guild weekly meeting.
+- **Working Docs:**
+  - [African Guild Meeting: 14th November 2024](https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit)
+  - [Documentation with roaster for Q1](https://docs.google.com/document/d/1YvuwMHJJ1unNzhCz2vkTL_JxflucAEmz/edit#heading=h.gjdgxs)
+  - [African guild meeting: 8th January 2025](https://docs.google.com/document/d/10rmrozUMewGrZzTm7nB4HYAvonR8wjRaP54cgGk-1gM/edit?usp=sharing)
+
+#### Narrative:
+Introduction: The meeting began with a discussion led by Duke about the quorum required for the weekly meetings. He raised the question of what should be the minimum number of attendees needed to constitute a valid meeting, given that their average attendance is around 14-15 people, but they've had meetings with as few as 3-4 people. We debated whether decisions made by a smaller quorum should be considered binding, even if the majority of members were absent.
+
+Ese suggested that the quorum could be set at a minimum of 6 members, with the understanding that the gravity of the agenda items should also be considered. Ayo felt that monthly meetings would not work if the goal is to build a true community, and that bi-weekly meetings are more appropriate. We agreed to keep the meeting time the same, despite some suggestions to change it.
+
+The discussion then moved to marketing initiatives. Ese reported they are still in the ideation phase, and need to have final brainstorming sessions to select a campaign focused on engaging the wider African community. Duke suggested it would be helpful to plan marketing initiatives further in advance, aligning them with the overall Singularity Net narrative and topics like Artificial Superintelligence (ASI).
+
+Kossiso provided an update on Colossal AI's efforts to democratize access to AI in Africa. They are planning a series of training programs in February to teach people how to integrate AI into their workflows, as well as how to deploy large language models locally. This will be followed by a policy discussion event in March, and the launch of their own AI model, Imara, built on the DeepSeek foundation.
+
+Clement discussed an upcoming "Afro-AI Multilingual Literacy Drive" initiative, which will focus on creating community-centered educational materials to demystify AI and showcase its practical applications in areas like agriculture, education, health, and fintech. The content will feature African innovators and use storytelling approaches to inspire local participation.
+
+
+
+#### Decision Items:
+- it was decided that our meeting retains its normal time being 5pm on thrusday 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The Q4 marketing initiative team to select the winners of the campaign. [**assignee**] esewilliams, CJFrankie, Ayo, LadyTempestt [**due**] 30 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AMA session,  Q1 budget, marketing initiatives, Partnership, education initiatives
+- **emotions:** Welcoming, Collaborative, Discursive
