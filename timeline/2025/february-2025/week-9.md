@@ -6,6 +6,7 @@ description: Mon 24th Feb - Sun 2nd Mar 2025
 
 ## Thursday 27th February 2025
 
+
 ### WG Sync Call
 
 - **Type of meeting:** Monthly
@@ -91,3 +92,38 @@ description: Mon 24th Feb - Sun 2nd Mar 2025
 #### Keywords/tags:
 - **topics covered:** budget minimums, late start to meetings, Archives WorkGroup, Correcting errors in meeting summaries, Meeting Summaries, WG sync call purpose, conflict resolution, End of Year report, End of Year Report 2024, Participation in governance, participation, disengagement, Strategy Guild, Education Guild, Gamers Guild, MeTTa Coder Lab, cross-WG collaboration
 - **emotions:** quiet, not many speakers, late start, positive, interesting
+
+### African Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Duke [**facilitator**], CJFrankie [**documenter**], Duke, CJFrankie, advanceameyaw, Clement Umoh, esewilliams, Onize, Kateri, Iamnotblank, Benedicta Nelmon, Alfred Itodole, Emmanuel Grandison
+- **Purpose:** Bi-weekly meeting of the African Guild
+- **Working Docs:**
+  - [SingularityNET Africa Community](https://t.me/+NzN4KY30apI5Y2M0)
+  - [WG Communication](https://docs.google.com/document/d/1fygdMec6JD2j1KJYBdPi9WhpbjqpibK14GX49OmTYgw/edit?tab=t.127y5qorgs7x#heading=h.dgwohtz6gi0c)
+
+#### Narrative:
+Intro: The weekly meeting of the African guild kicked off at 5:07 pm with a welcoming greeting from Duke. Before we began the meeting proper, Duke asked everyone how they’ve been and what they’ve been up to lately. Some members spoke about a few things they’ve been working on. We also looked at the summary note from the last meeting, and everything looks good. However, Duke encourages documenters to always submit their summary promptly; he also emphasized the need for a standard font across all documentation. 
+
+Q1 Marketing Initiatives: Ese Williams shared an update on the progress of the Q1 marketing initiative spearheaded by Ayo, Lady Tempestt, CJ, and her humble self. She hinted that the content outline/script for the first video was ready! She added that the shooting will commence soon. She also talked about shooting the video at Badagry (because it has African heritage and culture). “Once the video is shot and edited, it will be published on all the social media platforms, Ese.” Duke encouraged the team to hasten their work because Q1 is almost drawing to a close.
+
+Updates on the Ethiopian Trip: Clement shares his experience and thoughts about his trip to Ethiopia 🇪🇹 with Advance Amayaw, “It was quite interesting and unique. The event was held in Addis Ababa, where they interacted with individuals from other ecosystems, developers, and community managers. We also established partnerships, which will impact the African guild—Clement.” He also added that they engaged with African developers and some AI enthusiasts (students), and they spread the word about Deep Funding. Clement also said that it wasn’t easy for him and Advance to adapt to the Ethiopian dishes. 
+
+Education and Translation Initiative: Clement gave a heads-up about these initiatives, hinting that the team is progressing towards making the series for the video content, and as a result, a video editor is needed. Thankfully, Eae showed interest in making the video! He spoke about how the initiative is poised to educate people about AI. For example, how AI can help farmers talk to the sky. Clement also mentioned that the video series will be hosted on GitHub for anyone to access. A few weeks ago, we talked about how we could set up a website and also host the series on learning platforms like Udemy. However, the token price has made us put a hold on that. 
+
+Content Calendar: Advance Amayaw showcased a document in the meeting that highlights the collaborative efforts of all workgroups in the Ambassador Program. Its primary purpose is to coordinate social media content ideas, schedules, and updates. The goal is to ensure that all workgroups follow brand guidelines when creating content (graphics, videos, etc.) and to provide feedback and approvals on drafted posts to maintain quality and brand alignment.
+
+Budget: As Q1 2025 draws to a close, the drafting of the Q2 budget has begun. Duke mentioned that the African Guild is reviving the Members Collective—an initiative that allows guild members to propose ideas for bootstrapping marketing efforts and expanding SNET’s reach across borders. The meeting concluded with Duke encouraging members to submit their proposals in hopes of securing funding to get the job done.
+
+Highlights/Upcoming Events: Be on the lookout for phase 2 of the Ubuntu and AI series, as well as the marketing and translation initiatives and hackathon. As a matter of finality, the new people introduced themselves to the house; Alfred thanked the Duke for the warm welcome.
+
+
+#### Action Items:
+- [**action**] Ese to shoot and edit the Q1 marketing initiative video and upload it across all the social media platforms.
+ [**assignee**] esewilliams [**due**] 31 March 2025 [**status**] in progress
+- [**action**] Ese should follow up with Clement about the education and marketing initiative.
+ [**assignee**] esewilliams [**due**] 31 March 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** AMA session, Q2 Budget decision , marketing initiatives, Collaboration, Documentation,  Event, Hackathon, Contente Calendar, Ambassador program, brand guidelines, Ethiopia, community manager, AI developers, African, Video series
+- **emotions:**  informative, interesting, welcoming, funny,  insightful
