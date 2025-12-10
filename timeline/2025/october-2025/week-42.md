@@ -4,6 +4,95 @@ description: Mon 13th Oct - Sun 19th Oct 2025
 
 # Week 42
 
+## Wednesday 15th October 2025
+
+### Archives Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Stephen [QADAO] [**facilitator**], CallyFromAuron [**documenter**], CallyFromAuron, Stephen [QADAO], Alfred Itodele, omolola lawson, Tevo, AshleyDawn
+- **Purpose:** Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program
+- **Meeting video:** [Link](https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh)
+- **Working Docs:**
+  - [Q3 2025 quarterly report](https://docs.google.com/document/d/1mXpk-Nx68M9Yfoqc3xpquXwA2Zy6zdIpGFSlCiWU7-k/edit?usp=sharing)
+  - [Q4 2025 budget](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing#gid=1427269861)
+  - [GitHub Issue for this meeting](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/281)
+  - [Ambassador Program example voluntary volunteer "Invisible work"](https://docs.google.com/spreadsheets/d/1MD6V9PbW-h7OwqEj3kdVgf27RaQfr4G6v4gH67Ya2io/edit?usp=sharing)
+
+#### Decision Items:
+- Token price remains very low, so we still won't submit any pending tasks for payment at the moment. if price has not risen to a reasonable level by the end of the Quarter, we will consider paying all those who are owed a percentage of the total reserves proportional to the amount they are owed.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Monthly archives GitBook issues: summaries are still being submitted, although there are fewer coming in than there should be. We are not chasing them 
+
+Summary quality remains problematic, and we note that despite our "experiment" with unaudited summaries, it will probably be difficult to trace / identify the source of a problem if we notice that our knowledge graph is returning information that is inaccurate because of inadequte summaries.
+
+Core problem is vague summaries that waffle on with pointless, adjective-heavy  "story-like" detail, but fail to capture actual decisions (e.g. "A hugelky important and transformative decision was made about XYZ" without specifying what the decision was). This could perhaps be addressed in the summary tool redesign next year - removing "narrative" field and asking only for decisions, aqnd generally, much less unstructured data/free text?
+
+We raised the possibility of closing the corpus rather than filling it with poor-quality material. We have not reached this stage yet, but it is a possibility.
+  - [**rationale**] The poor quality is largely caused by documenters relying uncritically on unmediated AI-generated content, which is usually vague and unspecific because AI summary tools don't know our context; and documenters not applying sufficient "human-in-the-loop" critical insight to correct and expand AI summaries. As we do not have budget for quality control, and documenters do not seem to mind the ethical problems with uncritical use of AI-generated material, perhaps closing the corpus would be abetter approach than having an Archives full of nonsense. 
+  - [**opposing**] Poor summary quality is being addressed, to some extent, outside of Archives WG (e.g. Vani checks and corrects summaries in WGs she is active in when they are presented for members' comments, and she also attempts to mentor and support documenters), but this is both time-consuming and limited in reach, and also unpaid. We noted that other measures might need to be implemented eventually (e.g proper training for documenters? Pushing the idea that it is unethical to use AI-generated material without having some oversight of it?)
+
+  - [**effect**] mayAffectOtherPeople
+- Knowledge graph development: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/282 and the repo here https://github.com/SingularityNET-Archive/Graph-Python-scripts 
+
+Key focuses so far this month:
+- 1) how we work with structured data, as opposed to unstructured
+- 2) creating different sections in the repo for graph analysis (e.g. graph structures such as centrality, clustering, degree analysis, etc) and data analysis (what is the structure of the data?)
+- 3) making the repo more user-friendly - e.g. a map of the repo and where data is coming from. Python users can create virtual environments and run scripts.
+  - [**effect**] mayAffectOtherPeople
+- We discussed the differences between data analysis (questions such as "where is the data coming from?") and graph analysis (use of graph structures such as centrality, clustering, degree analysis, path analysis)
+
+Can create separate reports for each of these, and a unified report. Reports are linked to live data dumps, and will be automatically updated as more data is added.
+
+Noted that some of the things that graph analysis will show us are purely the result of the design of the meeting summary template that is being used; but some is more substantive.
+  - [**effect**] mayAffectOtherPeople
+- We began to look at how we understand what graph data shows - what does it tell us? For example, co-attendance and degree: people are connected if they attend the same meeting, so how many people is a person connected with in that way? 
+
+And - we know there can be a difference between simple meeting attendance and meaningful participation? (e.g. if someone is present but not participating) - but do co-attendance and degree give more subtle data on this?
+
+We suggested that there should be an Archives meeting at some point to engage a group of people with analysing what this graph data is telling us, and saying what we think it means
+  - [**rationale**] To compare the graph data with our lived experience of being in the Ambassador program; to start people thinking on what it means; and begin to develop some kind of community verification process for the graph analysis; also to ask the community what data is important, and start to develop some kind of weighting system
+  - [**effect**] mayAffectOtherPeople
+- We noted that what is shown in the graph data mostly parallels the info we can see in Treasury data and in calculations of who is a Core Contributor - the same people emerge as most engaged and active.
+
+Could we use a combination of which person, which WG, number and type of action items assigned to someone, and their involvement in decision items to demonstrate participation or engagement?
+
+  - [**rationale**] Possibly, could form part of a sentiment analysis
+
+Also, might lead to some kind of weighting of what is important, which could eventually help in the design of reputation or conntribution weighting; 
+
+or an ethical process/procedure for how to consult a community on weighting the info in a graph?
+  - [**effect**] mayAffectOtherPeople
+- We discussed other ways of analysing engagement, influence, participation, and/or contribution, either by individuals or by WGs. For instance:
+
+- DOCUMENTS: How many docs does a WG link in their summaries? Who authored them - someone from that WG, or another WG? Are they open to edits? How many edits have been made? (tracking the spread of an idea across WGs, and how open to input the originators are)
+
+- VOLUNTARY vs PAID WORK: (of course, requires ways of tracking volunteer work - Governance WG has been discussing this, e.g. logging it in a spreadsheet and then via Dework - see sample log here https://docs.google.com/spreadsheets/d/1MD6V9PbW-h7OwqEj3kdVgf27RaQfr4G6v4gH67Ya2io/edit?usp=sharing; logging who speaks in a meeting, audio or in Chat; weekly nominations process for who has contributed something you found useful that week; etc)
+
+DECISIONS: how WGs and people are connected to decisions and decision-making. Who's contributing, whose thinking is being heard, are different WGs making decisions on similar topics and are they influenced by each other, etc
+
+TAGS: looking at where similar topic tags are seen across different WGs
+
+MEETING OUTCOMES: How do we track what comes out of meetings? Sometimes, it's actual decisions - but not always. And sometimes it's a decision that has little impact on the Program long term, or isn't really implemented
+  - [**rationale**] how would all this kind of data - some of which is captured outside of meeting summaries - become part of a knowledge graph?
+  - [**effect**] affectsOnlyThisWorkgroup
+- We noted that Stephen delivered a successful session on Thurs 25 Sept at AI Sandbox/Think Tank to share the knowledge graph work so far.
+See recording https://youtu.be/ByNe06ShpAw?si=OuuO3dMmm1rz4dVP 
+
+- Archives WG's Q3 quarterly report and Q4 budget were approved with no objections
+
+We note also that for Q1 2026, there will be no formal budget consent process, and just minimal reporting required on this Quarter's activities. So we will not need to write a Q1 2026 budget as such, but can decide in January how to spend budget cap, and will just need to report on our work at the end of Q1 (March 2026)
+  - [**rationale**] This has been done due to low token price and to minimise the overhead associated with the consent process
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to publicise the information session at AI Sandbox/Think Tank next Thurs, 25th Sept [**assignee**] CallyFromAuron [**due**] 19 September 2025 [**status**] done
+- [**action**] Vani to draft and submit minimal report for this Quarter's work [**assignee**] CallyFromAuron [**due**] 8 December 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI ethics, token price, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Open source, meeting summary quality, structured vs unstructured data, semantic analysis, sentiment analysis, data analysis vs graph analysis, community data verification, Engagement and Reputation Systems, contribution, Participation, Graph RAG, AI Sandbox/Think Tank, documents in meeting summaries, topic tags, decision tracking, weighting, centrality, clustering, path analysis, degree analysis
+- **emotions:** interesting, wide-ranging, Discursive, analytical, expansive
+
+
 ## Thursday 16th October 2025
 
 ### Governance Workgroup
