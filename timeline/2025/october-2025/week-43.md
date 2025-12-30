@@ -6,6 +6,7 @@ description: Mon 20th Oct - Sun 26th Oct 2025
 
 ## Thursday 23rd October 2025
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** One-off event
@@ -75,3 +76,35 @@ TAKEAWAYS/LEARNING POINTS:
 #### Keywords/tags:
 - **topics covered:** AI ethics, interviewing, qualitative research, transcription, AI bias, data soveregnity, human-in-the-loop, gender bias, sex bias, sexism, African AI, Nigeria, AI governance, dataset fairness, recruitment, privacy, Anonymity & Transparency, Consent, data privacy, chatbots, AI design
 - **emotions:** reflective, honest, culturally conscious,  insightful, grounded, urgent,  Collaborative, lively
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** osmium [**facilitator**], Stephen [QADAO] [**documenter**], osmium, LordKizzy, others unknown
+- **Purpose:** Session 2 of the BGI-25 Virtual Unconference: "AI Agent DAO Blueprint"
+- **Media link:** [Link](https://docs.google.com/presentation/d/1SUT5hd24HLzbxHqT88pkPybP-Ov_YhAii7qL3mARdeA/edit?usp=sharing)
+- **Working Docs:**
+  - [Slides: AI Agent DAO Blueprint](https://docs.google.com/presentation/d/1SUT5hd24HLzbxHqT88pkPybP-Ov_YhAii7qL3mARdeA/edit?usp=sharing)
+  - [Blog post - From Idea to Action: my experience showcasing the AI Agent DAO at BGI-25](https://docs.google.com/document/d/1lufZVGjK4Ltm-QmGd34iMcAxYh-LCj80oSEBJNgaBDc/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Vasu Madaan presented his idea for a new approach to regulating AI agents on tthe SingularityNET tech stack, by means of a DAO structure.
+
+This would allow a decentralised approach to managing ethical risks, via a common ethical framework to guide the behaviour of AI agents, and a reputation system to evaluate and enhance their rustworthiness and accountability.
+
+Key system components:
+- superintelligence.io: ASI coordination
+- singularitynet.io: AI services
+- fetch.ai: Autonomous infrastructure
+- agentverse.ai: Deployment layer
+- hyperon.opencog.org: Cognitive core
+
+See 
+- slide deck here https://docs.google.com/presentation/d/1SUT5hd24HLzbxHqT88pkPybP-Ov_YhAii7qL3mARdeA/edit?usp=sharing 
+- blogpost here https://docs.google.com/document/d/1lufZVGjK4Ltm-QmGd34iMcAxYh-LCj80oSEBJNgaBDc/edit?usp=sharing
+
+for more details
+
+
+#### Keywords/tags:
+- **topics covered:** DAOs, AI Agent, Decentralization, AI ethics, AI safety, accountability, human-in-the-loop, Human values, Fetch Ai, agentverse, OpenCOG Hyperon
