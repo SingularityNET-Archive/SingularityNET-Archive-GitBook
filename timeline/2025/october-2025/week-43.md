@@ -7,6 +7,7 @@ description: Mon 20th Oct - Sun 26th Oct 2025
 ## Thursday 23rd October 2025
 
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** One-off event
@@ -108,3 +109,71 @@ for more details
 
 #### Keywords/tags:
 - **topics covered:** DAOs, AI Agent, Decentralization, AI ethics, AI safety, accountability, human-in-the-loop, Human values, Fetch Ai, agentverse, OpenCOG Hyperon
+
+### African Guild
+
+- **Type of meeting:** One-off event
+- **Present:** CallyFromAuron [**facilitator**], Kateri, Stephen [QADAO], CallyFromAuron [**documenter**], LordKizzy, CallyFromAuron, Brian Boatz, Zainab Saidu, Sucre n Spice, Maxmilez, UknowZork, Kateri, Osmium, Andrew Ben, Solomon Salifu, Morgan Ufuoma, Paul Mwambun, Victor Nderitu, Mathew Kasanga, Sheila Wanjiru, Stephen [QADAO], Duke, guillermolucero, hogantuso, Peegee, AshleyDawn
+- **Purpose:** Session 3 of the BGI-25 Virtual Unconference: "AI ethics in community governance"
+- **Meeting video:** [Link](https://youtu.be/kYh4RLOCETY?si=UExvf72eEjgvNjY-)
+- **Working Docs:**
+  - [Slides: Stephen Whitenstall: Ethical AI Use in Community Governance ](https://docs.google.com/presentation/d/1w_91qwVW-mPglY3h9pdjxh9g83O_TbPsQh4rjhhHYe8/edit?usp=sharing)
+  - [Video: Knowledge Graphs, Ethics & Community Recordkeeping](https://youtu.be/TqUBdIsZf-I )
+  - [Slides: Human AI Collab - Governance Framework ](https://docs.google.com/presentation/d/1AFG3o_KliureNCCB6w2Nnqv_LuABPHbKGvvo_JVVwyA/edit?usp=sharing )
+  - [Governance Dashboard](https://singularitynet-governance-dashboard.vercel.app/dashboard)
+  - [Slides : EthosGuard](https://www.canva.com/design/DAG2XiQsS8Y/oS1rqh-T1fLmoG8QejUFvQ/edit)
+  - [EthosGuard – AI Ethics & Governance Advisor Agent (v2) ](https://docs.google.com/document/d/1At6iyejBZhgfJ1cEATBjA7ZHFMUP3AZKX8kk0_NTZt4/edit?usp=sharing)
+
+#### Narrative:
+## PRESENTATIONS
+There were short presentations from 4 Ambassador Program workgroups, focusing on the issues raised for decentralised communities when they use AI tooling in their governance systems.
+
+1. Ethical AI use in community governance (Stephen Whitenstall, SingularityNET Archives)
+When we use AI tooling in our governance, e.g. to help us interpret our records, its outputs must be auditable.
+Good recordkeeping is obviously important for governance transparency; and knowledge graphs and other AI processes can help us interpret records, and track changes in our governance processes. But for good ethics, we need community verification of such AI-generated insights - so we should build in processes for a community to audit and verify what AI says about governance. Prompting our AI tools, and engineering the context, are important, but community verification of AI outputs is perhaps even more so. It is the community who determine what records “mean”.
+
+
+2. Community-first intelligence and African pathways to ethical and inclusive AI: Duke Peter (sNET Ambassador Program African Guild)
+AI connects us digitally but can isolate us socially - automated, contactless interactions can erode community. Western AI ethics frameworks tend to emphasise individual rights over collective wellbeing. By contrast, African Ubuntu philosophy (“I am because we are”) redefines the “intelligence” of “artificial intelligence” as shared values and cooperation. African Guild’s community reflection sessions have explored what “trustworthy AI” would mean for different cultures and professions, leading to conference papers, research reports, educational materials, and Medium articles.
+The goal is to ensure that AI systems connect with the values of diverse local communities. By creating ethical frameworks that fit a range of cultural contexts, AI governance becomes more inclusive, and rooted in the full range of human values. 
+
+
+3. EthosGuard - an AI ethics & governance advisor agent (LordKizzy, AI Sandbox/ Think-Tank)
+EthosGuard is a proposed AI agent for ethical governance, designed for the SingularityNET Ambassador Program but applicable to any decentralised community. It supports fair and transparent decision-making, by helping people a) understand their community’s governance structures and b) analyse governance issues according to their community’s agreed values (e.g. decentralization, inclusion, etc). 
+Context engineering is important - EthosGuard  will be trained on the community’s governance documents and records, and on general DAO ethics. It also uses participatory feedback loops and transparent reasoning, so that every recommendation cites the exact ethical principle involved. This addresses risks such as bias, automation creep, and ethical opacity. 
+
+4. Governance Framework (Guillermo Lucero Funes, R&D Guild)
+
+The Governance Dashboard https://singularitynet-governance-dashboard.vercel.app/dashboard is a new tool, built on the ASI tech stack. to support the Ambassador Program’s consent-based decisionmaking. It integrates an AI assistant intended as an augmentation layer, helping community members synthesize data and clarify arguments. Its first use, for the budget decision for Q4 2025, was done without any contextualising, due to . short deadlines and low development budget - but the next iteration will use the community’s archives, decision records, and governance documents to provide context-aware guidance. As with other Ambassador Program tooling, context engineering is vital, and the itention is to engage the whole community with deciding exactly what material to use as context.
+
+
+## DISCUSSION
+
+1) The different workgroups each have their own take, so the work is not monolithic and we can contrast the different approaches; but all recognise the need for human control over the technology, and the need for some kind of context engineering.
+
+2) Data-first or context-first or values-first are complementay approaches that inform each other: the prompt-orientated approach takes community-specific data as context to say what our values actually are and prompt the AI to align with that; and the archival approach (more grounded-theory style?) examines the data for patterns to attempt to discover what the significant issues are, before designing prompts (e.g. if a particular topic keeps appearing in our meeting summaries, that suggests it is a significant issue in our community, and it could then become a prompt.)
+.
+3) Prompts are dynamic workflow of information, and can change in response to changes in the community. What is really interesting is tracking those bias shifts in a community - how a community evolves and responds to circumstances?
+.
+4) Use of blockchain may be a next step, for tracking and for immutability, and for auditability: if you create a prompt, e.g. a specific question, the prompt itself becomes a data object, and can be audited - it’s not passive, it has its own context, so you have an audit trail for it, which is especially useful  if the prompt produces some unexpected results. (Compare Patrick Tobler of NMKR’s recent work in Cardano on a platform that provides AI agents that are auditable on the blockchain.)
+.
+5) The different paradigms and values of different kinds of communities presents an interesting cha;llenge - can we create a community AI that is flexible enough to accommodate different types of community?
+We want to include dialogue in our governance - it’s not only about what an AI can see from our written contexts, but also using our dialogues and discussions as a dataset - a way to really include the human element, by using the ways we engage and interact as a community as part of our contextual info. Discourse analysis?
+.
+6) Cultural difference - there are differences WITHIN a culture as well as between different cultures. Dissent within a culture creates richness, and can be undermined by monolithic systems or forced conformity - but how do we pronmpt AI to take account of internal dissent?
+.
+7) Could we create an AI model that is geographically aware, and interacts wih people in, say, Africa differenly from how it interacts with people in Europe or Latin America, respecting their cultural contexts? Because we can’t (and don’t want to) bting everyone under a universal umbrella.
+.
+8) RE meta-governance and communities auditing their own biases - bias is inevitable, and is not a bad thing in itself - e.g, a community could be biased in favour of inclusivity, or open-source. “Bias” can be another word for “values”. And change is inevitable too, your governance processes and biases may change.These self-audit processes are all quite internal to a community. So how do we build adaptable/generic tools, that other communities can also use - even communities that are not Web3 based?
+.
+9) In Cardano some years back, we hoped to be able to “plug in” any culture on top of the layer 1 blockchain governance. but cultural assumptions ended up being made   - e.g the US-style idea of a constitution. Now, we have similar with AI communities - systems being designed not as a neutral base with “add-ons” for particular cultural contexrts, but wih cultural assumptions on the base level.
+.
+10) Using tools in a way that fits our context is not just geographic - there’s  intersectionality with other forms of difference (sex, gender, sexuality, disability, age, rural/urban-ness etc). So what we are building is not so much the tool itself, as the processes for different kinds of communities to manage contextualisation, and the ways for a community or a person to see themselves reflected in the tool. Anyone can build a tool; but building blueprints or toolkits forthe  community contextualising processes is harder.
+.
+11) Not knowing your history often undermines community - in an AI tooling context, that would mean not having control of what the questions are and what the contextual info is How do we ensure WE are the ones who get to say “This is what our community means”?
+
+
+
+#### Keywords/tags:
+- **topics covered:** African Guild, Archives WorkGroup, R&D Guild, AI Sandbox/Think Tank, EthosGuard, Ai recordkeeping ethics, recordkeeping, institutional memory, Knowledge Graphs, AI governance, AI ethics, decentralized governance, diversity, Ubuntu, African philosophy, transparency, auditability, verification, ASI 1, context engineering, Human values
+- **emotions:** reflective,  Collaborative, Educative, hopeful
