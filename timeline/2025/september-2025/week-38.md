@@ -95,6 +95,43 @@ All valid objections will be discussed, even if raised by only one person; and t
 #### Keywords/tags:
 - **topics covered:** Governance Dashboard, Q4 2025 budget timeline, migrating historical data, validity of objections, Consent decision-making process for Budget proposals, 80%/20% rule, Consent process
 - **emotions:**  Collaborative, Constructive, some skepticism, pragmatic
+## Tuesday 16th September 2025
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** NA [**facilitator**], NA [**documenter**], Abdulbasit Adigun Abdulrahman, Alfred Itodele, Ayo, Colleen Pridemore, Effiom, Guillermo Lucero, Jeffrey Ndarake, Malik, Omolola Lawson, Peter Elfrink, Re ms, CallyFromAuron, Vasu Madaan
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 164
+- **Working Docs:**
+
+
+#### Timestamped video:
+{% embed url="https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=0s) Meeting Opening And Attendee Roll Call
+[08:52](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=532s) Ambassador Program & Consent Process Update
+[14:09](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=849s) R&d Guild And Bnb Hackathon Update
+[21:30](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=1290s) Deep Funding Deepfeed Introduction
+[39:49](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=2389s) Deepfeed Q&a And Discussion
+[51:25](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=3085s) Bgi 25 Planning Discussion
+[54:10](https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y\&t=3250s) General Updates And Meeting Close
+
+#### Town Hall Summary:
+The agenda included a presentation by Abdulbasit on the new Deep Funding community website, emphasizing the importance of the Ambassador Program and encouraging participants to engage through the Discord server. Peter Elfrink provided updates on the consent process, noting a deadline change and the requirement for only one round of consent using a governance dashboard. He also highlighted the establishment of a temporary workgroup for Q4 fundraising efforts, addressing challenges in member selection due to high interest. Guillermo Lucero followed with an update on hackathon participation, stressing the need for better communication and collaboration to enhance agent development.
+
+Abdulbasit introduced DeepFeed, a social platform designed for internal communication among AI innovators, aimed at improving collaboration within the decentralized AI community. He detailed the platform's features, including user login with existing credentials, posting updates, and managing visibility of contributions. The initiative seeks to involve Singularity Net Ambassadors as early adopters to gather feedback and ensure effective communication. The discussion also covered the ongoing development of features to amplify the decentralized AI ecosystem, with an emphasis on community involvement and marketing strategies to promote the platform.
+
+The meeting included a discussion on recruiting Singularity Net ambassadors, with Abdulbasit proposing a target of 50, which Peter suggested might be ambitious given the current number of core contributors. The group agreed on using Discord for outreach, as it would be more effective than email. Abdulbasit confirmed that the platform would allow all users to post content related to AI, Web3, and blockchain, and he mentioned plans for a feedback mechanism to enhance user engagement. Peter concluded by proposing a weekly session for BGI 25 planning this Friday 13UTC and reminded workgroup leads to submit budget proposals and quarterly reports by the next day.
+
+
+#### Keywords/tags:
+- **topics covered:** governance, budgets, tooling, Deep Funding
+- **emotions:** engaging
+
+
 ## Wednesday 17th September 2025
 
 ### Archives Workgroup
