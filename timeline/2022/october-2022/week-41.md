@@ -3,3 +3,55 @@ description: Mon 3rd Oct - Sun 9th Oct 2022
 ---
 
 # Week 41
+
+## Tuesday 4th October 2022
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], Jenn [**documenter**], Tevo, Felix, Julien Collins, Raido, Creed, LittleButts, PeterE, Sucre n Spice
+- **Purpose:** Community Ambassador Townhall Meeting: Workgroup Progress - Process and Podcast, Tasks and Rewards Update, also Open Topic/Ideas
+- **Town Hall Number:** 20
+- **Working Docs:**
+  - [Miro Notes](https://miro.com/app/board/uXjVO0WVUBA=/)
+  - [SingularityNET Ambassador Program rewards](https://docs.google.com/spreadsheets/d/1sYaBn6qvaSObaJ_gRAUhWXDLqbxQLGmBsMA5KkTmxVQ/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://www.youtube.com/watch?v=L_90KZo9gs8" %}
+
+[01:27-02:00](https://www.youtube.com/watch?v=L_90KZo9gs8\&t=5220s) Meeting Agenda 
+[02:01-37:59](https://www.youtube.com/watch?v=L_90KZo9gs8\&t=7319s) Process Guild Meeting
+[38:00-44:28](https://www.youtube.com/watch?v=L_90KZo9gs8\&t=136828s) Process Guild Align With Ambassador Programme
+[44:28-44:33](https://www.youtube.com/watch?v=L_90KZo9gs8\&t=160113s) End Of Meeting 
+
+#### Town Hall Summary:
+The meeting covers several topics including:
+Process Guild Meeting:
+*Discussed details of establishing translator requirements and creating a survey to onboard translators.
+*Defined a multi-stage process for onboarding translators that includes project management support, task management, and feedback loops.
+*Future meetings will finalize the process and identify other priorities.
+Ambassador Program:
+*The program is transitioning from a pilot phase to a more mature stage.
+*A member will be reaching out to gauge community sentiment and suggestions for improvement.
+Podcast Work Group:
+*The Jasmine Smith interview episode is being edited and will be posted soon.
+*A new intro graphic with a future city theme is being created for the podcast. 
+*The group is exploring collaboration with an artist and potentially expanding content beyond SingularityNET.
+*The next interview will likely feature Gabriel Axel Montes.
+Task Rewards:
+*Rewards for September work have been distributed.
+*There may be a temporary delay in receiving email notifications for transactions.
+Upcoming Ideas on Q3:
+*September ecosystem update recap block
+*Operations Q3 block
+
+Additional Notes:
+* The meeting mentions a conference called "RAT Fest" (likely pronounced "rahp") focused on longevity.
+* The podcast work group meets on Mondays at 18:00 UTC.
+
+
+
+#### Keywords/tags:
+- **topics covered:** workgroup updates, Process Guild, Value of Ambassador Program, Translator Requirements, Project Management Support, Task Management, Feedback Loops, The Jasmine Smith interview episode, Marketing Channel, Podcast WG, The Gabriel Axel Montes interview episode
+- **emotions:** participatory
