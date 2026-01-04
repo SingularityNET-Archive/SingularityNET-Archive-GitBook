@@ -6,6 +6,7 @@ description: Mon 27th Oct - Sun 2nd Nov 2025
 
 ## Tuesday 28th October 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -89,3 +90,32 @@ We agreed to a) reflect further on the idea of not submitting budgets in advance
 #### Keywords/tags:
 - **topics covered:** Consent Process, transparency, fairnesss, accountability, flexibility, probation, theory of change, token price, impact, outcomes, KPIs
 - **emotions:**  Collaborative,  forward-looking,  insightful,  informative, Measuring outcomes, Only a few of those present spoke
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], NA, CallyFromAuron [**documenter**], Alfred Itodele, Ayo, Colly Pride, Stephen [QADAO], Tevo, CallyFromAuron, sharmila, EstherG, guillermolucero, Haley Lowy, PeterE
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 170
+- **Working Docs:**
+
+
+#### Timestamped video:
+{% embed url="https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5\&t=0s) Intro & Time Zone Troubles
+[05:50](https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5\&t=350s) Ai Game & Tool Showcase
+[07:43](https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5\&t=463s) Town Hall Overview
+[13:21](https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5\&t=801s) Bgi25 Unconference Learnings
+[29:26](https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5\&t=1766s) Bgi25 Hackathon Highlights
+[45:40](https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5\&t=2740s) Asi Chain & Future Proposals
+
+#### Town Hall Summary:
+No summary available due to limited meeting data.
+
+
+#### Keywords/tags:
+- **topics covered:** time zones, AI games, BGI-25 Virtual Unconference, BGI-25 hackathon, ASI Chain
+- **emotions:** quiet, low attendance, thoughtful, retrospective
