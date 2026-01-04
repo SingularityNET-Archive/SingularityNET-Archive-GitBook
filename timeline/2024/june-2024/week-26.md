@@ -104,6 +104,7 @@ No Summary Given
 
 ## Tuesday 25th June 2024
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -176,6 +177,50 @@ In our recent discussions, we focused on creating a comprehensive roadmap for de
 - topics covered: Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation
 - emotions: Collaborative, Friendly, Thoughtful , funny , entertaining, challenging
 - other: Step by Step
+
+
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, Clement Umoh, Felix, guillermolucero, Gorga Siagian, Tevo, Slate, LadyTempestt, hogantuso, haley lowy, advanceameyaw, Will Tatz, esewilliams, Sucre n Spice, CollyPride, LordKizzy, Kateri, kenichi, BoazB, Effiom
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 103
+- **Working Docs:**
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T" %}
+
+[00:00](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=0s) Intro
+[00:57](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=57s) Who Are The Ambassadors
+[01:34](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=94s) Deep Funding Results R4
+[04:54](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=294s) Work Group Updates
+[05:31](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=331s) Latam Guild
+[10:40](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=640s) Knowledge Based Wg
+[16:27](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=987s) Archives Wg
+[19:54](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=1194s) Education Wg
+[23:47](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=1427s) R&d Guild
+[29:09](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=1749s) Onboarding
+[33:06](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=1986s) African Guild
+[35:30](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=2130s) Marketing Guild
+[39:41](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=2381s) Video Wg
+[41:07](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=2467s) Gamers Guilds
+[46:30](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=2790s) Governance Wg
+[49:21](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=2961s) Ai Ethics
+[54:30](https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T\&t=3270s) Remarks
+
+#### Town Hall Summary:
+This session was the monthly updates from workgroups about their work.
+
+There were updates from several currently active WGs; and from Marketing Guild, which is presently involved in a process of restructuring and a (quite contentious!) decision on who will lead it after Judith leaving. There was also a first report from the newest new workgroup, AI Ethics; and there was news of African Guild's forthcoming AMA session and a planned live event in September in Nigeria about AI ethics.
+
+We also briefly discussed the idea of making these monthly update sessions 90- mins instead of an hour, to ensure there is time for all the WGs; and templating the updates to make sure all the important things are covered. These ideas were scheduled for further discussion at the next WG Sync call.
+
+
+#### Keywords/tags:
+- **topics covered:** Marketing guild lead, LatAm Guild, African Guild, Knowledge Base Workgroup, Archives WorkGroup, Education Guild, R&D Guild, Onboarding WG, Video WG, Gamers Guild, AI Ethics WG, Governance WG, WG updates, AMA session, WG Sync call
+- **emotions:** Organised, Good natured, engaged
 
 
 ## Wednesday 26th June 2024
