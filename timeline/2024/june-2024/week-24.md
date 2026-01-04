@@ -89,6 +89,7 @@ No Summary Given
 ## Tuesday 11th June 2024
 
 
+
 ### LatAm Guild
 
 - Type of meeting: Biweekly
@@ -241,6 +242,59 @@ The group also discussed the progress of the African Guild, with Ese Williams ex
 #### Keywords/tags:
 - **topics covered:** African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates, change meeting time
 - **emotions:** Friendly, funny , cool, speedy , Thoughtful 
+
+
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** Sucre n Spice, PeterE, Ayo [**facilitator**], CallyFromAuron [**documenter**], PeterE, 5oundwave5, WaKa, Ayo, Gavriel, Clement Umoh, Sucre n Spice, Duke, Onize, LordKizzy, CallyFromAuron, guillermolucero, oep, Aetherblade, hogantuso, Zalfred, Rob Bedoya, osmium, Mikasa, CollyPride
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 101
+- **Working Docs:**
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz" %}
+
+The meeting followed on from discussions in today's Governance Workgroup meeting. 
+
+Attendees divided into 3 breakout rooms.
+
+- Group 1 covered the schedule for the Q3 budget decision; 
+- Group 2 discussed the suggestion of a new "Navigator" role to help new people find their way round, to be led by Strategy Guild; 
+- Group 3 discussed setting up a monthly call for workgroups to discuss issues of common interest.
+
+The video begins in Breakout room 3, then moves to the main room at 20:50.
+
+[00:00](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=0s) Breakout Room 2 - Sucrenspice Introduces Idea Of A Monthly Call For Wg Collaboration.
+[06:00](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=360s) When Would Such A Call Happen, And What Would Be The Agenda?
+[07:30](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=450s) Differences Between This Wg Leads Call And Town Hall
+[12:06](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=726s) Main Objective Of This Kind Of Call 
+[13:40](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=820s) Wgs Should Have More Than One "leader"
+[14:25](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=865s) Time For Meeting Should Address Timezone Exclusion
+[14:40](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=880s) Facilitation Should Be Rotated
+[15:39](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=939s) Space To Share About Topics That All Wgs Are Dealing With
+[16:56](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=1016s) Open To All, Wg Leads Only, Or A Representative (not Necessarily The "lead") From Each Wg?
+[20:50](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=1250s) Return To Main Room - Breakout Rooms Were Too Short!
+[21:55](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=1315s) Feedback From Breakout Rooms. Group 1: Town Hall Isn't The Right Place To Decide The Budget Decision Schedule, And It Should Be Picked Up Async In Discord, Or In Govwg. Group 2
+[22:23](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=1343s) "navigator" Role - Which Wg Will Be Responsible For It, What Exactly It Will Do, And Whether It Might Duplicate What Onboarding Wg Is Already Doing To Support New People.
+[29:50](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=1790s) Could The Navigator Role Instead Be More About Maintaining Awareness Of What Each Wg Is Doing, Promoting Collaboration, And Avoiding Duplication Of Effort?
+[31:31](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=1891s) People Should Stop Asking "why" About The Navigator Role, And Instead Say "why Not?", And Try It For A Quarter, Even If They Disagree Abiut The Details Of What It Will Do.
+[33:50](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=2030s) Feedback From Breakout Room 3 On Idea Of A Monthly Cross-wg Call. Agreed On Last Week Of The Month - Day And Time Tbc. Agenda - Issues Of Concern To Multiple Wgs. We Need Wg Tepresentatives To Attend - If Not The Lead, Then Another Reporesentative - And Whatever Is Discussed Needs To Be Brought Back To The Group. Facilitation Will Be Rotated.
+[37:12](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=2232s) Questions On Proposed Navigator Role. What Problem Is It Aiming To Solve? Is It About Supporting And Onboarding Newcomers, Supporting Connections Between Wgs, Or Both? Will It Duplicate Onboarding Wg's Work?
+[45:45](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=2745s) - Information Asymmetry When An Established Member Onboards Someone; Communications Between Established Colleagues Doesn't. Nobody Has A Complete Overview To Be Able To Direct New People
+[48:38](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=2918s) Draw On Onboarding Wg's Experience And Contributions
+[51:00](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=3060s) People Could Inform Themselves More About Onboarding's Work, And Ask Onboarding For Their Insights About How To Onboard
+[57:52](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=3472s) Ayo Remarks On Navigator Role
+[1:00:19](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=3619s) Gavriel's Remarks
+[1:02:09](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=3729s) Peter's Remarks About Onboarding Wg
+[1:03:10](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=3790s) Discussions Regarding Onboarding Wg
+[1:19:53](https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz\&t=4793s) Miscellaneous 
+
+#### Keywords/tags:
+- **topics covered:** WG sync call, communication between WGs, information asymmetry, Onboarding, Onboarding WG, Navigator role, duplication
+- **emotions:** tense, long speeches
 
 
 ## Wednesday 12th June 2024
