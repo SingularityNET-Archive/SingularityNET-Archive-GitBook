@@ -4,6 +4,31 @@ description: Mon 20th Jun - Sun 26th Jun 2022
 
 # Week 26
 
+## Tuesday 21st June 2022
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** Peter [**facilitator**], Gorga Siagian [**documenter**], Peter, Tevo, SucrenSpice, Felix, Crandano, Iain
+- **Purpose:** Workgroup progress - structure & podcast, Tasks & Rewards update, and Meeting POAPs brainstorm
+- **Town Hall Number:** 7
+- **Working Docs:**
+  - [Slides](https://docs.google.com/presentation/d/1aMCU8n6qOTreuFFpJDYonn2UkBZ9M95CGxZsvHkLHMI/edit#slide=id.g1296df77e28_1_0)
+  - [Ambassador GitBook](https://snet-ambassadors.gitbook.io/home)
+
+
+#### Slides:
+{% embed url="https://docs.google.com/presentation/d/1aMCU8n6qOTreuFFpJDYonn2UkBZ9M95CGxZsvHkLHMI/edit#slide=id.g1296df77e28_1_0" %}
+
+#### Town Hall Summary:
+This Town Hall comprises Workgroups update, Community podcast update, Task Management Group, open work session 22nd 09 UTC, Main focus: cleaning up imported translation tasks, Structure group, Setup: dework Translation update, gitbook live,  what content do we want on the gitbook?
+
+
+#### Keywords/tags:
+- **topics covered:** workgroup updates, podcasts, GitBook, Dework, Task Management, structure group, Translation
+- **emotions:** questioning, ideas, Thoughtful 
+
+
 ## Thursday 23rd June 2022
 
 
