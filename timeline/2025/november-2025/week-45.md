@@ -6,6 +6,7 @@ description: Mon 3rd Nov - Sun 9th Nov 2025
 
 ## Tuesday 4th November 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -97,6 +98,59 @@ The survey will go out tomorrow, 5th Nov, and close on Mon 17th. Results will be
 #### Keywords/tags:
 - **topics covered:** Core Contributor, poor documentation, collaborative documentation, sentiment survey, Q4 2025 quarterly reporting, Governance Dashboard, low token price, pricing tasks in AGIX, AGIX or USD, Fixed AGIX Rewards, outcomes, impact, work quality, transparency
 - **emotions:** Collaborative, forward-looking, insightful, informative, Only a few of those present spoke
+
+
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], NA, CallyFromAuron [**documenter**], Stephen [QADAO], Tevo, CallyFromAuron, AshleyDawn, guillermolucero, PeterE, CollyPride
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 171
+- **Working Docs:**
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD" %}
+
+[00:00](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=0s) Introduction & Initial Discussions
+[01:57](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=117s) Tevo's Automation Project Update
+[04:00](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=240s) Town Hall Overview & Governance Update
+[14:39](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=879s) Archive Workgroup & Meta Prototype
+[19:30](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=1170s) Knowledge Base & Treasury Workgroup Updates
+[27:56](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=1676s) R&d And Latam Initiatives
+[40:57](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=2457s) General Discussion & Q&a
+[50:52](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=3052s) Ai Ethics & Tqnn Integration Announcement
+[58:16](https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD\&t=3496s) Closing Remarks & Token Price Discussion
+
+#### Town Hall Summary:
+Peter announced a memorial session for Rama Zomaletho from DeepFunding, who recently passed away. 
+
+The usual WG updates at the end of last month didn't happen due to low attendance, so this Town Hall was a "WG UPdates" session instead.
+
+## Updates:
+#### Governance WG:  
+Governance WG launched the new sentiment survey aimed at assessing workgroup effectiveness - closing date 17th Nov. 
+There will be no formal budget consent process for Q1 2026 budgets, and budget caps will remain the same as this Quarter, to alleviate administrative burden. Workgroups will only need to submit a brief report on Q4 activities by early December; a template for this will be in the Governance Dashboard.
+
+#### Archives WG: 
+Stephen presented a prototype simulation utilizing MeTTa symbolic rules to illustrate a reputation system, allowing users to manipulate parameters and visualize agent interactions. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/288 and https://asi-chain-metta-simulation-dashboard.streamlit.app  Archives' current focus is ingestion of e.g. meeting summary data and use of AI tools in an *auditable* way - see Unified Graph Analysis Report - (Github Pages) - https://singularitynet-archive.github.io/Graph-Python-scripts/#summary and https://github.com/SingularityNET-Archive/Archive-RAG  We discussed the regular MeTTa group ttthat meets fortnightly, and said that Archives should share some of its current work there.
+
+#### Treasury, Process and Knowledge Base: 
+Tevo explained that Knowledge Base WG has had a strategic shift to fortnightly sessions focused on preparation and brainstorming, which are recorded, to enhance collaboration and decision-making in main meetings. Treasury activities: there has been a backlog in updates related to the treasury GitHub dashboard and plans to test GitHub functionalities. Tevo Kask shared his recent coding efforts, highlighting a significant investment of time to automate a previously manual task, which has streamlined his workflow and improved prototype production. Peter acknowledged the importance of automation and the need to engage core contributors more effectively.
+
+#### R&D, LatAm: 
+Guillermo gave updates on R&D and LatAm initiatives, emphasizing the importance of cultural context in AI development and the need for structured data management. The discussion also highlighted the significance of community involvement in understanding complex concepts like reputation and governance.
+
+## Open topics
+Colly Pride announced the integration of the Toridian Quantum Neural Network into OpenCog, which aims to enhance AI contextual reasoning and reduce energy consumption. 
+
+The next WG Sync Call will address the implications of the current low token price.
+
+
+#### Keywords/tags:
+- **topics covered:** Rama Zomaletho memorial, sentiment survey v3, Toridian, low token price, MeTTa Coder Lab, Q4 2025 reporting, Governance Dashboard
+- **emotions:** quiet, technical focus, low attendance
 
 
 ## Thursday 6th November 2025
