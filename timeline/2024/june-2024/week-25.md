@@ -144,6 +144,7 @@ No Summary Given
 
 ## Tuesday 18th June 2024
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -202,6 +203,11 @@ Duke Peter provided an update on the Lumio video, with Felix reassuring him ther
 - **topics covered:** Governance, WG Budget, Guild Leads, Town Hall Presentation.
 - **emotions:** Interesting, contributive, engaging
 
+
+
+### Ambassador Town Hall
+
+No Summary Given
 
 ## Wednesday 19th June 2024
 
