@@ -87,6 +87,7 @@ But our Q1 budget has allocated $20 for documentation - so we cannot raise this 
 ## Wednesday 8th January 2025
 
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -175,6 +176,52 @@ and discuss how the Archives dovetails with documentation that DF is doing itsel
 #### Keywords/tags:
 - **topics covered:** RAG retrieval process, knowledge graph, Tag taxonomy, meeting summary tool, graph rag, Robert Stalnaker, philosophy, Gamers Guild, Roblox, visual, context, controlled vocabularies
 - **emotions:** interesting, wide-ranging, didactic, Friendly
+
+
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], CJFrankie [**documenter**], Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, Ayo, Duke, esewilliams, LadyTempestt, Boaz, Nebula
+- **Purpose:** The African Guild weekly meeting focused on reflecting on what happened in 2024 and possible ways to improve. 
+- **Working Docs:**
+  - [African Guild Meeting: 14th November 2024](https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit)
+
+#### Narrative:
+Intro: The weekly meeting of the African guild kicked off at 5:10 pm with a welcoming greeting from Duke. He expressed his joy for having to witness Q1 as a guild. Following that, we began to exchange greetings in our dialects. 
+
+Agenda number two featured a recap of minutes from the last meeting held in 2024 (14th November), you can find the summary here: Meeting Summary - African Guild - 14 November 2024
+Momentarily, we ticked off the action items from the last meeting.
+
+Discussion item: The theme of the discussion was 2024 in review. We want to see what we have done so far and possible ways to improve our output as a guild. 
+
+- According to Ayo, he said that the guild lived up to expectations, and he highlighted some of the initiatives that contributed to the success of the guild as well. 
+- Duke also added that the AMAs were so amazing and the marketing initiatives did the guild better; those initiatives have helped the guild to reach more people, cross-guild collaboration as well as cross-ecosystem collaboration, too. 
+
+- Duke also sends a shoutout to all the African guild members for their relentless efforts and dedication toward helping the guild achieve great milestones.
+
+- On the other hand, Lady Tempestt talked about the need for proper budget planning. 
+
+- Martinsoki suggested that the guild should increase the meeting documentation reward to $25. Members embraced the idea, however, Clement added that the token price won’t permit the guild at the moment, and Sucre also added that there shouldn’t be any changes made to the Q1 budget.
+
+Q4 marketing initiatives: Duke applauded the Q4 marketing initiative team for their commitment and excellent work. He also said that the winners of the initiative should be selected as soon as possible so we can reward them after the budget has been distributed. Through screen sharing, Duke showcased an interesting African documentary draft; he added that the documentary would be used to tell our stories as an African guild.
+
+AMA session: It is worth mentioning that the last AMA session conducted in 2024 was a blast. The session had over 50 participants: Duke expressed his appreciation to the team, and he added the rewards will be distributed as soon as the Q1 budget is released. In Q4 2024, we decided to create a unique or separate catalog for documenting or reporting the AMA sessions so it is easy to track its impact over time. 
+
+Budget: We skimmed over the Q1 budget to have a look at what we planned to do in this quarter. Pending rewards will be paid from the Q1 allocation, after which the focus group will meet to refit the budget so that we do not run out of budget again like before. Duke also added that there would be research and education initiatives in Q1 as opposed to previous quarters where we did only research (we want to tell and educate people about our stories as an African). As a matter of finality, Duke said that the guild might revert to a bi-weekly meeting schedule just so we don’t max out the budget ‘Experience is the best teacher.’
+
+
+
+#### Decision Items:
+- We have decided to increase the meeting documentation reward to $25, but this will take effect from next quarter because we don’t want to make any changes to the Q1 budget.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The Q4 marketing initiative team to select the winners of the campaign. [**assignee**] esewilliams, CJFrankie, Ayo, LadyTempestt [**due**] 23 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AMA session,  Q1 budget, marketing initiatives, Collaboration, Documentation, Rewards, documentary, African, research, education
+- **emotions:** informative, forward-thinking, Welcoming, funny 
 
 
 ## Thursday 9th January 2025
