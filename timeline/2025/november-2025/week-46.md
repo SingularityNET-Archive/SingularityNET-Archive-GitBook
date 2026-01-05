@@ -4,6 +4,59 @@ description: Mon 10th Nov - Sun 16th Nov 2025
 
 # Week 46
 
+## Tuesday 11th November 2025
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], NA, CallyFromAuron [**documenter**], Guillermo Lucero Funes, Maxmilez, CallyFromAuron, PeterE, Ayomi Shuga
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 172
+- **Working Docs:**
+
+
+#### Timestamped video:
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](undefined\&t=0s) Intro & Casual Chat
+[05:17](undefined\&t=317s) Meeting Attendance & Future Planning Concerns
+[08:55](undefined\&t=535s) Recap Of Past Discussions & Group Size
+[12:02](undefined\&t=722s) Financials, Deep Funding Sync, And End-of-year Plans
+[15:31](undefined\&t=931s) Team Morale And Token Price Impact
+[18:44](undefined\&t=1124s) Restructuring Challenges & Budget Impact
+[22:37](undefined\&t=1357s) Redefining Purpose & Ambassador Program Identity
+[28:04](undefined\&t=1684s) Addressing Redundancy & Fostering Collaboration
+[36:28](undefined\&t=2188s) Practical Approaches & Restructuring Process
+[41:55](undefined\&t=2515s) Ac Cloud Accelerator & Atypical Initiatives
+[44:57](undefined\&t=2697s) Collaboration With Singularitynet & Retention
+[56:34](undefined\&t=3394s) Leveraging Internal Systems & Payment Processes
+[01:02:42](undefined\&t=3762s) Treasury Update & Closing Remarks
+
+#### Town Hall Summary:
+Low attendance at Town Hall this week, so not really valid to discuss the planned restructure of the Ambassador Program - need more people.
+
+Should we aim to meet with Deepfunding and with Rejuve before year end, or in January? Probably January.
+
+Mentioned idea of an end of year report, taking material from people's impact statements in their minimal Q4 reports in the Governance dashboard
+
+Current positives and negatives for the Program:
+- It is not a typical Ambassador program - could be an advantage. 
+- It's often isolated from other parts of the sNET ecosysttem - can be problematic
+- Redundancy/duplication of work - although we want to maintain variety of approaches, present low token price means we need to minimise overlap with different WGs doing similar, and maximise collaboration?
+- 
+
+Recent sentiment survey perhaps identifies high-performing groups?
+
+People are dropping out and the Program is smaller than it was. Should we be trying to conduct some kind of exit interviews? Could be difficult to get people to take part - once they've gone, they're gone
+
+Issues around calculating core contributor status - who is actually active, rather than merely present?
+
+
+#### Keywords/tags:
+- **topics covered:** low token price, sentiment survey, participation, contribution, Core Contributors , wider sNET ecosystem, Deep Funding, Rejuve, Ambassador Program restructure, Meeting attendance, EOY report 2025
+- **emotions:** quiet, low attendance, reflective, gloomy
+
+
 ## Thursday 13th November 2025
 
 ### Governance Workgroup
