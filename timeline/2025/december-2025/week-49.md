@@ -4,6 +4,50 @@ description: Mon 1st Dec - Sun 7th Dec 2025
 
 # Week 49
 
+## Tuesday 2nd December 2025
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], NA, CallyFromAuron [**documenter**], Maxmilez, CollyPride, guillermolucero, PeterE, sharmila
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 172
+- **Working Docs:**
+
+
+#### Timestamped video:
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](undefined\&t=0s) Intro & Bgi Working Group Reflections
+[00:50](undefined\&t=50s) Personal Updates - House Move
+[03:17](undefined\&t=197s) Colleen Joins & Bgi Kickoff
+[05:15](undefined\&t=315s) Bgi Session Takeaways
+[08:08](undefined\&t=488s) Town Hall Attendance & Yoxi Project Update
+[13:31](undefined\&t=811s) Official Announcements & Sophiaverse
+[16:54](undefined\&t=1014s) Devconnect Recap & Web3 Insights
+[23:29](undefined\&t=1409s) Future Of Town Halls & Governance
+[29:25](undefined\&t=1765s) Funding & Deepfunding News
+[34:27](undefined\&t=2067s) Closing Remarks & Next Meetings
+
+#### Town Hall Summary:
+Peter reflected on his experience at the recent BGI Nexus working group session and expressed a desire for further informal discussions in future gatherings. 
+
+Colleen shared updates on the Yoxi tool, which aims to understand human emotions, and her efforts to involve Sophia the Robot in the project, while also onboarding Anshar Sarafat and Delphi to enhance their capabilities. Concerns were raised about the unpredictability of using Sophia in political contexts, given the control exerted by David Hanson.
+
+Guillermo provided insights from the recent Ethereum DevConnect event in Buenos Aires https://devconnect.org/ , emphasising the significance of the x402 protocol for internet-native payments https://www.x402.org/ 
+
+Recent Town Hall attendance has been low - should its structure or timing be changed? Does it need a more definite agenda? 
+
+Colleen stressed the importance of current Governance Workgroup discussions, while Peter highlighted the necessity of supporting the BGI initiative alongside their projects. 
+
+Finalists in the current Deepfunding RFP ideation process have been announced.
+
+
+#### Keywords/tags:
+- **topics covered:** BGI Nexus, DeepFunding, RFP round, Sophia the robot, DevConnect, x402 protocol
+- **emotions:** low attendance, quiet, short, chatty
+
+
 ## Thursday 4th December 2025
 
 ### Research and Development Guild
