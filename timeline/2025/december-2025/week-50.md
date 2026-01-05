@@ -4,6 +4,66 @@ description: Mon 8th Dec - Sun 14th Dec 2025
 
 # Week 50
 
+## Tuesday 9th December 2025
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], NA, CallyFromAuron [**documenter**], Alfred Itodele, Malik, Mikasa, Slate, Tevo, CallyFromAuron, Ayomi Shuga, PeterE, CollyPride, guillermolucero
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 173
+- **Working Docs:**
+  - [How would YOU restructure the Ambassador Program?](https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing)
+  - [Ambassador Program restructure: collated responses](https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing)
+  - [Sentiment session Miro board](https://miro.com/app/board/uXjVJh1rXXQ=/)
+  - [#01 - Gov-Dash Docu Video Series Script _ 091225](https://docs.google.com/document/d/1i2dZkk8FykfVZ45ILeSRgC6zexqNW0g7d4fZVR3JPRU/edit?usp=sharing)
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi" %}
+
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[0:00](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=0s) Intro
+[01:27](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=87s) Ambassador Program Overview
+[01:57](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=117s) Q4 2025 Quarterly Reports Deadline
+[03:20](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=200s) Rejuve Airdrop 4th Epoch Is Live (for Those Who Held Agix During The Hardfork In 2021)
+[04:16](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=256s) End-of-year Schedule And Calendar Reminders
+[10:00](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=600s) Results Of Annual End-of-year Sentiment Session Earlier Today
+[21:14](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=1274s) Recording Experiences With The Ai Governance Assistant
+[25:59](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=1559s) Ai Governance Assistant Framework's Iterations And Usage
+[33:51](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=2031s) Discussion On The Format For Sharing Experiences
+[40:57](https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi\&t=2457s) Open Discussion: Next Steps For Restructuring And Sentiment Analysis
+
+#### Town Hall Summary:
+#### Mentions
+- The last 2 Town Halls had very low attendance, so it was decided not to upload videos to Youtube.
+- Congratulations to Ayomi's team, who succeeded in the recent Deepfunding RFP ideation round with Deep Funding University Network project.  
+- Any Q4 quarterly reports still outstanding should be submitted as soon as possible via the Governance Dashboard, since the deadline has technically already passed.
+- Rejuve airdrop 4th epoch is now live - for those who held AGIX at the time of the hardfork in 2021
+
+#### End-of-year schedule: 
+- next week (16th December) will be the last Town Hall of the year.
+- All Workgroups should check that the calendar accurately reflects their meeting dates (if any) over the holidays. 
+- We'll be writing an end-of-year report, basing it on the impact statements that WGs have given in their Q4 reports. 
+- Over the holidays. people are encouraged to contribute to the open document on ideas for restructuring the program, and the planned one-to-one interviews about restructuring will be conducted by members of Gov WG, aminly with people who rarely attend Governance meetings
+- Treasury may swkip a couple of weeks over the holiday period if few payments are submitte for payment
+
+#### Annual end-of-year sentiment analysis session
+In Governance WG earlier today, we used Miro board https://miro.com/app/board/uXjVJh1rXXQ=/ to discuss the same questions as at previous year-ends - how well do we organise our repetitions, how predictable is our funding, do we gather often enough, how well do we organise our reputation-building, do we have clear principles and roadmap, and have we established a good environment. 
+In comparison with previous years, there was a difference in focus around the questions themselves; and the sentiment was more negative and showed a strong wish for change. But we didn't have time to analyse the reasons - possibly it's partly influenced by all the recent discussion of restructuring the program? 
+In this TH we did a prioritisation activity to decide which 3 questions are the most important for further discussion. The results: (how well do we organise our repetitions), Q4 (how well do we organise our reputation-building) and Q5 (do we have clear principles and roadmap).
+
+#### Collecting feedback on Gov-Dash and AI Assistant
+Guillermo will be creating a video documentary to capture insights from the experiment of using the AI assistant in the Governance Dashboard. People are invited to create a short video answering the questions in this doc https://docs.google.com/document/d/1i2dZkk8FykfVZ45ILeSRgC6zexqNW0g7d4fZVR3JPRU/edit?usp=sharing, and the videos will be edited together. People can also answer in writing in the doc itself. Deadline for contributions; Friday 12th Dec. Contributions do not necessarily have to be positive.
+
+Reminder that Thursday's governance slot will be a final report from the temporary fundraising workgroup.
+
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program restructure, sentiment analysis, AI Assistant, Governance Dashboard, EOY report 2025, Deepfunding RFP ideation
+
+
 ## Wednesday 10th December 2025
 
 ### Archives Workgroup
