@@ -4,6 +4,112 @@ description: Mon 1st Dec - Sun 7th Dec 2025
 
 # Week 49
 
+## Monday 1st December 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], UKnowZork, CallyFromAuron [**documenter**], CallyFromAuron, UKnowZork, PeterE, CollyPride, Alfred Itodele, Jeffrey Ndarake, esewilliams, Gorga Siagian, LadyTempestt, Rems
+- **Purpose:** Monthly meeting of the AI-Ethics Workgroup
+- **Working Docs:**
+  - [AI Ethics WorkGroup Github board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2)
+  - [AI Ethics Q4 2025 workgroup report](https://docs.google.com/document/d/12N-nSKCE-tfjvjqPH1q3BLIawI9V8WdOQJ_BuVqAiBo/edit?usp=sharing)
+  - [Ambassador Program restructure: collated responses](https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing)
+  - [How would YOU restructure the Ambassador Program?](https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing)
+
+#### Narrative:
+#### End Of Year Report
+The Program's end-of-year report for 2025 will be drawn from WGs’ mini Q4 impact statements; we reviewed our WG's report in the Governance dashboard.
+Colleen suggested adding a note about the  MOOC study group on AI ethics being pushed to January, and Vani agreed pending the fixes to the Governance Dashboard editor (at present, in order to make an edit, you have to re-input the entire report).
+
+
+#### Ambassador Programme Restructure
+Vani updated the group on the planned restructuring of the Ambassador Program, as discussed in the workgroup sync call earlier today. Governance WG is collecting community input via two open documents:
+One with structured prompts https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing
+One fully open for any redesign ideas (small improvements or radical proposals) https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing
+
+We discussed ideas for the restructure from the perspective of this WG.
+
+Colleen suggested increasing support for builders, possibly combining R&D and AI Sandbox/Think Tank to focus on that, and developing a structured onboarding process for new builders. 
+
+Peter pointed out that we have "builder-related" focus in several WGs - while it's good for different groups to be building, there might be overlaps that could be brought together. 
+
+Vani suggested a more quarter-by-quarter, project-based approach for WGs to define what they are building each Quarter so we can see where the overlaps are, but we wouldn't necessarily want them to merge - the diversity of approach have been useful so far. On the question of *what* we build - she suggested we should focus on using the ASI tech stack, and on building a) governance tools for decentralised communities, and b) building governance and ethical processes and methodologies, and embedding AI ethics and decentralised governance into what we build, because governance is one of our strengths. Similar to the approach LatAm are already using - they build on the ASI tech stack, then they promote and publicise what they built; "ambassadorship" means promoting use of sNET's technology.
+
+We discussed how our ethics discussions might overlap with Sandbox/Think Tank
+
+Should this workgroup's main activity continue to be supporting the BGI Nexus research project? Or are there other things we should do? If the focus of the Ambassador Program shifts more towards building, how do we ensure ethical considerations are embedded in that? and engage more directly with builders and asking "What are the ethical issues raised by what you are building?"
+Colleen would like to continue faciliating community discussions on ethics, as she has done before, but (based on dicussions with Dr Mihaela Ulieru) with more of a focus on baking in foundational principles for builders and developers, and living, dynamic moral generator functions.
+
+We could also work to inform and educate the general public on what this technology can do, and what the social and ethical implications of it are. Insights from interviewing can feed into this crystallising of ethical and social meaning of the technology - 2 way process of sense-making - the public tells us how they see the technology, and we tell them how we see it? 
+
+Vani and Esther have discussed the idea of this WG moving some of its function away from the Ambassador Program, and at least partly being more directly part of BGI -Nexus, and funded by them. It's not out of the question, and could have some advantages, but a) it would be heavily dependent on token price as to whether BGI Nexus could afford it, and b) it might affect our independence/autonomy if we were completely part of BGI Nexus? It would be good to retain some kind of ethics WG in the program.
+
+Another possibility that has been discussed in the past could be a direct funding pipeline from BGI Nexus for small ethics-related projects.
+
+
+#### Interview coding session
+The training session on interview coding that was planned for December 3rd has been rescheduled to January because Esther is very busy at the moment.
+
+
+#### BGI-25 Virtual Unconference progress: 
+Treasury has already sent out payments! Much speedier than payments for previous work funded direct from the Foundation - thanks to Esther and Peter for their work on expediting it
+
+The short videos prepared by Video WG from the BGI sessions will be uploaded to SNET's YouTube, and the full-length videos of the breakout rooms will be on the Ambassador Program YouTube channel. Esther and Vani plan to meet on hursday with Pam from the Foundation's marketing team to organise this; and Peter will be able to help with ensuring material is shared.
+
+
+#### Task updates
+We reviewed the transcription and interview tasks on the Github board:
+Several tasks, particularly transcription, are uncompleted - people elected not to complete them because, after our decision last month to calculate task prices in AGIX, the pay for the task is so much lower than it was due to low token price. Alfred shared (with humor) that his transcription almost defeated him, but guilt wouldn’t let him quit, and he will finish them later today.
+We agreed that any task not wrapped up by tomorrow will shift into Q1 2026, provided it still fits the project's planned work.
+Vani's pending transcript-checking tasks, especially for last Quarter, are still pending because there isn't the money to pay them so they aren't a priority - but she will aim to complete them as soon as possible.
+
+
+#### Budget & payments
+Payments for those who wanted to be paid immediately on task completion have already been processed. Those who opted to be paid at the end of the Quarter will be paid this Thursday (final Treasury payment day).
+
+Going into Q1, we agreed that we will continue calculating task prices in AGIX, to avoid the need for constant budget-fitting and rethinking while token price is so volatile. We acknowledged that this is not ideal, as it shifts the burden/risk of token price fluctuations to the individual rather than the Program; but with price so low at present (around $0.09) there's no alternative.
+
+
+#### Priorities and budget for Q1 2026
+There is no biudget consent process for Q1, to keep admin overheads down at a time of very low token price. So we will have the same budget cap as this Quarter, and the admin team will see how things are in January and decide how much work we can afford to do. But today, we discussed what the prioroties should be in Q1.
+
+Love noted that we should focus on clearing the transcription backlog instead of doing more interviewing, so that we have more completed interview material that can be coded and analysed. Everyone agreed that this was the most realistic direction.
+
+Alfred raised that transcription is difficult and currently undercompensated, and takes far longer than expected. We all acknowledged that payment for ttranscription needs to be higher in Q1, despite low token price.
+
+Zork suggested adjusting payments to track the token price, but Vani noted fairness concerns that if people are doing the same work, they may end up being paid differently depending on timing
+
+
+#### Kickoff session for BGI Nexus Working Groups
+Peter reminded everyone that the first BGI-Nexus working groups session will take place tomorrow, 2nd December, and is open to all. This is the start of BGI Nexus's project to create open working groups to progress their work on various aspects of AI ethics, governance and safety. There will be breakout rooms on:
+- AGI for Human Flourishing / Nurturing & Governing AGI
+- The Consciousness Revolution
+- Proactionary vs Precautionary Approaches to AGI
+
+
+
+#### Decision Items:
+- We agreed to focus on transcription in Q1 2026
+  - [**rationale**] because unfinished transcripts from previous quarters are piling up and slowing down our research workflow. Clearing the backlog means we can move to focusing on coding and analysis of the completed and transcribed interviews.
+- Incomplete Q4 transcription and transcript checking tasks will roll over into Q1. Uncompleted interview tasks - it will depend on whether we have budget to do any nrew interviewing in Q1.
+- Tasks will continue to be priced in AGIX for Q1 due to the drop in token price.
+  - [**rationale**] to avoid the constant recalculation and budget fitting that is nbeeded if we price tasks iun USD and then toekn price changes.
+- We agreed that the current price for transcription tasks is too low. While we probably cannot afford to match the price of $35 we have used in previous Quarters, it should be higher in Q1 than it is now.
+  - [**rationale**] Because transcription is a time-consuming task, and the current low price is making it hardly worth it for people to do.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani to update the end of the year report on the dashboard once it gets fixed. [**assignee**] CallyFromAuron [**due**] 16 December 2025 [**status**] in progress
+- [**action**] All members contribute to governance restructure documents. [**assignee**] all [**due**] 16 December 2025 [**status**] in progress
+- [**action**] Vani, Esther and Peter to coordinate with Pam’s team on BGI video publishing. [**assignee**] CallyFromAuron, EstherG, PeterE [**due**] 4 December 2025 [**status**] in progress
+- [**action**] WG Admin team to come to the January 2026 meeting with a suggestion on how we wil;l spend Q1 budget, and to price transcription a bit higher [**assignee**] CallyFromAuron, Sucre n Spice, LadyTempestt [**due**] 12 January 2026 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** MOOC study group, interview transcription, interviews, Q4 2025 quarterly report, transcription backlog, low token price, AGIX budgeting, Ambassador Program restructure, BGI Nexus, BGI Nexus working groups, Governance Dashboard, BGI-25 Virtual Unconference, Q1 2026 priorities, builders, builder onboarding, developer support, ASI stack, decentralized governance tooling, governance methodologies, embedding AI ethics, ambassadorship, LatAm Guild, Dr Mihaela Ulieru
+- **emotions:** collaborative, deliberative, forward-looking., wide-ranging
+
+
 ## Tuesday 2nd December 2025
 
 ### Ambassador Town Hall
