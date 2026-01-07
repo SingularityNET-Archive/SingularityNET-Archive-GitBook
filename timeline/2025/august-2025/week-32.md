@@ -4,6 +4,57 @@ description: Mon 4th Aug - Sun 10th Aug 2025
 
 # Week 32
 
+## Monday 4th August 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], Clement Umoh, CallyFromAuron [**documenter**], Sucre n Spice, LadyTempestt, PeterE, Alfred Itodele, CollyPride, advanceameyaw, barnabas, AshleyDawn, UKnowZork
+- **Purpose:** Monthly Meeting of the AI Ethics Workgroup
+- **Working Docs:**
+  - [AI Ethics Workgroup Github Board](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues)
+  - [AI Ethics WG Interview Training slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?usp=sharing)
+  - [Transcription Training AI Ethics WG slides](https://docs.google.com/presentation/d/1VhssQ6qJ2gAwMCBNJSUSLbg25Z_eci5iElm-g40OpWo/edit?usp=drivesdk)
+
+#### Narrative:
+Task Review: "In Progress" tasks on the Github board were reviewed. 
+
+Transcription tasks: these were all completed by the due date at the end of July
+
+Co-Chair (Vani):  Vani has been reorganising the folder structure on the BGI Nexus drive where interview material and transcripts are stored. Esther and Vani are discussing whether to retain or delete the original (non-anonymised) recordings - likely they will be deleted to avoid accidentally sharing them. Once all this Quarter's interviews are done, Vani will be verifying interview validity and sending the tasks for payment.
+
+WG Internal Management (Sucre n Spice): Sucre's work is progressing well for this Quarter; she has somewhat less to do than in previous Quarters due to lower token price, the Workgroup has fewer paid tasks that need processing. 
+
+WG Async Work Support (Love): Work is going as planned; no blockers. 
+
+Transcript checking (Vani): in progress; no blockers, although checking ranscripts is always quite slow work.
+
+Interviews: Deadline for Q3 interviews is 8th August. If any interview is not done by then, tbe budget for it will either be reassigned to someone else, or returned to the pot. The assignees are Clement(2x), Grandi(2x), UknowZork(2x), Rems, and Jeffrey.
+The validity criteria will be similar to previous quarters, but with a slight tweak to the thresholds for part-paying interviews that are too short.
+
+Conferences & Events: Nothing concrete yet about any potential involvement in the BGI-25 conference in October 2025 in Istanbul. Vani will meet with Esther later this month to discuss. 
+
+We discussed how to manage payments given the current low token price - see "Decisions" below.
+
+
+
+#### Decision Items:
+- AI Ethics MOOC Study Group: We decided not to proceed
+  - [**rationale**] we realized that nobody currently has time to take part in a course so we agreed to revisit the idea in our September meeting.
+  - [**effect**] affectsOnlyThisWorkgroup
+- The timing for task payments will be dependent on token price
+  - [**rationale**] The WG will maintain its financial decision of no task payout during the Quarter if the token price is below the price at which the budget was calculated (Q3 2025 was calculated at 1 AGIX = $0.30)
+
+If the token price stays below $0.30 for the whole Quarter, then at the end of the Quarter, priority fr payments will be given to "output-based" tasks done by members, rather than admin roles - so the admin team will "take the hit".
+
+#### Action Items:
+- [**action**] Vani to meet with Esther and Haley about the Workgroup's potential involvement in the BGI-25 conference in October [**assignee**] CallyFromAuron [**due**] 11 August 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** AI Ethics MOOC Study group, Interview Transcription, Interviews, Budget Management , Events, BGI-25 conference, low token price
+- **emotions:** Brief, Deliberative
+
+
 ## Wednesday 6th August 2025
 
 ### Archives Workgroup
