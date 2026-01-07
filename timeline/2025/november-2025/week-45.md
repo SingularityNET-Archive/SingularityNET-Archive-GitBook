@@ -155,6 +155,7 @@ The next WG Sync Call will address the implications of the current low token pri
 
 ## Thursday 6th November 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -203,3 +204,66 @@ We also said that for future task assignments, we could try a lottery approach, 
 #### Keywords/tags:
 - **topics covered:** voting, sentiment survey, training programs, time commitment, skills audit, trial period, mentorship, reputation, lottery, capability, timeliness, task assignment, first come first served
 - **emotions:**  Collaborative, peaceful,  Determination , Confused, multiple ideas, inconclusive
+
+### African Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Duke [**facilitator**], UKnowZork [**documenter**], Sucre n Spice, Clement Umoh, Kateri, Udoma, Omolola Lawson, martinsoki, Duke, UKnowZork
+- **Purpose:** Bi-weekly Meeting of the African guild
+- **Working Docs:**
+  - [African Guild Q4 Tasks sheet](https://docs.google.com/spreadsheets/d/1qAffHBzmBrEqEX7GIEGrZ4ywwFJ50Z8XI_MWtvSkBeE/edit?gid=1623734355#gid=1623734355)
+
+#### Narrative:
+Intro: The meeting, facilitated by Duke, opened with a clarification about the rescheduling confusion that followed the BGI Summit. Members acknowledged lapses in communication, which had caused several participants to miss the previous meeting. Duke asked whether to proceed with the small turnout or postpone until more members joined. After brief discussion, the group agreed to continue since key matters—task assignments, budgeting, and next steps required attention.
+
+
+
+Highlights / Key Discussions
+1. Task Sheet Review and Participation
+Duke shared the task sheet that had been circulated two weeks earlier, outlining all planned activities for the quarter. He noted that participation in filling it out had been minimal, though most of the contributors were present.
+As he shared his screen, the group reviewed the task list, which included initiatives like the Lean Guild Challenge, Afro-AI storytelling, Twitter Spaces, newsletters, and a physical meeting in Abuja.
+
+Members exchanged light banter as Duke pointed out that UnowZork’s name appeared across nearly every section, drawing playful comments about being the team’s “bulldozer.”
+
+2. Task Redistribution and Role Balancing
+During the discussion, Martin volunteered for additional responsibilities, while SucrenSpice suggested that UnowZork narrow down their roles to create room for others. Duke clarified that holding multiple roles wasn’t an issue as long as participation remained balanced.
+After brief adjustments, assignments were redistributed:
+1. Clement, Martin, and Kateri took on newly defined roles.
+2. UnowZork and Udoma retained two to three key tasks each.
+
+SucrenSpice reminded everyone that focusing on one core deliverable per person would ensure efficiency and accountability.
+
+3. Assignments and Deliverables
+Each member’s responsibilities were clarified as follows:
+1. Lean Guild Challenge: Team to begin work immediately and coordinate with Ese for design and publicity.
+2. Newsletters (Nov–Dec): Martin to draft and submit for review to Duke or SucrenSpice before publishing.
+3. Afro-AI Storytelling: Clement and Udoma to finalize scripts and video production concepts.
+4. Twitter Space Event: Lola to lead coordination and hosting.
+5. Physical Village Meeting (Abuja): Duke and Udoma to handle logistics and planning.
+6. Cross-Guild Content: UnowZork to collaborate with the LATAM team.
+7. Quarterly Showcase: SucrenSpice to compile a consolidated presentation of all outputs.
+
+The tone remained upbeat, with a mix of humor and productivity as the group confirmed roles and deliverables.
+
+4. Budget and Resource Efficiency
+When budget constraints surfaced, Duke encouraged minimizing costs by having the same individuals handle multiple related tasks for instance, combining infographic design and publicity duties.
+SucrenSpice clarified that Esther’s role in the Lean Guild Challenge would remain facilitative, not as an additional paid implementer.
+
+Duke emphasized that all teams should begin their assigned tasks immediately, with some outputs particularly publicity materials and newsletter drafts expected by the following week.
+
+
+
+AOB: As the conversation wound down, Duke proposed a practical step: Everyone should maintain consistent communication to prevent rescheduling confusion, balance task distribution to ensure shared workload and efficiency, prioritize low-cost, high-impact deliverables given limited funding and ensure all assignments have visible progress before the next session.
+
+
+#### Action Items:
+- [**action**] UknowZork and Kateri to begin Lean Guild Challenge coordination with Ese [**assignee**] UKnowZork, Kateri, esewilliams [**due**] 30 November 2025 [**status**] in progress
+- [**action**] Martinsoki to prepare November–December newsletters and share drafts for review [**assignee**] martinsoki [**due**] 30 November 2025 [**status**] in progress
+- [**action**] Clement and Udoma to finalize Afro-AI storytelling concept (scripts + visuals) [**assignee**] Clement Umoh, Udoma [**due**] 30 November 2025 [**status**] in progress
+- [**action**] Omolola to organize and coordinate Twitter Space event [**assignee**] Omolola Lawson [**due**] 30 November 2025 [**status**] in progress
+- [**action**] Duke and Udoma to coordinate, organize and plan logistics for Abuja physical meeting [**assignee**] Duke, Udoma [**due**] 30 November 2025 [**status**] in progress
+- [**action**] SucrenSpice to compile quarterly showcase report [**assignee**] Sucre n Spice [**due**] 30 November 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** BGI Summit, Lean Guild Challenge, Afro-AI Storytelling, Newsletter, Abuja Meeting, LATAM Collaboration, Budget Coordination
+- **emotions:** Focused, collaborative, humorous, members left with a clear sense of direction and renewed energy to execute their tasks.
