@@ -249,6 +249,7 @@ and discuss how the Archives dovetails with documentation that DF is doing itsel
 
 ## Thursday 6th February 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -302,3 +303,84 @@ So the meeting was more digressive than usual - a gentle conversation touching o
 #### Keywords/tags:
 - **topics covered:** cross chain collaboration, Ethereum, cross-chain mindset, Thursday vs Tuesday meeting style, retrospectives, open space, WG outputs, assessing outputs, work quality, adoption, Africa, Documentation, minimal documentation, knowledge graphs
 - **emotions:** Discursive, gentle, wide-ranging, low attendance, calm
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** LordKizzy [**facilitator**], Gorga Siagian [**documenter**], AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Malik, osmium, Kateri, guillermolucero
+- **Purpose:** AI TOOLSET EXHIBITION: Spotter Studio
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Third Sandbox Presentation](https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Agenda Items AI Sandbox/Think Tank](https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0)
+  - [Iteration Form](https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1)
+  - [Presentation Template](https://www.canva.com/design/DAGdA7i0tfc/eUjBwtDT1RwZoIHbAKgxxQ/edit?utm_content=DAGdA7i0tfc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
+  - [Rountable ](https://docs.google.com/document/d/1OUzMzydBfKSkZSMNKTHUg-4etyMpsWJUdQgVcGoHFv8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introductions: Lord Kizzy welcomed everyone, and Osmium gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program. 
+
+- Showcasing the second presentation of the exhibition made by Osmium
+Spotter Studio: Spotter Studio is a comprehensive platform designed to enhance content creators' workflows by providing advanced analytics, performance tracking, and content optimization tools. With Spotter Studio, users can better understand their audience’s
+engagement patterns, monetize their content effectively, and create data-driven strategies to maximize their reach and revenue.
+ https://www.canva.com/design/DAGdA7i0tfc/eUjBwtDT1RwZoIHbAKgxxQ/edit
+
+-  a) Overview of the toolset [Detailed Description and Use Cases] 
+b) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] 
+c) Demonstration [live demo or tutorial/ video walkthrough] 
+d) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]
+
+- Questions were asked and clarity was made on the tool
+
+- Glimpse of What the upcoming session of AI Roundtable in Think Tank is going to be like by Lordkizzy on this Roundtable: The AI Roundtable and Think Tank sessions are designed to create an interactive environment where participants can share diverse perspectives on artificial intelligence (AI) topics. The discussions focus on exploring ethical dilemmas, technical challenges, and the broader implications of AI on society. The goal is to foster critical thinking, collaborative ideation, and open discussions without the pressure of competition.
+
+Discussion Goals:
+
+ - To examine the societal, economic, and cultural impacts of artificial intelligence and machine learning.
+ - To debate emerging frameworks and ethical dilemmas surrounding AI technologies and their applications.
+ - To encourage innovation and critical thinking through diverse perspectives and collaborative discussions.
+
+Proposed Discussion Structures:
+
+- Panel Debate:
+    a. Two teams (proposition and opposition) engage in a structured discussion on a specific AI-related topic.  Each team consists of two members who prepare arguments and counterarguments.
+    b. This format allows for in-depth intellectual exchanges and encourages participants to explore different perspectives on the topic.
+
+- Breakout Discussions:
+    a. Larger groups are divided into smaller teams to discuss the same topic from the proposition and opposition sides.
+    b. This setup promotes open collaboration and critical thinking within smaller groups before reconvening for a collective discussion.
+
+Debate Structure and Format:
+
+ a. Panel Debate: Two teams, each consisting of two members, engage in a structured discussion where one side supports the topic and the other opposes it.
+ b. Breakout Discussions: Larger groups are divided into smaller teams, with each team representing either the proposition or the opposition side, fostering collaboration and idea development before joining a larger collective discussion.
+
+The debate structure selection will be determined through a poll that will be created on the Discord Channel.
+
+No Winners or Losers:
+The focus is on learning and understanding diverse perspectives rather than competition.The format promotes open dialogue and collaboration, providing a safe space for sharing ideas and critical thinking.It aims to deepen understanding of complex issues through collective brainstorming and discussions, enhancing learning outcomes for all participants.
+
+Knowledge-Based Graph for Documentation:
+Knowledge-based graphs will be created to capture key insights and arguments from the discussions. These graphs will help document and structure the discussions, making it easier to retrieve information and understand complex topics.The graphs will also support collaborative learning by documenting diverse perspectives and facilitating knowledge sharing among participants.
+
+Reports Shared with the Community:
+Reports will be compiled from the discussions, offering structured analysis of the key arguments and insights shared during the sessions. These reports will be accessible through a centralized platform, ensuring transparency and fostering ongoing engagement within the community for future reference.
+
+#### Decision Items:
+- We decided hold on any payment for now 
+  - [**rationale**] Because AGIX is low and it will significantly affect our budget 
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agree that the selection of the debate structure to be conducted next week is determined by the most polls shared in the discord channel.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Agree to create graphics for next week's Debate Rountable and share them on social media X SingularityNET Ambassador Program
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Santos to Document next AI Think Thank Session [**assignee**] Santos [**due**] 30 January 2025 [**status**] todo
+- [**action**] Create a poll in the discord channel to determine what format to use for the Think Thank Roundtable Session. [**assignee**] LordKizzy [**due**] 6 February 2025 [**status**] todo
+- [**action**] Reach out to the Graphics Team and Social media Team of X SNET Program Ambassadors to create graphics and publish to social media for next week's Think Thank RoundTable Session. [**assignee**] LordKizzy [**due**] 28 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI TOOLSET EXHIBITION, Spotter Studio, Think Thank RoundTable Session
+- **emotions:** welcoming, informative, interactive, educational
