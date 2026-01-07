@@ -4,6 +4,74 @@ description: Mon 3rd Nov - Sun 9th Nov 2025
 
 # Week 45
 
+## Monday 3rd November 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], lola lawson  [**documenter**], Alfred Itodele, Duke, CallyFromAuron, EstherG, LadyTempestt, CollyPride, Jeffrey Ndarake, zainab, PeterE, merry lagutina, UKnowZork, sharmilla, grandi, Rems, lola lawson
+- **Purpose:** Regular monthly meeting of the AI Ethics WG
+- **Working Docs:**
+  - [GitHub board ](https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup)
+  - [BGI nexus ideation proposal “Hearing silent voices”](https://deepfunding.ai/rfp_ideation/hearing-the-silenced-voices-ai-supported-interviewer-training-for-ai-ethics-research-with-marginalised-communities/)
+
+#### Narrative:
+#### Documentation Updates:
+October meeting documentation (by Grandi) is complete but the link was not added to GitHub issue. Vani will update the board.
+
+#### AI Ethics MOOC: 
+The idea of doing a MOOC as a group has been on the agenda for long. Last meeting, we said we would co-ordinate async and start attending one (either Coursera or FutureLearn), but it didn't happen due to people's lack of time; so we agreed to close the issue. The idea can always be revisited in future.
+
+#### Q4 2025 budget:
+Last meeting, we made some budget-fitting cuts, and agreed that the WG admin team will keep an eye on things.
+But with the token price now extremely low, adjusting the rate again no longer makes sense.
+We agreed that we will instead move to calculating task prices in AGIX.
+
+This means that the payment for tasks in real terms will be very low - but if prices do rise, then payees will benefit (as long as they have been able to hold their AGIX, rather than offramping immediately). But if people feel that the payments are now too low in real terms for it to be worth them completting tasks that are assigned to them, this is understandable.
+
+The admin team have already elected to take their Q4 payment in advance .
+Other contributors were asked via Discord last week to indicate their preferred option directly on their GitHub issue - to be paid immediately the task is completed; to wait until the end of the Quarter for payment; or to not complete the task.
+If they choose not to complete the task, we will try to leave it assigned to them and carry over to next Quarter when hopefully token price will be better - though this does depend on budget decisions for Q1 2026 and whether or not the WG is still doing the task in question.
+
+#### Outstanding tasks from earlier Quarters
+• A few older transcription tasks remain, including reassigned items from past quarters.
+• Merry is assisting with transcript checking, so that we can get this completed faster
+• All task-specific updates will be managed on the GitHub board.
+
+#### Interviewing & Transcription Tasks (Q4):
+• Interview and transcription task updates were shared (see GitHub board for details) - most people have elected to continue with tasks and are on track to meet deadlines, but a few have asked for the task to be carried over to next Quarter
+
+#### Interview coding session:
+• A short introductory session on interview coding, led by Esther, is scheduled for 3rd December. This will be a simple walkthrough on identifying themes, tags, and patterns in interview transcripts.
+
+#### “Hearing the Silenced Voices”:  BGI Nexus Ideation Round
+The WG admin team have submitted a proposal to the current BGI-Nexus ideation round, drawing on the WG's experiences of researching with the public in Africa, and focusing on AI-supported interviewer training for marginalized communities. It aims to help local interviewers engage with their own demographic groups.
+If successful, the proposal will eventually lead to the creation of an RFP for solutions to address the issue of training interviewers from marginalised communities, to which WG members will be able to submit proposals.
+
+
+
+
+#### Decision Items:
+- All Q4 tasks will now be priced in AGIX, not USD. AGIX equivalents of the agreed USD prices will be calculated at an assumed exchange rate of $0.23 (the rate that we calculated our budget at when we did a round of budget fitting in October).
+
+
+  - [**rationale**] Low Token price.
+
+- People with tasks assigned to them can decide whether to proceed with their tasks or not. They should note their preference in their GitHub Issue
+  - [**rationale**] Tne AGIX prices for tasks have been calculated according to the AGIX equivalent of the USD prices that were set at the start of the Quarter, which were based on an AGIX price of $0.23. Since price is now much lower, this may mean that payments for tasks are very low in real terms
+- Interview tasks not completed by 3the 1st October deadline are being either reassigned, given a revised deadline of 14th Nov, or moved back to to-do if the assignee prefers not to complete them at the current low payment rate.
+
+
+#### Action Items:
+- [**action**] Sucre to update GitHub links and oversee payments [**assignee**] Sucre n Spice [**due**] 14 November 2025 [**status**] todo
+- [**action**] Love to follow up with clement, Maxmillez and advanceameyaw regarding task status  [**assignee**] love  [**due**] 14 November 2025 [**status**] todo
+- [**action**] All memebers to update their GitHub issues with payment choice and completion status  [**assignee**] all [**due**] 14 November 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** task management, AI Ethics MOOC initiative, Q4 2025 budget adjustment, AGIX budgeting, low token price, AI Ethics MOOC Study group, BGI Nexus Ideation Round, Deepfunding RFP ideation, interview coding
+- **emotions:**  Collaborative, practical,  Understanding., Friendly,  forward-thinking
+
+
 ## Tuesday 4th November 2025
 
 
