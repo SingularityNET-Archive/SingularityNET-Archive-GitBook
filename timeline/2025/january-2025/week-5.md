@@ -73,6 +73,7 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -179,3 +180,48 @@ Partnership: Duke hinted that phase two of Ubuntu and AI is already in progress;
 #### Keywords/tags:
 - **topics covered:** marketing initiatives, Partnership, education, Translation, learning platform, ai, ASI, SingularityNET, awareness, Ethiopia, multilingual, Marketing Guild, video & WWG
 - **emotions:** insightful, informative, forward-thinking
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], Kateri [**documenter**], AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Malik, osmium, LordKizzy, Kateri
+- **Purpose:** AI open discussion 
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Third Sandbox Presentation](https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Agenda Items AI Sandbox/Think Tank](https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0)
+  - [Iteration Form](https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introductions: Lord Kizzy welcomed everyone a
+- Strategy guild representation selection: Strategy guild is hosting a workshop and needs representatives from AI sand, so Vasu, LordKizzy and Malik agreed to represent the workgroup.
+
+- Collaboration with education on Expert-Led workshops: Lord kizzy 
+noted that education is organizing webinar series in relation to expert-led workshops and so we want to collaborate with them. 
+Vasu noted that the Expert led is a deep drive into the project, which aim to leverage expertise into Singularitynet to educate and inspire the community.
+He went further and said the workshop will feature presentations, case studies, modules delivered by experts which will help provide participants with in depth insights into AI applications, emerging trends and innovative solutions.
+Purpose is to encourage collaboration and partnership.
+- Open discussion: 
+Ethical and regulatory issues and how researchers based AI could be going to prevent misuse? Peter stated that being centralized is being governed by single body and so could use AI for different application and sometimes it’s not properly governed which could cause harm. Ashley stated that establishing government work can help prevent the misuse of the centralized AI because the most complied to the existing regulations and such as data protection and privacy laws.
+
+Security and trust, how can decentralized AI ensure secured data, transmission, and storage to prevent data breaches? Vasu stated that some of the companies have some biases upon trust and it has become a trust issue and not a security issue.
+
+How can AI models improve without centralizing the data? Ashley stated that using secured aggregation techniques such as combining data from multiple source in which ensure confidentiality of the data. It will ensure secure data transmission and storage.
+
+Will decentralized AI become the mainstream or will centralized AI always dominate? Peter said that is a believer in decentralized AI compared to centralized. But if people are using something they don’t care about centralized vs decentralized, they just care about using it.
+
+#### Decision Items:
+- We decided hold on any payment for now 
+  - [**rationale**] Because AGIX is low and it will significantly affect our budget 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kateri to mentor Ashley [**assignee**] AshleyDawn, Kateri [**due**] 30 January 2025 [**status**] todo
+- [**action**] Gorga to document next sandbox meeting  [**assignee**] Gorga Siagian [**due**] 6 February 2025 [**status**] todo
+- [**action**] Lord kizzy, Vasu and Malik to represent us at strategy guild workshop  [**due**] 28 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Expert-led workshop, AI open discussion , AI regulation, Decentralized AI, Education Guild
+- **emotions:** welcoming, informative, interactive, educational
