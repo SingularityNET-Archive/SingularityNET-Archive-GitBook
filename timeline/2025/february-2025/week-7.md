@@ -83,6 +83,7 @@ We briefly discussed the 'DRAFT process for how to use the "New Ideas" budget' d
 - **emotions:** decisive, focused, lots of tasks assigned
 ## Thursday 13th February 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -116,3 +117,37 @@ Members collective: Duke raised the idea to bring back the members collective. W
 #### Keywords/tags:
 - **topics covered:** marketing initiatives, Collaboration, Documentation, African, research, education, translation initiatives, members collectives
 - **emotions:** forward-thinking, Educative,  Collaborative
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], Santos [**documenter**], AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Kateri, LordKizzy, AJ, CollyPride, Jocko wdd, Duke, Evelyn, osmium
+- **Purpose:** AI Roundtable Discussion/Debate:Open source and closed source AI models
+- **Working Docs:**
+  - [AI SANDBOX/ THINK-TANK#16](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/10STkqa6z7OQWmn888h02BBdKR_dVxqe9uIXDz3TcOfQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784514%26amp;usg%3DAOvVaw3GDzjtl2RRVCAciMBnlmwD&sa=D&source=docs&ust=1740362130790336&usg=AOvVaw2pIHParbdXMAogcvWmXcAE)
+  - [THINK PIECES/ FEEDBACK ](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp%253Ddialog%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784726%26amp;usg%3DAOvVaw2s9f7zvnRdmBW2rVa6lQSK&sa=D&source=docs&ust=1740362130790448&usg=AOvVaw1tPFSE0GTMqimnouU0emwC)
+  - [BLUEPRINT FOR AI SANDBOX/ THINK-TANK](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784893%26amp;usg%3DAOvVaw1XZwJAL7eqrS2u5So0og3-&sa=D&source=docs&ust=1740362130790523&usg=AOvVaw19yfA7ArsUr420sewCulZ2)
+  - [ROADMAP OF AI SANDBOX/ THINK-TANK](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785093%26amp;usg%3DAOvVaw1sQMy0FMqryaOf43syuRD-&sa=D&source=docs&ust=1740362130790604&usg=AOvVaw2fiFWCOaiphVlTiQ9Lk6Zl)
+  - [AI SANDBOX/ THINK-TANK](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785317%26amp;usg%3DAOvVaw2Ehnb2otJ4ECrwa6Mp2Iwa&sa=D&source=docs&ust=1740362130790669&usg=AOvVaw3C1etC0PltWOiJibKOmNXF)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: The meeting kicked off with lordkizzy going over the agenda of the meeting and he introduced the breaker session.
+- Think pieces: Participants were urged to share their opinions on AI related topics anonymously on the think piece.
+- AI think Tank (debate structure): The new breakout session was introduced with everyone having to choose, each either in favor of open source or closed source AI model  which lasted 20[mins]. This allowed members of each breakout to discuss their points and also pick their representative.
+- AI Roundtable Discussion: We debated Open source vs Closed source AI Models with each AI model having its pros and cons. We narrowed our debate down to these key points;
+- Innovation: We discussed which AI model drives more innovation with representatives giving their beliefs as well as their reasons.
+- Security: The representatives from each side gave their views on what model seems to be more secure.
+-Economic and Ethical Implications: Each representative stated their thoughts on the implications of each AI model on ethical and economic aspects with both representatives giving their reasons.
+-Real-World Examples: Real world examples were used as well where representatives stated not just the success stories but also the failures as well.
+-Future of Technology: The future of technology was also debated on with each representative trying to prove which could lead the future of technology
+
+
+#### Action Items:
+- [**action**] LordKizzy is to contact Malik about presenting on the next AI sandbox meeting [**due**] 20 February 2025 [**status**] todo
+- [**action**] Malik is to present the next AI tool exhibition  [**due**] 20 February 2025 [**status**] todo
+- [**action**]  Malik  [due] 20th February 2025[status] to do
+- [action]  Advanceameyaw is to document the  next meeting [**due**] 20 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Open source, Closed source, AI Models
+- **emotions:** Interactive, Educative, Productive, Welcoming
