@@ -4,6 +4,78 @@ description: Mon 6th Oct - Sun 12th Oct 2025
 
 # Week 41
 
+## Monday 6th October 2025
+
+### AI Ethics WG
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], Grandi, CallyFromAuron [**documenter**], Gorga Siagian, CallyFromAuron, UKnowZork, AshleyDawn, barnabas, CollyPride, Alfred Itodele, LadyTempestt, Sucre n Spice, EstherG, Omolola, AJ, Mariia Lagutina
+- **Purpose:** Monthly meeting of the AI Ethics workgroup
+- **Working Docs:**
+
+#### Narrative:
+#### AI Ethics MOOC 
+As agreed, we revisited the idea of joining a MOOC and meeting to discuss. Some members (Gorga, Alfred, MaxMilez, Guillermo, Vani) are still interested despite pressure of other work. FutureLearn (3-week course) and Coursera (4 weeks) were agreed on the best options as they are relatively short. Final decision will be made async, and we'll aim to start soon and review progress during the November meeting.
+
+#### BGI-25
+Several workgroups (R&D, LatAm, Archives, ThinkTank, and (tbc) African Guild) will be presenting sessions via Zoom on Day 3 of the conference (23rd October), which is an "Unconference" (a more paricipatory, less planned event where anyone can present a session).  AI Ethics WG is taking a co-ordinating role for this, and will also be presenting a session to showcase our research work. We assigned Sucre as presenter, Love as facilitator, and Lola as documenter for our session. 
+
+Esther and Vani are preparing web text connecting the BGI 25 Unconference to the ambassador programs. A draft will be ready by tomorrow or soon after, and final breakout room timings will be added once confirmed.
+
+We discussed what should be said in the session. Group members highlighted the cultural advantages of interviewer–interviewee alignment, noting that shared backgrounds especially within West African contexts often yield richer and more authentic responses. Members raised concerns about interviewee diversity and the risk of over-centralizing certain perspectives within the research. The group also considered the challenges and benefits of conducting interviews in non-English languages, recognizing the potential for deeper engagement and more nuanced insights; and mentionbed the importance of how we train interviewers and transcribers
+
+WG members were invited to contribute async any further personal insights on interviews and transcription processes by the Wednesday, and these will be incorporated ino the presentation. There will be a final planning meeting this Wednesday at 9 a.m. UTC to finalize breakout content.
+
+This work is funded directly by the Foundation, not from the WG budget.
+
+#### Interview coding
+Merry (Mariia), an intern supporting Esther with qualitative research, introduced herself. She has been coding the WG's interviews and has so far completed 4. She will be taking part in the group's session at the BGI-25 virtual unconference to present early findings.
+
+#### Budget fitting
+The Q4 2025 budget, initially approved at an exchange rate of $0.28, was reviewed due to volatile and lower actual rates. 
+Budget items cancelled: community engagement work (other than BGI-25); coding interviews. 
+Budget items reduced: 11 transcripts rather than the planned 14.
+These adjustments bring the equivalent rate to a safer $0.22. The workgroup agreed to maintain a cautious approach, with further reviews planned for November based on exchange rate developments.
+
+#### Q4 2025 tasks
+Interviewing and transcription tasks were assigned. We noted that Jeffrey completed a bonus interview in the previous quarter; his payment will be processed in the current one. We also assigned meeting documentation tasks for this Quarter's meetings. Vani will add all tasks to the github board in the coming week.
+
+#### Payment structure for short interviews
+Reminder that interviewers should aim for 30 mins or more of actual interview material (i.e. not counting introductions, going through the consent form, etc). If they don't reach this, the payment structure is
+    25 mins and upward - full pay, $25
+    20-25 mins: $15
+    10-20 mins: $10
+    Under 10 mins: $0
+
+We also confirmed that Vani will offer support via DM to first-time interviewers if they need it.
+      
+
+
+
+#### Decision Items:
+- Budget adjustment - the group agreed to remove community engagement and coding activities due to budget constraints.
+The number of transcription tasks was reduced from 14 to 11.
+  - [**rationale**] due to fall in token price 
+  - [**effect**] affectsOnlyThisWorkgroup
+- 4 interviews is budgeted for this quarter - one already completed by Jeffrey. To assign the other 3, the admin team prioritized those who haven't done interviewing before. Deadline: 31st October. 
+  - [**effect**] affectsOnlyThisWorkgroup
+- 11 transcription tasks were assigned. All recordings will be anonymised before giving to a transcriber. Deadline: 14th November. Only transcribers with a record of high-quality work will be assigned tasks this time. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vani will create relevant GitHub issues for Q4 tasks. [**assignee**] CallyFromAuron [**due**] 13 October 2025 [**status**] todo
+- [**action**] All participants: Contribute to the spreadsheet with insights for the BGI 25 breakout room by Wednesday. [**assignee**] All Participants [**due**] 8 October 2025 [**status**] todo
+- [**action**] Presenter, Facilitator, and Documenter for the BGI-25 session [**assignee**] Sucre n Spice, Omolola, LadyTempestt [**due**] 23 October 2025 [**status**] todo
+- [**action**] Admin team to monitor and review the budget adjustments, with potential revisions in November.
+ [**assignee**] CallyFromAuron, Sucre n Spice, LadyTempestt [**due**] 3 November 2025 [**status**] todo
+- [**action**] Esther and Vani to coordinate and develop promotional materials for the BGI 25 Unconference  [**assignee**] EstherG, CallyFromAuron [**due**] 8 October 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** outreach and promotion plan for BGI 25, AI Ethics MOOC Study group, interviewing, transcription, work standards, BGI-25 Virtual Unconference, interview coding, Q4 2025 budget, Budget fitting, qualitative research
+- **emotions:**  Collaborative, Interactive, Solution oriented, Discursive
+
+
 ## Thursday 9th October 2025
 
 
