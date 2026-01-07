@@ -6,6 +6,7 @@ description: Mon 6th Oct - Sun 12th Oct 2025
 
 ## Thursday 9th October 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -105,3 +106,49 @@ One ethical issue was raised about the use of the AI Assistant in the Dashboard:
 #### Keywords/tags:
 - **topics covered:** accountability, Governance Dashboard, AI Assistant, ethics of chatbots, Participation in governance, quorum, 80/20% rule, Issue tracking, WG responses to objections, Small group of "objectors, exhaustion, improved reporting, quarterly process is too fast, consent decisionmaking, decision-making methodologies, majority vote decisionmaking
 - **emotions:** slow, quiet, Only a few of those present spoke, incisive, thoughtful
+
+### African Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Duke [**facilitator**], UKnowZork [**documenter**], Sucre n Spice, esewilliams, Alfred Itodele, CJFrankie, Jeffrey Ndarake, Omolola Lawson, Duke, UKnowZork
+- **Purpose:** Bi-weekly Meetings of the African Guild
+- **Working Docs:**
+  - [Lean Guild Challenge](https://docs.google.com/forms/d/e/1FAIpQLSd23hAPS-XSy3z-V0mAuI8p_PywGAGbaC_vKVUMz02KKYYdYA/viewform)
+
+#### Narrative:
+The meeting began with Duke noting that a Google Form had been shared earlier but had received no engagement. He suggested that everyone fill out the form live during the call to save time and help define the guild’s direction for the quarter. Duke emphasized that without input from team members, delegation and planning could not progress. He then asked SucrenSpice to share the form so participants could complete it in real time rather than postponing it again.
+
+SucrenSpice expressed frustration that no one besides her had completed the form, calling it disappointing given the enthusiasm from the previous meeting. Duke acknowledged her concern and mentioned his network limitations, agreeing that completing the form together would be more efficient. Once SucrenSpice shared the link, Duke encouraged everyone to take five minutes to fill it out so they could gather data to guide their ideas.
+
+As participants worked on the form, ESE requested clarification about the “Lean Guild Challenge,” noting that she hadn’t fully understood it before. Duke explained that it was a smaller-scale version of last year’s creative contests, designed to generate engagement and publicity with limited funds. He described it as a community-driven challenge open to creative proposals, where members would submit, vote, and reward winning ideas. SucrenSpice added that the entire guild would then collaborate to execute the chosen idea, distributing roles accordingly.
+
+After collecting some responses, SucrenSpice read out the submitted ideas. Suggestions included:
+
+Gartic Games – A drawing and guessing game inspired by SingularityNET themes.
+
+AI Writing Challenge – A social media challenge focused on AI and Singularity Africa, with engagement-based rewards.
+
+Digital Handshake & Story Map – Members pin their locations on a shared map and write one sentence about their connection to Africa (“My Africa is…”).
+
+Problem and Possibility Seed Bank – Members share one local problem and one potential solution, creating a pool of future project ideas.
+
+Six-Word SNET Story – Participants summarize their vision for Africa or SingularityNET in six words, with recognition for the most creative entries.
+
+SNET Impact Challenge (#StickTheChange) – A social media movement where participants showcase how they’re using AI or community action to make a difference in Africa. The campaign would include regional leaderboards, weekly highlights, and rewards for impactful contributions.
+
+As the guild reviewed the ideas, participants discussed creating short labels and descriptions to simplify the voting process. A quick poll was conducted, and ESE’s Impact Challenge received six votes, emerging as the winning concept. Duke asked ESE to document the idea clearly and share it soon so execution could begin, noting the short two-month quarter and limited meeting schedule. ESE agreed to draft the document, initially proposing next week, but SucrenSpice and Duke encouraged an earlier deadline—preferably Monday. ESE later confirmed she would share a preliminary version soon, even if brief.
+
+Toward the end of the meeting, SucrenSpice proposed running multiple projects concurrently—such as Twitter Spaces, Afro-storytelling video shorts, and other initiatives—to avoid delays and ensure all quarterly goals were met. Duke agreed, emphasizing that future meetings would focus on review and execution rather than ideation. He encouraged members to select specific roles or tasks they were interested in, stressing the importance of delegation moving forward.
+
+To streamline coordination, SucrenSpice offered to create a shared project tracker listing ongoing and upcoming initiatives, including Talking Drum, physical meetups, newsletters, X Spaces, and videos, allowing members to indicate where they could contribute. Duke endorsed the idea, thanked everyone for their input, and reminded the team that the quarter was already underway—prompt action was critical.
+
+The meeting concluded on a cooperative and motivated note, with Duke expressing appreciation to all present members for their participation and commitment.
+
+
+#### Action Items:
+- [**action**] Ese to draft a detailed document outlining the SNET Impact Challenge [**assignee**] esewilliams [**due**] 22 October 2025 [**status**] in progress
+- [**action**] SucrenSpice to create a shared project tracker listing all ongoing and upcoming projects (Talking Drum, physical meetups, newsletters, X Spaces, Afro-storytelling videos) and share the tracker with guild members for them to indicate preferred roles or contributions. [**assignee**] Sucre n Spice [**due**] 16 October 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Lean Guild Challenge, Content Initiatives, Impact challenge
+- **emotions:**  informative,  insightful,  Collaborative,  forward-looking, Friendly
