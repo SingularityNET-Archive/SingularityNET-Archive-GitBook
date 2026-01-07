@@ -61,3 +61,35 @@ Decision-Making Framework and Work Group Participation: We should find a way in 
 #### Keywords/tags:
 - **topics covered:** Consent Process, Consent dashboard, Governance Dashboard, recurring objections, reputation weighting, contribution, outputs vs outcomes, work quality, Issue tracking
 - **emotions:**  forward-looking, thoughtful
+## Friday 4th July 2025
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** esewilliams [**facilitator**], UKnowZork [**documenter**], advanceameyaw, Duke, Jeffrey Ndarake, Alfred Itodele, esewilliams, UKnowZork
+- **Purpose:** Bi-weekly meeting of the African guild 
+- **Working Docs:**
+
+#### Narrative:
+Intro: The session opened with Ese expressing concern over the low attendance in recent guild meetings. She pointed out that not only have fewer people been joining the calls, but active participation during the meetings has also declined. She asked if anyone present had attended the last session facilitated by Clement. Advance briefly recapped what was discussed in that session, and Jeffery chimed in, stating that while he had joined the call, he didn’t catch enough context to contribute meaningfully or recall detailed discussions.
+
+Highlights/Upcoming Events: Shifting the discussion toward the root of the issue, Ese asked the group how they believed participation could be improved. In response, Advance suggested that the decline might be due to financial challenges particularly referencing how the recent token price drop had affected multiple workgroups and guilds, potentially demotivating members. Building on this, UknowZork pointed out that the last two or three sessions facilitated by Duke had also seen very poor attendance, and this trend could be tied to the current bi-weekly meeting schedule, which, in her view, had dampened the spirit of the guild. She proposed returning to a weekly meeting structure to bring back engagement.
+
+Advance supported this idea, agreeing that the bi-weekly format had reduced both effectiveness and enthusiasm among members. At this point, Ese posed a key question: “Given our current budget and the drop in token value, can we realistically support weekly meetings?” UknowZork responded by suggesting a partial shift toward volunteerism, especially for tasks like facilitation. She proposed using these roles as mentorship opportunities where members could learn how to lead meetings, even if the tasks aren’t currently funded.
+
+While the proposal had merit, Advance expressed hesitation, indicating that while volunteerism is a thoughtful approach, it might not be sustainable at this time. Jeffery added another layer of concern, noting that it would be unfair to expect new contributors who haven’t previously benefited from paid opportunities to volunteer, especially when others in the past had earned during more favorable conditions.
+
+Recognizing all these perspectives, Ese cautioned that while the suggestions were valuable, any changes must be made carefully. She reflected on a time when the African Guild had consistently high participation and vibrant energy, but acknowledged that the token price crash played a major role in shifting that dynamic. To move forward, Advance and Jeffery both recommended reaching out directly to inactive guild members to understand their needs and encourage engagement. They also discussed the idea of sharing regular reminders in the guild’s Discord channel to help boost meeting turnout.
+
+
+AOB: Before wrapping up, Advance threw in a refreshing idea: “Why don’t we make the meetings more fun maybe add something cultural or playful to keep things lively?” Like little activities that remind us of home and bring back the sense of community. Ese loved the suggestion and encouraged everyone to think about creative ways we can make the sessions get lively and get more participation. The call ended on a hopeful note, with Advance offering to personally reach out to some guild members on Discord to help reignite that sense of connection.
+
+
+
+#### Action Items:
+- [**action**] Advance and Jeffery to reach out to other guild members and ask about their well-being
+ [**assignee**] advanceameyaw, Jeffrey Ndarake [**due**] 11 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Token price, Meeting attendance, Facilitation, Volunteerism, African guild, Budget
+- **emotions:** welcoming, progressive, relaxed, collaborative
