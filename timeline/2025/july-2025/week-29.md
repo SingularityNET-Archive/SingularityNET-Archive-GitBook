@@ -40,3 +40,29 @@ Before wrapping up, there were a few last questions: Should we focus only on dee
 #### Keywords/tags:
 - **topics covered:** DeepFunding, Proposal, service, Budget, task, Proposal eligibility, Governance Dashboard, Ambassador program
 - **emotions:** detailed, collaborative, educative, fun, insightful, informative
+## Friday 18th July 2025
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Clement Umoh [**facilitator**], UKnowZork [**documenter**], Clement Umoh, UKnowZork, Jeffrey Ndarake, advanceameyaw, Sucre n Spice, Alfred Itodele, CJFrankie
+- **Purpose:** Bi-weekly meeting of the African guild 
+- **Working Docs:**
+
+#### Narrative:
+Intro: The meeting began with Clement addressing the challenges posed by current budget constraints, which have made it difficult to sustain weekly sessions. Despite this, he highlighted the importance of staying committed to impactful initiatives, particularly the Afro Multilingual Drive Initiative a quarterly program dedicated to advancing AI literacy across African languages.
+
+Highlights / Upcoming events
+Afro Multilingual Drive Initiative (September Edition)
+The focus for this quarter will be on protecting digital money, using a fictional story set in a Nairobi marketplace. The scenario involves a jewelry seller who uses mobile money (tentatively named M-Pesa) and is protected from fraud by an AI system called SingularityNet. This narrative will transition into an AI learning session on Fintech, cybersecurity, and financial inclusion within the African context. Clement noted that the previous editions have produced videos and storytelling scripts in Swahili, Hausa, and French. Clement invited participants, especially those involved in Fintech, cybersecurity, and finance, to share tools, concepts, or projects suitable for the initiative. He emphasized the inclusion of Afro-owned innovations and culturally relevant financial tools. While he expressed openness to prototyping new ideas and collaborating with R&D teams, Clement noted that current financial constraints may limit the scope of implementation. The event will be held on a Zoom call, and there's openness to increasing the reach and size of the audience.
+
+Advance was invited to revisit and possibly present a previous project from Ethiopia involving AI and finance. He agreed to coordinate with Sam for a potential feature in the upcoming edition. Clement will follow up via DM to finalize details.
+
+
+AOB: Jeffrey inquired about volunteer opportunities for the September event. Clement responded that volunteer coordination will be discussed in a dedicated planning session later. Clement concluded the meeting by thanking attendees and encouraging continued idea submissions via DM.
+
+
+
+#### Keywords/tags:
+- **topics covered:** Digital Finance, Afro Multilingual Drive, AI Literacy, Cybersecurity, Fintech, Budget constraints
+- **emotions:**  insightful, welcoming, progressive, relaxed, collaborative
