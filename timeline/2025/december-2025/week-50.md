@@ -115,3 +115,40 @@ However, ethically speaking, we don't necessarily want to assume what the connec
 #### Keywords/tags:
 - **topics covered:** AI ethics, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Open source, structured vs unstructured data, semantic analysis, data analysis vs graph analysis, community data verification, contribution, Graph RAG, decision tracking, new Archives dashboard, SQL, generic tooling, Consent, retrospective consent, Q4 2025 quarterly report, Governance Dashboard, rational privacy, Midnight, data ingestion, multiple sources, JSON, JSON data into graph data, pre-query with SQL, human in the loop
 - **emotions:** interesting, Discursive, didactic, ethics-led
+## Thursday 11th December 2025
+
+### African Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Sucre n Spice [**facilitator**], UKnowZork [**documenter**], Sucre n Spice, UKnowZork, Kateri, AndrewBen, Kevin Frey, Alfred Itodele
+- **Purpose:** Bi-weekly Meeting of the African Guild
+- **Working Docs:**
+  - [SNET African Guild Q4 initiative](https://docs.google.com/presentation/u/0/d/1oV-pOLn2NyLvAcdBHnscmTu-E1B-a1Fdm3VNY5BlN4U/mobilepresent?pli=1&slide=id.g3afa51893dd_0_21)
+
+#### Narrative:
+Intro: The meeting opened with SucrenSpice welcoming everyone and explained that the session was meant to reflect on the quarter’s activities and showcase what the African Guild achieved despite funding and logistical constraints. SucrenSpice briefly restated the guild’s mission: advancing decentralized AI adoption, education, and innovation across Africa. The focus then shifted to reviewing the initiatives planned for Q4 and assessing what was completed.
+                       
+
+Highlights / Upcoming events
+The SNET Impact challenge was highlighted as one of the quarter’s biggest successes. Kateri shared that her role involved background support, while Ese worked directly with participants. The challenge received about 12 submissions showcasing how Africans are using AI, generated strong social media engagement, and attracted new members to SingularityNet. We agreed that the quality of submissions, especially those focused on education, was encouraging. 
+
+The Talking Drum Dispatch was discussed next. Martinsoki led the November edition, which covered AI innovations across Africa, SingularityNet updates, AI governance training in Kenya, and an Angolan logistics company using AI. The December edition is currently in progress, and members were encouraged to read and engage with the shared dispatch. Next we discussed the virtual event hosted and held in Abuja. 
+The village meeting was described as a standout event. Although most people  couldn’t attend due to distance, reports and videos showed strong impact, with around 45 new participants introduced to SingularityNet. The culturally grounded, in-person format was widely praised as one of the guild’s best events so far.
+
+Updates were also given on ongoing and postponed initiatives. The community Twitter/X Space is still in progress due to login issues and may take place soon or move into the new year. Cross-guild collaboration with the LATAM guild and the planned AI video content were moved to the next quarter because of funding and availability challenges.
+
+Looking ahead:
+We discussed plans for 2026, focusing on sustaining and scaling successful initiatives, expanding the reach of the Talking Drum Dispatch, growing the guild’s presence in academic institutions and tech communities, and organizing more workshops to to simplify decentralized AI and make SingularityNet more accessible across Africa.
+
+
+AOB: 
+UknowZork asked about the short AI videos that were planned for the quarter and SucrenSpice confirmed that the team assigned to the task had been unavailable and that the initiative would be moved to Q1, with funds still intact. With no further questions, the meeting was wrapped up.
+
+
+#### Action Items:
+- [**action**] Martinsoki to continue engagement with Talking Drum Dispatch and promote readership [**assignee**] martinsoki [**due**] 19 December 2025 [**status**] in progress
+- [**action**] Roll over incomplete initiatives (AI videos, cross-guild collaboration, X Space) to Q1 2026 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Lingo Challenge, Talking Drum Dispatch, Village Meeting, Decentralized AI, SingularityNet, Community Outreach, Q4 2025 showcase
+- **emotions:** interesting, insightful, welcoming, progressive, relaxed, Reflective, appreciative, realistic, collaborative, forward-looking
