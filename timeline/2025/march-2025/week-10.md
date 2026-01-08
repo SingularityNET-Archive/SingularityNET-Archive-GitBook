@@ -211,6 +211,7 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 - **emotions:** interesting, wide-ranging, well-attended, slightly combative
 ## Thursday 6th March 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -259,3 +260,48 @@ Retrospective on ETHiopia Pop Up City Conference And Hackathon:
 #### Keywords/tags:
 - **topics covered:** ETHiopia event, Hackathon, sponsorship, AI marketplace, Q1 2025 quarterly report, Africa, awareness of sNET in Africa, Retrospective,  events attendance, Partnership, virtual meetups, sNET tools, making SingularityNET tools more accessible
 - **emotions:** Accountability, Organised,  informative, Discursive, Educative
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** LordKizzy [**facilitator**], Gorga Siagian [**documenter**], LordKizzy, AshleyDawn, Gorga Siagian, advanceameyaw, Santos, CollyPride, martinsoki, PeterE, Maximus, Kateri, osmium, Alfred Itodele
+- **Purpose:** AI Roundtable Discussion/Debate:Open source and closed source AI models 
+- **Working Docs:**
+  - [AI SANDBOX/THINK-TANK Session #19](https://docs.google.com/document/d/1vUW3rIxBKlLqHID-vleANpIVo3foXXD5FGanxNaAJbU/edit?tab=t.0)
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [Approval Form to Join Organisation(s) and approval for the Wormhole Key](https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true)
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: The meeting kicked off with lordkizzy going over the agenda of the meeting and he introduced the breaker session. 
+
+- Showing the Nunet Application Onboarding Form, Approval Form to Join Organisation(s), and approval for the Wormhole Key and how to install the Nunet Application.
+- Discussed for Retrospective on the previous Project Showcase session, announcement on the continuation of the Project Showcase session with Nunet session led by the Nunet team- Sam, Jeniffer, Bube [10min]
+Any Doubts or Queries about the NuNet setup. Folks can ask through the Think Pieces Forms. We have explained the installation process and requirements. Installation requires a compatible operating system such as Windows, Mac, or Linux. Users must provide their email and location for network purposes during the installation. Technical expertise is assessed on a scale of one to five to tailor user support and guidance.
+- Budget Discussion  and ideation led by Lord Kizzy and Budget Allocation for Q2.Budget cuts announced for Q2, reducing allocations by 45%. Budget cuts for Q2 will result in a 45% reduction in allocations across various categories.All tasks within the AI Sandbox will experience budget cuts, including administrative and project management expenses. AI exhibition rewards reduced to $25 per session. Project showcase rewards reduced to $40 per session. The decision aims to ensure financial sustainability and manage resources effectively amidst current economic challenges.
+
+
+
+    
+
+- Clarified that Q1 2025 budget remains unchanged, reductions apply to Q2. Q1 budget remains unchanged, ensuring all allocated funds for this quarter are intact. Reductions in budget allocations will take effect starting Q2, impacting various project areas. Explained delay in paying out tasks due to token price. The payout for tasks is currently delayed due to the low token price. The team is unable to distribute rewards until the token price increases.Once the token price rises, the rewards will be processed and distributed to members.
+- Discussed roster for documenting and facilitating in Q2. The roster for documenting and facilitating in Q2 will include:Members must attend three consecutive meetings or five within the quarter to become eligible for task assignments.Documentation tasks will be open to all members, with mentorship available for those needing guidance. The project showcase will require completed projects under the Singularity Net ecosystem for presentation.
+
+#### Decision Items:
+- Next week's meeting will focus on recognizing and discussing Nunet application challenges and issues. 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Members agreed that the budget allocation for Q2 will be reduced by 45% from the previous budget and that the payment for Q1 will be paid if the $AGIX token price rises.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kateri Documenting for the next session [**assignee**] Kateri [**due**] 13 March 2025 [**status**] todo
+- [**action**] Lord Kizzy Share the template for AI project showcase with Alfred [**assignee**] LordKizzy [**due**] 13 March 2025 [**status**] todo
+- [**action**] Lord Kizzy Pin  the Nunet Application onboarding form on the WG's Discord channel [**assignee**] LordKizzy [**due**] 13 March 2025 [**status**] todo
+- [**action**] Kateri create a documenting and facilitation roster for Q2 2025 [**assignee**] Kateri [**due**] 27 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation, Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, low token price, Documentation Roster
+- **emotions:** Welcoming, Interactive, Informative, Educative
