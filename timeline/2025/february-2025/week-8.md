@@ -132,6 +132,7 @@ and the "Submit your WG budgets" will be posted together with links to the Budge
 - **emotions:** gloomy, decisive, Organised
 ## Thursday 20th February 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -196,3 +197,47 @@ We checked the new sheet for Q2 which LordKizzy has added to the Budget Planner,
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Reserves, consent process, Process Guild, Budget caps, anonymity, R&D guild, governance dashboard, safe space
 - **emotions:** decisive, Organised, Interactive, thoughtful
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], advanceameyaw [**documenter**], LordKizzy, Gorga, Kateri, martinsoki, Effiom, Clement Umoh, Santos, Osmium, advanceameyaw
+- **Purpose:** AI TOOLSET EXHIBITION
+
+- **Media link:** [Link](Platform link: https://audioread.com/   Video demo: https://www.youtube.com/watch?v=MVcS_jpdJPk)
+- **Working Docs:**
+  - [Blueprint for AI sandbox/Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [ Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda Items AI Sandbox/Think Tank](https://www.canva.com/design/DAGfnJj49tM/8VsHIyWkNxl9Fqv0gzxdFA/edit)
+  - [ Iteration Form](https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introductions:The call started with a welcoming conversation and  retrospection on AI toolset exhibition, budget and AGIX performance were mentioned.
+- Kizzy drew our attention to the fact that we have to start looking into possible adoption and  testing of some the tools that have been presented, eg.,  erazer.io, podcast.ai and LM notetaker.
+- Osmium walked us through the overview and importance of  AI toolset exhibition. 
+- The meeting continued with Gorga finally presenting on  Audioread.
+ 
+
+
+- -Overview of the toolset: Audioread converts articles, PDFs, text, and emails into audio, allowing you to listen via your favorite podcast app or browser for more efficient content.
+
+- Architecture and Technology Stack: Audioread's system includes a Chrome extension and mobile apps for access, AI-powered TTS for text and PDF conversion, and API integrations for seamless podcast syncing and sharing.
+
+-Outcome Report or Results and Impact:Audioread boosts productivity with 90% user satisfaction, fast 10-15s conversions, 98% accuracy, helping professionals and students save time with audio content.
+-Presentation was concluded with questions and comments concerning opensource projects within the context of  the tool presented.
+
+- - Kizzy highlighted on our next session plan, AI Sandbox & Project Showcase presentation by the NuNet core team on onboarding a device to NuNet.
+- Some concerns  and challenges concerning our breakout panel debate session were raised, and we discussed on how we can  do better  next time.
+
+#### Decision Items:
+- We decided to try the breakout session for the panel debate again next time to measure its impact
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] advanceameyaw to document meeting  [**assignee**] advanceameyaw [**due**] 27 February 2025 [**status**] done
+- [**action**] publishing the roundtable session video and retrospective sessions   [**assignee**] LordKizzy, osmium [**due**] 13 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Audioread, architecture and technology, nunet, breakout panel debate, productivity.
+- **emotions:** Informative, interactive, educational
