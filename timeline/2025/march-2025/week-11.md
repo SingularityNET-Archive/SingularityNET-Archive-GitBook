@@ -3,3 +3,39 @@ description: Mon 10th Mar - Sun 16th Mar 2025
 ---
 
 # Week 11
+
+## Thursday 13th March 2025
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], Kateri [**documenter**], LordKizzy, AshleyDawn, Gorga Siagian, Santos, CollyPride, PeterE, Maximus, Kateri, TheFreysDeFi
+- **Purpose:** Feedback on Nunet application 
+- **Working Docs:**
+  - [AI SANDBOX/THINK-TANK Session #19](https://docs.google.com/document/d/1vUW3rIxBKlLqHID-vleANpIVo3foXXD5FGanxNaAJbU/edit?tab=t.0)
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [Approval Form to Join Organisation(s) and approval for the Wormhole Key](https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true)
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: The meeting kicked off with lordkizzy  asking for feedback on onboarding the Nunet applied on our devices and the onboarding form.
+
+- Live Testing & Feedback: Lordkizzy asked members about their experiences in onboarding the device and encouraged us all to test the features and give feedback. He also reminded to fill Nunet onboarding form.
+Members that didn’t onboard the application were encouraged to onboard the appliance onto their devices before the next meeting. 
+Lord kizzy announced that every member that has any difficulty should ask questions on the channel.
+- Next Session: Lordkizzy noted that the next meeting will include Sam and the Nunet team, and also noted that additional features will be explored, and live demonstrations will take place.
+- Documenting next meeting: Santos is to document this next meeting summary.
+
+
+#### Action Items:
+- [**action**] Santos to document the next meeting summary [**assignee**] Santos [**due**] 20 March 2025 [**status**] todo
+- [**action**] Members that were given feedback should follow up and apply it [**assignee**] Santos, maximus, Gorga Siagian, AshleyDawn [**due**] 13 March 2025 [**status**] todo
+- [**action**] Lord Kizzy to reach out Santos to confirm his availability  [**assignee**] LordKizzy [**due**] 13 March 2025 [**status**] todo
+- [**action**] Members must onboard the appliance before the next session. [**assignee**] Member [**due**] 20 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, Nunet live testing
+- **emotions:** Welcoming, Interactive, Informative, Educative
