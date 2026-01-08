@@ -111,6 +111,7 @@ Writers
 - **emotions:** well-attended, inconclusive, no decisions, in-depth, slow
 ## Thursday 20th March 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -181,6 +182,43 @@ Writers
 #### Keywords/tags:
 - **topics covered:** consent process, Translation WG, objections, consent process timeline, timeline, consent form
 - **emotions:** slightly prickly, inconclusive, circular, slow
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], Santos [**documenter**], Bube amadi, Duke, advanceameyaw, PeterE, martinsoki, AJ, Gorga Siagian, Kateri, osmium, CallyFromAuron, Jeffrey Ndarake, UKnowZork, Alfred Itodele
+- **Purpose:** Project Showcase; introducing the new NuNet appliance, presentation of the Project Showcase template, addressing Q2 2025 budget concerns
+
+- **Working Docs:**
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit)
+  - [ Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit)
+  - [Consent form, Q2 2025 budgets (Responses)](https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit)
+  - [AI SANDBOX/THINK-TANK #21](https://docs.google.com/document/d/1qHxbS-pkfdJ11MrXW4tMzo3hPjvhnrkkIKnIECYZQxQ/edit)
+  - [Project Showcase Template](https://www.canva.com/design/DAGhvDBgJXM/OjKNGRbXuaBR9kxHfZ6G5g/edit?utm_content=DAGhvDBgJXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+#### In this meeting we discussed:
+- Meeting Coordination and introduction: Lordkizzy welcomed attendees, outlined the agenda, and emphasized the importance of community feedback in the Nunet appliance's development.
+
+- Project Showcase from NuNet: Following previous complaints regarding setting up the NuNet appliance, Vasu Madaan assured participants that most issues had been resolved in the upgraded appliance, which Bube Amadi would present in a concise format. Bube Amadi provided detailed updates on the appliance, highlighting significant improvements such as reduced installation time and enhanced user experience. The transition from multipass to VirtualBox was explained, with Bube demonstrating how to download and install VirtualBox, including guidance for different machine architectures. She showcased the appliance running in VirtualBox and discussed the simplified boot process, system resource adjustments, and the management of the DMS, encouraging participants to test the system and provide feedback.The presentation also covered the process for generating decentralized identities (DIDs) through wormhole code submission, with Bube explaining the approval process and the importance of keeping the terminal open during this time. She noted that users would receive notifications for updates without needing to uninstall previous versions, although those who used multipass would need to reinstall. Lordkizzy sought clarification on containerization and the public launch timeline, with Bube confirming that the appliance release had been delayed until the following day.
+
+- AI Sandbox Release Update: Bube Amadi confirmed that the appliance will be available for download tomorrow, addressing previous issues related to RAM allocation and multi-pass functionality. Lordkizzy shared the form link for those who have not filled it out and noted that the installation process using VirtualBox should now be smoother. She also mentioned that connectivity issues experienced by Goga have been resolved.
+
+- The structure and purpose of the Project Showcase template: Lordkizzy briefed the attendees on the project showcase, which includes sections for project introduction, architecture, use cases, and challenges. This initiative is designed to foster collaboration and knowledge sharing within the community.
+
+- Budget Objections and Clarifications: In response to objections about the Q2 2025 budget, Lordkizzy clarified that the task allocations are for different purposes and not repetitive. He detailed the project management tasks, which include coordination, feedback review, and documentation, asserting that these efforts justify the budget allocations.
+
+
+#### Action Items:
+- [**action**] Bube Amadi will share the link to download the new appliance with the team. [**assignee**] Bube amadi [**due**] 27 March 2025 [**status**] todo
+- [**action**] Lordkizzy will share the form in the chat for those who have not filled it out. [**assignee**] LordKizzy [**due**] 27 March 2025 [**status**] todo
+- [**action**] Martin will document next week's session.  [**assignee**] martinsoki [**due**] 27 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** showcase template, virtual box, system configuration, resourse management, Ensemble functionality, Testnet, wormhole code, Appliance, installation, Nunet, Q2 2025 budget
+- **emotions:** Interactive, Productive,  insightful,  informative
+
+
 ## Friday 21st March 2025
 
 ### Writers Workgroup
