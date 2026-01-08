@@ -73,6 +73,7 @@ This question will be looked at again in Thursday's meeting
 
 ## Thursday 27th March 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -136,3 +137,47 @@ We discussed exactly what the "80-20% rule" means, and how we calculate whether 
 #### Keywords/tags:
 - **topics covered:** consent process, Reserves, workgroup autonomy, invalid objections, African guild, consent form design, 80%/20% rule, abstentions
 - **emotions:** thoughtful, satisfying, decisive
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Kateri, osmium, advanceameyaw, Jeffrey Ndarake, martinsoki, UknowZork, Éveline Trinité, Alfred Itodole, Santos, LordKizzy
+- **Purpose:** AI tools and projects: ASI-1 mini LLM
+- **Working Docs:**
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [Approval Form to Join Organisation(s) and approval for the Wormhole Key](https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true)
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing)
+  - [AI SANDBOX/THINK-TANK Session #22](https://docs.google.com/document/d/1VWcOZOntI_jtTmXHULxItp8_EwuaC8jaWvrXGGT-rCA/edit?usp=sharing)
+  - [ASI 1](https://docs.asi1.ai/docs/)
+
+#### In this meeting we discussed:
+- Meeting Coordination and Introduction: The meeting kicked off with LordKizzy, focusing on the exploration of AI tools and projects.
+
+- LordKizzy mentioned that he received the last meeting documentation from Santos but found some errors. He provided feedback for corrections and is hopeful that the necessary adjustments will be made. 
+LordKizzy gave a brief explanation on the AI Sandbox/Think-tank WG to the new members.
+- Discussion on ASI LLM:
+Osmium provided insights into the ASI LLM, the first Web3 native LLM designed for agentic AI, optimized for complex interactions and autonomous decision-making. He explained its integration with the ASI Wallet for secure transactions and its advanced reasoning capabilities, which are expected to impact sectors like DeFi and supply chain management. Osmium detailed the process for integrating ASI into applications via a robust API, emphasizing the benefits of operating within a Web3 ecosystem, including enhanced security and anonymity. He also mentioned the potential for ASI's integration with decentralized networks and indicated that further instructions on API key generation would be provided in future sessions. 
+Osmium led a discussion on the integration of AI governance tools into decentralized organizations, highlighting the importance of ethics and community participation. He raised concerns about the implications of solving complex mathematical problems, such as the P vs NP question, which could lead to significant security vulnerabilities. Advanceameyaw contributed by suggesting the exploration of general mathematical questions to test AI capabilities.
+Osmium highlighted the functionalities of modular agents and their integration with Llama 3 during the discussion. He introduced the upcoming ASA education program and emphasized the need for a pre-trained SEO to enhance search efficiency. The conversation also touched on the use of knowledge-based graphs for research and the potential of tools like perplexity over traditional search engines.
+
+- AI Sandbox Q2 roster and Documentation Policy: Lordkizzy discussed the Q2 roster created by Kateri. He also addressed documentation issues, stating that summaries from previous meetings were late and implementing a new policy that requires documentation to be submitted within 48 hours, or the task will be reassigned.
+- Q1 Reward Distribution: Lordkizzy addressed the Q1 reward distribution, noting the adjustments needed in their budget due to low token prices. Osmium pointed out that their WG has been operational despite previous inactivity and discussed the importance of deliverables in budget allocation. The team agreed to distribute rewards on Friday.
+- AI Sandbox Progress and Budget Planning:
+Lordkizzy urged team members to consent to the AI Sandbox so that we can make through the round. Gorga proposed a budget proposal for the BGI Nexus round, but Lordkizzy pointed out that the application round had ended. The discussion also touched on the possibility of proposing in the next defunding round 5.
+- AI Sandbox Task Assignments and Mentorship:
+Alfred Itodole asked if he could request tasks and receive mentorship after attending three meetings. Lordkizzy stated that he would need to confirm Alfred's attendance before proceeding with the tag assignment. Osmium mentioned that Alfred's name could be added to the list for documentation tasks.
+
+#### Action Items:
+- [**action**] Advanceameyaw and AJ to prepare for the project showcase session scheduled for next week. [**assignee**] advanceameyaw, AJ [**due**] 3 April 2025 [**status**] todo
+- [**action**] Kateri to document the next week's meeting as confirmed during the discussion.
+ [**assignee**] Kateri [**due**] 3 April 2025 [**status**] todo
+- [**action**] Lordkizzy to ensure that documentation for meetings is submitted within 48 hours moving forward. [**assignee**] LordKizzy [**due**] 3 April 2025 [**status**] todo
+- [**action**] Vasu to discuss the budget allocation for Q2 with Lordkizzy to address financial constraints. [**assignee**] osmium, LordKizzy [**due**] 4 April 2025 [**status**] todo
+- [**action**] Lordkizzy to confirm the attendance of Alfred Itodole for the tag assignment. [**assignee**] LordKizzy [**due**] 3 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Q1 budget,  Budget Allocation, Project Showcase, ASI LLM, Q2 2025 budget, Documentation, Workgroup Discord tag,  Mentoring
+- **emotions:** Welcoming, Interactive, Informative,  Understanding.
