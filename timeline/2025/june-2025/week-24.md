@@ -50,6 +50,7 @@ With no more pressing questions, the meeting was concluded. The hope is that onc
 - **emotions:**  informative,  Collaborative, detailed, educative, Productive
 ## Thursday 12th June 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -87,6 +88,43 @@ In wrapping up, Peter recognized that the Q3 budgeting cycle is too far along to
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation, Treasury, Admin Cost, Dework management, Task Classification, Budget caps
 - **emotions:**  Understanding., Accountability
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], Santos [**documenter**], osmium, advanceameyaw, Gorga Siagian, UKnowZork, Alfred Itodele, AndrewBen, Kateri, Duke
+- **Purpose:** AI Sandbox/ Think Tank #32
+
+- **Working Docs:**
+  - [Blueprint for AI Sandbox and Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit)
+  - [Roadmap of AI Sandbox/ Think Tank](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Think Pieces/ Feedback](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform)
+  - [AI Sandbox/ Think Tank](https://docs.google.com/spreadsheets/d/15G_HTyJmW7BpF48pIzEPd-5ur-C8jwygaCeeTDsGYkE/edit)
+  - [AI Sandbox/ Think Tank #32](https://docs.google.com/document/d/1BiqtqO-FRd8TFZsmJYWU6X8e5Iiufcttg-YHWhuP638/edit)
+  - [Report of AI Toolset EXHIBITION and The WORKFLOW](https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit)
+
+#### In this meeting we discussed:
+- Introduction and welcome: The meeting kicked off with Lordkizzy welcoming everyone and  Osmium shared the agenda for the day’s meeting 
+
+- Report of Q2: Osmium displayed the quarterly report of Q2 2025 and went through it a bit 
+
+- Innovations and future plans: Osmium mentioned the possibility of having Darshana Patel in the next meeting session to speak on the QNN models . The team paused new AI tools exhibitions and decided to focus on testing and automating tools previously showcased.
+He also stated that we have started proposing our workflows and automations and we are hoping to utilize these tools we already showcased
+
+- Plans for Q3 2025: Osmium stated that a new budget proposal has already been submitted for Q3 and also a Q2 report
+
+- ASI1 LLM testing:  osmium navigated ASI1 LLM. we hoped to use our own stuff that is the ASI1 LLM futher in coming days and also have like a tutorial and training around it. we also created an AI agent. We tried making use of the AI agent by uploading a document. We made use of the report made by advanceameyaw and tried to search for certain things like the number of sessions we had. There was a brief moment of confusion while using the AI agent with Lordkizzy disagreeing with the amount of sessions had in the quarter. 
+
+
+#### Action Items:
+- [**action**] UknowZork is to document the next meeting session  [**assignee**] UKnowZork [**due**] 19 June 2025 [**status**] todo
+- [**action**] Osmium would contact Colly for insights on building an AI agent [**assignee**] osmium [**due**] 19 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** API, Analytics, Automation, AI TOOLSET EXHIBITION, Knowledge base, ASI 1, Q2 2025 quarterly report, Q3 2025 budget, AI Agent
+- **emotions:** Interactive, Educational, Productive, Informative
+
+
 ## Friday 13th June 2025
 
 ### Knowledge Base Workgroup
