@@ -7,6 +7,7 @@ description: Mon 24th Feb - Sun 2nd Mar 2025
 ## Thursday 27th February 2025
 
 
+
 ### WG Sync Call
 
 - **Type of meeting:** Monthly
@@ -127,3 +128,37 @@ Highlights/Upcoming Events: Be on the lookout for phase 2 of the Ubuntu and AI s
 #### Keywords/tags:
 - **topics covered:** AMA session, Q2 Budget decision , marketing initiatives, Collaboration, Documentation,  Event, Hackathon, Contente Calendar, Ambassador program, brand guidelines, Ethiopia, community manager, AI developers, African, Video series
 - **emotions:**  informative, interesting, welcoming, funny,  insightful
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Sandbox
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Kateri, LordKizzy, Samski NuNet, Jennifer Bourke, Bube Amadi, Andrew Ben, Zar, Hogan Robert, Emmanuel Grandison Adu-Gyamfi, Zalfred, Clement Umoh, CollyPride, osmium
+- **Working Docs:**
+  - [AI SANDBOX/ THINK-TANK#16](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/10STkqa6z7OQWmn888h02BBdKR_dVxqe9uIXDz3TcOfQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784514%26amp;usg%3DAOvVaw3GDzjtl2RRVCAciMBnlmwD&sa=D&source=docs&ust=1740362130790336&usg=AOvVaw2pIHParbdXMAogcvWmXcAE)
+  - [THINK PIECES/ FEEDBACK ](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp%253Ddialog%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784726%26amp;usg%3DAOvVaw2s9f7zvnRdmBW2rVa6lQSK&sa=D&source=docs&ust=1740362130790448&usg=AOvVaw1tPFSE0GTMqimnouU0emwC)
+  - [BLUEPRINT FOR AI SANDBOX/ THINK-TANK](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784893%26amp;usg%3DAOvVaw1XZwJAL7eqrS2u5So0og3-&sa=D&source=docs&ust=1740362130790523&usg=AOvVaw19yfA7ArsUr420sewCulZ2)
+  - [ROADMAP OF AI SANDBOX/ THINK-TANK](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785093%26amp;usg%3DAOvVaw1sQMy0FMqryaOf43syuRD-&sa=D&source=docs&ust=1740362130790604&usg=AOvVaw2fiFWCOaiphVlTiQ9Lk6Zl)
+  - [AI SANDBOX/ THINK-TANK](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785317%26amp;usg%3DAOvVaw2Ehnb2otJ4ECrwa6Mp2Iwa&sa=D&source=docs&ust=1740362130790669&usg=AOvVaw3C1etC0PltWOiJibKOmNXF)
+  - [NuNet 🌐 (@nunet_global) on X](https://x.com/nunet_global/status/1895666442407985168?t=NfWBoZVKShjyaRqC3si86g&s=33)
+
+#### In this meeting we discussed:
+- The meeting took off by LordKizzy welcoming everyone present.
+- The discussion centered on the decentralized platform NUNET, my name is Jennifer and I am the marketing community leader here at NUNET. NUNET is a open source decentralized platform that's designed to create globally accessible and democratized network for computing power. likening its operation to Uber in how it matches supply and demand for computing tasks. NuNet optimizes the allocation of computational tasks across a peer-to-peer network, which eliminates bottlenecks and hopefully will reduce costs as well. So NUNET was designed to address the limitations of centralized cloud infrastructure, which is often expensive, restrictive, and controlled by a few large providers or players in the space. The orchestration layer of NUNET efficiently assigns workloads to devices, while blockchain technology ensures secure micro-payments, providing a flexible alternative to traditional cloud services, particularly beneficial for AI and IoT applications.
+
+- Samski explained the structural differences between NUNET decentralized public cloud infrastructure and centralized public cloud infrastructure systems such as AWS Google, etcetera, they basically have private data centers with very specific hardware, operating systems and everything that runs on top of that is containerized or virtualized. He emphasized that NUNET allows for community-run data centers and operates on a peer-to-peer network, which contrasts with the centralized management and orchestration systems. Additionally, he noted the integration of blockchain technology for payment and security, further enhancing the decentralized nature of NUNET. He also discussed the complexities of the existing command-line interface for the Decentralized Management System (DMS) and the development of a more user-friendly appliance that integrates best practices for operating systems and security, which can be deployed on various hardware.
+- Overview of DMS and Appliance Development
+Samski explained that the DMS currently operates primarily through a command-line interface, which can be a barrier for users not accustomed to such environments. He detailed the functionalities, including workload specifications and deployment options, and emphasized the intention to develop an appliance that simplifies the user experience. This appliance will bundle essential utilities and security measures to enhance the management and monitoring of devices.
+- Installation and Configuration of NUNET Appliance on Windows
+Samski led a demonstration on installing the NUNET appliance on Windows, emphasizing the need to extract files and run the installer with administrative privileges. He addressed a question from Peter regarding Multipass defaulting to a drive with insufficient space, suggesting a solution involving creating a mount point. Vasu recommended using a Google Drive link for sharing the installation files. Samski provided an overview of the NUNET virtual appliance installation, showcasing the MultiPass GUI as a user-friendly interface. He detailed how users can manage the appliance through a shortcut that displays its status and allows for operations like starting and stopping. Additionally, he mentioned the installation of Docker and DMS, emphasizing the importance of obtaining a peer ID for network connectivity.
+- Overview of Decentralized Encryption and Network Capabilities
+In the demonstration, Samski showcased the process of joining the NUNET testnet and utilizing the Wormhole encryption tool to send and receive decentralized identifiers (DIDs). He highlighted the ability for users to authorize each other and bid on deployments while ensuring that only trusted organizations can run deployments on the network. This approach aims to maintain order and build trust within the community as the network develops.
+- LordKizzy said a big thank you to the NUNET team, on behalf of the ambassador program, and also AI Sandbox community. So thank you for your valuable insights and basically educating us. And yeah, he would also love to have you guys on more of our sessions. Where we can look at the applications and also the use cases. LordKizzy raised questions for a feedback form where by members can write their issues faced while test running the application. Samski said there's an application form to join the NUNET program where by doing that, you can submit your DID and then join the NUNET organization. And as part of that whole process, there's a whole kind of support process around that. I think there's a blog post, if it's not going out today, then it's going out on Monday. There's a bunch of onboarding videos that basically goes through what I've just shown you here for Windows, Linux and Mac.
+
+#### Action Items:
+- [**action**] LordKizzy is to contact Malik about presenting on the next AI sandbox meeting [**assignee**] LordKizzy [**due**] 17 February 2025 [**status**] todo
+- [**action**] Malik is to present the next AI tool exhibition  [**assignee**] Malik [**due**] 20 February 2025 [**status**] todo
+- [**action**] Advanceameyaw is to document the  next meeting [**assignee**] advanceameyaw [**due**] 20 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** NuNet Town Hall, Nunet, decentralized encryption, decentralized public cloud infrastructure
+- **emotions:** Interactive, Educative, Productive, Welcoming
