@@ -152,6 +152,7 @@ However, we noted that some cancelled meetings are still on the Calendar - we wi
 - **emotions:** interesting, low attendance, slow
 ## Thursday 5th June 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -183,3 +184,47 @@ Q3 Budget Cap Finalisation
 
 #### Keywords/tags:
 - **topics covered:** Budget caps, Workgroup Funding, Sentiment Analysis
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], advanceameyaw [**documenter**], LordKizzy, advanceameyaw, Alfred Itodele, Osmium, Jeffrey Ndarake, martinsoki, Santos, Kateri, UKnowZork, Darshana Patel, MaxMilez, Gorga Siagian
+- **Purpose:**  AI Sandbox (General Discussion)
+
+- **Working Docs:**
+  - [AI SANDBOX/THINK-TANK #31](https://docs.google.com/document/d/1oooaS0h2b7MNwnWeaEaU_mP0RicfDCs8lDk-QLEuR7k/edit?tab=t.0)
+  - [Miro Board](https://miro.com/app/board/uXjVI7Abr18=/?share_link_id=24280639227)
+  - [ Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [NuNet Application Form](https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?gid=1681070206#gid=1681070206)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog)
+  - [AI Sandbox Toolset Exhibition Report](https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit?tab=t.0#heading=h.bn2xrlmjpxj4)
+  - [AI Sandbox/Think-tank Q2 Report](https://docs.google.com/document/d/1Jo-pUnlmDUwp2vc9tpZL7rnrYNFBQQfZ_w7qupHgjIg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- -Coordination Meeting and Introductions: The meeting began with a brief welcoming and introductions. Lordkizzy provided a quick overview of the Q3 budget. He proposed a temporary shift to bi-weekly meetings. However, weekly sessions remain ideal and added the possibility of returning to weekly meetings if additional project funding is secured as planned.
+
+- -We discussed the plans to host a workshop either this quarter or next on the Ambassador Program website and organize follow-up calls to develop new session ideas. Also, based on feedback we got on the AI project showcase, the focus will shift from showcasing AI tools to actively using and testing them. 
+
+- -AI Sandbox/Think-tank Overview: Kizzy mentioned how this quarter has shown strong consistency and increased participation, averaging 13 members per session. While planned theoretical debates were delayed, there’s still a chance to host them before the quarter ends. Roundtable discussions and project showcases were paused. Bi-weekly sessions alternating between Sandbox and Think Tank continued as usual, and four new members joined the workgroup - UknowZork, Jeffrey, Alfred, and Max Milez.
+
+- -Project Management Board Update: Kizzy provided an overview of our GitHub project board, highlighting its role in managing and documenting AI Sandbox activities such as AI tool exhibitions, weekly meetings, debates, proposals, and team assignments. He also encouraged members who have not yet added to share their GitHub handles for access.
+
+- Feedback and retrospection: 
+UknowZork shared that the guild’s purpose wasn’t clear at first, needing to revisit past recordings. Jeffrey emphasized the need for better onboarding and clearer introductions. In response, Kizzy explained the AI Sandbox and Think-tank structure, and with Osmium, highlighted the value of the program GitBook for deeper understanding. Kateri noted meetings felt too formal and suggested bringing back engaging formats like debates. Advance appreciated the enriching impact of discussion and debate sessions and recommended clearer agendas and collaboration with other guilds to better tailor showcases. Kizzy supported this, stressing the need to align tools with workgroup needs. Lastly, Osmium mentioned speaking with Peter about a demo on the ASI wallet to explore the token’s utility.
+
+
+
+#### Decision Items:
+- We agreed to host multiple follow-up calls to brainstorm, plan, and present new session ideas.
+
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**]  Advance to document meeting [**assignee**] advanceameyaw [**due**] 12 June 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Q2 report and budget request, tool adoption, project management, feedback, retrospective, Q2 2025 quarterly report, Q3 2025 budget, workgroup purpose, ASI wallet, impact, Collaboration
+- **emotions:** informative, Insightful, welcoming, Interactive.
