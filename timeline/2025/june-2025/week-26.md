@@ -54,6 +54,7 @@ The session closed with thanks to Guillermo for his dashboard demo. Guillermo ap
 - **emotions:**  informative,  insightful,  Collaborative, Discursive, Ideating
 ## Thursday 26th June 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -107,3 +108,47 @@ With no further input, the meeting concluded, and Peter reminded attendees of up
 #### Keywords/tags:
 - **topics covered:** Workgroup, Concerns, Objections, Quarter, Budget , Consent Process, Governance topics, Abstentions
 - **emotions:** Interactive, detailed, collaborative, educative, Interesting, contributive, engaging
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** osmium [**facilitator**], Gorga Siagian [**documenter**], LordKizzy, advanceameyaw, Alfred Itodele, John Zakariya, UKnowZork, Santos
+- **Purpose:** AI Sandbox/ Think Tank #34 - Think Tank Discussion/Debate
+
+- **Working Docs:**
+  - [Blueprint for AI Sandbox/ Think Tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0)
+  - [Roadmap of  AI SANDBOX/THINK TANK](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0)
+  - [THINK PIECES/ FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform)
+  - [AI SANDBOX/THINKTANK](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?gid=1989136757#gid=1989136757)
+  - [AI SANDBOX/THINK-TANK #34](https://docs.google.com/document/d/15bO__ka_3F6LOpiXycDpU8gp0nhCuujHPffnruhUIPI/edit?tab=t.0)
+  - [ Core Debate Topic:“Should AI-generated content be attributed to a human or to the machine?](https://docs.google.com/document/d/17N9RUKMrhURpEzP8_aPsLeLkGLhElQFY4PBQIJoF47k/edit?tab=t.0#heading=h.gn2vf9pteak5)
+
+#### In this meeting we discussed:
+- In this meeting we discussed:
+
+- Introduction and welcome: The meeting kicked off with Lordkizzy welcoming everyone and  Osmium shared the agenda for the day’s meeting 
+- - Discussion on Agenda item: Osmium displayed the Agenda item and he proposed that we have discussions and debate on it and osmium welcomed John Zakariya and explained about the AI Sandbox/Think-Thank meeting.
+
+- - Pro-Human Attribution: "AI is just a tool — authorship belongs to the human."
+AdvanceAmeyaw presented foundational pro-human position: AI is just a tool, authorship belongs to humans who create and control AI systems.AI systems are fundamentally designed and programmed by humans, meaning that the creativity and intent behind their functionality originate from human authorship. The data used to train AI models is sourced from human-generated content, reinforcing the idea that AI operates as an extension of human knowledge and capabilities. Legal and ethical considerations regarding AI outputs emphasize that accountability and ownership should rest with the humans who develop and deploy these technologies. Santos said that AI is an assistant that enhances human capabilities ("we should [use] AI assistant") but stresses that humans should remain in charge ("pro-human"). They acknowledge AI’s potential but may be wary of it surpassing human control, emphasizing that its programming binds its actions.Lord_Kizzy used a pencil analogy: humans decide intent and usage of tools, making humans accountable for outcomes rather than the tool itself. Humans possess the cognitive ability to determine how tools are used, which directly influences the outcomes of their actions. The intent behind using a tool, such as a pencil, is rooted in human decision-making, making individuals responsible for the consequences of their actions. Accountability for negative outcomes resulting from tool usage emphasizes the ethical responsibility of humans over the tools themselves. UknowZork Said Ai is not just a tool for me . It’s a powerful tool that I use to streamline tasks, brainstorm creatively and make decisions more effectively. It enhance my work but doesn’t replace critical thinking. 
+
+
+
+- - Discussion of Clark and Chalmers' 1998 extended mind theory suggesting AI extends human cognitive capabilities rather than replacing them. AI can enhance human cognitive capabilities by providing additional resources for problem-solving, decision-making, and information processing, rather than replacing human thought. The theory encourages a collaborative relationship between humans and AI, suggesting that technology can be integrated into cognitive processes to improve efficiency and creativity. Kantian ethics perspective introduced: only beings capable of moral reasoning can be held responsible, supporting human authorship.Only beings capable of moral reasoning, such as humans, can be held accountable for their actions, establishing a clear distinction between human authorship and machine output. Kantian ethics emphasizes the importance of intention and rationality in moral decision-making, reinforcing the idea that true authorship requires the ability to make ethical choices. This perspective supports the notion that while AI can assist in generating content, it lacks the moral reasoning necessary to claim authorship or responsibility for its outputs. Terminology debate emerged over 'ownership' vs 'authorship' - ownership deemed too authoritative and potentially problematic for future AI development. The distinction between 'ownership' and 'authorship' reflects differing views on the relationship between humans and AI, with 'ownership' suggesting control and authority over AI outputs. Concerns about 'ownership' arise from its implications for accountability and ethical considerations, particularly as AI systems become more autonomous.The preference for 'authorship' emphasizes the creative and intellectual contributions of humans in the development and use of AI, fostering a collaborative rather than a hierarchical relationship.
+- - Pro-Machine Attribution: “AI systems are independent enough to merit co-authorship or full attribution.”
+ Advanced cited MIT research showing decline in human critical thinking due to LLM usage, contradicting extended cognition theory. This finding challenges the extended cognition theory, which posits that tools like LLMs should enhance cognitive capabilities rather than diminish them. The research suggests that while LLMs can improve efficiency in tasks, they may inadvertently reduce the depth of critical thinking and problem-solving skills in individuals. Alfred argument that AI can be both a tool and have authorship, depending on the context in which it is used. He uses the analogy of a calculator to explain this nuance: AI can act as a tool (such as a calculator), but it can also be considered a “creator” if its contribution is dominant.   Alfred pointed out as a tool: If AI only assists the process (e.g., finding research data), authorship remains with humans. As a “creator”: If the AI produces a complete work (e.g., a directly copy-pasted blog article), authorship should go to the AI. Gorga Said that AI has not been independent enough to be considered an author or given full attribution rights. While AI can help significantly, it lacks the autonomy, intention, and responsibility that are the basis of authorship. Therefore, the role of AI should be recognized as that of a tool, not an author. This maintains the integrity of authorship, while remaining transparent to AI contributions. In the future, this attitude may change as technology advances, but for now, authorship remains a human responsibility. Kizzy emphasized human adaptability and efficiency gains from tool usage throughout history, from abacus to modern calculators. The introduction of tools like the abacus and calculators has allowed individuals to perform complex tasks more quickly and accurately, reducing cognitive load. This evolution in tool usage reflects a broader trend where technology serves to augment human capabilities rather than replace them, fostering continuous learning and adaptation. Alfred proposed dual perspective: AI can be both tool and deserving of authorship depending on context and level of human involvement. Authorship may be attributed to AI when it generates content or solutions independently, especially in cases where minimal human input is involved, such as simple prompts or commands.The context of use is crucial; in complex tasks requiring significant human insight and decision-making, authorship remains with the human, while AI serves merely as a supportive tool.
+
+
+
+#### Decision Items:
+- Conduct a formal debate/discussion session next week using the insights gained today as a foundation.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Publicize next week's debate session to attract larger audience [**assignee**] LordKizzy [**due**] 3 July 2025 [**status**] todo
+- [**action**] Kateri is to document the next meeting session  [**assignee**] Kateri [**due**] 3 July 2025 [**status**] todo
+- [**action**] Lord_Kizzy will prepare a plan for open discussion format for next week's session [**assignee**] LordKizzy [**due**] 3 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Discussion/Debate Session, AI is just a tool, Pro-Human Attribution, Theoretical Foundation, Pro-Machine Attribution, authorship, AI independence, AI authorship, attribution, extended mind, andy clarke, david chalmers
+- **emotions:** Interactive, Insightful, Informative, Productive, Welcoming
