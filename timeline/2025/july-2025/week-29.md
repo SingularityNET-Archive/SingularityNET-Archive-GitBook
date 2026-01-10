@@ -6,6 +6,7 @@ description: Mon 14th Jul - Sun 20th Jul 2025
 
 ## Thursday 17th July 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -40,6 +41,38 @@ Before wrapping up, there were a few last questions: Should we focus only on dee
 #### Keywords/tags:
 - **topics covered:** DeepFunding, Proposal, service, Budget, task, Proposal eligibility, Governance Dashboard, Ambassador program
 - **emotions:** detailed, collaborative, educative, fun, insightful, informative
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Gorga Siagian [**documenter**], LordKizzy, UKnowZork, Jeffrey Ndarake, Alfred Itodele, Santos, advanceameyaw, martinsoki, CallyFromAuron
+- **Purpose:**  AI SANDBOX/THINK-TANK #36
+- **Working Docs:**
+  - [Meeting Agenda](https://docs.google.com/document/d/1ob0eiy-rOHTVy51WYWj9C4XKfGc2oQniDujKS0iMmX8/edit?tab=t.0)
+  - [Ambassador Program website](https://ambassadors.singularitynet.io/)
+
+#### In this meeting we discussed:
+- Introduction and welcome: The meeting kicked off with Lordkizzy welcoming everyone, and Vasu shared the agenda for the day’s meeting 
+
+- Showcase: Ambassador Website Overview: 
+ - Vsu presented the new Ambassador Program website https://ambassadors.singularitynet.io/ which launched approximately one week ago with SEO project already underway funded by R&D. The SingularityNet Ambassador Program website aims to serve as a hub for onboarding new ambassadors and sharing educational materials.
+An SEO project is currently in progress to enhance the website's visibility and organic traffic, leveraging insights from recent audits. Website audit revealed multiple issues including broken links, missing CSR links, and non-functional community forum links. Navigation buttons incorrectly labeled - 'Join the program' leads to about page while 'About the program' leads to Open Roles. Login/signup buttons redirect to Deep Funding website instead of Ambassador-specific functionality, causing confusion about program identity. causing confusion about program identity. Website appears designed more for Deep Funding ecosystem rather than existing Ambassador community members.
+-  Introduction to ASI1 LLM Framework :
+- Vasu introduces what is ASI1 LLM Framework. ASI LLM introduced as world's first Web3 native language model designed for Agentic AI, optimized for complex agent interactions. The ASI LLM is designed to facilitate complex interactions required by agent-based AI systems. It leverages a Web3 architecture, ensuring decentralized and community-driven development. SEO research assistant AI agent prototype created using ASI LLM framework for website optimization.
+-  Live Build: Agent #1 — SEO Researcher Assistant :
+- Osmium showed how the Ambassador Agent role works directly on the https://asi1.ai platform by demonstrating a live and functional SEO Researcher Assistant AI agent. The development of this agent was simplified through the Agent Wars platform built by Fetch AI, with API access from the SingularityNET AI Marketplace.  A custom SEO agent named “SingularityNET Ambassador Program SEO Research Assistant” was developed with specific personas and responsibilities. This agent was designed to increase visibility and organic traffic to SingularityNET ambassador websites, with a focus on: keyword research, SEO content optimization, technical SEO insights, and backlink opportunities that align with the mission of the SingularityNET ecosystem. The AI Assistant targets a broad audience of developers, researchers, crypto enthusiasts, and AI advocates, with the aim of easing their onboarding and engagement in the ambassador program. The agent has been created and can be run directly on the site (actual agent). 
+-   Ideation & Breakout: Other Agents for the Website :
+- Meeting members suggest how SEO content should be created, added, and improved on the Agent AI Ambassador Program that has been created at https://asi1.ai/. AI agent creation proposed for ASI app to help onboard new ambassadors and provide program information. The AI agent will facilitate onboarding by providing real-time answers to common questions from new ambassadors. It will integrate with existing systems to showcase available tasks and opportunities within the ambassador program. Success stories content strategy developed featuring regional guilds like Latam Guild and African Guild showcasing ambassador achievements. Blog content should focus on completed projects and measurable progress rather than ongoing work to motivate new participants. Governance content suggested including breakdown of contentious issues like anonymity and abstentions rather than fixed manifestos. 
+- Shareback: Agent Pitches. Onboarding AI agent concept discussed but requires further development in dedicated onboarding work group meeting. The onboarding AI agent concept aims to enhance user experience by providing tailored assistance during the onboarding process. Further development is needed to define the agent's persona and capabilities to effectively address user inquiries and guide them through the onboarding journey. Agent capabilities can be enhanced through AI Agent Voice platform with multiple agent integrations. Potential R&D proposal suggested for developing comprehensive onboarding AI agent with advanced capabilities.
+
+#### Action Items:
+- [**action**] Advance to document the next meeting [**assignee**] advanceameyaw [**due**] 24 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Website, AI Agent, ASI 1, SEO Researcher Agent
+- **emotions:**  informative,  insightful, Educative
+
+
 ## Friday 18th July 2025
 
 ### African Guild
