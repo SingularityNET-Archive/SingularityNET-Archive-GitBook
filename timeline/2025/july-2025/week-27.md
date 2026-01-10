@@ -6,6 +6,7 @@ description: Mon 30th Jun - Sun 6th Jul 2025
 
 ## Thursday 3rd July 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -61,6 +62,42 @@ Decision-Making Framework and Work Group Participation: We should find a way in 
 #### Keywords/tags:
 - **topics covered:** Consent Process, Consent dashboard, Governance Dashboard, recurring objections, reputation weighting, contribution, outputs vs outcomes, work quality, Issue tracking
 - **emotions:**  forward-looking, thoughtful
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Kateri [**documenter**], advanceameyaw, CollyPride, PeterE, UKnowZork, Gorga Siagian, Jeffrey Ndarake, Alfred Itodele, martinsoki, Santos, osmium, Kateri
+- **Purpose:** Weekly meetings 
+- **Working Docs:**
+  - [Meeting Agenda](https://docs.google.com/document/d/1frji-xCkUlevi4w5nYU3Bt5geziVF6I35TXHvjr1_Bc/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Trust in AI: building ethical and beneficial AGI
+Vasu led a conversation about the ethical implications of AI, specifically addressing the need for trust in AI systems amidst a landscape of misinformation. Colleen Pridemore contributed insights on how AI learns from nuanced discussions and shared her belief in AI's potential beyond its current capabilities. She also mentioned her pivot towards her own work due to challenges with her previous projects.
+- Mindplex community update:
+Vasu provided an update on the Mindplex platform experiencing significant growth with 50,000-60,000 users and 20,000-30,000 app downloads in 2-3 months since February/March launch. He emphasized the role of network effects in fostering community engagement and mentioned Darshana Patel's involvement in the Mindplex community and her indirect connection to MeTTa, indicating her contributions are gaining traction.
+- BCI and emotional AI development: 
+Colleen shared her goal of learning about brain-computer interfaces (BCI) and emotional recognition in AI, emphasizing the need for training. While Vasu discussed the complexities of quantum neural networks and their implications for emotional factors in AI systems. They also addressed the challenges of data processing and the importance of effective pattern recognition in training AI.
+- AI authenticity and tracking: 
+Vasu  posed a question regarding the potential of AI watermarks and provenance tracking to restore authenticity. Colleen highlighted the subjective aspects of authenticity and the exponential growth of AI, sharing her observations on its capabilities. Advanceameyaw contributed by discussing the challenges of distinguishing between real and AI-generated content and the importance of defining authenticity in this context.
+- Sarcasm recognition and quantum neural networks: 
+Colleen discussed the development of sarcasm recognition in AI, highlighting how it took time for the system to understand and respond appropriately. Vasu emphasized the role of context in AI interactions and asked Colleen to share a link RE the work of Scott Forshaw of Toridian on quantum neural networks. The conversation also touched on the complexities of these technologies.
+- AI Sandbox session planning: 
+Vasu facilitated a conversation on the frequency of meetings; the group ultimately decided to maintain a weekly schedule.
+
+#### Decision Items:
+- We decided to maintain a weekly schedule
+  - [**rationale**] based on participant feedback.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Vasu to contact Peter and the MeTTa team to discuss the possibility of showcasing OpenCog Hyperon. [**assignee**] osmium [**due**] 10 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** OpenCOG Hyperon, Mindplex, AI Authenticity, AGI alignment, Quantum Neural Networks, brain-computer interfaces, MeTTa., Darshana Patel, pattern recognition
+- **emotions:** Friendly, Educative
+
+
 ## Friday 4th July 2025
 
 ### African Guild
