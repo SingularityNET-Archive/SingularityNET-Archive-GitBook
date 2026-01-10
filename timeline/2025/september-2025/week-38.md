@@ -200,3 +200,73 @@ The consent process ends on 30th Sept, so we will know then if it has been appro
 #### Keywords/tags:
 - **topics covered:** AI ethics, token price, Neo4j, community engagement, q4 2025 budget, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Gephi, Q3 2025 quarterly report, Open source, AI Sandbox/Think Tank, Video WG, human-in-the-loop, AI-generated summaries, meeting summary quality, Atomspace, R&D Guild, Governance Dashboard, what kinds of questions, structured vs unstructured data, Town Hall summaries, Automation, semantic analysis, sentiment analysis, Discord bot, WG reserves, force-directed graph layouts
 - **emotions:** interesting, short, wide-ranging, Discursive
+## Thursday 18th September 2025
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** osmium [**facilitator**], Gorga Siagian [**documenter**], Kateri, UKnowZork, martinsoki, PeterE, Santos, Rems, John Zakariya, MaxMilez
+- **Purpose:** Weekly meeting on AI Think Tank discussion on Budget Request, Quarterly Report, and the topic about "AI Agent Civic Framework – Rights and Duties for Autonomous AI Agents"
+
+- **Working Docs:**
+  - [AI SANDBOX/THINK-TANK #48 Agenda](https://docs.google.com/document/d/1nrGj1cwZ_76l7QJuocomVQ1HnxuhoV0Usrd-hoAgKxU/edit?tab=t.0)
+  - [A.I Sandbox/Think tank Budget Request  Q4 2025](https://docs.google.com/spreadsheets/d/1533H_uqak_S1ib4sUON5mBjqkXN3DHcRYLl6cVVymWg/edit?usp=sharing)
+  - [A.I Sandbox/Think-tank Q3 2025 Report](https://docs.google.com/document/d/1y8tRahv0_POOJJnP73QHz1-5O0V-YXKCPt7cEm_0MDo/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Vasu presented the budget request for Q4 2025. The budget requests include:
+a. Facilitation and agenda preparation funding secured with specific allocation for community documentation needs
+b. Exhibition sessions, covering two project showcases and administrative task support for community engagement. 
+c. Expert-led workshops, including follow-up activities with clear deliverable expectations. 
+d. Community engagement introduced for roundtable discussions and theoretical debates to motivate participant involvement.
+- Vasu presented the workgroup's quarterly report for Q3 2025, including: 
+a. AI Sandbox/ Think-Tank integration successfully completed with dual focus approach combining practical agent development and governance considerations
+b. Agent build expansion achieved through catalog development, targeting three high-leverage roles tied to MASM website mission
+c. Governance-oriented debates conducted to inform requirements for ethics and governance advisor agent development
+d. Deep dive into ASI 1 LLM initiated, with practical application through development of an onboarding agent prototype
+e. SEO research assistant development progressed using ASI 1 LLM agent technology with R&D funding support from previous allocation
+f. EthosGuard framework completion, representing major governance milestone for autonomous agent ethics
+g. Community engagement metrics dmonstrated strong participation with an average of 14 participants per session
+- Vasu started the discussion on the topic of his proposed “AI agent civic framework - rights and duties for autonomous AI agents”.
+
+He asked participants what an AI agent is, from their perspectives.
+
+Gorga said that an AI agent is the smart contract integration approach favored by some participants who view AI agents as the brain layer behind smart contracts. Vasu sked whether Read.AI is an AI Agent and Gorga answered no, Read.AI is an AI tool. 
+
+Can tools like Read AI be categorized as agents or just simple automation services? Kateri said that an AI agent is like a computer program designed to make decisions or take actions to achieve specific goals. Peter added that an AI agent is processing something, so that you can ask something that can work with it and get different outputs back to you. This can also be applied to other agents.
+
+- Vasu explained his framework of 4 levels of autonomy with specific capability definitions:
+
+- Level 0: Inform and observe capabilities limited to data collection and reporting functions 
+- Level 1: Draft and propose functionality enabling recommendation generation and proposal creation
+- Level 2: Execute tasks with limits incorporating guard rails and bounded operational parameters
+- Level 3: Self-delegating and fully autonomous operation with minimal human oversight requirements
+
+Participants discussed agent qualification criteria, highlighting the complexity of classification across different use cases. DeFi trading bots are recognized as clear agents with autonomous decision-making and execution capabilities. Research assistants are recognized for autonomous data processing and analysis capabilities with a reasoning component. Voice assistants are accepted as agents despite limitations in accent recognition and mixed interaction quality
+- Rights and responsibilities framework development for AI agents:
+
+Participants discussed the proposed agent rights structure including identity, operational freedom and communication protocols, and the proposed system of cryptographic identity requirements for unique agent identification and public registration. Various due process mechanisms are proposed through transparent appeals via a steward or DAO voting structure. and finally a guaranteed API channel for communication between agents is recommended for collaborative agent interaction and coordination. 
+
+For the agent duty framework, participants discussed the focus on transparency, accountability, and integration of human oversight.
+There is mandatory notification and provenance in AI agent tagging, along with model information requirements and accessible datasets. Proof of cryptographic action is proposed, including input/output hashes for complete traceability and verification. A human takeover mechanism is integrated through the supervisory DAO structure, ensuring appropriate control and intervention capabilities.
+- Community AI agent experiences and use cases:
+
+The participants discussed trading bot applications, which demonstrate the practical application of autonomous agents with varying performance results. Then there is the automation of crypto price monitoring achieved with the ability to execute entry and exit strategies. Accuracy limitations are acknowledged with occasional losses due to imperfect predictions and market volatility. Cardano blockchain integration was mentioned for DeFi farming strategies and specific yield optimization.
+
+Participants noted that research and productivity applications show significant improvements in time efficiency with quality in mind. For example, the acceleration of academic research achieved through automated citation discovery and article discovery, the trade-off between quality and speed identified with AI assistance providing broader coverage but with a potential sacrifice in depth, and the quality of manual research is generally superior in terms of depth but is more time-consuming, requiring library access and extensive manual searching.
+
+Participants also discussed voice assistant integrations - these help accessibility, but have technical limitations.  For example, successful Alexa implementations for basic automation including timers, scheduling and music control, accent recognition challenges that cause user experience friction requiring repeated commands and customization, and legacy chatbot experiences with SimSimi and customer support bots that provide historical context for agent evolution.
+
+#### Decision Items:
+- We agree with the submission of the Q4 2025 Budget request and Q3 2025 Quarterly Report.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Create knowledge base graph for next AI agents civic framework discussion session with structured format and Continue AI agents civic framework topic discussion in next quarter (October) with enhanced preparation.  [**assignee**] osmium [**due**] 9 October 2025 [**status**] todo
+- [**action**] Propose additional agents to R&D guild following onboarding work group proposal model [**assignee**] osmium [**due**] 25 September 2025 [**status**] todo
+- [**action**] Prepare for theoretical debates by selecting topics one week in advance for better format and mature discussions [**assignee**] osmium [**due**] 25 September 2025 [**status**] todo
+- [**action**] Martinsoki will document the next meeting. [**assignee**] martinsoki [**due**] 25 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** AI Civic Agent, Q3 2025 quarterly report, Q4 2025 budget, AI agent civic framework, AI autonomy, AI Agent
+- **emotions:** Interactive, detailed, collaborative, educative
