@@ -96,3 +96,38 @@ And he will attend the next Town Hall to say this and say a bit about what we ar
 #### Keywords/tags:
 - **topics covered:** AI ethics, rule-based auditing, Deepfunding Town Hall, token price, Neo4j, Ambassador Program calendar, community engagement, q4 2025 budget, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem
 - **emotions:** interesting, short,  forward-looking
+## Thursday 7th August 2025
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], Alfred Itodele, Gorga Siagian, UKnowZork, CallyFromAuron, LordKizzy, Jeffrey Ndarake, guillermolucero, John Zaks, Santos, Kateri, osmium, martinsoki
+- **Purpose:** AI Sandbox/ Think Tank #38
+
+- **Working Docs:**
+  - [Blueprint For AI Sandbox/ Think tank](https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit)
+  - [Roadmap of AI Sandbox/ Think Tank](https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit)
+  - [Think Pieces/ Feedback ](https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform)
+  - [AI Sandbox/ Think Tank](https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit)
+  - [AI Sandbox/ Think Tank #38](https://docs.google.com/document/d/1ioFdX_A7FugjDPGYHYJ5bk5zsqs5CLlZO6HMGZnhFe4/edit)
+  - [EthosGuard – AI Ethics & Governance Advisor Agent (v2)](https://docs.google.com/document/d/1At6iyejBZhgfJ1cEATBjA7ZHFMUP3AZKX8kk0_NTZt4/edit)
+
+#### In this meeting we discussed:
+- Introduction and welcome:
+The meeting began with a warm welcome, followed by Vasu leading a continuation of the previous agenda. The discussion focused on AI agent development, includimg the governance advisor agent *EthosGuard*, and introducing new roles such as an analytics agent.
+- Treasury and Budget Automation Insights:
+Vani and Guillermo discussed the automation of treasury and budgeting consent processes, emphasizing the importance of aligning budget formats and quarterly reports with the tools under development by Guillermo’s team. They pointed out the shift toward a more formalized budgeting process, and noted that an agent could be used to flag possible omissions in budget submissions to ensure completeness.
+- Integration of Treasury Database and Core Contributor Criteria:
+Guillermo highlighted the importance of integrating the treasury database with Archives WG's forthcoming knowledge graph to improve data visualization. Vasu proposed using an ASI1 LLM agent in the Governance dashboard to automate the onboarding process for core contributors.
+- Data Integration and Contributor Metrics:
+Vani and Vasu discussed merging data from sources like Dework and GitHub to identify core contributors. They also considered a leaderboard system, though Vani raised concerns about potential negative effects of fostering competitiveness among core contributors.
+- AI Agent Integration and Ethical Considerations
+Guillermo highlighted the capabilities of AI agents in GitHub analytics and proposed the creation of a character-driven assistant for governance discussions. Vani raised concerns about the reliability of AI suggestions, suggesting that they should be treated as prompts for critical thinking rather than authoritative recommendations. The conversation also touched on whether AI should/can be used to help track reflections over time in governance.
+- AI-Human Collaboration in Decision-Making
+Guillermo highlighted the AI proposal on the BGI-Nexus funding round, stressing that AI offers decision-making support through suggestions, while humans retain final authority. He emphasized the need for clear, specific queries to avoid generic AI responses.
+- Ethics and Governance in Decentralized Communities:
+Vasu stressed the importance of fairness and transparency, proposing sentiment analysis to track changes in community sentiment. Vani emphasized focusing on governance experiments over granular details. Both agreed on the value of educating the community with interactive tools.
+
+#### Keywords/tags:
+- **topics covered:** AI Agent, AI agent for governance, Governance Dashboard, BGI Nexus funding round, AI ethics, R&D Guild, Archives WG, Knowledge Graphs, contribution, contributor metrics, data integration, GitHub, treasury, Core Contributor
+- **emotions:**  informative, Educational,  Collaborative
