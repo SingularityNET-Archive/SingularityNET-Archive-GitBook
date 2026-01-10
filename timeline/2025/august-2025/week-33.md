@@ -6,6 +6,7 @@ description: Mon 11th Aug - Sun 17th Aug 2025
 
 ## Thursday 14th August 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -34,3 +35,30 @@ AOB: AOB: As the conversation wound down, Sucre proposed a practical step: every
 #### Keywords/tags:
 - **topics covered:** Deep Funding, Cardono, FET, Hackathon, Multilingual Literacy, Marketing Guild, LatAm, AGIX rate
 - **emotions:** Interesting, Insightful, welcoming, progressive, relaxed, collaborative, foward looking
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], UKnowZork [**documenter**], LordKizzy, UKnowZork, CollyPride, osmium, martinsoki, PeterE, Alfred Itodele, guillermolucero, Jeffrey Ndarake, John Zaks, Santos
+- **Purpose:** AI Sandbox/ Think Tank #39
+- **Working Docs:**
+  - [Proposal: Multi‑Agent Integration Platform](https://docs.google.com/document/d/1SILr7Qi1k2eqR6udJsA8THGPL5Zt7_IuWOucOWYDxZI/edit?tab=t.0#heading=h.yixoixdst2pt)
+  - [Masumi Secure Agent-To-Agent Network](https://www.masumi.network/)
+  - [SingularityNET Ambassadors R&D Guild](https://dorahacks.io/org/snet-ap-rd-guild)
+
+#### In this meeting we discussed:
+- The team spent the call walking through a proposal led by Tevo for the "Cardano Use Cases: Concepts" category of next Catalsy funding round, to build a platform over 12 months, with quarterly milestones, full documentation, demo videos, and integration into the Cardano mainnet. Colleen shared her screen and went through the details of everything from Estonian translations in the materials, to how transactions and APIs would work, and an interesting “reverse gas model” where end users pay the fees.
+- We noted that this 12-month Catalyst proposal is not being submitted to the forthcoming hackathon. The hackathon will require a quick, working prototype in just a few days, and the team plans to use it as a way to build components, test ideas, and strengthen collaboration — lessons that will help shape a feasible strategy if the Catalyst proposal gets funded. 
+
+Peter highlighted the need to keep the hackathon work small-scale, while Colleen outlined how the platform would simplify cross-chain agent integration, and Vasu filled in technical background on embeddings, vector stores, and ICP infrastructure. Guillermo suggested treating the hackathon as a focused, simple MVP effort and brought up the Masumi project as a Cardano-based example to learn from.
+- We discussed whether to keep ICP integration just for the hackathon or build it into the bigger plan, and touched on polishing the proposal’s wording. Colleen admitted she probably couldn’t take on development work for the hackathon this time because of technical setup challenges, though she still liked the ICP idea for the future.
+- Toward the end, the conversation shifted to a planned “think tank” session with four discussion topics, ideas for connecting it to AI ethics work, and possibly putting together an RFP to fund AI experts. 
+
+#### Decision Items:
+- The group agreed that the 12-month Catalyst proposal is too large for the hackathon and should be split into two separate proposals, a small, simple MVP for the hackathon and a more ambitious version for Catalyst.
+  - [**rationale**] The 12-month proposal is too large for the hackathon’s short timeline and could breach funding rules, so splitting it allows a small MVP for the hackathon and reserves the full plan for Catalyst.
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:** Hackathon, Catalyst, ICP infrastructure, Cross chain agent integration
+- **emotions:**  informative,  insightful,  forward-looking, Ideating, Productive
