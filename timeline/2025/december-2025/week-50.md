@@ -66,6 +66,7 @@ Reminder that Thursday's governance slot will be a final report from the tempora
 
 ## Wednesday 10th December 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -115,6 +116,44 @@ However, ethically speaking, we don't necessarily want to assume what the connec
 #### Keywords/tags:
 - **topics covered:** AI ethics, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Open source, structured vs unstructured data, semantic analysis, data analysis vs graph analysis, community data verification, contribution, Graph RAG, decision tracking, new Archives dashboard, SQL, generic tooling, Consent, retrospective consent, Q4 2025 quarterly report, Governance Dashboard, rational privacy, Midnight, data ingestion, multiple sources, JSON, JSON data into graph data, pre-query with SQL, human in the loop
 - **emotions:** interesting, Discursive, didactic, ethics-led
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Gorga Siagian [**facilitator**], frosh0593 [**documenter**], Slate, frosh0593, Malik, osmium, LordKizzy, Zalfred, Tevo, Gorga Siagian
+- **Purpose:** To review progress on ASI CREATE, discuss Q1 2026 budget, wrap up the Governance series and CCCP initiatives, Review the Q4 Quarterly Report, check in on missing updates from other contributors and plan follow-up actions as Q4 concludes.
+- **Working Docs:**
+  - [Q4 Quarterly Report](https://docs.google.com/document/d/1HPUNUB86GcR7kOxq730mh7ewQgNbmklFwX1XNopn60Q/edit?tab=t.0)
+  - [Draft Report for Q4 2025 workgroup reports](https://docs.google.com/document/d/1cf4Rlw-nwp2UXNNW16ZeYuhIxM_VbTowkbvrfOeHtOk/edit?tab=t.0#heading=h.kcmnor9z1ayz)
+  - [ASI CREATE](https://docs.google.com/document/d/1ZfIaqZYLgnaYGHOXPUM7l08M89fUVbLO7qvCwG8w4vA/edit?hl=ID&tab=t.0#heading=h.z1m8p5djeh4n)
+
+#### In this meeting we discussed:
+- Presentation of ASI Create Slides and Videos by Gorga
+
+Gorga walked everyone through the ASI Create module he’s been building for the ASI Academy, using slides, documents, and a video he created about ASI Create to guide the session. He introduced the ASI Creation Framework and explained how it’s designed to bridge the gap between AI developers and real users. He wrapped up by encouraging everyone to check out the shared materials and give feedback.
+- Q4 Quarterly Report Review 
+
+A quick presentation from slate concerning the Q4 2025 quarterly report - Slate has reviewed it, and has already uploaded it to the Governance Dashboard.
+- Update on Governance Series  
+Osmium has already put together the Initial Governance Series document as well as the Blueprint & Roadmap.
+Lord Kizzy added that his slides are already done, but we’re waiting for a few final updates from Vani and Osmium before everything can be fully completed.
+
+
+#### Discussion Points:
+- CCCP Setup  
+Slate explained that he has already completed all the setup work needed on the website, making sure everything is organized and ready for the next steps. He also shared that the CCCP is planned to officially roll out in the next quarter, meaning the team now has a clear timeline for when that launch will happen.
+
+
+#### Action Items:
+- [**action**] Slate will proceed with handling the payments for the ASI Academy work that has already been completed [**assignee**] Slate [**status**] todo
+- [**action**] Slate to provide feedback on the next quarter’s budget, so the team can align their plans and funding needs ahead of time. [**assignee**] Slate [**status**] todo
+- [**action**] Slate to reach out to any contributors who haven’t submitted their updates yet [**assignee**] Slate [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CCCP startup, govervance series, Ambassador Gitbook, Q1 2026 budget, Q4 2025 quarterly report, ASI Academy, ASI Create Module
+- **emotions:**  Caution ,  Collaborative,  Optimism ,  informative,  forward-looking
+
+
 ## Thursday 11th December 2025
 
 ### African Guild
