@@ -224,3 +224,37 @@ The meeting concluded on a cooperative and motivated note, with Duke expressing 
 #### Keywords/tags:
 - **topics covered:** Lean Guild Challenge, Content Initiatives, Impact challenge
 - **emotions:**  informative,  insightful,  Collaborative,  forward-looking, Friendly
+## Friday 10th October 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], advanceameyaw, Gorga Siagian, Kateri, esewilliams
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.
+- The discussion focused on the scavenger hunt initiative, with Gorga Siagian proposing a division of responsibilities between teams managing Discord and social media. LordKizzy expressed concern over podcast delays impacting team updates and emphasized the urgency of executing the scavenger hunt within the limited timeframe. The team agreed to prioritize the initiative for the quarter and ensure updated reports reflect its current progress.
+
+Ese Williams and LordKizzy outlined a social media strategy aimed at increasing engagement before December, emphasizing collaboration and addressing ongoing bot integration challenges. Gorga highlighted budget constraints related to equipment costs, leading to a discussion on potential cost-effective alternatives.
+
+Advanceameyaw provided updates on bot integration, noting a delay caused by a declined purchase transaction. The team acknowledged low social media engagement and discussed leveraging personal networks and incentives to boost participation. Ese suggested hosting live Q&A sessions to attract and engage potential participants.
+
+Although the timeline for upcoming initiatives remained uncertain, advanceameyaw confirmed that preparations would begin immediately, with a sprint planned for the end of October. LordKizzy stressed the need for a coordination call with Eric to finalize the schedule and prepare materials, targeting readiness before the first week of December. The team also underscored the importance of producing engaging content, with LordKizzy proposing to share updates on Popplus to involve more interested participants in the planning process.
+
+#### Action Items:
+- [**action**] LordKizzy to edit the report and include reasons for the scavenger hunt initiative and ensure all details are in place [**assignee**] LordKizzy [**due**] 24 October 2025 [**status**] todo
+- [**action**] LordKizzy to drop a message in the channel to remind everyone about the need to meet and have a call regarding the scavenger hunt initiative. [**assignee**] LordKizzy [**due**] 24 October 2025 [**status**] todo
+- [**action**] LordKizzy to organize a call with Eric to finalize the timeline and budget for the scavenger hunt initiative. [**assignee**] LordKizzy [**due**] 24 October 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Podcast Intiative, Scavenger hunt
+- **emotions:** Peacefull,  Understanding.,  forward-looking
