@@ -4,6 +4,56 @@ description: Mon 20th Jan - Sun 26th Jan 2025
 
 # Week 04
 
+## Wednesday 22nd January 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], FranklynStein, AshleyDawn, Clement Umoh, esewilliams, frosh, Gorga Siagian, kenichi, LordKizzy, Malik, Mikasa, osmium, Zalfred, maxmilez, Slate
+- **Purpose:** Wiki Website Update by Franklyn- AI For Beginners Update by Ese- CCCP process- Webinar Series- Governance workshop - Presentation Series-Certification Program Retro Session/Feedback 
+#### In this meeting we discussed:
+- Wiki Website Update by Franklyn
+- AI For Beginners Update by Ese
+- Webinar Series
+- CCCP process
+- Governance workshop
+- Presentation Series
+- Certification Program Retro Session/Feedback(Shift to async)
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- The meeting started with a presentation from Franklyn in regards to the Wiki website creation in which various pointers were given by Slate in order to improve the website 
+- Changes will be implemented by Franklyn in regards to the website by next week
+- An update was given by ese for the ai for beginners project that she is back from the break and will be taking a look at the approved videos and also for the new video if any would be available to be posted for vote
+- Then she also mentioned that she is checking out the previous work of people in regards to SEO and graphics for her to select the best candidate for the task 
+- Then the initial document was presented by clement and ese in regards to the project Webinar Series, the document looked solid , osmium notified that ai sandbox and thinktank is also doing something similar 
+- Slate said that we could collaborate with sandbox and thinktank in regards to this to implement this ,ese and clement will reach out to sandbox in regards to this to get more clarity 
+- Then a miro was presented by osmium showcasing the process of certification program on which Slate commented that its the same process as was used before and that he would personally be refining its process
+- Osmium also shared the initial document for the project Governance workshop and that now he would be moving forward with its blueprint 
+- AFter wards Slate said that we have to hold a retrospective session for CCCP to get feedback from Participants, and also how we can improve - Announcement task taken by Gorga - Miro Creation taken by Osmium 
+- Kenichi gave an update on the presentation series that he is working with the module 1 person in regards to this and that he will go module by module for each step 
+- Certification Program Retro Session/Feedback will be shift to asyn form due to low participation today 
+
+#### Decision Items:
+- Certification Program Retro Session/Feedback will be shift to asyn form due to low participation today 
+  - [**rationale**] mostAgreed 
+  - [**opposing**] nil 
+  - [**effect**] mayAffectOtherPeople
+- ese and clement will reach out to sandbox in regards to this to get more clarity 
+  - [**rationale**] most agreed 
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Frank to make adjustment in the website design  [**assignee**] FranklynStein [**due**] 29 January 2025 [**status**] in progress
+- [**action**] Slate to udpate osmium process miro  [**assignee**] Slate [**due**] 29 January 2025 [**status**] in progress
+- [**action**] Create retrospective form  [**assignee**] Slate [**due**] 29 January 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, announcement, design, Task Assignment, AI for beginners, Wiki website
+- **emotions:** productive,  Collaborative, Businesslike.
+
+
 ## Thursday 23rd January 2025
 
 
