@@ -130,6 +130,35 @@ and the "Submit your WG budgets" will be posted together with links to the Budge
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, WG reserves, Reserves, WG Sync calls, Core Contributors , publicity, Infographics, consent process, minimum budgets
 - **emotions:** gloomy, decisive, Organised
+## Wednesday 19th February 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AndrewBen, AshleyDawn, esewilliams, eve, frosh, Gorga Siagian, Kateri, kenichi, LordKizzy, Malik, Mikasa, osmium, SubZero, UknowZork, Slate, maxmilez, Alfred Itodele
+- **Purpose:** Project Updates-Presentation Series Budget Allocation-Agix Price Discussion 
+- **Working Docs:**
+  - [Presentation Series ](https://docs.google.com/document/d/13NNcn5OCbiSVZz_0ZNAntm9Q9AnuzJiGoM5BdVfn48s/edit?usp=sharing)
+
+#### Discussion Points:
+- Meeting started off with the updates from Ai for Beginners which was presented by Ese 
+- Ese notified that there is one SEO still missing. The Franklyn video has been updated which were having link issues which is also fixed now 
+- Then the presentation of the Presentation Series project started by Kenichi in which budget allocation for the modules were showed. 
+- Ese notified that her and clement were working on the Webinar series , on which Slate notified that we would have to consider the AGIX price before executing the projects at initial stages 
+- Then there was a shift of discussion on the AGIX price in which different opinions were shared that
+- allocate agix not dollars 
+- reduce the rate till the price goes up and pay the rest later 
+- Reduce the amount of projects  
+- More detailed discussion on agix price with the current project allocation to be showcased in next meeting  by Slate 
+
+#### Action Items:
+- [**action**] Slate to present the budget allocation on different projects by next meeting and deducing possible routes for allocation  [**assignee**] Slate [**due**] 26 February 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation,  ACP, Google Classroom,  Experimentation, Q2 2025 budget, Budget caps, Governance Workshop Presentation Series
+- **emotions:**  Collaborative
+
+
 ## Thursday 20th February 2025
 
 
