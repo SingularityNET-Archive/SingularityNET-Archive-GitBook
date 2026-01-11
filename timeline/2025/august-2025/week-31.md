@@ -4,6 +4,47 @@ description: Mon 28th Jul - Sun 3rd Aug 2025
 
 # Week 31
 
+## Friday 1st August 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Mikasa, advanceameyaw, Eric Davies, esewilliams, kenichi, LordKizzy, Alfred Itodele, Jeffrey Ndarake, Kateri, osmium
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the Marketing Guild call by welcoming attendees and sharing the agenda for discussion. The group reviewed action items from the previous meeting.
+- Update on Podcast Initiative:
+Kenichi outlined the strategy for scheduling three podcast recording sessions over the next three weeks using Riverside, emphasizing the importance of confirming dates with project participants.
+- Scavenger Hunt Team Update:
+Eric Davies reported that the scavenger hunt team has streamlined to four members and established clear roles for each participant. They are preparing to begin bot wrangling to customize Discord bots essential for the scavenger hunt. Additionally, there is potential for collaboration with the Video Workgroup regarding an engagement bot that tracks content and features a leaderboard. Ese Williams proposed launching the campaign in August to prevent delays and suggested shortening the deliverables timeline from six to four weeks. Eric Davies noted the schedule depends on the bot’s readiness. Ese also requested clear metrics for tracking progress.
+- Group Composition Concerns:
+Jeffrey noted that two groups lack new members, highlighting that this limits diversity and progress. He suggested including fresh participants for better balance.
+- Membership Challenges in Marketing Guild:
+The Marketing Guild has a large number of active contributors but is struggling with a budget that has decreased significantly since its inception, as highlighted during the meeting. The current budget of around 3,000 USD per quarter is insufficient to support new members, leading to concerns about existing members feeling underpaid. It was confirmed that this budget issue is a key reason for the inability to recruit more members.
+- Discussion on Zealy:
+Ayo informed the group about a session on Zealy set for August 7th, aimed at addressing ongoing concerns about its purpose and value. Advance emphasized the need for a few members to attend Governance call, while Kenichi confirmed he would represent the Writers Workgroup and also marketing guild to discuss the benefits of Zealy.
+
+#### Action Items:
+- [**action**] Advanceameyaw to provide updates on the Afro multilingual literacy drive next meeting. [**assignee**] advanceameyaw [**due**] 15 August 2025 [**status**] todo
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 15 August 2025 [**status**] todo
+- [**action**] Cj Frankie to have a call with Ayo to resolve the enduring action item in the summary note. [**assignee**] CJFrankie, Ayo [**due**] 15 August 2025 [**status**] todo
+- [**action**] Kenichi to send documentation regarding the podcast initiative's team breakdown and allocation distribution. [**assignee**] kenichi [**due**] 15 August 2025 [**status**] todo
+- [**action**] Eric Davies to reduce scavenger hunt timeline from 6 weeks to 4 weeks and also to  [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Podcast Intiative, Scavenger Hunt Team Update, New members,  Zealy sprints 
+- **emotions:** Peacefull,  Collaborative,  Understanding.  
+
+
 ## Saturday 2nd August 2025
 
 ### Gamers Guild
