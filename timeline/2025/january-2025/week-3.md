@@ -202,6 +202,7 @@ We noted that this last topic is on the rolling Governance WG agenda for our nex
 - **emotions:** Thoughtful , focused, participatory
 ## Wednesday 15th January 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -245,6 +246,62 @@ We noted that this last topic is on the rolling Governance WG agenda for our nex
 #### Keywords/tags:
 - **topics covered:** CCCP, website, design, Task Assignment, AI for beginners
 - **emotions:** productive,  Collaborative, Businesslike.
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], lord kizzy [**documenter**], lord kizzy, AshleyDawn, advanceameyaw, guillermolucero, AJ, PeterE, osmium, hogantuso
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [Q3 Research & Development Guild Budget](https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing)
+  - [UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ](https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing)
+  - [Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ](https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+  - [Retrospective and Learnings from Q4 R&D New Operations Systems](https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing)
+  - [Slides on the voting results ](https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Facilitation in Q1
+- Open discussion
+How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.
+- MeTTa Coders Lab Discussion
+- Good bye messages
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members
+- Retrospective and goals for 2025: we had a retrospective session where members contributed on their views 
+- R&D Guild MeTTa Coders Lab  Initiative: We presented a proposal for the RFPs and we are awaiting a confirmation, we also need to create a taskforce for the Metta Coder lab
+- Follow up on the CSDB: AJ noted that rojo suggested that they build  on the domain and there are still further discussions to be made on this
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Lordkizzy has provided a report on his deliverables and Guillermo will review and  merge his report with the existing one
+- R&D Guild: We are going to onboard new proposals this quarter
+
+#### Decision Items:
+- We decided that we are going to onboard new proposals this quarter
+  - [**rationale**] we need to ensure the current team present deliverables and take up new proposals
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Lordkizzy and guillermo to have a call to discuss on the governance dashboard project [**assignee**] LordKizzy, guillermolucero [**due**] 22 January 2025 [**status**] todo
+- [**action**] ALL team members to provide a Quarterly report on projects in developments [**assignee**] Team members [**due**] 22 January 2025 [**status**] todo
+- [**action**] Lordkizzy to provide a report on the Governance dashboard [**assignee**] LordKizzy [**due**] 25 December 2024 [**status**] done
+- [**action**] Guillermo to create a task force sheet for members to express interest in contributing to the Metta Coder Lab [**assignee**] guillermolucero [**due**] 22 January 2025 [**status**] todo
+- [**action**] Guillermo to see how we could utilize the UI sandbox tool for the R&d Guild [**assignee**] guillermolucero [**due**] 22 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB
+- **emotions:** Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative
 
 
 ## Thursday 16th January 2025
