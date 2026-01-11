@@ -417,6 +417,7 @@ Writers
 
 ## Friday 21st March 2025
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -448,3 +449,48 @@ Ambassador Program website: In this meeting, Ines proposed the idea of creating 
 #### Keywords/tags:
 - **topics covered:** Ambassador Program website, R&D guild, Twitter/X Premium, article submission form, roles
 - **emotions:** Brief
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], LordKizzy, kareem, kenichi, Gorga Siagian, Eric Davies, Kateri, advanceameyaw, UknowZork, Jeffrey Ndarake, SubZero, Mikasa, hogantuso
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Design Work Group(under marketing)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740672236759656%26amp;usg%3DAOvVaw0ZOENfBt_1d9aJBh6k0bh3&sa=D&source=docs&ust=1740672236764018&usg=AOvVaw0ZJ0G-_bvispWqK7jdvKXh)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [R&D New Proposal Submission [Template] ](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [DRAFT Podcast Episode 1 With Peter as community manager in the SingularityNET community](https://docs.google.com/document/d/1mFOA5Vwmo_4TorRfNOQl5gjxADrR6whxwF8PvneK28s/edit?tab=t.0)
+  - [Podcast Update: [TBD]](https://docs.google.com/document/d/1y8xdSDYrBEoIhkBUq_RvCqjsjOXEk0nBGR-zflGmOs8/edit?usp=sharing)
+
+#### Discussion Points:
+- The meeting opened with Ayo stressing the importance of punctuality and accountability. He voiced concerns about members' commitment levels, particularly those arriving late, and urged everyone to align their actions with their stated commitments.
+- Ayo reviewed the agenda and previous meeting notes, requesting clarification on Kevin's MindPlex Guild proposal. Gorga explained the graphics team’s non-hierarchical structure, while Ayo emphasized the need for all members to review the governance document before the next meeting, setting a 70% review benchmark for effective decision-making. He also addressed the status of action items, noting that only three out of seven had been completed, and urged members to submit their tasks for March.
+- Discussion on Q1 Report and Guild Q2 Budget:
+LordKizzy presented the Q1 report, highlighting successful initiatives, increased participation, and the adoption of GitHub for project management. He also provided updates on community proposals and the upcoming podcast initiative. However, Tevo objected to the budget proposal, citing insufficient reporting from the previous quarter and concerns about tax duplication. LordKizzy addresses the consents made. He pointed out that accusations of dishonesty towards the guild are unfounded and disrespectful, citing a meeting summary by Eric Davies that supports their position on fund allocation. LordKizzy also noted that a proposal for increased funding for podcast was rejected.
+
+- Budget Review and Adjustments Discussion: LordKizzy emphasized the importance of documenting the Marketing Guild Budgets and Reports for future consultations. Ayo sought input on the budget, encouraging members to voice any concerns about misrepresentation or omissions. He highlighted a significant difference in the current budget compared to the previous quarter, primarily due to fluctuations in token prices.
+- Updates on Initiatives: LordKizzy noted that there was no budget allocation for the Zealy initiative in the Writers' WG for the upcoming quarter and suggested scheduling a call to address this issue. Eric provided an update on the podcast initiative, indicating that it was initially set to start on Sunday but will now commence next week due to technical issues. 
+- Podcast Script and Payment Discussion: Gorga asked about payment for his podcast script, and LordKizzy clarified that payment would only be processed after the first episode is published.
+- Discussion on the Podcast update: Mikasa shared updates on the podcast's first episode, detailing delays caused by an electrical surge that damaged her equipment. She confirmed that the necessary tools and scripts are ready, and invites will be sent to Peter for scheduling.
+- A.O.B: Eric Davis introduced a new community initiative focused on user engagement. Ayo encouraged him to proceed and advised that if it’s a committee initiative, he should keep the proposal confidential and submit it properly. He suggested reaching out to LordKizzy for the submission form, noting that the idea sounded promising.
+
+#### Action Items:
+- [**action**] All members to read the governance documents and provide comments before the next meeting. [**assignee**] members  [**due**] 28 March 2025 [**status**] todo
+- [**action**] Kareem to have a discussion with Gorga regarding the proposed structure for the graphics team. [**assignee**] kareem [**due**] 28 March 2025 [**status**] todo
+- [**action**] Photogee to share the Marketing Guild Google Drive to LordKizzy  [**assignee**] photogee [**due**] 28 March 2025 [**status**] todo
+- [**action**] LordKizzy to reach out to Eric Davies regarding updates on the Zealy initiative.
+ [**assignee**] LordKizzy [**due**] 28 March 2025 [**status**] todo
+- [**action**] Jeffrey to put a comment in the Marketing Guild channel on Discord to help us identify him. [**assignee**] Jeffrey  [**due**] 28 March 2025 [**status**] todo
+- [**action**] Mikasa to send invites to Peter for the podcast recording and confirm his availability. [**assignee**] Mikasa [**due**] 4 April 2025 [**status**] todo
+- [**action**] LordKizzy to reach out to kenichi regarding the Zealy initiative allocation for Writers WG  [**assignee**] LordKizzy [**due**] 4 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q1 Report, Q2 2025 budget, Initiatives, Community podcast update
+- **emotions:**  informative,  Satisfaction ,  insightful
