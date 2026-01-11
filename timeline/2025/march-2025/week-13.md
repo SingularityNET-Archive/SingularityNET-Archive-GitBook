@@ -73,6 +73,7 @@ This question will be looked at again in Thursday's meeting
 
 ## Wednesday 26th March 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -105,6 +106,49 @@ Different governance scenarios will be presented
 #### Keywords/tags:
 - **topics covered:** Updates, Consent, Less Attendance, Governance series, Consent process, AI for beginners
 - **emotions:**  Collaborative
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], LordKizzy, advanceameyaw, guillermolucero, Bandojayy, AshleyDawn, Jeffrey Ndarake
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form ](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+
+- Review of last meeting summary Action Items
+
+
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+
+
+- MetaCoders Lab Discussion
+
+- AOB Open discussions
+- Project Showcase Preparation for R&D Guild
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members
+
+- New proposal applications: Guillermo went over the proposal submissions. There were still two submissions (AI agent and a meeting scheduling system) after the extension but lordkizzy noted that he was working on a proposal and he would make a submission before the deadline.
+- R&D Guild Budget concern: We went through the budget concerns, guild members gave their response to this, while Guillermo documented the feedback. Advanceameyaw also addressed the status of the Collaboration SQL database, confirming the launch of a beta version and ongoing improvements. 
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo emphasizing the inclusion of anonymity in their blueprint and the necessity for a structured roadmap for the project.
+- UPDATE STATUS ON DEVELOPMENT: CSDB-Collaboration-Skills-Database: Advanceameyaw outlined the testing process for community members and the need to finalize user-profiles and Discord logins
+- Project Showcase Preparation for R&D Guild members with AI Sandbox: Lordkizzy detailed the upcoming project showcase for the Collaboration Skill Database, emphasizing its features such as in-depth overview, live demonstrations and an exploration of real-world applications. Advance also mentioned that the session will cover challenges encountered during the project and improvements made, providing valuable insights for attendees.
+
+#### Action Items:
+- [**action**] Lordkizzy to follow up on communication with the soft launch of the deployment of Legacy [**assignee**] LordKizzy [**due**] 26 March 2025 [**status**] todo
+- [**action**] Advanceameyaw to write a short paragraph explaining the status of the Collaboration SQL database to Guillermo on Discord. [**assignee**] advanceameyaw [**due**] 26 March 2025 [**status**] todo
+- [**action**] Guillermo to prepare a written response regarding the concerns raised in the quarterly report. [**assignee**] guillermolucero [**due**] 26 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Nunet, CSDB, MeTTa Coder Lab,  Team Collaboration , legacy project
+- **emotions:**  Collaborative,  informative,  Understanding.  
 
 
 ## Thursday 27th March 2025
