@@ -133,6 +133,7 @@ What does change in report measurement tells you and what is our workgroup perfo
 
 ## Tuesday 8th July 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -164,6 +165,58 @@ The meeting wrapped up with Clement promising to share the storyline documents u
 #### Keywords/tags:
 - **topics covered:** Multilingual, Marketing Guild, Education initiative, Q2 2025 budget
 - **emotions:**  insightful, welcoming, progressive, relaxed, collaborative
+
+
+
+### Treasury Automation WG
+
+- **Type of meeting:** One-off event
+- **Present:** Tevo, André [**facilitator**], Tevo, Jeffrey Ndarake [**documenter**], Tevo, André, Effiom, Jeffrey Ndarake, Rems, UKnowZork
+- **Purpose:** We develop the Treasury System
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764632039939633&cot=10)
+- **Other media:** [Link](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/22/views/2)
+- **Working Docs:**
+
+#### Agenda item 1 - Treasury Automation Updates & Project Progress - [carry over]
+
+#### Discussion Points:
+- [Youtube Video link](https://www.youtube.com/watch?v=5RRj7UUtPZU) for updates
+- Mainly about Zoom API Updates and minor bug fixes and UX changes
+- Other Updates include insights about the Governance Workstream Consortium Proposal, where Tevo is attempting to provide Voltaire Swarm services (which include a lot of tools and designs that were built for the SingularityNET Ambassador Program)
+- Other Updates include insights about the Cardano Dashboard by MeshJS Team, where Andre is helping to build the backend for data aggregation
+- What are the next steps for Discord Bot Development?
+- What else could we improve?
+
+#### Decision Items:
+- We have 1 Public Treasury Operation Call on 7th August, where Tevo goes through Treasury Operations and Records a video
+- Effiom waits the release of the 7th August video and transcription before starting to update the Treasury Operation Guidelines
+- UKnowZork waits for the release of next Treasury Automation WG Session transcripts  on the 2nd Sept before creating Guides for Discord Session Faciliators
+
+#### Action Items:
+- [**action**] Effiom to update [Treasury Operations Guidelines](https://docs.google.com/document/d/1sbZPqeS3-omflKMAg1SiYhG7hZG7Xqg34U-4SgUBd48) [**status**] todo
+- [**action**] Coordinate with Demonix to test and specify Discord Bot permissions once bot is ready, incase Tevo Admin access does not get channel ID’s or cant allow bots [**status**] todo
+- [**action**] André will create and test Discord bot access for voice channels [**status**] todo
+- [**action**] André will create a user guide for Discord bot API integration (to pull voice channel timeseries, preferably similar call method and filters as Zoom API) [**status**] todo
+- [**action**] UKnowZork to create a Guide for Discord Session facilitators on how to register for service and describe the process of recognising Participation for the Ambassador Program using Discord [**status**] todo
+
+#### Agenda item 2 - Budget Reserves, Incentive Model & Operations - [carry over]
+
+#### Discussion Points:
+- Where are budget leftovers come from?
+- budget leftovers that come from hourly measured tasks we complete faster than expected
+- Quick overview of the Happy Money Game and Fractal Democracy Respect Model to inspire Bonus Reward Ideas
+
+#### Action Items:
+- [**action**] Do some ideation for reward modules and next sessions, and continue drafting the bonus rewards model for us [**status**] todo
+
+#### Agenda item 3 - Workgroup Management - [carry over]
+
+#### Action Items:
+- [**action**] Tevo will prepare the Treasury Guild Q3 Progress Report and proposal for the next meeting. [**status**] todo
+- [**action**] Effiom to create Q4 Treasury Automation WG Proposal and Q4 Treasury Guild Proposal [**status**] todo
+- [**action**] Tevo to calculate how much bonus rewards we have to share from Q2 [**status**] todo
+- [**action**] Andre to submit Q2 reallocations between groups and guilds [**status**] todo
+
 
 
 ## Wednesday 9th July 2025
