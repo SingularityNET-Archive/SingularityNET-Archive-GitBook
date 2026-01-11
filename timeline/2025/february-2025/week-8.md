@@ -7,6 +7,7 @@ description: Mon 17th Feb - Sun 23rd Feb 2025
 ## Monday 17th February 2025
 
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -126,6 +127,95 @@ Described based on what task types are selected
 
 #### Keywords/tags:
 - **topics covered:** Miro Board, Proposal, Reports, Quarter, Treasury System, Budget, Development, Update
+
+
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], PeterE, AshleyDawn, Effiom, Tevo
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLvZNwWM=/?moveToWidget=3458764616773938423&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Managing Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/edit?tab=t.0#heading=h.w0kflg2wx5ub)
+  - [Meeting Summary Template](https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU/edit?tab=t.0)
+  - [Treasury Policy Submission Form Responses](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk)
+  - [Treasury Policy Processes](https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M)
+  - [Treasury Guild Proposal Q2 2025](https://docs.google.com/document/d/1huN1mzMD1n42UHPTZ7HiBNuDAbhy8rlCJGGKIk5jykc)
+  - [Treasury Guild Q1 Report 2025](https://docs.google.com/document/d/1AND0meYR-owrW1yiURmB_DyAKhD15iRMh7JGx-Dl9Qs)
+
+#### Agenda item 1 - Guild Management - Distribute Action Items - [resolved]
+
+#### Discussion Points:
+- Assigning meeting summarizer and reviewer for 17.02.2025
+- How we manage Meeting Summaries - (https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4)
+- Meeting Summary Template - (https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU)
+
+#### Action Items:
+- [**action**] Effiom will draft the meeting summary and upload it to the summary tool [**assignee**] Effiom [**due**] 24 February 2025 [**status**] done
+- [**action**] Tevo will review and publish the Meeting Summary on Discord [**assignee**] Tevo [**due**] 24 February 2025 [**status**] done
+
+#### Agenda item 2 - Policy Management - Review New Policies - [carry over]
+
+#### Discussion Points:
+- Review New Policies and Next Steps
+- Are there new Policy submissions?
+- Treasury Policy Submission Form Responses - (https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk)
+
+#### Agenda item 3 - Ratification of policies and Next Steps - [carry over]
+
+#### Discussion Points:
+- What are the next Steps for Ratified Policies?
+- Treasury Policy Processes - (https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M)
+- GitBook Update? Where and What we would say?
+- We had 0 comments on ratified policy that gained 11 yes votes again 0 objections
+
+#### Decision Items:
+- Every time a policy decision is being made or decided, we link it to GitBook
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Add a new section to Process (in policy doc) based on the way we decide to solve the implementation [**status**] todo
+- [**action**] Anyone to Create an Announcement and ping all @Core Contributors about ratified policies (include the link to GitBook) [**status**] todo
+- [**action**] Anyone to Update policy process Doc to remind using the announcement template. We use Template created in meeting for announcing policies - Do Reformat for discord use [**status**] todo
+- [**action**] Tevo to add a policy page to Ambassador Gitbook, add a summary of how policies are handled, and share the policy process and policy sheet [**assignee**] Tevo [**status**] todo
+
+#### Agenda item 4 - Finalise Quarterly Report and Proposal - [resolved]
+
+#### Discussion Points:
+- Should we call Quarterly reports, Progress Reports?
+- Treasury Guild Proposal Q2 2025 - (https://docs.google.com/document/d/1huN1mzMD1n42UHPTZ7HiBNuDAbhy8rlCJGGKIk5jykc)
+- Treasury Guild Q1 Report 2025 - (https://docs.google.com/document/d/1AND0meYR-owrW1yiURmB_DyAKhD15iRMh7JGx-Dl9Qs)
+- We updated Community Engagement section
+- Are there any sync tasks before we submit the report?
+- Does the Q2 proposal fit within caps?
+- Could we include Documentation and development time in Q2 to automate participation recording documentation or should it go to Automation WG? or Process Guild?
+
+#### Decision Items:
+- There is enough scale and interest to keep using the Participation Recognition service. We should focus on improving the way we report the outcomes and automate rewarding the import, auditing, and operations. In theory this would reduce the weekly average of 30mins operations down to 10mins
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Tevo to Update Quarterly Report with the new policy name if its submitted next week [**assignee**] Tevo [**due**] 7 March 2025 [**status**] todo
+
+#### Agenda item 5 - INF Tokens - [resolved]
+
+#### Discussion Points:
+- Do we want to leverage Influence Tokens?
+
+#### Decision Items:
+- We continue collecting Influence Tokens as paper trail and not yet create transactions
+  - [**effect**] mayAffectOtherPeople
+
+#### Agenda item 6 - Open Topics - [resolved]
+
+#### Discussion Points:
+- How do we address Token Price drops?
+- Guidance on how to budget and avoid price changes and its impact
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Guild Management, Ratification, Q2 Proposal, Q1 Report, Treasury system, Operations, Budget, INF Tokens
 
 
 ## Tuesday 18th February 2025
