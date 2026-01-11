@@ -4,6 +4,80 @@ description: Mon 17th Mar - Sun 23rd Mar 2025
 
 # Week 12
 
+## Monday 17th March 2025
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo, Effiom [**facilitator**], Effiom, advanceameyaw [**documenter**], effiom, tevo, advanceameyaw, Jeffrey Ndarake, UknowZork, Alfred Itodole
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764620541458124&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/process-guild)
+- **Working Docs:**
+  - [How we manage Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4)
+  - [Meeting Summary Template](https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/)
+  - [Knowledge Base WG Q1 Report](https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/)
+  - [Knowledge Base WG Proposal Q2](https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/)
+  - [Category Descriptions](https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/)
+  - [KBWG GitBook](https://ambassadorss-organization.gitbook.io/knowledge-base)
+
+#### Agenda item 1 - Introductions and New Member Onboarding - [carry over]
+
+#### Discussion Points:
+- KBWG new membership onboarding and feedback
+- Walkthrough of KBWG to new member
+- Anyone new here who wants to get onboarded? [Onboarding and feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfs4hiYQn98UhZs91JTzWGXHKmLBnumMtfyi5jJTtzGimdVgQ/viewform)
+
+#### Action Items:
+- [**action**] The new member to fill in the KBWG onboarding form [**assignee**] all [**due**] 3 March 2025 [**status**] in progress
+
+#### Agenda item 2 - Workgroup Management -  Dework Tasks - [carry over]
+
+#### Discussion Points:
+- Dework task reward allocation for categories descriptions
+- Assigning meeting summarizer and reviewer for 17.03.2025
+- [How we manage Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4)
+- [Meeting Summary Template](https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU)
+- Drafting Quarter 2 report
+
+#### Action Items:
+- [**action**] Advance will draft the meeting summary and upload it to the summary tool. [**status**] todo
+- [**action**] Effiom will review and publish the Meeting Summary on Discord [**status**] todo
+- [**action**] Drafting Q2 report would be assigned in the next session [**status**] todo
+
+#### Agenda item 3 - Review and Update Knowledge Base Gitbook - [carry over]
+
+#### Discussion Points:
+- [Category Description] (https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/edit?tab=t.0)
+- Where do we update? Making update in the source files (google docs and miro for now)
+- Gitbook automation update depends on what we are doing next quarter.
+- [Gitbook link] (https://ambassadorss-organization.gitbook.io/knowledge-base/value-assessment/how-do-we-recognize-value)
+
+#### Action Items:
+- [**action**] We would continue description of the main and sub-categories for the headers left [**status**] todo
+- [**action**] Create task for categories descriptions done so far [**status**] todo
+- [**action**] Align on the categories description we’ve done_ASSIGNEE_Effiom, Advance [**status**] todo
+
+#### Agenda item 4 - Plan Next Quarter Roadmap - [carry over]
+
+#### Discussion Points:
+- Scheduling of activities and tasks for Q2
+- Async organizing process documentation - End to end Process video creation
+- [Quarter 2 Calender Schedule](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10)
+
+#### Decision Items:
+- Decide on our next session who will do the resource collection
+- We agreed our meeting days for next quarter would be on 15.04.2025, 13.05.2025, and 03.06.2025, all at 10AM UTC
+- ChatGPT Costs to be included in the Q3 proposal as we forgot to include in Q2 Budget Sheet (currently have to take funds from other line items)
+
+#### Action Items:
+- [**action**] Create a detailed End To End Process on Miro Board to update GitBook + make a video of that [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador GitBook, Miro Board, Project Management, Dework, Category Descriptions, roadmap, Q2, Schedule
+- **emotions:** detailed, collaborative
+
+
 ## Tuesday 18th March 2025
 
 
