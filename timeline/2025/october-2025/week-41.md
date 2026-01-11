@@ -76,6 +76,103 @@ The number of transcription tasks was reduced from 14 to 11.
 - **emotions:**  Collaborative, Interactive, Solution oriented, Discursive
 
 
+## Tuesday 7th October 2025
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Alfred Itodele [**documenter**], Tevo, Alfred Itodele, UKnowZork, André, Kateri, Effiom
+- **Purpose:** We develop the Treasury System
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764642536166529&cot=10)
+- **Working Docs:**
+
+#### Agenda item 1 - Development Updates & Progress - [resolved]
+
+#### Discussion Points:
+- Tevo presented a detailed walkthrough of development progress since the last meeting, covering numerous updates on the GitHub Kanban board.
+Key backend updates include adding a Task Type column to distinguish 'contributions' from 'participations', creating tooling to archive old data and improve performance, and enhancing the Discord session logging for better accuracy and user experience.
+The system can now warn about duplicate Zoom names in the same call to prevent misattribution of tasks
+André updated the guild about the minor but important updates he added to the Discord and Zoom APIs, including adding error logging. He confirmed he will start on Q4 development tasks over the weekend.
+Tevo mentioned the personal development backlog he is clearing, and he is considering future projects like integrating ChatGPT for task suggestions
+
+
+#### Action Items:
+- [**action**] André to update the relevant GitHub issue with his completed API tasks. [**assignee**] André [**due**] 14 October 2025 [**status**] done
+
+#### Agenda item 2 - Workgroup Management & Task Distribution - [resolved]
+
+#### Discussion Points:
+- The first point of management was assigning the creation of the meeting summary for the current session.
+Alfred volunteered to lead the drafting, with UknowZork offering to review.
+
+
+#### Decision Items:
+- Alfred will draft the meeting summary, and UknowZork will review it
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Alfred will draft the meeting summary, and UknowZork will review it [**assignee**] Alfred Itodele, UKnowZork [**due**] 14 October 2025 [**status**] done
+
+#### Agenda item 3 - Coordinating the Q4 Report - [resolved]
+
+#### Discussion Points:
+- A major discussion focused on streamlining the quarterly reporting process to make it more efficient.
+The group explored creating report templates. A key question was whether to create one unified template for all workgroups or specific templates for each.
+The idea of a tabbed report was proposed: a high-level "overview" suitable for the Governance Dashboard, with links to "in-depth" tabs containing detailed charts, logs, and community feedback.
+There's a general feeling that engagement with reports is low. The group decided to actively gather feedback from other workgroups to understand how to make reports more valuable and easier to consume.
+
+
+#### Decision Items:
+- The workgroup will start by creating a dedicated report template for the Treasury Automation workgroup.
+The group will seek feedback by adding agenda items to the Governance call, Workgroup Sync call, and Town Hall, asking specific questions about report readability and meeting attendance.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Alfred to create the Q4 report template for the Treasury Automation workgroup [**assignee**] Alfred Itodele [**due**] 14 October 2025 [**status**] in progress
+- [**action**] Alfred will attend the Governance and Workgroup Sync calls to ask for feedback.
+Tevo will attend the Town Hall to ask for feedback.
+ [**assignee**] Tevo [**due**] 31 October 2025 [**status**] in progress
+
+#### Agenda item 4 - Coordinating the Q1 2026 Proposal - [resolved]
+
+#### Discussion Points:
+- We discussed whether the proposal document also needed a template.
+After reviewing the previous quarter's proposal, the consensus was that it is already lean and serves as a good template itself, requiring only minor updates to links, deliverables, and budget numbers each quarter.
+
+
+#### Decision Items:
+- A new template for the quarterly proposal is not needed. The existing document will be copied and updated for Q1 2026.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Effiom to draft the Q1 2026 proposals for the Treasury Guild and Treasury Automation workgroups by updating the previous versions.  [**assignee**] Effiom [**status**] todo
+
+#### Agenda item 5 - Budget Leftovers & The "Happy Money Game" - [resolved]
+
+#### Discussion Points:
+- The "Happy Money Game" experiment from Q3, used to distribute budget leftovers, was seen as a successful and motivating way to provide recognition.
+The group discussed the idea of proposing this as a recurring, program-wide initiative to foster cross-workgroup recognition.
+It was noted that significant leftovers are becoming less common due to more constrained budgets, but the principle of the game is still valuable.
+
+
+#### Decision Items:
+- The workgroup will formally suggest making the "Happy Money Game" a regular event for the entire Ambassador Program.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo and Alfred will present this idea during the November Workgroup Sync call.  [**assignee**] Tevo, Alfred Itodele [**due**] 21 November 2025 [**status**] todo
+
+#### Agenda item 6 - Next Steps, Roadmap & Future of the Workgroup - [carry over]
+
+#### Discussion Points:
+- Effiom raised the strategic point that a key goal for the workgroup should be migrating all other workgroups from Dework to GitHub to fully leverage the new automated systems.
+The group acknowledged that the core development of the Treasury System is maturing, and the workgroup's focus might shift from building new features to support, training, and driving adoption across the program.
+There was a forward-looking discussion about setting a one-year plan and potentially pausing the workgroup's regular meetings until new development needs arise, shifting its budget and time towards training sessions within other workgroups' meetings.
+
+
+
+
 ## Wednesday 8th October 2025
 
 ### Research and Development Guild
