@@ -109,6 +109,50 @@ Writers
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Q1 2025 quarterly report, AI Sandbox/Think Tank, objections, admin costs, admin costs vs outputs, Town Hall, budget discussion burnout, GitHub project board, cost standardisation, Quorum, Dework, Dework template
 - **emotions:** well-attended, inconclusive, no decisions, in-depth, slow
+## Wednesday 19th March 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Clement Umoh, esewilliams, Gorga Siagian, Kateri, Malik, osmium, SubZero, Uknowzork, Zalfred, Slate, Évéline Trinité, maxmilez
+- **Purpose:** Introductions - Budget Concerns - Certification Program - Ai for Beginners - Wiki Website Designs
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Introductions
+- Budget Concerns
+- Certification Program
+- Ai for Beginners
+-  Wiki Website Designs
+
+#### Discussion Points:
+- The Meeting started with a warm welcome , Uknowzork stepped up to present himset showcasing his interest in content creation and writing.
+- Everybody welcomed him and looking forward to his contributions 
+- Then the topic shifted towards the budget concerns which gorga presented, Education Guild Received one concern from Tevo which is listed in the consent doc. 
+
+- Slate replied to those concerns that the materials are mostly relevant to the certification program whose creation in order to test stuff was necessary along with a mention of a video which was listed in the concerns is not from education guild 
+- Most of the things everybody agreed, Zalfred also added to the discussion mentioning that Video WG has been involved with the education guild as well for their content creation 
+- After that the topic shifted towards the certification program on which suggestions were taken in regards to hosting platforms and success criteria and marketing 
+- Update from Ai for Beginners was given by ESE highlighting that the talks with Andrew Ben have ended and that there is an agreement on the posting for video at a 30 USD rate 
+- Slate mentioned that the uploads could be made like two videos at a time 
+- Slate presented the three backgrounds are being integrated to the website along with the ceritification dashboards which will be presnted by the next call 
+
+#### Decision Items:
+- Replies to concerns 
+  - [**rationale**] 
+Most agreed 
+  - [**opposing**] 
+Nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Work upon the Background integration  [**assignee**] FranklynStein [**due**] 26 March 2025 [**status**] done
+- [**action**] Replies to concerns doc [**assignee**] Slate [**due**] 26 March 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** CCCP, Budget Concerns,, Project Updates, Uploads, AI for beginners, wiki website
+
+
 ## Thursday 20th March 2025
 
 
