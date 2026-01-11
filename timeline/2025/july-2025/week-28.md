@@ -89,6 +89,7 @@ The meeting wrapped up with Clement promising to share the storyline documents u
 
 ## Wednesday 9th July 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -150,3 +151,46 @@ And he will attend the next Town Hall to say this and say a bit about what we ar
 #### Keywords/tags:
 - **topics covered:** AGIX price, controlled vocab, AI ethics, Q3 2025 budget, rule-based auditing, Deepfunding Town Hall, token price, Neo4j, Ambassador Program calendar, community engagement
 - **emotions:** interesting, short,  forward-looking
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], Gorga Siagian [**documenter**], Hotasiro, Rems, Alfred Itodele, Kateri, KENZO, UKnowZork, Slate
+- **Purpose:** Facilitation Discussion - Portofolio Selection Process & Results By Assesors - CCCP Discussion - Content Creation Roadmap- Presentation Series Update
+- **Working Docs:**
+  - [Portofolios For Review](https://docs.google.com/spreadsheets/d/15tq_42iVYvqENbf1hkIDYDP3kjUKZ-9JxxafHDy7Vko/edit?usp=sharing)
+
+#### Discussion Points:
+- Meeting started with Slate welcoming everybody
+- Meeting facilitation:
+It was decided to make a poll on the education guild Discord channel on whether to rotate Facilitation of Education Guild meetingsor not.
+- Portofolio Selection Process: 
+Portfolio submissions now closed, late submissions not accepted. Assessors have evaluated submissions for content creation, automation, and project leadership capabilities. Assessors reviewed portfolios based on the quality and relevance of submitted work, including infographics and videos. Candidates were evaluated on their skills in content creation, automation, and project leadership. Final selections were made collaboratively among assessors, ensuring that chosen candidates met the established criteria for the roles.
+- Assesor Results: 
+
+Gorga (Assesor) Assessment Results: Four qualified candidates selected by Gorga: Lord_Kizzy, Zalfredd, Devon Hardy, and Frosh. Individual comments provided for all candidates with detailed feedback on submitted samples. 
+
+Kateri (Assesor) Assessment Results: Video production requirement - many candidates disqualified for submitting only infographics without video samples. Skill overlap rationale - video editors typically can also create infographics, but not vice versa. Kateri agreed with Gorga's selection of four candidates for the certification program. The candidates were chosen based on their performance in submitted portfolios, particularly their ability to produce both infographics and videos.
+
+Ese (Assesor) Assessment Results: Ese was not present at the meeting, but through the assessor's scoring on the spreadsheet, she has commented on the candidates' portfolios, but has not yet decided who passes. Final qualifications will be determined after discussions among the assessors to ensure a comprehensive evaluation of each candidate's skills.
+- Content Creation Roadmap:
+Five-person requirement - The selection process for content creators has identified four qualified candidates, so an additional candidate is needed to meet the five-person requirement for the content creation team. The assessors will evaluate any late submissions to potentially include another candidate. Peer review system - each content creator assigned a peer reviewer to evaluate infographics and videos before submission.
+- Presentation series proposed by Kenichi:
+completion of Module 3 - Kenichi has shared the link for the Module 3 presentation series. Module 3 is part of a presentation series that aims to improve the delivery of educational content. Kenichi has shared the link to Module 3 for team members to review and use in ongoing projects. Final module pending - Module 4 remaining, assigned to Zalfredd to complete first phase.
+
+#### Decision Items:
+- We agree to create a poll to decide whether the facilitation is rotated or not
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Slate to share success criteria document with assessors in Assesor group chat  [**assignee**] Slate [**due**] 23 July 2025 [**status**] todo
+- [**action**] Slate to make adjustments to success criteria document and finalize by next Wednesday Meeting [**assignee**] Slate [**due**] 23 July 2025 [**status**] todo
+- [**action**] Slate to create task assignments for content creators by next meeting and share new initiatives for member involvement by next week's meeting [**assignee**] Slate [**due**] 23 July 2025 [**status**] todo
+- [**action**] Gorga to create poll in educational channel asking whether facilitation should rotate (yes/no format) [**assignee**] Gorga Siagian [**due**] 10 July 2025 [**status**] done
+- [**action**] Assessors make the final decision for the Infographic Design and Video Editor role selection process at the next meeting. [**assignee**] Gorga Siagian, Kateri, esewilliams [**due**] 23 July 2025 [**status**] todo
+- [**action**] Zalfred to complete module 4 for phase 1 of the Presentation series. [**assignee**] Zalfred [**due**] 23 July 2025 [**status**] todo
+- [**action**] Kateri to document the next meeting session [**assignee**] Kateri [**due**] 23 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Process improvement, presentation series, role assignment, Decision Making Process, Facilitation, portfolio, Assessor, content creation roadmap
+- **emotions:**  Collaborative
