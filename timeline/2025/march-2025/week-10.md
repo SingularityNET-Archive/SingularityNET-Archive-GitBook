@@ -145,6 +145,7 @@ End of Year Report: anything still to be added should be done by this Friday (7t
 
 ## Wednesday 5th March 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -209,6 +210,46 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 #### Keywords/tags:
 - **topics covered:** graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics
 - **emotions:** interesting, wide-ranging, well-attended, slightly combative
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, Clement Umoh, FranklynStein, Gorga Siagian, kenichi, Malik, osmium, Tevo, TheFreysDeFi, unkowzork, Zalfred, Kateri, Slate, maxmilez
+- **Purpose:** Budget Request Discussion- Quarterly Report- Project Updates
+- **Working Docs:**
+  - [Budget Request](https://docs.google.com/spreadsheets/d/18MsTHmpJ0wU6_JvTfi2q8_XfKvMbUWyQgpsClxyi91s/edit?gid=0#gid=0)
+  - [Quarterly Report ](https://docs.google.com/document/d/1Cgd0MmAyUTPd3qIABrq5nyRaiR_6T9S9WR0ib3XDeXM/edit?usp=sharing)
+
+#### In this meeting we discussed:
+-  Project Updates
+- Budget Request Discussion
+- Quarterly Report
+
+#### Discussion Points:
+- meeting started off with slight discussion in regards to recording meeting participation of education guild directly from discord 
+- Then Project Updates were given , starting off from Ai for beginners , Slate mentioned that resources are just waiting to be rolled out and rest of the project is complete 
+- Wiki website updates were given by Franklyn in which he mentioned that the video addition part and the dashboard integration part of the website is left which will be done shortly 
+- Afterwards Osmium showcased the blueprint for the governance series in which multiple questions were asked.It was also mentioned that with the current scope of the project in the blueprint its going to be hard executing it with the current budget 
+- Updates from the presentation series were given by Kenichi, in which he mentioned he is having calls with the content creators, and the next module #2 has also been assigned.
+- Slate showcased the budget request in which only one project is going to be undertaken in the next quarter with decreased operations cost 
+- Meeting closed off with clement showcasing the quarterly report and sharing it for suggestions with everyone 
+
+#### Decision Items:
+- Undertake one project per quarter 
+  - [**rationale**] Most agreed
+  - [**opposing**] nil
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Slate to checkout quarterly report  [**assignee**] Slate [**due**] 9 March 2025 [**status**] done
+- [**action**] Send out dashboards and video samples to frank [**assignee**] Slate [**due**] 10 March 2025 [**status**] done
+- [**action**] Franklyn to make embedding of the videos and Dashboards [**assignee**] FranklynStein [**due**] 14 March 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Project Updates,  Budget Allocation, AI open discussion , Q1 2025 quarterly report, Q2 2025 budget, AI for beginners, wiki website, Governance Workshop Presentation Series
+- **emotions:**  Collaborative
+
+
 ## Thursday 6th March 2025
 
 
