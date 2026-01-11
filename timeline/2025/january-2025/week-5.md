@@ -69,6 +69,62 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 - **emotions:** well attended, Organised
 
 
+## Wednesday 29th January 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, Clement Umoh, esewilliams, frosh, Gorga Siagian, kenichi, LordKizzy, Malik, SubZero, Zalfred, hogantuso, Slate
+- **Purpose:** CCCP Process Presentation by Slate - AI for Beginners Updates and Finalization Steps by Ese - Wiki Website Update - webinar series Updated Document by Clement 
+- **Working Docs:**
+  - [Certification Program Process ](https://miro.com/app/board/uXjVLn7Lfag=/?share_link_id=248184016016)
+  - [Webinar Series ](https://docs.google.com/document/d/1V5W6yUgzJRTe63SIZW6g-RaDuOmmWNWxonm_A4Ca27g/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- CCCP Process Presentation by Slate
+- AI for Beginners Updates and Finalization Steps by Ese
+- webinar series Updated Document by Clement 
+- Wiki Website Update 
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- The Meeting started off with the refined presentation of the upcoming certification program process 
+- Miro Board was shared and the complete process was explained which included multiple new additions to the previous process 
+- one was the introduction of selection among people based on their past work and the second one being the introduction of peer reviewers to the process
+- The count for undertaking of spin-off project will stay the same meanwhile one person will be assigned for the creation of resources and side by side one person will be picked for peer reviewing  
+- Multiple comments were given in regards to both the changes , one strong point coming was that selection of people should be done by the project lead and not through multiple people or voting stages 
+- Another important step being introduced was the introduction of a success criteria for both the graphics and the videos 
+- Then the discussion shifted to Updates from AI for Beginners in which ese notified that most of the videos are ready and voted out meanwhile she is still trying to reach out to franklyn in regards to the video 
+- Then it was notified that both the SEO and graphic people have been selected and that they will soon hand over their work 
+- Individual updates from both the SEO and graphic were taken 
+- Webinar updated document was presented by Clement introducing a monthly cost of 400$ and quarterly cost of 1200$, which was agreed by most of the group and recommendation of connecting with marketing and ai sandbox was introduced 
+- Wiki website had no updates 
+
+#### Decision Items:
+- Introduce selection process from the project lead 
+  - [**rationale**] mostAgreed 
+  - [**opposing**] nil 
+  - [**effect**] mayAffectOtherPeople
+- Peer reviewers to be introduced in the next round of creations 
+  - [**rationale**] most agreed 
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Collaboration discussion to be carried out between AI sandbox and Marketing 
+  - [**rationale**] most agreed 
+  - [**opposing**] nil
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Gorga to Reach out to Frank in regards to the site  [**assignee**] Gorga Siagian [**due**] 5 February 2025 [**status**] in progress
+- [**action**] Ese to communicate the graphic design with the designers  [**assignee**] esewilliams [**due**] 5 February 2025 [**status**] in progress
+- [**action**] Add considerations given to the process  [**assignee**] Slate [**due**] 5 February 2025 [**status**] in progress
+- [**action**] ese and clement to reach out to marketing and ai sandbox for potential collab [**assignee**] esewilliams, Clement Umoh [**due**] 5 February 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, design, Task Assignment, AI for beginners, wiki website
+- **emotions:** productive,  Collaborative, Businesslike.
+
+
 ## Thursday 30th January 2025
 
 
