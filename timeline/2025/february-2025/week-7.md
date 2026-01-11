@@ -84,6 +84,7 @@ We briefly discussed the 'DRAFT process for how to use the "New Ideas" budget' d
 ## Wednesday 12th February 2025
 
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -198,6 +199,58 @@ One of the activities that took place during Q4 2024 was X Spaces, which encoura
 
 #### Keywords/tags:
 - **topics covered:** Brazil, Colombia, Events, X spaces, gamification, internal communications
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], lord kizzy [**documenter**], lord kizzy, AshleyDawn, guillermolucero, osmium, Eveline Trinite, Slate, Kateri, advanceameyaw, CollyPride, kenichi, PeterE
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem](https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel)
+  - [Kenichi's proposal: LEGACY v0.1](https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs)
+  - [Reputation System using SoulBound Tokens (SBTs) ](https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb)
+  - [LEGACY vs Web3 Contributor Dashboard](https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing)
+  - [R&D Guild Q3 Operations Update ](https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing)
+  - [R&D Guild Proposal Template](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [New Collaboration Skills Database Proposal](https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit)
+  - [NON-DISCLOSURE AGREEMENT](https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit)
+  - [Retrospective and Learnings from Q4 R&D New Operations Systems](https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing)
+  - [Slides on the voting results ](https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing)
+  - [Mathematical Model for Weighted Rank Calculation](https://docs.google.com/document/d/17KSRbJolmKHK5IGQkG0denUf60iczoDaRDQAf9DBMs8/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Open discussions
+
+- MetaCoders Lab Discussion
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members
+- Discussion on MetaCoderLab Collaboration: Guillermo went through the need to collaborate in this initiative and we have plans of collaborating with AI Sandbox, Gamers guild, Education guild, Onboarding wg. Lordkizzy will follow up on this with a call with the representatives
+- New proposals applications, we have open applications on Tuesday the 11th of February, Guillermo implored members to take their time and submit proposals 
+- Follow up on the CSDB: Guillermo expressed the need to deploy the tool and get feedback from the community, advance explained the issues causing the delay with the project, he expressed that the integration with rojo database presented complications and he is currently trying to deploy the database on Supabase, and he would create a domain for the this 
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Lordkizzy and guillermo had a call within the week where they went through the document and guillermo added his inputs onto the document. he also spoke on getting advance and Aj joining the project once they are done with the CSDB project.
+- UPDATE STATUS ON DEVELOPMENT: Legacy: Kenichi noted that the landing page is ready to be deployed 
+- AOB: Colleen spoke on ideation on MeTTa language and she wanted to know those interested in this 
+
+#### Decision Items:
+- we decided to change the name of the Collaboration Skills Data-Base to "Skills Data-Base" 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Guillermo to create a task force sheet for members to express interest in contributing to the Metta Coder Lab [**assignee**] guillermolucero [**due**] 19 February 2025 [**status**] todo
+- [**action**] Lordkizzy to schedule a call with guillermo  to structure the next proposal voting round [**assignee**] guillermolucero [**due**] 19 February 2025 [**status**] todo
+- [**action**] Lordkizzy to set up a call with all the team members on their projects [**assignee**] LordKizzy [**due**] 19 February 2025 [**status**] todo
+- [**action**] Lordkizzy to schedule a call with the representatives of the Education guild, Gamers guild, AI Sandbox Thinktank and Onboarding WG [**assignee**] LordKizzy [**due**] 19 February 2025 [**status**] todo
+- [**action**] Lordkizzy to follow up on communication with the soft launch of the deployment of SDB and Legacy [**assignee**] LordKizzy [**due**] 19 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB
+- **emotions:** Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative
 
 
 ## Thursday 13th February 2025
