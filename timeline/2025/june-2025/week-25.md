@@ -222,3 +222,52 @@ Santos emphasized that censorship is unavoidable when AI is deployed on a global
 #### Keywords/tags:
 - **topics covered:** API, AI Models, Open source, Misuse gap, Right, Privilege, Modules, Safety, Discussion/Debate Session, Global inequality
 - **emotions:** Interactive, Educational, Productive, Informative, Discursive
+## Saturday 21st June 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Slate [**facilitator**], devon [**documenter**], LordKizzy, Onfroy, Kateri, Slate
+- **Purpose:** Objection review from voting round, clarifying budget allocations, decentralization of tasks, long-term value of the Guild, and onboarding.
+- **Working Docs:**
+  - [Budget Request for Gamers Guild Q3 2025](https://docs.google.com/spreadsheets/d/1tWu7LSP5t__bHE0w7ApWR8MHCPBsXMjshfVarjLDbQQ/edit?gid=0#gid=0)
+  - [Quarterly Report Q2 2025 Gamers Guild](https://docs.google.com/document/d/1hxG_uaVFzrsVJMUSUtvQ-UcUSN2S8pUCtFR2UsiQOk0/edit?usp=sharing)
+
+#### Discussion Points:
+- Slate explained the Guild's mentoring model and development scope, including asset creation, API integration, and AI behavior scripting in Roblox to new member Onfroy.
+
+- Review of objections to Q3 2-25 budget: 
+Objection 1: "No clear outcome, reserves not explained."
+➤ Countered by referencing the Q2 2025 report and Dework tasks showing reserves allocated for in-progress items (e.g., Writers Guild tasks, R&D support, asset payouts).
+
+Objection 2: "One person earns too much. What's the point of the project?"
+➤ Slate’s involvement is due to specialized development work.
+➤ Guild tasks are open and skill-based; low participation often leaves technical tasks to Slate.
+➤ Members backed this with examples and suggested greater visibility and shared responsibilities.
+➤ Kizzy proposed onboarding more people to learn scripting/UI to balance task distribution.
+
+- Guild Purpose Clarification:
+
+Gamers Guild’s goal isn’t just game-making but:
+Visualizing and showcasing Ambassador Program services/tools.
+Bridging SNET and broader audiences through platforms like Roblox.
+Integrating API, budget dashboards, AI models, etc.
+The game acts as an interactive mirror of SNET ecosystem, not just a play space.
+Roblox is treated as a media layer, similar to YouTube but with interaction.
+- Suggestions to decentralize tasks:
+
+Assign easier UI design tasks to members while Slate handles backend logic.
+Continue offering mentorship for scripting and building.
+Use asset creation and department building as open tasks to build skill/participation.
+
+#### Action Items:
+- [**action**] Map creators [**assignee**] Gorga Siagian, Kateri [**due**] 28 June 2025 [**status**] todo
+- [**action**] Department Creation - Writers Workgroup [**assignee**] devon, LordKizzy [**due**] 28 June 2025 [**status**] in progress
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Q2 2025 quarterly report, Decentralisation, Workgroup Goals, Consent process, Budget objections, Q3 2025 budget
+- **emotions:**  Collaborative,  forward-looking, Collaboration
