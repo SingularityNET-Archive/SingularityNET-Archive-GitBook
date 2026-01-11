@@ -6,6 +6,7 @@ description: Mon 7th Jul - Sun 13th Jul 2025
 
 ## Monday 7th July 2025
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -50,6 +51,84 @@ Interview Transcription: We might not get to do any Q3 transcriptions because we
 #### Keywords/tags:
 - **topics covered:** AI Ethics MOOC Study group, Interview Transcription, AI Ethics Interviews, budget management, deadlines, Transcript checking
 - **emotions:** quiet, short, Deliberative
+
+
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], UKnowZork, Alfred Itodele [**documenter**], Tevo, Jeffrey Ndarake, Effiom, UKnowZork, advanceameyaw, PeterE, Alfred Itodele, Rems
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764632733427764&cot=10)
+- **Working Docs:**
+  - [Knowledge Base GitBook](https://ambassadorss-organization.gitbook.io/knowledge-base)
+  - [Session Summary Archive](https://archives-dashboard.netlify.app/search?tab=meetings&workgroup=96f6ef88-5285-4ec6-8fe4-f2ab0347be00)
+  - [Workgroup Contribution and Task](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/24/views/1)
+
+#### Agenda item 1 - WORKGROUP MANAGEMENT  - [carry over]
+
+#### Discussion Points:
+- We invited new members to the Github project board and we demonstrated how to use Github by creating a Summary task.
+- Who will lead drafting and maintaining the Q3 Progress Report?
+- How much time do we allocate to the Progress Report?
+- We ideated on how we could improve the Knowledge Base structure and we suggested having an agenda item for Townhall
+
+#### Decision Items:
+- We allocated 2 hours for the first draft.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Share the Gitbook in Town Hall and ask them how they find information on their own, where people find information and their most used source for finding assets.
+- Google doc should include the following questions from our upcoming retrospectives: 
+How has our schedule affected coordination and if we should make any changes?
+What went well this quarter and what didn’t go well?
+Did our decision making processes work as intended?
+Where should our next focus be?
+What does change in report measurement tells you and what is our workgroup performance.
+
+#### Action Items:
+- [**action**] Review previous meeting session and decide next steps for action items [**status**] todo
+- [**action**] Tevo to prepare next two session agenda items [**status**] todo
+- [**action**] Tevo to coordinate Town Hall Agenda [**status**] todo
+- [**action**] UknowZork will lead to draft Quarter 3 progress report [**status**] todo
+- [**action**] Alfred will provide feedback and review the Quarterly Report before next session [**status**] todo
+- [**action**] Alfred to create a google Doc for Async feedback collection [**status**] todo
+- [**action**] UknowZork to draft and Archive Meeting Summary [**status**] todo
+- [**action**] Alfred to review and publish the Meeting Summary [**status**] todo
+
+#### Agenda item 2 - KNOWLEDGE BASE GITBOOK AND WORKGROUP  - [carry over]
+
+#### Discussion Points:
+- How do we do the resource collecting this quarter?
+- How much resources will we allocate
+
+- Should we stop resource collecting or should it be open all the time with some limits?
+
+- How many people will lead it or there’s no limit to it?
+
+#### Decision Items:
+- We allocated 4 hours to resource collecting.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We limit up to 3 people who will do resource collecting.
+- Resource collecting can be done at any point in time, preferably continuously as new items emerge
+- Every session people can sign up for the resource collecting role
+
+#### Action Items:
+- [**action**] Tevo and Alfred has currently signed up to do resource collecting [**status**] todo
+
+#### Agenda item 3 - KNOWLEDGE BASE AND ONBOARDING FEEDBACK - [carry over]
+
+#### Discussion Points:
+- Shared [Knowledge Base WG Overview Document](https://docs.google.com/document/d/1lQfYm1Wf-RD7pZgKAk7dPwrdTS8qCagSAOzRWoGYHEM)
+- A new asset for onboarding new members
+
+#### Decision Items:
+- We have decided to ask questions from new members on whether they have gotten onboarded from the Ambassador Program or been in other workgroups?
+
+#### Action Items:
+- [**action**] Tevo to update Onboarding Form with new questions [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Knowledge base, GitBook, Async, GitHub, Q2, Progress report, Q3, Proposal, Miro Board
 
 
 ## Tuesday 8th July 2025
