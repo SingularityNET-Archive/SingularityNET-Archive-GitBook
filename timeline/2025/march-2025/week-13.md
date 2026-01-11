@@ -217,3 +217,58 @@ Alfred Itodole asked if he could request tasks and receive mentorship after atte
 #### Keywords/tags:
 - **topics covered:**  Q1 budget,  Budget Allocation, Project Showcase, ASI LLM, Q2 2025 budget, Documentation, Workgroup Discord tag,  Mentoring
 - **emotions:** Welcoming, Interactive, Informative,  Understanding.
+## Saturday 29th March 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], Malik, rebel, LordKizzy, SubZero, sirxalfred, AshleyDawn, Slate
+- **Purpose:** Demonstrate a live, in‑game link to the Ambassador‑Program Budget Planner, discuss severe budget constraints and a revised meeting cadence, and collect progress updates from active workgroup and map‑creators.
+- **Working Docs:**
+
+#### Discussion Points:
+- Live Budget‑Planner UI by Slate:
+
+Demo included a scrolling ambassador program budget planner GUI in Roblox showing that refreshes every few seconds; edits in the google sheet (e.g., Treasury Guild request changed from $6013 to $7000) appeared in‑game in real time.
+
+Next steps: add quarter tabs, colour‑coded thresholds, and deliver a call with Treasury Guild (Kizzy mentor) once fully polished.
+- LLM Knowledge‑Base Concept by Slate: 
+
+Proposed hosting a private LLM containing step‑by‑step build guides, UI templates, and common troubleshooting so creators can self‑serve without waiting for live help.
+- Budget Outlook & Cadence Change
+
+Q2 allocation: 7 000 AGIX ≈ $1540 at today’s $0.22 price.
+
+To stay solvent, meeting‑related line items (hosting, facilitation, docs, publicity, gaming rewards) will be cut roughly in half by switching from bi‑weekly to monthly guild meetings (three per quarter).
+
+Revised monthly costs save ≈ $540, letting the guild operate within $1540
+
+Asset‑creation payouts remain paused except five one‑per‑person this month.
+- Writers Work Group & Admin Block by Kizzy: 
+
+Admin Block: added reception screens, meeting rooms, improved stairs, 20+ NPCs. Will integrate a FAQ dialogue system and possibly a payment/document‑submission feature.
+
+Writers WG Building: added onboarding room, social‑media offices, cafeteria, study room, and scrolling Twitter dashboards; proposes MCQ entry test and rotating book icons.
+
+Received help debugging object spin and agreed to anchor icons & save property changes.
+- Asset‑Creation Task
+
+Reopened for five submissions; creators may post short videos for voting in the guild channel.
+
+#### Decision Items:
+- Meeting frequency changed to monthly (next on 26 April) until AGIX recovers
+  - [**rationale**] Low Agix price 
+
+#### Action Items:
+- [**action**] Map Creators  [**assignee**] Gorga Siagian, Kateri [**due**] 26 April 2025 [**status**] in progress
+- [**action**] Department Creation - Writers Workgroup [**assignee**] LordKizzy, devon [**due**] 26 April 2025 [**status**] todo
+- [**action**] Department Creation - RnD Guild [**assignee**] SubZero, rebel [**due**] 26 April 2025 [**status**] todo
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox, private LLM, Knowledge base, budget planner, API integration, asset creation, meeting frequency, low token price
+- **emotions:**  Collaborative,  informative
+- **games played:** nogameplayed
