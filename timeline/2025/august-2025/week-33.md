@@ -62,3 +62,38 @@ Peter highlighted the need to keep the hackathon work small-scale, while Colleen
 #### Keywords/tags:
 - **topics covered:** Hackathon, Catalyst, ICP infrastructure, Cross chain agent integration
 - **emotions:**  informative,  insightful,  forward-looking, Ideating, Productive
+## Friday 15th August 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Eric Davies, esewilliams, kenichi, LordKizzy, Jeffrey Ndarake, CJFrankie, PeterE, UKnowZork
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the Marketing Guild call by welcoming attendees and sharing the agenda for discussion. The group reviewed action items from the previous meeting.
+- Update on Podcast Initiative:
+CJ Frankie shared that the first episode is almost finished and has received positive feedback from potential speakers. Ayo called for clear roles and fair reward distribution, mentioning that CJ Frankie wasn’t in the right position to update on those details. Lordkizzy stressed the need for a rollout plan and timeline ahead of the quarterly report deadline, and Ese urged that the rollout be planned within two weeks. Lordkizzy suggested adding himself and Ese to the groups to help manage timelines and send regular reminders for meeting quarterly deliverables.
+- Update on Scavenger Hunt:
+Eric Davies reported that the scavenger hunt bot has been developed and integrated with the Discord channel. Graphic designs by Gorga have been completed and sent to Mikasa for awareness posts. The scavenger hunt is set to launch by next week Wednesday. Lordkizzy suggested adding himself and Ese to the groups to help manage timelines and send regular reminders for meeting quarterly deliverables. Ese noted that while the timeline document has been shared, roles and allocations are yet to be included. Eric confirmed he would share a complete version covering those details.
+- Discussion on Extra Activities Allocation:
+Gorga expressed concern over the unpaid extra activities for July, which sparked a conversation about the revised payment approach. Lordkizzy explained that the former $10/hour rate has been phased out, with the guild moving toward a fixed allocation system. To address the gap, Ayo recommended a proportional payment based on the previous rate, and the group recognized the importance of reviewing time invested against the deliverables achieved. Lordkizzy explained that extra activities are reviewed during calls before payment is made, using the example of a community spotlight initiative.
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 29 August 2025 [**status**] todo
+- [**action**] Cj Frankie to have a call with Ayo to resolve the enduring action item in the summary note. [**assignee**] CJFrankie, Ayo [**due**] 29 August 2025 [**status**] todo
+- [**action**] Kenichi to send documentation regarding the podcast initiative's team breakdown and allocation distribution. [**assignee**] kenichi [**due**] 29 August 2025 [**status**] todo
+- [**action**] Ese Williams to follow up with Mikasa to ensure that the necessary posts are made for the upcoming announcement. [**assignee**] esewilliams [**due**] 29 August 2025 [**status**] todo
+- [**action**] Lordkizzy to devise two to three possible outcomes for the extra activities payment structure and present them in the next call. [**assignee**] LordKizzy [**due**] 29 August 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Podcast Intiative, Scavenger Hunt Team Update, Extra Activities Allocation
+- **emotions:**  informative, Casual, Peacefull
