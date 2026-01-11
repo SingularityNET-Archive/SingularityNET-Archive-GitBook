@@ -67,6 +67,7 @@ See Doc here: [Q3 2025 Budgets: Consent round 1 objection summary -https://docs.
 - **emotions:**  informative,  Collaborative, detailed, educative, Productive
 ## Wednesday 18th June 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -96,6 +97,44 @@ For the Wiki site, Slate noted that the project was created mainly for the Ambas
 #### Keywords/tags:
 - **topics covered:** Project Updates, Presentation Series, Wiki website, CCCP, Assessor, Consent Process, Objections, Portfolio, Ambassador GitBook, Q3 2025 budget
 - **emotions:** Interactive, detailed, collaborative, educative
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, jeffrey ndarake, LordKizzy, CollyPride, PeterE, kenichi, Tevo, TheFreysDeFi
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Review of Objections
+- AOB Open discussions
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.
+- UPDATE STATUS ON DEVELOPMENT: SEO Research: Lordkizzy presented the initial ideation document for the SEO Research, highlighting the scope, objective, timeline, and milestone deliverables. 
+- Q2 RETHROSPECTIVE: Guillermo pointed out some issues with project management were a significant focus, particularly regarding the accessibility of R&D projects on GitHub and the lack of follow-through on deliverables. Slate raised concerns about the status of the social media dashboard project, which was anticipated to be functional but had not yet been delivered. Advanceameyaw provided an update on project deliverables, noting completed deployments and testing phases while also addressing challenges such as database integration and the need for a sustainable approach. Guillermo pointed out that a lack team members responses was hindering progress, lordkizzy also highlighted the importance of learning from past failures and adapting to resource constraints.
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo provided updates on the governance dashboard and the progress of proposal templates and the voting process, indicating that current drafts are subject to revision. Colleen suggested the inclusion of  a change in the voting mechanism from consent to quorum, which Guillermo acknowledged as necessary.
+- UPDATE STATUS ON DEVELOPMENT: Events Scheduling and Notification system: Tevo provided an update on the development of a mobile application designed to improve the Events Scheduling and Notification system. he noted delays in submission and review processes, as well as the need for better integration with existing infrastructure. Guillermo highlighted the necessity of integrating communication tools with the governance dashboard to facilitate decision-making. He shared a detailed timeline and milestone deliverables
+- UPDATE STATUS ON DEVELOPMENT: Legacy: Kenichi reported progress on smart contracts, specifically focusing on matching metadata to the existing database from treasury and Dework. He has developed an admin dashboard that enables super admins to manage stewards and their roles. Currently, he is working on integrating Discord authentication to link user profiles with Dework tasks.
+- R&D Initiatives (Metta Code Labs) and Budget Concerns
+Guillermo Lucero Funes shared that he made a presentation of MetaCodersLab at Deep Funding TH with Opencog, garnering great reviews, which led to an invitation to propose an ideation RFP. He emphasized the need for collaboration on this initiative and announced a focus on a retrospective session in two weeks to discuss project progress and concerns. Lordkizzy raised concerns about the guild's direction and suggested that unresolved issues need to be addressed in future meetings. 
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Andre to discuss the integration of the Governance dashboard with the Archive summary tool. [**assignee**] guillermolucero [**due**] 2 July 2025 [**status**] in progress
+- [**action**] Advance to check if Kenichi's AWS account can be used for the project deployment. [**assignee**] advanceameyaw [**due**] 2 July 2025 [**status**] todo
+- [**action**] AJ will reach out to the deep funding team to gather feedback on the beta phase of the project. [**assignee**] AJ [**due**] 2 July 2025 [**status**] todo
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 2 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, SEO, Governance Dashboard, Status update
+- **emotions:** Collaborative,  Understanding.,  Satisfaction 
 
 
 ## Thursday 19th June 2025
