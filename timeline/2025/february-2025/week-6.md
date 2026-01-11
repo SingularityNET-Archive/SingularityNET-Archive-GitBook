@@ -153,6 +153,7 @@ This will be discussed in a later meeting.
 
 ## Wednesday 5th February 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -245,6 +246,48 @@ and discuss how the Archives dovetails with documentation that DF is doing itsel
 #### Keywords/tags:
 - **topics covered:** graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics, archives management
 - **emotions:** Discursive, interesting, progressive, wide-ranging, inventive, didactic
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AndrewBen, AshleyDawn, Clement Umoh, esewilliams, FranklynStein, frosh, Gorga Siagian, Kateri, LordKizzy, smilez, hogantuso, osmium, Malik, Slate
+- **Purpose:** Updates from Wiki website by Franklyn - Update from Governance Workshop - Webinar Series -Presentation Series flow by Tuso - Ai for Beginners - Success criterion for CCCP materials 
+- **Working Docs:**
+  - [Certification Program Process ](https://miro.com/app/board/uXjVLn7Lfag=/?share_link_id=248184016016)
+  - [Webinar Series ](https://docs.google.com/document/d/1V5W6yUgzJRTe63SIZW6g-RaDuOmmWNWxonm_A4Ca27g/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- Updates from Wiki website by Franklyn
+- Update from Governance Workshop
+- Webinar Series
+- Presentation Series flow by Tuso 
+- Ai for Beginners
+- Success criterion for CCCP materials 
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- Firstly, Franklyn showcased the website design with some new addition , He also notified that further additions will be made according to the received suggestion and will be presented shortly
+- Then we had the udpates from Governance Workshop, Kizzy notified that they are working on the blueprint document and the process has changed a bit, that they are going to be adding different governance models to the blueprint analyzing them further for presentation and implementations 
+- Clement gave an update in regards to the webinar series that he is coordinating with marketing and Sandbox think tank in ways to collaborate and how to make process in a way that using this initiative forward would also be possible 
+- Tuso gave the update from his presentation series module #1 and explained the flow of work for others to get familiar with 
+- Ese gave the update from AI for Beginners indicating that most of the stuff is finalized and moving to completion. with detailed update from each task  
+- Then for the success criterion for the CCCP resources suggestions and comments were taken and finalized 
+
+#### Decision Items:
+- Success Criterion To be formulated till next meet 
+  - [**rationale**] mostAgreed 
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Frank to make the website updates  [**assignee**] FranklynStein [**due**] 12 February 2025 [**status**] in progress
+- [**action**] Slate to create a success criteria doc with the suggestion  [**assignee**] Slate [**due**] 12 February 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, design, Task Assignment, AI for beginners, wiki website
+- **emotions:** productive,  Collaborative, Businesslike.
 
 
 ## Thursday 6th February 2025
