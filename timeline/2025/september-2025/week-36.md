@@ -50,6 +50,93 @@ There was clarification around grounded theory coding that was stated in the Q4 
 #### Keywords/tags:
 - **topics covered:** AI Ethics MOOC Study group, Interview Transcription, Interviews, budget management, deadlines, grounded theory coding, BGI25 Istanbul, Q4 budget, AGIX rate, Q3 quarterly report, transcript checking.
 - **emotions:** collaborative, deliberative, forward-looking
+## Tuesday 2nd September 2025
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Alfred Itodele [**documenter**], Tevo, Alfred Itodele, Jeffrey Ndarake, Effiom, Kateri
+- **Purpose:** We develop the Treasury System
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764637698134344&cot=10)
+- **Other media:** [Link](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/22/views/2)
+- **Working Docs:**
+
+#### Agenda item 1 - Onboarding, Open questions, & Development Updates Discussion Points - [resolved]
+
+#### Discussion Points:
+- Alfred inquired about the distinction between the Treasury Guild (TG) and the Treasury Automation Workgroup (TAWG). Tevo clarified that TG focuses on service operations like validating contributions and making on-chain transactions, while TAWG is the community-facing group that steers the development of the treasury tools themselves.
+Tevo presented development updates from August,including the integration of an AI co-pilot into the Treasury Manager for more effective feature development and debugging. Find the recorded session here[Treasury Automation WG - 02.09.25 Development Updates ](https://www.youtube.com/watch?v=4U8WALcJp6Y&t=4s) 
+A new, more modular codebase is being used, which will allow for easier distribution of treasury tools and features across different projects and networks.
+Regression testing has been completed on the new version of the Treasury Manager to ensure stability before its upcoming deployment.
+Updates to the Zoom integration were discussed, noting that some manual verification is still required due to API limitations, but the time cost is minimal.
+Tevo shared the video recording of the [End-to-End Treasury Operation Session](https://www.youtube.com/watch?v=u1kspl_6bKc) for members interested in the full operational process.
+Shared other updates related to 3 different proposals created in the Cardano Ecosystem where Treasury System would be used:
+[Proposal: Multi‑Agent Integration Platform](https://docs.google.com/document/d/1SILr7Qi1k2eqR6udJsA8THGPL5Zt7_IuWOucOWYDxZI)
+[Proposal: Open Proposal Platform for Decentralised Organisations](https://docs.google.com/document/d/1KxmPhl7LSFB6dvnenB2hXbSFht3JzV-52JYBHJMR1-c)
+[Cardano-Constitutional-Debt-Workstreams-Proposal](https://github.com/Governance-Workstream-Consortium/Cardano-Constitutional-Debt-Workstreams-Proposal)
+
+
+#### Decision Items:
+- The Discord integration feature is now ready for workgroups to be onboarded.
+Reassigned Aflred to Discord Bot onboarding task (removed UknowZork due to already on an extensive task)
+
+
+#### Action Items:
+- [**action**] Alfred to Create onboarding document for Discord Voice Channel features (for both operator and workgroup lead)
+Contact Workgroup leads that use the Discord Voice channel for meetings and ask if they are interested to setup the recognition process.
+ [**status**] todo
+
+#### Agenda item 2 - **Workgroup Management & Task Assignment Discussion Points** - [carry over]
+
+#### Discussion Points:
+- The workgroup's GitHub project board was reviewed to assess the status of ongoing tasks.
+A new task was created to document the Discord integration feature, including a user guide for facilitators on how to register and describe the process.
+The roles for the current meeting's summary were discussed and assigned.
+
+
+#### Action Items:
+- [**action**] Alfred to create the user guide for the Discord integration feature. DUE: End of Week
+Jeffrey to complete the draft of this meeting summary. DUE: Within 3 days
+Alfred to review, edit, and publish the final meeting summary. DUE: Within 3 days [**status**] todo
+
+#### Agenda item 3 - **Q3 Reports & Q4 Proposals Finalization Discussion Points** - [carry over]
+
+#### Discussion Points:
+- The Q3 Progress Reports for both [TAWG](https://docs.google.com/document/d/1KTBiHm-W3YmOiEDknLhMandpbTzcABq0Qc6If0qCzcQ) and [Treasury Guild](https://docs.google.com/document/d/1VamHX4QFfdEG6iXvZGkPQ4GlC71R_uyMnBQFVdW2Nt8) were reviewed.
+The [Q4 budget for TAWG](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY) remains capped at 2,868 Agix. A live poll was conducted to decide which new development features to prioritize for the quarter.
+The options presented were: Manage GitHub Panel, Treasury Operator UX Updates, Google Meet Integration, live coding session and Automated GitHub Task Status Changes.
+
+
+#### Decision Items:
+- The [Q4 Proposal for the Treasury Guild](https://docs.google.com/document/d/1CQLYdoNHHE3cyRH6CFQMrADS4QOFDWi5jK64GnGuDP8) was confirmed, with the primary change being a return to a weekly treasury service cadence.
+Based on the live poll, the workgroup decided to prioritize funding for two features in the Q4 budget: Treasury UX updates and Automated GitHub task status changes. The other proposed features will be removed from the Q4 budget to stay within the cap.
+
+
+#### Action Items:
+- [**action**] All Ambassador Program members are encouraged to add their feedback to the "Community Engagement" section of the Q3 Progress Report.
+Tevo to update the Q4 TAWG Proposal document to reflect the features chosen in the poll
+For future session research and discuss What are calculated into the Swarm Treasury Fees?
+ [**status**] todo
+
+#### Agenda item 4 - **Bonus Reward Distribution Plan Discussion Points** - [carry over]
+
+#### Discussion Points:
+- The workgroup has a surplus of 1,586 AGIX to distribute as bonus rewards.
+Happy Money Game like distribution model was proposed, a collaborative and transparent method for distribution.
+Members will allocate percentages of the total reward pool to their chosen nominees and provide a brief justification. The final distribution will be based on the average allocations from all participants agreed by Treasury Guild members.
+
+
+#### Decision Items:
+- The workgroup continues Bonus Reward discussion asynchronously.
+
+#### Action Items:
+- [**action**] Tevo to create and share the bonus reward distribution sheet in Discord.
+All interested members to fill out the sheet with their allocation suggestions. DUE: End of Week (Friday) [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Discord, Treasury Manager, Treasury System, Proposal, Report
+
+
 ## Wednesday 3rd September 2025
 
 
