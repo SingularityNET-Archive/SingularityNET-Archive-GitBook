@@ -143,6 +143,7 @@ meeting summary template 3 - narrative - Gamers Guild - Google doc
 ## Wednesday 6th August 2025
 
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -208,6 +209,45 @@ And he will attend the next Town Hall to say this and say a bit about what we ar
 #### Keywords/tags:
 - **topics covered:** Governance series, CCCP, glossary, GitBook, low attendance, wiki website, wiki
 - **emotions:** Ideating,  Collaborative, Insightful, relaxed, Poor Attendance 
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, LordKizzy, CollyPride, Mayor Defi, osmium, Alfred Itodele, Jeffrey Ndarake, Tevo
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+  - [Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [Enhancing Search Engine Optimization for the Ambassadors Program proposal](https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing)
+  - [AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. ](https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. 
+
+-  Address concerns; Gov-Dash / SingularityNET Ambassadors Governance Framework. 
+- AOB Open discussions: Operations moving forward,
+identify and establish priorities,
+New proposals system redesign,
+Onboarding Devs
+
+#### Discussion Points:
+- UPDATE STATUS ON DEVELOPMENT: Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access: Tevo discussed the status of event scheduling tool. Tevo clarified that he initially considered canceling the project but was contacted by REMS, who expressed interest in proceeding. He mentioned an upcoming call with Reims to review the project architecture and assess his capability in completing the project. Lordkizzy inquired about the postponement of the Guild's payments and how it affects the governance dashboard project, noting that funds were kept in treasury due to concerns with the governance dashboard. Tevo clarified that he initially considered canceling the project but was contacted by REIMS, who expressed interest in proceeding. Guillermo expressed concerns about the development capabilities within the guild, particularly concerning Tevo's proposal and the involvement of REIMS. Lordkizzy pointed out the need for proper resource allocation, noting that some developers, like AJ and Advance, are available to contribute. 
+- UPDATE STATUS ON DEVELOPMENT: Enhancing Search Engine Optimization; Vasu Madaan highlighted the strategy of using Ben Goertzel and AGI in export integration to enhance content outreach. He suggested converting long meetings into multiple shorter highlight videos to increase viewer engagement. Tevo contributed by mentioning his previous work with the YouTube API to automate title updates and streamline the content upload process. Vasu Madaan highlighted the potential for increased traction by focusing on decentralized AI and AGI content, suggesting that storytelling videos and targeted keywords could enhance viewer engagement. Guillermo supported this by noting the importance of data-driven decisions in content creation. Lordkizzy introduced a plan to identify key keywords for videos and proposed conducting training sessions to address findings from audit reports, aiming to improve content optimization across various wg groups. Guillermo presented the SEO proposal and confirmed that two milestones are already covered, suggesting the allocation of expenses be divided for disbursement. Lordkizzy preferred discussing the allocation at the end to encourage project completion, and Vasu supported the plan. Guillermo emphasized the importance of results and the need for training on the new systems. Lordkizzy highlighted the importance of enhancing SEO to boost video performance, with Guillermo agreeing on the potential for significant growth. Vasu Madaan mentioned the need for a proper SEO tool and stressed that workgroups must cooperate for successful implementation. Guillermo added that training on the tool would be essential, although it would not be mandatory.
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard; Guillermo discussed the progress of the Governance dashboard platform, emphasizing the need for SSL security to enable GitHub and Google logins. He outlined the implementation of a tagging system for proposals and the creation of a skill database to enhance collaboration. Additionally, he noted the functionality for users to cast votes and provide feedback on proposals, which is currently being tested. Guillermo outlined the role of education in the R&D process and the need for an integrated agent framework. He reflected on the guild's recent dynamics, emphasizing adaptability and the review of objectives and treasury allocations. Lordkizzy expressed concerns regarding the source of funding for tracking contributions, prompting Guillermo to explain the integration of governance proposals and the importance of tracking participation to ensure fair rewards.
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Tevo to discuss the integration of the Governance dashboard with the treasury [**assignee**] guillermolucero [**due**] 13 August 2025 [**status**] in progress
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 13 August 2025 [**status**] todo
+- [**action**] Tevo will assess the capability of REIMS in the meeting scheduled for August 7 and provide a status update in the next call [**due**] 13 August 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, SEO, Governance Dashboard, Status update, Project Management
+- **emotions:**  Understanding.,  Satisfaction , Lengthy
 
 
 ## Thursday 7th August 2025
