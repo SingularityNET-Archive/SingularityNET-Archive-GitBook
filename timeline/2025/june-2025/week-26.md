@@ -52,6 +52,34 @@ The session closed with thanks to Guillermo for his dashboard demo. Guillermo ap
 #### Keywords/tags:
 - **topics covered:** Proposal, Governance, Consent Process, Workgroups, Contributions, Treasury dashboard, Facilitation, Rationale
 - **emotions:**  informative,  insightful,  Collaborative, Discursive, Ideating
+## Wednesday 25th June 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], UKnowZork [**documenter**], Gorga Siagian, Kateri, PeterE, osmium, Alfred Itodele, devon, Rems, Slate
+- **Purpose:** CCCP Project Discussion - Consent Process Report - Presentation series Update - Administrative task roster
+- **Working Docs:**
+  - [Assesor Role Task Breakdown](https://docs.google.com/spreadsheets/d/15tq_42iVYvqENbf1hkIDYDP3kjUKZ-9JxxafHDy7Vko/edit?usp=drivesdk)
+
+#### In this meeting we discussed:
+- CCCP Project Discussion
+- Consent Process Report
+- Presentation series Update
+
+#### Discussion Points:
+- Ongoing CCCP (Core Contributor Certification) project. Gorga and Kateri presented reports on the CCCP role assessment. Gorga has provided comments on some of the submitted portfolios and has asked several applicants to include their skills in their portfolios. Kateri has not commented on some of the portfolios because many of them were blank, and she has not yet been able to access the drives containing applicants’ skills and previous work. Deadline is next week Monday.
+- Slate gave a brief presentation on a the presentation series developed by Kenichi. Regarding Module #4, Kenichi mentioned that he would be having a call with the individual assigned to that module to guide them on how to proceed. Slate confirmed that Module #3 has been completed and the payment has been processed. Zalfred was the person responsible for Module #3.
+- Slate noted that the Governance series by Vasu has already been completed
+- We concluded that henceforth the administrative tasks will be rotated amongst members. Gorga noted that since we will be meeting bi-weekly from next quarter, it's best to share the tasks weekly.
+- We concluded that henceforth our meetings are bi-weekly.
+- Slate requested that UknowZork gets the Discord membership tag for Education WG.
+
+#### Keywords/tags:
+- **topics covered:** Project Updates, Presentation Series, CCCP, Assessor, Consent Process, Portfolio, Governance series, Core Membership, Discord tag, meeting frequency
+- **emotions:** Interactive, detailed, collaborative, educative
+
+
 ## Thursday 26th June 2025
 
 
