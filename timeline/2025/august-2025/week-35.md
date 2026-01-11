@@ -111,3 +111,40 @@ Vani raised concerns about the ethical issue of explainability in AI, arguing th
 #### Keywords/tags:
 - **topics covered:** Thinktank, Redefining Intelligence in AI, AI sandbox
 - **emotions:**  informative,  insightful,  forward-looking, Productive,  Collaborative
+## Saturday 30th August 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Slate [**facilitator**], devon [**documenter**], LordKizzy, rebel, osmium, Gorga Siagian, PaulTiffany, martinsoki, Slate
+- **Purpose:** Collaborative planning and technical walkthrough of the gamified ambassador portal, debugging animation issues, advancing comic initiative, and aligning workgroup updates.
+- **Working Docs:**
+
+#### Discussion Points:
+- Gamified Portal Demo and Technical Overview
+
+Slate opened the session by demonstrating the working prototype of the Gamified Ambassador Portal. The portal includes a login system, user XP tracking, guild-specific quests, and an admin panel. It is currently built on a Next.js frontend and uses Google Sheets as a backend. However, due to Google quota limitations, there was a discussion about shifting the backend to a proper database (possibly Supabase or Firebase). The design takes inspiration from Zilly and aims to create an immersive dashboard for contributors, while also enabling automation of XP systems and portal functionality.
+- AI-Generated Comic Initiative
+
+Initiative to develop AI-generated comics that explain SingularityNET’s projects and tools was discussed. Slate, Kizzy, and Osmium discussed using characters like Desdemona and Sophia to narrate stories in comic format. Tools like MidJourney for visuals, Google's AI animator, Hexfield, and Banana Model were suggested. These comics could be used to educate users in an entertaining way. The group agreed this could be a candidate for the DeepFunding Round 5 RFP ideation track, and Osmium offered to create a workflow demo to illustrate the comic creation pipeline.
+- Writers Workgroup Animation Debugging
+
+Lord kizzy mentioned the malfunctioning NPC animations in the Writers Workgroup department of the Roblox world. New animations prepared for characters like Devon were not playing correctly, even after republishing. It was concluded that the problem might be due to improper asset linking or format inconsistencies. To resolve this, the team agreed to test and reuse working animations from the Video Workgroup. Kizzy was tasked with copying and testing these working animation assets.
+- Visual Enhancements to R&D Guild Areas
+
+Rebel showcased improvements to the R&D Workgroup's rooms, including updated visuals for the Social Media Automation Tool (also correcting its name) and a more informative Governance Dashboard. The Governance section now includes a dynamic token price chart and upcoming AGIX votes UI, increasing interactivity and educational value. There were further plans to display token usage and past voting history within the portal. These upgrades aim to make the Roblox space not just visually appealing but also functionally informative.
+- Team Expansion and Mentorship
+
+The group discussed onboarding new memebers and assigning clear mentorship tasks. Slate committed to sharing a list of outstanding dev tasks and requirements to aid recruitment. Kizzy proposed bringing on a new member who showed promise in prior testing.
+
+#### Action Items:
+- [**action**] Map Creators [**assignee**] Gorga Siagian, Kateri [**due**] 12 September 2025 [**status**] todo
+- [**action**] Quarterly Report - Q3 2025  [**assignee**] rebel [**due**] 12 September 2025 [**status**] todo
+
+#### Game Rules:
+No games played
+
+
+#### Keywords/tags:
+- **topics covered:** Gamified Portal, Comic Series, Roblox Animation, mentorship, Q3 2025 quarterly report, AI comics
+- **emotions:**  Collaborative,  Determined,  informative
