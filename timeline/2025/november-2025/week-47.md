@@ -11,6 +11,7 @@ description: Mon 17th Nov - Sun 23rd Nov 2025
 No Summary Given
 ## Thursday 20th November 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Biweekly
@@ -51,3 +52,36 @@ Twitter Space Event Coordination: The team reviewed plans for the upcoming Twitt
 #### Keywords/tags:
 - **topics covered:** Lean Guild Challenge, Newsletter, Budget Coordination
 - **emotions:**  Understanding.,  Satisfaction ,  forward-looking
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], osmium, Kateri, advanceameyaw, CollyPride, Santos, LordKizzy, martinsoki
+- **Purpose:** Regular biweekly meeting
+- **Working Docs:**
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda ](https://discord.com/channels/909843832491896832/1098295570898104340/1428347765469085777)
+  - [SingularityNET Final SEO Research & Optimization Report](https://docs.google.com/document/d/1t7JTV9dLvoMm8-efZ_cFk-A4BYAU0Tyz/edit?usp=sharing&ouid=113948067158841872178&rtpof=true&sd=true)
+  - [SEO Best Practices Handbook](https://docs.google.com/document/d/18dfrQklRBshJ02QENKTUjAn9z8cZNcC5D9OyEdbHdXs/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- AI Sandbox/Think-tank Introduction
+The meeting began with LordKizzy welcoming attendees.
+
+Content Optimization Strategy Review: 
+LordKizzy presented a comprehensive analysis of content performance across Medium and YouTube platforms, highlighting key findings and recommendations for SEO optimization. The team identified priority hashtags and high-value keywords for better SEO, such as "AI," "SingularityNet," and "AGI," and suggested implementing a minimum of 5-7 hashtags per article. For YouTube, they noted a significant performance gap between top AGI content and their own, recommending changes to video titles, the inclusion of expert names, and the use of high-performing keywords. LordKizzy shared a 30-day implementation plan to improve content optimization and suggested updating the Ambassador Program Town Hall titles to include specific keywords and expert names. The team also created a handbook to guide content posting improvements and shared insights with social media managers for further implementation.
+- Social Media Data Analysis Challenges: 
+Osmium discussed data collection and analysis challenges across various social media platforms, including YouTube and Medium. They explained that manual audits and custom tools were needed due to inconsistent data availability and poor UI, with specific issues noted around profile pictures and banners. The discussion concluded with a suggestion from Advanceameyaw to develop a centralized AI tool that could automatically pull and analyze analytics from multiple platforms, which Ambassadors acknowledged as a potential future improvement.
+- Social Media Dashboard Proposal: 
+Osmium proposed creating a new social media dashboard tool for the marketing team, building upon previous work done by Rojo that was not completed. The team discussed the need for dedicated developer support to successfully roll out the AI sandbox mode and considered the possibility of collaborating with Deepfunding.
+- Exploring Partnership and Collaboration: 
+The team discussed extending their current project to include deepfunding initiatives, and explored potential collaborations with developers. LordKizzy mentioned reaching out to Ubio Obu (Deepfunding Developeer Outreach Circle) through Osmium to initiate a partnership, despite challenges posed by token price fluctuations. Advanceameyaw suggested defining the specific type of collaboration or partnership they aim to establish, emphasizing the need for clarity on what services or tools would be involved. He also proposed creating a document outlining the partnership goals to facilitate discussions.
+
+#### Action Items:
+- [**action**] Martinsoki to document next meeting  [**assignee**] martinsoki [**due**] 4 December 2025 [**status**] todo
+- [**action**] Collypride to contact Deepfunding to submit a proposal for the AI Sandbox initiative. [**assignee**] CollyPride [**due**] 4 December 2025 [**status**] todo
+- [**action**] LordKizzy/Vasu to contact Ubio from Deepfunding Dev Outreach Circle [**assignee**] LordKizzy, osmium [**due**] 4 December 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** SEO optimization, SEO, Deep Funding, Developer outreach, social media dashboard, social media, Data analysis
+- **emotions:** Educational,  Collaborative, Interactive
