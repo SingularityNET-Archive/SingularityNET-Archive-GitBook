@@ -165,6 +165,7 @@ An SEO project is currently in progress to enhance the website's visibility and 
 
 ## Friday 18th July 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -189,3 +190,35 @@ AOB: Jeffrey inquired about volunteer opportunities for the September event. Cle
 #### Keywords/tags:
 - **topics covered:** Digital Finance, Afro Multilingual Drive, AI Literacy, Cybersecurity, Fintech, Budget constraints
 - **emotions:**  insightful, welcoming, progressive, relaxed, collaborative
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Gorga Siagian, photogee, Mikasa, advanceameyaw, Eric Davies, esewilliams, kenichi, CJFrankie, LordKizzy, Alfred Itodele, PeterE, Jeffrey Ndarake, kareem, Kateri, oep
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the Marketing Guild call by welcoming attendees and sharing the agenda for discussion. The group reviewed action items from the previous meeting.
+- Initiative Planning and Team Formation: Lordkizzy presented the two main initiatives for Q3: scavenger hunt and podcast, emphasizing the importance of cost management and the need for strict KPIs for any future events. Photogee raised concerns about podcast equipment shortages and whether members with studios should handle production. Lordkizzy clarified that the operations team could assist and shared the budget—2,505 AGIX (~$750) per team per quarter. Photogee raised concerns about balanced discussion dynamics, suggesting all members should voice their perspectives before decision-making. Lordkizzy reinforced the non-hierarchical nature of the team, clarifying there were no designated leads and emphasizing self-organized collaboration as the expected working model. The team adopted a self-selection approach for group formation, Podcast team are: Ayo,Photogee,Kareem,Mikasa and Kenichi. while Scavenger hunt team are: Gorga,Kateri,CJ Frankie,Eric Davies. The team was advised to form subgroups and start discussions to prepare documentation ahead of the next meeting.
+
+#### Action Items:
+- [**action**] Advanceameyaw to provide updates on the Afro multilingual literacy drive next meeting. [**assignee**] advanceameyaw [**due**] 25 July 2025 [**status**] todo
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 25 July 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 25 July 2025 [**status**] todo
+- [**action**] Cj Frankie to have a call with Ayo to resolve the enduring action item in the summary note. [**assignee**] CJFrankie, Ayo [**due**] 25 July 2025 [**status**] todo
+- [**action**] Ese Williams to reach out to Advance to confirm his interest in participating in the Scavenger Hunt initiative. [**assignee**] esewilliams [**due**] 25 July 2025 [**status**] todo
+- [**action**] Participants to form subgroups and start communicating about their initiatives before the next meeting. [**assignee**] group members  [**due**] 25 July 2025 [**status**] todo
+- [**action**] Kenichi to make the Marketing Guild private core member channel and include Advanceameyaw and Martinsoki. [**assignee**] kenichi [**due**] 25 July 2025 [**status**] todo
+- [**action**] Ese Williams to clean up the GitHub and restructure it for KPI tracking documentation. [**assignee**] esewilliams [**due**] 25 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Marketing Guild Distribution Structure, Podcast Intiative
+- **emotions:** contributive,  Understanding.,  insightful
