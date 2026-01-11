@@ -134,6 +134,7 @@ The meeting included a discussion on recruiting Singularity Net ambassadors, wit
 
 ## Wednesday 17th September 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -200,6 +201,48 @@ The consent process ends on 30th Sept, so we will know then if it has been appro
 #### Keywords/tags:
 - **topics covered:** AI ethics, token price, Neo4j, community engagement, q4 2025 budget, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Gephi, Q3 2025 quarterly report, Open source, AI Sandbox/Think Tank, Video WG, human-in-the-loop, AI-generated summaries, meeting summary quality, Atomspace, R&D Guild, Governance Dashboard, what kinds of questions, structured vs unstructured data, Town Hall summaries, Automation, semantic analysis, sentiment analysis, Discord bot, WG reserves, force-directed graph layouts
 - **emotions:** interesting, short, wide-ranging, Discursive
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Gorga Siagian [**facilitator**], Malik [**documenter**], osmium, Gorga Siagian, Kateri, UKnowZork, hogantuso, frosh, Malik
+- **Purpose:** To review CCP budget allocation, content progress, contingency planning, and governance webinar updates.
+- **Working Docs:**
+  - [Content Creators Tasks Assessment](https://docs.google.com/spreadsheets/d/1-U6fDVaOmsZCAAlNeZV-NhVTjIpmwbw9E4l6J5py7bA/edit?usp=sharing )
+
+#### Discussion Points:
+- Budget Allocation & Contingency
+The group revisited CCP funding allocations. It was clarified that allocations had already been made in Q2, with reserves covering extensions. While some members questioned whether new funds were required, the consensus was to reassign tasks to active contributors and avoid additional funding requests unless strictly necessary. Kary introduced a contingency line item in the budget (~$100) to account for operational costs and unforeseen delays. Members agreed the exact amount should be based on concrete needs rather than guesses.
+- Task Reassignments & CCP Content Progress
+Due to inactivity of some contributors, tasks will be reassigned to ensure steady progress. Updates included:
+Infographic and video creation tasks are ongoing, with several completed or near completion.
+Frosh’s infographic needs minor revisions (adding a missing element).
+Some members reduced from multiple tasks to one.
+Certain projects lacked sufficient material to proceed with video creation.
+Overall, four main projects are moving forward, with continued tracking in the CCP task sheet.
+- Governance Webinars Update
+Osmium shared progress on the governance webinar series, noting that multiple slide decks have been prepared. The rollout has been delayed due to ongoing governance changes, to avoid confusing participants. The updated plan includes a structured webinar series supported by presentations, with future integration into educational dashboards or UI/UX improvements for accessibility. Members were asked to review the slides and provide feedback.
+- Criteria & Selection Concerns
+Questions were raised about criteria used for selecting content creators and assessors. It was clarified that selections were based on submitted best work (infographics, videos), independently graded by assessors, and then consolidated into a group decision. Concerns about fairness and transparency were acknowledged, but time constraints limited extended discussion.
+- Meeting Facilitation & Documentation
+The group humorously debated who hosted the meeting, eventually concluding it was a collective effort. Documentation responsibilities were rotated, with a reminder to archive and circulate the meeting notes.
+
+#### Decision Items:
+- Add contingency line in CCP budget (~$100)
+  - [**effect**] affectsOnlyThisWorkgroup
+- Reassign inactive contributors’ tasks to active members.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] finalize contingency budget entry [**assignee**] Kateri [**due**] 1 October 2025 [**status**] in progress
+- [**action**] circulate governance webinar slides for asynchronous review [**assignee**] osmium [**status**] done
+- [**action**] revise infographic per feedback [**assignee**] frosh [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCP Budget, Contingency Planning, Task Reassignment, Governance Webinars, Content Progress
+- **emotions:** Desire for Clarity ,  Collaborative, Productive
+
+
 ## Thursday 18th September 2025
 
 ### AI Sandbox/Think-tank
