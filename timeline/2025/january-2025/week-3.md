@@ -8,6 +8,7 @@ description: Mon 13th Jan - Sun 19th Jan 2025
 
 
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -212,6 +213,83 @@ Peter said the workgroups to focus on for the workshop should be demand driven. 
 #### Keywords/tags:
 - **topics covered:** Async, Workshop, research , Q1 2025 projections
 - **emotions:** Casual, Thoughtful 
+
+
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], André, Effiom [**documenter**], André, AshleyDawn, advanceameyaw, Effiom, Malik, Onize, Tevo
+- **Purpose:** We develop the Treasury System
+- **Meeting video:** [Link](https://youtu.be/L_t4n3uRCEo)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764612387608077&cot=10)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Automation WG Q4 Budget](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/)
+  - [Treasury Automation WG Budget Estimations](https://docs.google.com/spreadsheets/u/2/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY)
+
+#### Agenda item 1 - Monthly Development Updates - [carry over]
+
+#### Discussion Points:
+- Treasury Automation WG - 13.01.25 Development Updates video: https://youtu.be/e2wALHqltm0
+- Treasury System Updates - January 2024 | Dework - Tevo: https://app.dework.xyz/catalyst-swarm/treasury-guild-41007?taskId=3018b61f-d50c-4b2f-8529-d9ded8d214f9
+- Treasury System Updates - December 2024 | Dework - Andre: https://app.dework.xyz/catalyst-swarm/treasury-guild-41007?taskId=c2bce3b5-e2b6-49d6-88f1-49c83094fb3a
+- No new documentation updates
+
+#### Decision Items:
+- We are skipping data source mapping updates until major changes are made to using GitHub imports
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 2 - Quarterly Report and Proposal - [carry over]
+
+#### Discussion Points:
+- Discussed past and future treasury updates/features
+- Reviewed the drafted Q1 Report: https://docs.google.com/document/d/19GosXpTVLk66D7yf8F3n4hsVzd1vlCZf5ir8pyUhOMc/
+- How do our updates affect the Q1 report and Q2 proposal
+- Swarm Treasury Proposal Budget Sheets: https://docs.google.com/spreadsheets/d/1coX33XVbHMg_5TdJY0H4ZkXY7RuQSnMEwqWAQ7N7SeI/
+
+#### Decision Items:
+- Some items on the Q1 report will be updated async and some in the meeting; the rest of the not listed items will be reviewed and added in the meeting
+  - [**effect**] affectsOnlyThisWorkgroup
+- Community engagement updates will only be rewarded 10 AGIX if done async
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Update Q1 Report async [**assignee**] André, Effiom, Tevo [**status**] todo
+- [**action**] We will review deliverables at the next meeting and create a Budget sheet in the meeting [**assignee**] André, Effiom, Tevo [**status**] todo
+
+#### Agenda item 3 - New Treasury Features - [carry over]
+
+#### Discussion Points:
+- Discussed building a feature to capture Discord meeting attendance
+- Discussed the possibility of hiring people if no one in the community can do a task
+- Identified Treasury Administration Page feature and Archival Integration as possible Q3 features 
+- Identified more possible features on Catalyst Proposal Google Sheets
+
+#### Decision Items:
+- Decided to ask the Ambassador Program if we can hire Freelancers
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Research Discord bot to capture Discord meeting attendance and time [**assignee**] André [**status**] todo
+
+#### Agenda item 4 - Workgroup Management - [carry over]
+
+#### Discussion Points:
+- Meeting Summary Template: https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU/
+- Selection of a meeting summarizer and a reviewer for 13.01.2025
+
+#### Decision Items:
+- We are adopting a new meeting summary template on Google Docs
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Andre will draft the meeting summary and upload it to the summary tool [**assignee**] André [**due**] 16 January 2025 [**status**] done
+- [**action**] Effiom to review and publish in Discord [**assignee**] Effiom [**due**] 16 January 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Q2 Proposal, Q3 proposal, Q1 Report, Treasury Features, Treasury Automation, async work, Freelance developers, meeting attendance
+- **emotions:** Collaborative
 
 
 ## Tuesday 14th January 2025
