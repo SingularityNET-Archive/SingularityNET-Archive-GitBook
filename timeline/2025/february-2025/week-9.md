@@ -6,6 +6,7 @@ description: Mon 24th Feb - Sun 2nd Mar 2025
 
 ## Wednesday 26th February 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -35,6 +36,51 @@ description: Mon 24th Feb - Sun 2nd Mar 2025
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation, Project Updates, Q2 2025 budget, low token price, wiki website, Q1 2025 quarterly report
 - **emotions:**  Collaborative, Businesslike.
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, LordKizzy, advanceameyaw, osmium, PeterE, CollyPride, AJ, Slate, AshleyDawn, Eric Davies
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form ](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+
+- Review of last meeting summary Action Items
+
+
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+
+
+- MetaCoders Lab Discussion
+
+- AOB Open discussions
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members
+
+- Discussion on MetaCoderLab Collaboration: Guillermo shared a drive link (https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb) which includes the Budget, Expert reviews, the roadmap and also the RFP proposal.
+- New proposals applications: Guillermo noted that there have been some submissions and employed members to make submissions before the 10th of March.
+
+- Follow up on the CSDB: Advance noted that the tool has been deployed successfully, and right now the tool is undergoing some tests and he gave a presentation
+- NuNet Soft Launch
+Lord Kizzy and Vasu gave a run through on the next AI Sandbox: Project Showcase on Onboarding applications to NuNet. Guillermo also mentioned the NuNet Onboarding Form (https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Action Items:
+- [**action**] Lordkizzy to follow up on communication with the soft launch of the deployment of SDB and Legacy [**assignee**] LordKizzy [**due**] 5 March 2025 [**status**] todo
+- [**action**] Lordkizzy to follow up with Marketing Guild regarding the showcasing and potential collaboration. [**assignee**] LordKizzy [**due**] 26 February 2025 [**status**] done
+- [**action**] Lordkizzy to schedule a call with the representatives of the Education guild, Gamers guild, AI Sandbox Thinktank and Onboarding WG [**assignee**] LordKizzy [**due**] 5 March 2025 [**status**] todo
+- [**action**]  Lordkizzy to set up a call with all the team members on their projects   [**assignee**] LordKizzy [**due**] 26 February 2025 [**status**] done
+- [**action**] Guillermo to share the details for the Spotlight form to kateri [**assignee**] guillermolucero [**due**] 5 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Nunet, CSDB, MeTTa Coder Lab,  Team Collaboration 
+- **emotions:**  Collaborative,  informative
 
 
 ## Thursday 27th February 2025
