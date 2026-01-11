@@ -253,6 +253,7 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 ## Thursday 6th March 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -346,6 +347,42 @@ Any Doubts or Queries about the NuNet setup. Folks can ask through the Think Pie
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation, Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, low token price, Documentation Roster
 - **emotions:** Welcoming, Interactive, Informative, Educative
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Lordkizzy [**facilitator**], Kateri [**documenter**], LadyTempestt, PeterE, Sucre n Spice, Maxmilez, UknowZork, Alfred Itodole, AshleyDawn, Ayo, Gorga Siagian, CJFrankie
+- **Purpose:** Regular biweekly meeting of Onboarding WG
+- **Working Docs:**
+  - [Q1 2025 quarterly reports ](https://docs.google.com/document/d/1Ua7bsExaz5KiQjMQtoBp0pUUbDLteDPAjTGSKyOLhvw/edit?usp=sharing)
+  - [Skill share matrix document ](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit)
+  - [DRAFT Onboarding WG budgets](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- We reviewed the action items, and Lordkizzy welcomed the new members attending the meeting. 
+
+- Q1 2025 quarterly report: 
+
+Cjfrankie has addressed all comments on the report, making it ready for submission, except for the section for comments from members - everyone to add a comment on how the Quarter has gone.
+- Q2 2025 budget: 
+
+we went through the spreadsheet and agreed the draft budget - similar to previous Quarters, and with an allocation for one skillshare session (topic TBC), but no plans for any research project
+- Documenting and facilitating next meeting: 
+
+Colleen will facilitate the next meeting, and PhotoGee twill document. However, since they were not present in this call, Love will contact Colleen, and CJ Franklin will contact PhotoGee to confirm their availability.
+
+- There will be no meetings over Easter; so next meeting (20th March) will be the last for this quarter, so members were reminded to complete any pending tasks beforehand.
+
+#### Action Items:
+- [**action**] Photogee to document and Colleen to facilitate our next meeting  [**assignee**] photogee, CollyPride [**status**] todo
+- [**action**] Lordkizzy to prepare the Facilitation and documentation roster for Q2 [**assignee**] LordKizzy [**due**] 20 March 2025 [**status**] todo
+- [**action**] Everyone to add to the "comments from members" section in the Q1 quarterly report before it is submitted [**assignee**] all [**due**] 10 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Documentation Roster, Documentation, Facilitation, Onboarding to Decentralisation research, Q1 2025 quarterly report, Q2 2025 budget
+- **emotions:** Friendly, Brief
+
+
 ## Friday 7th March 2025
 
 ### Marketing Guild
