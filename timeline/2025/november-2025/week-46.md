@@ -57,6 +57,49 @@ Issues around calculating core contributor status - who is actually active, rath
 - **emotions:** quiet, low attendance, reflective, gloomy
 
 
+## Wednesday 12th November 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Kateri, esewilliams, UKnowZork, LordKizzy, martinsoki
+- **Purpose:** Biweekly meeting updates 
+- **Working Docs:**
+  - [ASI Academy Blueprint: Complete AI Course Development Guide](https://claude.ai/public/artifacts/c3aaf422-f9a3-4ba0-b8df-08bf606fb0f1)
+  - [ASI ACADEMY – Initial Proposal & Project Plan](https://docs.google.com/document/d/1-TzK5WI2YTdoNTxTsSqndwcNn6j-3SV8DpEPEJ0ShcM/edit?usp=sharing)
+
+#### Discussion Points:
+- LordKizzy kicks off the call with a welcome.
+- ASI Academy Blueprint Document (link: https://claude.ai/public/artifacts/c3aaf422-f9a3-4ba0-b8df-08bf606fb0f1). 
+
+Vasu explained that the Academy comprises six core subjects aligned with the ASI Innovation Stack. Each subject module requires the development of 8–10 Educational Slides (with 6 key headlines) and a 10-minute Video demonstration.
+ASI ACADEMY – Initial Proposal & Project Plan (link: https://docs.google.com/document/d/1-TzK5WI2YTdoNTxTsSqndwcNn6j-3SV8DpEPEJ0ShcM/edit?usp=sharing). 
+
+This presentation detailed 
+- Context & strategic fit
+- Project scope & course architecture
+- Deliverables
+- Budget & cost breakdown
+- Timeline & execution phases
+- Outcomes 
+- Long-term impact
+- Requested action from the Education Guild. 
+
+Six members volunteered to pick and begin work on one core subject each (ASI CReate for Gorga, ASI TRAIN for Kateri, ASI LEARN for LordKizzy, ASI DATA for Ese Williams, ASI COMPUTE for Osmium, ASI ZERO for Martinsoki).
+
+#### Action Items:
+- [**action**] Gorga to create ASI CReate [**assignee**] Gorga Siagian [**status**] todo
+- [**action**] Kateri to create ASI TRIAN [**assignee**] Kateri [**status**] todo
+- [**action**] LordKizzy to create ASI LEARN [**assignee**] LordKizzy [**status**] todo
+- [**action**] Ese Williams to create ASI DATA [**assignee**] esewilliams [**status**] todo
+- [**action**] Osmium to create ASI COMPUTE [**assignee**] osmium [**status**] todo
+- [**action**] Martinsoki to create ASI ZERO  [**assignee**] martinsoki [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ASI Academy
+- **emotions:**  Understanding.,  Collaborative, Contributive
+
+
 ## Thursday 13th November 2025
 
 ### Governance Workgroup
