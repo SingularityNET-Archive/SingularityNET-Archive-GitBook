@@ -77,6 +77,7 @@ If we scale this (500-ish reponses would be meaningful, which would cost maybe $
 
 ## Tuesday 4th February 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -149,6 +150,93 @@ This will be discussed in a later meeting.
 #### Keywords/tags:
 - **topics covered:** budget caps, Q2 2024 budget, consent process, timeline, token price, Exchange rates, Q1 quarterly report, New ideas, Process for agreeing new workgroups
 - **emotions:** Good natured, low attendance, Discursive, progress made
+
+
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Gorga Siagian, Tevo [**documenter**], Tevo, Gorga Siagian, Malik, Effiom, Sebastian Pabon, SubZero, Sucre n Spice, Stephen [QADAO], Hogan
+- **Purpose:** We are creating a PBL course on Andamio about GitHub features and use cases to manage
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764613441813209&cot=10)
+- **Other media:** [Link]( (https://www.youtube.com/watch?v=SL-z2qUCCfo))
+- **Working Docs:**
+  - [GitHub PBL Structure](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+  - [Register to GitHub Stuff (Googleform)](https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform)
+  - [PBL WG Proposal Q1 2025](https://docs.google.com/document/d/1YPg0iHYmhrF2KOKEhzehzw4Trd-wQ_s4faubS3FpF_c/edit?tab=t.0#heading=h.l832kyptxzsj)
+  - [PBL WG Proposal Estimated Cost Calculator](https://docs.google.com/spreadsheets/d/1dPVsCGCuvp1nBxRM5zJteWZt7_J4ezbx6iB7Sc8VcHM/edit?usp=sharing)
+  - [Github PBL Quarterly Report - Q4 2024](https://docs.google.com/document/d/1mGFj0ncsCFoS4eoOGBtCilFUjuMAcJXbh-7eJ4ItWSg/edit?usp=sharing)
+  - [Process of Managing Meeting Summaries (GitHub PBL WG)](https://www.youtube.com/watch?v=QR8Ef8KFLdk)
+
+#### Agenda item 1 - Workgroup management  - [carry over]
+
+#### Discussion Points:
+- Dework Board For Task Management
+
+- Review and update the [Quarter 1 Report](https://docs.google.com/document/d/1Jxi323qFgLXY7cyHjlXihPmrh9Sm-Z0lpy1mFYrUp44)
+
+- Q2 Proposal 
+- PBL WG Organization to contain every PBL report.
+
+
+#### Decision Items:
+- 10 AGIX for providing Paragraph in the Community Engagement section. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We will have a PBL WG Organization to contain every PBL report.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Eveline to create meeting summary.
+ [**assignee**] Evelyn [**due**] 11 February 2025 [**status**] done
+- [**action**] SUB Zero to review meeting summary.
+ [**assignee**] SubZero [**due**] 11 February 2025 [**status**] done
+- [**action**] SUB Zero to review and update Quarter 1 Proposal
+
+ [**assignee**] SubZero [**due**] 11 February 2025 [**status**] todo
+
+#### Agenda item 2 - Finalise and Upload Lessons to Andamio - [carry over]
+
+#### Discussion Points:
+- What issues we ran into as Andamio Course Creators.
+
+- Feedback form: Is it working as expected? How do we get people interested in Feedback?
+- 2 out of 7 responses Failed to report on correct course
+- 3 out of 7 responses found the lessons to be less than high quality, but did not provide any insight
+- 1 out of 7 responses was implementable
+
+- Should we reward feedback? What kind of feedback should be rewarded?
+
+- Review Course [Module 103](https://app.andamio.io/course/snet-github-pbl-wg/103) what to add and what should be omitted.
+
+
+#### Decision Items:
+- 10 AGIX will be rewarded to individuals who provide course feedback through form and only if their feedback results in a content change in PBL lessons. Each module is rewarded separately. We don’t reward the feedback if its submitted during the session.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Lady Tempestt to Include how to set up a GitHub user profile and Github account [GitHub Guides](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to lesson 103.1
+ [**assignee**] LadyTempestt [**due**] 11 February 2025 [**status**] in progress
+- [**action**] Lady Tempest and Tevo to include a lesson about asking students to join the PBL WG Organization and add it to assignment requirements
+ [**assignee**] LadyTempestt, Tevo [**due**] 11 February 2025 [**status**] in progress
+- [**action**] Lady Tempestt to Remove Step 12 on Module 103.1
+ [**assignee**] LadyTempestt [**due**] 11 February 2025 [**status**] todo
+- [**action**] Tevo will share a guide on minting access tokens for the Andamio Platform
+ [**assignee**] Tevo [**due**] 11 February 2025 [**status**] todo
+- [**action**] Gorga to include guidelines about requesting help in lesson 103.3
+ [**assignee**] Gorga Siagian [**due**] 11 February 2025 [**status**] todo
+- [**action**] Gorga to provide examples on how to ask support questions in lesson 103.3 [**assignee**] Gorga Siagian [**due**] 11 February 2025 [**status**] todo
+- [**action**] Gorga to remove repetitive sentences from lesson 103.2
+ [**assignee**] Gorga Siagian [**due**] 11 February 2025 [**status**] todo
+- [**action**] Gorga to remove titles from most of the steps in lesson 103.2
+ [**assignee**] Gorga Siagian [**due**] 11 February 2025 [**status**] todo
+- [**action**] Gorga to update wording in the lesson 103.2 [**assignee**] Gorga Siagian [**due**] 11 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Workgroup Management, Quarter 1 Report, Rewards, PBL Course Project, Andamio PBL Courses Issue, PBL Courses on Andamio , Feedback Form, PBL course Module 
+- **emotions:** Collaborative, insightful
 
 
 ## Wednesday 5th February 2025
