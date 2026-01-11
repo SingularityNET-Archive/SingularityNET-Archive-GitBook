@@ -180,6 +180,55 @@ AdvanceAmeyaw presented foundational pro-human position: AI is just a tool, auth
 #### Keywords/tags:
 - **topics covered:** Discussion/Debate Session, AI is just a tool, Pro-Human Attribution, Theoretical Foundation, Pro-Machine Attribution, authorship, AI independence, AI authorship, attribution, extended mind, andy clarke, david chalmers
 - **emotions:** Interactive, Insightful, Informative, Productive, Welcoming
+## Friday 27th June 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], UknowZork, Gorga Siagian, Jeffrey Ndarake, kareem, photogee, CJFrankie, LordKizzy, Mikasa, advanceameyaw, Eric Davies, esewilliams, Alfred Itodele, kenichi, Kateri
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+  - [Marketing Guild Improvement Proposal](https://docs.google.com/document/d/1iL1t4f4CPxOCUII8j8EFbBkyzppjdgw9w-11UWPZqgY/edit?usp=sharing)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Marketing Guild GitHub Board](https://github.com/SingularityNet-Ambassador-Program/Marketing-Guild-Board/issues/68)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the Marketing Guild call by welcoming attendees and sharing the agenda for discussion. He prompted participants to review the previous meeting's summary notes. Photogee gave updates on the budget distribution feedback shared stating that the governance meeting was all about website presentations, limiting discussions on other topic.
+- Task Updates and Project Discussions
+It was noted in the meeting that some tasks has been completed and some are yet to be completed. 
+CJfrankie outlined the key obstacles he faced, such as the drop in token price and the difficulty of finding relevant speaking opportunities at events. He highlighted that many events are focused on specific ecosystems, limiting his ability to promote SingularityNet. Ese proposed strategies like exploring collaborations outside the crypto space and organizing community events to enhance outreach. CJfrankie responded positively to the idea shared by Ese, expressed intent to develop a related initiative, and planned to share it in the marketing channel. 
+The need for proper documentation of the podcast episodes, including metrics and audience engagement, was highlighted to validate the initiative's success. It was also mentioned that the second episode of the podcast has been uploaded to social media, with guest outreach in progress. 
+Weekly updates on social media reports were proposed to enhance performance tracking. Ese suggested having weekly updates on social media reports could help us track our growth and performance in social media management. While Gorga suggested we should have a document to track development of views just like video Workgroup document.
+- Afro Multilingual Literacy Drive Discussion
+Advanceameyaw highlighted the Afro multilingual literacy drive as a key project of the African Guild, focusing on its educational marketing aspects. He sought input on how the Ambassador Group could contribute to the initiative, particularly in terms of publicity. Lordkizzy suggested sharing the created content on our social media and inquired about potential collaborations beyond publicity. 
+- AOB
+Kenichi sought to present a document on Q3 Contribution & Payout Structure in the meeting but due to time constraints he opted that it would be presented in next meeting.
+
+#### Decision Items:
+- The group agreed to revisit the budget and distribution discussions in the following week.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 4 July 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 4 July 2025 [**status**] todo
+- [**action**] Mikasa to handle the review of attendance for the last quarter [**assignee**] Mikasa [**due**] 4 July 2025 [**status**] todo
+- [**action**] CJfrankie to explore non-ecosystem projects to find opportunities for speaking engagements related to SingularityNet [**assignee**] CJFrankie [**due**] 4 July 2025 [**status**] todo
+- [**action**] Eric Davis to send links and metrics for the first two episodes of the podcast  [**assignee**] Eric Davies [**due**] 4 July 2025 [**status**] todo
+- [**action**] Advanceameyaw to provide updates on the Afro multilingual literacy drive next meeting. [**assignee**] advanceameyaw [**due**] 4 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q3 Budget Updates, Project Updates, Afro multilingual literacy drive
+- **emotions:** Interesting, contributive, Accountability
+
+
 ## Saturday 28th June 2025
 
 ### Gamers Guild
