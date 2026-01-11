@@ -83,6 +83,7 @@ We briefly discussed the 'DRAFT process for how to use the "New Ideas" budget' d
 - **emotions:** decisive, focused, lots of tasks assigned
 ## Wednesday 12th February 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -126,6 +127,77 @@ We briefly discussed the 'DRAFT process for how to use the "New Ideas" budget' d
 #### Keywords/tags:
 - **topics covered:** CCCP, design, Task Assignment, AI for beginners, wiki website, Governance Workshop Presentation Series, low token price
 - **emotions:** productive,  Collaborative, Businesslike.
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, SergioBenaR
+- **Purpose:** Planning activities for Q1 and Q2 of 2025.
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01JKY4KFM4C3AT54JMKCP1RH4M?utm_source=Share_CopyLink)
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JKY4KFM4C3AT54JMKCP1RH4M?utm_source=Share_CopyLink)
+- **Working Docs:**
+  - [@SNET_LatAm Events Q1/Q2 ](https://drive.google.com/open?id=14L8drSVtmssMO114ycqpV7s850djlhyWACVQ5ukd27E&usp=drive_copy)
+  - [LatAm Guild Session #27 Agenda Items](https://docs.google.com/document/d/1NnaEabzEqbT0HCktjpZoQSiUNyD6po7KWtomZEOLf4k/edit?usp=drive_link)
+  - [Q1 Meeting Summaries](https://drive.google.com/drive/folders/1Bw3wz5w431-L7g8f7bJnNNIlHkUKxQgb?usp=drive_link)
+
+#### Agenda item 1 - Strategy SubGroup - [carry over]
+
+#### Narrative:
+The points from the previous LatAm_SNET ambassadors meeting were taken up again, considering the results and learning from the 2024 activities. It had been decided to search for local and regional events in which SingularityNET could participate along Latin America, as part of the expansion strategy for 2025. The meeting focused on setting the Guild's goals for the first and second quarter, highlighting regional representation and event planning. A document was created to record and prioritize participation in events in Argentina, and the restructuring of the roadmap with clear goals was discussed. The development of an onboarding tool for new members was proposed, and collaboration with other guilds in education and gamification was emphasized. The reactivation of communication spaces was planned starting in March, with a focus on attracting more participants from Colombia and prioritizing the incorporation of members from Bolivia and Mexico.
+
+
+#### Decision Items:
+- Complete the document with potential events for SingularityNET participation, the events should mainly take place between Q1 and Q2 of 2025.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Complete the document that Guillermo will share on the ambassador channel. [**assignee**] guillermolucero, andrea reyes, inesgav, Martin Rivero, SergioBenaR [**due**] 27 febrero 2025 [**status**] todo
+
+#### Agenda item 2 - Operations SubGroup - [carry over]
+
+#### Narrative:
+It was agreed that each meeting would have a clear agenda and a summary would be shared for absentees, in addition to engaging other members in future activities. 
+
+Five key points were identified, including the importance of gamification in education and the need to improve internal communication and correct errors. It was decided to continue working on preparing documents and actions to face the next challenges. The activities of the LatAm_SNET working groups seek to achieve greater commitment from community members and ambassadors, in accordance with the objectives of Q1 and Q2, with the expectation of matching or improving the results of 2024.
+
+
+#### Decision Items:
+- Analyze and determine the priorities in the activities proposed for Q1 and Q2.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Establish priorities in the work teams for Q1 and Q2. [**assignee**] guillermolucero, andrea reyes, Daniela Alves, inesgav, Martin Rivero, SergioBenaR [**due**] 27 febrero 2025 [**status**] in progress
+
+#### Agenda item 3 - Onboarding SubGroup - [carry over]
+
+#### Narrative:
+The importance of community participation in LatAm_SNET activities was highlighted, as well as the need to incorporate new members from Brazil and Colombia into the work teams. Guillermo announced the development of a tool that will facilitate the incorporation process for new members. 
+
+
+#### Decision Items:
+- A call will be launched to incorporate new members from Brazil and Colombia, using the tool that is being developed.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Launch a call for new members from Brazil and Colombia. [**assignee**] guillermolucero [**due**] 27 febrero 2025 [**status**] in progress
+
+#### Agenda item 4 - Communications SubGroup - [carry over]
+
+#### Narrative:
+One of the activities that took place during Q4 2024 was X Spaces, which encourage community participation in transcendental topics for the development of AI such as ethics, collaboration and benefits for humanity. It is an important part of the communication strategy for 2025 and will be resumed from March. 
+
+
+#### Decision Items:
+- Resume the LatAm_SNET X Spaces agenda from March 2025, starting with an ecosystem update.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Develop the agenda for the first X Space to be held on Thursday, March 6 [**assignee**] guillermolucero, inesgav, andrea reyes, Daniela Alves, Martin Rivero, SergioBenaR [**due**] 5 marzo 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Brazil, Colombia, Events, X spaces, gamification, internal communications
 
 
 ## Thursday 13th February 2025
