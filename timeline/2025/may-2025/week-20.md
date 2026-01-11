@@ -117,6 +117,7 @@ Peter expressed that AGIX is a utility token which can be given out as rewards f
 
 ## Tuesday 13th May 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -171,6 +172,95 @@ We plan to tweak and share the spreadsheet by day’s end and bring it to the to
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation, AGIX rate,  open governance, Budget caps, Drafting document
 - **emotions:**  informative, Discursive, Ideating,  Collaborative
+
+
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Tevo, Effiom [**documenter**], advanceameyaw, effiom, Jeffrey, tevo, UknowZork, AshleyDawn
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764629777661028&cot=10)
+- **Working Docs:**
+  - [Knowledge Base GitBook](https://ambassadorss-organization.gitbook.io/knowledge-base)
+  - [Workgroup contributions and Tasks](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/24/views/1)
+  - [Session Summary Archive](https://archives-dashboard.netlify.app/search?tab=meetings&workgroup=96f6ef88-5285-4ec6-8fe4-f2ab0347be00)
+
+#### Agenda item 1 - Knowledge Base Onboarding and Feedback - [carry over]
+
+#### Discussion Points:
+- Should we reward new feedback?
+- Knowledge Base Proposal seems to be a good document for onboarding
+- Uncertain when the time comes to contribute
+- Unclear where to look for up-to-date information async
+
+#### Decision Items:
+- We agreed to reward the new feedback
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Update the Google Form Question "What existing Workgroup activities you would like to contribute with and why?” to better reflect this workgroup [**status**] todo
+- [**action**] Review and update the Knowledge Base WG Proposal to provide better clarity on how we coordinate async [**status**] todo
+
+#### Agenda item 2 - Workgroup Management - [carry over]
+
+#### Discussion Points:
+- Should we have a specific type of meeting that does not require preparation and a meeting summary practically done in the meeting itself?
+- What are Quarter 3 maintenance plans?
+
+- [Insight](https://docs.google.com/document/d/1X1JC3Op5i4dGkthxHSYzwF-mSaKn8LZArh5ZvpxG_1A/) into how ODIN will test the establishing proposal this summer and how they do the minimal requirements proposal process to create collaboration environments
+
+- We established the initial Q3 monthly roadmap and base expectations of what we want to achieve in sessions.
+
+
+#### Decision Items:
+- Next session planned for the 7th July 10:00 AM UTC; we agreed to maintain the same meeting time
+
+  - [**effect**] mayAffectOtherPeople
+- Next session we will focus on deciding how we do resource collection for Q3. Onboard people to GitHub and prepare Agenda items for the next 2 sessions in Q3
+- Moved agenda item to next session, “Review Previous Session Actions items (Purple Stickies)”
+- Start tagging relevant members when tagging Discord Roles when session summaries or preparations are shared
+
+#### Action Items:
+- [**action**] Tevo to draft and Archive Meeting Summary [**status**] todo
+- [**action**] Effiom to review and publish the Meeting Summary [**status**] todo
+- [**action**] Review and Update Knowledge Base WG Role [**status**] todo
+
+#### Agenda item 3 - Review Knowledge Base GitBook updates - [carry over]
+
+#### Discussion Points:
+- Reviewed GitBook, shared update on the [getting started page] (https://ambassadorss-organization.gitbook.io/knowledge-base)
+- All Categories are updated with new information
+
+#### Agenda item 4 - Retrospective on Resource Collecting and Organising - [carry over]
+
+#### Discussion Points:
+- Both Advance and Tevo liked the organising process
+- GPT is very helpful, providing useful information or triggering thoughts of improvements
+- Organising videos is more challenging
+- Organising Items gives a nice and logical framework to understand the Ambassador Program
+- Takes effort to find relevant information
+- Best places to find info: Discord, Meeting Summaries and Quarterly Reports
+- It's time-consuming to learn about the document context and understand its current relevance for GitBook
+
+#### Action Items:
+- [**action**] Check into budget documents and under tasks that are submitted to the treasury to see if it's a better source for assets [**status**] todo
+
+#### Agenda item 5 - Finalize Q2 Progress Report - [carry over]
+
+#### Discussion Points:
+- We went over the Progress Report, line by line
+- [Knowledge Base WG Q2 2025 Report](https://docs.google.com/document/d/1ZjfX7X31xmXR0FzK41ZYErX95LIFUaUEW50cWBfKjkw)
+
+#### Decision Items:
+- Let's continue the same strategy for the Progress Report for the next quarter, as this seems to work well
+
+#### Action Items:
+- [**action**] Everyone, please share insights on what you have learned from Knowledge Base updates. Share the feedback in the Process Guild Discord Channel or directly to the Progress Report in the Community Engagement section. [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Gitbook, Miro Board, Q2 report, Budget, Group Reserve
 
 
 ## Thursday 15th May 2025
