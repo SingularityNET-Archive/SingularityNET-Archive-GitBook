@@ -198,3 +198,63 @@ Members collective: Duke raised the idea to bring back the members collective. W
 #### Keywords/tags:
 - **topics covered:** Open source, Closed source, AI Models
 - **emotions:** Interactive, Educative, Productive, Welcoming
+## Saturday 15th February 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], Kateri, LordKizzy, rebel, AshleyDawn, oep, martinsoki, Slate
+- **Purpose:** The purpose of this Gamers Guild session was to assign open departmental tasks, review ongoing workgroup and map creation updates, discuss minor budget adjustments, and touch on plans for an upcoming MeTTa bootcamp.
+- **Working Docs:**
+
+#### Discussion Points:
+- R&D Guild Creation Reassignment: 
+
+Rebel volunteered to resume the R&D Guild build, previously unassigned due to scheduling conflicts.
+Slate agreed to provide the necessary documents and guidelines after the meeting so Rebel can begin work promptly.
+- Writers Work Group Creation Presentation (Kizzy, Devon):
+
+Presented an early-stage building layout, including a reception area, meeting room, and multiple offices.
+Showcased NPC placeholders for core Writer’s Work Group members, though Gavina was noted as missing from the current NPC list.
+Plans to scale up the building so its size matches other guild buildings and refine interior furnishings accordingly.
+- Map Creation Updates (Kateri, Gorga):
+
+Kateri showcased new pathways/roads between apartment complexes, addressing a prior issue of repetitive building placement.
+Slate requested a follow-up session with Kateri and Gorga to align small details (e.g., connecting roads and block transitions).
+Overall city layout is nearly complete, but final finishing touches and alignment remain.
+- Research Task on Metaverse Platforms (Gorga, Malik):
+
+Currently absent; no updates provided. Slate reiterated that research on The Sandbox and Decentraland should be completed by the end of February.
+- Budget Discussion:
+
+AGIX token price dropped ~20%, leading Slate to pause “Asset Creation” payouts temporarily.
+All other development tasks remain funded as planned, with minimal impact on ongoing builds.
+The Guild aims to keep some reserve for unexpected needs or expansions in the next quarter.
+- Quarterly Report Guidance:
+
+Slate reminded each workgroup creator to prepare a short (30–60 seconds) video demonstrating their progress for the quarterly report.
+Mentors can help record these summaries if workgroup creators are unavailable.
+- MeTTa Coders Lab Bootcamp Gamification : 
+
+The R&D Guild and Education Guild plan to collaborate on gamifying a technical bootcamp about MeTTa language.
+Members can share ideas for a user-friendly, interactive course, e.g., quiz-based door passage or other creative mechanics in Roblox.
+Slate and Malik offered to run open calls on game creation so others can observe or contribute to design and coding.
+
+#### Decision Items:
+- Asset Creation temporarily on hold
+  - [**rationale**] Low AGIX price 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Department Creation - RnD Guild [**assignee**] rebel, SubZero [**due**] 1 March 2025 [**status**] in progress
+- [**action**] Animation & Dialogue System - Education Guild  [**assignee**] Malik, hufiumer69 [**due**] 1 March 2025 [**status**] in progress
+- [**action**] Department Creation - Writers Workgroup  [**assignee**] LordKizzy, devon [**due**] 1 March 2025 [**status**] in progress
+- [**action**] Map Creation [**assignee**] Gorga Siagian, Kateri [**due**] 1 March 2025 [**status**] in progress
+
+#### Game Rules:
+No game played
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox, MeTTa Coder Lab, Map creation, workgroup creation, Budget fitting, token price, MeTTA bootcamp, Q1 2025 quarterly report
+- **emotions:**  Collaborative,  Determined, Insightful
