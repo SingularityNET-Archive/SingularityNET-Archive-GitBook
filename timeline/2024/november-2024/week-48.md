@@ -7,6 +7,7 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 ## Monday 25th November 2024
 
 
+
 ### Treasury Automation WG
 
 - **Type of meeting:** Monthly
@@ -45,6 +46,74 @@ description: Mon 25th Nov - Sun 1st Dec 2024
 ### Strategy Guild
 
 No Summary Given
+
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], advanceameyaw, Valola, AshleyDawn, CallyFromAuron, Effiom, LadyTempestt, Onize, Tevo
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764607062092588&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Some possible approaches to budget fitting](https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/)
+  - [Q4 Consent (Responses)](https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/)
+  - [Treasury Guild Proposal Q1 2025](https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/edit?tab=t.0#heading=h.9t5jkakh8028)
+  - [Treasury Guild Proposal Estimated Cost Calculator](https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/edit?gid=1413332777#gid=1413332777)
+  - [Treasury Guild Q4 Report](https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I/)
+
+#### Agenda item 1 - Guild Management - [resolved]
+
+#### Discussion Points:
+- Choosing people to draft and review meeting summary
+
+#### Action Items:
+- [**action**] Effiom to draft meeting note and upload in summary tool [**assignee**] Effiom [**due**] 16 December 2024 [**status**] done
+- [**action**] Review and publish meeting note in Discord [**assignee**] Tevo [**due**] 16 December 2024 [**status**] done
+
+#### Agenda item 2 - Review Quarterly Report Q4 2024 - [resolved]
+
+#### Discussion Points:
+- We shared and updated the Q4 Report draft: https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I/
+- What were the outcomes of the topics we discussed in Q4 captured in the report?
+
+#### Decision Items:
+- We decided to add the outcomes of each topic captured in the Q4 report as just stating the topics was not conclusive and insufficient.
+  - [**rationale**] Because just stating the topics in the quarterly report was not conclusive and insufficient
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Update the outcomes for each topic capture in the Q4 report [**status**] todo
+- [**action**] Submit the updated Q4 Report before deadline [**assignee**] Effiom [**due**] 25 November 2024 [**status**] done
+
+#### Agenda item 3 - Treasury Guild Retrospective - [resolved]
+
+#### Discussion Points:
+- Community engagement section is Q4 report
+- Some members dropped their comments while in the meeting
+
+#### Action Items:
+- [**action**] Members should add comments in the Q4 Report under the community engagement section [**due**] 25 November 2024 [**status**] done
+
+#### Agenda item 4 - Review Treasury Guild Proposal - [resolved]
+
+#### Discussion Points:
+- We reviewed and updated Q1 2025 Budget draft: https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/
+- Q1 2025 Proposal review: https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/
+
+#### Decision Items:
+- We agreed to have 6 sessions as the Treasury Operation Workshops will be bi-weekly in Q1 2025 due to budget constraints. However, if price goes higher, we can do more operation calls
+  - [**rationale**] Because of budget constraint in Q1 2025
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Submit the updated Q1 2025 budget and proposal before deadline [**assignee**] Effiom [**due**] 25 November 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Proposal, Budget , Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserve, Fixed AGIX Rewards, Rewards, retrospective, Q4 2024 quarterly report
+
 
 ## Tuesday 26th November 2024
 
