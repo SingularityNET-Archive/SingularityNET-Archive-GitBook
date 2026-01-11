@@ -270,6 +270,52 @@ Members collective: Duke raised the idea to bring back the members collective. W
 #### Keywords/tags:
 - **topics covered:** Open source, Closed source, AI Models
 - **emotions:** Interactive, Educative, Productive, Welcoming
+## Friday 14th February 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** martinsoki [**documenter**], Ayo, LordKizzy, esewilliams, photogee, kareem, CJFrankie, Malik, Eric Davies, Kateri, advanceameyaw, Gorga Siagian, Mikasa, SubZero, kenichi, martinsoki, PeterE, Evelyn, max
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+
+#### Discussion Points:
+- Ayo facilitated the Marketing Guild call and greeted all the participants. He reviewed the summaries from the previous two meetings and asked if anyone had any comments regarding them.
+- Review of Community Initiative:
+LordKizzy dropped his review and suggested they needed to meet and flesh out a final review of the proposal, based on their three collective reviews. Kenichi suggested that the evaluation was technical and not supposed to be public until we have collected all three reviews.
+- Ayo went through the team update on GitHub, and thanked everyone for their contributions in the Guild.
+-  Twitter Premium Plus Payment Discussion:
+Mikasa outlined the plan to upgrade the Twitter account to Premium Plus, noting that Peter's card would be charged for the payment. LordKizzy inquired about the payment frequency, confirming that the allocation for the yearly payment is still under discussion. They agreed that the payment should proceed as an action item, as it had already been decided in previous discussions.
+- Discussion on Document Presentation and Meeting Agenda:
+Kareem was asked to present a document, but he said he wasn't ready. They decided to share the document link so everyone could review it before the next meeting. This way, they could have a more productive discussion about the document.
+- Podcast Episode Planning Update:
+Kenichi has shared that the initial podcast episode will now spotlight Peter, who will provide an overview of the Ambassador Program and SingularityNet. Additionally, Kenichi has reached out to Jan Hollins to be featured in the second episode, and is also considering inviting Raphael as a special guest. Looking ahead to the third episode, Kenichi plans to connect with Jasmine, the CEO, and is thinking about bringing in Sandra to discuss the Singularity finance merger.
+- Project Management and Initiative Collaboration:
+Kenichi requested that an update be added to the project management board. LordKizzy emphasized the importance of collaboration between Photogee and the initiative team to avoid conflicting ideas, particularly regarding the Zealy campaign. Photogee and Kenichi talked about the podcast initiative, agreeing that building connections and communication is vital for its success.
+
+#### Decision Items:
+- It was decided in the call that the review team will be having their meeting tomorrow which is Saturday 
+  - [**effect**] affectsOnlyThisWorkgroup
+- It was decided in the meeting that we are going to pay for the Twitter Premium Plus.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Ese to merge and present the Governance Doc. [**assignee**] esewilliams [**status**] todo
+- [**action**] Photogee to add items to Marketing Guild Google drive  [**assignee**] photogee [**status**] todo
+- [**action**] Gorga to reach out to SubZero and Malik to get updates on their tasks [**assignee**] Gorga Siagian [**status**] todo
+- [**action**] Marketing Guild to take action for the Twitter Premium Plus Payment  [**assignee**] LordKizzy [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance, Guilds , Meeting Summaries, Zealy, Ambassador GitBook, Initiatives, GitHub project
+- **emotions:** Well-attended, Friendly, Thoughtful ,  informative
+
+
 ## Saturday 15th February 2025
 
 ### Gamers Guild
