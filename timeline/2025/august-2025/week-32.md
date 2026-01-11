@@ -212,6 +212,7 @@ And he will attend the next Town Hall to say this and say a bit about what we ar
 
 ## Thursday 7th August 2025
 
+
 ### AI Sandbox/Think-tank
 
 - **Type of meeting:** Weekly
@@ -245,3 +246,45 @@ Vasu stressed the importance of fairness and transparency, proposing sentiment a
 #### Keywords/tags:
 - **topics covered:** AI Agent, AI agent for governance, Governance Dashboard, BGI Nexus funding round, AI ethics, R&D Guild, Archives WG, Knowledge Graphs, contribution, contributor metrics, data integration, GitHub, treasury, Core Contributor
 - **emotions:**  informative, Educational,  Collaborative
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LadyTempestt [**facilitator**], Kateri [**documenter**], PeterE, CallyFromAuron, Sucre n Spice, LordKizzy, Gorga Siagian, CJFrankie, martinsoki, Alfred Itodele, UKnowZork, osmium, AndrewBen, LadyTempestt, Kateri
+- **Purpose:** Monthly Onboarding WG Meeting
+- **Working Docs:**
+  - [Onboarding github ](https://github.com/SingularityNet-Ambassador-Program/Onboarding-Workgroup)
+
+#### In this meeting we discussed:
+- Updates from the onboarders team: 
+- LordKizzy: most new arivals want to join the content creation workgroups (video, writers, marketing), which are currently closed.
+- Gorga: has onboarded new members to Gamers Guild. 
+- Vani: fewer new members, but this means being able to do more thorough mentoring, e.g. on documenting and facilitating. Many new people go first to Governance WG.
+- Love: Some people have expressed interest in partnerships with sNET, but didn't seem committed. Peter agreed that most inquiries about partnerships via social media are not genuine; legitimate proposals typically arise from real-life interactions. 
+
+Sucre emphasized broadening onboarding strategies to include ecosystem spin-offs. Peter supported the idea, noting that full onboarding into spin-offs might not be feasible but that inviting them to town halls could be valuable.
+- Onboarding experiences and engagement: 
+
+Alfred noted in the chat that when he first joined he was only told to join meetings and when he joined he was still confused. He felt that the onboarders should give more context when onboarding. 
+
+Love responded that she gives out meeting summaries, budget sheets, quarterly reports, etc in cases like this.
+
+Lord Kizzy noted that we cannot possibly create onboarding materials that will answer every question and give all possible context = rather, we need to create an environment that enables a new person tpo ask questions that focus on what they personally want to know.
+
+Alfred went on to highlight his initial confusion about the program but noted that attending meetings, particularly with African Guild and Governance WG, helped him engage more deeply and understand the context of the conversations. He highlighted the confusion new members face when joining Discord, suggesting that live onboarding sessions - either in groups or one-to-one - could enhance their understanding of the ambassador program. 
+
+Vani reminded the group that previously onboarding sessions had low turnout, which led to discontinuing them. We could consider trying them again at some point, but for now, one-to-one engagement async is our approach.
+- AI Agents for Onboarding: 
+
+AI Sandbox/Think Tank has been discussing the idea of AI agents for onboarding. Vasu presented insights from the discussions, aimed at addressing FAQs and being available 24/7. He proposed integration with Discord, Notion, and GitHub to create personalized member journeys based on individual skills and interests. He proposed a four-phase implementation plan which includes setup, integration, testing with 10–20 users, and a full launch aiming to address 100s of queries per month 
+
+He did npt finish the presentation due to time constraints, but the group agreed to support the idea and help devise context for the agent. However, we noted that with the lower numbers coming into the Program at the moment (largely a result of low token price and low availability of paid tasks), we wou;ld be unlikely to be able to test it at scale.
+
+#### Action Items:
+- [**action**] CjFrankie to write the Q3 2025 report [**assignee**] CJFrankie [**due**] 4 September 2025 [**status**] todo
+- [**action**] MartinSoki to write next month meeting summary [**assignee**] martinsoki [**due**] 4 September 2025 [**status**] todo
+- [**action**] Focus group to draft a Q4 2025 budget [**assignee**] Sucre n Spice, LadyTempestt, CallyFromAuron [**due**] 4 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ASI 1, onboarding agent, AI Sandbox/Think Tank, Q3 2025 quarterly report, Q4 2025 budget, onboarders team
+- **emotions:**  Collaborative,  informative
