@@ -4,6 +4,52 @@ description: Mon 22nd Sep - Sun 28th Sep 2025
 
 # Week 39
 
+## Wednesday 24th September 2025
+
+### Research and Development Guild
+
+- **Type of meeting:** Monthly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, CallyFromAuron, Omolola Lawson, Rems, Malik
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+  - [Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [Enhancing Search Engine Optimization for the Ambassadors Program proposal](https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing)
+  - [AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. ](https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. 
+
+- Deployment of an AI agent for the BNB hack and ongoing proposals for Cudos
+- AOB Open discussions: Operations moving forward,
+identify and establish priorities,
+New proposals system redesign,
+Onboarding Devs
+
+#### Discussion Points:
+- R&D Operations and Project Updates
+The discussion highlighted the challenges in managing operations and the need for a structured approach to project proposals. Guillermo, including Vani, stressed the importance of recognizing contributions from hackathons and ensuring that team members are aligned on project goals. Vani highlighted the necessity of framing discussions around the ethical implementation of AI agents, suggesting the creation of a collaborative document for community input. Guillermo agreed on the importance of contextualizing the AI's foundational prompts to ensure it aligns with their decentralized values. They also acknowledged the challenges of engaging the community effectively, given varying participation levels.
+- Discussion on AI Integration in Governance Processes
+The conversation centered on the potential for AI to assist in governance tasks, with Malik Huzaifa suggesting that an AI agent could streamline the consent process for workgroups. Vani countered that automation could undermine the essential governance role of individual contributors. The group acknowledged the need for ethical considerations in delegating decision-making to AI. The discussion centered on the consent process and the effectiveness of community engagement. Vani pointed out that many individuals may hesitate to comment due to concerns about receiving inadequate responses. Malik raised ethical considerations regarding data usage by AI systems, emphasizing the need for transparency in how comments are handled. Guillermo emphasized the need for collaboration and proper licensing, potentially opting for an Apache license. Vani highlighted the importance of transparency in data usage, particularly regarding AI ethics, and Malik expressed that ethical considerations depend on how data is utilized within the organization. The group agreed on the necessity of clear communication regarding data practices.
+
+#### Action Items:
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 1 October 2025 [**status**] todo
+- [**action**] Lordkizzy will follow up with the writers workgroup & marketing guild regarding the SEO training feedback.  [**assignee**] LordKizzy [**due**] 1 October 2025 [**status**] in progress
+- [**action**] Guillermo will create a video tutorial on how to use the new governance dashboard and share it in the governance meeting.  [**assignee**] guillermolucero [**due**] 1 October 2025 [**status**] done
+- [**action**] 
+Lordkizzy will reach out to the social media managers from both the video workgroup and writers workgroup to discuss the SEO audit report and necessary changes [**assignee**] LordKizzy [**due**] 1 October 2025 [**status**] in progress
+- [**action**] Guillermo to share the summary of the BNB hackaton deployment on the Ambassadors General channel. [**assignee**] guillermolucero [**due**] 1 October 2025 [**status**] todo
+- [**action**] Vani to create a document for community discussion regarding the foundational prompt for the AI agent. [**assignee**] CallyFromAuron [**due**] 1 October 2025 [**status**] todo
+- [**action**] Guillermo will follow up with Rems to set up a call regarding the UI design and integration. [**assignee**] guillermolucero [**due**] 1 October 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Proposals, Governance Dashboard, Status update, AI Agent, Hackathon
+- **emotions:**  Understanding.,  Satisfaction , Lengthy
+
+
 ## Thursday 25th September 2025
 
 
