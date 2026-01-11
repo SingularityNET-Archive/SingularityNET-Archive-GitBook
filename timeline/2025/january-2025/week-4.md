@@ -316,3 +316,59 @@ Clement discussed an upcoming "Afro-AI Multilingual Literacy Drive" initiative, 
 #### Keywords/tags:
 - **topics covered:** AMA session,  Q1 budget, marketing initiatives, Partnership, education initiatives
 - **emotions:** Welcoming, Collaborative, Discursive
+## Friday 24th January 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Gorga Siagian, Ayo, CJFrankie, LordKizzy, AshleyDawn, Eric Davies, kenichi, advanceameyaw, photogee, Kateri, PeterE, Mikasa, SubZero, hogantuso, Fav, esewilliams, Evelyn
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Introductory message for the media room](https://docs.google.com/document/d/1Wir5N-gdtzXGVh-m6zy4zLtCIf0BY8nkA7YrdoFF9iQ/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Last meeting summary](https://docs.google.com/document/d/1MT-MnlaAvHde22GpY4eTSL9fmTACKCS3M14etHPWff4/edit?usp=sharing)
+
+#### Discussion Points:
+- Introductory Message for Media Room: Kizzy kicked off the meeting by presenting the introductory message for the media room to the representatives of each guild and workgroup. The purpose was to guide them in reaching out to the social media admins for scheduling and coordination.
+
+- Member Attendance Report: Kizzy presented the attendance review sheet, explaining the color-coded system. Members in green were approved to retain their roles, those in orange would be demoted to task force members, and those in red would no longer contribute to the group.
+
+- Roles and Responsibilities: Kizzy outlined the roles and responsibilities for each member of the Marketing Guild, explaining how members can take on specific roles
+- Event role creation: A new role, called the Event Role, was created. The primary purpose of this role is to have someone attend events, promote SingularityNET and its events, and evaluate the impact of the events using metrics such as attendance, engagement, and ROI. This role will also involve seeking potential collaboration opportunities.
+
+- Attendance and Role Demotion: Kenichi expressed opposition to the idea of demotion based on his performance in the task role. He recommended that his attendance in Q3 be considered in comparison to Q4 when evaluating his role.
+
+- Attendance Reminder: Kizzy emphasized the importance of providing prior notice in case of absence. He reminded the team that, as core team members, attending calls—especially for decision-making—is mandatory. He also noted that Task Force members are not as tightly bound to this requirement.
+
+- Attendance Discrepancy: Malik pointed out that he was marked absent on October 4th, 2024, despite having evidence to show that he was present.
+
+- Rules and Reassessment: Kizzy clarified that the current rules will apply only for this quarter. The team will reassess at the end of the quarter. Members who meet the criteria for promotion will be moved back to core team status, while those who don’t will be demoted to Task Force members. Members who fail to meet at least 50% of the criteria will not hold any role in the marketing team.
+
+- Town Hall meeting update: Kizzy suggested that for Town Hall meeting update, we went through an assessment of the roles and responsibilities. We completed the Zealy sprints that we had previously.
+- Twitter Upgrade: Mikasa mentioned that the team is upgrading from Twitter Premium to Twitter Plus. This decision followed a discussion in the Writers Workgroup last week. The Plus plan offers a range of benefits, with a cost of $22 per month or $229 per year.
+- Zealot Initiative Feedback: Kenichi commented on the Zealot initiative and shared that the Writers' Workgroup plans to launch a Zealy initiative using their original methods, while Ese emphasized that creating a successful campaign takes time.
+
+
+#### Decision Items:
+- We agreed to create a poll for members to vote for or against the demotion of members who don’t meet the attendance benchmark.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Kareem will prepare to present the governance document during the next call.
+ [**assignee**] kareem [**status**] todo
+- [**action**] Eric Davies to confirm Malik’s attendance to potentially improve his overall performance metrics.
+ [**assignee**] Eric Davies [**status**] todo
+- [**action**] All members to discuss the governance presentation in preparation for the next call.
+ [**assignee**] all members [**status**] todo
+- [**action**] All members to engage in discussions about task submission and assessment to improve accountability and performance. [**assignee**] all members [**status**] todo
+- [**action**] Cjfrankie to fill EYOR on behalf of marketing guild [**assignee**] CJFrankie [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Roles, TH Update , Zealy, content calendar, Taskforce
+- **emotions:** Well-attended, argumentative, forward planning, contructive criticism, heated, fiery
