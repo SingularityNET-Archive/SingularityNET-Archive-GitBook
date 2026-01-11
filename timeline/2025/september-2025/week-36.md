@@ -50,6 +50,50 @@ There was clarification around grounded theory coding that was stated in the Q4 
 #### Keywords/tags:
 - **topics covered:** AI Ethics MOOC Study group, Interview Transcription, Interviews, budget management, deadlines, grounded theory coding, BGI25 Istanbul, Q4 budget, AGIX rate, Q3 quarterly report, transcript checking.
 - **emotions:** collaborative, deliberative, forward-looking
+## Wednesday 3rd September 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** osmium [**facilitator**], devon [**documenter**], Gorga Siagian, esewilliams, Xalfred, frosh, osmium
+- **Purpose:** To review progress on the CCCP extension and governance webinars, and to ideate on launching a new ASI Academy aligned with the SingularityNET ecosystem's educational goals.
+- **Working Docs:**
+  - [Content Creaters Tasks And Assessment](https://docs.google.com/spreadsheets/d/1Ex3Oa6hcg7W89WZfhM8nzVl09SGB7Hf3L7e9TM_a7W4/edit?usp=sharing)
+
+#### Discussion Points:
+- ASI Academy Proposal
+
+The idea of an “ASI Academy” was introduced primarily by Osmium, based on an original proposal by David Taylor, former Chief Marketing Officer at Cardano. Osmium emphasized that the academy should be more than a general course — it should be a strategic, ecosystem-aligned educational platform for the ASI alliance (SingularityNET, Fetch.ai, Ocean Protocol). He suggested using the Cardano Academy as a case study, drawing parallels to successful educational systems in decentralized ecosystems. The ASI Academy could integrate lessons and structures from CCP, AI for Beginners, and previous Ambassador projects, with a more refined focus on decentralized AI and internal technologies like ASI Cloud, ASI Infrastructure, and spin-offs. The discussion highlighted the need for a dedicated course that aligns with SingularityNET’s evolving direction. everyone supported the idea, and a working group will be formed for this.
+- Governance Webinars Update
+
+Osmium provided a comprehensive update on the governance education series. The team now has two presentations developed — an expansion from the original single presentation model. The governance module has faced delays due to evolving governance systems, which could create confusion among participants if rolled out prematurely. To address this, Osmium shared that the structure now includes a series of five webinars, one of which will be an interactive Mentimeter workshop, and another focusing on decision-making tools and methodologies. A complete blueprint document is being prepared to outline the roadmap, and announcements for the webinars will be released soon. Osmium encouraged participants to refer to the document to understand the updated structure and educational goals.
+- CCCP Extension Progress
+
+Gorga led the update on the CCCP (Core Contributor Certification Program) extension. He created a spreadsheet assigning tasks to content creators and assessors, which he shared in the chat. One of the key issues raised was the limited number of content creators compared to the volume of work, leading to Lord Kizzy being assigned two spin-off video tasks. Osmium requested to take over the Sentience video from Kizzy, subject to Kizzy’s approval. Gorga was open to the reassignment, but emphasized the need for proper agreement. There was also some confusion regarding which spin-offs are active or already documented. A final decision was made to replace the ASI general video with Sentience.
+- AI Intermediate Course Proposal
+
+Building on the AI for Beginners course, Osmium proposed the creation of a follow-up course, possibly titled AI Intermediate or Foundations. This initiative aims to transition from broad, entry-level AI education to SingularityNET-aligned content focused on the ASI ecosystem. Osmium noted that the prior course didn’t generate sustained engagement from external audiences, and therefore the next phase should target the existing loyal community. He suggested reviewing the feedback from the AI for Beginners course to inform future content and structure. The topics are to include current ecosystem priorities such as ASI infrastructure, ASI Cloud, and decentralized AI practices. Gorga and others agreed to carry the idea forward into next quarter’s proposal planning.
+- Website Options for ASI Academy
+
+The need for a dedicated website to host ASI Academy content sparked a thoughtful discussion between Osmium and Gorga. They explored three options: 1) building on Slate’s existing LMS-style platform, 2) expanding the Ambassador Wiki site, and 3) integrating directly into the SingularityNET Ambassador Program site. Osmium advised that no web development should start until they have confirmed alignment with the Foundation, to avoid redundant efforts like in previous site-building attempts. Once foundational support is secured, the working group will draft a blueprint and roadmap outlining site architecture, content flow, and integration strategies. Osmium also considered involving David Taylor as an advisor, given his original vision for the academy and experience in educational platform development.
+
+#### Decision Items:
+- Sentience will replace ASI video in spin-off tasks.
+  - [**rationale**] ASi is the main project, not a spinoff
+
+#### Action Items:
+- [**action**] Quarterly Report - Q3 2025 [**assignee**] UKnowZork [**due**] 16 September 2025 [**status**] todo
+- [**action**] Form ASI Academy working group and set up asynchronous collaboration [**assignee**] osmium [**due**] 16 September 2025 [**status**] todo
+- [**action**] Budget planning  [**due**] 16 September 2025 [**status**] todo
+- [**action**] Share proposals (ASI Academy, AI Intermediate) in next proposal round [**assignee**] osmium [**due**] 16 September 2025 [**status**] todo
+- [**action**] Create a case study or report on AI for Beginners course [**status**] todo
+- [**action**] Osmium to reach out to kizzy for video reassignment  [**assignee**] osmium [**due**] 16 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ASI Academy, Governance Module, Spin-off Videos, Proposal Planning, CCCP extension, Governance series, Q4 2025 budget, Q3 2025 quarterly report
+- **emotions:**  Collaborative,  forward-looking,  informative
+
+
 ## Thursday 4th September 2025
 
 
