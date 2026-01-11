@@ -390,3 +390,43 @@ We checked the new sheet for Q2 which LordKizzy has added to the Budget Planner,
 #### Keywords/tags:
 - **topics covered:** Audioread, architecture and technology, nunet, breakout panel debate, productivity.
 - **emotions:** Informative, interactive, educational
+## Friday 21st February 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], LordKizzy, esewilliams, photogee, kareem, CJFrankie, Eric Davies, Kateri, advanceameyaw, Gorga Siagian, SubZero, martinsoki, PeterE, Ayo, Effiom
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Design Work Group(under marketing)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740672236759656%26amp;usg%3DAOvVaw0ZOENfBt_1d9aJBh6k0bh3&sa=D&source=docs&ust=1740672236764018&usg=AOvVaw0ZJ0G-_bvispWqK7jdvKXh)
+
+#### Discussion Points:
+- LordKizzy began the meeting by welcoming everyone and reviewing the last meeting summary. LordKizzy went through Eric Davis document and gave update on the Zealy initiative progress report, indicating it is nearing completion with significant growth and massive increase in participation. Specifically, he developed two models, each containing 10 tags, which have been successfully uploaded to the Zealy board.
+- Photogee gave an update on the Podcast initiative. He noted that he collaborated with Kenichi concerning this and has received feedback from 6 people and the response was evenly distributed, two people for writers, two people for audio and visual specialist, and two people as producer and host. Which is going to be two two per month, two episodes for each month. They are going to test run one episode first. Kenichi brought up a suggestion on creating a general form with three sections of questions.The first episode is intended to serve as a learning experience, with Peter suggesting that initial episodes would help attract more guests. LordKizzy acknowledged that there shouldn't be an extra allocation for the operation for the initiative team because there is already an allocation for the initiative team in our budget. He also noted that people working on this podcast are working outside their scope but they are working within their scope.
+- Kareem presented his proposal on the design workgroup initiative under marketing guild. He stated that the budget of the design workgroup will come from the marketing guild. However, Lord kizzy stated that currently our budget is low and even with our reserves we can’t still fund the proposal.  
+- Mikasa gave update on the Social media management and contributor spotlight. Which stated that the contributor Spotlight is not out yet but hopefully it will be out today. Also, the Twitter account already has the Premium Plus.  
+- Graphics Team:
+Gorga stated he has made the design for the contributor Spotlight and he has changed the background, with the design of the Town Hall call announcement, the design of the Weekly meeting schedule in two languages, namely English and French, then the design of the AI sandbox related to the Think-tank debate and the design for the Writers workgroup related to the ecosystem page article, the community page, the post for the X trip, and the design of the monthly Twitter article post.
+- Kareem to give update on graphics. He stated that he has been reviewing designs making sure they meet up to the standards, and he has been working on the comic initiative, also, a couple of templates that will be used across the quarter.
+- Budget and task management:
+LordKizzy said he's currently drafting out the Q1 report and Q2 budget proposal for the Guild. we are actually going to have to make new cuts because of the token price. Hopefully by next he would present it so we can have a discussion around it.
+- Kenichi said based on the Marketing Guild Survey they have been getting more submissions on that. He stated that People have asked a lot of questions about the Ambassador program. There's not enough information about the Ambassador program out there. He plans on sharing links to the responses he received.
+- Community initiative review team
+LordKizzy and Kenichi had a call on Saturday whereby they looked at the responses from the community initiatives and also analyzed it before sending it to Ayo, so that they can get feedback from him. So that they can start reaching out to the selected members that got selected, so that they can make some necessary corrections for those that need to.
+- Kateri stated regarding the Community Spotlight, she has sent it across to Mikasa to post it. Guild Spotlights. She created the questionnaire and sent it to R&D Guild, which Guillermo told her that before the meeting, he would have responded to her. So she's going to check the questionnaire and then send it over to Goga.
+
+#### Action Items:
+- [**action**] Ese to merge and present the Governance Doc. [**assignee**] esewilliams [**status**] todo
+- [**action**] Photogee to add items to Marketing Guild Google drive  [**assignee**] photogee [**status**] todo
+- [**action**] Ese to create the charts for February so members can submit there task. [**assignee**] esewilliams [**status**] todo
+- [**action**] LordKizzy to reach out to the graphics Team and maybe mikasa to spotlight there previous project in R&D Guild [**assignee**] LordKizzy [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance, Guilds , Meeting Summaries, Zealy, Ambassador GitBook, Initiatives, GitHub project, Community podcast update, community spotlight 
+- **emotions:** Friendly,  informative, Discursive
