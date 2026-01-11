@@ -282,6 +282,7 @@ The need to implement a developer academy in the MeTTa language in Spanish and P
 ## Thursday 20th February 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -390,6 +391,52 @@ We checked the new sheet for Q2 which LordKizzy has added to the Budget Planner,
 #### Keywords/tags:
 - **topics covered:** Audioread, architecture and technology, nunet, breakout panel debate, productivity.
 - **emotions:** Informative, interactive, educational
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Gorga Siagian [**facilitator**], Onize, CallyFromAuron [**documenter**], CallyFromAuron, AshleyDawn, Clement Umoh, Gorga Siagian, Sucre n Spice, Kateri, LordKizzy, martinsoki, maxmilez, daniel effiom, CJFrankie
+- **Purpose:** Biweekly meeting of Onboarding WG
+- **Working Docs:**
+  - [Onboarding WG Q1 2025 Report](https://docs.google.com/document/d/1Ua7bsExaz5KiQjMQtoBp0pUUbDLteDPAjTGSKyOLhvw/edit?usp=sharing)
+  - [GittHub Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/9/views/2)
+  - [Interview Response Breakdown on Onboarding to Decentralization Research](https://docs.google.com/document/d/1VAXUA20BA_gwNaL4xXUXCIV0vUeqThMys588I3LsSRI/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- GitHub Board Updates
+
+Gorga Siagian reviewed the action items for the group.
+
+Anyone who is not yet a member of the Ambassador Program GitHub organization should DM SucrenSpice for their GitHub username. 
+- Q2 2025 Budget Planning
+
+Gorga outlined the deadlines for the Q2 budget, stating that proposals must be submitted by March 10. Lord Kizzy will contribute to budget planning alongside the Foscus Group.
+- Updates on Skillshare Session
+
+Gorga announced that the Skillshare session on Understanding SNET's ecosystem will be postponed until Q2 because of budget issues. 
+- Vani and Gorga worked on assigning facilitators for the next meeting, noting that Ayo has been absent from recent meetings. Kizzy volunteered to facilitate, while CJ was tasked with reminding Ayo about his availability.
+
+- Q1 2025 Quarterly Report
+Submission date: 27th February
+CJFrankie is working on it - he will change access on the document so everyone can leave comments
+
+- Review of Onboarding to Decentralization Research
+
+Vani highlighted some issues with the research conclusions indicating that some terms were poorly defined and that the conclusions drawn contradicted the evidence. Gorga supported Vani's proposal to move the document back to in progress for further refinement. Vani added that the recommendations at the end might need to be in separate conclusions. It could be unethical to present them as directly supported by the eviden
+
+Agreed on a call next week with Vani, Clement and LordKizzy to iron out the problems. 
+
+#### Action Items:
+- [**action**] Timestampping M&E session [**assignee**] Onize [**due**] 21 January 2025 [**status**] todo
+- [**action**] Arrangement of Q2 Budget proposals before deadline [**assignee**] LordKizzy [**due**] 10 March 2025 [**status**] todo
+- [**action**] Move completed action items to "Done" on the GitHub board. [**assignee**] Gorga Siagian [**due**] 20 February 2025 [**status**] done
+- [**action**] Submit quarterly report [**assignee**] CJFrankie [**due**] 27 February 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Q1 2025 quarterly report, Q2 2025 budget, Onboarding to Decentralization research, research conclusions, skillshare sessions
+- **emotions:** Brief,  Collaborative
+
+
 ## Friday 21st February 2025
 
 ### Marketing Guild
