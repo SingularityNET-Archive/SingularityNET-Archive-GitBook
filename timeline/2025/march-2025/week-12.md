@@ -6,6 +6,7 @@ description: Mon 17th Mar - Sun 23rd Mar 2025
 
 ## Monday 17th March 2025
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Monthly
@@ -76,6 +77,48 @@ description: Mon 17th Mar - Sun 23rd Mar 2025
 #### Keywords/tags:
 - **topics covered:** Ambassador GitBook, Miro Board, Project Management, Dework, Category Descriptions, roadmap, Q2, Schedule
 - **emotions:** detailed, collaborative
+
+
+
+### Strategy Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Clement Umoh [**facilitator**], CJFrankie [**documenter**], Clement Umoh, CJFrankie, PeterE, Ayo, esewilliams, Eric Davies, Effiom, Alfred Itodole, Maxmilez, Jeffrey Ndarake, Évéline Trinité
+- **Purpose:** The monthly meeting of the Strategy Guild featuring discussions around budget, updates, and looking ahead!
+- **Working Docs:**
+  - [SingularityNET AI Marketplace Knowledge & Engagement Survey](https://docs.google.com/forms/d/e/1FAIpQLSea1U_MsXS1La3B8y1HXHaINpTh5D1ri0SeuPA_qvX0hSZNRg/viewform?usp=dialog)
+  - [Strategy Guild Q2 2025 Budget](https://docs.google.com/spreadsheets/d/1RREbaAuFd3ne_UdZ6TBk9nqbkbbM6lhcdK85p9unBCI/edit?gid=186504450#gid=186504450)
+  - [Strategy Guild March 17th Meeting Agenda](https://docs.google.com/document/d/1Kwk8WoPPuZwVf0Ew8MVPrvMSG-1r9nn9GZUjmMySNdw/edit?tab=t.0#heading=h.shxqnobd9709)
+
+#### Narrative:
+Kick-off: The monthly meeting of the strategy guild started strong with Clement as he welcomed everyone to the first official meeting in March. Then we skimmed through the action items and agreed with the minutes of the last meeting—held on January 27th. 
+
+Updates on Q1 Workshop  by Ese: Ese shared an update on the Q1Workshop, which is currently in progress! She stated that a few people have filled out the form, which is expected to close in the coming weeks—the date wasn’t specified! Ayo applauded her and said that the process could be a bit faster so that she could present the research work in the last town hall session. 
+
+SingularityNET AI Marketplace by Clement: The meeting featured Clement Umoh, who showcased the progress with the Guild’s current research work on the “SingularityNET AI Marketplace.” He emphasized the need for ambassadors to understand how the marketplace works. He also added that the purpose of the research work is to understand the potential gaps and ensure that the sNET Ambassadors use the AI marketplace. According to Clement, the research is in the data-collection phase—so he encourages everyone on the call to contribute to the research. After his presentation, MaxMiles commented on his efforts and progress so far. 
+
+Q2 in Perspective by AYO: As Q1 draws to a close, the Strategy Guild reflects on its achievements and looks forward to a promising Q2. Ayo stated that the guild will continue to deliver workshop sessions and conduct research, though there will be only three calls in Q2. This conversation led to a decision-making process. We deliberated on whether to host the calls on the first or last Monday of each month. Clement shared his opinion, but Effiom’s suggestion was adopted. He proposed that the guild hold its monthly meetings on the first Monday of each month, while the remaining weeks are used to track task progress asynchronously.
+Async Unit by Effiom: Speaking of keeping abreast with the latest updates in the guild, the Async unit will begin to function again. These Async guys are people who will follow up with members and workgroups to keep track of their progress. 
+
+New Members Discussion: Speaking of new members, MaxMiles asked how onboarding works in the guild. Ayo explained that the Strategy Guild operates differently from other workgroups. To be considered a member, one must be active in at least five workgroups. In response, MaxMiles mentioned that he has been active in several workgroups, including Strategy. 
+
+Budget: In this meeting, we reviewed our Q2 budget. With 4,000 AGIX allocated, we agreed to reduce meeting time and focus on high-priority tasks such as research and workshops. Ayo also encouraged everyone to participate in the consent rounds 
+
+AOB: “Effiom raised a concern: “Since we’re reverting to monthly meetings, how do we track our progress? How do we know what people are doing?” He suggested using GitHub to monitor task progress, but Effiom pointed out that optimizing GitHub would be challenging and that there wasn’t any budget allocated for it. After that, Jeffrey introduced himself, and the meeting came to a close.”
+
+
+#### Decision Items:
+- We have decided that going forward, the Strategy Guild will only meet once a month—which is the first Monday of each month. While subsequent meetings will be held last Monday of the last two months of the quarter
+  - [**effect**] affectsOnlyThisWorkgroup
+- The Strategy Guild will review MaxMiles’s participation in other workgroups to determine whether he has met the threshold to be recognized as a member of the guild.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Ayo and Effiom to announce the new Async/task force members in the coming TH. [**assignee**] Ayo, Effiom [**due**] 7 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget, Q1 research, SingularityNET AI Marketplace, Async unit, Research, Monthly meetings, Onboarding, GitHub, Threshold, Q2
+- **emotions:**  insightful, Resourceful,  informative, looking-ahead
 
 
 ## Tuesday 18th March 2025
