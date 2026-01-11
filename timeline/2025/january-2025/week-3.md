@@ -9,6 +9,7 @@ description: Mon 13th Jan - Sun 19th Jan 2025
 
 
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -290,6 +291,116 @@ Peter said the workgroups to focus on for the workshop should be demand driven. 
 #### Keywords/tags:
 - **topics covered:** Q2 Proposal, Q3 proposal, Q1 Report, Treasury Features, Treasury Automation, async work, Freelance developers, meeting attendance
 - **emotions:** Collaborative
+
+
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], advanceameyaw, onize, AshleyDawn, Effiom, LordKizzy, Tevo
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Meeting video:** [Link](https://www.youtube.com/watch?v=tVmEa4euAyo)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLvZNwWM=/?moveToWidget=3458764612928949477&cot=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback (Responses)](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/)
+  - [Treasury Guild Proposal Q1 2025](https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/edit?tab=t.0#heading=h.9t5jkakh8028)
+  - [Managing Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/edit?tab=t.0#heading=h.w0kflg2wx5ub)
+  - [NEW TEMPLATE Meeting Summary](https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU/edit?tab=t.0)
+  - [Treasury Guild - Miro Board Overview for 2025](https://www.youtube.com/watch?v=qFmiK9tNA8o)
+  - [Treasury Guild Q1 Report 2025](https://docs.google.com/document/d/1AND0meYR-owrW1yiURmB_DyAKhD15iRMh7JGx-Dl9Qs/edit?tab=t.0)
+  - [Treasury Guild Q4 Report](https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I/edit?tab=t.0)
+  - [Gamers Guild presentation]( https://youtu.be/ib8IoKSximY)
+
+#### Agenda item 1 - Guild Management - Distribute Action Items - [resolved]
+
+#### Discussion Points:
+- Selection of a meeting summarizer and a reviewer for 13.01.2025
+- How we manage Meeting Summaries https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4
+- New template for Meeting Summaries https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU
+- Treasury Guild 2024 Miro Board Overview: https://youtu.be/qFmiK9tNA8o
+
+#### Decision Items:
+- We are adopting a new meeting summary template on Google Docs
+  - [**rationale**] Google docs is more user friendly when compared to Miro, plus the final destination of meeting notes is the gitbook after its been added to the summary tool and archived.
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Effiom will draft the meeting summary and upload it to the summary tool.
+
+ [**assignee**] Effiom [**due**] 27 January 2025 [**status**] done
+- [**action**] Tevo to review and publish in Discord [**assignee**] Tevo [**due**] 27 January 2025 [**status**] done
+
+#### Agenda item 2 - Review and Update Treasury Guild Quarter 1 Report - [resolved]
+
+#### Discussion Points:
+- Quarter 1 2025 Report https://docs.google.com/document/d/1AND0meYR-owrW1yiURmB_DyAKhD15iRMh7JGx-Dl9Qs
+- Adoption of the fixed hourly AGIX rate for tasks and fixed AGIX amount
+- Some fixed hourly rate tasks are meeting summary and review, preparation of meetings, and review of tasks
+
+#### Decision Items:
+- We will use the Exchange Rate (0.55) in Quarter 1. Hence, Hourly rate = Exchange Rate / 20 = 36 AGIX
+  - [**rationale**] This was the advised rate used when budgeting for Q1 2025
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to keep most of the tasks as fixed AGIX amount
+  - [**rationale**] As the amount allocated is in AGIX 
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Include this agenda item in the next Meeting Agenda and assign it to someone [**assignee**] Tevo [**due**] 27 January 2025 [**status**] todo
+
+#### Agenda item 3 - Treasury Guild Quarter 2 Proposal - [carry over]
+
+#### Discussion Points:
+- What helps to draft the Q2 proposal?
+https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs
+https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I
+https://docs.google.com/document/d/1AND0meYR-owrW1yiURmB_DyAKhD15iRMh7JGx-Dl9Qs
+- What could we add to the proposal to improve Treasury Management in the Ambassador Program?
+- Treasury Guild is mainly for maintenance and is not planning to produce any new assets for the Ambassador Program
+- No new ideas or needs were surfaced
+
+#### Action Items:
+- [**action**] Tevo will draft the Q2 proposal [**assignee**] Tevo [**due**] 27 January 2025 [**status**] in progress
+- [**action**] Effiom will review the drafted proposal [**assignee**] Effiom [**due**] 27 January 2025 [**status**] in progress
+
+#### Agenda item 4 - Gamers Guild Presentation - [resolved]
+
+#### Discussion Points:
+- Gamers Guild presentation https://youtu.be/ib8IoKSximY
+- Treasury Guild now rewards for participation
+
+#### Action Items:
+- [**action**] Include Treasury Operations WG meeting time [**status**] todo
+- [**action**] Look into relevant links if something else would fit the scene [**status**] todo
+
+#### Agenda item 5 - Treasury Operations Schedule - [resolved]
+
+#### Discussion Points:
+- When should Treasury operations happen?
+- How do we address the overlap with the Marketing Guild?
+- Active treasury operators who are also members of the Marketing Guild
+- No concerns from the other members other than lord kizzy were raised about the conflict of time.
+
+#### Decision Items:
+- Tevo agreed to switch with Lord Kizzy, as Kizzy found his schedule date to be conflicting 
+  - [**rationale**] Kizzy schedule was conflicting with Marketing Guild meeting
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- We will have another scheduled sentiment check by next quarter for the operations call
+  - [**rationale**] Because some people have raised concerns of the time clashing with other WG meetings
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Confirm who else has a conflict and wants to switch [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Guild Management, Q2 proposal, Q1 Report, Database, Treasury Operations, Budget 
 
 
 ## Tuesday 14th January 2025
