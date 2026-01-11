@@ -144,3 +144,53 @@ The meeting came to an end with Clement reinforcing the idea that while digital 
 #### Keywords/tags:
 - **topics covered:** Afro Multilingual Literacy Drive, M-PESA & AI Guardian, Finance, Digital money, banks for the unbanked, financial technology, Sub-Saharan Africa’s population
 - **emotions:** Friendly, Collaborative, funny , Thoughtful , engagement, entertaining, insightful, quiet, New members
+## Friday 12th September 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], esewilliams, Jeffrey Ndarake, advanceameyaw, Ayomi Shuga, Mikasa, kenichi, CJFrankie, Eric Davies, omolola, Kateri, Gorga Siagian
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Lordkizzy opened the Marketing Guild call by welcoming members, including newcomer Omolola, and outlined the agenda. The team reviewed previous action items, focusing on Cj Frankie’s tasks related to proofreading governance doc and communication with Ayo.
+- Podcast Initiative Update:
+Challenges: No episodes recorded due to guest availability issues; Mikasa highlighted repeated reschedules.
+
+Strategies: Ese suggested producing internal content first; Lordkizzy noted difficulties in shifting back to Twitter Spaces; Tevo was proposed for a future discussion. Deadline pressure for reports emphasized.
+
+Engagement Updates: Uri (MindPlex CEO) is unavailable (surgery), Cabrillo (Nunez CEO) faced network issues, Jasmine is unwell, and Aidy hasn’t been reached yet.
+
+Next Steps: Team agreed to produce at least one episode this quarter—possibly leveraging ambassadors or internal team members to ensure timely delivery.
+- Scavenger Hunt Update & Outcomes: Eric Davies stated that Only 11 participants joined due to low awareness and delayed launch. QuizBot limited the experience, though participants still found it fun. Feedback suggested improving question quality and point distribution.
+
+Lordkizzy stressed that reports should reflect real outcomes, not just activities, and requested commentable reports for collaboration. He noted goal misalignment and execution challenges.
+
+Eric Davies highlighted the aim of driving engagement and education about SingularityNET despite outreach issues. Advanceameyaw added that consistent participation, though small, still showed positive impact.
+
+Chatbot & Alternatives Discussion: Custom Discord chatbots estimated at $500–$2,000. Alternatives such as QuizBot and ZilliBot via Zapier were suggested to cut costs.
+
+Community Engagement & Future Planning: Lordkizzy emphasized stronger community engagement and social media amplification, aiming to address criticisms of inorganic participation. September was proposed for the next scavenger hunt, with improved promotion.
+Ese Williams suggested rebranding the scavenger hunt to highlight education and meaningful onboarding for better perception and impact.
+- Budget Review and Initiative Planning: Lordkizzy outlined the budget cuts affecting the marketing team, noting a reduction in current tasks for Q4. He suggested that the team focus on a single initiative, the scavenger hunt, due to financial limitations. Feedback was solicited from team members, but no additional suggestions were provided
+
+#### Decision Items:
+- it was decided to have a single initiative (scavenger hunt) due to financial limitations 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 12 September 2025 [**status**] todo
+- [**action**] Cj Frankie to have a call with Ayo to resolve the enduring action item in the summary note. [**assignee**] CJFrankie, Ayo [**due**] 26 September 2025 [**status**] todo
+- [**action**] Mikasa to reach out to potential guests for the podcast to secure interviews. [**assignee**] Mikasa [**due**] 26 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Podcast Intiative, Scavenger hunt, Budget Review
+- **emotions:**  Collaborative, Peacefull,  Understanding.
