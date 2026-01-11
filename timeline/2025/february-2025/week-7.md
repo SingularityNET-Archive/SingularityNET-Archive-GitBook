@@ -81,6 +81,53 @@ We briefly discussed the 'DRAFT process for how to use the "New Ideas" budget' d
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Q1 2025 report, core contributors, publicity, context-setting docs, budget minimums, timeline, infographic, WG reserves, New ideas, Treasury Policy
 - **emotions:** decisive, focused, lots of tasks assigned
+## Wednesday 12th February 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AndrewBen, AshleyDawn, Evelyn, frosh, Gorga Siagian, Kateri, Malik, osmium, SubZero, Zalfred, hogantuso, kenichi, Mikasa, LordKizzy, esewilliams, Slate
+- **Purpose:** Certifcation Program Follow-up -Updates from Wiki website- Update from Governance Workshop Presentation Series; task overview by Tuso- Ai for Beginners- AGIX Price Drop Discussion  
+- **Working Docs:**
+  - [Certification Program Process ](https://miro.com/app/board/uXjVLn7Lfag=/?share_link_id=248184016016)
+  - [Webinar Series ](https://docs.google.com/document/d/1V5W6yUgzJRTe63SIZW6g-RaDuOmmWNWxonm_A4Ca27g/edit?usp=drive_link)
+
+#### In this meeting we discussed:
+- Ceritifcation Program Follow-up 
+- Updates from Wiki website
+- Update from Governance Workshop
+- Presentation Series task overview by Tuso
+- Ai for Beginners
+- AGIX Price Drop Discussion
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- The First topic of discussion was the CCCP on which Osmium asked that on what stage are we upon and what's the follow-up on it 
+- In regards to this Slate Replied that we are waiting for AGIX price to get stable enough for us to carry out further activities , though we would still be requiring more feedback through the feedback form for us to consider more things to implement. Another two point which were touched upon were the making of Certification program a required thing for contributors and the second point was the hosting of Certification program on live calls 
+- Gorga followed up with the updates from Wiki Website , in which it was notified that the website upgrades will be given by next week 
+- Osmium gave updates in regards to the Governance Workshop that they are working on the blueprint for the workshop and some things might change from the original proposed stuff and that the document will be quite more long than the usual one. There was also a request to pay more for the Blueprint creation as it took more time 
+- Tuso Showcased the task he is working on in regards to the presentation series, there were some concerns in regards to whether the same material have already been created during CCCP and budget allocation was unclear 
+- Slate mentioned that he would be reaching out to ese in regards to which videos were completed and which were not so they can pushed out for payments 
+- there were also discussion around AGIX price drop , one possible solution mentioned was to reduce each task amount according to the drop the second one being to halt progress of some ongoing projects to carry others out effectively , Further will be discussed next meeting 
+
+#### Decision Items:
+- Decision in regards to dealing with price drop next meeting 
+  - [**rationale**] mostAgreed 
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+- Osmium to create a clear allocation of budget in regards to the Governance workshop before requesting increase 
+  - [**rationale**] Most agreed
+  - [**opposing**] nil 
+
+#### Action Items:
+- [**action**] Frank to make the website updates  [**assignee**] FranklynStein [**due**] 19 February 2025 [**status**] in progress
+- [**action**] Slate to make one last announcement in regards to CCCP feedback  [**assignee**] Slate [**due**] 19 February 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, design, Task Assignment, AI for beginners, wiki website, Governance Workshop Presentation Series, low token price
+- **emotions:** productive,  Collaborative, Businesslike.
+
+
 ## Thursday 13th February 2025
 
 
