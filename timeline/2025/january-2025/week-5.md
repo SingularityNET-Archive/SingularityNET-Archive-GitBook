@@ -7,6 +7,7 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 ## Monday 27th January 2025
 
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -117,6 +118,81 @@ Town Hall Update: Peter recommended presenting progress made so far at the Town 
 #### Keywords/tags:
 - **topics covered:** TH Update , Guilds , Analysis, AI ethics, Gamers Guild, AI sandbox, Workshop, research
 - **emotions:** Friendly, productive
+
+
+
+### Treasury Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], PeterE, Malik, CallyFromAuron, AshleyDawn, Effiom, Tevo
+- **Purpose:** Structuring Ambassador rules around payments, tasks and anything related to financial activities
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLvZNwWM=/?moveToWidget=3458764613894438209&co t=10)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Policy Submission Form (Responses)](https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250)
+  - [Treasury Policy Feedback (Responses)](https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/)
+  - [Treasury Guild Proposal Q1 2025](https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/edit?tab=t.0#heading=h.9t5jkakh8028)
+  - [Managing Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/edit?tab=t.0#heading=h.w0kflg2wx5ub)
+  - [NEW TEMPLATE Meeting Summary](https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU/edit?tab=t.0)
+  - [Treasury Guild - Miro Board Overview for 2025](https://www.youtube.com/watch?v=qFmiK9tNA8o)
+  - [Treasury Guild Q1 Report 2025](https://docs.google.com/document/d/1AND0meYR-owrW1yiURmB_DyAKhD15iRMh7JGx-Dl9Qs/edit?tab=t.0)
+  - [Treasury Guild Q4 Report](https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I/edit?tab=t.0)
+  - [Gamers Guild presentation]( https://youtu.be/ib8IoKSximY)
+
+#### Agenda item 1 - Guild Management - [resolved]
+
+#### Discussion Points:
+- Reviewed and Distributed Guild Tasks
+
+#### Decision Items:
+- We would update the Proposal and Report in the next meeting instead of assigning it to a single person
+  - [**rationale**] Google docs is more user friendly when compared to Miro, plus the final destination of meeting notes is the gitbook after its been added to the summary tool and archived.
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo will draft and archive the meeting summary [**assignee**] Tevo [**status**] todo
+- [**action**] Effiom will review and publish the Meeting Summary on Discord [**assignee**] Effiom [**status**] todo
+
+#### Agenda item 2 - Policy Management - [resolved]
+
+#### Discussion Points:
+- Are there any new Policy submissions?
+- Has there been any feedback or enactment for new policies?
+- How are we going to manage the new policy ratification process?
+- We are moving towards a voting culture, but it feels like a faster way to get more aligned progress
+- If we don't use conventional tools to make decisions, we need to establish a role or activity to publish and remind people more often to make a decision
+- What should the first iteration of the policy decision dashboard look like?
+
+#### Decision Items:
+- Explicitly remind the decision is for Core Contributors
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Establish a procedure to capture and archive policy feedback
+  - [**rationale**] As the amount allocated is in AGIX 
+  - [**opposing**] None
+  - [**effect**] mayAffectOtherPeople
+- Voting results and feedback are public and recorded
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Tevo to Update Form results based on colour coding [**assignee**] Tevo [**due**] 27 January 2025 [**status**] todo
+- [**action**] Create a general Template for inviting people to consent on a new policy in a Discord [**status**] done
+- [**action**] Vanessa to Coordinate with Andre to see if we could use the Meeting Summary Archival Tool to capture Policy Decisions [**assignee**] CallyFromAuron [**status**] done
+
+#### Agenda item 3 - Ambassador Program Q1 Consent Statistics - [carry over]
+
+#### Discussion Points:
+- How does Q1 result look compared to Q4?
+- Should we have a Quorum for proposals?
+- First time we used budget caps in Q1
+- Why are people not taking part?
+
+#### Action Items:
+- [**action**] Tevo to update Q1 consent results to calculate influence tokens. This will also give us a comparison of how to engage different people across all proposals. [**assignee**] Tevo [**due**] 27 January 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Guild Management, Q2 proposal, Q1 Report, Database, Budget , dashboard, Decision Making Process, process, ratification, policy, Treasury, Statistics
 
 
 ## Wednesday 29th January 2025
