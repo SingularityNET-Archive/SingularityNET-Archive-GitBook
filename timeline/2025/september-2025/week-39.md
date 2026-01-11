@@ -80,6 +80,43 @@ Stephen Whitenstall emphasized the need to interpret data semantically, particul
 #### Keywords/tags:
 - **topics covered:** Graph data, JSON data into graph data
 - **emotions:** Interactive, detailed, educative
+## Friday 26th September 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** esewilliams [**facilitator**], martinsoki [**documenter**], advanceameyaw, Mikasa, kenichi, CJFrankie, Eric Davies, Kateri, Gorga Siagian, LordKizzy, photogee
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ese opened the Marketing Guild call by welcoming members and outlined the agenda. CJ Frankie expressed concern over unresolved governance document action items, citing communication difficulties with Ayo that have hindered follow-up. Ese acknowledged the issue, noting that Martinsoki added it to the agenda due to continued concerns about its status.
+- Podcast Progress, Budget, and Timeline Updates:
+The team discussed ongoing progress on the podcast initiative. Photogee reported that one episode featuring Jasmine was successfully recorded and edited. Mikasa added that a second episode with Jasmine Smith has also been recorded and is expected to be ready before the next meeting, depending on editing and guest availability.
+
+Kateri noted that further planning is on hold until budget allocations are confirmed. Ese inquired about the podcast promotion budget and emphasized the importance of setting a clear timeline to keep the team accountable. Mikasa was unavailable due to network issues, and CJ Frankie and Mikasa were also absent during the initial budget discussion. Gorga requested a GitHub activity be created for September to submit an extra assignment.
+- Scavenger Hunt Updates and Budget:
+The team confirmed that all scavenger hunt winners, except one (pending account issues), have received their rewards. Ese reminded members to participate in the upcoming Budget Consent Round.
+
+#### Action Items:
+- [**action**]  Ese to create an extra activity on GitHub for September for Gorga to submit reports. [**assignee**] esewilliams [**due**] 10 October 2025 [**status**] todo
+- [**action**] Podcast initiative to send Ese a definite or a tentative timeline for the ongoing episode 2. [**assignee**] podcast team [**due**] 10 October 2025 [**status**] todo
+- [**action**] All Marketing Team members to consent to the Budget Consent Round when it opens [**assignee**] Core members [**due**] 10 October 2025 [**status**] todo
+- [**action**] Podcast team to complete editing of the episode with Jasmine Smith  before the next Marketing Guild meeting. [**assignee**] podcast team [**due**] 10 October 2025 [**status**] todo
+- [**action**] Scavenger Hunt team to plan the next quarter's initiative once the budget allocation is confirmed. [**assignee**] scavenger hunt team [**due**] 10 October 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Podcast Intiative, Scavenger hunt, Budget Review
+- **emotions:**  Collaborative, Peacefull,  Understanding.
+
+
 ## Saturday 27th September 2025
 
 ### Gamers Guild
