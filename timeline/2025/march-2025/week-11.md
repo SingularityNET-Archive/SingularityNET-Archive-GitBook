@@ -6,6 +6,7 @@ description: Mon 10th Mar - Sun 16th Mar 2025
 
 ## Wednesday 12th March 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -41,6 +42,51 @@ description: Mon 10th Mar - Sun 16th Mar 2025
 #### Keywords/tags:
 - **topics covered:** Project Updates, Overlap Discussion,  Budget Allocation, Voting, presentation series, Governance series, Consent process, Certification program
 - **emotions:**  Collaborative
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], LordKizzy, advanceameyaw, osmium, PeterE, AshleyDawn, guillermolucero, CollyPride, alfred itodole, TheFreysDeFi, jeffrey ndarake
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form ](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+
+- Review of last meeting summary Action Items
+
+
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+
+
+- MetaCoders Lab Discussion
+
+- AOB Open discussions
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members
+
+- Discussion on MetaCoderLab Collaboration: Guillermo requested for feedback on the discussion in the wg syncing call, which peter addressed that he presented this during the session, but there weren't much feedback. Vasu Madaan underscored the role of ICOG Labs in guiding MeTTa Coder Labs, emphasizing the need for a strong teaching team to ensure project success. The group discussed preparing a proposal for the BGI event to showcase community contributions and potential collaboration with ICOG interns. Peter shared updates on the Hack India initiative, including a video trailer and new resources on the Beyond the Code YouTube channel. The discussion also touched on funding challenges faced by the MeTTa CoderLab, reinforcing the importance of accessible resources for understanding MeTTa Language
+- New proposal applications: Guillermo went over the proposal submissions. There were two submissions (AI agent and a meeting scheduling system), he gave a summary of the AI agent proposal, and suggested to extend the submission deadline to encourage more proposals, which we all agreed to, and we discussed strategies for promoting this opportunity.
+- R&D Guild Spotlight: Guillermo suggested that the marketing team take charge of the spotlight initiative. Kizzy supported this by proposing a series to highlight previous projects/contributors
+
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo noted that the research has been concluded and he is going to push the work to some developers for fast deployment.
+
+#### Decision Items:
+- We decided to extend the submission deadline till the 19th of March
+  - [**rationale**] this was done to encourage more proposals 
+
+#### Action Items:
+- [**action**] Lordkizzy to follow up on communication with the soft launch of the deployment of Legacy [**assignee**] LordKizzy [**due**] 12 March 2025 [**status**] todo
+- [**action**] Lordkizzy to schedule a call with the representatives of the Education guild, Gamers guild, AI Sandbox Thinktank and Onboarding WG [**assignee**] LordKizzy [**due**] 12 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Nunet, CSDB, MeTTa Coder Lab,  Team Collaboration , legacy project
+- **emotions:**  Collaborative,  informative,  Understanding.  
 
 
 ## Thursday 13th March 2025
