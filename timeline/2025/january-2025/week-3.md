@@ -296,6 +296,43 @@ Duke also outlined marketing and education initiatives for this quarter which wi
 #### Keywords/tags:
 - **topics covered:** AMA session,  Q1 budget, marketing initiatives, Collaboration, Partnership
 - **emotions:** informative, Welcoming, productive
+## Friday 17th January 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Gorga Siagian, TheFreysDeFi, Ayo, CJFrankie, LordKizzy, AshleyDawn, kareem, Eric Davies, kenichi, advanceameyaw, photogee, Kateri, PeterE, Mikasa, vasu
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Introductory message for the media room](https://docs.google.com/document/d/1Wir5N-gdtzXGVh-m6zy4zLtCIf0BY8nkA7YrdoFF9iQ/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Last Meeting Summary](https://docs.google.com/document/d/11uRbqgslArxECwS0Ra43kLy9araLNu0imRQtLATT0gA/edit?usp=sharing)
+  - [2024 Recap: Marketing Guild](https://docs.google.com/document/d/1KonV6dtxw9_NduwrUoEOHp1Ww5u2QQQuoQin9jAvDGo/edit)
+
+#### Discussion Points:
+- Last Meeting Recap: Reviewed retrospective on Q3 and Q4 performance and discussed the outlook for Q1.
+- Role Swaps and Positions: Kizzy created a sheet for core members to indicate role swaps and check for available positions.
+- Activity Summary: C.J. Frankie compiled a document summarizing Q3 and Q4 activities and also shared the link during the meeting.
+- Attendance Review: Ayo highlighted poor attendance and performance metrics, leading to discussions about role swaps based on task performance and attendance.
+- Mascot Initiative: Kareem emphasized that the mascot initiative was aimed at educating and enlightening people, mentioning that there is a comic series and its ongoing nature.
+- Marketing Opportunity: Kevin shared a picture taken at the International Weightlifting Federation World Championships, wearing an SNET-branded shirt, and suggested sharing it on platforms to promote the brand.
+
+#### Decision Items:
+- We agreed that All individuals handling tasks or initiatives are required to contribute reports towards the town hall meeting for presentation at month end.
+
+#### Action Items:
+- [**action**] Kareem will prepare to present the governance document during the next call. [**assignee**] kareem [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Roles, Town Hall update, Marketing initiative
+- **emotions:** Friendly, Well-attended, cool, forward-looking
+
+
 ## Saturday 18th January 2025
 
 ### Gamers Guild
