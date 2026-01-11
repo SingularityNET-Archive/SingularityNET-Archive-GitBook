@@ -4,6 +4,116 @@ description: Mon 20th Jan - Sun 26th Jan 2025
 
 # Week 04
 
+## Tuesday 21st January 2025
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Gorga Siagian, Tevo [**documenter**], Tevo, Gorga Siagian, Malik, AshleyDawn, Effiom, LadyTempestt, Onize, Sebastian Pabon, SubZero, Sucre n Spice
+- **Purpose:** We are creating a PBL course on Andamio about GitHub features and use cases to manage
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764613441813209&cot=10)
+- **Other media:** [Link]( https://www.youtube.com/watch?v=QR8Ef8KFLdk)
+- **Working Docs:**
+  - [GitHub PBL Structure](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+  - [Register to GitHub Stuff (Googleform)](https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform)
+  - [PBL WG Proposal Q1 2025](https://docs.google.com/document/d/1YPg0iHYmhrF2KOKEhzehzw4Trd-wQ_s4faubS3FpF_c/edit?tab=t.0#heading=h.l832kyptxzsj)
+  - [PBL WG Proposal Estimated Cost Calculator](https://docs.google.com/spreadsheets/d/1dPVsCGCuvp1nBxRM5zJteWZt7_J4ezbx6iB7Sc8VcHM/edit?usp=sharing)
+  - [Github PBL Quarterly Report - Q4 2024](https://docs.google.com/document/d/1mGFj0ncsCFoS4eoOGBtCilFUjuMAcJXbh-7eJ4ItWSg/edit?usp=sharing)
+  - [Process of Managing Meeting Summaries (GitHub PBL WG)](https://www.youtube.com/watch?v=QR8Ef8KFLdk)
+
+#### Agenda item 1 - Workgroup management  - [carry over]
+
+#### Discussion Points:
+- Dework Board For Task Management
+
+- Guiding Material For Meeting Summaries
+10min [Video](https://www.youtube.com/watch?v=QR8Ef8KFLdk) on How we manage meeting summaries in general?
+
+- Draft Quarter 1 Report
+
+#### Decision Items:
+- missing a lot of time recognition from Dework Lessons so no Lessons have been rewarded yet
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Gorga creates meeting summaries and Tevo reviews them after using voting.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Draft Quarter 1 Report Can use previous reports and proposals as reference material
+
+
+#### Action Items:
+- [**action**] Gorga to create meeting summary
+ [**assignee**] Gorga Siagian [**due**] 27 January 2025 [**status**] done
+- [**action**] Tevo to review meeting summary
+ [**assignee**] Tevo [**due**] 27 January 2025 [**status**] done
+- [**action**] Malik to  create Draft Quarter 1 Report
+ [**assignee**] Malik [**due**] 21 January 2025 [**status**] todo
+- [**action**] Gorga to review Draft Quarter 1 Report
+ [**assignee**] Gorga Siagian [**due**] 21 January 2025 [**status**] todo
+
+#### Agenda item 2 - Finalise and Upload Lessons to Andamio - [carry over]
+
+#### Discussion Points:
+- We reviewed Introduction and Course Requirement module
+
+- What issues we ran into as Andamio Course creators?
+
+- What changes we should do for lessons?
+
+- Improvements suggested on Feedback Form
+- Filling form took about 7 to 25mins even for a simple one, might need to consider it for reward formula
+
+
+#### Decision Items:
+- Currently Students should expect to take lesson in Desktop Computer. Andamio is not yet mobile friendly
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- filling form took about 7 to 25mins even for a simple one, I might need to consider it for reward formula
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Everyone to use the Opening Question as for the title of each lesson (currently its Learning target or document title). Opening Questions can be found on [Miro Board at Structure View](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Andamio to update site to allow shareing assignments. Currently Course creators can not create “courseNftPolicyId”
+ [**assignee**] Andamio Team [**due**] 21 January 2025 [**status**] in progress
+- [**action**] We found Andamio Issues while testing our GitHub PBL Course: more details with pictures can be found on [GitHub PBL miro board](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764613715484385&cot=14)
+
+1. Error Msg “MODULE_NAME is not live!” is displayed, but we see it publickly visible page.
+2. Navigation doesn't always work left side (Doesnt work for Module 101, URL changed by clicking navigation, but content did not, and sometimes work for other navigations and sometimes not. )
+3. Trying to add course member gives error
+4. The intial pop up texts don't resize with browser screen, requires people to resize their computer screen in order to scroll down and click pop up away
+5. Some UI elements are as white squares and miss information
+6. After saving file with new edit, it deleted all the edits and loaded the previous version (We were able to get a previous text back by pressing Ctrl+Z).
+
+ [**assignee**] Andamio Team [**due**] 21 January 2025 [**status**] in progress
+- [**action**] Onize to update the lesson 101.1 with include alue addition from the Proposal + Goals and include the link Recent Proposals and include the Miro Board link.
+ [**assignee**] Onize [**due**] 21 January 2025 [**status**] todo
+- [**action**] Onize to Remove or adjust lesson 101 introduction final 2 messages to be more related to current usecases in Ambassador Program
+ [**assignee**] Onize [**due**] 21 January 2025 [**status**] todo
+
+#### Agenda item 3 - What data we loose if Dework Goes down for good? - [carry over]
+
+#### Discussion Points:
+- Templates and practiced experience to recognise value. Proof of linked assets and operations related to the contribution
+
+- What data we retain? We currently find the title of activity and its assiociated labels more relevant than the detailed data itself in Dework. The dework task is audited at the point of value validation and afterwards the transaction data is becomes important as it indicates value
+
+- How we continue?
+
+
+#### Decision Items:
+- We continue to strive for integrating Github Project Board with Treasury Management System 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Workgroup Management, Quarter 1 Report, Rewards, PBL Course Project, Andamio PBL Courses Issue, PBL Courses on Andamio 
+- **emotions:** Collaborative, insightful
+
+
 ## Wednesday 22nd January 2025
 
 ### Education Workgroup
