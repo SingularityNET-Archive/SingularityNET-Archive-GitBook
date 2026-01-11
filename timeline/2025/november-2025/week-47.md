@@ -85,3 +85,32 @@ The team discussed extending their current project to include deepfunding initia
 #### Keywords/tags:
 - **topics covered:** SEO optimization, SEO, Deep Funding, Developer outreach, social media dashboard, social media, Data analysis
 - **emotions:** Educational,  Collaborative, Interactive
+## Friday 21st November 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Monthly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, CJFrankie, Kateri, esewilliams, Alfred Itodele, LordKizzy
+- **Purpose:** Marketing Guild regular meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.
+- Advance reported that activity on X was paused due to a lack of new updates, and Medium content is nearly exhausted with no recent posts. He noted some growth in engagement but couldn’t confirm details due to unclear metrics. It encourages scavenger hunt participants to read the content for learning purposes, and mentioned ongoing community engagement through challenge videos on YouTube. Advance noted that they will prepare and share feedback so participants can understand and evaluate their impact on the overall scavenger hunt.
+- Kateri gave Update participation on scavenger hunt:  she stated the reason why they had low turnout, which resulted in members hosting the event personally. Lordkizzy added that the main issue was the lack of posting and announcements for the scavenger hunt on X, due to problems with the social media accounts manager. He mentioned that he can retrieve the YouTube analytics and send them to Advance, and also confirmed that he has access to the Medium account. Advance asked about the winner announcement template and noted that the hunt ends today. Lordkizzy inquired about accessing the leaderboard without paying for the bot and whether to continue the scavenger hunt or try a new initiative. Advance suggested redefining the scavenger hunt, while Lordkizzy mentioned other challenges like token price. Gorga proposed replacing the social media manager with Kateri, but Lordkizzy said login access is the main problem. Lordkizzy requested that the scavenger hunt team send the budget breakdown, along with the distribution sheet and the rewards structure for both the participants and the team members so that he can process their payment next week.
+- Restructuring of marketing WG and update on podcasts: Lordkizzy noted that there will be major restructuring of the marketing guild members next quarter. He also stated that he will be working on the quarterly report. Additionally, he mentioned that the podcast video has not yet been edited; both he and Ese attempted to contact the team responsible, but they have not received any response.
+- Lordkizzy requested that the scavenger hunt team send the budget breakdown, along with the distribution sheet and the rewards structure for both the participants and the team members.
+
+#### Action Items:
+- [**action**] Lordkizzy to give Advance the analytics for the YouTube account  [**assignee**] LordKizzy [**due**] 5 December 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Scavenger hunt, Q4 2025 quarterly report, podcasts, restructure of Marketing Guild, activity on X paused
+- **emotions:** Peacefull,  Understanding.,  forward-looking
