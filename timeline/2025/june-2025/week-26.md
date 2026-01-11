@@ -180,3 +180,75 @@ AdvanceAmeyaw presented foundational pro-human position: AI is just a tool, auth
 #### Keywords/tags:
 - **topics covered:** Discussion/Debate Session, AI is just a tool, Pro-Human Attribution, Theoretical Foundation, Pro-Machine Attribution, authorship, AI independence, AI authorship, attribution, extended mind, andy clarke, david chalmers
 - **emotions:** Interactive, Insightful, Informative, Productive, Welcoming
+## Saturday 28th June 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Slate [**facilitator**], devon [**documenter**], rebel, LordKizzy, Gorga Siagian, onfroy, AshleyDawn, jhon zakariya, sir xalfred, Slate
+- **Purpose:** Progress review, prototype demo, department presentations, and member onboarding.
+- **Working Docs:**
+
+#### Discussion Points:
+-  R&D Guild – Prototype UI Panel Demo:
+
+Slate showcased a Prototype Panel System that visually presents R&D Guild’s GitHub projects (like CSDB, Consent Dashboard, SBTs, etc.) through interactive UI panels.
+Allows players to Try features via temporary visual popups (bar graphs, narration, holograms).
+Uses a narrator NPC to explain each tool/project.
+Features a GitHub repo button (non-functional in Roblox Studio, works only in published games).
+Designed to be embedded in the R&D Guild environment or as a separate education showcase.
+ Feedback:
+Kizzy clarified correct repositories and pending SBT add-on status.
+Narrator system allows for voice interaction; members can submit voice clips.
+Suggested to use the same system in Education Guild and possibly with onboarding characters.
+-  Platform Research Tasks (Sandbox & Decentraland):
+
+The Decentraland and Sandbox research tasks were delayed but near completion.
+Gorga completed documentation for Sandbox but requested to share via video (approved).
+Malik is expected to demo Decentraland soon.
+Once reviewed, Gamers Guild will consider assigning members to explore these platforms for future development.
+-  New Member Onboarding:
+
+Onfroy and Zalfred joined and expressed interest in contributing.
+Will be onboarded with assigned mentors (Kizzy, Gorga, and others).
+-  R&D Guild Map Presentation:
+
+Rebel presented the current status of the R&D Guild department:
+Key areas: Waiting Area, Language Inclusivity Room (Lingual Demo), Task Management Room, Website Preview.
+Dialogue NPC and animations in place; some issues noted (unanchored objects, meeting times).
+
+ Kizzy and Slate suggested:
+Correct meeting time to 18:30 UTC.
+Fix attributions (e.g., Kenichi task incorrectly shown).
+Mentors should ensure final polishing (anchoring, naming, UI) before presentations.
+  
+-  Writer’s Workgroup Presentation (Kizzy & Devon):
+
+Highlighted a well-developed and immersive department with the following:
+Scribe Entry System: Users must pass a test before entering the main department.
+Social Media Rooms: Pidgin, Spanish, with more planned (Medium, X, etc.).
+Meeting Room, Study Room, Canteen, Point System Room, and Marking Scheme Room.
+Animated NPCs of WG members(lady Tempest, Devon, Ines, Slate, etc.).
+
+ Design Revisions Proposed:
+Merge Point System & Marking Scheme into one room with live UI.
+Repurpose one room into a Social Media HQ for SNET X accounts.
+Move Entrance Quiz Room to a new rear entrance extension and create a Royal Gate at the front.
+Add pillars and architectural enhancements to improve realism and flow.
+
+#### Decision Items:
+- Shift to Google Meet / Zoom for future sessions
+  - [**rationale**] To simplify documentation and ensure recording of session.
+
+#### Action Items:
+- [**action**] Department Creation - Writers WorkGroup [**assignee**] devon, LordKizzy [**status**] done
+- [**action**] Map Creation  [**assignee**] Gorga Siagian, Kateri [**due**] 26 July 2025 [**status**] in progress
+
+#### Game Rules:
+No games played
+
+
+
+#### Keywords/tags:
+- **topics covered:** Roblox Development, UI Prototypes, Department Creation, Mentor Assignment, Platform Research
+- **emotions:**  Collaborative,  forward-looking, Building
