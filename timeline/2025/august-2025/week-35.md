@@ -111,6 +111,47 @@ Vani raised concerns about the ethical issue of explainability in AI, arguing th
 #### Keywords/tags:
 - **topics covered:** Thinktank, Redefining Intelligence in AI, AI sandbox
 - **emotions:**  informative,  insightful,  forward-looking, Productive,  Collaborative
+## Friday 29th August 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, esewilliams, Jeffrey Ndarake, UKnowZork, Martin Bielecki, advanceameyaw, Alfred Itodele, Ayomi Shuga
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Lordkizzy opened the Marketing Guild call by welcoming attendees and sharing the agenda for discussion. The group reviewed action items from the previous meeting.
+- Martin Bielecki raised concerns about the marketplace’s historical associations and the interaction of personal AI models. Lord Kizzy clarified that the guild's focus is on brand awareness within the ecosystem, not marketplace details. Bielecki agreed on the relevance of AI interactions but was told it was beyond the discussion's current scope.
+- Update on Scavenger Hunts:
+Advanceameyaw reported on last week's engagement challenge designed to boost activity on Medium and YouTube channel. Participation was lower than anticipated, with only nine participants. Feedback will be gathered to refine future challenges, as the initial results fell short of expectations. Gorga provided an update on the graphics for the scavenger hunt, indicating that he would create a leaderboard graphic. Ese Williams raised concerns about the initiative's complexity, advocating for a more streamlined approach to improve effectiveness. She recommended exploring alternative methods if current tools prove ineffective.
+- Declining Podcast Attendance and the Need for Accountability:
+Lordkizzy raised concerns about declining podcast attendance. He noted that in Q1 and Q2, strict attendance rules helped maintain good participation, but attendance has since dropped, and it's now hard to get people to present — which is critical to their work. While he doesn't want to make any final decisions yet, he emphasized the need to monitor the situation. Since everyone is aware of the issue now, any future actions should not be seen as targeting anyone.
+- Lord Kizzy presented two reward systems for extra activities, responding to concerns about unpaid rewards last month. He stressed the need to choose a system to ensure timely payments and suggested testing both options. The team also discussed a 20% cut to the Q4 marketing budget, emphasizing the need for strategic adjustments. The meeting ended with agreement on categorizing extra activities under tier one and discussed the token values, leading to a consensus on the distribution plan.
+
+#### Decision Items:
+- it was decided in the meeting to use tier 1 payment structure to pay extra activities 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 12 September 2025 [**status**] todo
+- [**action**] Cj Frankie to have a call with Ayo to resolve the enduring action item in the summary note. [**assignee**] CJFrankie, Ayo [**due**] 12 September 2025 [**status**] todo
+- [**action**] Kenichi to send documentation regarding the podcast initiative's team breakdown and allocation distribution. [**assignee**] kenichi [**due**] 12 September 2025 [**status**] todo
+- [**action**] Gorga Siagian to create a leaderboard graphic for the scavenger hunt  [**assignee**] Gorga Siagian [**due**] 12 September 2025 [**status**] todo
+- [**action**] Lordkizzy to present the extra activity distribution for payment by Thursday. [**assignee**] LordKizzy [**due**] 12 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Podcast Intiative, Scavenger Hunt Team Update, Extra Activities Allocation
+- **emotions:**  informative, Casual, Peacefull
+
+
 ## Saturday 30th August 2025
 
 ### Gamers Guild
