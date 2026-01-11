@@ -6,6 +6,7 @@ description: Mon 4th Aug - Sun 10th Aug 2025
 
 ## Monday 4th August 2025
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -53,6 +54,90 @@ If the token price stays below $0.30 for the whole Quarter, then at the end of t
 #### Keywords/tags:
 - **topics covered:** AI Ethics MOOC Study group, Interview Transcription, Interviews, Budget Management , Events, BGI-25 conference, low token price
 - **emotions:** Brief, Deliberative
+
+
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Alfred Itodele [**documenter**], Alfred Itodele, Tevo, UKnowZork, advanceameyaw, Henshaw
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01K1T7Y7P60CH6Q77MRTV816CN)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764632733896640&cot=10)
+- **Working Docs:**
+  - [Gitbook](https://ambassadorss-organization.gitbook.io/knowledge-base)
+
+#### Agenda item 1 - Knowledge Base Onboarding and Feedback - [resolved]
+
+#### Discussion Points:
+- New Member Onboarding: Welcomed Henshew, a new contributor from Nigeria interested in AI and blockchain in Africa. After he enquired about SingularityNET's strategy for African infrastructure challenges, Tevo provided some initial insights and then detailed the purpose and function of the Knowledge Base workgroup. 
+ A notable insight was shared by Tevo: our GitBook documentation is structured more effectively for machine comprehension (LLMs) and also for individuals who have a design thinking background than for intuitive human use.
+There was new feedback in the onboarding feedback form; a discussion was held on whether it should be rewarded or not. 
+
+#### Decision Items:
+- The new feedback would be rewarded; A fixed rate of 10 Agix token
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Reward  the new feedback [**status**] todo
+
+#### Agenda item 2 - Workgroup Management - [resolved]
+
+#### Discussion Points:
+- Might need to update Google Calendar to have the last session 1 week earlier, on 1st September, to potentially meet up with the budget consent deadlines.
+We noticed there was an error in the meeting summary archive date
+
+#### Decision Items:
+- Henshew to draft meeting summary; Alfred to review
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Henshew  to draft and  archive the meeting summary
+Alfred to review and publish the meeting summary. [**status**] todo
+
+#### Agenda item 3 - Proposal Drafting for Next quarter - [resolved]
+
+#### Discussion Points:
+- Should we draft proposal for Q4 or keep using our reserves
+Creation of another survey to get feedback about the impact and the use of the Knowledge Base GitBook. 
+How far our reserve could take us
+
+#### Decision Items:
+- create Q4 proposal so we get to keep reserves.
+creating new survey around Q1 (Q4 feels too early)
+We potentially have leftovers until Q4
+Allocated 1 hr to proposal drafting. 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo to draft Q4 proposal [**status**] todo
+
+#### Agenda item 4 - Assets Collection and Organising - [resolved]
+
+#### Discussion Points:
+- Should we move Miro Board Asset Collection directly to Google Sheets instead of using Miro Board?
+Deciding on which Assets go into GitBook and Distribute who Organises them
+What is or not relevant for GitBook?
+
+#### Decision Items:
+- Let's move collecting assets to Google Docs first. Let's keep updating Miro Board. Let's give mental model and where we might miss information. 2 hrs allocated for the task
+  - [**effect**] affectsOnlyThisWorkgroup
+- Alfred, Henshew, Advance and Uknowzork would be organising assets. 
+We are including following assets to Knowledge Base GitBook;
+SingularityNET-Archive - SingularityNET
+SingularityNET Archive oracle - Code GIT
+ Governance WG Sentiment Survey – Version 2 (July 2025)-Google Form
+Meeting summary template: Video WG - Google doc
+meeting summary template: Full Archival - Google doc
+meeting summary template: Narrative - Google doc
+meeting summary template: Onboarding WG - Google doc
+meeting summary template 3 - narrative - Gamers Guild - Google doc
+
+#### Action Items:
+- [**action**] Assets to be organised by Alfred, Henshew, Advance and Uknowzork [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Reserve, Proposal, Report, Quarter, Budget, new member, onboarding, Q3, Q4
 
 
 ## Wednesday 6th August 2025
