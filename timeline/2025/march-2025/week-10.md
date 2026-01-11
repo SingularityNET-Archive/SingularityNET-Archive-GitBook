@@ -346,3 +346,59 @@ Any Doubts or Queries about the NuNet setup. Folks can ask through the Think Pie
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation, Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, low token price, Documentation Roster
 - **emotions:** Welcoming, Interactive, Informative, Educative
+## Friday 7th March 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], LordKizzy, photogee, kareem, kenichi, CJFrankie, SubZero, Gorga Siagian, Eric Davies, esewilliams, Evelyn, Kateri, advanceameyaw, TheFreysDeFi, Malik, PeterE, uknowzork
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Design Work Group(under marketing)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740672236759656%26amp;usg%3DAOvVaw0ZOENfBt_1d9aJBh6k0bh3&sa=D&source=docs&ust=1740672236764018&usg=AOvVaw0ZJ0G-_bvispWqK7jdvKXh)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [R&D New Proposal Submission [Template] ](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+
+#### Discussion Points:
+- The discussion began with a warm greeting from Ayo. He addressed the summary from the last meeting and noted some missing action items. 
+- Projects management: We went through the project management board and addressed all pending tasks one after the other. 
+LordKizzy raised an opportunity for community members to bring their initiative to R&D Workgroup channel and submit their proposal so it can go into review and might get funded. 
+- A.O.B: 
+Design Workgroup under marketing guild: Kareem noted that the way Graphics designers function is not the best for content deliverables. He noted that this initiative helps define their role, help us with templates creation, and helps to structure all graphics.
+Ayo asked why can't the proposal not be done by the core members in the guild? Kareem responded that the idea is to make sure that structure is implemented.
+Ayo brought up a suggestion that all the graphics team members in the guild should have a call and discuss this proposal.
+He asked what is the difference between this budget attached to this structure and the present guild budget for graphics team members.
+Ayo suggested that we need to properly consider the initiative presented, consider it alongside the governance document, consider the output, consider the increment in the budget that goes to the graphics team and so on. He went on and urge members to go through the documents both governance document and the initiative document so we can discuss about the implementation next meeting.
+LordKizzy suggested that in terms so budgeting if the initiative can correlate with the current allocation that we have for graphics design it will be very feasible because we are currently having a huge budget constraints.
+Kareem noted that the budget proposed is to guide the workflow and if the guild isn't able to fund all it means something will not be done.
+
+
+
+Podcast Initiatives and Marketing Guild Concerns: Photogee made a comment about the initiative team of the podcast initiative,he noted that they are some criterias for the podcast team to meet in order to keep the ground running. He noted that education guild has a webinar series coming up and it is similar to what we are trying to achieve, stating that it might limit us to many things.
+
+He went further and raised a concern about the voting process of the marketing guild. He noted that he feels there is a loophole and it is the fact that we vote during the meetings, he proposed that if we want to make a smart decision we should make the decision in our locked channel not on the call because it gives changes for anybody not in the guild to vote.
+Ayo made a comment that he agrees that decisions are to be made by only Marketing guild members i.e people that are dedicated and committed to the guild. He noted that our guild is a very interesting guild and that is why at the beginning we decided that the guild call is a must to attend and if you can't attend make sure you have a good reason and make sure you announce it because decision are to be made during the call and people that are not dedicated to the meeting are not valid to made a decision on the guild they don't value. However, he noted that we should also see what the governance document says about the decision making.
+But he noted that the majority who are committed are the majority that should get to decide.
+LordKizzy noted that on a normal basis if a document is posted on the channel people don't give feedback on the channel and they come back during the meeting to starting asking questions. He noted that if decision are making during the meeting 
+
+Social media engagement: Photogee noted that we have a very poor engagement on our social media platforms and noted that this concern has been raised before, and if we engage on our social media post ourselves others will follow up. 
+Monthly analysis of marketing guild budget: Photogee noted that LordKizzy owes it to the guild to create a monthly report of very money that is spent so that we would know keep track of our expenses and reserve.
+
+
+
+#### Action Items:
+- [**action**] Martin to ensure that the governance document link is included in the action items and summary notes for the next meeting. [**assignee**] martinsoki [**status**] done
+- [**action**] Members to review the governance document  [**assignee**] members  [**status**] todo
+- [**action**] Ese to present the governance document at the next meeting. [**assignee**] esewilliams [**status**] todo
+- [**action**] Ese to document all Q1 useful links into our Issues [**assignee**] esewilliams [**status**] todo
+- [**action**] Members to go through governance document and the design initiative document so it will be addressed next week  [**assignee**] members  [**status**] todo
+- [**action**] Kareem to have a discussion with Gorga regarding the proposed structure for the graphics team. [**assignee**] kareem [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget, graphics design initiative, governance document, Project Management, Podcaster.ai
+- **emotions:** Friendly,  informative, Discursive
