@@ -268,6 +268,7 @@ However, we noted that some cancelled meetings are still on the Calendar - we wi
 ## Thursday 5th June 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -343,6 +344,57 @@ UknowZork shared that the guild’s purpose wasn’t clear at first, needing to 
 #### Keywords/tags:
 - **topics covered:** Q2 report and budget request, tool adoption, project management, feedback, retrospective, Q2 2025 quarterly report, Q3 2025 budget, workgroup purpose, ASI wallet, impact, Collaboration
 - **emotions:** informative, Insightful, welcoming, Interactive.
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Clement Umoh [**facilitator**], CJFrankie [**documenter**], Clement Umoh, CJFrankie, Vani, Sucre n Spice, LordKizzy, PeterE, Gorga Siagian, UKnowZork, Kateri, Andrew, LadyTempestt, martinsoki, V, Jeffrey Ndarake
+- **Purpose:** Review reports, plan budget, coordinate onboarding and upcoming sessions.
+
+- **Working Docs:**
+  - [Onboarding WG quarterly report](https://docs.google.com/document/d/1yptAsXC1ewxYfRpDWorfYSDEifELqFqcBtqoTMumVBE/edit?usp=sharing)
+  - [FINAL Onboarding WG budget projections](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk)
+
+#### In this meeting we discussed:
+- Q2 2025 Report by LordKizzy
+- Q3 2025 budget from the focus group 
+- Fix a date for the next onboarders team meeting in June
+- Sucre to lead a sskillshare ession on “Understanding the SNET ecosystem" on 26th June.
+- Everyone who is not yet a member of the Ambassador program should DM Sucre with their username
+
+
+#### Decision Items:
+- Following a discussion about the Q3 2025 budget, we will not include delivering town hall updates in the budget. However, anyone who wants to do it voluntarily can do it; otherwise, the focus group will take charge.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Due to low token price, we have decided to not have a SkillShare session in Q3, and not to undertake a new research project. 
+
+Hovever, if the token price goes up, we might reinstate the research project or increase the allocation for the onboarders.
+  - [**effect**] affectsOnlyThisWorkgroup
+- In Q3 2025, eeting facilitation will be done by a member of the focus group to help the WG save money. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- The WG will remain closed to new members
+
+  - [**rationale**] Sucre has reached out to all WG members, especially those who have not been attending,  to ask about their involvement in the workgroup.
+
+Most people have responded that they still intend to stay involved. In light of this, we agreed that WG membership will remain closed unless a member decides to leave the workgroup.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Sucre to set a date for an onboarders team meeting before the end of June
+ [**assignee**] Sucre n Spice [**due**] 30 June 2025 [**status**] todo
+- [**action**] LordKizzy to open access to the Q2 2025 report for members to add their comments.
+ [**assignee**] LordKizzy [**due**] 5 June 2025 [**status**] done
+- [**action**] LordKizzy will edit and timestamp the videf the forthcoming skillshare sesion  on “Understanding the SNET ecosystem" [**assignee**] LordKizzy [**due**] 3 July 2025 [**status**] done
+- [**action**] Gorga to publicize the Skillshare session on “Understanding the SNET ecosystem" on 26th June
+ [**assignee**] Gorga Siagian [**due**] 26 June 2025 [**status**] done
+- [**action**] Sucre to lead the session on understanding the SNET ecosystem on 26th June [**assignee**] Sucre n Spice [**due**] 26 July 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Focus Group, onboarders team, workgroup membership, Facilitation, Documentation, Skillshare session, Ecosystem, Q2 2025 quarterly report, Q3 2025 budget, spinoffs
+- **emotions:** calm, focused,  Collaborative
+
+
 ## Friday 6th June 2025
 
 ### Marketing Guild
