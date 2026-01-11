@@ -97,6 +97,7 @@ The need for a dedicated website to host ASI Academy content sparked a thoughtfu
 ## Thursday 4th September 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -182,3 +183,38 @@ Kateri expressed apprehension about granting AI authority in decision-making, su
 #### Keywords/tags:
 - **topics covered:** AI impact, EthosGuard, responsibility, AI decision-making, AI autonomy, accountability, AI in governance, AI ethics
 - **emotions:** Educative, Interactive, detailed, collaborative, educative
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], martinsoki [**documenter**], LordKizzy, Gorga Siagian, CJFrankie, Alfred Itodele, UKnowZork, Kateri, Ayomi Shuga, Chibuike Onyejiaka, Duke, Jeffrey Ndarake, LadyTempestt, CallyFromAuron
+- **Purpose:** Monthly Onboarding WG Meeting
+- **Working Docs:**
+  - [Onboarding github ](https://github.com/SingularityNet-Ambassador-Program/Onboarding-Workgroup)
+  - [Q3 quarterly report](https://docs.google.com/document/d/18Xx7_5-G4OnAcQZUq2XntT0cyVQa8HZvlhA5vYB9ky8/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Q3 2025 Quarterly Report: 
+
+CJ Frankie has nearly completed the report. 
+Chsanges to reporting requirements for this Quarter: the report now needs to include 
+- a clear statement of WG purpose (we already have this in previous reports)
+- a section on outcomes/impact (we will add info on collaboration with Education guild on the AMA session with Rejuve means more people understand SingularityNet as a whole; mentoring new people more extensively; and and encouraging new people to feel confident to ask questions to support their onboarding.
+- a reflection section on what could have gone better.
+
+We have retained our usual section for WG members to give their own reflections on how they felt about this quarter - members were reminded to add anything they would like to say.
+
+Deadline: 15th Sept.
+- Onboarders update: 
+
+The team, consisting of five onboarders plus Sucre, continue to welcome newcomers, answer questions, help direct people to suitable workgroups. They reviewed their tracker to check on progress: some participants were fully onboarded and active, others less so, and some have dropped off. The team plans to follow up with those who never fully onboarded but are still around, but hey noted that it is difficult to get "exit interview" information from those who have left completely, so we don't usually find out why they go.
+ 
+- New member Ayomi suggested introducing a feedback form at the end of each Onboarding WG meeting to gather input from participants and improve future sessions. The team agreed it was a great idea, so Ayomiu will draft a form and share it async.
+
+#### Action Items:
+- [**action**] CjFrankie to make suggested updates on the Q3 quarterly report [**assignee**] CJFrankie [**due**] 10 September 2025 [**status**] in progress
+- [**action**] Ayomi to create the form for feedback from every meeting [**assignee**] Ayomi Shuga [**due**] 11 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q3 2025 quarterly reportt, onboarders team, exit interviews, Feedback Form
+- **emotions:**  Collaborative,  informative
