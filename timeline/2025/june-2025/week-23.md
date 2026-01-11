@@ -193,6 +193,7 @@ To be continued...
 ## Wednesday 4th June 2025
 
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -263,6 +264,40 @@ However, we noted that some cancelled meetings are still on the Calendar - we wi
 #### Keywords/tags:
 - **topics covered:** Certification program, Governance, Q3 2025 budget, CCCP, Budget caps, Q2 2025 quarterly report, Thinkific
 - **emotions:**  forward-looking,  insightful, Ideating
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], advanceameyaw, guillermolucero, LordKizzy, CollyPride, PeterE, Slate, Jeffrey Ndarake
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+- Q2 RETHROSPECTIVE
+- AOB Open discussions
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.
+- UPDATE STATUS ON DEVELOPMENT: SEO Research: Lordkizzy mentioned that the initial document and the architectural framework is currently been worked upon and will be shared once complete, He also highlighted the objective of the initiative which is improving this visibility of our ambassador contents through analytics and research over a quarter. The ultimate goal is to devise a means to monetize social media accounts to generate additional income for the program.
+- Q2 RETHROSPECTIVE: Guillermo pointed out some issues with project management were a significant focus, particularly regarding the accessibility of R&D projects on GitHub and the lack of follow-through on deliverables. Slate raised concerns about the status of the social media dashboard project, which was anticipated to be functional but had not yet been delivered. Advanceameyaw provided an update on project deliverables, noting completed deployments and testing phases while also addressing challenges such as database integration and the need for a sustainable approach. Guillermo pointed out that a lack team members responses was hindering progress, lordkizzy also highlighted the importance of learning from past failures and adapting to resource constraints.
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo shared a presentation of the UI of the Governance Dashboard and he plans to hopefully get it out before the consent round
+
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Andre to discuss the integration of the Governance dashboard with the Archive summary tool. [**assignee**] guillermolucero [**due**] 2 July 2025 [**status**] in progress
+- [**action**] Advance to check if Kenichi's AWS account can be used for the project deployment. [**assignee**] advanceameyaw [**due**] 2 July 2025 [**status**] todo
+- [**action**] AJ will reach out to the deep funding team to gather feedback on the beta phase of the project. [**assignee**] AJ [**due**] 2 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, SEO, Governance Dashboard, Status update
+- **emotions:** Collaborative,  Understanding.,  Satisfaction 
 
 
 ## Thursday 5th June 2025
