@@ -57,6 +57,7 @@ If the token price stays below $0.30 for the whole Quarter, then at the end of t
 
 ## Wednesday 6th August 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -96,6 +97,34 @@ And he will attend the next Town Hall to say this and say a bit about what we ar
 #### Keywords/tags:
 - **topics covered:** AI ethics, rule-based auditing, Deepfunding Town Hall, token price, Neo4j, Ambassador Program calendar, community engagement, q4 2025 budget, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem
 - **emotions:** interesting, short,  forward-looking
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** esewilliams [**facilitator**], UKnowZork [**documenter**], esewilliams, UKnowZork, Slate, Gorga Siagian, LordKizzy, Kateri, osmium, Alfred Itodele
+- **Purpose:** Weekly meetings update
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Content Creation Task - Project Focus, Assignments and Progress  - Low Attendance Concerns
+
+#### Discussion Points:
+- Ese opened the meeting by reviewing the discussion from the last session. She restated the key points and highlighted the action items. Gorga confirmed that all previously outlined action items had been completed.
+- Ese then asked Slate if he had assigned roles for the content creation task. Slate responded that he had not done so yet. He suggested that content creators might require a separate group, but mentioned that Gorga had recommended they remain within the same group. He also added that the assessors would be responsible for assigning roles to content creators. When asked about ongoing projects, Slate confirmed that the CCCP program is currently the main focus.
+- There was a brief discussion about the low meeting attendance. Ese asked if the shift to biweekly meetings was the cause. Slate noted that attendance may have dropped due to the change in administrative focus—many only attend meetings when they are directly involved in decision-making. Kateri agreed, adding that there’s also been confusion around meeting dates due to the biweekly schedule. She pointed out that this miscommunication is affecting the guild. Given the budget constraints, she suggested that perhaps meeting announcements should be made at least a week in advance. Gorga supported the idea.
+- We talked about the project updates and Ese noted that the education series led by Ese, Gorga, and Kateri was in progress and the presentation series led by Kinechi was almost done while the governance series was led by LordKizzy. LordKizzy reported that he has created a slide for the presentation. The remaining part is for Vani to complete. Although there’s no strict deadline, the project is expected to be completed within the quarter. Slate asked whether Kizzy was developing presentation materials, and Kizzy confirmed that the slides focus on in-depth governance models. The series will consist of 8 sessions followed by a sprint in which participants answer questions based on previous governance sessions.
+- Gorga shared a Web development presentation he presented in the Gamers Guild. He explained that the idea was to repurpose it into a web development glossary for the ambassador program. It would resemble a GitBook but would focus solely on education and onboarding content. Slate also added that he has built a Wiki website for DeepFunding and proposed that the Education Guild could adopt a similar approach. The wiki could house the glossary section and include a voting tool. He mentioned he would check with Guillermo about the possibility of integrating the skills database into the platform. Gorga asked if the CCCP program could also be integrated, and Slate responded that he could manage that, though he would take the lead on the development. Ese and the group supported Slate’s idea, noting that a centralized wiki platform would make the program appear more organized. She asked if it could be created at no cost, considering the guild’s limited budget. Slate replied that the wiki site itself could be created for free, but integrating the glossary might require some budget.
+- The meeting concluded with Ese emphasizing the importance of follow-up and accountability for all individuals handling projects this quarter. She stressed that timely submissions are critical to ensuring that the guild meets its quarterly metrics and goals.
+
+#### Action Items:
+- [**action**] Slate will share a proposal for the Wiki website creation and the Wiki platform is expected to be revamped by next week. [**assignee**] Slate [**due**] 20 August 2025 [**status**] todo
+- [**action**] A system of follow-up and accountability will be put in place to ensure timely completion of projects. [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance series, CCCP, glossary, GitBook, low attendance, wiki website, wiki
+- **emotions:** Ideating,  Collaborative, Insightful, relaxed, Poor Attendance 
+
+
 ## Thursday 7th August 2025
 
 ### AI Sandbox/Think-tank
