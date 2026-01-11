@@ -6,6 +6,7 @@ description: Mon 17th Mar - Sun 23rd Mar 2025
 
 ## Tuesday 18th March 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -109,6 +110,83 @@ Writers
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Q1 2025 quarterly report, AI Sandbox/Think Tank, objections, admin costs, admin costs vs outputs, Town Hall, budget discussion burnout, GitHub project board, cost standardisation, Quorum, Dework, Dework template
 - **emotions:** well-attended, inconclusive, no decisions, in-depth, slow
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** tevo [**facilitator**], Tevo, PeterE [**documenter**], Ashley, Jeffrey, Kareem, peter, salometee, UknowZork
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764620453223893&cot=10)
+- **Other media:** [Link](https://app.andamio.io/course/snet-github-pbl-wg)
+- **Working Docs:**
+  - [Workgroup contributions and Tasks on Dework](https://app.dework.xyz/singularitynet-ambas/github-pbl-wg)
+  - [Q1 Proposal](https://docs.google.com/document/d/1YPg0iHYmhrF2KOKEhzehzw4Trd-wQ_s4faubS3FpF_c/edit?tab=t.0#heading=h.l832kyptxzsj)
+  - [GitHub](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/14)
+
+#### Agenda item 1 - Workgroup Management - [resolved]
+
+#### Discussion Points:
+- What are criteriums for a higher reward rate for educational content creation?
+- All previous lessons were rewarded at $20/hour rate
+- Reviewing is now rewarded trough Feedback Form rewarding
+- The Treasury Manager Roles Configuration can be used to automate complex rewarding
+
+#### Decision Items:
+- We implement five stages of increased rewards
+  - [**effect**] affectsOnlyThisWorkgroup
+- We segment lessons into Quarterly Cohorts and use it to determine the Content Creator's Reward rate
+  - [**effect**] affectsOnlyThisWorkgroup
+- Stage-up can only happen twice per cohort
+  - [**effect**] affectsOnlyThisWorkgroup
+- Drafting a lesson in a new lesson grants a stage-up
+  - [**effect**] affectsOnlyThisWorkgroup
+- Updating existing lessons based on feedback grants another stage-up.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Starting from Q2, rewards will be fixed at 66 AGIX per hour
+  - [**effect**] affectsOnlyThisWorkgroup
+- Each Stage provides a 10% increased rewards
+  - [**effect**] affectsOnlyThisWorkgroup
+- Sage Bonuses Stack up to a maximum 50% increased rewards (10+10+10+10+10)
+  - [**effect**] affectsOnlyThisWorkgroup
+- Lessons no longer have a responsible person and everyone is free to choose which lessons to update
+  - [**effect**] affectsOnlyThisWorkgroup
+- We go Main Chain with Course when the majority of lessons are completed
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo to create a meeting summary. [**status**] done
+- [**action**] Peter will review the meeting summary. [**status**] done
+- [**action**] Tevo to update Treasury Manager Configurations to apply correct Content Creators stages
+ [**status**] done
+
+#### Agenda item 2 - Reviewing Andamio Lessons - [carry over]
+
+#### Discussion Points:
+- Reviewed [Module 105 - Wallet Management](https://app.andamio.io/course/snet-github-pbl-wg/105)
+- Started Reviewing [Module 201 - GitHub Administration](https://app.andamio.io/course/snet-github-pbl-wg/201)
+- We quickly ran into multiple Problems and issues, both technical and content wise so we didn't get past the first lesson
+
+#### Decision Items:
+- We First Start teaching about Adding people and setting up an environment where a Project Board can be used (Module 201) and then we move to the existing prepared Project Board for learning Task Management (Module 202)
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Lesson 201.1 - Step 1 should provide link to user [own Organisation page](https://github.com/settings/organizations) [**status**] todo
+- [**action**] Lesson 201.1 - Provide [this link](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization#inviting-a-user-to-join-your-organization) instead of the org general link and describe in the guide to invite people to org is in here. Right now its unclear if that is required step. It should be step 0 or actual step 1 [**status**] todo
+- [**action**] Add Disclaimer to lesson 105.2 that the Nami Wallet is now a Lace wallet, The structure remains same, but links are leading to Lace Wallet
+ [**status**] todo
+- [**action**] Create a new lesson and move it to be the first lesson about [creating an Organisation](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) in GitHub. Include information that the Creation of an Organisation may not work. Try again the next hour [**status**] todo
+
+#### Agenda item 3 - Potential Bugs on Andamio - [carry over]
+
+#### Discussion Points:
+- Public Assignments are not displayed in the Public version and the button CTA: Learn More, does nothing.
+- every time we try to publish a GitHub PBL WG lesson, it moves us to andamio page https://app.andamio.io/course/andamio101. And Content is not published.
+
+#### Keywords/tags:
+- **topics covered:** Rewards, Stages, Rules, Lessons, Module, Andamio, Miro Board, Quarter
+
+
 ## Wednesday 19th March 2025
 
 ### Education Workgroup
