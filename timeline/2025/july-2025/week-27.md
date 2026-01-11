@@ -7,6 +7,7 @@ description: Mon 30th Jun - Sun 6th Jul 2025
 ## Thursday 3rd July 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -96,6 +97,57 @@ Vasu facilitated a conversation on the frequency of meetings; the group ultimate
 #### Keywords/tags:
 - **topics covered:** OpenCOG Hyperon, Mindplex, AI Authenticity, AGI alignment, Quantum Neural Networks, brain-computer interfaces, MeTTa., Darshana Patel, pattern recognition
 - **emotions:** Friendly, Educative
+
+
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], CJFrankie [**documenter**], CJFrankie, Gorga Siagian, UknowZork, Kateri, LadyTempestt, martinsoki, Jeffrey Ndarake, CallyFromAuron, Sucre n Spice, Rems, hogantuso
+- **Purpose:** Regular monthly meeting of Onboarding WG
+- **Working Docs:**
+  - [Data collection for qualitative research](https://docs.google.com/document/d/1HgsJ66dXYR0pPMY9uX8luyNuzSVsjKbf4Jg6yENrNCI/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- We assigned tasks for Q3 2025, including
+- Writing quarterly report at the end of the Quarter (CJFrankie)
+- Drafting the budget for Q4 2025 (Focus Group, plus anyone else on a volunteer basis - due to low token price there is no separate budget for it)
+- Town Hall updates (Focus Group, unless anyone wants to do it on a volunteer basis - due to low token price there is no separate budget for it)
+-  Meeting facilitation (again, focus group because there isn’t a budget for it)
+
+- Workgroup Sync Call: 
+
+We shared highlights from the recent workgroup sync call, including the issue we raised about onboarding to the entire ecosystem. 
+
+The Onboarders team's next meetting will discuss what we are now onboarding people *to*. How can we shift our focus from what we’ve been doing to something new, such as hosting webinars/AMA sessions with spinoffs?
+- In the light of the issues we had with the analysis of the "Onboarding to Decentralisation" research, Vani shared a doc that the Focus Group has drafted, giving some basic pointers on analysing qualitative research material
+
+- Collaboration with Education Guild on an AMA session with some of the spinoffs
+
+#### Decision Items:
+- We have decided to create a GitHub issue for the onboarders to help us keep track of what we’re doing.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We have decided we are now ready to share the onboarding to decentralization analysis research from last quarter.
+
+  - [**effect**] mayAffectOtherPeople
+- We agreed that we will approach Education Guild about collaborating on an AMA session with 2 or 3 spinoffs (which ones TBC). We can allocate some budget to this; need to know what amount they could put in.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Sucre to find someone to facilitate the August meeting in place of Clement, who is not available
+ [**assignee**] Sucre n Spice [**due**] 7 August 2025 [**status**] in progress
+- [**action**] CjFrankie to draft the quarterly report for Q3 [**assignee**] CJFrankie [**due**] 29 August 2025 [**status**] todo
+- [**action**] Gorga to participate in drafting the budget for Q4 with the focus group [**assignee**] Gorga Siagian [**due**] 20 August 2025 [**status**] todo
+- [**action**] Focus group to share the analysis of the onboarding to decentralization report in Discord channel.
+ [**assignee**] Sucre n Spice, LadyTempestt, CallyFromAuron [**status**] todo
+- [**action**] Create a GitHub issue for onboarders to track progress [**assignee**] Sucre n Spice [**due**] 7 August 2025 [**status**] todo
+- [**action**] Create a GitHub issue for drafting the budget for Q4 2025 and writing the Q3 quarterly report. [**assignee**] Sucre n Spice [**due**] 7 August 2025 [**status**] todo
+- [**action**] Onboarders to discuss collaboration with the Education Guild for ecosystem education sessions in their next meeting. [**assignee**] Sucre n Spice [**due**] 7 August 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Documentation, onboarders, Focus Group,  skillshare matrix, Skillshare session, onboarding to decentralization, workgroup sync call, Collaboration, spinoff, Education Guild, task assignment
+- **emotions:** Deliberative,  forward-looking,  informative, detailed
 
 
 ## Friday 4th July 2025
