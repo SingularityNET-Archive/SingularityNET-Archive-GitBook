@@ -157,6 +157,7 @@ Finalists in the current Deepfunding RFP ideation process have been announced.
 ## Thursday 4th December 2025
 
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Monthly
@@ -245,6 +246,48 @@ Vani shared information about a call for papers from the journal AI and Ethics o
 #### Keywords/tags:
 - **topics covered:** Future Planning, Decentralized Autonomous Communities, AI Initiatives and Ethics, Q4 2025 quarterly report, Governance Dashboard, Zarqa, OpenCOG Hyperon, EthosGuard, AI agents, Discord bots, Archives WG, AI and emotion, AI And Ethics journal
 - **emotions:** Educational,  Collaborative,  informative
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** CallyFromAuron [**facilitator**], UKnowZork [**documenter**], Sucre n Spice, Ayomi Shuga, LadyTempestt, Gorga Siagian, LordKizzy, PeterE, CallyFromAuron, UKnowZork
+- **Purpose:** Monthly meeting of the Onboarding Workgroup
+- **Working Docs:**
+  - [Draft Onboarding Workgroup Budget](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?gid=1927081677#gid=1927081677)
+  - [Onboarding Workgroup Github Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/9/views/2)
+
+#### In this meeting we discussed:
+- Review of outstanding Q4 action items 
+- Meeting documentation and minutes
+- Q4 2025 minimal reporting requirements
+- AMA session video status and payments
+- Draft Q1 2026 budget and AGIX-based payments.
+- Current reserves and spending limits
+- AMA plans for Q1 2026 and collaboration options
+
+#### Decision Items:
+- There is no budget coinsent process this Quarter. Reporting requirements are just a minimal Q4 2025 report via the governance dashboard, focusing on completed work, unfinished items, and a short impact statement.
+- CJ Frankie was assigned to write the Q4 2025 report. If he does not confirm availability by the end of today, the task will be reassigned. Compensation will be reduced to reflect the reduced scope of work.
+
+- All outstanding tasks related to the AMA session last month must be separately listed on the GitHub board to enable payment processing.
+- For Q1 2026, our budget cap will remain the same as last Quarter. Since there is no biudget consent process this Quarter, the Focus Group will draft a budget for Q1 2926 in January and share it in the first meeting of the year
+
+Due to AGIX price volatility, we agreed that tasks will be priced in AGIX.
+- Given limited reserves, the group agreed to defer a final decision on hosting another AMA in Q1 2026 until January, after reviewing token prices, budget status, and ecosystem plans.
+- The onboarders team will take responsibility for tracking and amplifying AMAs hosted by spin-offs, regardless of whether the workgroup hosts its own AMA.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Sucre to ensure all pending tasks from last month';s AMA session with Rejuve (documentation, facilitation, video editing, and remaining payments) are added to the GitHub board so that payment can be processed. [**assignee**] Sucre n Spice [**due**] 12 December 2025 [**status**] in progress
+- [**action**] Lordkizzy to complete, upload, and share the AMA session video link, after which payment will be processed. [**assignee**] LordKizzy [**due**] 12 December 2025 [**status**] in progress
+- [**action**] Gorga to include the finalized AMA video link in the Education Guild quarterly report once available.   [**assignee**] Gorga Siagian [**due**] 12 December 2025 [**status**] in progress
+- [**action**] Onboarders team to audit any forthcoming spin-off AMAs and improve communication to ambassadors about upcoming sessions. [**assignee**] Gorga Siagian, LordKizzy, CJFrankie, LadyTempestt, CallyFromAuron, Sucre n Spice [**due**] 30 January 2026 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Documentation, budget, Q1 2026 planning, collaboration, Education Guild, focus group, onboarders team, AMA sessions, spin-offs, AGIX budgeting, Q4 2025 quarterly report
+- **emotions:** Deliberative, forward-thinking
+
+
 ## Friday 5th December 2025
 
 ### Marketing Guild
