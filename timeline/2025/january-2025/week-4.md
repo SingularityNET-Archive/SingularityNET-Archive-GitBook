@@ -116,6 +116,7 @@ description: Mon 20th Jan - Sun 26th Jan 2025
 
 ## Wednesday 22nd January 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -162,6 +163,47 @@ description: Mon 20th Jan - Sun 26th Jan 2025
 #### Keywords/tags:
 - **topics covered:** CCCP, announcement, design, Task Assignment, AI for beginners, Wiki website
 - **emotions:** productive,  Collaborative, Businesslike.
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, andrea reyes, SergioBenaR
+- **Purpose:** Retrospective 2024, roadmap Q1 and task assignment.
+- **Meeting video:** [Link](No available)
+- **Transcript:** [Link](No available)
+- **Working Docs:**
+
+#### Agenda item 1 - Onboarding subgroup - [carry over]
+
+#### Narrative:
+As part of LatAm_SNET's objectives, we constantly seek to have active members committed to the mission of SingularityNET and its ecosystem. Andrea Reyes joins the team of ambassadors, highlighting her participation and contributions in Deep Funding circles.
+
+
+#### Decision Items:
+- Andrea Reyes joins the Latam_SNET working groups to have the participation of people who are part of the SingulatiryNET ecosystem in Mexico.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Andrea Reyes will be added to the official organization and communications system of the Latam_SNET working groups. [**assignee**] guillermolucero [**due**] 30 enero 2025 [**status**] done
+
+#### Agenda item 2 - Strategy Subgroup - [carry over]
+
+#### Narrative:
+One of the objectives of LatAm_SNET is to have the participation and representation of different Latin American countries. Currently, the team of ambassadors has members from Argentina, Bolivia, Brazil and Mexico, with Colombia being the country in which we do not yet have an ambassador. It is important to continue the search for this member from Colombia, who, if possible, could have a technical profile.
+
+
+#### Decision Items:
+- Latam_SNET ambassadors and working group members will be looking for people from Colombia who can join the Latam_SNET team, also events all over Latin America in which SingularityNET might be interested in participating as a sponsor, ally, speaker facilitator or as a guest.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Search for people from Colombia interested in artificial intelligence and blockchain technology in Latin American communities who can complement the team, for example, in technical aspects. [**assignee**] andrea reyes, guillermolucero, Martin Rivero, SergioBenaR [**due**] 30 enero 2025 [**status**] in progress
+- [**action**] Search for events in Latin America and by country in which SingularityNET might be interested in participating. [**assignee**] guillermolucero, andrea reyes, Martin Rivero, SergioBenaR [**due**] 30 enero 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** retrospective, task assignment, New members, Mexico, Colombia
 
 
 ## Thursday 23rd January 2025
