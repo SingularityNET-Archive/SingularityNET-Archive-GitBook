@@ -4,6 +4,45 @@ description: Mon 10th Mar - Sun 16th Mar 2025
 
 # Week 11
 
+## Wednesday 12th March 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, Clement Umoh, esewilliams, frosh, Gorga Siagian, TheFreysDeFi, kenichi, LordKizzy, Malik, osmium, Zalfred, hogantuso, photogee, Slate, maxmilez
+- **Purpose:** Webinar Series Discussion (Marketing, AI Sandbox, Education), Budget Consent Process (Reminder)- Website Background Video Showcasing - Presentation Series Update by Kenichi - Osmium and kizzy updates for Governance Series- Certification Program Discussion 
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Webinar Series Discussion (Marketing, AI Sandbox, Education)
+- Budget Consent Process (Reminder)
+- Website Background Video Showcasing
+- Presentation Series Update by Kenichi
+-  Osmium and kizzy updates for Governance Series
+- Certification Program Discussion
+- Ai for Beginners Ese 
+
+#### Discussion Points:
+- Meeting started off with the discussion upon the initiative of Education Guild named as "Webinar Series", which focuses upon holding one on one discussion with the spin-offs , photogee from marketing guild 
+- photogee notified that he is here to discuss that whether or not there is a overlap between what marketing guild is planning to do and what the education guild is doing 
+- Multiple poiints and topics were raised from this conversation from the three groups Marketing , Education and Ai Sandbox , which led to clearing off doubts between the guild 
+- Slate notified that the consent process has started so make sure to put your opinions in regards to your respective contributing guilds 
+- Then some background options were showcased in regards to the education guild wiki website and a vote between the three option is meant to be put which would lead to that video being implemented on the site 
+- Kenichi gave updates in regards to presentation series notifying that he would be reaching to module 3 assignee for the task assignment and pushing the work. and also shared module 1 doc 
+- Osmium and kizzy gave updates from the governance series that they would be requiring an additional 300$ for th execution of the complete project
+- There were also discussion in regards to CCCP platform some suggestions were given by tuso which were noted and would be discussed in upcoming calls 
+- Final updates from AI for Beginners were given by ese notifying that she is negotiating with Andrew in regards to the posting and kizzy volunteered to help out in regards to it as well 
+
+#### Action Items:
+- [**action**] Slate to host votes for the videos  [**assignee**] Slate [**due**] 19 March 2025 [**status**] in progress
+- [**action**] Frank to add background videos  [**assignee**] FranklynStein [**due**] 19 March 2025 [**status**] in progress
+- [**action**] Negotiate with andrew  [**assignee**] LordKizzy, esewilliams [**due**] 19 March 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Project Updates, Overlap Discussion,  Budget Allocation, Voting, presentation series, Governance series, Consent process, Certification program
+- **emotions:**  Collaborative
+
+
 ## Thursday 13th March 2025
 
 ### AI Sandbox/Think-tank
