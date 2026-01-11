@@ -111,6 +111,47 @@ Tevo will finalize the Q3 progress report and Q4 proposal and submit them.
 - **topics covered:** Retrospective, Participation, Onboarding, GitBook, Asset Management, Miro Board, Google Sheets, Governance Workgroup, Meeting Schedule, Bi-weekly, Quarterly Report, Quarterly Proposal, Budget, Knowledge-Based Agent, Discord
 
 
+## Wednesday 10th September 2025
+
+### Research and Development Guild
+
+- **Type of meeting:** Monthly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, LordKizzy, CallyFromAuron, PeterE, CollyPride, Omolola Lawson, Rems, Ayomi Shuga
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+  - [Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [Enhancing Search Engine Optimization for the Ambassadors Program proposal](https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing)
+  - [AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. ](https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. 
+
+-  Address concerns; Gov-Dash / SingularityNET Ambassadors Governance Framework. 
+- AOB Open discussions: Operations moving forward,
+identify and establish priorities,
+New proposals system redesign,
+Onboarding Devs
+
+#### Discussion Points:
+- UPDATE STATUS ON DEVELOPMENT: Enhancing Search Engine Optimization for the Ambassadors Program; Lordkizzy provided an overview of the SEO research final report, detailing the audit of program pages and the optimization efforts for social media accounts, specifically Medium and YouTube. Challenges were noted regarding access to the X account, which hindered analytics collection. Recommendations for improving outreach through optimized hashtags and content strategies were also discussed. Lordkizzy discussed the importance of translating research into practical tools that yield results, stressing the need for education rather than forceful implementation. Lordkizzy mentioned plans to collaborate with social media managers to enhance title optimization and content, addressing issues such as missing bios and outdated images on social media accounts. Here is the link to the report: https://docs.google.com/document/d/1t7JTV9dLvoMm8-efZ_cFk-A4BYAU0Tyz/edit?usp=sharing&ouid=108142928922286131771&rtpof=true&sd=true
+- UPDATE STATUS ON DEVELOPMENT: Governance AI Agents: Guillermo noted that the dashboard is now functional and integrated with analytics, featuring quick actions and filter options. An Archive Tool has been included, along with a calendar for tracking processes. The team is also working on enhancing usability by improving the layout and highlighting important elements. Additionally, an AI summary feature for proposals has been implemented. Guillermo also mentioned the focus on refining the consent process, suggesting that objections serve as valuable input for improving proposals. he introduced a new proposal structure that allows for better categorization and tracking of different types of proposals, including budgets and community initiatives. The discussion also covered the importance of maintaining a clean and intuitive interface for users. Vani expressed worries about the potential difficulties in retrieving data from the new consenting tool, particularly regarding proposals and budgets. Guillermo confirmed that they would maintain their Google workflow to ensure data duplication and accessibility. They discussed the importance of having a backup system in place and acknowledged the need for a user-friendly interface to prevent data loss during the proposal creation process.
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Tevo to discuss the integration of the Governance dashboard with the treasury [**assignee**] guillermolucero [**due**] 17 September 2025 [**status**] done
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 10 September 2025 [**status**] todo
+- [**action**] Lordkizzy will follow up with the writers workgroup & marketing guild regarding the SEO training feedback.  [**assignee**] LordKizzy [**due**] 17 September 2025 [**status**] todo
+- [**action**] Guillermo will create a video tutorial on how to use the new governance dashboard and share it in the governance meeting.  [**assignee**] guillermolucero [**due**] 17 September 2025 [**status**] todo
+- [**action**] Lordkizzy will reach out to the social media managers from both the video workgroup and writers workgroup to discuss the SEO audit report and necessary changes [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Proposals, SEO, Governance Dashboard, Status update, Project Management, AI Agent
+- **emotions:**  Understanding.,  Satisfaction , Lengthy
+
+
 ## Thursday 11th September 2025
 
 ### African Guild
