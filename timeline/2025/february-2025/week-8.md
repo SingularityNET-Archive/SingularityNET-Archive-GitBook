@@ -193,6 +193,7 @@ and the "Submit your WG budgets" will be posted together with links to the Budge
 
 ## Wednesday 19th February 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Weekly
@@ -218,6 +219,64 @@ and the "Submit your WG budgets" will be posted together with links to the Budge
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation,  ACP, Google Classroom,  Experimentation, Q2 2025 budget, Budget caps, Governance Workshop Presentation Series
 - **emotions:**  Collaborative
+
+
+
+### LatAm Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], SergioBenaR [**documenter**], guillermolucero, andrea reyes, SergioBenaR
+- **Purpose:** Activities and events for LatAm_SNET and task assignment 
+- **Meeting video:** [Link](https://app.read.ai/analytics/meetings/01JMG4M6YWHET7PAW9RV4FQED5)
+- **Transcript:** [Link](https://app.read.ai/analytics/meetings/01JMG4M6YWHET7PAW9RV4FQED5)
+- **Working Docs:**
+  - [LatAm Guild Session #28](https://docs.google.com/document/d/1ao0I5mXJxrkJ6UlZA3VRpkrMITOlLwrTvEXkdK7F3io/edit?usp=drive_link )
+  - [Informe anual SingularityNET 2024](https://singularitynet-latam.medium.com/informe-anual-de-singularitynet-2024-avanzando-en-la-agi-beneficiosa-y-la-ia-descentralizada-b522334b4609)
+  - [@SNET_LatAm Events](https://docs.google.com/document/d/14L8drSVtmssMO114ycqpV7s850djlhyWACVQ5ukd27E/edit?usp=sharing)
+
+#### Agenda item 1 - Strategy SubGroup - [carry over]
+
+#### Narrative:
+Progress in the SingularityNET community in Latin America was discussed, focusing on event planning and the adaptation of the roadmap for the second quarter. 
+
+The importance of optimizing meeting time and the need to have representatives in each country to improve event participation were highlighted. Andrea mentioned the possibility of collaborating in specific events, such as the summit in La Paz, and opportunities were identified to participate in an Ethereum event in Córdoba and in ALEPH growth.
+
+
+#### Decision Items:
+- Participate in the ALEPH Crecimiento event representing SingularityNET and analyze the possibility of participating in the ETH Córdoba event.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] evaluate the details of participation in the ETH Córdoba event and confirm participation in the ALEPH Crecimiento event. [**assignee**] guillermolucero [**due**] 7 marzo 2025 [**status**] in progress
+
+#### Agenda item 2 - Operations SubGroup - [carry over]
+
+#### Narrative:
+The organization of objectives for the quarters Q2 and Q3 was addressed, with Guillermo in charge of editing the roadmap to specify the objectives. It was proposed to eliminate the "Task Assignment" section in the document, replacing it with an "Action Item" that includes André's email to ensure proper notification.
+
+
+#### Decision Items:
+- Determine 5 concrete objectives to prioritize during Q2.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Guillermo will edit the goals for Q2, reducing them to a maximum of 5 achievable goals. [**assignee**] guillermolucero [**due**] 7 febrero 2025 [**status**] in progress
+
+#### Agenda item 3 - Onboarding SubGroup - [carry over]
+
+#### Narrative:
+The need to implement a developer academy in the MeTTa language in Spanish and Portuguese was raised, which was then developed in detail in different spaces and meetings of the SingularityNET working groups. It is expected that the next steps for its implementation can be established, thanks to having a real utility for the ecosystem.
+
+
+#### Decision Items:
+- Determine the concrete objectives to prioritize during Q2.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Guillermo will edit the goals for Q2, reducing them to a maximum of 5 achievable goals. [**assignee**] guillermolucero [**due**] 7 marzo 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** onboarding form, roadmap, Events, La Paz summit, ETH Córdoba event, ALEPH Crecimiento event, MeTTa in Spanish, MeTTa., AI developers, developer academy
 
 
 ## Thursday 20th February 2025
