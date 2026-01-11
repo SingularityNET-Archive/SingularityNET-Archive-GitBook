@@ -6,6 +6,7 @@ description: Mon 17th Feb - Sun 23rd Feb 2025
 
 ## Monday 17th February 2025
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -69,6 +70,62 @@ description: Mon 17th Feb - Sun 23rd Feb 2025
 
 #### Keywords/tags:
 - **topics covered:** Miro Board, Workgroup Management, GitBook, GitHub, Budget, Category Descriptions, Q2 2025 proposal, Q2 2025 budget, Budget caps, Q1 2025 quarterly report, Miro to GitBook, Markdown, community engagement
+
+
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], Effiom, Tevo, Kateri, PeterE
+- **Purpose:** We develop the Treasury System
+- **Meeting video:** [Link](https://youtu.be/L_t4n3uRCEo)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764616905461848&cot=10)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Automation WG Q4 Budget](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/)
+  - [Treasury Automation WG Budget Estimations](https://docs.google.com/spreadsheets/u/2/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY)
+
+#### Agenda item 1 - Development ﻿progress since last Meeting - [carry over]
+
+#### Discussion Points:
+- Tevo has mainly worked on updating Treasury Operations User Experience and fixing related issues we run into when using the Treasury Manager Excel for the past 2 quarters. The focus has recently shifted towards new features.
+- Previous [Core Contribution](https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI) calculations have been operational 1-2 hour activities that don’t produce structured assets. Which makes it less transparent.
+- [Presented](https://youtu.be/asfaf9M4QRM) Core Contributor Sheet on Treasury Manager which will be used for Core Contributor calculations.
+Described difference between Task Types
+Described based on what task types are selected
+- How could we improve calculating Core Contributors?
+
+#### Decision Items:
+- Once Core Contributors are done, the next focus is to integrate GitHub into the Treasury Manager
+  - [**effect**] mayAffectOtherPeople
+- If task Manager wants to recognise contributions without financial rewards that have no relations a different task that has the rewards then they can use Task Label Tag "contribution" to indicate that these contributions should be calculated towards Core Contributions
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Tevo to double check if Effiom has received missing rewards from the contributions that did not have rewards on the Core Contributor dashboard [**assignee**] Tevo [**status**] todo
+
+#### Agenda item 2 - Update Proposal for Quarter 2 and Report For Quarter 1 - [carry over]
+
+#### Discussion Points:
+- Reviewed and Updated [Quarter 2 Proposal](https://docs.google.com/document/d/1xFzwSwqV8uYITOj9p9xNE4CTY5cq7HHanym6CTU5m3k)
+- Reviewed and Updated [Quarter 1 Quarterly Report](https://docs.google.com/document/d/19GosXpTVLk66D7yf8F3n4hsVzd1vlCZf5ir8pyUhOMc)
+
+#### Decision Items:
+- Use the Quarter 2 budget to top up the development costs that were not yet started
+  - [**effect**] affectsOnlyThisWorkgroup
+- If we don’t create new features for Quarter 2, we increase the Technical Dept Support funds. This allows us to build a reserve to be more agile towards small updates
+  - [**effect**] affectsOnlyThisWorkgroup
+- We move to 2 meetings per quarter and increase the meeting time from 90 to 120 min
+- We reduced the preparation time for meetings down to 2 hours from 4 hours. Without new development plans, it takes less time to prepare meetings and we have now gotten also used to the new operational cycle, which doesn't require changing often
+
+#### Action Items:
+- [**action**] Finalise [Quarterly Report](https://docs.google.com/document/d/19GosXpTVLk66D7yf8F3n4hsVzd1vlCZf5ir8pyUhOMc) after async review of [Quarter 2 proposal](https://docs.google.com/document/d/1xFzwSwqV8uYITOj9p9xNE4CTY5cq7HHanym6CTU5m3k) [**assignee**] Tevo [**status**] todo
+- [**action**] [Quarter 2 Budget items](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1475950255#gid=1475950255) need an async review on which items we carry over from Q1 and whether we have the capacity to add something new [**assignee**] Tevo [**status**] todo
+- [**action**] After reviewing budget items, update the Proposal with new deliverables or changes.
+ [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Proposal, Reports, Quarter, Treasury System, Budget, Development, Update
 
 
 ## Tuesday 18th February 2025
