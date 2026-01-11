@@ -102,6 +102,7 @@ To be continued...
 
 ## Wednesday 4th June 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -150,6 +151,30 @@ However, we noted that some cancelled meetings are still on the Calendar - we wi
 #### Keywords/tags:
 - **topics covered:** AGIX price, controlled vocab, Knowledge management across the singularityNET ecosystem, AI ethics, Q3 2025 budget, Q2 2025 quarterly report, summary tool redesign, meeting summary audits, rule-based auditing, tag taxonomy, Deepfunding Town Hall, token price
 - **emotions:** interesting, low attendance, slow
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Slate [**facilitator**], UKnowZork [**documenter**], Slate, UKnowZork, Gorga Siagian, Kateri, Zalfred, LordKizzy, Clement Umoh
+- **Purpose:** Q3 2025 Budget Request Discussion - CCCP Discussion 
+- **Working Docs:**
+  - [Q2 Education guild Quarterly Report](https://docs.google.com/document/d/14BgAogCuzX58rFu2h3V5oYGn1nwVLcYsdODwR-RD0mU/edit?tab=t.0#heading=h.91gvycmsu9gj)
+
+#### Discussion Points:
+- Meeting Started with Slate welcoming everybody. 
+- Q2 2025 quarterly report is being done by Kateri and it was presented by Slate. It covers the CCCP updates, Website / Wiki integration, Thinkific platform, Canvas Lms and the Presentation series done by Kenechi. 
+- Q3 budget discussions: Slate noted that we have about $3,750 in our reserves and we’re requesting $1,200 as our Q3 budget request. We’re also hosting a platform for Certification program project. 
+- We also budgeted $220 for our Governance framework complete execution, while $70 was budgeted for Presentation series.  
+- Our next call was slated for next two weeks and more discussions will be done in the next call. 
+
+#### Action Items:
+- [**action**] Kateri will work on correcting and updating the Q2 quarterly report.  [**assignee**] Kateri [**due**] 11 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Certification program, Governance, Q3 2025 budget, CCCP, Budget caps, Q2 2025 quarterly report, Thinkific
+- **emotions:**  forward-looking,  insightful, Ideating
+
+
 ## Thursday 5th June 2025
 
 
