@@ -7,6 +7,7 @@ description: Mon 16th Dec - Sun 22nd Dec 2024
 ## Monday 16th December 2024
 
 
+
 ### Treasury Guild
 
 - **Type of meeting:** Biweekly
@@ -115,6 +116,57 @@ Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for resea
 #### Keywords/tags:
 - **topics covered:** Budget, Q1 2025 budget, Async, Q1 2025 projections, Workshop, Education Guild, R&D Guild, survey, conflict resolution, research
 - **emotions:** Friendly, calm, cool, chatty
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Effiom, André [**documenter**], effiom, tevo, Valola, André
+- **Purpose:** We develop the Treasury System
+- **Miro board:** [Link]( https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764610742686664&cot=10)
+- **Other media:** [Link]( https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Automation WG Q4 Budget](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/)
+  - [Treasury Automation WG Budget Estimations](https://docs.google.com/spreadsheets/u/2/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY)
+
+#### Agenda item 1 - Month of December Development Updates - [resolved]
+
+#### Discussion Points:
+- No new updates to Treasury Manager
+- Andre updating new treasury application, mainly UI and UX
+- How to better show Ambassador Program Reserves on dashboard?
+- Color coded budget line items on Q4 budget sheet https://docs.google.com/spreadsheets/u/2/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY
+
+#### Action Items:
+- [**action**] 3 budget lines left to complete from Q4 proposal [**status**] todo
+
+#### Agenda item 2 - Ambassador Program Reserves - [resolved]
+
+#### Discussion Points:
+- Currently Ambassador Program was manually calculated by including Entire Quarter budget into Month 4 at 2023 (Incoming Reallocation)
+- Before 2024 all the budget leftovers were moved to the Ambassador Program Reserves
+- What were the Quarterly Ambassador Budgets at early days?
+
+#### Action Items:
+- [**action**] Andre will update Dashboard reserve numbers related to Ambassador Program reserves [**assignee**] André [**status**] todo
+
+#### Agenda item 3 - Workgroup Management - [resolved]
+
+#### Discussion Points:
+- What are the main activities we should prepare for in Quarter 1?
+
+#### Decision Items:
+- Start outcome documentation as early as possible
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Effiom to Draft Q1 Report [**assignee**] Effiom [**due**] 13 January 2025 [**status**] todo
+- [**action**] Valola to Draft Q2 Proposal [**assignee**] Valola [**due**] 13 January 2025 [**status**] todo
+- [**action**] Effiom to draft the meeting summary and Andre will review and publish it in Discord [**assignee**] Effiom, André [**due**] 31 December 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Dework, Proposal, Q4 report, Reserve
+
+
 ## Wednesday 18th December 2024
 
 
