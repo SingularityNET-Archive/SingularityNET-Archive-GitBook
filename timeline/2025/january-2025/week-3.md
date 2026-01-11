@@ -200,6 +200,53 @@ We noted that this last topic is on the rolling Governance WG agenda for our nex
 #### Keywords/tags:
 - **topics covered:** core contributors, participation, consent decision making, consent process, budget caps
 - **emotions:** Thoughtful , focused, participatory
+## Wednesday 15th January 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, Clement Umoh, Gorga Siagian, Kateri, LordKizzy, Malik, Mikasa, osmium, TheFreysDeFi, hogantuso, Slate
+- **Purpose:** Wiki Website Discussions - AI For Beginners - Governance workshop - Presentation Series - Certification Program Retro Session/Feedback 
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Wiki Website Discussions
+- AI For Beginners
+- Governance workshop
+- Presentation Series
+- Certification Program Retro Session/Feedback 
+
+#### Discussion Points:
+- Slate started the meeting greeting everyone 
+- The meeting started with focus shifting to the wiki website updates , Franklyn was not present in today's meeting as well leading to no updates from that side
+- Osmium had some queries in regards to the website creation that why wasn't figma used for the creation of design as canva is hard for implementation of it - Queries were answered by Gorga and Slate 
+- Slate mentioned that he is not working on the website and then afterwards a look at the website budget request was put , in which we have budget for implementation of hosting 
+- Afterwards Slate mentioned that ese wont be joining today and that the udpates from Ai For beginners will be shifted to next week 
+- Then on Ai For beginners Tuso had a question in regards to the payment plan for each video as the payment for videos being 75 USD is less for a 15 min long video 
+- IT was cleared by SLate that the reward ratio is 1:1 and the rewards for each participatns is 150 USD per video 
+- Then Osmium mentioned that he is working on governance workshop and that the task for the blueprint creation should be 40 USD per person , AFter wards there was a quick look taken on the governance workshop budget as well 
+- Then Slate mentioned that he is still waiting for Kenichi for the udpates on Presentation Series as its been delayed due to holidays 
+- AFter wards Slate said that we have to hold a retrospective session for CCCP to get feedback from Participants, and also how we can improve - Announcement task taken by Gorga - Miro Creation taken by Osmium 
+
+#### Decision Items:
+- Certification Program Retrospective Session to be held next week 
+  - [**rationale**] mostAgreed 
+  - [**opposing**] nil 
+  - [**effect**] mayAffectOtherPeople
+- Wiki website Domain name suggestions taken , which would be put to vote 
+  - [**rationale**] most agreed 
+  - [**opposing**] nil 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Gorga to work on announcements   [**assignee**] gorega [**due**] 20 January 2025 [**status**] in progress
+- [**action**] Osmium to work on Miro creation for feedback session  [**assignee**] osmium [**due**] 20 January 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** CCCP, website, design, Task Assignment, AI for beginners
+- **emotions:** productive,  Collaborative, Businesslike.
+
+
 ## Thursday 16th January 2025
 
 ### African Guild
