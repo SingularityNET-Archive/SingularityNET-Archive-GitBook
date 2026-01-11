@@ -78,6 +78,56 @@ Lord kizzy announced that every member that has any difficulty should ask questi
 #### Keywords/tags:
 - **topics covered:** Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, Nunet live testing
 - **emotions:** Welcoming, Interactive, Informative, Educative
+## Friday 14th March 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], LordKizzy, photogee, kareem, kenichi, CJFrankie, Gorga Siagian, Eric Davies, esewilliams, Kateri, Malik, PeterE, Éveline Trinité, advanceameyaw, UknowZork, Jeffrey Ndarake, TheFreysDeFi, Max Milez, SubZero
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Design Work Group(under marketing)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740672236759656%26amp;usg%3DAOvVaw0ZOENfBt_1d9aJBh6k0bh3&sa=D&source=docs&ust=1740672236764018&usg=AOvVaw0ZJ0G-_bvispWqK7jdvKXh)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [R&D New Proposal Submission [Template] ](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+
+#### Discussion Points:
+- Introduction of New members: The discussion began with a warm greeting from Ayo. He addressed the summary from the last meeting. New members shared their experiences and introduced themselves.
+- Update on Marketing Guild Google drive: Photogee admitted he keeps forgetting but will share the link with LordKizzy.
+- Discussion on Governance Doc:
+Ayo asked Martinsoki why the governance document link wasn’t in the summary, and Martinsoki said he couldn’t find it. Ayo then asked Ese to send the link.
+
+Ayo asked if anyone had reviewed the governance document, emphasizing that discussing it without prior review was pointless. Kareem responded that, aside from Kenichi’s document merger, everyone had seen it before. Ayo pointed out that Kareem was involved in creating it, so he was already familiar with it. Ese added that Ayo should have seen it too since no changes were made to the document.
+
+Ese presented the governance document, outlining its focus on the Guild’s operations and decision-making framework—key challenges affecting attendance, task completion, metric evaluation, payments, and compensation. The document addresses decision-making issues, including who participates, the required quorum, and the overall process. For more details visit “https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0”.
+
+Photogee raised concerns about decision-making, suggesting that while Zoom calls allow discussions, final decisions should be based on Discord polls for better engagement. He noted that if only 30% of members vote, the decision could be invalid. Ayo asked if a locked channel was meant to prevent uninformed voting. Photogee clarified that key decisions should be made by the core team and task force members, as they manage the guild. Kenichi supported voting on Discord, arguing it ensures transparency and a recorded history, unlike one-time decisions made on Zoom.
+- Discussion on March Issues: Ayo asked Ese regarding the GitHub board if it's too early to start discussing March issues. Ese responded that the issues for March are yet to be out.
+- A.O.B: TheFreysDefi proposed creating a direct pipeline from marketing to MindPlex to enhance mobility and visibility within the ecosystem. He suggested reinstating an overarching guild, possibly called the MindPlex Guild, to unify all three guilds. Ayo acknowledged the idea but emphasized that the current focus is on discussing the governance document, as it is essential for progress.
+
+#### Decision Items:
+- We decided that all members should take a look at the Governance document and drop comments where necessary.
+  - [**rationale**] So that discussion on the Gov document in the next meeting will be smooth and comprehensive.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Ese to document all Q1 useful links into our Github Issue Board  [**assignee**] esewilliams [**due**] 28 March 2025 [**status**] todo
+- [**action**] Photogee to add items to Marketing Guild Google Drive [**assignee**] photogee [**due**] 21 March 2025 [**status**] todo
+- [**action**] Martin to ensure that the governance document link is included in the action items and summary notes for the next meeting. [**assignee**] martinsoki [**due**] 21 March 2025 [**status**] todo
+- [**action**] All members to read the governance documents and provide comments before the next meeting. [**assignee**] members  [**due**] 21 March 2025 [**status**] todo
+- [**action**] LordKizzy to present the marketing guild budget/report  [**assignee**] LordKizzy [**due**] 21 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** governance document, Mindplex, Marketing Guild Google Drive
+- **emotions:** Friendly,  informative,  Satisfaction ,  Understanding.  
+
+
 ## Saturday 15th March 2025
 
 ### Gamers Guild
