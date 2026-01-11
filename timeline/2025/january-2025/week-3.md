@@ -7,6 +7,7 @@ description: Mon 13th Jan - Sun 19th Jan 2025
 ## Monday 13th January 2025
 
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -167,6 +168,50 @@ Payments in AGIX; is it a good idea? Is it too much of a risk? Price fluctuation
 #### Keywords/tags:
 - **topics covered:** WG sync call, Survey sharing, Knowledge management/data analysis planning, Non-Ambassador program payments, AI Ethics Conferences and Events, Interview Transcription, Q3 & Q4 interviews
 - **emotions:** quiet, Thoughtful , a bit dull
+
+
+
+### Strategy Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Ayo, Effiom, PeterE, Clement Umoh, AshleyDawn, Gorga Siagian, Mikasa, martinsoki, kenichi, hogantuso, LordKizzy
+- **Purpose:** Biweekly meeting of the Strategy Guild
+
+- **Working Docs:**
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?gid=1268899826#gid=1268899826)
+  - [The Strategy Guild Survey](https://docs.google.com/forms/d/1FVYpm_Q1r97pK8h1PdKX-ntyvDozv2d1GXYr-BNy8hA/edit)
+  - [REPORT - STRATEGY GUILD  Q4 WORKSHOP](https://docs.google.com/document/d/1rY2yjckO8n0h9PZR2RHz9rJEwqIQln9TbvCgj7fasaY/edit?usp=sharing)
+  - [Strategy review ](https://docs.google.com/document/d/12-7c62Bbdc3M8EuWxbJEYfjPS7_cgJPIO4-40q5wnwk/edit?usp=sharing)
+
+#### Narrative:
+Ayo welcomed everyone
+
+Retrospective: Ayo stated that the guild is going to focus on the research towards helping the program achieve it aim and propose. 
+
+Q4 workshop: Clement noted that last quarter we talked about cross collaboration, new approaches other guilds could adopt to hence the cross collaboration and he is looking forward to this being implemented.
+
+Q1 budget in perspective research, workshop, collaboration and other initiative: Effiom noted that for the Q1 budget approval we were allocated 4,000 AGIX which is 2200 USD. He also noted that the guild will continue in our biweekly meetings which is a total of 7 meetings this quarter. He said the roaster for the quarter will be shared in the next meetings, he noted that due to the fact that treasury operator call is biweekly it means that task management will also be biweekly. For the initiatives and ideas, he noted that we are only going to have one research and one workshop this quarter though there are already some ideas from last quarter but new ideas can still come in and after we would decide as a guild and choose one.
+
+Async follow up initiative: Effiom noted that we adopted this in Q4 because our first workshop was in Q3. The async follow up team in Q4 were to follow up on the initiative and ideas presented in the Q3 workshop and that of the async follow up team in Q1 are to focus and follow up on the initiative and ideas presented in Q4 workshop.
+
+Q1 prospective: Ayo noted for Q1 workshop we can engage Gamers guild, AI Sandbox/Think tank, Archive workgroup and AI ethics workgroup. Gorga expressed interest to represent Gamers workgroup.
+
+Ayo ask members for their ideas for Q1 workshop and research 
+Gorga 
+Kizzy mentioned that for the Q1 workshop he sees a synergy between Onboarding, AI Sandbox/Think tank and Gamers guild in terms of community engagement.
+Clement mentioned that we could do a research to establish synergy between the regional expansion initiatives that we currently in the ambassador program 
+Mikasa said we engaged on only three workgroup for the last quarter and so we should continue on that 
+Peter said the workgroups to focus on for the workshop should be demand driven. We should cater for Workgroups that have certain demands.
+
+
+
+#### Action Items:
+- [**action**] Focus group to create roster for and present before next meeting
+ [**assignee**] Ayo, Effiom [**due**] 27 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Async, Workshop, research , Q1 2025 projections
+- **emotions:** Casual, Thoughtful 
 
 
 ## Tuesday 14th January 2025
