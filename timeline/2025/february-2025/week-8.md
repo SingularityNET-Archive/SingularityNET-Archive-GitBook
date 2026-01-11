@@ -73,6 +73,7 @@ description: Mon 17th Feb - Sun 23rd Feb 2025
 
 ## Tuesday 18th February 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -130,6 +131,66 @@ and the "Submit your WG budgets" will be posted together with links to the Budge
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, WG reserves, Reserves, WG Sync calls, Core Contributors , publicity, Infographics, consent process, minimum budgets
 - **emotions:** gloomy, decisive, Organised
+
+### GitHub PBL WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Tevo, Sebastian Pabon [**documenter**], Tevo, Effiom, Sebastian Pabon, AshleyDawn, LadyTempestt, maxmilez, salometee
+- **Purpose:** We are creating a PBL course on Andamio about GitHub features and use cases to manage
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764617027903716&cot=10)
+- **Working Docs:**
+  - [GitHub PBL Structure](https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764601828301755&cot=10)
+  - [Register to GitHub Stuff (Googleform)](https://docs.google.com/forms/d/e/1FAIpQLSdwIsf_GS29MAjQSzpnDYv_X1yejNRjn6Gjt2othqtiXAFhAg/viewform)
+  - [PBL WG Proposal Q1 2025](https://docs.google.com/document/d/1YPg0iHYmhrF2KOKEhzehzw4Trd-wQ_s4faubS3FpF_c/edit?tab=t.0#heading=h.l832kyptxzsj)
+  - [PBL WG Proposal Estimated Cost Calculator](https://docs.google.com/spreadsheets/d/1dPVsCGCuvp1nBxRM5zJteWZt7_J4ezbx6iB7Sc8VcHM/edit?usp=sharing)
+  - [Github PBL Quarterly Report - Q4 2024](https://docs.google.com/document/d/1mGFj0ncsCFoS4eoOGBtCilFUjuMAcJXbh-7eJ4ItWSg/edit?usp=sharing)
+  - [Process of Managing Meeting Summaries (GitHub PBL WG)](https://www.youtube.com/watch?v=QR8Ef8KFLdk)
+
+#### Agenda item 1 - Workgroup management  - [carry over]
+
+#### Discussion Points:
+- Reviewed and updated the [Quarter 1 Report](https://docs.google.com/document/d/1Jxi323qFgLXY7cyHjlXihPmrh9Sm-Z0lpy1mFYrUp44)
+
+#### Decision Items:
+- Created [Q2 budget sheet](https://docs.google.com/spreadsheets/d/1dPVsCGCuvp1nBxRM5zJteWZt7_J4ezbx6iB7Sc8VcHM/edit?gid=1737461834#gid=1737461834) and allocated 500 USD in AGIX for potential additional support funds
+  - [**effect**] affectsOnlyThisWorkgroup
+- We use color-coded reporting on the Report, so next time we do a progress report, we will have a comparable snapshot
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo to create a meeting summary. [**due**] 11 February 2025 [**status**] done
+- [**action**] Sebastian will review the meeting summary. [**due**] 11 February 2025 [**status**] done
+- [**action**] Submit Report and Budget for Q2 budget planning [**due**] 11 February 2025 [**status**] todo
+
+#### Agenda item 2 - Finalise and Upload Lessons to Andamio - [carry over]
+
+#### Discussion Points:
+- We reviewed [Module 104 - Reward Management](https://app.andamio.io/course/snet-github-pbl-wg/104)
+- There were comments about WG difficulties in doing the work required in creating, editing and revising lessons and course content in general, related to the time that content creators can dedicate asynchronously to delegated tasks. During meetings the group is doing a better job than asynchronously, but unfortunately, it takes more time overall for everyone.
+
+#### Decision Items:
+- We updated links and some wording, but no major changes to lessons, if feedback forms provide no suggestions, Module 104 is completed.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Love Tempestt, Gorga, Onize, Sucren to update their Andamio Lesson based on existing feedback. More information in [GitHub Lessons Thread](https://discord.com/channels/909843832491896832/1303042865311514737/1339622760925626521) in Discord GitHub PBL WG Channel [**assignee**] LadyTempestt [**due**] 11 February 2025 [**status**] in progress
+- [**action**] In the next session, we start to review GitHub Project Board features and configurations in module 202 [**assignee**] LadyTempestt, Tevo [**due**] 11 February 2025 [**status**] in progress
+
+#### Agenda item 3 - What issues did we run into as Andamio Course Creators? - [carry over]
+
+#### Discussion Points:
+- Is there capacity for the Andamio team to build a Quiz-creating feature for course creators that is part of an assignment or has its own page. SingularityNET is able to support an average 2000$ in AGIX per quarter.
+
+#### Action Items:
+- [**action**] Personal Assignment Notes no longer seem to be working as before. How do we change the Status of the assignment? Find out how assignments work now. [**status**] todo
+- [**action**] The navigation overlay buttons go behind the commenting panel in each lesson [**status**] todo
+- [**action**] Sebastian looks into the Andamio team to find out if it’s feasible to build quiz creating feature by end of Q2 and what would be the cost of such a feature. [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Proposal, Reports, Quarter, Dework, Andamio, Course, PBL, Course structure, Statuses
+
+
 ## Wednesday 19th February 2025
 
 ### Education Workgroup
