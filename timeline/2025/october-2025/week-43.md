@@ -240,3 +240,31 @@ We want to include dialogue in our governance - it’s not only about what an AI
 #### Keywords/tags:
 - **topics covered:** African Guild, Archives WorkGroup, R&D Guild, AI Sandbox/Think Tank, EthosGuard, Ai recordkeeping ethics, recordkeeping, institutional memory, Knowledge Graphs, AI governance, AI ethics, decentralized governance, diversity, Ubuntu, African philosophy, transparency, auditability, verification, ASI 1, context engineering, Human values
 - **emotions:** reflective,  Collaborative, Educative, hopeful
+## Friday 24th October 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], advanceameyaw, Gorga Siagian, CJFrankie, LordKizzy
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.
+- Update on the scavenger hunt initiative: Advance reported that he is currently experiencing a power outage, while Gorga mentioned that he has completed his graphics task.
+
+#### Action Items:
+- [**action**] LordKizzy to edit the report and include reasons for the scavenger hunt initiative and ensure all details are in place [**assignee**] LordKizzy [**due**] 7 November 2025 [**status**] todo
+- [**action**] LordKizzy to drop a message in the channel to remind everyone about the need to meet and have a call regarding the scavenger hunt initiative. [**assignee**] LordKizzy [**due**] 7 November 2025 [**status**] todo
+- [**action**] LordKizzy to organize a call with Eric to finalize the timeline and budget for the scavenger hunt initiative. [**assignee**] LordKizzy [**due**] 7 November 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Scavenger hunt
+- **emotions:** Peacefull,  Understanding.,  forward-looking
