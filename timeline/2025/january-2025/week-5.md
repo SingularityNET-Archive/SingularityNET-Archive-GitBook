@@ -6,6 +6,7 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 
 ## Monday 27th January 2025
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Biweekly
@@ -67,6 +68,55 @@ description: Mon 27th Jan - Sun 2nd Feb 2025
 #### Keywords/tags:
 - **topics covered:** Category Descriptions, Markdown, Ambassador GitBook, GitBook, Feedback Form, Documentation, Miro Board, GitHub, Q2 2025 budget, Q2 2025 proposal, Q1 2025 quarterly report, Ambassador Program email account, email
 - **emotions:** well attended, Organised
+
+
+
+### Strategy Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** Ayo [**facilitator**], Eric Davies [**documenter**], Ayo, Effiom, PeterE, Gorga Siagian, martinsoki, esewilliams, Kateri, LordKizzy, TheFreysDeFi, Évéline Trinité
+- **Purpose:** Biweekly meeting of the Strategy Guild
+
+- **Working Docs:**
+  - [Strategy Guild Working Document](https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?gid=1268899826#gid=1268899826)
+  - [REPORT - STRATEGY GUILD  Q4 WORKSHOP](https://docs.google.com/document/d/1rY2yjckO8n0h9PZR2RHz9rJEwqIQln9TbvCgj7fasaY/edit?usp=sharing)
+  - [Strategy review ](https://docs.google.com/document/d/12-7c62Bbdc3M8EuWxbJEYfjPS7_cgJPIO4-40q5wnwk/edit?usp=sharing)
+  - [Last meeting Summary](https://docs.google.com/document/d/1p6tMvoMyJluZ2oo_VfsYjN2H3OGLKTbnBc-lqVHBRBQ/edit?usp=drivesdk)
+  - [Meeting Agenda](https://docs.google.com/document/d/1XTQzNmjoZ8yIg8cq8Cpwbsc6Bk9JSlOXpw6iv6KomSY/edit?usp=sharing)
+
+#### Narrative:
+Review of Last Meeting Documentation: Ayo proposed adopting a standard documentation format and clarified some inaccuracies in the previous meeting's records.
+
+Q3 and Q4 Async Report Presentation: Ese stated her intention to reach out to workgroups to gather feedback on the adoption of proposed solutions and their overall effectiveness.
+
+Research Ideas: Gorga suggested conducting research and workshops on AI Sandbox, AI Ethics, and Gamers, as AI Sandbox and AI Ethics align closely with broader AI conversations, while Ayo clarified the distinction between research and workshops, emphasizing that the workgroup focuses on organizing ideas and providing solutions.
+
+Workshop and Async Start: Ayo announced that asynchronous activities and workshops will begin next week, with the first workshop session happening during the next call.
+
+Town Hall Update: Peter recommended presenting progress made so far at the Town Hall, even if limited, as similar challenges are likely being faced by other workgroups.
+
+
+
+#### Decision Items:
+- We agreed, through a poll vote during the call, to focus on AI ethics, AI sandbox, and Gamers Guild for research.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Martin to implement corrections for the last meeting documentation before adoption.
+ [**assignee**] Martin Rivero [**status**] todo
+- [**action**] Gorga to submit research on AI agents. [**assignee**] Gorga Siagian [**status**] todo
+- [**action**] Ayo to contact Kateri and Mikasa to confirm their availability for documentation and workshop review. [**assignee**] Ayo [**status**] todo
+- [**action**] Effiom to follow up with Kenichi and Clement.
+ [**assignee**] Effiom [**status**] todo
+- [**action**] Gorga to represent the Gamers Guild and follow up asynchronously.
+ [**assignee**] Gorga Siagian [**status**] todo
+- [**action**] Ayo to present at the Townhall.
+ [**assignee**] Ayo [**status**] todo
+- [**action**] All members should check the working document to know their roles [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** TH Update , Guilds , Analysis, AI ethics, Gamers Guild, AI sandbox, Workshop, research
+- **emotions:** Friendly, productive
 
 
 ## Wednesday 29th January 2025
