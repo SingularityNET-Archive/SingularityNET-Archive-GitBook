@@ -4,6 +4,40 @@ description: Mon 29th Sep - Sun 5th Oct 2025
 
 # Week 40
 
+## Monday 29th September 2025
+
+### Strategy Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Ayo [**facilitator**], Kateri [**documenter**], Effiom, Jeffrey Ndarake, Gorga Siagian, PeterE, martinsoki
+- **Purpose:** Monthly meeting update
+
+- **Working Docs:**
+  - [Raw Response from the research](https://docs.google.com/spreadsheets/d/1Bn_HzN1P-VyiZza8dCEAwhSwLYfjWy7kVRdAYHewIAM/edit?usp=drivesdk)
+  - [Governance Dashboard](https://singularitynet-governance-dashboard.vercel.app/dashboard/proposals)
+
+#### Narrative:
+The Strategy Guild call began with a review of the previous meeting's summary, confirming most action items done and completed while noting one pending. 
+
+Budget Update and Strategic Planning: Effiom reported that the Strategy Guild's budget has been cut by 50%, leaving them with $400 for the upcoming quarter. The budget will primarily cover administrative expenses, and the guild plans to continue holding meetings while shifting to asynchronous follow-ups for research initiatives. Effiom expressed concern over objections to the budget proposal despite the reduced amount.
+
+Workshop Update and Feedback: Kateri shared insights from the workshop, highlighting that ten participants contributed to discussions about challenges faced by their work groups. Key issues included insufficient budgets and the irregular scheduling of meetings, which made it difficult for members to stay engaged. Suggestions for improvement focused on increasing collaboration among work groups, although many suggestions were beyond their control (insufficient decision).
+
+Research: Ayo gave update on behave of Clement, he noted that the research is progressing and currently we are in the stage where the research survey is being distributed to specific teams. The collaboration involves several circles, including data analytics, operation, dev outreach, review and IT, which enhances the research's scope. Deep funding wants to make sure that this research remains an ongoing research and Ayo ensure the workgroup that before mid-October it should have been conducted.
+
+Budget and Performance Review: Effiom discussed the quarterly reports, noting eight thumbs up and one downward vote regarding the guild's performance. We went through the Guild proposal, budget and the comment on the governance dashboard.
+
+A.O.B: Ayo announce that anyone with an idea that would love to be funded should communicate on our channel, so it could be included in the funding proposal
+
+
+#### Action Items:
+- [**action**] Kateri will double-check the action item regarding Omolola presentation to confirm if it was agreed upon. [**assignee**] Kateri [**due**] 29 September 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:**  research, Governance Dashboard, Deep Funding,  Budget Proposals 
+- **emotions:**  Collaborative
+
+
 ## Tuesday 30th September 2025
 
 ### Ambassador Town Hall
