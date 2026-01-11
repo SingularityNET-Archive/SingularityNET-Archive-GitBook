@@ -273,3 +273,44 @@ completion of Module 3 - Kenichi has shared the link for the Module 3 presentati
 #### Keywords/tags:
 - **topics covered:**  Process improvement, presentation series, role assignment, Decision Making Process, Facilitation, portfolio, Assessor, content creation roadmap
 - **emotions:**  Collaborative
+## Friday 11th July 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, photogee, Mikasa, advanceameyaw, Eric Davies, esewilliams, kenichi, CJFrankie, LordKizzy
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- LordKizzy opened the Marketing Guild call and led a discussion on how to better structure member contributions toward deliverables. Kenichi highlighted the importance of aligning deliverables with broader initiatives rather than assigning tasks to individuals, encouraging members to contribute based on their skills and initiative needs. In contrast, LordKizzy raised concerns about the lack of structure, noting that it could lead to member inactivity or overlapping responsibilities. To address this, he proposed splitting the guild into two groups of four, with each group taking ownership of one initiative and internally assigning roles as needed.
+
+Three possible initiatives were proposed for the quarter: the Podcast, the Scavenger Hunt, and Events. The Podcast initiative was already agreed upon, while the Scavenger Hunt, introduced by Eric Davies, involves a Discord-based game that drives engagement through quizzes tied to videos and articles. The Events initiative was considered less practical due to budget constraints. Kenichi argued it should remain an open contribution activity rather than a dedicated team initiative, with members rewarded individually based on actual contributions.
+
+Ultimately, it was agreed that the guild would focus on just two initiatives this quarter: the Podcast and the Scavenger Hunt. Each group will receive 35% of the total budget, with the remaining budget distributed separately. Members within each group will decide how to split their allocation and assign tasks. Past contributions, like Gorga’s graphics, will be treated as extra activities and considered for compensation separately.
+
+The team discussed using a shared spreadsheet to track upcoming events and related contributions. There was also a suggestion to move future meetings to a bi-weekly schedule, though this would only happen after the new structure is finalized. The team will reconvene next week to finalize groups and begin execution.
+
+#### Decision Items:
+- It was agreed that the guild would focus on just two initiatives this quarter: the Podcast and the Scavenger Hunt
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 18 July 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 18 July 2025 [**status**] todo
+- [**action**] Mikasa to handle the review of attendance for the last quarter [**assignee**] Mikasa [**due**] 18 July 2025 [**status**] todo
+- [**action**] CJfrankie to explore non-ecosystem projects to find opportunities for speaking engagements related to SingularityNet [**assignee**] CJFrankie [**due**] 18 July 2025 [**status**] todo
+- [**action**] Eric Davis to send links and metrics for the first two episodes of the podcast [**assignee**] Eric Davies [**due**] 18 July 2025 [**status**] todo
+- [**action**] Advanceameyaw to provide updates on the Afro multilingual literacy drive next meeting. [**assignee**] advanceameyaw [**due**] 18 July 2025 [**status**] todo
+- [**action**] Ese Williams to restructure the board for July based on the new initiatives. [**assignee**] esewilliams [**due**] 18 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Marketing Guild Distribution Structure
+- **emotions:** Interesting, contributive,  Understanding.
