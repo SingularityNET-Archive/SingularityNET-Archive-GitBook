@@ -4,6 +4,47 @@ description: Mon 11th Aug - Sun 17th Aug 2025
 
 # Week 33
 
+## Wednesday 13th August 2025
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, LordKizzy, CollyPride, osmium, Alfred Itodele, Tevo, PeterE, The white nile, advanceameyaw, jeff
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+  - [Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [Enhancing Search Engine Optimization for the Ambassadors Program proposal](https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing)
+  - [AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. ](https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. 
+
+-  Address concerns; Gov-Dash / SingularityNET Ambassadors Governance Framework. 
+- AOB Open discussions: Operations moving forward,
+identify and establish priorities,
+New proposals system redesign,
+Onboarding Devs
+
+#### Discussion Points:
+- UPDATE STATUS ON DEVELOPMENT: Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access: Tevo outlined the current status of a project proposal and presented updates on the call he had with REIMS, noting his role in delivery assurance to ensure quality outputs. He expressed concerns about new members struggling to find relevant information due to the complexity of terminology used in the community. To address this, he suggested implementing a language model to facilitate easier access to information.
+- AGI Integration and Hackathon Strategy: Tevo outlined the opportunity to integrate their project with AGI's Woo agent and leverage the upcoming hackathon for visibility and support. He suggested submitting a proposal to Project Catalyst to improve information access within the community. Guillermo discussed the development of multiple AI agents, including an onboarding agent, and the need for collaboration on these initiatives. Colleen Pridemore mentioned her participation in the hackathon and her work on an ASI agent called Quantum Onboarder. Guillermo reviewed a funded project that achieved its last milestone, emphasizing its governance aspect and the use of open-source resources. Tevo shared a proposal link, prompting discussions on how to complement existing efforts. Guillermo noted the absence of SingularityNET or ASI integration in the proposal and explored ways to incorporate their branding and support from the foundation. The conversation centered on the development of agents in the ASI framework, with Guillermo highlighting the ability to create agents with specific characters and profiles. Tevo inquired about the distinctions between different agent types, and Vasu explained the Agentverse as a marketplace for agent creation and deployment. Jeff expressed interest in utilizing existing data for onboarding processes without retraining agents. Tevo expressed the need for clarity on whether the team would focus on a single project or multiple initiatives, emphasizing the importance of having their own agency outside the ASI 1 platform. Guillermo highlighted the necessity of deploying agents on the Agentverse and discussed the potential for using existing governance agents.
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Tevo to discuss the integration of the Governance dashboard with the treasury [**assignee**] guillermolucero [**due**] 20 August 2025 [**status**] in progress
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 20 August 2025 [**status**] todo
+- [**action**] Tevo will assess the capability of REIMS in the meeting scheduled for August 7 and provide a status update in the next call [**assignee**] Tevo [**due**] 13 August 2025 [**status**] done
+- [**action**] 
+Tevo will write the proposal for Project Catalyst, focusing on the onboarding agent and platform integrations, before the deadline on the 18th. [**assignee**] Tevo [**due**] 20 August 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, SEO, Governance Dashboard, Status update, Project Management, Project catalyst
+- **emotions:**  Understanding.,  Satisfaction , Lengthy
+
+
 ## Thursday 14th August 2025
 
 
