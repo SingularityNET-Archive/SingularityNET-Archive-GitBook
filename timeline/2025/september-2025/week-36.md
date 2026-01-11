@@ -52,6 +52,7 @@ There was clarification around grounded theory coding that was stated in the Q4 
 - **emotions:** collaborative, deliberative, forward-looking
 ## Wednesday 3rd September 2025
 
+
 ### Education Workgroup
 
 - **Type of meeting:** Biweekly
@@ -92,6 +93,62 @@ The need for a dedicated website to host ASI Academy content sparked a thoughtfu
 #### Keywords/tags:
 - **topics covered:** ASI Academy, Governance Module, Spin-off Videos, Proposal Planning, CCCP extension, Governance series, Q4 2025 budget, Q3 2025 quarterly report
 - **emotions:**  Collaborative,  forward-looking,  informative
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, LordKizzy, Jeffrey Ndarake
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+  - [Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [Enhancing Search Engine Optimization for the Ambassadors Program proposal](https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing)
+  - [AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. ](https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. 
+
+-  Address concerns; Gov-Dash / SingularityNET Ambassadors Governance Framework. 
+- AOB Open discussions: Operations moving forward,
+identify and establish priorities,
+New proposals system redesign,
+Onboarding Devs
+
+#### Discussion Points:
+- UPDATE STATUS ON DEVELOPMENT: Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access: Guillermo and Lordkizzy addressed the ongoing development of the event scheduling system, expressing concerns over the lack of updates from Tevo's team. They agreed on the necessity of setting a deadline for the project to ensure progress and discussed the importance of onboarding new developers to mitigate future challenges. The conversation also touched on the potential integration of governance tools for decision-making.
+- UPDATE STATUS ON DEVELOPMENT: Enhancing Search Engine Optimization for the Ambassadors Program; Lordkizzy reported that the SEO handbook and final report are complete, and training has been conducted with the video workgroup. He plans to reach out to the writers, marketing, and education workgroups for further training sessions. Lordkizzy also highlighted the importance of ensuring that social media managers are aligned with the new guidelines to achieve clear outcomes. Guillermo discussed the necessity of translating research into practical applications that add value, rather than merely engaging in political processes. he pointed out that past initiatives, such as inclusive research, have not been effectively implemented, which undermines their potential impact. The group stressed the importance of focusing on onboarding and education to ensure that marketing strategies are effectively utilized. Guillermo emphasized the importance of coordination in their upcoming workgroup sync call, particularly regarding video marketing and education initiatives.
+- UPDATE STATUS ON DEVELOPMENT: Governance AI Agents: Guillermo shared progress on a governance agent developed for a hackathon, which has been deployed and tested within their governance framework. The team aims to reshape this agent for further integration and testing. Guillermo discussed their successful hackathon experiences, where they built an MVP and a website in less than 48 hours, integrating Ocean Protocol and Filecoin. They noted the need for better marketing and communication to leverage these achievements and attract more developers. He also highlighted the importance of creating educational materials to share their processes and insights.
+
+@CC Agent / Governance Agent Reaserch Phase #1
+Nextgen Agents Hackathon
+https://dorahacks.io/hackathon/nextgen-agents/detail
+Reaserch Phase: Agent integration with ICP governance framework.
+Nextgen Hack Links and details https://dorahacks.io/buidl/31544
+
+Agente Build Link > https://agentverse.ai/agents/details/agent1qt378ffm3572qgegcdlkyjapzu8hxw3na7mwjakdfz9w24sm6jx92uspta6/profile
+
+
+Aleph Hack / Share and showcase Result from LatAm Participation. Objective, strategic outreach, onboading and fueling regional adoption of ASI Stack. Target new collaborations and participation in Hacks throught Q4.
+
+Aleph Hack Links and details https://dorahacks.io/hackathon/aleph-hackathon/buidl
+MVP Build > https://v0-transport-latam-app.vercel.app/
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo provided an update on the Gov Dash project, highlighting its recent deployment on GitHub. They noted a shift in focus to simplify the tool by incorporating necessary features like timelines, links, and budget tracking, while ensuring that all guild members can collaborate on the report through Google Docs. The team is also working on refining the user interface and addressing feedback from previous iterations. Guillermo are developing a video tutorial to assist users in creating proposals, which will include closed captions and links to a kit book. Lordkizzy raised a question about distinguishing between different types of reports, prompting a discussion on the use of labels and tables to categorize proposals effectively. The team is focused on improving mobile functionality and simplifying the proposal process.
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Tevo to discuss the integration of the Governance dashboard with the treasury [**assignee**] guillermolucero [**due**] 17 September 2025 [**status**] in progress
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 10 September 2025 [**status**] todo
+- [**action**] 
+Tevo will write the proposal for Project Catalyst, focusing on the onboarding agent and platform integrations, before the deadline on the 18th. [**assignee**] Tevo [**due**] 20 August 2025 [**status**] done
+- [**action**] Lordkizzy will follow up with the writers workgroup & marketing guild regarding the SEO training feedback.  [**assignee**] LordKizzy [**due**] 10 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, SEO, Governance Dashboard, Status update, Project Management, Project catalyst
+- **emotions:**  Understanding.,  Satisfaction , Lengthy
 
 
 ## Thursday 4th September 2025
