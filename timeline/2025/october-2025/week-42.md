@@ -6,6 +6,7 @@ description: Mon 13th Oct - Sun 19th Oct 2025
 
 ## Wednesday 15th October 2025
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -91,6 +92,35 @@ We note also that for Q1 2026, there will be no formal budget consent process, a
 #### Keywords/tags:
 - **topics covered:** AI ethics, token price, open source tooling, Knowledge Graph, Knowledge management across the singularityNET ecosystem, Open source, meeting summary quality, structured vs unstructured data, semantic analysis, sentiment analysis, data analysis vs graph analysis, community data verification, Engagement and Reputation Systems, contribution, Participation, Graph RAG, AI Sandbox/Think Tank, documents in meeting summaries, topic tags, decision tracking, weighting, centrality, clustering, path analysis, degree analysis
 - **emotions:** interesting, wide-ranging, Discursive, analytical, expansive
+
+
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], UKnowZork [**documenter**], Gorga Siagian, Alfred Itodele, Slate, Zalfred, osmium
+- **Purpose:** Bi-weekly Meeting of the Education Workgroup
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Clarifying the approval status and next steps for the ASI Academy project: 
+
+Initially, there was confusion over whether the project had been approved and if a vote had been taken. Several members confirmed that while no formal vote occurred, the group had previously reached consent to proceed with Osmium’s proposal as the quarter’s project, with no objections raised at the time. The misunderstanding stemmed from differing recollections of the previous meeting and documentation.
+- Budget and consent process:
+
+reminders that any major budget changes exceeding 5% would require a budget change request involving the wider community. Osmium explained the ASI Academy’s structure, its phases, and deliverables, including educational materials, videos, and a detailed roadmap. He also clarified that while he would consult with the ASI Foundation for guidance, the Education Guild would still be responsible for developing and executing the project’s content. Goga and others emphasized the need for transparency on which parts of the project Education Guild members could contribute to, prompting Osmium to promise a blueprint and workflow for review at the next meeting.
+- Impact of the falling AGIX token price on project payments:
+
+Members agreed that since the value of AGIX has dropped significantly, operations and payments related to the ASI Academy should be temporarily paused until the token price recovers to around 0.28. However, administrative tasks and minimal operational payments would continue to prevent delays. Some members expressed frustration over delayed payments from past quarters but ultimately agreed that the pause was a practical step.
+- Hosting and documentation roles for upcoming meetings:
+
+Next session, Osmium will host, and UknowZork will document.
+Kateri and Ese will take over in the following session. 
+
+
+#### Keywords/tags:
+- **topics covered:** ASI Academy, Consent Process, AGIX rate, Q4 2025 budget, low token price
+- **emotions:**  Collaborative,  Need for Clarity  ,  forward-looking,  informative, Only a few of those present spoke
 
 
 ## Thursday 16th October 2025
