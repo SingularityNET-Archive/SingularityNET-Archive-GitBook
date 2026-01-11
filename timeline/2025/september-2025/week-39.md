@@ -80,3 +80,79 @@ Stephen Whitenstall emphasized the need to interpret data semantically, particul
 #### Keywords/tags:
 - **topics covered:** Graph data, JSON data into graph data
 - **emotions:** Interactive, detailed, educative
+## Saturday 27th September 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Slate [**facilitator**], devon [**documenter**], LordKizzy, Gorga Siagian, rebel, onfroy, Kateri, martinsoki, Slate
+- **Purpose:** To review the Q4 2025 budget request breakdown, showcase prototypes (Visual Glossary and Gamified Portal), assign new map creators, and discuss Roblox publishing changes.
+- **Working Docs:**
+
+#### Discussion Points:
+- Q4 2025 budget feedback & Visual Glossary Launch: 
+
+Slate opened with feedback on our Q3 2025   report and Q4 2025 budget from the governance dashboard, noting a comment about the visual glossary's current disconnect from Ambassador Program terminology. He showcased the prototype of the Visual Glossary, explaining how it demonstrates terms like “XP System” and “Quest System” using animated visuals. The glossary is intended to educate users through interaction and UI animations.
+- Visual Glossary Budget Breakdown and Development Approaches:
+
+The budget request for the glossary is $300, covering UI, animation, glossary entries, and interactivity. Slate described two implementation options:
+
+Option 1: Gamers Guild selects glossary terms, builds animations (Canva/GIFs), and adds entries manually.
+
+Option 2: Launch a form/survey to gather term suggestions from guilds and use those inputs to prioritize entries.
+A consensus was formed to use both methods, starting with a curated set and expanding via community submissions. The goal: 10 entries with animations by end of quarter.
+
+A separate line item was proposed for glossary icons and gamified UI assets, mainly to allow flexible use of funds and clearer budget categorization. This item is part of the visual glossary development stream.
+- Gamified Portal Demonstration
+
+Slate reintroduced the Gamified Portal, a Zealy–DeWork hybrid platform for XP-based engagement. Users complete quests, explore tools, and earn XP; admins from each guild can manage tools, quests, and review submissions via their dashboard. He suggested that the Visual Glossary could either be:
+
+Integrated directly into this portal,
+
+Kept separate,
+
+Or handed to the Education Guild for wiki integration.
+
+The budget request for this was $450, covering front-end, back-end, testing, UI polishing, and community feedback handling.
+- Admin & Coordination:
+
+Slate presented the admin & coordination budget line ($360) covering:
+Weekly syncs
+Task tracking
+Community coordination
+Dework usage & announcements
+
+Concerns were raised about whether it could accommodate all documentation and announcement tasks. A suggestion was made to rotate the announcements roster, and Gorga volunteered to set it up.
+- Roblox Publishing Policy Update
+
+Slate discussed new Roblox publishing restrictions (effective Sept 30, 2025), which require experiences to be verified via a Content Maturity Questionnaire. Unverified games will be marked "Unplayable." As a result, no new department budgets were requested this quarter. The team agreed to limit new builds temporarily until policy impact becomes clearer.
+- New Map Creator Assignments:
+
+Based on activity and past builds, the next department builders for the central river area are:
+Kizzy and Devon
+They are tasked with:
+Extending the water area
+Adding a bridge and creative elements (e.g., boats, signs)
+Designing an entrance to the new university section
+Slate granted them Roblox edit access during the call. Onfray needs to attend two consecutive
+calls to get the Gamertag.
+- Writers WorkGroup Department Creation Updates: 
+
+Kizzy presented finalized animations for the Writer’s Workgroup:
+All characters are animated and placed in respective areas (canteen, study, meeting room, social media). Dialogue animations are partially implemented, with a plan to expand them further. Roaming effects and transitions between rooms were also being tested.
+
+#### Decision Items:
+- No new Roblox departments will be added this quarter
+  - [**rationale**] Due to platform verification delays.
+- Rotation of Tasks 
+
+#### Action Items:
+- [**action**] Map creators  [**assignee**] LordKizzy, devon [**due**] 25 October 2025 [**status**] todo
+
+#### Game Rules:
+No games played 
+
+
+#### Keywords/tags:
+- **topics covered:** DepartmentUpdate, visual glossary, Gamified Portal, XP system, Map creation updates, Roblox publishing, Q4 2025 budget, Q3 2025 quarterly report, Budget objections
+- **emotions:**  Collaborative,  Determined,  informative
