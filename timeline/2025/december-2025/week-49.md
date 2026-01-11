@@ -245,3 +245,36 @@ Vani shared information about a call for papers from the journal AI and Ethics o
 #### Keywords/tags:
 - **topics covered:** Future Planning, Decentralized Autonomous Communities, AI Initiatives and Ethics, Q4 2025 quarterly report, Governance Dashboard, Zarqa, OpenCOG Hyperon, EthosGuard, AI agents, Discord bots, Archives WG, AI and emotion, AI And Ethics journal
 - **emotions:** Educational,  Collaborative,  informative
+## Friday 5th December 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Biweekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Kateri
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.
+- New Initiatives and Guild Restructuring:
+Lordkizzy outlined plans for restructuring the Guild, which will be based on attendance and deliverables. He introduced a quiz contest aimed at increasing community engagement and stated that the initiative should be launched soon, and Gorga agreed to assist with the graphics for the contest. Lordkizzy informed attendees that payments for November and December would be processed the following Thursday. The session concluded with plans to finalize the initiative and a farewell until the next year.
+
+#### Decision Items:
+- The team decided to create a new quiz contest initiative for this quarter or next 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Gorga Siagian to create the graphic for the quiz contest. [**assignee**] Gorga Siagian [**due**] 9 January 2026 [**status**] todo
+- [**action**] LordKizzy to speak to Ese to conclude on the quiz contest initiative for this quarter or next quarter. [**assignee**] LordKizzy [**due**] 6 December 2025 [**status**] todo
+- [**action**] Lordkizzy to send out payments for November and December by next Thursday. [**assignee**] LordKizzy [**due**] 11 December 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** quiz, restructure of Marketing Guild
+- **emotions:**  Understanding.,  Collaborative, Businesslike.
