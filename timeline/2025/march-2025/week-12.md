@@ -308,6 +308,7 @@ Nil
 ## Thursday 20th March 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -413,6 +414,57 @@ Writers
 #### Keywords/tags:
 - **topics covered:** showcase template, virtual box, system configuration, resourse management, Ensemble functionality, Testnet, wormhole code, Appliance, installation, Nunet, Q2 2025 budget
 - **emotions:** Interactive, Productive,  insightful,  informative
+
+
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** CollyPride [**facilitator**], photogee, CallyFromAuron [**documenter**], CollyPride, photogee, LordKizzy, Eric Davies, Sucre n Spice, Love, CallyFromAuron, AshleyDawn, Evelyn, Jeffrey, martinsoki, Santos, Maxmilez, Kateri
+- **Purpose:** Regular biweekly meeting of Onboarding WG
+- **Working Docs:**
+  - [Onboarding WG quarterly report](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit)
+  - [Context-setting for Core Contributor decision on Q2 2024 budgets](https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing)
+  - [DRAFT Onboarding WG budgets](https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Onboarding to Decentralization Analysis Update
+
+Kizzy mentioned that they (Clement, Cjfrankie, and Vani) had a meeting and are currently working on the onboarding to decentralization analysis.  Once completed, it will be sent to CJ to create the final doc.
+
+- Q2 2025 Budget
+
+Due to token price drop to around $0.20, the focus group have had to rethink the Q2 budget.
+Key changes:
+- Miro, GitHub, and Dework management will be less, since there is less work being down and therefpre fewer payments to process.
+- Monthly meetings rather than forttnightly.
+- No budget foir document creation/contributing, delivering Town Hall upodates, or writing a Q2 quarterly report - the focus group will fold these tasks into their work.
+- Slight reduction for the Onboarders team
+- We will maintain having the skillshare session, however, as it is not only useful, but also bringsw the community together so can be a morale-boost.  
+
+Obviously this was not the budget we submitted for Q2, but we agreed that the redyuctions are necessary - so unless token price rises again, changes will take effect as of April.
+
+- Focus of meetings
+
+Vani noted that the main focus of our work will thus become the work of the Onboarders, so this will be the focus of meetings next Quarter; tthis could be a little boring for other members unless we make a point of making space in meetings for people to comment and discuss what the Onboarders are doing.
+
+The Onboarders will also need to organise async in Discord.
+
+#### Decision Items:
+- We agreed to implement our reduced / fitted budget for Q2
+  - [**opposing**] unless token price rises again to the $0.30 at which we calculated the budget that we originally submitted.
+
+#### Action Items:
+- [**action**] Kizzy to complete the “Onboarding to Decentralization analysis” before the next meeting.
+ [**assignee**] LordKizzy [**due**] 31 March 2025 [**status**] todo
+- [**action**] Kizzy to rework the onboarding facilitation and documentation roster  to tsake account of the shift to monthly meetings
+ [**assignee**] LordKizzy [**due**] 31 March 2025 [**status**] todo
+- [**action**] Vani will provide an update on the fitted budget in the next meeting on April 3rd, to confirm details according to what token price is like by then. [**assignee**] CallyFromAuron [**due**] 3 April 2025 [**status**] todo
+- [**action**] Colleen will DM Duke to confirm he can facilitate the first meeting of Q2, on April 3rd. [**assignee**] CollyPride [**due**] 31 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Documentation Roster, low token price, Budget fitting, Q2 2025 budget
+- **emotions:**  Collaborative,  forward-thinking, Concern, Productive, Openness
 
 
 ## Friday 21st March 2025
