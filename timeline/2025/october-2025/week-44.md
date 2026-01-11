@@ -119,3 +119,29 @@ No summary available due to limited meeting data.
 #### Keywords/tags:
 - **topics covered:** time zones, AI games, BGI-25 Virtual Unconference, BGI-25 hackathon, ASI Chain
 - **emotions:** quiet, low attendance, thoughtful, retrospective
+## Wednesday 29th October 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Gorga Siagian [**facilitator**], Kateri [**documenter**], LordKizzy, Alfred Itodele, UKnowZork, Slate, osmium, ese, Gorga Siagian, Kateri
+- **Purpose:** Biweekly meeting updates 
+- **Working Docs:**
+  - [Lord kizzy governance series slide](https://cdn.discordapp.com/attachments/1150822206281105529/1433136554276032715/singularitynet_governance_slides_20250820160452.pptx_2.pdf?ex=691412ac&is=6912c12c&hm=e966fc51dd8976d71a53563d9ad77c47acb0d8a2af2fb639b87f24f543d89612&)
+
+#### Discussion Points:
+- CCCP Program: Slate mentioned that the content creation has been finalized, although a few corrections still need to be made to the infographic formatting. He explained that progress was placed on hold due to the current token price crisis and proposed that we move to a monthly meeting schedule. We can move to the next phase which is putting the content on the website.
+
+- Visual Glossary: Slate proposed Visual Glossary initiatives, he noted that it is a 100 USD task and we could add it to out deliverables for this quarter. We agreed on the initiatives, noting that we need deliverables for this quarter. 
+
+- ASI academy: Gorga recalled that during the previous meeting, the group agreed to pause all payment tasks related to the ASI Academy until the token price improves. However, he noted that Osmium has not yet created the corresponding task, which is causing a delay in implementing the pause decision. Osmium noted that he should be paid for creating the blueprint of the ASI academy.
+- Governance Webinar series: LordKizzy asked the Education Guild to provide clarity on their current plans and funding availability. He explained that this information is needed to determine whether the guild is still able to fund initiatives, so that the governance webinars team can conclude and properly close off ongoing initiatives. Osmium noted that currently they are at the end of the second phase, and it just remains to host the Webinar.
+- Collaboration with onboarding workgroup: Slate noted that he joined onboarding workgroup last meeting and there was distribution of task but not was given to education guild. Kateri noted that Sucren gave education guild a certain amount to contribute for the success of the collaboration. 
+- Osmium argued that the Glossary initiative presented by Slate should not be funded as it was not presented in this quarter's budget, but other members explained that it is a low budget initiative and implementing it won't affect our plans for this quarter
+
+#### Action Items:
+- [**action**] Osmium to create the task plan for members to be assigned and work on ASI Academy activities. [**assignee**] osmium [**due**] 12 November 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CCCP, ASI Academy, Token price, visual glossary, Governance series, Onboarding WG
+- **emotions:**  Need for Clarity
