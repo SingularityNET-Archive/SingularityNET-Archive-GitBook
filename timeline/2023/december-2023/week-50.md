@@ -465,3 +465,64 @@ Games, Land IO, Putt Party, Onboarding, Continuous Onboarding, Dr Ben Goertzel's
 Onboarding Workgroup's Miro board [https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14](https://miro.com/app/board/uXjVM5jyehQ=/?moveToWidget=3458764559340088151\&cot=14)
 
 ***
+## Thursday 14th December 2023
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Sucre n Spice [**facilitator**], LordKizzy [**documenter**], cjfrankie, LadyTempestt, Sucre n Spice, CallyFromAuron, PeterE, LordKizzy
+- **Working Docs:**
+  - [Twitter thread draft google doc](https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing)
+  - [SNET Onboarding WG Task Reward Sheet](https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG_LkKvFp5tRER30sxT_wGV3ySt-MZ4/edit)
+  - [Quarterly Workgroup Budget Calculator](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing)
+  - [GETTING STARTED CHANNEL / overview](https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing)
+  - [Onboarding WG - how can we support other WGs to onboard new people in their meetings](https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing)
+  - [Session plan for Onboarding sessions with other WGs](https://docs.google.com/document/d/1mwNfAaQd3uvMO1T9EQXnnOXQ5jtGkst8mEteZBM6uiI/edit?usp=sharing)
+
+#### Town Hall Updates:
+-Results from survey - quick outline, thank people for participating, and share doc
+-Our quarterly report - share it
+-Continuous onboarding sessions - say that analysis is coming, and thank the WGs we spoke to
+-Say when our next meeting is (11th January 2024)
+
+
+#### In this meeting we discussed:
+- Minutes of last Meeting 
+- Action items from last meeting 
+- Next Ambassador Town Hall Update
+- Twitter thread of the contents of the Getting started channel 
+- Continuous Onboarding
+- Onboarding Survey 
+- Q4 Quarterly report 
+- Budget for Q1
+
+#### Decision Items:
+- We agreed on rotating the meeting facilitation in Q1 of 2024.
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to present the Survey analysis in the next Town Hall
+  - [**opposing**] None
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed to take this meeting as the last meeting of the year
+  - [**opposing**] None
+- We agreed to present the Q4 Quarterly report in the next Town Hall 
+  - [**opposing**] None
+
+#### Action Items:
+- [**action**] Sucren  to paraphrase the comments in the FAQ. [**assignee**] Sucren [**due**] 2024-01-11 [**status**] todo
+- [**action**] Vani to meet Tevo and Tommy and try getting them to drop their feedback on the Continuous Onboarding Survey on Miro. [**assignee**] Vanessa [**due**] 2024-01-11 [**status**] in progress
+- [**action**] Vani to speak to Tevo on inputting the necessary changes to the Getting Started Channel [**assignee**] Vanessa [**due**] 2024-01-11 [**status**] todo
+- [**action**] Love and Onyeka to create an infographic for the Twitter thread Doc.  [**assignee**] LadyTempestt, LordKizzy [**due**] 2024-01-11 [**status**] in progress
+- [**action**] Peter to speak to Fly and try getting him to asynchronously drop his feedback on the Continuous Onboarding Survey on Miro [**assignee**] PeterE [**due**] 2024-01-11 [**status**] todo
+- [**action**] Sucren to speak to Tommy and try getting him to asynchronously drop his feedback on the Continuous Onboarding Survey on Miro. [**assignee**] Sucre n Spice [**due**] 2024-01-11 [**status**] todo
+
+#### Learning Points:
+- Due to the possibility of the AGIX token depreciating in price, it would be wise to plan for the worst case scenario while planning on Q1 Budget.
+
+#### To carry over for next meeting:
+- The changes made to the Getting Started Twitter thread
+- The Q1 Budget discussion
+
+#### Keywords/tags:
+- **topics covered:** Guilds , Roles, Continuous Onboarding, WG reserves, token price, onboarding survey, Q4 2023 quarterly report, Getting Started twitter thread
+- **emotions:** Collaborative, speedy , funny , Thoughtful , Friendly
