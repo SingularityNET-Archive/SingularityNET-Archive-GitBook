@@ -4,6 +4,44 @@ description: Mon 27th Oct - Sun 2nd Nov 2025
 
 # Week 44
 
+## Monday 27th October 2025
+
+### Strategy Guild
+
+- **Type of meeting:** Monthly
+- **Present:** Ayo [**facilitator**], Kateri [**documenter**], UKnowZork, Effiom, Alfred Itodele, Ayo, Kateri
+- **Purpose:** Monthly meeting update
+- **Working Docs:**
+  - [Agenda Document](https://docs.google.com/document/d/1A9xLFXJ_5Weq3CN_S-sXG0blzZxkMEKd8Z_qcET62Eg/edit?tab=t.0)
+  - [29th Sept meeting summary](https://docs.google.com/document/d/1i0MFJr5uU0-EzjoDYF4yuI5iC5FqcQJRla6D3zd9js4/edit?usp=sharing)
+
+#### Narrative:
+The meeting faced a slight delay due to technical issues with Zoom, leading participants to switch to Google Meet. Once all attendees were present, the meeting began with the review of agenda items.
+The discussion then moved to Q4 budget proposal updates. Since most members had already attended the previous governance call, the group agreed to proceed directly with the budget outlook.
+
+Q4 Outlook: Ayo spoke about Q4 tasks and encouraged everyone to begin their work without delay. Effiom reported that the workshop materials and setup from the previous quarter were successful and well-prepared. The focus for this quarter will be to gather feedback from workgroups on how they have applied the workshop’s solutions and outcomes.
+
+Token Price & Budget: Ayo emphasized that the Q4 budget allocation is significantly smaller, compounded by a drastic drop in token prices. This shortfall has made it impossible to cover task obligations, raising concerns about how to proceed.
+Alfred stressed that payments should not be withheld despite market volatility. He gave the example of AI Ethics, where withholding payments during a downturn led to even worse outcomes as the token value continued to fall. He cautioned that it is often better to disburse funds when conditions are relatively better.
+Alfred also proposed that payments be made in AGIX (the local token) rather than USD.
+
+This was noted as a good suggestion, with agreement that members should reflect on it and revisit the decision at the next meeting.
+
+TownHall Presentation: Effiom to present the guild update in the townhall meeting.
+
+A.O.B: Ayo shared that the research has officially begun and has already been shared. We are now in the stage of awaiting responses from participants. Further updates will follow as responses come in.
+
+
+#### Action Items:
+- [**action**] Effiom to present the meeting update in the Town Hall meeting [**assignee**] Effiom [**due**] 28 October 2025 [**status**] todo
+- [**action**] Ayo to share update on the research [**assignee**] Ayo [**due**] 24 November 2025 [**status**] todo
+- [**action**] Effiom to follow up on the Q4 task [**assignee**] Effiom [**due**] 24 November 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q4 outlook, Town Hall, Token Price
+- **emotions:**  Determined,  Satisfaction 
+
+
 ## Tuesday 28th October 2025
 
 
