@@ -79,6 +79,7 @@ The number of transcription tasks was reduced from 14 to 11.
 ## Thursday 9th October 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -224,6 +225,51 @@ The meeting concluded on a cooperative and motivated note, with Duke expressing 
 #### Keywords/tags:
 - **topics covered:** Lean Guild Challenge, Content Initiatives, Impact challenge
 - **emotions:**  informative,  insightful,  Collaborative,  forward-looking, Friendly
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Sucre n Spice [**facilitator**], Kateri [**documenter**], LadyTempestt, CallyFromAuron, CJFrankie, Alfred Itodele, UKnowZork, Gorga Siagian, Maxmilez, LordKizzy, Omolola, Ayomi Shuga, martinsoki, Sucre n Spice, Kateri
+- **Purpose:** Regular monthly meeting of Onboarding WG
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Assigning tasks for Q4 
+- Anyone who is not yet a member of the Ambassador program GitHub organization should DM Sucre their GitHub username 
+- Onboarders teams regular update meeting for this month will be held on the 14th, 9:00am UTC. For further discussion, it was acknowledged that members are free to step down from their positions if they wish. 
+- Collaboration with Education Guild on an AMA session: 
+
+Sucre noted that she had chat with Slate of Education Guild, which he indicated strong support for the collaboration. The Idea is to invite representatives from ecosystem spinoffs (e.g. Deep Funding, SophiaVerse, Rejuve, Mind Children, Incantio, and Deep Noise) to engage with the Ambassador Program. The aim is to enable contributors to learn how to participate, contribute, and potentially earn within spinoffs, reinforcing the Ambassador Program’s role across the ecosystem. This quarter’s scope is limited to 3 spinoffs for focused outreach (Mind children, Incantio and Deep noise). It was decided that this engagement will take the form of an AMA session. Members agreed to prepare general questions aligned with the scope of invitation, while participants will have the opportunity to ask random questions towards the end of the session.
+- A.M.A session: The meeting concluded with members being assigned specific responsibilities to ensure the AMA session’s success. See issue https://github.com/SingularityNet-Ambassador-Program/Onboarding-Workgroup/issues/64
+
+A budget of $90 from Onboarding Workgroup was set for the AMA session. The Education Guild agreed to contribute $50 toward the cost but the overall cost went slightly above the initial budget and so we agreed to find a way and cover it.
+
+
+#### Decision Items:
+- October 14th confirmed as the first onboarders group session this quarter; other dates pending confirmation.
+  - [**effect**] affectsOnlyThisWorkgroup
+- The date of the next focus group session will be decided Async 
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] CJ Frankie to document November meeting  [**assignee**] CJFrankie [**due**] 6 November 2025 [**status**] todo
+- [**action**] Zork to document December meeting  [**assignee**] UKnowZork [**due**] 11 December 2025 [**status**] todo
+- [**action**] CJ Frankie to draft the Q4 quarterly report [**assignee**] CJFrankie [**status**] todo
+- [**action**] Onboarders team to meet on the 14th Oct [**assignee**] CJFrankie, CallyFromAuron, LadyTempestt, Sucre n Spice, LordKizzy, Gorga Siagian [**due**] 14 October 2025 [**status**] todo
+- [**action**] Sucre to approach Peter to find out how to reach the new spinoffs. [**assignee**] Sucre n Spice [**due**] 16 October 2025 [**status**] todo
+- [**action**] CJ Frankie to approach Rejuve AI about an AMA, and Kateri and Gorga to contact the other suggested spinoffs [**assignee**] CJFrankie, Kateri, Gorga Siagian [**status**] todo
+- [**action**] Ayomi to create the form for people to submit questions, and the slides (put each question on a slide) for the A.M.A session [**assignee**] Ayomi Shuga [**due**] 31 October 2025 [**status**] todo
+- [**action**] Gorga to create infographic to promote for the A.M.A session [**assignee**] Gorga Siagian [**due**] 31 October 2025 [**status**] todo
+- [**action**] LordKizzy to create the video edit for the A.M.A session [**assignee**] LordKizzy [**due**] 27 November 2025 [**status**] todo
+- [**action**] CJ Frankie to document the the A.M.A session [**assignee**] CJFrankie [**due**] 27 November 2025 [**status**] todo
+- [**action**] Kateri to publicize the A.M.A session [**assignee**] Kateri [**due**] 27 November 2025 [**status**] todo
+- [**action**] Love and Vani to Facilitate the the A.M.A session [**assignee**] LadyTempestt, CallyFromAuron [**due**] 27 November 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** collab with education, spinoffs, AMA session, Mind childern, Deep Funding, Documentation, Q4 quarterly report, Rejuve AI
+- **emotions:** Friendly,  Collaborative
+
+
 ## Friday 10th October 2025
 
 ### Marketing Guild
