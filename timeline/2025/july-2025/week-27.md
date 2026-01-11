@@ -100,6 +100,7 @@ Vasu facilitated a conversation on the frequency of meetings; the group ultimate
 
 ## Friday 4th July 2025
 
+
 ### African Guild
 
 - **Type of meeting:** Weekly
@@ -130,3 +131,48 @@ AOB: Before wrapping up, Advance threw in a refreshing idea: “Why don’t we m
 #### Keywords/tags:
 - **topics covered:** Token price, Meeting attendance, Facilitation, Volunteerism, African guild, Budget
 - **emotions:** welcoming, progressive, relaxed, collaborative
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Gorga Siagian, photogee, Mikasa, advanceameyaw, Eric Davies, esewilliams, kenichi, CJFrankie, UKnowZork, Jeffrey Ndarake, kareem, Kateri, Alfred Itodele, LordKizzy
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Q3 Contribution & Payout Structure (July–Sept 2025)](https://docs.google.com/document/d/1QDXZDUnA1_cr-DeKE79kadjdTEZJ4qPWInKUyzsuKxY/edit?usp=drivesdk)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the Marketing Guild call by welcoming attendees and sharing the agenda for discussion. He prompted participants to review the previous meeting's summary notes.
+- Discussions on Distribution sheet
+LordKizzy provided context on the distribution sheet, highlighting the need to decide whether to implement biweekly meetings and explore ways to reduce responsibilities across all roles, with an emphasis on scaling back tasks such as facilitation and documentation. LordKizzy introduced two proposed distribution models for the Marketing Guild, based on a total quarterly budget of 7,171 AGIX.
+Structure 1 retains the current payment system, where Core members receive 150 AGIX per month, and Taskforce members receive 100 AGIX per month. leaving 1,921 AGIX left to spend on simple, low-budget initiatives with clear deliverables.
+Structure 2 restructures the budget by dividing responsibilities between operations (30%) and initiatives (70%). The operations team is allocated 2,160 AGIX for the quarter. The remaining funds support two initiative groups of four members each, with each group receiving 2,505 AGIX per quarter. This structure enables more strategic funding distribution and clearer task accountability.
+LordKizzy emphasized the need to clearly define responsibilities and finalize the distribution structure within the first week of the month to avoid planning and payment delays, especially given the reduced funding available.
+- Discussion on Zealy and Podcast Initiatives:
+Kenichi raised concerns about the guild's effectiveness, noting that many current activities do not align with marketing objectives, with the podcast being a notable exception. He advocated for each member to propose roles that directly support measurable goals for Q3, suggesting that the podcast should be the flagship initiative.
+Ese Williams agreed with Kenichi on the importance of establishing a clear direction for the marketing guild's initiatives. She expressed concerns about the podcast's current execution, suggesting that the team should start small and scale gradually. Ese also pointed out the lack of measurable impact from the Zealy initiative on their Twitter metrics, indicating a need for better operational and campaign structures.
+LordKizzy reiterated the importance of focusing on outcomes rather than outputs, stressing that without proper execution, the guild's efforts would not yield the desired results.
+Ayo emphasized the need for quick decisions on marketing initiatives, especially the podcast. Ese expressed concerns about the podcast’s challenges and suggested launching multiple initiatives to show progress. Kenichi supported the podcast but highlighted the importance of engaging the community through various platforms. LordKizzy recommended running the podcast alongside another initiative to boost social media activity.
+- Update on GitHub Board:
+Ese indicated that the July board is prepared but requires restructuring, and she noted that June's social media metrics are still under review due to late submissions. She suggested creating a tabular format for Q3 to better track growth or decline.
+
+#### Decision Items:
+- The group decided to form two distinct teams: one dedicated to the podcast and the other to additional initiatives aimed at enhancing social media engagement.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 11 July 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 11 July 2025 [**status**] todo
+- [**action**] Mikasa to handle the review of attendance for the last quarter [**assignee**] Mikasa [**due**] 11 July 2025 [**status**] todo
+- [**action**] Eric Davis to send links and metrics for the first two episodes of the podcast [**assignee**] Eric Davies [**due**] 11 July 2025 [**status**] todo
+- [**action**] Advanceameyaw to provide updates on the Afro multilingual literacy drive next meeting. [**assignee**] advanceameyaw [**due**] 11 July 2025 [**status**] todo
+- [**action**] Ese Williams to restructure the board for July based on the new initiatives. [**assignee**] esewilliams [**due**] 11 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Marketing Guild Distribution Structure, Podcast Intiative,  Zealy sprints , GitHub project board
+- **emotions:** Interesting, contributive,  Understanding.
