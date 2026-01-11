@@ -94,6 +94,49 @@ description: Mon 14th Jul - Sun 20th Jul 2025
 - **topics covered:** Gitbook, Miro Board, Q2 report, Budget, Group Reserve
 
 
+## Wednesday 16th July 2025
+
+### Research and Development Guild
+
+- **Type of meeting:** Monthly
+- **Present:** guillermolucero [**facilitator**], LordKizzy [**documenter**], guillermolucero, LordKizzy, PeterE, kenichi, AJ, advanceameyaw, Alfred Itodele
+- **Purpose:** R&D Updates and Discussions
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+  - [Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [Enhancing Search Engine Optimization for the Ambassadors Program proposal](https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing)
+  - [AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. ](https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+- Review of last meeting summary Action Items
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors. 
+
+-  Address concerns; Gov-Dash / SingularityNET Ambassadors Governance Framework. 
+- AOB Open discussions: Operations moving forward,
+identify and establish priorities,
+New proposals system redesign,
+Onboarding Devs
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.
+- UPDATE STATUS ON DEVELOPMENT: SEO Research: Lordkizzy presented the Audit report for the SEO Research, he also mentioned that his partner is currently working on the Keyword Research and it will be presented once its ready. Here is the link to the report: https://docs.google.com/spreadsheets/d/1GxSr2EboduwfJ9k7uZ4EwrRPz1f_De7Q-NIFQx4WDTE/edit?gid=1312283380#gid=1312283380 
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard: Guillermo provided updates on the governance dashboard. He mentioned an integration of the Governance dashboard with treasury system and plans to have a call with Tevo to address this. he also gave an update of the features of the tool, like: Metrics and analysis integration, Sentiment analysis possibilities on the tool, Quarterly report templates, knowledge graphs, ASI agent integration. Here is the link to the tool: https://governance-dashboard-2.vercel.app/dashboard 
+- Address concerns; Gov-Dash / SingularityNET Ambassadors Governance Framework. Lordkizzy initiated the conversation with a presentation indicating that the project had already been fully paid for at the end of the last quarter, and an additional $350 had been paid out without the guild's knowledge or consent. He also objected to the payment of an extra $600 to this project. Lordkizzy raised concerns about the violation of rules established by the guild to guide our operations and ensure deliverables. Advance shared his concerns about project sustainability and the Guild's decision-making process. He felt that decisions were often centralized and made without the awareness or approval of guild members. He also pointed out that no funding was allocated to sustain the SBD project, which he found unfair compared to the support other projects received. Additionally, he mentioned working for several months without any form of compensation. Kenichi outlined the goals of the revamped Research and Development Guild, focusing on the skills database and the Legacy project as tools for community engagement and governance. He expressed frustration over the lack of support for the ambassador program website and the challenges faced in integrating various projects, particularly due to technical issues with Cardano. Kenichi also noted that the governance dashboard has taken precedence over other projects, which has delayed overall progress. Kenichi highlighted issues regarding project management in R&D, specifically the policy that prohibits one contributor from managing multiple projects and the necessity of having at least two team members per project. Guillermo addressed the issue of the policy, on the necessity of having at least two team members per project. He noted that he has a team member is working with him on the project. 
+
+
+No conclusions were reached during the call, and it was agreed that a follow-up meeting would be held next Wednesday to finalize decisions.
+
+#### Action Items:
+- [**action**] Guillermo Lucero will schedule a call with Tevo to discuss the integration of the Governance dashboard with the treasury [**assignee**] guillermolucero [**due**] 23 July 2025 [**status**] in progress
+- [**action**] Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel [**assignee**] kenichi [**due**] 23 July 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CSDB, Proposals, SEO, Governance Dashboard, Status update, Project Management, Concerns
+- **emotions:**  Understanding.,  Satisfaction ,  Need for Clarity  , Lengthy
+
+
 ## Thursday 17th July 2025
 
 
