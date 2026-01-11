@@ -279,6 +279,7 @@ No Summary Given
 ## Thursday 12th December 2024
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Monthly
@@ -396,6 +397,59 @@ where he highlighted the
 #### Keywords/tags:
 - **topics covered:** AI TOOLSET EXHIBITION, podcast, audio, transcrition, Roadmap of AI Sandbox/Think Tank, Podcastle.ai, Iteration, Iteration form, feedback, implementing tools
 - **emotions:** welcoming, informative, interactive
+
+
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Ayo [**facilitator**], CJFrankie [**documenter**], Sucre n Spice, LadyTempestt, Gorga Siagian, LordKizzy, hogantuso, martinsoki, Effiom, CallyFromAuron, Kateri, Ayo, CJFrankie, AshleyDawn
+- **Purpose:** The final bi-weekly onboarding workgroup meeting for 2024.
+- **Working Docs:**
+  - [Quick reportback / analysis on “Onboarding Journeys” survey](https://docs.google.com/document/d/1j2W_1OSXyAuYpUmQ6mk4d_nRGpHf2KmLjYmAD_sj7fo/edit?tab=t.0)
+  - [Onboarding WG Skillshare Matrix](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit)
+  - [Summary of Onboarding To Decentralization Research](https://docs.google.com/document/d/1NF15X6-1FVTscPAExufM6hwD4scdykIopGFowRJs9hU/edit?tab=t.0)
+  - [Onboarding Journey Quick Survey (Responses)](https://docs.google.com/spreadsheets/d/12yjmzgkJzsUevCvWf_jRrk98iE-GfS6xdHPyExNBX6k/edit)
+
+#### In this meeting we discussed:
+- Agreeing the minutes of the last meeting
+- Skillshare Matrix
+- Action items from the last meeting 
+
+- Holidays
+- Facilitating and documenting next time
+
+- GitHub project board
+
+- Q1 2025 budget - The budget was calculated at an exchange rate of $0.55. If the rate increases, we might be able to restore some items we previously removed to make it fit.
+
+- Onboarding journeys survey: We learned that some of the most pressing challenges people face in their onboarding journey are knowledge gaps, limited internet access, language barriers, and lack of tools to aid productivity.
+- Onboarding to decentralization research 
+
+
+#### Decision Items:
+- We bid farewell to 2024 today, and we decided to resume on the 9th of January, 2025-everyone agreed.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Starting in January, we will be running meetings from a GitHub project board, and to this effect, there won’t be writing of meeting agendas because we’re moving to GitHub.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Love to facilitate on January 9th, 2025, while CjFrankie will document.
+ [**assignee**] LadyTempestt, CJFrankie [**due**] 9 January 2025 [**status**] todo
+- [**action**] All the onboarders team are to write a very brief statement/report for this quarter in the onboarders Discord group.
+ [**assignee**] CallyFromAuron, Sucre n Spice, LordKizzy, CJFrankie, Gorga Siagian, LadyTempestt [**due**] 15 December 2024 [**status**] done
+- [**action**] Ayo and Kateri to update the onboarding to decentralization research by adding a paragraph of how they selected their interviewees.
+ [**assignee**] Ayo, Kateri [**due**] 31 December 2024 [**status**] done
+- [**action**] Anyone who is not yet a member of the Ambassador Program GitHub organisation should DM Sucre for their GitHub username.
+ [**status**] done
+- [**action**] People who have any pending tasks should have them completed on or before Monday.
+ [**due**] 15 December 2024 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** onboarding journeys,  research, skillshare matrix, holidays, Facilitation, documenting, roster, GitHub, project,, meeting agenda, onboarders, knowledge gaps, language barrier, lack of tools, Q1 2025 budget, onboarding to decentralization, token price rise, GitHub board
+- **emotions:** exciting, productive, friendly , informative
 
 
 ## Friday 13th December 2024
