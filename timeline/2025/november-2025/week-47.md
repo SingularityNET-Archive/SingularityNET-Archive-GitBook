@@ -6,9 +6,80 @@ description: Mon 17th Nov - Sun 23rd Nov 2025
 
 ## Tuesday 18th November 2025
 
+
 ### Ambassador Town Hall
 
 No Summary Given
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Tevo [**documenter**], Tevo, PeterE, Effiom, UKnowZork
+- **Purpose:** We develop the Treasury System
+
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764645144083299&cot=10)
+- **Other media:** [Link](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/22/views/2)
+- **Working Docs:**
+  - [All Templates Google Doc](https://docs.google.com/document/d/1UgxHLwrlIBgqgRzG1PgfPut67IpbAMLaSlkVTDNukhQ)
+  - [Treasury Guild Q4 Progress Report](https://docs.google.com/document/d/1rDnu16ymVPio1yK7btbVenzMVCVPHH019FWTPnDFcS0)
+  - [TAWG Q4 Progress Report](https://docs.google.com/document/d/1UgxHLwrlIBgqgRzG1PgfPut67IpbAMLaSlkVTDNukhQ)
+  - [Async and Town Hall Feedback](https://docs.google.com/document/d/1sGYOimg1MFUiDcUvj235oNwbe5ua3f2JGntI4DQAqvE)
+  - [Q1 2026 TG Proposal](https://docs.google.com/document/d/1eH1cxMXsM-1_tDw_gVu9KGt3WGjcSmHvATMA5S0jZcg)
+  - [Q1 2026 TAWG Proposal](https://docs.google.com/document/d/1tPMTevzY87-oIPFooJsOu4k95Zvw9kuj4JvXpH1s7sg)
+
+#### Agenda item 1 - Development Updates - [resolved]
+
+#### Discussion Points:
+- Treasury Automation development continues steadily with AI-assisted coding improving throughput.
+- **Treasury Updates: ** [Youtube Video link](https://www.youtube.com/watch?v=ATkKfbVIGoQ)
+Zoom participant handling and duplicate prevention
+GitHub project portal URL for easier task access
+Improved task status handling and backend synchronisation
+Exchange rate integration into the database
+UX improvements and data cleaning workflows
+- Metadata standards are increasingly critical as multiple networks and workgroups overlap.
+- Working on [Swarm Treasury Proposal](https://docs.google.com/document/d/1HWSSz9WJ8DK58029ZJlGvkO_WpRBF2xASd18_frhUD8) for Project Catalyst F15
+
+#### Decision Items:
+- Maintain development updates as a regularly recorded segment.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 2 - Q4 Progress Reports - [resolved]
+
+#### Discussion Points:
+- AI-assisted drafting is viable but still requires human review
+- Report compilation still takes ~1 hour, highlighting inefficiencies despite template improvements.
+- [All Templates Google Doc](https://docs.google.com/document/d/1UgxHLwrlIBgqgRzG1PgfPut67IpbAMLaSlkVTDNukhQ)
+- [Treasury Guild Q4 Progress Report](https://docs.google.com/document/d/1rDnu16ymVPio1yK7btbVenzMVCVPHH019FWTPnDFcS0)
+- [TAWG Q4 Progress Report](https://docs.google.com/document/d/1UgxHLwrlIBgqgRzG1PgfPut67IpbAMLaSlkVTDNukhQ)
+- Reviewed [Async and Town Hall Feedback](https://docs.google.com/document/d/1sGYOimg1MFUiDcUvj235oNwbe5ua3f2JGntI4DQAqvE) regarding Treasury Reports
+
+#### Decision Items:
+- Reporting documentation remains a shared operational burden across workgroups.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Continue Finalising Reports in Sessions to have collective sense of space
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Submit Progress Reports [**status**] done
+
+#### Agenda item 3 - Q1 Budget and Intention Plans - [carry over]
+
+#### Discussion Points:
+- Budget constraints require careful prioritisation, even with bare minimum we are depleting workgroup funds
+
+#### Decision Items:
+- Coordinate and organise Treasury-related activities async
+  - [**effect**] mayAffectOtherPeople
+- Rebalance the Treasury overspending from the Process Guild budget
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Finalise [Q1 2026 TG Proposal]( https://docs.google.com/document/d/1eH1cxMXsM-1_tDw_gVu9KGt3WGjcSmHvATMA5S0jZcg) [**status**] done
+- [**action**] Finalise [Q1 2026 TAWG Proposal](https://docs.google.com/document/d/1tPMTevzY87-oIPFooJsOu4k95Zvw9kuj4JvXpH1s7sg) [**status**] done
+
+
+
 ## Thursday 20th November 2025
 
 
