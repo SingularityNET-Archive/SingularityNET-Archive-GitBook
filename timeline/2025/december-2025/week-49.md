@@ -156,6 +156,7 @@ Finalists in the current Deepfunding RFP ideation process have been announced.
 
 ## Thursday 4th December 2025
 
+
 ### Research and Development Guild
 
 - **Type of meeting:** Monthly
@@ -203,3 +204,44 @@ Lordkizzy will reach out to the social media managers from both the video workgr
 #### Keywords/tags:
 - **topics covered:** Proposals, Governance Dashboard, Status update, AI Agent, Hackathon
 - **emotions:**  Understanding.,  Satisfaction , Lengthy
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], Kateri, CollyPride, LordKizzy, CallyFromAuron, UKnowZork, Gorga Siagian, osmium, martinsoki
+- **Purpose:** Regular biweekly meeting
+- **Working Docs:**
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [AI SANDBOX/THINK-TANK agenda #49](https://docs.google.com/document/d/1fNp_xoLVJdQXPbEf3EbNo8Goe9Qo43QXFg3zFkWADHc/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Introduction and welcome:
+The meeting began with a warm welcome, followed by Vasu leading a continuation of the previous agenda. 
+
+There is no budget consent process this Quarter, but a minimal Q4 2025 report is due on Monday. Vasu indicated that the report is prepared and he presented it to gather feedback. The importance of timely task completion was emphasized, with the possibility of a follow-up call if necessary.
+- AI Sandbox Retrospective and Future Planning:
+Vasu gave a retrospecive of the year, and outlined the evolution of AI Sandbox from moderation to active participation, emphasizing the increased engagement in Q1 and Q2 2025. New initiatives, such as expert-led workshops and project showcases, contributed to a revitalized approach. However, he acknowledged difficulties in Q3, particularly related to token price issues.
+- Updates on Decentralized Autonomous Communities and Emotion Comprehension App:
+Colleen Pridemore announced the release of her roadmap for Decentralized Autonomous Communities on ASI Cloud's Discord. She is also working on an app named Yaxi that aims to improve human emotion comprehension. This app utilizes technology called SuperLibreX, which has military origins. Colleen is collaborating with a team, including Delphi from R&D Guild, to develop a meta DSL for the project.
+- Updates on Hyperon and Zarqa Projects:
+
+Vasu discussed the development of Zarqa https://singularitynet.io/ecosystem/zarqa-2/, a next-generation language model and one of sNET's spinoff projects, and referenced an infographic that illustrates its past structure. Colleen and Vasu discussed the Zarqa project, its past inactivity and recent progress, and its relationship to other technologies like OpenCog.  Colleen mentioned her previous writings on Zarqa and its presentation at a Millennium Project event.
+
+Vssu informed Colleen about the release of the Hyperon paper, which they both found exciting. 
+- Ethos Guard AI:
+
+Colleen asked about Vasu's work on EthosGuard AI, which he acknowledged, noting that while it has a knowledge graph, it is designed to be simpler and more financially feasible. The conversation also touched on the integration with AGI and plans for future submissions.
+- Discord bot agent initiatives:
+
+Colleen asked if any WG currently has plans for AI Discord bots or agents. Vani responded that Archives has been working on one for querying the Archive, based on their Graph-RAG work; but noted that other priorities might delay progress. 
+- Call for papers on AI Agents and governance:
+
+Vani shared information about a call for papers from the journal AI and Ethics on "AI Agents: Ethics, Safety, and Governance", which would be relevant for this WG. Deadline for submissions: 31st May 2026. See https://link.springer.com/collections/igcjhjiaeg 
+
+#### Action Items:
+- [**action**] Osmium to submit the workgroup's Q4 2025 quarterly report on the Governance dashboard before Monday.
+ [**assignee**] osmium [**due**] 8 December 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Future Planning, Decentralized Autonomous Communities, AI Initiatives and Ethics, Q4 2025 quarterly report, Governance Dashboard, Zarqa, OpenCOG Hyperon, EthosGuard, AI agents, Discord bots, Archives WG, AI and emotion, AI And Ethics journal
+- **emotions:** Educational,  Collaborative,  informative
