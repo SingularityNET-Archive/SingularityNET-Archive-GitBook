@@ -146,6 +146,7 @@ End of Year Report: anything still to be added should be done by this Friday (7t
 ## Wednesday 5th March 2025
 
 
+
 ### Archives Workgroup
 
 - **Type of meeting:** Monthly
@@ -248,6 +249,50 @@ Also some interest in Focus Group re: how the Archives tool could be used for fu
 #### Keywords/tags:
 - **topics covered:** Project Updates,  Budget Allocation, AI open discussion , Q1 2025 quarterly report, Q2 2025 budget, AI for beginners, wiki website, Governance Workshop Presentation Series
 - **emotions:**  Collaborative
+
+
+
+### Research and Development Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], LordKizzy [**documenter**], LordKizzy, advanceameyaw, osmium, PeterE, Tevo, kenichi, Evelyn, AshleyDawn, BoazB
+- **Purpose:** R&D Updates and Discussions 
+- **Working Docs:**
+  - [MeTTa Coder Lab drive](https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb)
+  - [Nunet Application Form ](https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform)
+
+#### Agenda Items:
+- Welcoming new Members and Introduction
+
+- Review of last meeting summary Action Items
+
+
+- UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs
+
+
+- MetaCoders Lab Discussion
+
+- AOB Open discussions
+
+#### Discussion Points:
+- Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members
+
+- Discussion on MetaCoderLab Collaboration: Lordkizzy requested for feedback on the discussion in the wg syncing call which peter addressed that there weren't any comments on this during the session
+- New proposals applications: Lordkizzy noted that he reached out to marketing guild last week and he is currently in talks with mikasa on this
+
+- Follow up on the CSDB: Advance noted that the tool has been deployed successfully, he also spotlighted some changes to the form  and right now we need to make an announcement around this, there is gonna be a project showcase session in AI sandbox for this project
+- UPDATE STATUS ON DEVELOPMENT: Reputation-System-using-SoulBound-Tokens-SBTs; Kenichi noted that the database is good to go and the front end for the Ambassador program website is ready, and also an AWS account has been created for deployment and hosting
+
+
+- AOB: Tevo presented his proposal on Event scheduling and Notification system, he highlighted the key details of the proposal and also employed that members take a look an drop comments
+
+#### Action Items:
+- [**action**] Lordkizzy to follow up on communication with the soft launch of the deployment of Legacy [**assignee**] LordKizzy [**due**] 12 March 2025 [**status**] todo
+- [**action**] Lordkizzy to schedule a call with the representatives of the Education guild, Gamers guild, AI Sandbox Thinktank and Onboarding WG [**assignee**] LordKizzy [**due**] 12 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Nunet, CSDB, MeTTa Coder Lab,  Team Collaboration , legacy project
+- **emotions:**  Collaborative,  informative,  Understanding.  
 
 
 ## Thursday 6th March 2025
