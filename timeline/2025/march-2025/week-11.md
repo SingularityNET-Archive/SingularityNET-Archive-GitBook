@@ -78,3 +78,69 @@ Lord kizzy announced that every member that has any difficulty should ask questi
 #### Keywords/tags:
 - **topics covered:** Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, Nunet live testing
 - **emotions:** Welcoming, Interactive, Informative, Educative
+## Saturday 15th March 2025
+
+### Gamers Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], devon [**documenter**], LordKizzy, rebel, Gorga Siagian, AshleyDawn, hogantuso, TheFreysDeFi, Kateri, Malik, Slate
+- **Purpose:** The purpose of this Gamers Guild meeting was to demonstrate how to fetch dynamic data into Roblox games via API calls, revisit the paused asset creation task, and review progress on various workgroup buildings.
+- **Working Docs:**
+
+#### Discussion Points:
+- API Calls and Google Sheets Integration by Slate: 
+
+Showcased how to enable HTTPS requests and API services in Roblox Studio.
+
+Demonstrated fetching real-time data (e.g., player names/scores) from a Google Sheet via JSON, updating within the game at set intervals.
+
+Confirmed the method can apply to other use cases (e.g., live budget or analytics data).
+
+- Asset Creation Task Update:
+
+Announced partial resumption of the asset creation budget, allowing five submissions total for this month (one per person).
+
+Further asset approvals depend on AGIX price stability and remaining Guild budget.
+
+- Writers Work Group Progress by Kizzy:
+
+Administrative Building
+
+Refined the design: meeting rooms, labeled offices, improved stairs, and additional NPCs.
+
+Plan to introduce dialogue systems or other scripted functionality (e.g., user registration, document submission) in future.
+
+- Added lounge/cafeteria, study room, and a planned “onboarding test” area.
+
+Proposed MCQ or scripted entry test for prospective members.
+
+Several new NPCs now populate the building, awaiting further animations and expansions from co-creator Devon.
+
+- Other Workgroup Updates:
+
+No new major updates from R&D or Education Guild.
+
+Rebel indicated continued work on assigned tasks.
+
+
+#### Decision Items:
+- Asset Creation budget partially reopened for up to five assets total this month.
+  - [**rationale**] we can afford 5 asset creation
+
+#### Action Items:
+- [**action**] map creators [**assignee**] Gorga Siagian, Kateri [**due**] 29 March 2025 [**status**] todo
+- [**action**] Department creation - Writers Workgroup [**assignee**] LordKizzy, devon [**due**] 29 March 2025 [**status**] todo
+- [**action**] Department creation - RnD Guild [**assignee**] SubZero, rebel [**due**] 29 March 2025 [**status**] todo
+- [**action**] Animation and Dialogue System - Education Guild [**assignee**] Malik, hufiumer69 [**due**] 29 March 2025 [**status**] todo
+
+#### Game Rules:
+Squid Game - Red light Green light: the first to reach the end without dying wins.
+
+
+#### Leaderboard:
+- 1st Kizzy
+
+#### Keywords/tags:
+- **topics covered:** Scripting, Roblox, API integration, dynamic data, asset creation, Google Sheets Integration
+- **emotions:**  Collaborative,  informative, Constructive 
+- **games played:** Squid game
