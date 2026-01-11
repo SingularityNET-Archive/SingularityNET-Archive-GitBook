@@ -4,6 +4,69 @@ description: Mon 20th Oct - Sun 26th Oct 2025
 
 # Week 43
 
+## Monday 20th October 2025
+
+### Knowledge Base Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Alfred Itodele [**documenter**], Ayomishuga, Tevo, Malik, Effiom, Rems, Alfred Itodele
+- **Purpose:** Aggregating Ambassador Program assets and relevant information under GitBook
+
+- **Miro board:** [Link](https://ambassadorss-organization.gitbook.io/knowledge-base)
+- **Other media:** [Link](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/24/views/1)
+- **Working Docs:**
+
+#### Agenda item 1 - Workgroup Management, Proposals/Budget & Progress Reports - [resolved]
+
+#### Discussion Points:
+- Discussed creating report templates, to streamline the report creation process
+
+#### Decision Items:
+- A single person will create report templates for all related workgroups (Treasury, Process).
+An LLM will be used to generate a first draft based on the template, and GitHub task descriptions.
+The draft will be enriched with information from meeting summaries.
+The workgroup will collectively review and finalize the report in the next session.
+The workgroup will update the Budget Sheet collaboratively during meetings, to finalise proposal
+Report template would be reviewd during the next meeting
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Alfred to draft the meeting summary
+Effiom to review, edit, and publish the final meeting summary.
+Alfred to share the template he has been working on in the discord channel to be reviewed async.
+ [**assignee**] Alfred Itodele, Effiom [**due**] 27 October 2025 [**status**] done
+
+#### Agenda item 2 - GitBook Management & Organization - [resolved]
+
+#### Discussion Points:
+- Addressed the issue of new items appearing on the organizing sheet without matching data sources; a new feature was implemented to clean names of special characters to improve matching.
+Discussed how to handle archiving or removing items from the GitBook and how to manage documents with conflicting information.
+A new batch of assets was identified for organization and inclusion in the GitBook.
+
+
+#### Decision Items:
+- The group will proceed with contacting owner workgroups to resolve content conflicts.
+The distribution of new assets was confirmed.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Effiom to organize the following assets:
+[Ambassador Townhall Slides Folder-Google Drive](https://drive.google.com/drive/u/1/folders/1kO6GuiDW2HO5lUTPsO_cZXQws_HzLwU0)
+[Governance Document for Marketing Guild-Google Doc](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+Ayomi to organize the following asset:
+[SNET Marketing Guild Guide - Google Doc](https://docs.google.com/document/d/1CjiXaLuReruPs-nRhZU7c18fTEROQwl36NqO-K2QV8M/edit#heading=h.7bqy7aixdiol)
+Alfred to organize the following asset:
+[SingularityNET Provided Ambassador Program - Google Drive](https://drive.google.com/drive/folders/1bC3TNUepGwl1u4HOz7mRe6lQ9mnrnegJ?usp=sharing)
+Rems to organize the following asset:
+[SingularityNET Ambassador Program profile - Twitter](https://twitter.com/SNET_Ambassador)
+[SingularityNET Ambassadors - Medium](https://medium.com/@singularitynetambassadors) [**assignee**] Alfred Itodele, Effiom, Ayomishuga, Rems [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Knowledge Base, GitBook, Asset Management, Budget Sheet, Q4 Progress Report, Proposals, Overview Document, Organising Sheet, Data Sources, Conflicts, Archiving
+
+
 ## Thursday 23rd October 2025
 
 
