@@ -4,6 +4,39 @@ description: Mon 24th Feb - Sun 2nd Mar 2025
 
 # Week 09
 
+## Wednesday 26th February 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], Clement Umoh, esewilliams, FranklynStein, Gorga Siagian, LordKizzy, osmium, SubZero, hogantuso, maxmilez, Slate
+- **Purpose:** Project Updates - Website presentation by Franklyn - Budget Discussion 
+- **Working Docs:**
+
+#### Discussion Points:
+- Slate started the meeting welcoming everyone 
+- The First topic of discussion was the project updates from AI for Beginners, on which ese briefly notified that there is still a missing SEO on which she has to work upon after that we need to work with the uploading 
+- Then Franklyn presented the WIKI website in which the new feature of catalog was added for better navigation in the projects , He notified that we can directly import the Certification Dashboard in there either manually or live updating through API call 
+- He also notified that he would be working on the video part which would be running in the background soon
+- Then there was a decision making on how to proceed forward with the budget allocations on which everybody's consent was taken 
+- Majority had the agreement on going with less project completion before taking more into account for delivering 
+
+#### Decision Items:
+- Majority had the agreement on going with less project completion before taking more into account for delivering 
+  - [**rationale**] most agreed
+  - [**opposing**] none
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Franklyn to work upon website  [**assignee**] FranklynStein [**due**] 26 February 2025 [**status**] in progress
+- [**action**] Clement to work upon the Quarterly Report  [**assignee**] Clement Umoh [**due**] 5 March 2025 [**status**] in progress
+- [**action**] Ese to work upon the missing SEO and uploading  [**assignee**] esewilliams [**due**] 5 March 2025 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation, Project Updates, Q2 2025 budget, low token price, wiki website, Q1 2025 quarterly report
+- **emotions:**  Collaborative, Businesslike.
+
+
 ## Thursday 27th February 2025
 
 
