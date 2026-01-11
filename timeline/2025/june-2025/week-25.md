@@ -65,6 +65,39 @@ See Doc here: [Q3 2025 Budgets: Consent round 1 objection summary -https://docs.
 #### Keywords/tags:
 - **topics covered:** Consent Process, Core Contributor, Anonymity, Sentiments, Objections, Quorum, Participation in governance, WG Sync calls, measuring outcomes, impact, Workgroup reserves, Abstentions
 - **emotions:**  informative,  Collaborative, detailed, educative, Productive
+## Wednesday 18th June 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], UKnowZork [**documenter**], Gorga Siagian, Kateri, PeterE, osmium, AshleyDawn, esewilliams, kenichi, LordKizzy, devon, Slate
+- **Purpose:** Budget Request Discussion - Consent Process Report - Project Updates
+
+- **Working Docs:**
+  - [Q3 2025 budgets: Consent round 1 objections summary](https://docs.google.com/document/d/17zH0s6dl0_tDTgjuCtLCmczHbYIYpHCqz_6zY7OD0n0/edit?usp=sharing)
+  - [Assesor role - Portfolio for Certification Program](https://docs.google.com/spreadsheets/d/15tq_42iVYvqENbf1hkIDYDP3kjUKZ-9JxxafHDy7Vko/edit?usp=drivesdk)
+
+#### In this meeting we discussed:
+- Consent Process objections
+- Assessors role - Portfolio for Certification Program
+
+#### Discussion Points:
+- The workgroup has 3 objections to its Q3 2025 budget. Peter noted that a document that has the objections has already been posted in the Ambassador Program channel. Slate read the objections and the first objection pointed at a misconception in the budget sheet. Slate noted that the budget seems fine, while Peter countered that maybe a thorough explanation on the budget sheet should be able to clarify the misconception. Slate went further to explain what the budget entails. Vasu will add a note in the budget sheet.
+- The second objection pointed at the guild reserves not being utilized. Slate noted that the reserves are kept for the CCCP program and Peter stated that it might sound like an inadequate response to the objection, while Slate noted that reserves breakdown was already given in the sheet on which Peter said we can mention that in response to it. Peter also noted that this looks like an invalid objection but it would be nice to include a response in the Document.
+- The third objection pointed out that a specific person in the guild gets significantly more rewards than other members and this can damage decentralization. It also talked about the Wiki site replicating the Ambassador program Gitbook. Slate noted that most of the tasks are administrative tasks and going forward we’ve decided to rotate the tasks. Vasu asked who is going to the Dework admin task. Slate noted that the conversation will be held separately from the meeting.
+For the Wiki site, Slate noted that the project was created mainly for the Ambassador program and it’s not aimed at replicating the Gitbook. Vasu added that we’re not using it again because of lack of funds and it costs a lot.
+- We looked at the Assessor role for the Certification program. Slate noted that he has created a document for the assessor role and he asked the assessors to go through it to give their feedback. 
+- Kenechi gave an update on the presentation series - he noted that Zalfred will soon be completing a module. He also noted that module #3 of the series isn’t as fast as the other two modules and module #4 is the final module. 
+- Slate asked the Assessors to drop their email address so that he could give them access to the document.
+
+#### Action Items:
+- [**action**] Slate to create a document that will give answers to each objection to the budget. [**assignee**] Slate [**due**] 20 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Project Updates, Presentation Series, Wiki website, CCCP, Assessor, Consent Process, Objections, Portfolio, Ambassador GitBook, Q3 2025 budget
+- **emotions:** Interactive, detailed, collaborative, educative
+
+
 ## Thursday 19th June 2025
 
 
