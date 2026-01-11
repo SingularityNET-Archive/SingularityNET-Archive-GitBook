@@ -4,6 +4,55 @@ description: Mon 9th Jun - Sun 15th Jun 2025
 
 # Week 24
 
+## Monday 9th June 2025
+
+### Treasury Automation WG
+
+- **Type of meeting:** Weekly
+- **Present:** Tevo [**facilitator**], Jeffrey Ndarake [**documenter**], André, Effiom, Jeffrey Ndarake, Tevo, UKnowZork
+- **Purpose:** We develop the Treasury System
+- **Meeting video:** [Link](https://www.youtube.com/watch?v=ZStT9bik4cA&&t=1s)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764630485894445&&cot=10)
+- **Working Docs:**
+  - [GitHub Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/22)
+
+#### Agenda item 1 - Treasury Automation Updates & Project Progress - [carry over]
+
+#### Discussion Points:
+- Most API activities completed and ongoing work on Zoom API integrations
+- Jeffrey volunteered to draft the meeting summary, with André agreeing to review; Tevo offered resources for support.
+- Proposal for a Discord bot to track meeting participation was introduced
+- Backlog tasks from 2022 and inclusion of leftover funds in the dashboard were discussed. André confirmed pre-treasury system spending is reflected in the summary table
+
+#### Decision Items:
+- The group decided not to pursue the wallet API request due to low demand
+  - [**effect**] mayAffectOtherPeople
+- Development of a Discord bot for tracking participation will be included as a key focus
+
+#### Action Items:
+- [**action**] Jeffrey will draft the meeting summary [**assignee**] Jeffrey Ndarake [**status**] todo
+- [**action**] André will review the drafted meeting summary [**assignee**] André [**status**] todo
+
+#### Agenda item 2 - Budget Reserves, Incentive Model & Operations - [carry over]
+
+#### Discussion Points:
+- The Q2 budget was reviewed, with April noted as the highest month for distribution
+- Data collection challenges: outdated task-time metrics and quarterly calculations needing updates
+- No new members were onboarded this quarter
+- Quarter two report finalization and action item clarification were addressed
+
+#### Decision Items:
+- Agreement to maintain sufficient reserves for operational expenses
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Tevo will finalize the budget sheet and prepare the next session’s proposal [**assignee**] Tevo [**status**] todo
+- [**action**] Tevo will schedule the first monthly stand-up for July 8th at 10 a.m. UTC. [**assignee**] Tevo [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** treasury, Automation, GitHub, API, Zoom API, recognition tasks, Discord bot, budget reserves, incentive model, dashboard
+
+
 ## Tuesday 10th June 2025
 
 ### Governance Workgroup
