@@ -4,6 +4,96 @@ description: Mon 24th Mar - Sun 30th Mar 2025
 
 # Week 13
 
+## Monday 24th March 2025
+
+### Treasury Automation WG
+
+- **Type of meeting:** Monthly
+- **Present:** Tevo [**facilitator**], Effiom, Tevo [**documenter**], onize, André, Tevo, Jeffrey Ndarake, PeterE, Effiom
+- **Purpose:** We develop the Treasury System
+- **Meeting video:** [Link](https://youtu.be/mbSRkifSQYA)
+- **Miro board:** [Link](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764594642220827&cot=14)
+- **Other media:** [Link](https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240)
+- **Working Docs:**
+  - [Treasury Automation 24.03.2025 Meeting Summary](https://docs.google.com/document/d/1wKphOdmIRNUMb9LQEvy-vd32WRrRoZxIZGJ5QQw-t_A/edit?tab=t.0)
+  - [Quarter 2 Calender Schedule](https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764621287726499&amp;cot=14)
+  - [Automation WG Q2 Budget Sheet](https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1475950255#gid=1475950255)
+  - [SNET Event scheduling and Notification system](https://github.com/SingularityNet-Ambassador-Program/Event-Scheduling-and-Notification-System)
+  - [Proposal for R&D Guild - Event Scheduling and Notification System](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h)
+  - [How we manage Meeting Summaries](https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4)
+  - [Meeting Summary Template](https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU)
+
+#### Agenda item 1 - Update on Development Progress - [carry over]
+
+#### Discussion Points:
+- Tool Development - Treasury System Updates - March 2025
+- Tevo’s Dework Updates(https://app.dework.xyz/catalyst-swarm/treasury-guild-41007?taskId=fdf4fa59-6519-48fa-b417-52965f7465b2)
+- Andre’s Dework Updates(https://app.dework.xyz/catalyst-swarm/treasury-guild-41007?taskId=15684466-919e-40ae-9d8e-c8a300be3271)
+- Short Development [Update Video](https://youtu.be/mbSRkifSQYA)
+
+#### Agenda item 2 - Plan Ambassador program Quarter 2 Development Roadmap - [resolved]
+
+#### Discussion Points:
+- Planning Next Quarter & Developing the Roadmap
+- What do we deliver, and who does what? Included deliverables on the Miro Board Schedule
+- Quarter 2 Calender Schedule
+- Automation WG Q2 Budget Sheet
+- How do we use our leftover reserves?
+
+#### Decision Items:
+- Next Session 22.04.25 at 10:00 AM UTC
+  - [**effect**] affectsOnlyThisWorkgroup
+- Estimating 2nd session for 10.05.25 at 10:00 AM UTC
+  - [**effect**] affectsOnlyThisWorkgroup
+- Calculate and maintain Core Budget Lines in Workgroup Reserves. For the rest of the Budget Rewards, come up with a new incentivised distribution model
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Agenda item 3 - Custom Calender with R&D Guild - [carry over]
+
+#### Discussion Points:
+- How would we track time spent on development?
+- Create GitHub for SNET Event scheduling and Notification system
+- Proposal for R&D Guild - Event Scheduling and Notification System
+- Custom Calendar Research is rewarded from the Process Guild budget
+- What Tech Stack should we use?
+- If Supabase is used it will be very easy to integrate with rest of the tools. Authentications are also provided by Supabase
+- We are using Postgres Database
+
+#### Decision Items:
+- We decided to include code in the Repo Level and Record time on GitHub
+  - [**effect**] mayAffectOtherPeople
+- Developer writes time spent on his own as it will be interesting to see how they recognize the work that needs to be done
+  - [**effect**] mayAffectOtherPeople
+- We agreed to use the Treasury Automation WG Project Board (ORG Level)
+  - [**effect**] mayAffectOtherPeople
+- Continue using Treasury Automation WG for coordinating tech stack and deliverables
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Review Calendar Progress in Future Treasury Automation WG [**status**] todo
+- [**action**] Invite Developer to the GitHub Repo and Project Board [**status**] todo
+
+#### Agenda item 4 - Workgroup Management - Distribution of action items - [resolved]
+
+#### Discussion Points:
+- Assigning meeting summarizer and reviewer for 24.03.2025
+- How we manage Meeting Summaries
+- Meeting Summary Template
+- Draft Q2 Report for next session?
+
+#### Decision Items:
+- We start drafting the Q2 Report from the next session
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Effiom will draft the meeting summary and upload it to the summary tool. [**assignee**] Effiom [**status**] done
+- [**action**] Tevo will review and publish the Meeting Summary on Discord [**assignee**] Tevo [**status**] done
+- [**action**] Effiom to help lead with the drafting of the Q2 Report [**assignee**] Effiom [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Miro Board, Development, Updates, Workgroup management, Q2 budget, Custom Calender, Project Management, R&D guild
+
+
 ## Tuesday 25th March 2025
 
 ### Governance Workgroup
