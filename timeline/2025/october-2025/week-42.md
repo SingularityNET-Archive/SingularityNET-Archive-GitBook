@@ -95,6 +95,7 @@ We note also that for Q1 2026, there will be no formal budget consent process, a
 
 ## Thursday 16th October 2025
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -189,3 +190,45 @@ FOR OUR NEXT MEETING, ON TUES 21ST OCT:
 #### Keywords/tags:
 - **topics covered:** sentiment survey, sentiment analysis, work quality, Theory of Change, impact, outcomes, WG accountability, Budget caps, token price
 - **emotions:** Focused,  Collaborative, thoughtful, analytic,  forward-looking, lots in Chat, Only a few of those present spoke
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** LordKizzy [**facilitator**], Kateri [**documenter**], Jeffrey Ndarake, Maxmilez, UKnowZork, martinsoki, osmium, LordKizzy, Kateri
+- **Purpose:** Regular biweekly meeting
+- **Working Docs:**
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda ](https://discord.com/channels/909843832491896832/1098295570898104340/1428347765469085777)
+
+#### In this meeting we discussed:
+- Today session is an open discussion: The topic: "At what point does Artificial Intelligence stop being a tool and start being a collaborator?"
+- The discussion focused on the evolution of Artificial Intelligence, highlighting the distinctions between Narrow AI, Artificial General Intelligence (AGI), and Artificial Superintelligence (ASI).
+
+Narrow AI: Artificial Intelligence that is limited to a single domain. It cannot perform complex, multi-domain reasoning but is designed to handle specific tasks effectively.
+Examples include chatbots (like ChatGPT), large language models (LLMs), image recognition systems, video generating platform (imvideo) and voice assistants (such as Siri and Alexa).
+
+Artificial General Intelligence (AGI): A human-level form of AI that can understand, learn, reason, and make decisions across multiple domains, not just a single task. Unlike Narrow AI, AGI would be capable of performing a wide range of tasks and adapting to new challenges, much like a human mind.
+Example: a single AI system that can carry out all required tasks at once from problem-solving to communication to creative work.
+
+Artificial Superintelligence (ASI): A stage of AI where machine intelligence surpasses human intelligence in reasoning, creativity, problem-solving, and even emotional understanding. At this point, AI would not only think faster and more accurately than humans but also demonstrate capabilities far beyond our comprehension.
+It represents an “out-of-this-world” level of advancement, where AI becomes more intelligent than the best human minds in virtually every field.
+- Back to today’s discussion: When should we see AI as not just a tool, but start recognizing it as a collaborator?
+Collaboration between humans and AI emerged as a key theme, with participants debating the nature of such partnerships given AI’s lack of consciousness. Jeffreystressed the importance of verifying AI-generated outputs to ensure reliability. Kateri highlighted that collaboration with AI is already used into daily tasks, making it less of a future concept and more of a present reality. Max Milez added depth by noting the complexities of defining collaboration, especially since AI’s backend processes make it difficult to clearly separate tool use from true partnership (He discussed his struggles with AI tools, specifically mentioning a day spent trying to use chat GPT for a video project. He noted that the AI often provided names without links, necessitating further searches on platforms like inVideo. Milez expressed that once AGI is achieved, it should function like Google, providing comprehensive access to information from a single application.
+
+
+- Addressing Over-Reliance on AI in Education: Lord Kizzy expressed concerns about the growing reliance on AI in education, noting that students often generate answers through AI tools without first engaging their own reasoning. He compared current practices to earlier stages of education, where learning advanced more gradually and students-built knowledge step by step. 
+UknowZork added to this concern by highlighting the negative impact of excessive technology use in schools, arguing that it undermines the development of foundational learning skills. She recalled her own educational experience, where calculators and other technological aids were rarely used, and students had to build problem-solving abilities independently. UknowZork suggested that schools establish clear boundaries for the use of AI, encouraging students to first seek answers from traditional resources such as textbooks and libraries before turning to AI tools. Lord Kizzy emphasized the need to strike a balance between collaboration with AI and over-dependence on it.
+- AI tool Exhibition Overview and Template Introduction: Lord Kizzy outlined the purpose of the AI tools Exhibition, which serves as a platform for members to showcase AI tools that can enhance the Ambassador Program. He highlighted the use of a standardized template for presentations and encouraged participants to review previous exhibitions for guidance. 
+
+It was noted that, due to budget restrictions, the AI tool exhibition had been paused for a period. However, despite the limited resources, the initiative is being revived and relaunched, signaling a renewed focus on integrating AI tools into the program. 
+
+The meeting ended with Lord Kizzy further asking if anyone was interested in taking up the presentation slot, but no one responded at the time. He mentioned that he would reach out to Advance or Gorga to invite them to present at the next meeting. If they are unavailable, he committed to delivering the presentation himself.
+
+#### Action Items:
+- [**action**] Lord Kizzy will share the template for the AI tool exhibition and provide the link of the channel [**assignee**] LordKizzy [**due**] 16 October 2025 [**status**] in progress
+- [**action**] Lord Kizzy to reach out to Advance and Gorga to see it that are available to present next meeting [**assignee**] advanceameyaw, Gorga Siagian, LordKizzy [**due**] 16 October 2025 [**status**] todo
+- [**action**] Advance to document next meeting [**assignee**] advanceameyaw [**due**] 30 October 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Narrow AI, AGI, ASI, AI TOOLSET EXHIBITION, AI is just a tool, AI Emotion
+- **emotions:** Educational,  Collaborative, Interactive
