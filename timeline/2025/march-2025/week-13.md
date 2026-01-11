@@ -71,6 +71,42 @@ This question will be looked at again in Thursday's meeting
 - **emotions:** thoughtful, inconclusive, knotty problems
 
 
+## Wednesday 26th March 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Slate [**facilitator**], Slate [**documenter**], AshleyDawn, Gorga Siagian, LordKizzy, Évéline Trinité, maxmilez, UKnowZork
+- **Purpose:** Consent Round Process- website update - Governance Series Update - Next Week
+- **Working Docs:**
+
+#### In this meeting we discussed:
+- Consent Round Process
+- website update
+- Consent Round Process
+
+#### Discussion Points:
+- Slate started off the meeting with a warm and a discussion around Linkedin and token price 
+- Then discussion around the consent round process started on which Kizzy presented that Tevo was absent in the last governance call which caused a delay and the round is gonne shift to 80/20 mark 
+- The next round will only have space for approving objections and not making more 
+- The responses to concerns will be added in a unified response doc by the guild/ wg
+- Slate gave the website update on which he presented the site with the background which was approved and also the certification dashboard 
+- the formatting is going to be improved along with the design of the navigation bar 
+- Governance Series Update(Kizzy): 
+There was a Talk with Vanessa about the budget allocation
+mentimeter for the workshop after the end of series 
+Different governance scenarios will be presented
+
+
+#### Action Items:
+- [**action**] Slate to work on the success criteria  [**assignee**] Slate [**due**] 2 April 2025 [**status**] in progress
+- [**action**] Website update with domain [**assignee**] FranklynStein [**due**] 2 April 2025 [**status**] cancelled
+
+#### Keywords/tags:
+- **topics covered:** Updates, Consent, Less Attendance, Governance series, Consent process, AI for beginners
+- **emotions:**  Collaborative
+
+
 ## Thursday 27th March 2025
 
 
