@@ -127,6 +127,7 @@ He also stated that we have started proposing our workflows and automations and 
 
 ## Friday 13th June 2025
 
+
 ### Knowledge Base Workgroup
 
 - **Type of meeting:** Monthly
@@ -213,3 +214,35 @@ He also stated that we have started proposing our workflows and automations and 
 
 #### Keywords/tags:
 - **topics covered:** Gitbook, Miro Board, Q2 report, Budget, Group Reserve
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], UknowZork, Gorga Siagian, Jeffrey Ndarake, kareem, kenichi, photogee, CJFrankie, Kateri, esewilliams, LordKizzy, guillermolucero, Alfred Itodele, Mikasa
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+  - [Marketing Guild Improvement Proposal](https://docs.google.com/document/d/1iL1t4f4CPxOCUII8j8EFbBkyzppjdgw9w-11UWPZqgY/edit?usp=sharing)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Marketing Guild GitHub Board](https://github.com/SingularityNet-Ambassador-Program/Marketing-Guild-Board/issues/68)
+
+#### Discussion Points:
+- Updates and Introductions: Ayo opened the Marketing Guild call by welcoming attendees and noting that the meeting could not start on time due to a lack of quorum. He encouraged participants to review the summary notes from the previous meeting and share any comments or suggestions.
+- Q3 Budget Discussion: LordKizzy presented two Q3 proposals: one maintains the current guild structure with payments shifted to AGIX (150 AGX/month for core members, 100 AGX for Task Force), while the other restructures the guild into Operations (30%) and Initiatives (70%), with defined AGIX caps and responsibilities. A discussion followed on finalizing Q3 strategies, with Ese Williams emphasizing the need to focus on fewer, more executable initiatives and reduce meeting frequency to manage workload. Ayo supported moving to bi-weekly meetings, citing low compensation for facilitation and documentation, though others voiced concerns about uneven impact across roles. Debates emerged about AGIX price volatility, documentation quality, and internal collaboration challenges. Kareem criticized Ayo’s facilitation style, urging more constructive dialogue and suggesting AI support for documentation. LordKizzy stressed the importance of reducing workload, improving human-led documentation, and maintaining team cohesion. Ese urged the guild to prioritize clear decision-making over assigning blame, while LordKizzy emphasized the need for ongoing financial discussions to support sustainable projects. Ayo reinforced the importance of collaboration and mutual trust to effectively navigate the guild’s current challenges. No decision was made as regards to the distribution for Q3.
+
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 20 June 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 20 June 2025 [**status**] todo
+- [**action**] Mikasa to handle the review of attendance for the last quarter [**assignee**] Mikasa [**due**] 20 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget Management , quarterly reports and budget, Q3 Budget Updates
+- **emotions:** No decisions made,  Understanding.,  insightful
