@@ -281,3 +281,50 @@ Will decentralized AI become the mainstream or will centralized AI always domina
 #### Keywords/tags:
 - **topics covered:** Expert-led workshop, AI open discussion , AI regulation, Decentralized AI, Education Guild
 - **emotions:** welcoming, informative, interactive, educational
+## Friday 31st January 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Ayo [**facilitator**], martinsoki [**documenter**], Ayo, kenichi, LordKizzy, esewilliams, photogee, kareem, CJFrankie, Malik, Eric Davies, Kateri, advanceameyaw, Clement Umoh, Evelyn, Gorga Siagian, Mikasa, SubZero, osmium
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Introductory message for the media room](https://docs.google.com/document/d/1Wir5N-gdtzXGVh-m6zy4zLtCIf0BY8nkA7YrdoFF9iQ/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+
+#### Discussion Points:
+- Ayo led the Marketing Guild call, where members reviewed action items from the last meeting and discussed the need for clarity on Twitter's service tiers. Eric Davies confirmed Malik attendance metrics, Ese walked the Guild project management board on GitHub to enhance task submissions and updates. Photogee and LordKizzy discussed upcoming initiatives, including the podcast and collaborations of Zealy with other workgroups, with a timeline set for a three-week sprint starting February 4. The purpose of the meeting was to emphasize the importance of aligning all members on their tasks and responsibilities.
+- Discussion on Discord Channel Structure:
+Ese Williams opened a discussion on the relevance of the current Discord channels considering the structural change in the Guild. Ayo led the conversation, and different members - LordKizzy and Kenichi - opted for a suggestion to merge the channels. There was an agreement to have one open channel for general discussions and another closed channel for activities, operations,initiatives, and information sharing.
+- Discussion on Governance Document and Initiatives:
+Ayo updated the status of the Governance document, informing that Kareem was absent from the previous meetings. Lordkizzy noted the need to merge the two current governance documents. Ayo confirmed that Ese was going to take on the task for the documentation. The social media channel in Discord was also brought up, and he confirmed all representatives had been added.
+- Discussion on Merging Creative and Marketing Design Teams:
+Kareem outlined an initiative focused on a comic project that promotes SingularityNet, suggesting a merger between the creative team and the marketing design group. He emphasized that combining these teams would reduce redundancy in design tasks and allow for better resource allocation. Ayo was confused about the overlapping between the two groups and sought clarification on how the merger would benefit both. Ayo led the discussion on merging the two entities, emphasizing the need for proper documentation for ease of comprehension. Kenichi added that the design team needed clarification on the process and that finding similarities between marketing efforts and the comic series needed to be established. LordKizzy inquired about the budget structure for the merger, prompting Ayo to request Kareem's commitment to prepare documentation for the next meeting.
+- Discussion on the New Event Role and Responsibilities:
+Ayo initiated a discussion about the new event role, He emphasized that there should be clear expectations from Cj Frankie on what is to be done. Kenichi explained that his original concept for the role involved a collaborative effort across the marketing guild, rather than it being solely the responsibility of one individual. He also mentioned having extensive documentation to support this initiative.
+- Kelvin Wallet Issues Discussion:
+Ayo mentioned the issue of the missing 100 AGIX, which the receiver transferred to an inaccessible wallet. Kenichi noted this was not the first time the participant had encountered this problem; this shows irresponsibility on the part of the participant for failure to update the wallet. Malik supported the motion that the participant is responsible for providing the correct wallet address.
+- Discussion on Attendance and Task Allocation in Marketing Guild:
+Ayo brought up Kenichi's absence from the November 15 meeting, which Kenichi attributed to attending the PIU event in Unilag. He stated that he had previously informed the team about his unavailability and discussed collaboration opportunities with other guilds. Ayo proposed checking meeting notes to confirm the details of Kenichi's communications regarding the event.
+EseWilliams discussed the importance of confirming Kenichi attendance at events as an ambassador for SingularityNet, which could impact his role within the organization. Ayo O mentioned that verifying Kenichi's absence would help determine future actions, while also questioning the claim that the Marketing Guild was supposed to fund 50% of an initiative. 
+
+- Critical Assessment and Restructuring of the Marketing Guild:
+Lordkizzy highlighted the difficulties encountered by the marketing guild, particularly the lack of participation from core team members in essential meetings. He pointed out that despite multiple discussions, decisions could not be made due to insufficient attendance, leading to a reassessment of roles and responsibilities. The restructuring was deemed necessary to address these issues and improve overall commitment.
+
+#### Decision Items:
+- It was decided in the meeting to have one open channel for general discussion and another close channel for activities, operations and initiatives and information sharing.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Ese to merge and present the Governance Doc. [**assignee**] esewilliams [**status**] todo
+- [**action**] CJFrankie volunteered to do something for the guild  [**assignee**] CJFrankie [**status**] todo
+- [**action**] Kenichi opted for a review on the November 15th attendance  [**assignee**] kenichi [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Governance, Meeting Summaries, Guilds , Roles, Ambassador GitBook
+- **emotions:** Discursive, Deliberative, Well-attended
