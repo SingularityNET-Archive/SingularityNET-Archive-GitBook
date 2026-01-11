@@ -343,3 +343,38 @@ UknowZork shared that the guild’s purpose wasn’t clear at first, needing to 
 #### Keywords/tags:
 - **topics covered:** Q2 report and budget request, tool adoption, project management, feedback, retrospective, Q2 2025 quarterly report, Q3 2025 budget, workgroup purpose, ASI wallet, impact, Collaboration
 - **emotions:** informative, Insightful, welcoming, Interactive.
+## Friday 6th June 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Eric Davies, UknowZork, advanceameyaw, Gorga Siagian, Jeffrey Ndarake, kareem, kenichi, photogee, CJFrankie, PeterE, Kateri, esewilliams, Grandi
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [Twitter Spaces Playbook](https://docs.google.com/document/d/1HHV-1BIvnSLC1x0IlHnn2g4uZb4fKg_-tD_Usvw7x_A/edit?usp=sharing)
+  - [Marketing Guild Improvement Proposal](https://docs.google.com/document/d/1iL1t4f4CPxOCUII8j8EFbBkyzppjdgw9w-11UWPZqgY/edit?usp=sharing)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [Marketing Guild GitHub Board](https://github.com/SingularityNet-Ambassador-Program/Marketing-Guild-Board/issues/68)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the meeting by welcoming attendees and confirming their presence. He highlighted the need to update the previous call summary with certain decisions, confirmed the marketing distribution sheet, and noted ongoing work to refine Q3 project ideas based on focus group feedback.
+- Budget Discussion and Project Updates: LordKizzy outlined two Q3 proposals: the first retains the current Marketing Guild structure but shifts payments from USD to AGIX, with core members receiving 150 AGIX/month and task force members 100 AGIX/month, totaling 5,250 AGIX per quarter and 1,921 AGIX allocated to initiatives; the second introduces a new structure splitting the team into Operations (30%) and Initiatives (70%), with Operations handling core roles capped at 2,160 AGIX and Initiatives receiving 5,111 AGIX, divided into two groups of four members each who propose and execute initiatives within set budget caps, and he emphasized the need for a clear decision to move forward with one of the options for the quarter.
+- Marketing Initiatives and Quarterly Reports: LordKizzy presented the quarterly marketing report focused on raising SingularityNET awareness within budget limits, proposed shifting meetings to a bi-weekly schedule due to compensation concerns, and suggested evaluating team output for fairer rewards while supporting equal allocation to prevent conflict; he stressed the need to finalize the proposed structure to avoid budget confusion, while Kareem emphasized the urgency of submitting the Q3 budget and called for more discussion on the in-house marketing setup; Peter E argued that equal rewards may not reflect individual effort and suggested balancing responsibilities, Kenichi proposed submitting the Q3 report as is due to time constraints with room for future adjustments, and new budget change guidelines now require core contributor consent.
+
+#### Action Items:
+- [**action**] Cj Frankie to copy the document and resolve the comments on the governance documents and share them with the group for final acceptance by next week. [**assignee**] CJFrankie [**due**] 13 June 2025 [**status**] todo
+- [**action**] Ayo to help CJFrankie get the Read AI meeting summary date [**assignee**] Ayo [**due**] 13 June 2025 [**status**] todo
+- [**action**] Mikasa to handle the review of attendance for the last quarter [**assignee**] Mikasa [**due**] 13 June 2025 [**status**] todo
+- [**action**] Lordkizzy to submit the budget report on Monday, June 9th. [**assignee**] LordKizzy [**due**] 9 June 2025 [**status**] todo
+- [**action**] Lordkizzy to include the new guideline regarding budget changes in the final report. [**assignee**] LordKizzy [**due**] 13 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Budget Management , quarterly reports and budget
+- **emotions:**  informative,  forward-looking
