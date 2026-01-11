@@ -228,6 +228,7 @@ Budget: We skimmed over the Q1 budget to have a look at what we planned to do in
 
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -363,6 +364,61 @@ Budget: We skimmed over the Q1 budget to have a look at what we planned to do in
 #### Keywords/tags:
 - **topics covered:** AMA session,  Q1 budget, marketing initiatives, Collaboration, Documentation, Rewards, documentary, African, research, education
 - **emotions:** informative, forward-thinking, Welcoming, funny 
+
+
+
+### Onboarding Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LadyTempestt [**facilitator**], CJFrankie [**documenter**], Sucre n Spice, LadyTempestt, Ashley, Gorga Siagian, LordKizzy, martinsoki, Effiom, CallyFromAuron, PeterE, Clement Umoh, photogee, Ayo, Duke
+- **Purpose:** regular monthly meeting of Onboarding WG
+- **Media link:** [Link](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/9/views/2)
+- **Working Docs:**
+  - [Onboarders Report for 2024](https://docs.google.com/document/d/1ynzN-MQUIOvVXwDL2wWOJDQ55xPM4O7ic7dOJNzGhQs/edit?usp=sharing)
+  - [Onboarding WG Skillshare Matrix](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Agreeing to the minutes of the last meeting. 
+-  Skillshare Matrix: people should go in and add their skills and if they’ve got new ones, they should update them.
+-  Action items from the last meeting 
+- Onboarders Update
+-  A change of direction 
+
+-  Github project board
+- Facilitating and documenting next time
+- Onboarding to decentralization research 
+-  Q1 budget
+- Onboarding Journeys survey
+
+#### Decision Items:
+- Due to missing primary data from the onboarding to decentralization research conducted by Ayo and Kateri, we have decided to reduce the Q1 analysis budget to $300. Assign $100 each for two people to conduct analyses, $100 for editing and proofreading, and reassign $400 to the proposed new research project on “onboarding to the whole sNET ecosystem.”
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided to continue sharing the onboarding survey and keep it open.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- Given the fact that the Ambassador program no longer has many openings for new people, the team of onboarders has decided to build connections in the whole ecosystem to enable the team to direct people to where they want to be.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Peter to pin the Skillshare matrix sheet in the onboarding channel. [**assignee**] PeterE [**due**] 23 January 2025 [**status**] done
+- [**action**] Clement and LordKizzy will conduct an analysis for the onboarding to decentralization research, while Cjfrankie will do the editing and proofreading.
+ [**assignee**] LordKizzy, Clement Umoh [**status**] todo
+- [**action**] Vanessa to post a memo in the “decisions-to-be made” channel about a proposed budget reallocation of $400-less than 10% of our Q1 budget to fund our new research project, “how people onboard to the whole SNET ecosystem. [**assignee**] Vani [**due**] 23 January 2025 [**status**] done
+- [**action**] Vannesa and Duke will lead a session on ‘budget planning and management’ on February 13th.
+ [**assignee**] Vani, Duke [**due**] 13 February 2025 [**status**] todo
+- [**action**] Sucre will lead a session on “Understanding the SNET ecosystem in March.” [**assignee**] Sucre n Spice [**due**] 27 March 2025 [**status**] todo
+- [**action**] Onize to timestamp the M&E session on the 21st and add it to YouTube.
+ [**assignee**] Onize [**due**] 23 January 2025 [**status**] todo
+- [**action**] Duke to DM Onize to request the reshare of the onboarding survey.  [**assignee**] Duke [**due**] 23 January 2025 [**status**] in progress
+- [**action**] Anyone who is not yet a member of the Ambassador Program GitHub organization should DM Sucre their GitHub username. [**due**] 23 January 2025 [**status**] in progress
+
+#### To carry over for next meeting:
+- “Onboarding journeys” survey
+
+#### Keywords/tags:
+- **topics covered:** onboarders,  skillshare matrix, GitHub project, Facilitation, Documentation, Decentralization, skillshare session, research, onboarding journeys, surveys, Q1 budget, SNET, ecosystem, proofreading, editing, Analysis, budget planning, budget management, connection
+- **emotions:** Collaborative, Welcoming, forward-thinking
 
 
 ## Friday 10th January 2025
