@@ -39,3 +39,42 @@ Updates included
 #### Keywords/tags:
 - **topics covered:** low token price, Engagement, Toridian, DeepFunding, Rejuve, Cudos accelerator program, BGI Nexus
 - **emotions:** quiet, low-key, low attendance, chatty, relaxed
+## Wednesday 26th November 2025
+
+### Education Workgroup
+
+- **Type of meeting:** Biweekly
+- **Present:** Zalfred [**facilitator**], devon [**documenter**], PeterE, LordKizzy, Gorga Siagian, Rems, Kateri, martinsoki, Zalfred
+- **Purpose:** To review progress on ASI Academy core topic assignments, showcase the completed ASI Create module, check in on missing updates from other contributors and plan follow-up actions as Q4 concludes.
+- **Working Docs:**
+  - [ASI CREATE](https://docs.google.com/document/d/1ZfIaqZYLgnaYGHOXPUM7l08M89fUVbLO7qvCwG8w4vA/edit?hl=ID&tab=t.0)
+  - [ASI CREATE SLIDES](https://www.canva.com/design/DAG5yUaoGDw/W154fBPbOEGNQajTuyo2iQ/edit?utm_content=DAG5yUaoGDw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+#### Discussion Points:
+- Presentation of ASI Create by Gorga
+
+Gorga presented the ASI Create module he developed as part of the ASI Academy's ongoing efforts. He shared slides and documents, walking participants through the structure and content of ASI Create. The module includes a comprehensive introduction to the ASI Creation Framework, focusing on its role as a bridge between AI developers and users. Key innovations outlined included decentralized AI compute, development infrastructure, and multi-agent protocols. He explained ASI Create’s integration with the broader ASI DePIN stack, emphasizing its four pillars: enhanced large language models, neural-symbolic systems, work models, and agent networks. The slides also detailed toolkits such as the AI Launchpad, cross-domain GenAI, developer spaces, pre-trained AI agents, and domain-specific applications in crypto trading and biotech. Gorga encouraged everyone to review the shared material and provide feedback. Zalfred and Peter both praised the structure and potential impact of the module, though Peter advised delaying public release until official ASI product roadmaps are published for better alignment. He also mentioned to remove Ocean Protocol as they exited the alliance.
+- Pending Updates from Other Contributors
+
+Zalfred reviewed the core assignments and noted that Kateri, Osmium, Lord Kizzy, Ese and Martinsoki were all assigned different ASI Academy modules (Train, Learn, Compute, Data, Zero) but were absent. He expressed concern that only Gorga had delivered a module update, and committed to reaching out to each of the others post-meeting to track their progress and provide a status update to the group.
+- Governance Webinar Series
+
+When asked about progress on the Governance Series, Gorga confirmed that this was being handled by Osmium and Lord Kizzy, but both were absent from the call. Zalfred stated that he would follow up with them via chat or group message to confirm updates, including the latest on the deliverables, budget, architecture, and rollout timeline that Osmium had reportedly shared in a prior meeting.
+- Quarterly Report for Q4 2025
+
+The Q4 report was briefly discussed. Zalfred will ask SirXalfred again about volunteering; if there's no response, Zalfred will take over. He invited others to contribute or take over the report by messaging him in the group.
+- Next Steps for ASI Academy Modules and Reporting
+
+Zalfred highlighted the need to move forward with collecting all remaining module presentations from the contributors. He restated the importance of getting a clear overview before the next quarter begins and noted that this will help the guild prepare for 2026 planning. A list of individuals (Kateri, Osmium, Kizzy, Ese Williams, and Martinsoki) was mentioned as priority contacts for follow-up. He confirmed that the ASI Academy and Governance Series updates will remain key focus areas moving forward.
+- Zalfred also said he will reach out to Slate to get updates on CCCP because he was absent in the meeting. 
+
+#### Decision Items:
+- Peter advised delaying public release of ASI presentation modules 
+  - [**rationale**] until official ASI product roadmaps are out.
+
+#### Action Items:
+- [**action**] Zalfred will contact absentees for updates on their progress. [**assignee**] Zalfred [**due**] 3 December 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ASI Academy, ASI Create Module, Governance series, CCCP, Q4 2025 quarterly report
+- **emotions:**  forward-looking,  Collaborative
