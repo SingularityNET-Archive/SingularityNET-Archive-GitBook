@@ -195,3 +195,51 @@ In the demonstration, Samski showcased the process of joining the NUNET testnet 
 #### Keywords/tags:
 - **topics covered:** NuNet Town Hall, Nunet, decentralized encryption, decentralized public cloud infrastructure
 - **emotions:** Interactive, Educative, Productive, Welcoming
+## Friday 28th February 2025
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], kareem, kenichi, Gorga Siagian, Eric Davies, Kateri, advanceameyaw, UknowZork, Jeffrey Ndarake, SubZero, Mikasa, hogantuso, CJFrankie, photogee, Malik, PeterE, esewilliams, Alfred Itodole, Éveline Trinité, Max Milez, osmium
+- **Purpose:** Marketing Guild weekly meeting
+
+- **Working Docs:**
+  - [Marketing Review Sheet](https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing)
+  - [Marketing Guild Distribution Sheet](https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing)
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Q1 Marketing Guild Proposal](https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Design Work Group(under marketing)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740672236759656%26amp;usg%3DAOvVaw0ZOENfBt_1d9aJBh6k0bh3&sa=D&source=docs&ust=1740672236764018&usg=AOvVaw0ZJ0G-_bvispWqK7jdvKXh)
+  - [Q2/2025 R&D New Proposal Submission](https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform)
+  - [R&D New Proposal Submission [Template] ](https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit)
+  - [Governance Document For Marketing Guild](https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0)
+  - [DRAFT Podcast Episode 1 With Peter as community manager in the SingularityNET community](https://docs.google.com/document/d/1mFOA5Vwmo_4TorRfNOQl5gjxADrR6whxwF8PvneK28s/edit?tab=t.0)
+  - [Podcast Update: [TBD]](https://docs.google.com/document/d/1y8xdSDYrBEoIhkBUq_RvCqjsjOXEk0nBGR-zflGmOs8/edit?usp=sharing)
+  - [Marketing initiative Proposals](https://docs.google.com/document/d/15Vn6CLLb0iOy0G33OCbScmihOkTzY_yFY6O6Zi5d4cU/edit?usp=sharing)
+  - [Marketing Guild Asset Inventory ( Useful Links)](https://docs.google.com/spreadsheets/d/1sLhviSpXY3kgBlmRzvGX9jKA4aNffQrmrCtKYhRVXvU/edit)
+
+#### Discussion Points:
+- The meeting opened with LordKizzy confirming the agenda and addressing the adoption of the previous meeting note made by Martinsoki. Action items were outlined.
+- Discussion on Graphics Team Structure: Kareem noted differences between his and Gorga’s previous communications and the current proposal, urging a clear budget allocation to simplify design tasks. Gorga confirmed that the focus is on graphic design for marketing.
+- Updates on Podcast Initiatives: Photogee explained that Peter had initially set a date for the podcast recording but was unable to attend, so the recording was rescheduled for next week.
+- AI Event Update: CJfrankie gave a breakdown on the AI event that took place at Los Angeles, discussing the benefits and challenges of AI, particularly in security applications. He highlighted the high costs associated with AI technology and emphasized the need to view AI as a supportive tool rather than a job threat. CJfrankie also mentioned networking opportunities, although he did not have a chance to onboard new members to SingularityNet due to lack of time.
+- Updates on Project Collaborations and Guild Activities: Malik reported no new updates or collaborations from the guilds he oversees, such as the education and gamers guilds. A lot of that is being handled by the core members already.
+- A.O.B: 
+
+Advanceameyaw provided marketing updates, including brand guidelines and collaboration plans with the African Guild. He mentioned an upcoming Ubuntu and AI conference and ongoing discussions about AI ethics and community awareness initiatives. 
+
+LordKizzy addressed the shift in the graphics team's focus and ongoing budget management processes. Mikasa updated the group on her return to work and confirmed that the social media spotlight would be scheduled to go out after this call. Photogee provided updates on the podcast, and the usual weekly posts were shared.
+
+Singularity Scavenger Hunt: Eric Davies introduced the Singularity Scavenger Hunt, which aims to enhance user engagement with the SingularityNet platform through gamified challenges. Participants will solve cryptograms, complete AI-related tasks, and answer trivia questions to familiarize themselves with the ecosystem. The initiative is expected to boost user onboarding and retention while spreading awareness of SingularityNet's offerings.
+Allocation and Operations Discussion: Lordkizzy addressed the allocation tool and the delay in Zealy sprints, seeking clarity on operations and the need for prioritization. Photogee discussed the operational aspects of initiatives, while Eric Davies elaborated on the stress associated with moderation and content management tasks. The conversation underscored the importance of documenting time spent on tasks for proper allocation.
+Kateri updated the group that she had submitted the use spotlights and would work on the committee spotlight this week. Photogee inquired about role responsibilities and treasury updates, prompting Lordkizzy to explain the feedback process for incomplete tasks and the transparency of budget information. Lordkizzy emphasized that market fluctuations affect budget allocations, and that the current financial status is available on the charity.org website.
+
+#### Action Items:
+- [**action**] All members to read the governance documents and provide comments before the next meeting. [**assignee**] all [**due**] 4 April 2025 [**status**] todo
+- [**action**] Jeffrey to put a comment in the Marketing Guild channel on Discord to help us identify him. [**assignee**] Jeffrey Ndarake, AJ, Aetherblade [**due**] 4 April 2025 [**status**] todo
+- [**action**] LordKizzy to reach out to kenichi regarding the Zealy initiative allocation for Writers WG  [**assignee**] LordKizzy [**due**] 4 April 2025 [**status**] todo
+- [**action**] Eric Davies to provide clarity on the options for the Discord bot in the next meeting. [**assignee**] Eric Davies [**due**] 4 April 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q2 2025 budget, Initiatives, Community podcast update,  Budget Allocation,  Zealy sprints , Singularity Scavenger Hunt
+- **emotions:**  informative,  insightful,  Satisfaction
