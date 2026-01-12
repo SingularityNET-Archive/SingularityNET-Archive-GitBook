@@ -586,6 +586,7 @@ Agreed on a call next week with Vani, Clement and LordKizzy to iron out the prob
 
 ## Friday 21st February 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -624,3 +625,62 @@ LordKizzy and Kenichi had a call on Saturday whereby they looked at the response
 #### Keywords/tags:
 - **topics covered:** Governance, Guilds , Meeting Summaries, Zealy, Ambassador GitBook, Initiatives, GitHub project, Community podcast update, community spotlight 
 - **emotions:** Friendly,  informative, Discursive
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** hogantuso [**facilitator**], Zalfred [**documenter**], hogantuso, LordKizzy, Slate, Malik, killy, AndrewBen, osmium, devon, frosh, SubZero, Zalfred
+- **Purpose:** The purpose of this meeting was to discuss the video work group activities and have a series of task distribution. 
+- **Working Docs:**
+  - [spin off projects videos link](https://docs.google.com/document/d/1GF08bgVGwbeutTCodtTzDYqOml3ZWr7fp7uBD1r5d6U/edit?usp=sharing)
+
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Slate on various tasks assigned within the week. He highlighted the November and December recap videos submission.
+
+- UPDATE FROM SOCIAL MEDIA MANAGER
+Andrew Ben gave a precise update highlighting that he didn't post out much. He added that he had reached out the certain persons that turned in videos with missing thumbnails and timestamps.
+
+- UPDATE FROM THE CURRENT ZEALY SPRINT
+Concerning the current zealy sprint, Lord kizyy announced that zealy sprint is having such a great impact specially across our social media platforms. For instance, he added that there’s been a significant increase in the number of subscribers across our socials media platforms.
+
+- UPDATE ON THE SPIN OFF PROJECT VIDEOS
+A presentation by lord Kizzy leaving the floor open for deliberation and suggestions. Lord Kizzy added that the videos for our spin off projects are ready which he shared to the house However, lord kizzy added that we'd prolly stand a chance to show case our quality videos and see how we can work abreast our spin off projects.
+lastly, He urged the house to make hay while the sun shines concerning drafting spin off project proposals.
+- DISCUSSION AROUND BUDGET CUTTING
+Due to the severe budget constraint, Lord Kizzy added that we have to make severe adjustments as we’re in a critical situation. Questions of how we can get more funding, cut out a lot of things, most probably, video productions and the rest of other recurring tasks as the allocations were drastically reduced. We need to look at how we can further reduce our budgets. Tuso raised concerns around the the current Agix Token price and the recurring tasks of the video work group as this appears to be an up hill battle. He added that we think critically before taking actions.
+1.We need to look at how we can further reduce our budgets.
+lord kizzy suggested a biweekly call as a measure to reduce our pay out.
+
+2.Slate suggested we keep some tasks of course with some cuts and basically see how we can sustain it for the rest of the quarter while having our eyes on the agix token price.
+
+3.Lord Kizzy affirmed that there’s no way we’d pass Q2 without making cuts. Adding that we have to work with what we have.
+- FURTHER DISCUSSION ON THE CURRENT ZEALY SPRINT
+Concerning the zealy program,Lord kizy added that about 10 tasks has been published already and by the end of the zealy sprint, we could maximize the impact of the zealy and discuss how we can improvements, and basically measure the impact of the zealy program.
+- DISCUSSIONS ON Q1 REPORT
+Kizzy announced that he’s half way through the quarterly report and concerning the analytics, he added that the zealy would be a great impact for instance, there’s been a significant engagements across our socials.
+
+#### Decision Items:
+- We need to look into how we can further reduce our budgets. The House Agreed that the next meeting will be dedicated to discussions around Budget fitting
+  - [**rationale**] 
+
+
+
+  - [**effect**] mayAffectOtherPeople
+- Further operational calls with kenichi and the rest of the team to evaluate the impact of the zealy program and discuss measures to make it better
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Next meeting's is strictly for Budget fitting discussion [**status**] todo
+- [**action**] lord Kizzy to prolly draw a pull concerning videos selections for the spin off projects  [**assignee**] LordKizzy [**status**] todo
+- [**action**] Task manager [**assignee**] hogantuso [**status**] todo
+- [**action**] Social media manager [**assignee**] AndrewBen [**status**] todo
+- [**action**] Meeting Facilitator [**status**] todo
+- [**action**] Town Hall Video Edits [**status**] todo
+- [**action**] Town Hall Video Summary [**status**] todo
+- [**action**] Meeting Documenting [**status**] todo
+- [**action**] Review Team [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation,  Decision-Making ,  Budget Proposals , Budget fitting
+- **emotions:**  Collaborative,  Need for Clarity  ,  Optimism ,  forward-looking
