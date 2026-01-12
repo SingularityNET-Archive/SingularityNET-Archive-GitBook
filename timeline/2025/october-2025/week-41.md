@@ -6,6 +6,7 @@ description: Mon 6th Oct - Sun 12th Oct 2025
 
 ## Monday 6th October 2025
 
+
 ### AI Ethics WG
 
 - **Type of meeting:** Monthly
@@ -74,6 +75,48 @@ The number of transcription tasks was reduced from 14 to 11.
 #### Keywords/tags:
 - **topics covered:** outreach and promotion plan for BGI 25, AI Ethics MOOC Study group, interviewing, transcription, work standards, BGI-25 Virtual Unconference, interview coding, Q4 2025 budget, Budget fitting, qualitative research
 - **emotions:**  Collaborative, Interactive, Solution oriented, Discursive
+
+
+
+### WG Sync Call
+
+- **Type of meeting:** Monthly
+- **Present:** PeterE [**facilitator**], UKnowZork [**documenter**], PeterE, UKnowZork, CallyFromAuron, Effiom, AshleyDawn, Jeffrey Ndarake, Alfred Itodele, guillermolucero, AndrewBen, hogantuso
+- **Purpose:** Monthly call for all Workgroups to discuss Program-wide issues 
+- **Working Docs:**
+  - [WG budget caps as of Q3 2025, plus sentiment survey data](https://docs.google.com/spreadsheets/u/0/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE/htmlview)
+
+#### Agenda Items:
+- How to handle unallocated funds from the reserve
+
+#### Discussion:
+The meeting opened with a focus on the agenda topic: how to handle unallocated funds, specifically the governance workgroup’s request for leftover funds from the Q4 budget. The discussion centered on funds left over due to budget cap discretion:
+
+1,554 AGIX (the suggested Q4 budget reserve amount)
+3,155 AGIX unused by the Moderators Workgroup (Peter noted this wasn’t included in the quarterly report because he was on holiday and there wasn’t enough time to finalize it).
+
+This left a total of roughly 4,709 AGIX unallocated. The Governance WG had already proposed using the 1,554 AGIX to compensate for facilitation of governance meetings, which are currently unpaid. Alfred confirmed he was the one who originally made this proposal.
+
+There was debate on how to handle these funds. Normally, unused money returns to reserves. Peter said he supported governance WG work but worried it could be unfair to other groups if the funds were allocated without following a clear process. Alfred suggested reframing it: governance WG would “collect” the funds before they entered the reserves, rather than pulling them back out afterward.
+
+Vani added context: in the budget caps meeting, the agreement was to return surplus funds to reserves “for now.” Later, in a governance meeting, it was suggested that governance WG add the 1,500 AGIX to its budget and rely on objections if anyone disagreed. That passed the consent round. She also emphasized that the 3,155 AGIX from the Moderators Workgroup should be treated separately, since no discussion had taken place about reallocating it. By default, it should return to reserves.
+
+Everyone agreed that if a workgroup wants additional funds, there should be a clear process for requesting them from reserves. At the same time, Vani cautioned against making the process too complicated or turning it into a “begging letter” system. Guillermo suggested moving decisions to the Governance Dashboard, but Vani explained that the Dashboard doesn’t yet support the “does anyone object?” style of decision-making.
+
+In conclusion, we agreed to put two items in the “Decision to be Made” channel:
+Ask contributors if they agree to allocate 1,500 AGIX to governance WG.
+Confirm that the moderators’ leftover 3,155 AGIX should go back to reserves.
+
+We also agreed that if anyone objects to the second point, alternative proposals for using that amount could then be discussed.
+
+
+
+#### Action Items:
+- [**action**] Vani and Peter will draft the decision items and post them in the Decision to be Made channel for contributor approval. [**assignee**] CallyFromAuron, PeterE [**due**] 6 October 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Budget Request, unallocated funds, Governance workgroup, Moderators workgroup, Ambassador Program reserves, Decision Making Process, Consent Process, Governance Dashboard
+- **emotions:** Organised, Discursive, Collaborative, Resourceful, forward-looking, Conclusive
 
 
 ## Tuesday 7th October 2025
