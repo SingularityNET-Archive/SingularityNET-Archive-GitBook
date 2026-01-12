@@ -292,6 +292,7 @@ The meeting wrapped up with Ayo encouraging both Kateri and Jeffery to reach out
 ## Thursday 27th March 2025
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -399,6 +400,65 @@ Alfred Itodole asked if he could request tasks and receive mentorship after atte
 #### Keywords/tags:
 - **topics covered:**  Q1 budget,  Budget Allocation, Project Showcase, ASI LLM, Q2 2025 budget, Documentation, Workgroup Discord tag,  Mentoring
 - **emotions:** Welcoming, Interactive, Informative,  Understanding.
+
+### WG Sync Call
+
+- **Type of meeting:** Monthly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, CallyFromAuron, guillermolucero, Sucre n Spice, UKnowZork, osmium, Évéline Trinité
+- **Purpose:** Monthly call for all Workgroups to discuss Program-wide issues
+- **Working Docs:**
+  - [WG Syncing call, rolling agenda](https://docs.google.com/document/d/1Mdxr2DT9LOi_-7ZS7oIC69ilY67oGqReVhvOuNwUgYQ/edit?usp=sharing)
+  - [Ambassador Program End of Year report - draft outline](https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing)
+  - [BGI Nexus global AI Ethics survey](https://www.smartsurvey.co.uk/s/AI-Ethics/)
+
+#### Agenda Items:
+- BGI Nexus survey
+- End of Year Report
+- Collaborations with spinoffs and partners
+- Meeting attendance/next WG Sync call
+
+#### Discussion:
+The meeting started small, although a few more people drifted in later.
+
+1) BGI NEXUS SURVEY
+We briefly noted that the BGI Nexus survey into attitudes to AI Ethics is ongoing - AI Ethics WG members have been promoting it to their friends and contects, but we should also invite Ambassador Program members to complete it too. Link was shared, and we agreed to promote it on Ambassador Discord channels; but we agreed that we'll check with BGI Nexus before promoting it more widely via general sNET channels, in case they want to take a more targeted approach at this stage.
+
+2) END OF YEAR REPORT
+As agreed in the last WG Sync call, Vani has done a final proofread, and it is almost ready to go. Guillermo  will add a bit of detail on LatAm events later today, then it will be published probably tomorrow.
+
+3) COLLABORATIONS WITH SPINOFFS AND PARTNERS
+We discussed how to progress this issue, which was discussed in the last WG sync call (particularly in the light of low token price - is there any way that collabs might support the Ambassador Program financially?)
+Decided the first step is to collate info on how different WGs are already working with spinoffs and partners - for example
+- we already translate the ecosystem monthly writeup
+- we had hackathon collab with fetch
+- AI Sandbox/ThinkTank has been working with NuNet
+- NuNet and BGI Nexus have attended Town Halls
+- LatAm and Onboarding are working with different spinoffs
+
+Peter will create and share a spreadsheet and ask all WGs to add any collaborative work they are currently doing
+Then when we have this information, we can start writing a strategy for future efforts, covering marketing, LatAm, African, R&D, Onboarding, Education, and more.
+
+4) MEETING ATTENDANCE and NEXT WG SYNC CALL
+This meeting was quite poorly attended. We felt that perhaps people would be more likely to attend if there's a specific topic for discussion, and particularly if it is something that clearly involves all WGs, such as "WG collaborations with spinoffs and partners". So we'll collect the info on what WGs are already doing, and hold an additional call on Monday 7th April to focus on this. We se;ected a later time (16:00 UTC) as the current time of 11:00 UTC might be excluding some people.
+
+
+
+#### Decision Items:
+- We'll have an additional WG Sync Call on Mon 7th April, 16:00 UTC, specifically focusing on WG collaborations with spinoffs and partners
+  - [**rationale**] 1) because this call was poorly attended
+2) because we felt that a more specific agenda topic might encourage people to attend
+3) because the current time of 11 am UTC might be too early
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Peter to create and share a spreadsheet asking WGs and guilds to list any collaborative work they are already doing with spinoffs and partners [**assignee**] PeterE [**due**] 1 April 2025 [**status**] todo
+- [**action**] Peter will publish the End of Year Report 2024 in the next few days [**assignee**] PeterE [**due**] 31 March 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** BGI Nexus, AI Ethics survey, Collaboration, partners, spin-offs, End of Year Report 2024, timezone exclusion
+- **emotions:** quiet, low attendance, useful, slow start
+
+
 ## Friday 28th March 2025
 
 ### Marketing Guild
