@@ -6,6 +6,7 @@ description: 30th January 2023 to 5th February 2023
 
 ## Tuesday 31st January 2023
 
+
 ### Ambassador Town Hall
 
 - **Type of meeting:** Weekly
@@ -21,3 +22,12 @@ description: 30th January 2023 to 5th February 2023
 #### Keywords/tags:
 - **topics covered:** Process Guild, Meeting Summaries, Governance, Rewards, TH Update , Marketing Guild, Podcast workgroup, Treasury Guild, DeepFunding round 2, community governance, loyalty rewards pool
 - **emotions:** Thoughtful , repetitive, Well-attended
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Rafael Presa [**facilitator**], Jenn [**documenter**], Rafael Presa, Daniel Ospina, Roberto Mayen, Nikita Murashkin, Ammar Nasr, others unknown
+- **Purpose:** Monthly Awarded Teams Meeting 2023 
+- **Working Docs:**
+
+Video URL: https://www.youtube.com/watch?v=1BRyFxW5o0w
