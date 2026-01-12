@@ -431,6 +431,7 @@ Colleen will facilitate the next meeting, and PhotoGee twill document. However, 
 ## Friday 7th March 2025
 
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -524,3 +525,40 @@ Agreed to provide a budget for ecosystem updates.
 #### Keywords/tags:
 - **topics covered:**  Budget Allocation,  Zealy sprints , Ecosystem Update videos
 - **emotions:**  Collaborative,  Understanding.  ,  forward-thinking
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** kenichi [**facilitator**], CJFrankie [**documenter**], kenichi, Mikasa, CJFrankie, Gorga Siagian, LadyTempestt, Évéline Trinité
+- **Purpose:** The weekly meeting of the writers workgroup
+- **Working Docs:**
+
+#### Narrative:
+Kick-off: The writers' workgroup weekly meeting commenced at 3:20 p.m. Following discussions from the last meeting, we discussed how the WWG could move forward with its operations amid the token devaluation. We learned in the meeting that we have only 1029 AGIX left (about 279 USD). This led to a discussion on whether the workgroup should have a wallet outside the ambassador program, just like the archives WG. This idea was first proposed in Q4 2024 when the token price depreciated. Kenichi also added that the Marketing Guild has a wallet outside the Treasury, which was used to distribute rewards for the Zealot campaign initiative. Kenichi added that the only solution is to adjust outgoing rewards to match the current price of AGIX or 
+
+Additionally, February point system rewards weren't distributed last week due to the token devaluation. In light of this, the workgroup should dip into their Q4 2024 reserve. More so, moving forward, only high-priority tasks will be assigned, and Trivia sessions will pause until further notice. Kenichi also mentioned that if AGIX keeps dipping, all outstanding payments might wait until March 28th.
+
+
+
+#### Decision Items:
+- Only high-priority tasks will be assigned to writers
+  - [**effect**] affectsOnlyThisWorkgroup
+- We have decided to pause Friday Trivia until further notice
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- If AGIX keeps dipping, all outstanding payments might wait until March 28th.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The Scribes to chase Tevo concerning the WWG reserves and how we can dip into it.
+ [**assignee**] CJFrankie [**due**] 14 March 2025 [**status**] done
+- [**action**] Kenichi to update the WWG meeting calendar link.
+ [**assignee**] kenichi [**due**] 14 March 2025 [**status**] done
+
+#### Learning Points:
+- 
+
+
+#### Keywords/tags:
+- **topics covered:** Workgroup Reserves, Trivia, Points system, token price
+- **emotions:** Deliberative, Discursive, speedy
