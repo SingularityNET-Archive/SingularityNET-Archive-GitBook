@@ -590,6 +590,7 @@ Duke also outlined marketing and education initiatives for this quarter which wi
 ## Friday 17th January 2025
 
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -655,6 +656,40 @@ A quick update from Malik on various tasks assigned within the week. He highligh
 #### Keywords/tags:
 - **topics covered:** Video Edit, Q1 2025 goals, Ecosystem Update videos, Zealy, Town Hall Videos
 - **emotions:** Friendly, speedy , Collaborative, Thoughtful 
+
+
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** kenichi [**facilitator**], Cjfrankie  [**documenter**], cjfrankie, Gorga Siagian, Emmanuel Issac, Mikasa, Nebula, kenichi, Évéline Trinité, devon
+- **Purpose:** Weekly meeting of the writers workgroup and discussions around Q1 2025 deliverables
+- **Working Docs:**
+
+#### Narrative:
+also shared ideas concerning some notable deliverables we might pull off this quarter and moving forward! One of the deliverables would be to create weekly Ambassadors TownHall recaps and a weekly digest that covers key highlights from workgroups and guilds, such as reminders or callouts! 
+
+Web3 publishing platforms: As a follow-up from Q4 2024, we have decided to explore and tap into the endless possibilities of Web3 platforms. Kenichi hinted that Scribblers could be assigned to some platforms to coordinate the articles. The cornerstone benefit of leveraging these platforms is the fact that we get to monetize them, and secondly, there are a lot of Web3 enthusiasts who use this platform, so it’s a great way to connect with them. In addition to this, scribblers are urged to research various platforms that might interest them to manage. 
+
+Twitter giveaway contest: Kenichi added that there is an X giveaway in the pipeline. This giveaway will be a marketing strategy for the WWG and will run for 2 weeks. Although we’re still incubating this idea, more updates will be shared in future meetings. Plus, there would be a pool of $100, and we could set up a bot that randomly selects winners. 
+
+Trivia: The Friday trivia game will still maintain the biweekly schedule.
+
+Role document: Lastly, Kenichi added that it’s time to revisit the role document. This document helps the WG review thresholds for scribblers and scribes. These thresholds are like KPIs for each member of the workgroup. It helps assign new roles, such as scribes, to members who merit them and also relinquish some roles for underperforming members.
+
+
+#### Decision Items:
+- We decided to start using other Web3 publishing platforms in Q1 and going forward.
+
+  - [**rationale**] The admittance of Web3 publishing platforms like Mirror or Lens will enable the workgroup to reach a wider audience.
+  - [**effect**] affectsOnlyThisWorkgroup
+- We have decided to upgrade our X page to the premium+ plan so that we can start publishing articles directly on X.
+  - [**rationale**] We saw the potential benefits of publishing articles on X, and we want to tap into that channel.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Twitter, Web3 publishing platforms, premiumplus, Triva, Twitter contests, giveaways, weekly TH recap, Role document , KPIs
+- **emotions:** Welcoming, informative, speedy
 
 
 ## Saturday 18th January 2025
