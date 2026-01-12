@@ -261,6 +261,67 @@ Santos emphasized that censorship is unavoidable when AI is deployed on a global
 #### Keywords/tags:
 - **topics covered:** API, AI Models, Open source, Misuse gap, Right, Privilege, Modules, Safety, Discussion/Debate Session, Global inequality
 - **emotions:** Interactive, Educational, Productive, Informative, Discursive
+## Friday 20th June 2025
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], osmium [**documenter**], AndrewBen, osmium, Slate, Malik, hogantuso, SubZero, devon, Zalfred
+- **Purpose:** Budget Approval Update from Kizzy,Social Media and Engagement Challenges,Funding and Structural Concerns
+
+
+- **Working Docs:**
+  - [Meeting Summary for Video Workgroup Date: 20 June 2025](https://docs.google.com/document/d/1VFYFxNDC-sWZVWQLKHt1zxwauohVlY14LUsBal8hPoI/edit?usp=sharing)
+
+#### Discussion Points:
+- Budget Approval Update from Kizzy
+
+Team did not receive approval for the consensual round due to two objections regarding lack of participation in work group updates and high budget allocation for content with low engagement
+Kizzy explained that the objections are considered invalid as there are no regulations requiring attendance at updates
+Decision made to give consent in the next round to ensure budget approval for the quarter
+
+- Social Media and Engagement Challenges
+
+Tuso highlighted significant engagement issues on current social media pages and emphasized the need for verified accounts to increase visibility
+Discussion around account stability affecting content quality and reach
+Team exploring platforms like TikTok and Instagram to boost social media engagement
+Need identified for community engagement before investing in influencer marketing partnerships
+
+- Funding and Structural Concerns
+
+Tuso raised concerns about current funding limitations and need for better program structure
+Discussion on the importance of proper collaboration and adequate funding to achieve project goals
+Focus agreed on securing budget approval to ensure funds are available for quarterly operations
+
+- Task Distribution
+
+Social Media Manager: Andrew (confirmed due to effective current management and platform access)
+Documenter: Devon (assigned to document next session)
+Task Manager: Devo
+Town Hall Edit: Subzero
+- Updates on Recent Activities
+
+City event update provided by Kizzy noting poor participation and issues with task link management
+Discussion on reduced allocation for city events and need for better collaboration with other projects
+Call scheduled to discuss further improvements to city event management
+
+
+#### Decision Items:
+- Continue exploring TikTok and Instagram 
+  - [**rationale**] for increased engagement
+  - [**effect**] affectsOnlyThisWorkgroup
+- Focus on community engagement strategies before influencer partnerships
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Team to give consent in next round for budget approval [**assignee**] all [**due**] 30 June 2025 [**status**] todo
+- [**action**] Devon to document next session [**assignee**] devon [**due**] 27 June 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Budget Approval Process , social media, Engagement, Q3 2025 budget, low token price, structure of WG, Collaboration, task assignment, lack of funding, TikTok
+- **emotions:**  Need for Clarity  
+
+
 ## Saturday 21st June 2025
 
 ### Gamers Guild
