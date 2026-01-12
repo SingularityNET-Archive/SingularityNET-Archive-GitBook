@@ -19,3 +19,17 @@ description: 9th January 2023 to 15th January 2023
 #### Keywords/tags:
 - **topics covered:** Translation, Operations, infographic, reviews, AI marketplace, process guild, Treasury guild, podcasts, social media, Marketing
 - **emotions:** Casual, Well-attended
+## Wednesday 11th January 2023
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Jan Horlings [**facilitator**], Jenn [**documenter**], Jan Horlings, Kenric Nelson, Felix, Juana Attieh, PeterE, Fly, others unknown
+- **Purpose:** Deep Funding | Community Governance - January 11, 2023
+- **Working Docs:**
+
+Video URL: https://www.youtube.com/watch?v=tKhMKIm-MCs
+
+#### Keywords/tags:
+- **topics covered:** Governance, Financing, Deepfunding proposal platform, website, Onboarding, Collaboration, DeepFunding
+- **emotions:** Thoughtful , Organised, Discursive
