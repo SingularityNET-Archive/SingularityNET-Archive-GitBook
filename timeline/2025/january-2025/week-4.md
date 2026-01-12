@@ -375,6 +375,7 @@ Clement discussed an upcoming "Afro-AI Multilingual Literacy Drive" initiative, 
 - **emotions:** Welcoming, Collaborative, Discursive
 ## Friday 24th January 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -429,3 +430,43 @@ Clement discussed an upcoming "Afro-AI Multilingual Literacy Drive" initiative, 
 #### Keywords/tags:
 - **topics covered:** Roles, TH Update , Zealy, content calendar, Taskforce
 - **emotions:** Well-attended, argumentative, forward planning, contructive criticism, heated, fiery
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], LordKizzy [**documenter**], Zalfred, AndrewBen, killy, frosh, Slate, devon, hogantuso, LordKizzy, Malik, prime.eth, SubZero
+- **Purpose:** The meeting focused on weekly updates and tasks distribution
+- **Working Docs:**
+
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Malik on various tasks assigned within the week. He highlighted that there were multiple video submissions, and two got approved and scheduled for posting while the townhall edit is currently being worked upon
+- Update from the Social Media Manager, Andrew Ben noted that he was able to schedule the recent submissions 
+
+- Town hall updates: Zalfred gave the updates from the previous town hall. 
+- Zealy Discussions: Lordkizzy spoke on the partnership between all three workgroups (Video wg, Writer's wg, and Marketing guild) and noted that there would be a call in the coming week to discuss the structure of the collaboration
+- AOB: Collaborations with spinoffs projects: Lordkizzy emphasized on the need of the collaboration and members gave their inputs on the structure of the collaboration
+- AOB: ECOSYSTEM Update Videos: Zalfred and Killy proposal for creating the leftover ecosystem videos was approved, we decided to change the name of the ecosystem videos, tho there are still pending discussions on whether the task will be rotational as we advance, a poll will be created for this on our discord server
+- AOB: LordKizzy informed the group that he had submitted the video wg report
+
+#### Decision Items:
+- We decided to have a poll to determine if the task for creating the ecosystem videos are going to be rotational
+  - [**rationale**] a poll will be created on our discord channel for this
+- we decided to change the name of the ecosystem videos
+  - [**rationale**] the source name (Inside SingularityNET) is currently used by the foundation, lordkizzy is to come up with some suggestions
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Osmium to present the videos from Bangkok  [**assignee**] osmium [**due**] 24 January 2025 [**status**] todo
+- [**action**] Lordkizzy to submit a short report on the video workgroup achievements to Peter [**assignee**] LordKizzy [**due**] 24 January 2025 [**status**] done
+- [**action**]  lordkizzy to reach out to Rojo and get feedback on the situation [**assignee**] LordKizzy [**due**] 24 January 2025 [**status**] done
+- [**action**] Slate was appointed Task manager for the month [**assignee**] Slate [**due**] 21 February 2025 [**status**] todo
+- [**action**] Tuso was appointed facilitator for the month [**assignee**] hogantuso [**due**] 21 February 2025 [**status**] todo
+- [**action**] Zalfred was appointed Meeting documentation for the month [**assignee**] Zalfred [**due**] 21 February 2025 [**status**] todo
+- [**action**] Malik was appointed Town Hall edit for the month [**assignee**] Malik [**due**] 21 February 2025 [**status**] todo
+- [**action**] Subzero was appointed Town hall summary edit for the month [**assignee**] SubZero [**due**] 21 February 2025 [**status**] todo
+- [**action**] Lordkizzy and Devon were appointed as the Quality control team for the month [**assignee**] LordKizzy, devon [**due**] 21 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Video Edit, Q1 2025 goals, Ecosystem Update videos, Zealy, Town Hall Videos, Spin off collab, Task Assignment
+- **emotions:** Friendly, Collaborative, Thoughtful , lengthy
