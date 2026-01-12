@@ -28,3 +28,21 @@ Deep Funding initiated by SingularityNet makes it to the second rou. In the vide
 #### Keywords/tags:
 - **topics covered:** Deep funding round 2, pools, Proposals
 - **emotions:** Collaborative, Welcoming, engaging
+## Thursday 8th December 2022
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Jan Horlings [**facilitator**], Photogee [**documenter**], Jan Horlings, Kenric Nelson, ParagOza, Kent, others unknown
+- **Purpose:** To discuss projects to be funded and presentation such projects
+- **Working Docs:**
+
+#### Town Hall Summary:
+In the deep funding community call, membes who have projects that needs funding gave a full presentation on how their projects may affectthe ecosystem positively and solutions to problems.
+The first proposal started with Robert Hass 
+The second Ken Mayfielf, and Photorek who made an interesting presentation also. 
+
+
+#### Keywords/tags:
+- **topics covered:** deep funding round 4
+- **emotions:** productive, Collaborative, Thoughtful , funny , Welcoming
