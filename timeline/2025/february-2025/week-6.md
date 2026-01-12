@@ -562,3 +562,45 @@ Reports will be compiled from the discussions, offering structured analysis of t
 #### Keywords/tags:
 - **topics covered:** AI TOOLSET EXHIBITION, Spotter Studio, Think Thank RoundTable Session
 - **emotions:** welcoming, informative, interactive, educational
+## Friday 7th February 2025
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** hogantuso [**facilitator**], Zalfred [**documenter**], Zalfred, AndrewBen, killy, frosh, Slate, hogantuso, LordKizzy, Malik, SubZero, osmium
+- **Purpose:** The meeting focused on Discussing the video work group activities.
+- **Working Docs:**
+
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Slate on various tasks assigned within the week. He highlighted that we got more shorts videos than long videos. He raised the question of a missing Town Hall video. 
+- UPDATE FROM THE MEETING FACALITATOR
+A quick update from Tuso and lord kizzy, updating the work group on decisions from the Governance meeting and the recently concluded Town Hal meeting. Adding that there were not much discussed. 
+- UPDATE FROM SOCIAL MEDIA MANAGER
+Andrew Ben gave a precise update highlighting that he posted out 7short videos and 3 long videos. He addressed the panic around the missing Townhall video. 
+- UPDATE FROM OSMIUM
+Osmium gave a swift update on the ASI videos. He added that the videos are ready. However, Osmium expressed concerned on the decline in the project Token's price.
+- BUDGET DISSCUSSIONS
+Lord kizzy shared with the house that they might be a need to maintain the Q1 budget and perhaps they're need to make slight adjudgments.  
+
+#### Decision Items:
+- SEARCH ENGINE OPTIMIZATION (SEO) ADOPTION 
+Osmium suggested that the video work group could adopt Search engine adoption in the coming quarters. Additionally, SEO can enhance our online presence. Zalfred agreed but questioned how we could implement that.
+Lord kizzy added that Osmium should this all out and present to the work group for further deliberations.
+  - [**rationale**] SEO  will be a plus to the team.
+  - [**opposing**] considering the budget constrains, we'd still need to further deliberate on this and lastly, we'd need to carefully plan this out and execute it.
+- SELECTION OF VIDOES FOR OUR SPIN-OFF PROJECTS         
+
+Lord Kizzy discussed the selection processes we'd use to select our best videos. He added that he might draw a pull for the work group to decide.
+  - [**rationale**] Need for a collective selection of videos.
+- HALTING REWARD DISTRIBUTION
+Due to the fall in price of the AGIX token, concerns were raised in the work group.Lord kizzy and Osmium suggested that we could halt the reward distributions processes at the moment. 
+lord kizzy added that halting the reward distribution processes will be the next line of action to manage the work group allocations. He also added that rewards could be distributed when the AGIX is bullish to avoid the video work group running short of resources.
+  - [**rationale**] Halting reward distributions.
+  - [**opposing**]   
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] lord kizzy to create a pull in the chat for video selection [**assignee**] LordKizzy [**status**] todo
+- [**action**] Osmium to Turn in the ASI Videos [**assignee**] osmium [**status**] todo
+- [**action**] Halting reward distributions [**assignee**] AndrewBen [**status**] todo
