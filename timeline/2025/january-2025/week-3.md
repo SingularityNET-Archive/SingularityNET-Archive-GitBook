@@ -589,6 +589,7 @@ Duke also outlined marketing and education initiatives for this quarter which wi
 - **emotions:** informative, Welcoming, productive
 ## Friday 17th January 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -622,6 +623,38 @@ Duke also outlined marketing and education initiatives for this quarter which wi
 #### Keywords/tags:
 - **topics covered:** Roles, Town Hall update, Marketing initiative
 - **emotions:** Friendly, Well-attended, cool, forward-looking
+
+
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], LordKizzy [**documenter**], Zalfred, AndrewBen, killy, frosh, osmium, Slate, devon, hogantuso, LordKizzy, Malik, AshleyDawn, prime.eth, SubZero
+- **Purpose:** The meeting focused on weekly updates and tasks distribution
+- **Working Docs:**
+
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Malik on various tasks assigned within the week. He highlighted that there were multiple video submissions and two got approved and scheduled for posting while one of them needed correction
+- Update from the Social Media Manager, Andrew Ben noted that he was able to post 10 long videos and 5 shorts, he also pointed out that he was previously having issues with the mastodon and twitter logins
+
+- Town hall updates: Zalfred gave the updates from the previous town hall. 
+- Goals for Q1: Lordkizzy spoke on reaching out to ecosystem spin-off projects for collaboration on video creation, he also spoke on how we could raise the level of engagement on our content through the zealy platform and also said he was going to need a representative from video wg for a call to structure the collaboration
+- AOB: Vasu shared some pictures of the ASI summit in Bangkok. zalfred pointed out that he made use of the inside SingurarityNET article as the source for the ecosystem update video, since the foundation has yet to provide more articles on this, the discussion on the change arose and a suggestion to reach out to rojo to get feedback was agreed upon
+- AOB: ECOSYSTEM Update Videos: Zalfred and Killy proposed creating the leftover ecosystem videos
+
+#### Decision Items:
+- We decided that lordkizzy is to reach out to Rojo and get feedback on the situation
+  - [**rationale**] Those videos need to go out as soon as possible
+
+#### Action Items:
+- [**action**] Osmium to present the videos from Bangkok  [**assignee**] osmium [**due**] 24 January 2025 [**status**] todo
+- [**action**] Lordkizzy to submit a short report on the video workgroup achievements to Peter [**assignee**] LordKizzy [**due**] 24 January 2025 [**status**] todo
+- [**action**]  lordkizzy to reach out to Rojo and get feedback on the situation [**assignee**] LordKizzy [**due**] 24 January 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Video Edit, Q1 2025 goals, Ecosystem Update videos, Zealy, Town Hall Videos
+- **emotions:** Friendly, speedy , Collaborative, Thoughtful 
 
 
 ## Saturday 18th January 2025
