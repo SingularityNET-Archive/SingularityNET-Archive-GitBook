@@ -421,6 +421,7 @@ A budget of $90 from Onboarding Workgroup was set for the AMA session. The Educa
 
 ## Friday 10th October 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Biweekly
@@ -453,3 +454,31 @@ Although the timeline for upcoming initiatives remained uncertain, advanceameyaw
 #### Keywords/tags:
 - **topics covered:** Podcast Intiative, Scavenger hunt
 - **emotions:** Peacefull,  Understanding.,  forward-looking
+
+### Video Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LordKizzy [**facilitator**], hogantuso [**documenter**], LordKizzy, hogantuso, devon, Malik, killy, Zalfred, Slate, oep, AndrewBen
+- **Purpose:** MONTHLY TASK DISTRIBUTION 
+- **Working Docs:**
+
+#### Discussion Points:
+- As part of the overall strategy, the workgroup is coordinating preparations for the BGI-25 virtual unconference on 23rd October. Specific tasks have been assigned to members to ensure a streamlined and efficient process for the creation and production of short clips and long form videos for posting.
+ 
+
+#### Decision Items:
+- Members assigned to designated tasks agreed to send out their deliverables for BGI-25 in less than two weeks after the event. This ensures timely progress and alignment with the BGI=25 objectives.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Creation of a template for BGI-25 shorts [**assignee**] AndrewBen [**due**] 6 November 2025 [**status**] todo
+- [**action**] BGI Long Video Edits 1 [**assignee**] Malik [**due**] 6 November 2025 [**status**] todo
+- [**action**] BGI Long Video Edits 2 [**assignee**] killy  [**due**] 6 November 2025 [**status**] todo
+- [**action**] Task Manager  [**assignee**] devon [**due**] 10 October 2025 [**status**] todo
+- [**action**] Meeting Documenting  [**assignee**] hogantuso [**due**] 10 October 2025 [**status**] todo
+- [**action**] BGI-25 short  [**assignee**] hogantuso [**due**] 6 November 2025 [**status**] todo
+- [**action**] Andrew is to reach out to Peter for the X logins for posting. [**assignee**] AndrewBen [**due**] 17 October 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Workgroup Dynamics, BGI-25 Virtual Unconference, task assignment
+- **emotions:**  Collaborative
