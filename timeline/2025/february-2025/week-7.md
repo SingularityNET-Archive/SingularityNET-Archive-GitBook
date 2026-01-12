@@ -325,6 +325,7 @@ Members collective: Duke raised the idea to bring back the members collective. W
 - **emotions:** Interactive, Educative, Productive, Welcoming
 ## Friday 14th February 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -367,6 +368,46 @@ Kenichi requested that an update be added to the project management board. LordK
 #### Keywords/tags:
 - **topics covered:** Governance, Guilds , Meeting Summaries, Zealy, Ambassador GitBook, Initiatives, GitHub project
 - **emotions:** Well-attended, Friendly, Thoughtful ,  informative
+
+
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** kenichi [**facilitator**], CJFrankie [**documenter**], kenichi, CJFrankie, LadyTempestt, Gorga Siagian, Emmanuel, Mikasa, inesgav, Évéline Trinité
+- **Purpose:** The weekly meeting of the writers workgroup
+- **Working Docs:**
+  - [WWG Role Document V1](https://docs.google.com/document/d/1Snol58978ZkEtWpIBv0VNEwqsdM8ZHz9jsvOyr4qmA4/edit?usp=sharing)
+
+#### Narrative:
+Kick-off: The writers' workgroup weekly meeting kicked off at 3:10 p.m. Kenichi skimmed through the action items from the last meeting. The first item on our agenda centered on reopening the onboarding window for new people to join the workgroup; however, it would be possible if the AGIX token pumps.
+
+Twitter Premium+: Following a discussion with the marketing guild meeting at 12 p.m. UTC today, we’re pleased to inform everyone that the video WG, marketing guild, and the writer's workgroup have reached a consensus on splitting the payment for Twitter premium. The WWG will send a share of $76 to Peter, while other workgroups follow suit to purchase the $229 yearly plan. Once we have successfully gotten X premium, the general monthly updates shall be the first piece that will be published there! Kenichi also mentioned that the long-awaited Twitter contest will be shared in the next meeting. 
+
+DRAFTs: In this meeting, Kenichi brought up the idea of using a spreadsheet for collecting article suggestions from the writers; he added that the sheet will enable us to track the draft's progress. Speaking of graphics, he added that the sheet will help the graphics team in creating graphics even before a particular draft is ready for publication. 
+
+Web3 publishing platforms: We welcomed Lady Tempestt, who has been away for a while! Kenichi briefed her about the Web3 publishing platforms that we recently launched (Mirror and CardanoSpot). He urged the workgroup members to also source platforms with the potential for success and showcase them in the meeting. Kenichi hinted that at come next meeting, we’d talk more about Mirror and how the NFT minting process will play out eventually. 
+
+Role document: Following a discussion at the previous meeting, Kenichi mentioned that the role document will be accessed this quarter; no penalties whatsoever! It will only help us to track all the writer's progress over time; plus, it’ll help the WG to make informed decisions going forward, such as if the workgroup needs to onboard new people or not!
+
+
+
+#### Decision Items:
+- We have decided to create a spreadsheet where writers can upload their article suggestions. Moreover, this sheet will help the graphics team work simultaneously and in alignment with the content.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We have decided that three workgroups (video, WWG, and the marketing guild) will join forces to purchase the X premium plan.
+
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Kenichi to create a spreadsheet for article suggestions.
+ [**assignee**] kenichi [**due**] 28 February 2025 [**status**] todo
+- [**action**] Cj Frankie to share some community page article ideas on the writer's channel. [**assignee**] CJFrankie [**due**] 21 February 2025 [**status**] done
+
+#### Keywords/tags:
+- **topics covered:** Cardano Spot, Mirror.xyz, Engagement, Community page, X contest, Spreadsheet, web publishing platform, Twitter Premium+, Role document , Collaboration, Onboarding, DRAFTs
+- **emotions:**  insightful, lively, welcoming
 
 
 ## Saturday 15th February 2025
