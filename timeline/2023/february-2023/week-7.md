@@ -4,6 +4,22 @@ description: 13th February 2023 to 19th February 2023
 
 # Week 7
 
+## Monday 13th February 2023
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Jan Horlings [**facilitator**], Gorga Siagian [**documenter**], 
+- **Purpose:**  to allow the community to study and give feedback on all proposals including last-minute submissions.
+- **Working Docs:**
+
+Video URL: https://www.youtube.com/watch?v=jLVGjKqBTwM
+
+#### Keywords/tags:
+- **topics covered:** DeepFunding, pools, Deep funding round 2, announcement, Proposals
+- **emotions:** informative, ideas
+
+
 ## Tuesday 14th February 2023
 
 ### Ambassador Town Hall
