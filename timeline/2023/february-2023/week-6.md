@@ -33,3 +33,30 @@ There was brief mention of the idea of integrating the Swarm treasury system int
 #### Keywords/tags:
 - **topics covered:** workgroups, calender, podcast workgroup, Marketing, process guild, treasury guild, Dework, task-based vs role-based work, integrating Swarm treasury system, translation, Deepfunding Town Hall
 - **emotions:** insightful, Friendly, entertaining
+## Friday 10th February 2023
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Jan Horlings [**facilitator**], Gorga Siagian [**documenter**], Peter, Johann Sammy, justin, XyrisKenn, others unknown
+- **Purpose:** Deep Funding Round 1 Projects Kickoff | Part 1 - 10 February 2023
+- **Working Docs:**
+
+Video URL: https://www.youtube.com/watch?v=XNpmuxELOBk
+
+#### Town Hall Summary:
+Teams and their proposals on this session:
+
+Carbix & Xyris - Avatar 2 Human Learning: Net Zero and Carbon Negative Emissons | 
+https://proposals.deepfunding.ai/graduated/accepted/d592f698-9c0c-4617-a7ef-2ebed820d9ad
+
+Hetzerk - Decentralized Physics Simulation | 
+https://proposals.deepfunding.ai/graduated/accepted/b213135a-0c0c-43a9-a73f-cbed776c5b48
+
+Zero2ai - Simply AI with trust | 
+https://proposals.deepfunding.ai/graduated/accepted/97cb76b2-a0a7-421e-acf6-70126d2c493e
+
+
+#### Keywords/tags:
+- **topics covered:** DeepFunding, Deepfunding Round 1, Net Zero and Carbon, Decentralized Physics, Simulation, Simply AI with trust
+- **emotions:** informative, ideas, insightful
