@@ -76,3 +76,27 @@ In Breakout Room 2 we reviewed the current Deep Funding branding manual and guid
 
 #### Keywords/tags:
 - **topics covered:** pool, deep funding round 4, Marketing, RFP, education, branding
+## Wednesday 9th November 2022
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** Jan Horlings [**facilitator**], Ayo [**documenter**], Jan Horlings, Judith, Rafael Presa, Tevo, Felix, Nadim, guillermolucero, others unknown
+- **Purpose:** Outcome 0f Deep Funding Governance Round 1
+- **Transcript:** [Link](https://www.youtube.com/watch?v=cyv70HaSzWg)
+- **Working Docs:**
+
+#### Town Hall Summary:
+Discussion on the outcome and impact of quadratic voting.
+The reputation system of voters.
+
+Engagements: Over 19 million votes in terms token.
+15,000 AGIX to be disbursed
+10500 AGIX been the highest a single person can be awarded.
+Low rate of downvotes.
+
+
+
+
+#### Keywords/tags:
+- **topics covered:** DeepFunding, voting reputation, Governance
