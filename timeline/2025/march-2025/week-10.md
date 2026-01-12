@@ -430,6 +430,7 @@ Colleen will facilitate the next meeting, and PhotoGee twill document. However, 
 
 ## Friday 7th March 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -484,3 +485,42 @@ Monthly analysis of marketing guild budget: Photogee noted that LordKizzy owes i
 #### Keywords/tags:
 - **topics covered:** Budget, graphics design initiative, governance document, Project Management, Podcaster.ai
 - **emotions:** Friendly,  informative, Discursive
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Malik [**documenter**], LordKizzy, Zalfred, killy, AndrewBen, devon, frosh, SubZero, hogantuso
+- **Purpose:**  To follow up on budget restructuring, Zealy sprint optimizations, and progress on video tasks
+- **Working Docs:**
+
+#### Discussion Points:
+- Budget Adjustments & Implementation:
+Reviewing changes made in the past week to optimize resources.
+Updates on how task reductions are affecting project timelines.
+Discussion on alternate funding strategies.
+
+- Task Manager Updates (Tuso):
+Status of Town Hall edits and other ongoing video projects.
+Missing Town Hall 134 recording issue raised by Malik.
+
+- Zealy Updates (LordKizzy):
+Discussion for future collaboration  with Writers WG for Zealy Campaigns
+- Spin-off Project Video Rollout:
+Finalized list of videos to be showcased.
+Strategy discussion on maximizing reach.
+- Q2 Budget Proposal Finalization:
+Considering Ecosystem updates or Facilitation role to be prioritized over the videoscribe membership subscription.
+
+#### Decision Items:
+- Budget Decisions:
+Agreed to provide a budget for ecosystem updates.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Finalize Zealy Sprint Adjustments
+ [**assignee**] LordKizzy [**status**] todo
+- [**action**] Social Media Management [**assignee**] AndrewBen [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation,  Zealy sprints , Ecosystem Update videos
+- **emotions:**  Collaborative,  Understanding.  ,  forward-thinking
