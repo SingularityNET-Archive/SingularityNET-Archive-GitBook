@@ -470,6 +470,7 @@ Will decentralized AI become the mainstream or will centralized AI always domina
 ## Friday 31st January 2025
 
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -560,3 +561,35 @@ Video proposal by Zalfred and Killy should not be considered. Davon added that i
 - [**action**] Osmium to Turn in the ASI Videos [**assignee**] osmium [**status**] todo
 - [**action**] Andrewben to get equal allocation with the task manager. [**assignee**] AndrewBen [**status**] todo
 - [**action**] Zalfred and Killy to limit their video proposal as they already have a permanent role to create monthly update videos. [**status**] todo
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** kenichi [**facilitator**], Évéline Trinité [**documenter**], cjfrankie, Gorga Siagian, Mikasa, kenichi, devon, Évéline Trinité
+- **Purpose:** Weekly meeting of the writers' workgroup 
+- **Working Docs:**
+  - [SingularityNET Ambassador Program ](https://docs.google.com/document/d/1An2GVoMi67MyvpaDtVwtabMtTFEJ1jm1D7FqwOqnWV4/edit)
+
+#### Narrative:
+Kick-off: We started off talking about how Mikasa’s draft on AI cryptography was drawing traffic to our community page on Medium. Kenechi went on to share with us how the AI Cryptography draft was giving a boost to our other Articles on the community page and he Suggested it would be the right time to bring in a new article.
+
+We also discussed how to draw traffic to the community page when Kenechi mentioned our stats proved our performance to be poor. Kenechi urged us to take our community growth seriously and to look out for more platforms that will enable us achieve a wider reach. In the light of this, he brought up a recently launched community page in Mirror, asking for ideas on how we could make it active and also get new subscribers. 
+
+We decided on rewarding people who mint our articles and offer more engagements on our page. This reward could be given at the end of a quarter or based off engagement overtime as loyalty rewards for checking our content. Kenechi encouraged members of the Workgroup to subscribe to the community page on mirror and connect their metamask wallet.
+
+Kenichi reminded us that the “Role Document” https://docs.google.com/document/d/1Snol58978ZkEtWpIBv0VNEwqsdM8ZHz9jsvOyr4qmA4/edit?usp=sharing  was scheduled to be live and actively in use from February. Stating the effect of this would be that Scribes must attend at least three meetings a month whole scribblers must be present in at least two meetings in each month to maintain their roles. He added that the analysis will come at the end of six months to give everyone enough time to make an impression but, he would start a poll in the Writers’ WG Channel to be sure of a good number, if not everyone would welcome this.
+
+
+
+#### Decision Items:
+- We decided on giving our best audience loyalty rewards for checking our contents. 
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The writer’s workgroup will put out a minimum of three articles on Medium and a minimum of two on X.
+ [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Role document , X,  articles,, loyalty rewards 
+- **emotions:** quick, calm, Conclusive
