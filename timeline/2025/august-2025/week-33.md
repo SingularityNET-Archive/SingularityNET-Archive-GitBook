@@ -105,6 +105,7 @@ Peter highlighted the need to keep the hackathon work small-scale, while Colleen
 - **emotions:**  informative,  insightful,  forward-looking, Ideating, Productive
 ## Friday 15th August 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Biweekly
@@ -138,3 +139,51 @@ Gorga expressed concern over the unpaid extra activities for July, which sparked
 #### Keywords/tags:
 - **topics covered:** Podcast Intiative, Scavenger Hunt Team Update, Extra Activities Allocation
 - **emotions:**  informative, Casual, Peacefull
+
+### Video Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LordKizzy [**facilitator**], Zalfred [**documenter**], LordKizzy, Zalfred, hogantuso, osmium, Slate, Malik, killy, SubZero, devon, shan, Alfred Itodele
+- **Purpose:** The meeting focused on Discussing SEO Best Practices, Discussing the Video Work Group Activities, Monthly Meeting and Task/Role Assignments
+- **Working Docs:**
+
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+Malik gave a quick run down of the task assigned within the month. Stating that two videos are currently in the review process. However, he called out to Sub-Zero, inquiring about pending Town Hall videos as they’re high priority Videos.
+- UPDATE FROM THE SOCIAL MEDIA MANAGER
+Andrew gave a detailed update on the social media activities Highlighting that most videos have been posted out. He pointed out that we’ve got more shorts than long videos.
+Now, Addressing the issues of lagging In a couple post, Andrew hit the nail on the head, stating that the issues with large files and video formats gave him quite a tough time to upload a couple videos. Additionally, He Highlighted that the task became more data consuming and the allocations could barely measure up with the work load now. He tendered his plea for increased allocation.
+
+
+- UPDATE FROM LORD KIZZY
+Update from Lord kizzy, Addressing the current state of the KPI sheets and Pending contents. He emphasized that the KPI should be accurately structured as the Consent process approaches.
+- SEO BEST PRACTICES PRESENTATION BY LORD KIZZY
+A long Presentation By Lord Kizzy addressing crucial and necessary steps to enhance and improve the Video work group functionality, performances, Visibility, Audience engagement and our contents in general. The presentation covered a vast portion of the work group operations.  
+Some of the vast areas covered were : Profile Optimization, Content SEO and Engagement, Search Visibility, Links and Cross-promotions, Analysis and Performance, Brand Voice and Visuals, Recommendation and priority, Pattern and Exclusive Analysis.
+
+
+- PRESENTATION BY OSMIUM
+Presentation By Osmium around adopting Data Driven SEO Optimization Strategy and Hashtags and Keywords Performances to enhance our views across our social media Platforms.
+- ADDRESSING THE ISSUE OF LARGE VIDEO FORMATS
+Answering to that, Lordkizzy cautioned that the editors of the TH videos would have to compress the TH edits in order to reduce the actual File size and data cost to download and upload these videos. Same goes to long video editors as well. Due to the budget constrain, the plea on increased allocations was declined.
+- DELIBRATIONS ON AUDIENCE ENGANGE ALTERNATIVES
+Deliberations on logical and effective strategies to Amplify our social media presence. First step, Suggestions around the Need to create a Discord Chanel that will the contain the links to recent contents and a call out to the Community to check it out and engage. Secondly, discussions and suggestions about using the Kaito and other platforms.
+secondly, Following  series of presentations and forward thinking, The social media Manager will would have to work abreast with Lord kizzy in the coming months to execute SEO best practices as presented in the meeting.
+
+#### Decision Items:
+- Andrew Ben's Plea for extra Allocation was declined
+  - [**effect**] mayAffectOtherPeople
+- We decided to try out Kaito Yaps and other platforms to enhance our social media visibility
+
+#### Action Items:
+- [**action**] Social Media manager To work abreast with Lord kizzy in the coming months to execute SEO best practices as presented in the meeting. [**assignee**] LordKizzy [**status**] todo
+- [**action**] Video editors of the TH videos would have to compress the TH edits in order to reduce the actual File size and data cost to download and upload these videos. same goes for the long format Videos. [**status**] todo
+- [**action**] Andrew ben To Review Pending Contents and Update the KPI sheet Properly [**assignee**] AndrewBen [**status**] todo
+- [**action**] Lord kizzy To reach out to Sub-Zero concerning Pending Videos [**status**] todo
+- [**action**] Task Manager Role [**assignee**] SubZero [**status**] todo
+- [**action**] Town Hall Video Edit [**assignee**] Malik [**status**] todo
+- [**action**] Meeting Summary [**assignee**] hogantuso [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  #WorkgroupPresentations, Engagement and Reputation Systems, Public engagement, video file sizes
+- **emotions:**  Collaborative,  Need for Clarity  ,  forward-thinking,  insightful,  informative
