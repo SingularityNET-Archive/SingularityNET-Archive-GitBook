@@ -55,3 +55,23 @@ Additional Notes:
 #### Keywords/tags:
 - **topics covered:** workgroup updates, Process Guild, Value of Ambassador Program, Translator Requirements, Project Management Support, Task Management, Feedback Loops, The Jasmine Smith interview episode, Marketing Channel, Podcast WG, The Gabriel Axel Montes interview episode
 - **emotions:** participatory
+## Wednesday 5th October 2022
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Jan Horlings [**facilitator**], Jenn [**documenter**], Jan Horlings, Juana Attieh, Mihai Bărbulescu, Tevo, PeterE
+- **Purpose:** Discussion of Deep Funding
+- **Working Docs:**
+
+#### Town Hall Summary:
+This is a meeting about proposals for SingularityNET's Deep Funding R2 governance experiment. In this experiment, proposers can present their ideas to the community for funding. The purpose is to clarify what a proposal is and is not about, so the community can make informed decisions when voting.
+The first proposal discussed is about using expert ratings to assess proposals. This would help the community make better funding decisions by considering technical feasibility, viability based on budget and team, and desirability or market need. There are challenges in finding and incentivizing experts, but this could be a valuable addition in the future.
+The second proposal is about funding existing services to be onboarded to the SingularityNET marketplace. This could be a faster and more impactful way to grow the marketplace. The community could participate by finding services, onboarding them, and even splitting rewards.
+The third proposal is about the award value and whether to use fiat or token value. There are pros and cons to both approaches. Using fiat protects teams from token price fluctuations, but using tokens aligns with SingularityNET's goals. The proposal explores options like a minimum token price or a mix of fiat and tokens.
+The discussion highlights the importance of balancing risks and rewards for both the community and the teams. The meeting concludes with the idea that the community will vote on the proposals.
+
+
+#### Keywords/tags:
+- **topics covered:** Community Governance Proposals, inclusion, Proposals, DeepFunding R2
+- **emotions:** Thoughtful
