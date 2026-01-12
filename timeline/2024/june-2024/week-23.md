@@ -242,6 +242,7 @@ The conversation in Chat also touched on timezone exclusion, particularlty for p
 
 
 
+
 ### Education Workgroup
 
 - Type of meeting: Weekly
@@ -342,6 +343,33 @@ The conversation in Chat also touched on timezone exclusion, particularlty for p
 ### Dework PBL
 
 No Summary Given 
+
+
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Zalfred [**facilitator**], killy, lord kizzy [**documenter**], lord kizzy, hogantuso, AndrewBen, Slate, kateri, oep, malik, devon, daniel effiom
+- **Purpose:** weekly updates 
+- **Working Docs:**
+
+#### Discussion Points:
+- More Updates on the zealy platform. Lordkizzy indicated that he forgot to add Devon to the Zealy discussion group, so as regards to that no updates was given 
+- Slate,as our social media manager gave weekly updates on our social. 
+- Malik as the task manager gave updates from last week 
+
+#### Decision Items:
+- We decided that the Zealy liaison must be a member of both work groups (Writers WG and Video WG) 
+  - [**rationale**] This decision will enhance better communication between both Workgroups
+  - [**opposing**] Some members felt the role should be open to everyone
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**]  Lord_Kizzy to add the liaison (DEVON) to the zealy discussion group [**assignee**] lord kizzy [**due**] 19 June 2024 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** social media management, Task Assignment, Zealy, Liaison, Video Edit, Weekly updates
+- **emotions:** Casual, speedy , productive, Organised
 
 
 ## Thursday 6th June 2024
