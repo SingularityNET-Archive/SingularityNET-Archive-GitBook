@@ -187,6 +187,7 @@ The meeting came to an end with Clement reinforcing the idea that while digital 
 - **emotions:** Friendly, Collaborative, funny , Thoughtful , engagement, entertaining, insightful, quiet, New members
 ## Friday 12th September 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Biweekly
@@ -235,3 +236,27 @@ Ese Williams suggested rebranding the scavenger hunt to highlight education and 
 #### Keywords/tags:
 - **topics covered:** Podcast Intiative, Scavenger hunt, Budget Review
 - **emotions:**  Collaborative, Peacefull,  Understanding.
+
+### Video Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LordKizzy [**facilitator**], hogantuso [**documenter**], LordKizzy, Malik, hogantuso, osmium
+- **Purpose:** Today's weekly meeting was absolutely fantastic! We had a great discussion about the work group budget presentation and task distribution, and we're now better equipped than ever to get things done after muxh briefing!
+- **Meeting video:** [Link](https://drive.google.com/file/d/1-eLns_oc6Uz_xH1YCdk2wbuqTaU8uap3/view?usp=drivesdk)
+- **Working Docs:**
+  - [Budget Request ](https://docs.google.com/spreadsheets/d/1YPdZrdupz2N2r3cM-g3LGsxs6X3wH_dU7IOYuITbc8I/edit?usp=sharing)
+  - [Q3 report ](https://docs.google.com/document/d/1tofj1FCcEFIWhEPHNjrlEI8jbaQL6Iq9cAPAWoIR6Gg/edit?usp=sharing)
+
+#### Discussion Points:
+- Kizzy gave an update saying that "based on sentiment analysis our Budget reduction from 8000 agix too 7800 aigx now we have 6696 agix or about 1875 USD and the reduction has made a lot of cut in paymanets"
+- Malik spoke on help to reduce cost in the townhall edits and suggesed an automation tool to make this happen as it will take $20 for each month maintance and uplaods 
+- Suggestion was made by Vasu on how deep funding make posts for meetings and thaugh of making an adoptions 
+
+#### Action Items:
+- [**action**] Task Management  [**assignee**] Slate [**due**] 12 September 2025 [**status**] todo
+- [**action**] Meeting Documentation  [**assignee**] hogantuso [**due**] 12 September 2025 [**status**] todo
+- [**action**] All other members to create 2 clips for the month  [**assignee**] all [**due**] 26 September 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Q4 2025 budget,  Budget Approval Process , Automation, Town Hall video edits, sentiment analysis, sentiment survey, Budget Reduction
+- **emotions:**  Collaborative,  Satisfaction ,  Understanding.  ,  informative
