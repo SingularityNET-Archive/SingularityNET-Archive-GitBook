@@ -19,6 +19,7 @@ Miro
 {% embed url="https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764537280061071&cot=10" %}
 ## Tuesday 1st November 2022
 
+
 ### Ambassador Town Hall
 
 - **Type of meeting:** Weekly
@@ -52,3 +53,27 @@ A report to be created to capture key lessons, failure and successes.
 #### Keywords/tags:
 - **topics covered:** podcasts, workgroup updates, social media, DeepFunding, pilot phase
 - **emotions:** Discursive, calm, smooth
+
+### Deep Funding Town Hall
+
+- **Type of meeting:** Biweekly
+- **Present:** Jan Horlings, Judith [**facilitator**], Ayo [**documenter**], Jan Horlings, Judith, Rafael Presa, Kenn, Kenric Nelson, Mauro Andreoli, Curtis, guillermolucero, others unknown
+- **Purpose:** Discussion of Deep Funding Round 4 Pools and DF Branding Manual and Guidelines
+- **Working Docs:**
+
+
+#### Timestamped video:
+{% embed url="https://youtu.be/hYeoACnXzdU?si=kCnUG3DpI5rcu7rB" %}
+
+[00:00](https://youtu.be/hYeoACnXzdU?si=kCnUG3DpI5rcu7rB\&t=0s) Intro
+[00:10](https://youtu.be/hYeoACnXzdU?si=kCnUG3DpI5rcu7rB\&t=10s) Breakout Room 1
+[1:56:09](https://youtu.be/hYeoACnXzdU?si=kCnUG3DpI5rcu7rB\&t=6969s) Breakout Room 2
+
+#### Town Hall Summary:
+In Breakout Room 1,  we dove deep into the discussion of the different pools we should have. Should we add pools or keep the same pools we had in DFR3? What could we add? Should we keep the marketing pool or have marketing-related RFPs? Could we benefit from an education pool? 
+
+In Breakout Room 2 we reviewed the current Deep Funding branding manual and guidelines. What areas can we improve? What brand voice do we want to use? How is the current branding perceived? Is it effective?
+
+
+#### Keywords/tags:
+- **topics covered:** pool, deep funding round 4, Marketing, RFP, education, branding
