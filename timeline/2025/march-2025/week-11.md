@@ -126,6 +126,7 @@ Lord kizzy announced that every member that has any difficulty should ask questi
 - **emotions:** Welcoming, Interactive, Informative, Educative
 ## Friday 14th March 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -172,6 +173,29 @@ Photogee raised concerns about decision-making, suggesting that while Zoom calls
 #### Keywords/tags:
 - **topics covered:** governance document, Mindplex, Marketing Guild Google Drive
 - **emotions:** Friendly,  informative,  Satisfaction ,  Understanding.  
+
+
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Malik [**documenter**], LordKizzy, Slate, Zalfred, killy, AndrewBen, devon, SubZero, hogantuso
+- **Purpose:** To review the impact of cost-cutting measures and Q2 budget review
+- **Working Docs:**
+
+#### Discussion Points:
+- Review of Budget Adjustments:
+Impact assessment of reduced video-related tasks.
+- Q2 Budget Changes:
+Lord Kizzy went through the Q2 budget submitted upon request and clarification to the members that were not present in the last meeting.
+LordKizzy presented the final version of the Q2 budget and stated that if we need to do any adjustments that is above 10% of the total budget we will need to go through the consent process but if it’s less than that it could be decided within the workgroup.
+
+- Friendly Discussion:
+Friendly discussion about the respective regions of Video WG members took place.
+
+#### Keywords/tags:
+- **topics covered:** Budget Review,  Budget change request  
+- **emotions:**  Collaborative, Friendly,  Optimism ,  forward-thinking
 
 
 ## Saturday 15th March 2025
