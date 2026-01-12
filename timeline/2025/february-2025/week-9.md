@@ -243,6 +243,7 @@ In the demonstration, Samski showcased the process of joining the NUNET testnet 
 - **emotions:** Interactive, Educative, Productive, Welcoming
 ## Friday 28th February 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -289,3 +290,45 @@ Kateri updated the group that she had submitted the use spotlights and would wor
 #### Keywords/tags:
 - **topics covered:** Q2 2025 budget, Initiatives, Community podcast update,  Budget Allocation,  Zealy sprints , Singularity Scavenger Hunt
 - **emotions:**  informative,  insightful,  Satisfaction
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Malik [**documenter**], AndrewBen, Slate, LordKizzy, Zalfred, hogantuso, SubZero, devon
+- **Purpose:** Follow-up on previous discussions, particularly budget adjustments, Zealy sprint progress, and spin-off project videos.
+- **Working Docs:**
+
+#### Discussion Points:
+- Budget Adjustments & Cost-Cutting Measures:
+Further deliberation on reducing expenses, potentially implementing biweekly meetings.
+Updates on token price monitoring and financial sustainability strategies.
+Discussion on the impact of budget cuts on video production and task management.
+Lowering down the number of videos, removing Ecosystem updates, pausing the reviewers team and Facilitation budget.
+
+- Updates from Task Manager (Tuso):
+Status updates on pending video tasks, including Town Hall edits and spin-off project videos.
+
+- Updates from Social Media Manager (AndrewBen):
+AndrewBen gave a brief update on engagement performance across social platforms. He also raised concern regarding delayed Town Hall Editings.
+
+- Q1 Report Progress:
+Kizzy provided an update on the quarterly report draft.
+
+- Ecosystem Updates:
+January Ecosystem updates to be delivered next week by Zalfred.
+
+#### Decision Items:
+- Finalizing Budget Adjustments:
+Agreement on specific cost-cutting strategies.
+Discussion on whether to keep recurring video tasks or pause some roles.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Budget Restructuring Strategy Discussion [**assignee**] LordKizzy, Slate [**status**] todo
+- [**action**] Social Media Content Review & Adjustments [**assignee**] AndrewBen [**status**] todo
+- [**action**] Q1 Report Finalization [**assignee**] LordKizzy [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:**  Budget Allocation,  Zealy sprints 
+- **emotions:**  Collaborative,  Understanding.  ,  forward-thinking
