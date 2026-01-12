@@ -556,6 +556,7 @@ The Onboarders will also need to organise async in Discord.
 ## Friday 21st March 2025
 
 
+
 ### Writers Workgroup
 
 - **Type of meeting:** Weekly
@@ -632,3 +633,62 @@ LordKizzy presented the Q1 report, highlighting successful initiatives, increase
 #### Keywords/tags:
 - **topics covered:** Q1 Report, Q2 2025 budget, Initiatives, Community podcast update
 - **emotions:**  informative,  Satisfaction ,  insightful
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** osmium [**facilitator**], Malik [**documenter**], LordKizzy, Slate, AndrewBen, SubZero, hogantuso, Zalfred, Malik, osmium, devon, killy
+- **Purpose:** Review budget approvals, discuss Zealy sprint, task distributions, and content strategy improvements.
+- **Working Docs:**
+
+#### Discussion Points:
+- Budget Approval & Feedback:
+The budget was approved, but some concerns were raised regarding video content relevance.
+Discussions on feedback from Peter, who questioned the impact and relevance of certain videos while also giving a suggestion to adjust the Town Hall summary editing task to be a $10 task.
+Need to clarify the distinction between Video Workgroup and Education Guild content.
+
+- Zealy Sprint & Role Assignments:
+Need for volunteers to support Zealy sprint operations, as current budget constraints limit allocations.
+Discussion on whether Video Workgroup members should take up Zealy tasks without direct compensation.
+Proposal to schedule a meeting with Marketing Guild and Writers Workgroup to finalize responsibilities.
+- Content Strategy & Engagement Issues:
+Concerns that video content lacks a clear target audience.
+Need for better social media engagement and outreach strategies.
+Acknowledgment that high-quality content alone is not enough without proper visibility and engagement.
+- Task Management & Submissions Update:
+Some video tasks from the last quarter were still pending submissions.
+AI in Science & Tokenization of Real World Assets videos had been submitted but needed review.
+Discussion on payout schedules for completed tasks.
+- Task Distribution via Random Selection:
+Monthly roles were assigned through a spinning wheel selection.
+Malik and Killy agreed to swap documentation and summary roles.
+
+#### Decision Items:
+- Finalize Zealy Sprint Collaboration Plan
+
+  - [**rationale**] Schedule a call with the Marketing Guild and Writers Workgroup to define roles.
+Determine whether Video Workgroup members will handle Zealy tasks without compensation.
+  - [**effect**] mayAffectOtherPeople
+- Enhance Social Media & Engagement Strategy
+  - [**rationale**] Focus on increasing visibility and outreach to ensure video content reaches the right audience.
+  - [**effect**] mayAffectOtherPeople
+- Town Hall Editing Task Payouts
+  - [**rationale**] Address concerns about editing time vs. payment rates of Town Hall and it’s Summary Editing
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Finalize Zealy Sprint Collaboration
+ [**status**] todo
+- [**action**] Review Pending Video Submissions
+ [**assignee**] devon, LordKizzy [**status**] todo
+- [**action**] Facilitator [**assignee**] hogantuso [**status**] todo
+- [**action**] Task Manager [**assignee**] Zalfred [**status**] todo
+- [**action**] Social Media Manager [**assignee**] AndrewBen [**status**] todo
+- [**action**] Town Hall Video Editor [**assignee**] Slate [**status**] todo
+- [**action**] Town Hall Summary Editing [**assignee**] Killy [**status**] todo
+- [**action**] Review Team [**assignee**] LordKizzy, devon [**status**] todo
+- [**action**] Meeting Documenter [**assignee**] Malik [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Monthly Roles Distribution, Budget Review,  Zealy sprints , Content Strategy Improvements
+- **emotions:**  Collaborative,  Optimism ,  Satisfaction ,  forward-thinking,  Understanding.
