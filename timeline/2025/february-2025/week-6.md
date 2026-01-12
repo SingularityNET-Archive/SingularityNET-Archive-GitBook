@@ -564,6 +564,7 @@ Reports will be compiled from the discussions, offering structured analysis of t
 - **emotions:** welcoming, informative, interactive, educational
 ## Friday 7th February 2025
 
+
 ### Video Workgroup
 
 - **Type of meeting:** Weekly
@@ -604,3 +605,39 @@ lord kizzy added that halting the reward distribution processes will be the next
 - [**action**] lord kizzy to create a pull in the chat for video selection [**assignee**] LordKizzy [**status**] todo
 - [**action**] Osmium to Turn in the ASI Videos [**assignee**] osmium [**status**] todo
 - [**action**] Halting reward distributions [**assignee**] AndrewBen [**status**] todo
+
+### Writers Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** kenichi [**facilitator**], CJFrankie [**documenter**], Gorga Siagian, Mikasa, kenichi, CJFrankie, devon, Évéline Trinité
+- **Purpose:** Weekly meeting of the writer's workgroup 
+- **Working Docs:**
+  - [DRAFT: SingularityNET Ambassador Program](https://docs.google.com/document/d/1An2GVoMi67MyvpaDtVwtabMtTFEJ1jm1D7FqwOqnWV4/edit)
+
+#### Narrative:
+Kick-off: The weekly meeting of the writers' workgroup kicked off at 3:10 p.m. Our first discussion was about the February sprint, which is currently running. Everything looks good, and it favors old and new members, unlike previous sprints, where some participants had an edge over others. 
+
+In the meeting, we reviewed task progress on the Dework board. Kenichi also asked the Scribblers for article suggestions, which he added to the board right away. He mentioned that he has some drafts to upload, while CjFrankie suggested that Scribes should also be able to create tasks on Dework.
+
+Speaking of engagement, Kenichi mentioned that it would be a good idea to create threads, retweet, and quote articles posted on the SNET X page. This discussion led to questions about when the WWG would get a premium plan. Kenichi suggested that the marketing guild and the WWG could join forces to acquire the premium plan. We also agreed to table the discussion for the next marketing guild call to better understand where each workgroup stands.
+
+Kenichi suggested that there should be a weekly article recap that highlights all the articles published within a week; he also suggested that the weekly Substack digest should also cover these highlights. Following that, CjFrankie expressed his concern about low engagements and interactions with the Substack newsletter. From the backend side of things, we used Substack analytics to analyze our visitors and readers over time. The record shows that the newsletter piques the interest of people across four USA states and in 15 other countries, including Nigeria, Indonesia, and Argentina. Just to mention a few! Having studied this data, Kenichi mentioned that we may start publishing content at specific time zones to help us get the most out of our readers. 
+
+Mirror: Our goal and mission for Mirror. XYZ is to continue spreading content to people from all walks of life. In the long run, we’d reward people for reading our articles using NFTs.
+Role document: Last but not least, Kenichi announced that the role document is officially live, though it will take effect from Q2 2025. Some adjustments have been made—the pupil role has been removed, leaving only the Scribbler and Scribe roles. Starting in Q2, workgroup members will need to meet their thresholds to retain their roles. Those who fail to meet their thresholds will face questions about their continuity. This approach will also help the workgroup onboard more members.
+
+
+
+#### Decision Items:
+- The role document for the Writers' Workgroup will be officially live, though it will take effect from Q2 2025. 
+  - [**effect**] affectsOnlyThisWorkgroup
+- We decided that going forward, a recap will be created to highlight all articles published within a week. These highlights will also be added to the Substack weekly digest.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] The writer’s workgroup will meet with the Marketing Guild to discuss purchasing a Twitter Premium subscription.
+ [**assignee**] kenichi, Mikasa, CJFrankie [**due**] 14 February 2025 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Twitter premium, Marketing Guild, Role document , Substack
+- **emotions:** silent, speedy , Collaborative, forward-thinking, newsletter, NFTs, Mirror
