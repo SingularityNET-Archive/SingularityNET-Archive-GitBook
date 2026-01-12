@@ -469,6 +469,7 @@ Will decentralized AI become the mainstream or will centralized AI always domina
 - **emotions:** welcoming, informative, interactive, educational
 ## Friday 31st January 2025
 
+
 ### Marketing Guild
 
 - **Type of meeting:** Weekly
@@ -514,3 +515,48 @@ Lordkizzy highlighted the difficulties encountered by the marketing guild, parti
 #### Keywords/tags:
 - **topics covered:** Governance, Meeting Summaries, Guilds , Roles, Ambassador GitBook
 - **emotions:** Discursive, Deliberative, Well-attended
+
+### Video Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** hogantuso [**facilitator**], Zalfred [**documenter**], Zalfred, AndrewBen, killy, frosh, Slate, devon, hogantuso, LordKizzy, Malik, SubZero, osmium, oep, maxmilez
+- **Purpose:** The meeting focused on Discussing the activities that transpired in the video work group.
+- **Working Docs:**
+
+#### Discussion Points:
+- UPDATE FROM THE TASK MANAGER
+A quick update from Slate on various tasks assigned within the week. He highlighted that there were multiple video submissions, and about four videos were approved. He added that he had a training call with malik.
+- UPDATE FROM THE MEETING FACALITATOR
+A quick update from Tuso highlighting vital information from the various meeting he attended during the week. He added that the previous Governance meeting discussed the new budgeting procedures for Q2. He however shaded more light on the meeting with representatives from the marketing guilds and the writers work group which had their discussion centered around the coming zealy sprint. 
+- UPDATES FROM THE ZEALY SPRINT
+Lord kizzy gave a precise update from the recently concluded meeting that had representatives from the writers work group and the marketing guild addressing the zealy structure for the coming sprint. He added that he'd offered to take up that task although unrewarded. He also added that they'd be a need for an extra editor and lastly, they discussed the time laps for the zealy sprint, the zealy reviewers and modules creation.
+- UPDATE FROM OSMIUM
+Osmium gave a quick update on the ASI submit videos assigned to him adding that he'll turn them in and soon, they'd be posted. Osmium added that he'd be selecting the best of them of cause he was was allocated basically three videos.
+
+#### Decision Items:
+- DICCUSION ON THE ALLOCATION FOR THE SOCIAL MEDIA MANAGER AND THE TASK MANAGER 
+Lord kizzy highlighted Rojo's sacrifice in the previous Quarters. Andrewben ( the current social Media manager) aired his opinion on squaring things out.
+Devon added that the role should have been supported by the task list with specified time for each task like Rojo did, otherwise, it should be kept as previous.
+AndrewBen concluded that he'd be comfortable if the allocation for bot roles are all equal.
+  - [**rationale**] Malik suggested that there is need to rectify the indifferences between both roles to avoid future perplexity.
+  - [**opposing**] Devon added that the role should have been supported by the task list with specified time for each task like Rojo did, otherwise, it should e kept as previous.
+  - [**effect**] mayAffectOtherPeople
+- ADDRESSING THE ISSUE ON THE REVIEW TEAM TASK
+Lord kizzy addressed the oversight that transpired in the work group. The house decided on a fairer reward system for the review team members. 
+  - [**rationale**] Reviewers should be rewarded based on the numbers of videos reviewed and no the other way round.
+  - [**opposing**] Reviewers should not be rewarded for videos they didn't review.
+- SELECTION OF VIDOES TO PRESENT IN THE FUTURE COLLABORATION WITH SPIN OFF PROJECTS         
+
+Lord Kizzy discussed how we're gonna be presenting our best videos to our spin off projects.
+- LIMITATIONS OF VIDEO PROPOSALS FOR THOSE CREATING MONTHLY UPDATE VIDEOS
+Devon raised a concern that since the monthly video creation is a permanent role, those assigned to this role should limit their video proposal so others can get the opportunities to work as well.
+  - [**rationale**] we should reduce the number of video proposal submitted by those who'd be creating the monthly update videos.
+  - [**opposing**] limited allocation for video creation resulting in a lesser number of video production. 
+Video proposal by Zalfred and Killy should not be considered. Davon added that it'd be a plus for those creating these videos and due to the budget constrain, their video proposal should not be considered.  
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] lord kizzy to create modules for the coming zealy sprint. [**assignee**] LordKizzy [**status**] todo
+- [**action**] Osmium to Turn in the ASI Videos [**assignee**] osmium [**status**] todo
+- [**action**] Andrewben to get equal allocation with the task manager. [**assignee**] AndrewBen [**status**] todo
+- [**action**] Zalfred and Killy to limit their video proposal as they already have a permanent role to create monthly update videos. [**status**] todo
