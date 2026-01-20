@@ -106,3 +106,83 @@ The deadline will be end of February.
 #### Keywords/tags:
 - **topics covered:** interview transcription, interviews, transcription backlog, low token price, AGIX budgeting, Ambassador Program restructure, BGI Nexus, BGI Nexus working groups, BGI-25 Virtual Unconference, embedding AI ethics, Q1 2026 budget, research conclusions, academic journals, AI and ecology, human-in-the-loop
 - **emotions:** forward-looking., organised, quiet
+## Tuesday 13th January 2026
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], CallyFromAuron [**documenter**], PeterE, AshleyDawn, Tevo, Ayomi Shuga, UKnowZork, Omolola, Maxmilez, Alfred, Effiom
+- **Purpose:** Regular weekly GovWG meeting
+- **Working Docs:**
+  - [Governance Workgroup rolling agenda](https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing )
+  - [GovWG governance workgroup facilitation and documentation rota](https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?usp=sharing)
+  - [Gov WG  - collaborative documentation notes](https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?usp=sharing)
+
+#### Narrative:
+### Admin
+We confirmed who is willing to take documentation and facilitation slots this Quarter.
+We agreed to use collaborative documentation this Quarter as an experiment.
+
+We populated the meeting topics in the rota as far as we can, using the topics suggested in the rolling agenda doc. Several sessions this Quarter remain blank, but we feel topics will likely emerge as we go on - will reassess after end of January when we’ve had some initial discussions
+
+We agreed we'll create a GitHub board for GovWG - will use it to process paid tasks (currently, documentation,  facilitation, WG management) and to track active participation in meetings.
+
+### Feedback from Peter's meetings with DF, BGI Nexus and the Foundation
+From the Foundation side
+- Aim is to create a big community of devs for ASI Chain and OpenCog Hyperon. 
+- They’re keen to avoid duplication of effort; and move towards a more project-based approach e.g. for creation of educational materials - so it matters less who creates them and whether they come from DF, Ambassadors, or a collaborative effort. 
+- They also want to see inventories of what materials we already have.
+- “Offernet” approach - all parts of the community could put forward requests for tasks.
+- The Foundation want to set things up in such a way that scaling becomes possible
+- They might ask for specific outputs in a top-down way now and again, paid direct from them - but they are not intending to change the way the Ambassador Program works, so we’d retain our autonomy.
+- To progress all this, they are considering holding meetings across communities in Feb, March?
+
+We said:
+- The discussions we'll have in GovWG on people's inputs about the Program restructure could give Peter input that he could share in these ongoing meetings
+- The idea that anyone can contribute to tasks coming from the Foundation is great, but how do we avoid it becoming cut-throat and overly competitive? Something to consider.
+
+### Budget consent process for Q2 2026
+- We noted that the Program's budget allocation reduces annually in May, so there will need to be an adjustment to budget caps for Q3 - but we *could* proceed for Q2 with the same budget caps as now, and with no formal budget submission or consent process, if we wanted. 
+- Or we could imagine Q2 as an experimental Quarter, where we allocate budget for the Program as a whole, and then let new groupings be emergent for Q3?
+- Suggestion of the need for a design-thinking approach 
+- Suggestion of moving towards proposal-based and project-based work, perhaps as soon as Q2, to encourage us to collaborate across WGs? WGs are a way to organise, not a way to distribute funding?
+- Needs further discussion - until we have the "restructure" conversations, we don't know if all of our current Workgroups will continue into Q2
+- 
+
+
+
+#### Discussion Points:
+- Organising documentation and facilitation rota and documentation methodology for this Quarter
+- Planning topics for this Quarter's Governance sessions
+- Info from Peter on his recent meetings with sNET Foundation, DeepFunding and BGI Nexus RE restructuring
+- Will we hold a full budget consent process for WG budgets this Quarter
+- Will we maintain all the current WGs, with the same budget caps, for this Quarter? And for Q2 2026?
+- Tracking actual contribution/participation (rather than just attendance)?
+
+#### Decision Items:
+- We agreed to try collaborative documentation for this Quarter, i.e. people in the meeting all help to take notes that the documenter can use
+  - [**rationale**] Because documentation of Governance meetings has sometimes been poor recently; decisions not being captured, etc and sometimes a sense that the documenter hadn't fully understood what was being said
+  - [**opposing**] We noted that when we tried this approach in November, Kateri said she hadn't found it that useful - so it might not suit all documenters, particularly those who are already skilled.
+  - [**effect**] affectsOnlyThisWorkgroup
+- Documenters in future should ensure that they
+1) save the Zoom chat 
+2) ask for clarification during the meeting itself if something is said that they didn't follow
+  - [**rationale**] to ensure that summaries are relevant and clear, and include things mentioned in Chat
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed we do need a GitHub board for the future. 
+  - [**rationale**] Mainly for managing payments, as the whole community is aiming to move off Dework because it's no longer being maintained - Treasury will process payments directly from GitHub boards.
+
+But also to capture participation.
+
+  - [**effect**] affectsOnlyThisWorkgroup
+- We agreed that details of budget and budget consent process (if any) for Q2 2026 will need further discussion as part of the "Ambassador Program restructure" conversations
+  - [**rationale**] It will depend on whether we decide to maintain all the current workgroups for Q2, and whether we decide to continue with Workgroup-based funding or take a more project-based approach
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] Vani will populate the rota, and people can make changes if they are unable to do the session that falls to them in the rotation, and/or if we need specific skills/knowledge for a particular session [**assignee**] CallyFromAuron [**due**] 14 January 2026 [**status**] todo
+- [**action**] Vani will create us a GitHub board on the Ambassador Program organisation [**assignee**] CallyFromAuron [**due**] 20 January 2026 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program restructure, sNET foundation, DeepFunding, BGI Nexus, contribution, participation, Consent Process, Documentation, collaborative documentation, Budget caps, GitHub board, competition, project-based funding, workgroup-based funding, Q2 2026 budget
+- **emotions:** emotional, stressful, a lot, noisy, Educative, lessons from decentralised documentation, curiosity
