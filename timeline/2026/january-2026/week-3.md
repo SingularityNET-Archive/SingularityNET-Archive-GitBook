@@ -186,3 +186,39 @@ But also to capture participation.
 #### Keywords/tags:
 - **topics covered:** Ambassador Program restructure, sNET foundation, DeepFunding, BGI Nexus, contribution, participation, Consent Process, Documentation, collaborative documentation, Budget caps, GitHub board, competition, project-based funding, workgroup-based funding, Q2 2026 budget
 - **emotions:** emotional, stressful, a lot, noisy, Educative, lessons from decentralised documentation, curiosity
+## Thursday 15th January 2026
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** Omolola [**facilitator**], Tevo [**documenter**], PeterE, CallyFromAuron, Omolola, Tevo, Alfred Itodele, CollyPride, LadyTempestt, UKnowZork, esewilliams, AshleyDawn, guillermolucero, Jeffrey Ndarake, MaxMilez
+- **Purpose:** Space to discuss governance related topics for Ambassador Program
+- **Media link:** [Link](https://archives-dashboard.netlify.app/search?tab=meetings&workgroup=bcfadc9a-79d3-4ac0-816a-6b3405fd4009)
+- **Working Docs:**
+  - [Running Meeting Notes](https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?tab=t.rbgx0apr135d#heading=h.8e2ed6ultzr2)
+  - [Ambassador Program restructure: collated responses](https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?tab=t.0)
+  - [Faciliation Rota](https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?gid=851820755#gid=851820755)
+
+#### Narrative:
+During the workshop, we read Interview responses regarding restructuring input.
+And then provided insights into the initial thoughts we had after reading the input given.
+We managed to get through 3 questions out of 5 questions.
+While going trough input and having the conversations we took notes on running meeting notes doc
+
+
+#### Discussion Points:
+- Participants debated the main problem the restructure should solve. Many agreed the program’s work needs to be more targeted toward supporting SingularityNET (sNET) and emerging Artificial Superintelligence (ASI) communities.
+- Concerns were raised about fragmented efforts, decentralised content creation with no unified vision, and a lack of coordination or impact measurement.
+- Some favoured prioritising content creation and marketing for sNET and its spin-offs, suggesting regular news roundups and a stronger social media presence, while also noticing heavy emphasis on content creation without a unified approach risks burnout and diluted impact. It was also noted that while content creation remains important, there was agreement that output must be purposeful and we may need to scale back on quanitity.
+- Others argued the program should instead focus on governance experimentation, open‑source tools, and building reusable services for decentralised communities.
+- There were concerns about how tasks are assigned and whether people have the necessary skills. Limited budgets and low recognition of mentorship activities have led to uneven quality. Participants discussed the need for clearer standards, mentorship to upskill members, and better methods for verifying capabilities before assigning work.
+- Several contributors noted friction due to the absence of a common tech stack and shared processes. A focus emerged on using the ASI stack (e.g., SingularityNET’s tools, MeTTa language) to develop governance and community tools.
+- Action‑research and experimental methods were proposed for evaluating new governance methodologies, with an emphasis on documenting processes and sharing reusable templates and best practices.
+- Regional outreach via specific guilds (e.g., Africa, LatAm) should continue, but onboarding and education materials may need tailoring to local contexts and focusing more on SingularityNET products rather than general training.
+- With 21 workgroups currently in place, many felt the structure is unwieldy. Suggestions for consolidation varied: some proposed a core set of around ten essential groups some even less. 
+- Concerns were raised about how merging groups could affect smaller communities that have formed around certain workgroups. There was no consensus on which specific groups to eliminate, but general agreement that functions with overlapping or low‑quality outputs should be merged or redefined.
+- Many participants questioned whether restructuring would address resource allocation or quality issues. A key tension is balancing efficiency and unified direction with preserving the sense of community and collaboration that smaller groups foster.
+
+#### Keywords/tags:
+- **topics covered:** questions, Ambassador Program restructure
+- **emotions:** rushed, progressive
