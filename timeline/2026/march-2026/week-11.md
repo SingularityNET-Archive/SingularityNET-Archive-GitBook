@@ -44,3 +44,92 @@ https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/
 
 #### Keywords/tags:
 - **topics covered:** Ambassador Program restructure
+## Thursday 12th March 2026
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], lola [**documenter**], PeterE, CallyFromAuron, ayomishuga, guillermolucero, AshleyDawn, maxmillez, Tevo, Malik
+- **Purpose:** The ambassadorship restructure, Q2 budget allocation and proposals to be shared for consent. 
+- **Working Docs:**
+  - [GovWG governance workgroup facilitation and documentation rota](https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?usp=sharing )
+  - [Budget planning sheet](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing )
+  - [Ambassador Program Restructure 2026 proposal](https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/edit?usp=sharing )
+  - [How would YOU restructure the Ambassador Program?](https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing )
+  - [Sentiment survey July/Aug 2025 - results/analysis](https://docs.google.com/document/d/1w744aSE2GT2kGDLXyZeGXkMU1j2psAnvZPWSIwKQ5sM/edit?usp=sharing )
+  - [Ambassador Program Sentiment Analysis Report Nov 2025](https://docs.google.com/document/d/1H5-Yy14dije-oH2MtW34-yCUseYnQP2F0y6HpMsIKKI/edit?usp=sharing )
+  - [Ambassador Program restructure - collated responses](https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing )
+  - [sentiment analysis Nov 25, Vani ](https://docs.google.com/spreadsheets/d/17AtgHnMvMSghqsDg2yfmV9h1Jl85S58-pVIetucXbi8/edit?usp=sharing )
+
+#### Narrative:
+Reflection on the direction that the restructure is going - some misgivings have been voiced about the idea of moving substantiually to project-based work and no longer funding workgroups.
+
+
+#### WGs or projects?
+- Concerns about losing our culture if we just stop WGs
+- But not good to fund WGs that are producing bad work or non-useful work
+- We have sentiment analysis and other docs on what people think of different WGs - if we are continuing with WGs, should we revisit this?
+- How do we maximise what we have and ensure good work quality?
+- To help the transition to projects, could we fund some (not all) WGs to do a small, finite project?
+- Could we meaningfully fund WGs that are building stuff?
+
+#### What would a “project” mean?
+- something finite, no ongoing work?
+- sthg with defined outcomes?
+- hitting the aims of the program and sNET?
+
+#### Number of WGs and which WGs
+- Maybe some WGs could merge - how would we manage that? Internal decision from the WGs themselves, or something decided by the program as a whole?
+- Wariness about maintaining WGs in order to pay people for bad work
+- Wary of monopolies and idea that a particular WG are the only people with skills in that area of work - transition to projects might allow more skills-based assignmentt of tasks?
+- We have maybe sliced our budget too thin in the Ambassador program, always trying to ensure everyone gets a little bit of money, to the detriment of the program
+- Concerns on work quality, and on which (if any) WGs to maintain, could be clarified by looking again at sentiment analyses and past consent processes? We have not had time to review them in detail in this meeting - an extra meeting might be useful
+
+#### What are we trying to fix by maintaining WGs? 
+We originally said we were up for project based work, now getting cold feet - what is behind that? What is it that we want to maintain? Is it:
+- independently-managed budgets and space to experiemnt?
+- making sure everyone has a role and something to do, because we are a community and don’t want to abandon people?
+- Are we thinking of maintaining WGs purely because we are scared of change?
+- Are WGs being perceived as more transparent - giving updates etc - than projects would be? We would still do that in project-based work
+
+#### What tasks will be on offer via offernet? 
+Mostly individuals, or group tasks? Could be adhoc groups of people, not a WG?
+
+#### Consent timeline? Details of consent mechanism?
+Suggested timeline is
+First round to open at the end of today and close Tues 17th before GovWG meeting; second round to open end of Thurs 19th and close Tues 24th; 3rd round to follow if needed
+We're not ready for this yet - still need to firm up exactly what the proposal is for Q2
+We also still need to decide on some aspects of the mechanism, e.g.
+- Quorum?
+- Should objections should be anonymous
+- How to encourage participation absent members (e.g. via DM)
+
+#### Q1 2026 quarterly reports
+- Should we request these now from all WGs?
+- Is Gov-Dashboard ready to do this?
+
+
+
+#### Discussion Points:
+- WGs or projects, or both?
+- What would a "project" be like?
+- Number of WGs, and which ones?
+- What are we trying to fix by maintaining WGs? Wha are we afraid of losing if we stop funding hem?
+- Offernet
+- Q1 2026 quarterly reports
+
+
+#### Decision Items:
+- We will ask WGs to submit their Q1 2026 reports 
+  - [**rationale**] it was agreed some time ago that we'll use the same minimal template as we used last Quarter; and Governance Dashboard is already set up for this
+  - [**effect**] mayAffectOtherPeople
+- We are not yet ready to proceed wih the consent process with the dates that were suggested in previous meeings (First round to open at the end of today and close Tues 17th March before GovWG meeting; second round to open end of Thurs 19th March and close Tues 24th March; 3rd round to follow if needed)
+  - [**rationale**] because we have not yet reached consensus on whether to maintain WGs, or what tthe "resttructure" proposal is that we are looking for consent on, and furher discussion is needed
+  - [**effect**] mayAffectOtherPeople
+- We will have an ad-hoc meeting this Friday to look at the sentiment materials and the objections raised in past consent processes, and do some sensemaking of them
+  - [**rationale**] because questions are still unresolved about which WGs should be maintained, if any; and the sentiment analyses and past objections might give some indications, particularly on work quality.
+  - [**effect**] mayAffectOtherPeople
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program restructure, work quality, Ambassador Program culture, project based or WG based, sentiment analysis
+- **emotions:** reflective
