@@ -188,6 +188,7 @@ But also to capture participation.
 - **emotions:** emotional, stressful, a lot, noisy, Educative, lessons from decentralised documentation, curiosity
 ## Thursday 15th January 2026
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -222,3 +223,43 @@ While going trough input and having the conversations we took notes on running m
 #### Keywords/tags:
 - **topics covered:** questions, Ambassador Program restructure
 - **emotions:** rushed, progressive
+
+### African Guild
+
+- **Type of meeting:** Weekly
+- **Present:** Duke [**facilitator**], martinsoki [**documenter**], UKnowZork, Kateri, Alfred Itodele, esewilliams
+- **Purpose:** Bi-weekly Meeting of the African Guild
+- **Working Docs:**
+  - [SNET African Guild Q4 initiative](https://docs.google.com/presentation/u/0/d/1oV-pOLn2NyLvAcdBHnscmTu-E1B-a1Fdm3VNY5BlN4U/mobilepresent?pli=1&slide=id.g3afa51893dd_0_21)
+
+#### Narrative:
+Intro: The meeting began with Duke welcoming participants to the first meeting of 2026 and discussing the last quarter review.
+
+
+
+African Guild's Quarter Review:
+Duke reflected on the previous quarter's achievements, particularly highlighting the African Guild's essential role as identified in a recent evaluation exercise. He acknowledged the team's efforts in executing various projects despite constraints, commending individuals like Uknowzork and Ese for their contributions. Duke emphasized the need to focus on thriving rather than just surviving in the current quarter, hinting at a new idea that would require more team involvement.
+
+
+
+African Guild Restructuring Discussion:
+Duke encouraged team members to share their ideas and critiques on restructuring, emphasizing the importance of considering both individual perspectives and the needs of the African Guild workgroup. He highlighted the program's current dominance by Nigerians and stressed the need to leverage the group's resources and manpower, particularly in ASI education, while developing an African Guild-centered view on restructuring. Duke suggested that the next meeting focus on discussing restructuring from the African Guild perspective.
+
+
+Token Price Impact Meeting Restructure:
+The group discussed meeting restructuring due to token price impacts, deciding to maintain the current bi-weekly schedule for now while exploring options for the future. Duke emphasized the importance of minimizing the distance between ideation and execution in 2026, suggesting that this year will reward effort over expertise.
+
+
+#### Decision Items:
+- The group agreed to continue with bi-weekly meetings instead of one monthly meeting.
+  - [**rationale**] Allows more regular check-ins and progress tracking.
+  - [**opposing**] Monthly meetings would reduce time commitment.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Martinsoki to Continue engagement with Talking Drum Dispatch and promote readership [**assignee**] martinsoki [**due**] 29 January 2026 [**status**] in progress
+- [**action**] Roll over incomplete initiatives (AI videos, cross-guild collaboration, X Space) to Q1 2026 [**due**] 29 January 2026 [**status**] in progress
+
+#### Keywords/tags:
+- **topics covered:** Talking Drum Dispatch, Community Outreach, Meeting Restructure, Africa Guild Restructuring, Q4 2025 review
+- **emotions:** welcoming, progressive, Reflective
