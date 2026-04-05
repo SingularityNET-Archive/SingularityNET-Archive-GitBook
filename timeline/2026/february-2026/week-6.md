@@ -189,3 +189,36 @@ Suggestions were:
 - [**action**] Schedule a follow-up governance session focused on; Decision-making approach, Budget allocation models. [**status**] todo
 - [**action**] Define criteria for 1–2 pilot projects for Q2 [**status**] todo
 - [**action**] Clarify; evaluation  metrics for the experiment, Payment structures and timing, Clear boundaries between WG work and project-based work [**status**] todo
+## Friday 6th February 2026
+
+### Marketing Guild
+
+- **Type of meeting:** Monthly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Kateri, esewilliams, advanceameyaw, Gorga Siagian
+- **Purpose:** Marketing Guild monthly meeting
+
+- **Working Docs:**
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [SingularityNET Marketing Initiatives Proposal – 2026](https://docs.google.com/document/d/1sSkgFnh_B9NuzO0qWjgmrS598z83lvCTEwAHbotMgqQ/edit?usp=sharing)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.
+- Initiative Updates and Challenges:
+Lordkizzy addressed the group about the status of ongoing initiatives, noting that the Learn to Earn Bootcamp is not viable due to funding constraints from the Education Guild. With the token price dropping significantly, he proposed focusing on the Social Media Quiz Challenge and singularityNET Travels. Advanceameyaw agreed with this approach, suggesting they could manage the initiatives effectively under the current circumstances.
+- Social Media Quiz Challenge Planning:
+LordKizzy presented the social media quiz challenge campaign, which involves participants creating posts with specific phrases and tagging friends. The winners will be determined based on engagement metrics, and a report will be generated to assess the initiative's impact. Ese Williams highlighted the importance of starting the challenge early to ensure effective publicity and suggested coordinating with the Writers' WG for better execution.
+- Collaboration and Initiative Planning:
+Lordkizzy expressed support for collaborating with another WG, provided timelines align. He proposed a call with Kenichi to discuss the initiative's details and emphasized the urgency of starting content creation. Additionally, he raised concerns about Mikasa's commitment to the project and suggested considering OEP for a more serious role.
+- Discussion on Social Media Posting and Access Issues
+LordKizzy emphasized the importance of determining Mikasa's role in the project, especially given his absence from the meeting. He noted that OEP might be the only one with the necessary assets and access, as Ben does not have the logins. LordKizzy plans to reach out to OEP over the weekend to resolve the access issues.
+
+#### Action Items:
+- [**action**] Advanceameyaw will check for upcoming events in Ghana  [**assignee**] advanceameyaw [**due**] 6 March 2026 [**status**] todo
+- [**action**] Kateri to schedule a call with Kenichi to discuss collaboration on the social media quiz challenge initiative. [**assignee**] Kateri [**due**] 6 March 2026 [**status**] todo
+- [**action**] LordKizzy to reach out to OEP to discuss the social media posting role and determine if he can take over from Mikasa. [**assignee**] LordKizzy [**due**] 6 March 2026 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** Role clarification, Initiatives and Budget Planning
+- **emotions:**  Collaborative, Insightful,  informative
