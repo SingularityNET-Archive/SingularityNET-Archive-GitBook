@@ -186,6 +186,39 @@ But also to capture participation.
 #### Keywords/tags:
 - **topics covered:** Ambassador Program restructure, sNET foundation, DeepFunding, BGI Nexus, contribution, participation, Consent Process, Documentation, collaborative documentation, Budget caps, GitHub board, competition, project-based funding, workgroup-based funding, Q2 2026 budget
 - **emotions:** emotional, stressful, a lot, noisy, Educative, lessons from decentralised documentation, curiosity
+## Wednesday 14th January 2026
+
+### Education Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** Kateri [**facilitator**], martinsoki [**documenter**], Slate, osmium, LordKizzy, UKnowZork, esewilliams, Kateri, martinsoki
+- **Working Docs:**
+  - [ASI CREATE](https://docs.google.com/document/d/1ZfIaqZYLgnaYGHOXPUM7l08M89fUVbLO7qvCwG8w4vA/edit?hl=ID&tab=t.0#heading=h.z1m8p5djeh4n)
+  - [DRAFT: SingularityNET Ambassador Program EOY report 2025](https://docs.google.com/document/d/1PAY5TSzVLapdKwpKsg0cz5L2X0Qbo3wlZ59niahLTVA/edit?usp=sharing)
+
+#### Discussion Points:
+- The meeting focused on reviewing unfinished tasks from the previous quarter and planning activities for the current quarter, noting that no budget sheet was created last quarter. Updates were requested on ASI Academy tasks (ASI Learn, ASI Zero, ASI Create, and ASI Train). Martinsoki and LordKizzy presented there task on ASI ZERO and ASI LEARN. https://www.canva.com/design/DAG-QQmxX9I/YfVZBTqlzT13j_Ee_JBCuA/edit?utm_content=DAG-QQmxX9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+https://drive.google.com/file/d/1i_mQBMUbXzJr0mIGruacpliDvL_uDXvw/view?usp=drivesdk 
+
+
+
+
+
+The meeting reviewed remaining costs and deliverables for ASI Academy and the CCP (Certification Program). ASI Academy still has several videos and slides pending, with expected payouts of about 4,000 AGIX plus operational costs (~$200–$300), which largely exhausts the current budget. CCP content is complete, but execution, announcements, and participant rewards remain. Using Thinkific would cost ~$100/month, while a low-cost alternative using email, Google Drive, and Google Forms could reduce expenses to ~$80. Incentives (badges, NFTs, or monetary rewards) need clear definition to encourage participation.
+Due to limited funds, LordKizzy proposed collaborating with the Marketing Guild on CCP, potentially running a bootcamp to generate resources for the program. The team agreed to explore this collaboration while proceeding with ASI Academy this quarter and evaluating CCP execution for next quarter.
+
+#### Decision Items:
+- The team decided on collaborating with Marketing Guild on CCP (Certification Program).
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] All members assigned to ASI Academy tasks (ASI Create, ASI Train and ASI COMPUTE) to finalize and share progress updates. [**assignee**] esewilliams, Kateri, osmium [**due**] 4 February 2026 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** CCCP startup, ASI Academy, Q4 2025 budget
+- **emotions:**  Collaborative,  informative,  forward-looking
+
+
 ## Thursday 15th January 2026
 
 
