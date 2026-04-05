@@ -50,6 +50,38 @@ Review of Project-Based Funding Model
 - The group discussed quality assurance mechanisms, including milestone-based funding.
 - Participants discussed how to productively use the ideas generated in the session.
 Caution was expressed that AI-generated options require strong grounding and may not always save time or produce useful results without sufficient context.
+## Wednesday 4th February 2026
+
+### Education Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** osmium [**facilitator**], Gorga Siagian [**documenter**], martinsoki, Slate, LordKizzy, Kateri, esewilliams, UKnowZork, frosh, Gorga Siagian, osmium
+- **Purpose:** discussion on topic assignment for ASI ACADEMY project and collaboration between Education Guild and Marketing Guild.
+- **Working Docs:**
+  - [ASI <Train/>](https://www.canva.com/design/DAHAXYv4Wx4/oH2A2FB_23zHKkbcjZpq4g/edit)
+  - [ASI COMPUTE](https://docs.google.com/presentation/d/1U0Tl4TPlL_ONB9hhlRSwjXaP3TSGZT6MZLE6c2JEuAc/edit?slide=id.p1#slide=id.p1)
+
+#### Discussion Points:
+- Sharing opinions on Video Content and Payment. Osmium expressed his opinion regarding video length and payment fairness for content creation. Video length expectations versus payment created confusion, with original guidelines asking for a 10-minute video but actual videos ranging from 2 to 5 minutes. Payment of $40 per video was considered low compared to past rates of $250, raising fairness questions. Clarification on video creation standards emphasized that videos did not require heavy editing but should cover the presentation content adequately. The focus was on speaking through the presentation slides rather than producing a fully edited video.
+- Collaboration Between Education and Marketing Guilds. Marketing and Education Guilds explored a joint approach to execute overlapping initiatives despite funding limits. The marketing guild team offered a collaboration with education on the CCCP bootcamp but for this quarter the education guild is still hampered by a lack of budget due to the token price which is currently decreasing dramatically. For now the collaboration is still on hold to the next meeting to discuss it again.
+- ASI Training and Compute Presentations. Detailed presentations outlined the vision, technology, and future plans for ASI Train and ASI Compute platforms ASI Train overview emphasized domain-specific AI for robotics with a focus on adaptable and intelligent machines. ASI Compute was introduced as a decentralized AI compute infrastructure supporting the entire AI lifecycle.
+- Financial Status and Execution Feasibility. Education Guild Members reviewed treasury balances and discussed the feasibility of continuing initiatives under current financial constraints. Treasury balance analysis showed limited remaining funds after paying facilitators and covering operational costs. Cost-cutting and prioritization were considered to optimize remaining budget. Hosting costs and marketing announcements were main expense areas open to adjustment. The group acknowledged that while materials are ready, execution requires careful budgeting to avoid overspending.
+
+#### Decision Items:
+- We agreed that the collaboration with the marketing guild is on hold and the collaboration talks will be continued in the next meeting.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [**action**] Upload the full ASI ZERO video to the Education Guild channel [**assignee**] martinsoki [**due**] 4 March 2026 [**status**] todo
+- [**action**] Coordinate with Marketing Guild on CCP program execution feasibility and budget alignment [**assignee**] Kateri [**due**] 4 March 2026 [**status**] todo
+- [**action**] Discuss and potentially reschedule initiatives to next quarter due to funding constraints regarding the collaboration with Marketing Guild [**assignee**] Education Guild Members [**due**] 4 March 2026 [**status**] todo
+- [**action**] Collect ASI DATA topic assignments for presentations and videos [**assignee**] esewilliams [**due**] 6 February 2026 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ASI Academy, Budger Concern,  Team Collaboration , Q1 2026 budget
+- **emotions:**  Collaborative, Educative,  forward-looking
+
+
 ## Thursday 5th February 2026
 
 ### Governance Workgroup
