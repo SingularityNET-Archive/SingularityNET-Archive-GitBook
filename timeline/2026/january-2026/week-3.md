@@ -320,3 +320,35 @@ The second discussion framed ASI Compute as essential infrastructure, not a priv
 #### Keywords/tags:
 - **topics covered:** Future Planning, Ambassador Program restructure, ASI Academy, ASI compute, end of year report 2025
 - **emotions:** Educational,  Collaborative,  informative
+## Friday 16th January 2026
+
+### Marketing Guild
+
+- **Type of meeting:** Weekly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Gorga Siagian, Kateri, esewilliams, UKnowZork, Mikasa, advanceameyaw
+- **Purpose:** Marketing Guild monthly meeting
+
+- **Working Docs:**
+  - [Roles and Responsibility for Marketing Guild](https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing)
+  - [Meeting Agenda](https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing)
+  - [Budget Meeting Saturday 24th](https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk)
+  - [SingularityNET Marketing Initiatives Proposal – 2026](https://docs.google.com/document/d/1sSkgFnh_B9NuzO0qWjgmrS598z83lvCTEwAHbotMgqQ/edit?usp=sharing)
+
+#### Discussion Points:
+- Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.
+- Quarterly Performance and Initiative Planning:
+The meeting reviewed last quarter’s performance and outlined plans for the current quarter. Ese recapped key outcomes, noting successes such as the scavenger hunt team’s efforts and challenges including reduced social media visibility caused by the social media manager’s health issues. The team agreed to focus on selecting 2–3 initiatives for this quarter, aiming for three if feasible. They also acknowledged a decline in attendance and participation, which contributed to fewer global contributors.
+- Marketing Initiatives and Budget Planning:
+LordKizzy outlined plans for the upcoming quarter, proposing five initiatives to be delivered with a 12,000 AGIX budget. The discussion emphasized collaboration with the Education Guild on the CCP project, which requires a $300 budget. Three priority initiatives were proposed: Learn to End Boot Camp, Social Media Quiz Challenge, and SingularityNet Travels. Lower-cost alternatives, including Collaborative AI Projects and the Ambassador Program Spotlight Series, were also considered. Gorga sought clarification on the SingularityNet Travels budget, confirming it was allocated for three regions rather than a single region.
+- Quarterly Budget and Role Clarification:
+The discussion clarified budget allocations and role responsibilities for the upcoming quarter. LordKizzy explained that the budget is structured around four main roles—content creation, social media management, project management, and budget management—with dedicated initiative managers for each. Additional tasks like facilitation and documentation are funded under a separate budget allocation. Gorga received clarification on his position and confirmed his role as the content creator manager for the quarter.
+- Q1 Content Strategy and Initiatives — Summary
+The team discussed three Q1 initiatives: a social media challenge with a $250 budget, a writers’ collaboration project, and support for event attendance. They agreed to publish two existing podcast videos and shift focus to Twitter Spaces as the primary content format due to lower production costs. Potential collaboration with Deep Funding on merchandise was explored, and the team set a target of 5 million Twitter impressions to enable monetization. Due to time constraints, further discussions on the writers’ collaboration and other initiatives were deferred to asynchronous channels.
+
+#### Decision Items:
+- The team concluded by selecting three main initiatives for Q1 which are Learn to End Boot Camp, Social Media Quiz Challenge, and Singularity Net Travels.
+  - [**effect**] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- **topics covered:** Guild Restructuring, Quarterly report and budget, Role clarification, Initiatives and Budget Planning
+- **emotions:**  Understanding.,  Collaborative, Insightful
