@@ -66,6 +66,37 @@ Given the sentiment in favour of not completely disbanding, we agreed we will me
 #### Keywords/tags:
 - **topics covered:** interview transcription, low token price, BGI Nexus, research conclusions, future of the WG, Ambassador Program restructure, Foundation  liaison, offernet, ethics discussion sessions, project-based work, ethical audit, etthical oversight
 - **emotions:** Discursive, thoughtful,  forward-looking
+## Wednesday 4th March 2026
+
+### Education Workgroup
+
+- **Type of meeting:** Monthly
+- **Present:** LordKizzy [**facilitator**], martinsoki [**documenter**], Kateri, UKnowZork, Gorga Siagian, LordKizzy, martinsoki
+- **Purpose:** discussion on topic assignment for ASI ACADEMY project and collaboration between Education Guild and Marketing Guild.
+- **Working Docs:**
+  - [ASI <Train/>](https://www.canva.com/design/DAHAXYv4Wx4/oH2A2FB_23zHKkbcjZpq4g/edit)
+  - [ASI COMPUTE](https://docs.google.com/presentation/d/1U0Tl4TPlL_ONB9hhlRSwjXaP3TSGZT6MZLE6c2JEuAc/edit?slide=id.p1#slide=id.p1)
+
+#### Discussion Points:
+- Update on ASA Academy:
+The ASI Academy initiative has progressed significantly, with most events and foundational materials already developed. The project has now entered the execution phase, indicating readiness for implementation.
+During the discussion, LordKizzy stated that he has not received payment for the Blueprint Governance Workshop task.
+- Update on program restructure and budget allocation for Q2 2026:
+The allocation of the Q2 budget remains unresolved, particularly regarding the percentage designated for project-based work. While participants shared opinions, no final decision has been reached, and further clarification is expected in upcoming governance meetings.
+- Project Selection Criteria:
+It was highlighted that not all proposed projects for Q2 2026 will be approved. Selection will be guided by defined criteria, including:
+Strategic alignment with organizational goals.
+Learning and experimentation value.
+This ensures that only impactful and relevant projects are prioritized.
+
+#### Action Items:
+- [**action**] Gorga to write this quarter report [**assignee**] Gorga Siagian [**due**] 1 April 2026 [**status**] todo
+
+#### Keywords/tags:
+- **topics covered:** ASI Academy,  Team Collaboration , Ambassador Program restructure, Q2 2026 budget, Q2 2026 planning
+- **emotions:** Educative,  forward-looking,  insightful
+
+
 ## Thursday 5th March 2026
 
 ### Onboarding Workgroup
