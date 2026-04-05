@@ -189,6 +189,7 @@ But also to capture participation.
 ## Thursday 15th January 2026
 
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -263,3 +264,26 @@ The group discussed meeting restructuring due to token price impacts, deciding t
 #### Keywords/tags:
 - **topics covered:** Talking Drum Dispatch, Community Outreach, Meeting Restructure, Africa Guild Restructuring, Q4 2025 review
 - **emotions:** welcoming, progressive, Reflective
+
+### AI Sandbox/Think-tank
+
+- **Type of meeting:** Think-Tank
+- **Present:** osmium [**facilitator**], martinsoki [**documenter**], LordKizzy, CollyPride, Tevo, UKnowZork
+- **Purpose:** Regular biweekly meeting
+- **Working Docs:**
+  - [Presentation Template](https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  - [Agenda ](https://discord.com/channels/909843832491896832/1098295570898104340/1428347765469085777)
+  - [Compute Is the New Power: Who Controls Intelligence in 2026](https://docs.google.com/document/d/1QqXHNB585PjYWbHkl2MvimzDtAcw4h7DolR265Sah8g/edit?usp=sharing)
+  - [DRAFT: SingularityNET Ambassador Program EOY report 2025](https://docs.google.com/document/d/1PAY5TSzVLapdKwpKsg0cz5L2X0Qbo3wlZ59niahLTVA/edit?usp=sharing)
+
+#### In this meeting we discussed:
+- Introduction and welcome:
+The meeting began with Osmium welcoming everyone, after which discussions covered the Ambassador Program restructuring, the 2025 end-of-year report draft, and the ASI Compute framework. 
+
+Participants agreed that AI Sandbox and Think Tank belong under Research, in the 2025 end-of-year report while Archives fits better under Governance or Program/Project Management, since research and experimentation cut across all workgroups. The proposed structure was seen as acceptable but simplistic, mainly for reporting and possible budget alignment, and should remain a draft pending wider governance consensus.
+
+The second discussion framed ASI Compute as essential infrastructure, not a privilege or product. Centralized compute was identified as a major risk—creating single points of failure, power concentration, censorship, and inequality. ASI Compute was presented as a hybrid, decentralized-by-design system enabling fault-tolerant, resource-aware intelligence through dynamic allocation, governance mechanisms, and ethical oversight. The session was clarified as a think-tank discussion for strategic input, not onboarding or education, with further discussion planned.
+
+#### Keywords/tags:
+- **topics covered:** Future Planning, Ambassador Program restructure, ASI Academy, ASI compute, end of year report 2025
+- **emotions:** Educational,  Collaborative,  informative
