@@ -6,6 +6,7 @@ description: 9th March 2026 to 15th March 2026
 
 ## Tuesday 10th March 2026
 
+
 ### Governance Workgroup
 
 - **Type of meeting:** Weekly
@@ -44,6 +45,45 @@ https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/
 
 #### Keywords/tags:
 - **topics covered:** Ambassador Program restructure
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], automated, CallyFromAuron [**documenter**], Alfred Itodele, Ayomi Shuga, delphi burton, guillermolucero, PeterE, CallyFromAuron, CollyPride, Haley
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 182
+- **Working Docs:**
+
+
+#### Timestamped video:
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](undefined\&t=0s) Introductions
+[01:14](undefined\&t=74s) Discussion On Project Proposal Clarity
+[08:53](undefined\&t=533s) Announcements And Mentions
+[13:47](undefined\&t=827s) Governance Dashboard Update
+[34:38](undefined\&t=2078s) Ambassador Program Restructure 
+[01:04:39](undefined\&t=3879s) Close
+
+#### Town Hall Summary:
+Invisible Work Hero of the Week - a mention for Ayomi, for making slides for Governance WG - "good idea and unrewarded financially".
+
+Further discussion of the Ambassador Program restructure and the proposed move to project-based funding. Reviewed initial proposals in the budget spreadsheet. We should make expected outputs and outcomes clearer, and link relevant resources. Colleen will add contextual material for her proposal to training the Governace Dashboafrd's AI assistant on her Threshold Guardian Protocol.
+
+Guillermo demonstrated the redesigned Governance Dashboard: visual improvements, links to Treasury values and market price data, support for user IDs with potential on‑chain hashing for proposals, and enhanced proposal review and notification features planned to integrate with Discord and other platforms. 
+There are currently 65 users (not all are Core Contributors or even participants in the Ambassador Program - some users from outside were invited to test it).
+Priorities for the next iteration are incorporating analytics, validation of deliverables, and notification integration.
+Guillermo also presented the AI assistant decision framework, attempted a live query demo that faced intermittent server issues, and stressed the need to  give the AI assistan a background knowledge base and ethical prompts. Participants discussed deployment options including decentralized compute and NuNet.
+
+We are still awaiting info from the sNET Foundation on exactly how the proposed Offernet approach will work.
+
+We also still need to decide how projects will be selected, and how to frame the transition to project-based work as an experiment and evaluate it.
+
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program restructure, singularitynet foundation, Governance Dashboard, invisible work heroes, Threshold Guardian protocol, experiment, experimental method
+
+
 ## Thursday 12th March 2026
 
 ### Governance Workgroup
