@@ -66,6 +66,49 @@ Given the sentiment in favour of not completely disbanding, we agreed we will me
 #### Keywords/tags:
 - **topics covered:** interview transcription, low token price, BGI Nexus, research conclusions, future of the WG, Ambassador Program restructure, Foundation  liaison, offernet, ethics discussion sessions, project-based work, ethical audit, etthical oversight
 - **emotions:** Discursive, thoughtful,  forward-looking
+## Tuesday 3rd March 2026
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], automated, CallyFromAuron [**documenter**], Alfred Itodele, Ayomi Shuga, guillermolucero, Haley, Malik, Mayor Defi, PeterE, Tevo, CallyFromAuron, AshleyDawn, Tina Shriver, CollyPride
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 181
+- **Working Docs:**
+
+
+#### Timestamped video:
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](undefined\&t=0s) Welcome And Introductions
+[05:49](undefined\&t=349s) Agenda And Ambassador Program Updates
+[18:11](undefined\&t=1091s) Haley's Thoughts On Cross-ecosystem Alignment
+[26:17](undefined\&t=1577s) Coordination Challenges & Community Contributions
+[35:36](undefined\&t=2136s) Collaboration Funding, System Integration And Nunet
+[42:42](undefined\&t=2562s) Next Steps: Tooling, Offernet, And A Coordinated Framework
+[57:16](undefined\&t=3436s) Closing Thoughts
+
+#### Town Hall Summary:
+Discussed the ongoing Ambassador Program restructure, and particularly, how recurring administrative tasks should be handled. Should each project budget for admin, or should a separate "Admin" workgroup provide it? 
+People can add project ideas to the budget spreadsheet.
+
+Haley Lowy of BGI Nexus gave her thoughts on how closer collaboration and coordination between Ambassador Program,  DEEP and BGI Nexus might look.She framed it as an opportunity to preserve community innovations and focus effort on R&D, hackathons, and developer growth; and mentioned the need for a single, simple operational interface where collaboration could happen. 
+
+Concerns were raised about culture, ownership, and burnout if coordination is centralized; also, tooling overlap and what degree of integration is needed.
+
+Tevo asked whether coordination work would be funded. Haley said an operations-layer budget exists and Ambassador Program budgets would not be repurposed for infrastructure. Foir now, coordination will continue via Mattermost and Discord channels.
+
+Suggestion to compile an inventory and comparison matrix of services in use by DEEP, BGI Nexus and Ambassadors.
+
+Participants clarified relationships with NuNet as a separate legal entity.
+
+
+
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program restructure, shared tooling, collaboration layer, tool inventory, tool comparison, Deep Funding, BGI Nexus, community culture
+
+
 ## Wednesday 4th March 2026
 
 ### Education Workgroup
