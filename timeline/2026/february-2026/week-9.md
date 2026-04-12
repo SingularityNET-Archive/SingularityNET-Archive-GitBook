@@ -4,6 +4,56 @@ description: 23rd February 2026 to 1st March 2026
 
 # Week 9
 
+## Tuesday 24th February 2026
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], automated, CallyFromAuron [**documenter**], guillermolucero, Jeffrey Ndarake, Maxmilez, Tevo, CallyFromAuron, CollyPride, PeterE
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 180
+- **Working Docs:**
+
+
+#### Timestamped video:
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](undefined\&t=0s) Intro 
+[06:42](undefined\&t=402s) Agenda
+[07:44](undefined\&t=464s) Program Restructure Discord Polls
+[14:39](undefined\&t=879s) Invisible Work Hero Of The Week
+[16:57](undefined\&t=1017s) Updates From Knowledge Base, Coordination Manager Tool & Treasury
+[20:24](undefined\&t=1224s) Moderator Workgroup Update & Coordination Tool Monetization
+[28:24](undefined\&t=1704s) R&d And Latam Updates:
+[43:46](undefined\&t=2626s) Colleen's Openclaw Framework Update & Ethical Concerns
+[46:36](undefined\&t=2796s) Archives & Ai Ethics Wg Updates 
+[51:13](undefined\&t=3073s) Open Discussion: Ben Goertzel In The Jeffrey Epstein Files
+[01:14:03](undefined\&t=4443s) Closing 
+
+#### Town Hall Summary:
+Workgroup updates from Governance, Treasury, Knowledge Base, Co-Ordination Manager Tool, Moderators, R&D (Gov-Dash tool), LatAm, Archives and AI Ethics.
+
+Gov WG is running 3 polls in their Discord channel about the Ambassador Program restructure - not decision-making, just a temperature check. 
+
+On the coordination manager tool, we discussed ASI stack integrations, possible monetization, and how agent APIs could populate meeting data. 
+
+On the Gov-Dash tool, R&D have deferred ASI wallet integration pending higher‑priority features, and trialled an agent to validate workflows and security tagging. 
+
+Archives WG has been planning for the possible transition to a new dashboard-based meeting summary tool, and reviewing learning from the last 2 years to analyse requirements and best practice for summaries.
+
+AI Ethics WG is working on transcripts of their research interviews.
+
+Next WG Sync call - 2nd March.
+
+The group also addressed public controversy about Ben Goertzel, SingularityNET's CEO, appearing in the Jeffrey Epstein files because he received funding from Epstein several times and communicated with him, and Ben's recent blogpost about the issues (https://bengoertzel.substack.com/p/goertzel-vs-epstein) 
+
+Community response; guilt by association; forgiveness; did Goertzel minimize Epstein's crimes; AI/human collaboration; how decentralization may make it less likely for any individual's actions to damage the organisation as a whole, since nobody is the central focus or leader.
+
+
+#### Keywords/tags:
+- **topics covered:** Workgroup updates, Coordination manager, Governance Dashboard, Archives WG, WG Sync call, Ben Goertzel, Jeffrey Epstein, Epstein files, Decentralization
+
+
 ## Wednesday 25th February 2026
 
 ### Knowledge Base Workgroup
