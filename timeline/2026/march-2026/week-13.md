@@ -4,6 +4,58 @@ description: 23rd March 2026 to 29th March 2026
 
 # Week 13
 
+## Tuesday 24th March 2026
+
+### Ambassador Town Hall
+
+- **Type of meeting:** Weekly
+- **Present:** PeterE [**facilitator**], NA [**documenter**], Alfred Itodele, Ayomi Shuga, kenichi, Peter, Tevo, CallyFromAuron
+- **Purpose:** Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing
+- **Town Hall Number:** 184
+- **Working Docs:**
+
+
+#### Timestamped video:
+The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.
+
+[00:00](undefined\&t=0s) Introductions & Administrative Updates
+[01:25](undefined\&t=85s) Permissions & Escaping Lambs
+[02:30](undefined\&t=150s) Meeting Recording And New Attendees
+[05:37](undefined\&t=337s) Governance, Project Catalyst & Restructuring History
+[12:00](undefined\&t=720s) Restructuring: Permanent Beta & Auditing
+[16:15](undefined\&t=975s) Measuring Marketing Effectiveness & Metrics
+[22:30](undefined\&t=1350s) Marketing Strategy & Project-driven Promotion
+[35:00](undefined\&t=2100s) Audience Engagement & Local Outreach Vs. Online
+[40:00](undefined\&t=2400s) Budget Constraints & Rewarding Contributions
+[52:00](undefined\&t=3120s) Budget Distribution Models & Workgroup Structure
+[01:06:45](undefined\&t=4005s) Oversight, Impact Measurement & "awareness Group" Proposal
+[01:16:50](undefined\&t=4610s) Local Outreach: Project Vs. Awareness Group
+[01:35:24](undefined\&t=5724s) Developer Focus & Awareness Group's Role
+[02:16:30](undefined\&t=8190s) Next Steps: Proposal & Tools For Outreach
+
+#### Town Hall Summary:
+The meeting reviewed Ambassador Program logistics, quarterly reporting expectations, governance history, and marketing and analytics needs for outreach and developer recruitment. 
+
+WGs should add their Q1 2026 mini reports to the Governance dashboard as soon as possible, but deadline will be after Easter.
+
+Should the Ambassador program adopt a more action-research approach to assess the result of restructures and other changes?
+ 
+Tracking tactics — include a question in Zoom registration, Zoom polls, UTM-style parameters, Bitly shortlinks, using the coordination manager page to measure clicks and conversions.
+
+Marketing budget allocation: should projects produce and post their own publicity or should a central team do the posting, or even create the content? Should we consolidate Marketing, Writers, and Video WGs into a new WG. Kenichi arrived halfway through the meeting and argued for continued marketing activity; he will draft a concise proposal for this and add it to the GovWG restructure doc.  
+
+Could include shifting funds from content production to local outreach and developer recruitment.
+
+Different budget allocation models - project-style grants, retrospective funding tied to outcomes/impact, etc.
+
+Tevo noted some issues with concurrency in the Coordination Manager, and bot work.
+
+
+#### Keywords/tags:
+- **topics covered:** Ambassador Program restructure, coordination manager, publicity, local outreach, developer onboarding
+- **emotions:** long
+
+
 ## Wednesday 25th March 2026
 
 ### Archives Workgroup
