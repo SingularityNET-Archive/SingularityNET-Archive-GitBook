@@ -97,6 +97,7 @@ All valid objections will be discussed, even if raised by only one person; and t
 - **emotions:**  Collaborative, Constructive, some skepticism, pragmatic
 ## Tuesday 16th September 2025
 
+
 ### Ambassador Town Hall
 
 - **Type of meeting:** Weekly
@@ -130,6 +131,43 @@ The meeting included a discussion on recruiting Singularity Net ambassadors, wit
 #### Keywords/tags:
 - **topics covered:** governance, budgets, tooling, Deep Funding
 - **emotions:** engaging
+
+
+
+### Governance Workgroup
+
+- **Type of meeting:** Weekly
+- **Present:** UKnowZork [**facilitator**], martinsoki [**documenter**], CallyFromAuron, Effiom, Ayomi Shuga, Alfred Itodele, PeterE, guillermolucero, Malik, Andrew, AshleyDawn, Kateri, Omolola, Santamaria, Rems, Sucre n Spice
+- **Purpose:** Weekly Governance Meeting
+- **Working Docs:**
+  - [ Application to join the "External Fundraising" temporary WG](https://docs.google.com/spreadsheets/d/1igyzvkAPbhe4ydKih4_gJIZtGcw-rAGf_eYwXeYymXU/edit?usp=sharing)
+
+#### Narrative:
+The meeting discussed selection processes for candidates that applied to be part of the fundraising temporary workgroup, and determining a fair selection process, as only a few positions are available. 
+
+Five people (uknowzork, Ayomi, malik, kateri & rems) applied for the position of trainee, while three people applied as experienced fundraisers (Alfred, Ese & Vani) and it was agreed that we have space for 3 experienced fundraisers and 2 trainees. 
+
+We agreed to make the decision via an anonymous ranked selection, and participants selected should be announced on the decision-to-be-made Discord channel and one week should be allowed for potential objections.
+
+We reviewed the applications and discussed what we might consider when selecting - experience, transferrable skills, capability, reputation, etc. Vani suggested that for fairness, we should consider applicants' fundraising experience beyond just Web3. Ayomi presented her application, detailing her relevant experiences (both while she was in school and as a whole) and expressing her eagerness to learn.
+
+The anonymous selection process was carried out using Zoom's voting tool. Initially, there was some confusion in interpreting the results, possibly due to discrepancies in the ranking submissions. However, after review, the queries were resolved
+
+The 2 trainees were confirmed as Malik and Ayomi; and the three experienced fundraisers were Alfred, Ese, and Vani would be included in the final announcement post. Core Contributors were encouraged to share any objections or suggestions following the announcement, to ensure transparency and inclusivity.
+
+
+#### Decision Items:
+- We agreed that final selected candidates will be announced on the decision-to-be-made channel on Discord to maintain transparency and be open for opposition
+  - [**effect**] mayAffectOtherPeople
+- It was agreed that an anonymous rank-based selection process would be the fairest approach.
+  - [**effect**] mayAffectOtherPeople
+
+#### Action Items:
+- [**action**] UknowZork will ensure that the decision made during the call is communicated to the contributors for any objections. [**assignee**] UKnowZork [**due**] 16 September 2025 [**status**] cancelled
+
+#### Keywords/tags:
+- **topics covered:** trainees, fundraiser,  Mentoring, capability, temporary fundraising workgroup, selection for roles, exprience, assessing skills
+- **emotions:**  Collaborative,  Satisfaction 
 
 
 ## Wednesday 17th September 2025
